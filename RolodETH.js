@@ -1,3 +1,4 @@
+var fs = require('fs');
 function RolodETH(chainID) {
     this.chainID = chainID;
     this.v = {}
@@ -36,6 +37,12 @@ RolodETH.prototype.count = function () {
 
 RolodETH.prototype.toString = function () {
     console.log(this.v)
+}
+
+RolodETH.prototype.toFile = function(path) {
+    fs.writeFile(path, JSON.stringify(this.v), function() {
+
+    });
 }
 
 module.exports = RolodETH;

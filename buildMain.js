@@ -15,5 +15,5 @@ const UniswapPairsList = new UniswapTokenList("https://raw.githubusercontent.com
     console.log(RolodETH.count())
     await UniswapPairsList.addTo(RolodETH)
     console.log(RolodETH.count())
-
+    RolodETH.toFile("latest.json")
 })();
