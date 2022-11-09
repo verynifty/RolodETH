@@ -1,0 +1,6 @@
+{
+  "propertyName": "Tether",
+  "erc20_symbol": "USDT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/325/thumb/tether.png?1667933073"
+}

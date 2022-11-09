@@ -1,0 +1,6 @@
+{
+  "propertyName": "Coin Artist",
+  "erc20_symbol": "COIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12375/thumb/coin_artist_logo.png?1599403918"
+}

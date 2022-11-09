@@ -1,9 +1,11 @@
-var fs = require('fs');
-function RolodETH(chainID) {
-    this.chainID = chainID;
-    this.v = {}
-}
 
+const KFS = require("key-file-storage").default;
+
+function RolodETH(filename, chainID) {
+    console.log(KFS)
+    this.chainID = chainID;
+    this.kfs = KFS(filename)
+}
 
 RolodETH.prototype.createIfNotExists = function (address) {
     const nAddress = this.normalizeAddress(address);
@@ -18,31 +20,47 @@ RolodETH.prototype.normalizeAddress = function (address) {
     return address.toLowerCase()
 }
 
-RolodETH.prototype.addProperty = function (address, propertyName, value) {
+RolodETH.prototype.addProperty = async function (address, propertyName, value) {
+    if (value == null || value == "") {
+        return;
+    }
     const nAddress = this.normalizeAddress(address);
-    this.createIfNotExists(address);
-    this.v[nAddress][propertyName] = value;
+    const existing = this.kfs[nAddress];
+    if (existing == null) {
+        this.kfs[nAddress] = {
+            propertyName: value,
+        }
+    } else {
+        existing[propertyName] = value;
+        this.kfs[nAddress] = existing;
+    }
+
 }
 
 RolodETH.prototype.addTag = function (address, tagName) {
+    if (tagName == null || tagName == "") {
+        return;
+    }
     const nAddress = this.normalizeAddress(address);
 
-    this.createIfNotExists(address);
-    this.v[nAddress].tags.push(tagName);
+   // this.createIfNotExists(address);
+   // this.v[nAddress].tags.push(tagName);
 }
 
 RolodETH.prototype.count = function () {
-    return Object.keys(this.v).length;
+
 }
 
-RolodETH.prototype.toString = function () {
-    console.log(this.v)
+RolodETH.prototype.toString = async function () {
+
+
+}
+
+RolodETH.prototype.vacuum = async function () {
 }
 
 RolodETH.prototype.toFile = function(path) {
-    fs.writeFile(path, JSON.stringify(this.v), function() {
 
-    });
 }
 
 module.exports = RolodETH;

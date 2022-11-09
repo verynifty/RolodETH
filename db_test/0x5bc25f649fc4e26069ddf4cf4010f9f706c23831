@@ -1,0 +1,6 @@
+{
+  "propertyName": "DefiDollar",
+  "erc20_symbol": "DUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12333/thumb/defidollar_logo.png?1599116360"
+}

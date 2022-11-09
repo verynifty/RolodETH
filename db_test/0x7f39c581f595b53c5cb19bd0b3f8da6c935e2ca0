@@ -1,0 +1,6 @@
+{
+  "propertyName": "Wrapped stETH",
+  "erc20_symbol": "WSTETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443"
+}

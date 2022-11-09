@@ -1,0 +1,6 @@
+{
+  "propertyName": "handleUSD",
+  "erc20_symbol": "FXUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26954/thumb/fxUSDLogo_200px-200px.png?1660988882"
+}
