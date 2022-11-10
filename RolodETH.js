@@ -27,9 +27,11 @@ RolodETH.prototype.addProperty = async function (address, propertyName, value) {
     const nAddress = this.normalizeAddress(address);
     const existing = this.kfs[nAddress];
     if (existing == null) {
-        this.kfs[nAddress] = {
-            propertyName: value,
-        }
+        let obj = {
+            tags: []
+        };
+        obj[propertyName] = value;
+        this.kfs[nAddress] = obj;
     } else {
         existing[propertyName] = value;
         this.kfs[nAddress] = existing;
@@ -42,9 +44,17 @@ RolodETH.prototype.addTag = function (address, tagName) {
         return;
     }
     const nAddress = this.normalizeAddress(address);
-
-   // this.createIfNotExists(address);
-   // this.v[nAddress].tags.push(tagName);
+    const existing = this.kfs[nAddress];
+    if (existing == null) {
+        this.kfs[nAddress] = {
+            tags: [tagName]
+        }
+    } else {
+        if (existing.tags.indexOf(tagName) == -1) {
+            existing.tags.push(tagName);
+            this.kfs[nAddress] = existing;
+        }
+    }
 }
 
 RolodETH.prototype.count = function () {
@@ -56,10 +66,7 @@ RolodETH.prototype.toString = async function () {
 
 }
 
-RolodETH.prototype.vacuum = async function () {
-}
-
-RolodETH.prototype.toFile = function(path) {
+RolodETH.prototype.toFile = function (path) {
 
 }
 

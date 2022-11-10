@@ -25,8 +25,6 @@ OpenSeaAPI.prototype.addTo = async function (RolodETH) {
         }
         hasMore = collections.length == limit;
         offset += limit
-        //RolodETH.toString()
-        console.log("FETCHING", offset, RolodETH.count())
     }
    
 }
