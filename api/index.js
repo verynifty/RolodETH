@@ -6,8 +6,8 @@ const RolodETH = new (require("../RolodETH"))(process.cwd() + "/data", 1);
 
 console.log(process.cwd())
 app.get('/address/:address', (req, res) => {
-    res.send(process.cwd())
-    // res.json(RolodETH.get(req.params.address))
+    //res.send(process.cwd())
+    res.json(RolodETH.get(req.params.address))
 })
 
 app.listen(port, () => {
