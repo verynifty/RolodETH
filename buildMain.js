@@ -9,14 +9,16 @@ const CoingeckoTokenList = new UniswapTokenList("https://tokens.coingecko.com/un
 const MyCryptoTokenList = new UniswapTokenList("https://uniswap.mycryptoapi.com/");
 const UniswapPairsList = new UniswapTokenList("https://raw.githubusercontent.com/jab416171/uniswap-pairtokens/master/uniswap_pair_tokens.json");
 
+const MyEtherWalletDarkListLabels = new JSONImporter("https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/addresses/addresses-darklist.json");
 const estherscanLabels = new JSONImporter("https://raw.githubusercontent.com/brianleect/etherscan-labels/main/combined/combinedLabels.json");
 const OS = new OpenSeaAPI();
-
 const Reservoir = new reservoir();
 
 
 (async () => {
-    
+
+    await MyEtherWalletDarkListLabels.addTo(RolodETH);
+    return;
     await CoingeckoTokenList.addTo(RolodETH)
     await estherscanLabels.addTo(RolodETH);
     await Reservoir.addTo(RolodETH);
