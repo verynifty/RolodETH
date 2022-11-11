@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yearn Finance DOT",
+  "erc20_symbol": "YFDOT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12791/thumb/logo_%2815%29.png?1602580328"
+}

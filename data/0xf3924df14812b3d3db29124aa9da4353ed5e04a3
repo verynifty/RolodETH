@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Easticoin",
+  "erc20_symbol": "ESTI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12988/thumb/EST2.png?1604093746"
+}

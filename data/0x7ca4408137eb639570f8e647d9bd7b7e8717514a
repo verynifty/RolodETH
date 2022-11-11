@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Alpaca City",
+  "erc20_symbol": "ALPA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13070/thumb/alpaca_logo.png?1604895862"
+}

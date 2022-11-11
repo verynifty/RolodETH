@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Blockify Games",
+  "erc20_symbol": "BLOCKIFY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25693/thumb/cmc-logo.png?1653382345"
+}

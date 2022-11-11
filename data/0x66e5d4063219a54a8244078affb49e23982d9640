@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "UZURAS",
+  "erc20_symbol": "UZZ",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7306/thumb/uzura.png?1572096519"
+}

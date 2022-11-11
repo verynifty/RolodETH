@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wrapped Moon Cats",
+  "erc20_symbol": "MCAT20",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14387/thumb/MCAT20.png?1615803341"
+}

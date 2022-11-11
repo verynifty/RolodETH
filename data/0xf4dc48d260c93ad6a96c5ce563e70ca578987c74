@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Babylon Finance",
+  "erc20_symbol": "BABL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20049/thumb/favicon-260x260.png?1636426809"
+}

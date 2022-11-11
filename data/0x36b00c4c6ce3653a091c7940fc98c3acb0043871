@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Shibamon",
+  "erc20_symbol": "SHIBAMON",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19891/thumb/cm170VEL_400x400.jpg?1636093140"
+}

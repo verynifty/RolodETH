@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Realio Network",
+  "erc20_symbol": "RIO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12206/thumb/0.jpg?1598083003"
+}

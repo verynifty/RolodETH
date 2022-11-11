@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SophiaTX",
+  "erc20_symbol": "SPHTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1443/thumb/sophiatx.png?1548609885"
+}

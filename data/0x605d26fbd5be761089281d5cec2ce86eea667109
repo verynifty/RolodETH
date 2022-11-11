@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Digital Standard Unit",
+  "erc20_symbol": "DSU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17482/thumb/photo_2021-08-03_09-24-16.png?1627953917"
+}

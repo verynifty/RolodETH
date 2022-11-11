@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SYLTARE",
+  "erc20_symbol": "SYL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26962/thumb/syl_tokenlogo.png?1661078949"
+}

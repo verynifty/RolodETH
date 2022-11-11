@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gain DAO",
+  "erc20_symbol": "GAIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26570/thumb/GAIN_listing_200.png?1658816125"
+}

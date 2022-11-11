@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Acent",
+  "erc20_symbol": "ACE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15211/thumb/acent-logo.png?1620108963"
+}

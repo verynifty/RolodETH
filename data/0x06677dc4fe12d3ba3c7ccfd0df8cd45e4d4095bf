@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Work Quest",
+  "erc20_symbol": "WQT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14662/thumb/WQT-1_%281%29.png?1627652762"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Newscrypto Coin",
+  "erc20_symbol": "NWC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9805/thumb/Tu1_NI3s_%281%29.png?1614745476"
+}

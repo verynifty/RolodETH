@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "1Sol",
+  "erc20_symbol": "1SOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21615/thumb/YyGDie9f_400x400.jpg?1639610633"
+}

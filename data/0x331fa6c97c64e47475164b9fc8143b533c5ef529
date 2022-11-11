@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "EXMR FDN",
+  "erc20_symbol": "EXMR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3285/thumb/exmr_transparent.png?1604655926"
+}

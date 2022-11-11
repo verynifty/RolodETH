@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "King DAG",
+  "erc20_symbol": "KDAG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10809/thumb/3xcLUorv_400x400.jpg?1591000563"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Decentralized Nations",
+  "erc20_symbol": "DENA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22167/thumb/denations.PNG?1641166526"
+}

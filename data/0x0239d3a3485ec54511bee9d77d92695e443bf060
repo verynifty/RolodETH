@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bill",
+  "erc20_symbol": "BILL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18480/thumb/photo_2021-08-16_23-27-37.jpg?1632151517"
+}

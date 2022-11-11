@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Public Index Network",
+  "erc20_symbol": "PIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/241/thumb/pin.jpeg?1623054253"
+}

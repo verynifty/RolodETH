@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ambire Wallet",
+  "erc20_symbol": "WALLET",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23154/thumb/wallet.PNG?1643352408"
+}

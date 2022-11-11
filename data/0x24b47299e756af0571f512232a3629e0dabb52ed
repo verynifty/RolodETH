@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "concertVR",
+  "erc20_symbol": "CVT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2914/thumb/cvt.png?1547037094"
+}

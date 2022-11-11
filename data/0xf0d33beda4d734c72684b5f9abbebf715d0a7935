@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "NuNet",
+  "erc20_symbol": "NTX",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/20950/thumb/8Zb2W2Wi_400x400.png?1638137477"
+}

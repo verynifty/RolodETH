@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Balancer Boosted Aave DAI",
+  "erc20_symbol": "BB-A-DAI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25883/thumb/bb-a-dai.png?1654347111"
+}

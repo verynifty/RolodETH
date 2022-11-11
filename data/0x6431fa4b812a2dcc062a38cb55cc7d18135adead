@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "RankerDao",
+  "erc20_symbol": "RANKER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23902/thumb/ranker.png?1645676549"
+}

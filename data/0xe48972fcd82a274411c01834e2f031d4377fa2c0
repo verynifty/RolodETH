@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "2key network",
+  "erc20_symbol": "2KEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6090/thumb/2key.png?1591591830"
+}

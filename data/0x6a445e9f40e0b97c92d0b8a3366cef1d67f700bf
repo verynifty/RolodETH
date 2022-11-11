@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Fidu",
+  "erc20_symbol": "FIDU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25944/thumb/GFI-asset-icon.png?1654827482"
+}

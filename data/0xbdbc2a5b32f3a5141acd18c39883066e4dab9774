@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Emirex",
+  "erc20_symbol": "EMRX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/9507/thumb/download.png?1568589320"
+}

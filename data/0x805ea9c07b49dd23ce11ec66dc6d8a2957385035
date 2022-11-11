@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Transient",
+  "erc20_symbol": "TSCT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19061/thumb/200x200_%2833%29.png?1634266319"
+}

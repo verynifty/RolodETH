@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Litentry",
+  "erc20_symbol": "LIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13825/thumb/logo_200x200.png?1612153317"
+}

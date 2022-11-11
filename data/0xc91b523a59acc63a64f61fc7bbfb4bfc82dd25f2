@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Multiverse",
+  "erc20_symbol": "AI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16329/thumb/multiverse_logo_full_color_rgb_200px_72ppi.png?1652011384"
+}

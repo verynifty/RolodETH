@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Smart Electrum",
+  "erc20_symbol": "SELECT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25131/thumb/NRKjS5Cm_400x400.jpg?1650420526"
+}

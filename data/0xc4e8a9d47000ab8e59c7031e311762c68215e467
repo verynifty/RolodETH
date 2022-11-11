@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "STARX",
+  "erc20_symbol": "STARX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8417/thumb/starworks.PNG?1640681958"
+}

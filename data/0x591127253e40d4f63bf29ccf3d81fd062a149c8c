@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TTX Metaverse",
+  "erc20_symbol": "XMETA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23332/thumb/xmeta.png?1644907223"
+}

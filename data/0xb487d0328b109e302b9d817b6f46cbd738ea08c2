@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TattooMoney",
+  "erc20_symbol": "TAT2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24772/thumb/logo_200x200.png?1649835408"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Helper Search",
+  "erc20_symbol": "HSN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6463/thumb/hsn.png?1547042670"
+}

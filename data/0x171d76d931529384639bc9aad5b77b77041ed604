@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MetaOctagon",
+  "erc20_symbol": "MOTG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26496/thumb/iJoylNuO_400x400.jpeg?1658304109"
+}

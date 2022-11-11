@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sipher",
+  "erc20_symbol": "SIPHER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21070/thumb/SipherToken.png?1638312272"
+}

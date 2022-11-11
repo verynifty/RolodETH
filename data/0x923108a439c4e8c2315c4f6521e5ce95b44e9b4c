@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Devery",
+  "erc20_symbol": "EVE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2681/thumb/devery.png?1547036885"
+}

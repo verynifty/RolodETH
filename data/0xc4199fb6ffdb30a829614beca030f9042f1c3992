@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "snglsDAO Governance",
+  "erc20_symbol": "SGT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11823/thumb/SGT-icon.png?1594681863"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CoinEx",
+  "erc20_symbol": "CET",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4817/thumb/coinex-token.png?1547040183"
+}

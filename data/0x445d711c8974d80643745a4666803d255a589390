@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BoredMemes",
+  "erc20_symbol": "BOREDM",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27934/thumb/pIhAX2u-_400x400.png?1666509284"
+}

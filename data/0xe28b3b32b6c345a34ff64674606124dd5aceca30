@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Injective",
+  "erc20_symbol": "INJ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237"
+}

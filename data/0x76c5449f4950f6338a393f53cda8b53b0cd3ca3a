@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BT Finance",
+  "erc20_symbol": "BT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13824/thumb/BT-logo.324f553c.png?1612152632"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AMPnet",
+  "erc20_symbol": "AAPX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14303/thumb/AAPX.png?1615356946"
+}

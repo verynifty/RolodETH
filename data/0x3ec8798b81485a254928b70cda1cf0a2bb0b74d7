@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gro DAO",
+  "erc20_symbol": "GRO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18673/thumb/613f171979749061aaa1edf9_Icon-GRO-256x256-Square.png?1632876204"
+}

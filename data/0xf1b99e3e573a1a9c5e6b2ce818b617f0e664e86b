@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Opyn Squeeth",
+  "erc20_symbol": "OSQTH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22806/thumb/DyVT5XPV_400x400.jpg?1642656239"
+}

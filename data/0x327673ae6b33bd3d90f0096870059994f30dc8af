@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lympo Market",
+  "erc20_symbol": "LMT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15155/thumb/coin_%282%29.png?1619995483"
+}

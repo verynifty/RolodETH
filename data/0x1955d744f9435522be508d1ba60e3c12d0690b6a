@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WPP Token",
+  "erc20_symbol": "WPP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8103/thumb/WzdD53fh_400x400.jpg?1554860792"
+}

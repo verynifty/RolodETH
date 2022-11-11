@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AiLink",
+  "erc20_symbol": "ALI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5917/thumb/ailink-token.png?1547041855"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ShipItPro",
+  "erc20_symbol": "SHPP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14687/thumb/photo_2020-12-28_16-37-33.jpg?1617785737"
+}

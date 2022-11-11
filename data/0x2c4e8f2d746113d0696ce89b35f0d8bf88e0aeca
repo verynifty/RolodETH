@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OST",
+  "erc20_symbol": "OST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1367/thumb/ost.jpg?1547035393"
+}

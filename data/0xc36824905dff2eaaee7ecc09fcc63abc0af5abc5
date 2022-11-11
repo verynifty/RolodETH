@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Basis Bond",
+  "erc20_symbol": "BAB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13961/thumb/bab_1.png?1613358492"
+}

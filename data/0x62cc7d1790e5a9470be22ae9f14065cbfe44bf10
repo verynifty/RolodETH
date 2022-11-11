@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Akihiko Inu",
+  "erc20_symbol": "AKIHIKO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25669/thumb/__rCQoaf_400x400.jpeg?1653300038"
+}

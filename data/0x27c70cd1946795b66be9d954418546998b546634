@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "shiba-inu"
+  ],
+  "name": "Shiba Inu: LEASH Token",
+  "erc20_symbol": "LEASH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15802/thumb/Leash.png?1621931543"
+}

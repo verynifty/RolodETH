@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Instadapp ETH",
+  "erc20_symbol": "IETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25822/thumb/iETH_100x100.png?1654055637"
+}

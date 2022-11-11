@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Block 18",
+  "erc20_symbol": "18C",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7605/thumb/block_18.jpg?1548828772"
+}

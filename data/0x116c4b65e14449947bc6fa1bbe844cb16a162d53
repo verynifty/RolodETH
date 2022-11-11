@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BMAX",
+  "erc20_symbol": "BMAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26427/thumb/BMAX_logo.png?1657929623"
+}

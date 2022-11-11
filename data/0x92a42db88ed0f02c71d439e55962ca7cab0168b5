@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TRDGtoken",
+  "erc20_symbol": "TRDG",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/14371/thumb/trdg.png?1635830350"
+}

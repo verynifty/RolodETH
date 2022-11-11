@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WETH",
+  "erc20_symbol": "WETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295"
+}

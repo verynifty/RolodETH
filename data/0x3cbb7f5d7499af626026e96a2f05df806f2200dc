@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PandaDAO",
+  "erc20_symbol": "PANDA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24926/thumb/PandaDAO_logo_512.png?1649388983"
+}

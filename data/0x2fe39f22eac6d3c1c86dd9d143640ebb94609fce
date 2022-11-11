@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "JD Coin",
+  "erc20_symbol": "JDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9958/thumb/Cv-2ca6p_400x400.jpg?1575926305"
+}

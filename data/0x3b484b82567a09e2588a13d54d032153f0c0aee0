@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OpenDAO",
+  "erc20_symbol": "SOS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21956/thumb/fo42wXI6_400x400.jpg?1640373810"
+}

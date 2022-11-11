@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Mute",
+  "erc20_symbol": "MUTE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1617618967"
+}

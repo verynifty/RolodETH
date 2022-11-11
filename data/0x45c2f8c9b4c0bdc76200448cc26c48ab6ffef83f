@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Domi",
+  "erc20_symbol": "DOMI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21633/thumb/Transparent_Circle_Logo_2.png?1639627183"
+}

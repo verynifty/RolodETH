@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "IZE",
+  "erc20_symbol": "IZE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11031/thumb/logo.png?1587294254"
+}

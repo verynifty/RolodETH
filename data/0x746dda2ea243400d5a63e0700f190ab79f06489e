@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BOSAGORA",
+  "erc20_symbol": "BOA",
+  "erc20_decimals": 7,
+  "imageURL": "https://assets.coingecko.com/coins/images/9202/thumb/boaLogo.png?1565231346"
+}

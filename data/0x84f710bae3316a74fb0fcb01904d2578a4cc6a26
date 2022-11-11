@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PHILLIPS PAY COIN",
+  "erc20_symbol": "PPC",
+  "erc20_decimals": 1,
+  "imageURL": "https://assets.coingecko.com/coins/images/10311/thumb/ppc.PNG?1588127720"
+}

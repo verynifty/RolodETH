@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unilock Network",
+  "erc20_symbol": "UNL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23576/thumb/unilock-logo.png?1650449646"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Whale Coin",
+  "erc20_symbol": "WHALE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10743/thumb/whalecoin200.png?1582835568"
+}

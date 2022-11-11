@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Rizespor Token",
+  "erc20_symbol": "RIZE",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/24027/thumb/mqQwSHB__400x400.jpg?1646113446"
+}

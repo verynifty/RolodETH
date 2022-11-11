@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Grove",
+  "erc20_symbol": "GVR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25549/thumb/200x200.png?1652335189"
+}

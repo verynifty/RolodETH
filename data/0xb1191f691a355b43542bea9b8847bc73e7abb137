@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kirobo",
+  "erc20_symbol": "KIRO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12688/thumb/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png?1601672684"
+}

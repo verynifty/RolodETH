@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeFi Gold",
+  "erc20_symbol": "DFGL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12883/thumb/defi_gold.jpg?1603281766"
+}

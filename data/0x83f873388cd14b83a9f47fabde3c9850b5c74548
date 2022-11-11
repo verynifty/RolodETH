@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Zero Utility",
+  "erc20_symbol": "ZUT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12706/thumb/logo.png?1605007113"
+}

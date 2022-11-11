@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bitcoin Volatility Index Token",
+  "erc20_symbol": "BTCV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16717/thumb/logo_-_2021-06-28T092740.647.png?1624843667"
+}

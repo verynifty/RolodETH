@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Philcoin",
+  "erc20_symbol": "PHL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24178/thumb/2ZFyoMSk.png?1646901982"
+}

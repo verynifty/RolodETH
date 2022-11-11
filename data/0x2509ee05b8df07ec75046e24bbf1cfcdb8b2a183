@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Amaten",
+  "erc20_symbol": "AMA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11010/thumb/0_%283%29.png?1587104344"
+}

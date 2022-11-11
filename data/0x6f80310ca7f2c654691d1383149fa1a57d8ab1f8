@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Silo Finance",
+  "erc20_symbol": "SILO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21454/thumb/y0iYKZOv_400x400.png?1639269432"
+}

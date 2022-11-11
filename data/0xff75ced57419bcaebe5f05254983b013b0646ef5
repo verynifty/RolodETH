@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cook",
+  "erc20_symbol": "COOK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14603/thumb/logo-200x200.jpg?1622448330"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "blocked"
+  ],
+  "name": "Props Project: PROPS Token",
+  "erc20_symbol": "PROPS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6735/thumb/photo-2017-10-10-03-32-02.png?1595168186"
+}

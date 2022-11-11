@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "alchemist-coin"
+  ],
+  "name": "Alchemist Coin: MIST Token",
+  "erc20_symbol": "MIST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kings Coin",
+  "erc20_symbol": "KINGS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27643/thumb/photo_2022-10-05_10.01.29.jpeg?1665019588"
+}

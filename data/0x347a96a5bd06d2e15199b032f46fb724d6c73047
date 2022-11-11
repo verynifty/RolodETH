@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ASIC Token",
+  "erc20_symbol": "ASIC",
+  "erc20_decimals": 12,
+  "imageURL": "https://assets.coingecko.com/coins/images/27952/thumb/ASIC_Token_Logo.png?1666668286"
+}

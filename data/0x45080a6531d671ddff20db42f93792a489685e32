@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Finance Vote",
+  "erc20_symbol": "FVT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13181/thumb/finance.png?1606015010"
+}

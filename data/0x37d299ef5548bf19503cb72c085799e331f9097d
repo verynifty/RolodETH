@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "VeganNation GreenCoin",
+  "erc20_symbol": "GRNC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21581/thumb/logo-green_%281%29.png?1639532854"
+}

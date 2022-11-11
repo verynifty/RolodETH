@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ThunderCore",
+  "erc20_symbol": "TT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4375/thumb/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349"
+}

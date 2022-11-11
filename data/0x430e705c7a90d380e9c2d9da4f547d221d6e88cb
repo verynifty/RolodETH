@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Upper Swiss Franc",
+  "erc20_symbol": "CHFU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20038/thumb/CHFU.png?1636424729"
+}

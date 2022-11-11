@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "evmos"
+  ],
+  "name": "Evmos: WEVMOS Token",
+  "erc20_symbol": "EVMOS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927"
+}

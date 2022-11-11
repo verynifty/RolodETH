@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tribal Token",
+  "erc20_symbol": "TRIBL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27774/thumb/TRIBL_Logo_200x200.png?1665724961"
+}

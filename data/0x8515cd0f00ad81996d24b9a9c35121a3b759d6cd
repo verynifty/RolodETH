@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BlockBurn",
+  "erc20_symbol": "BURN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8851/thumb/blockburn.JPG?1582774870"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aave AMM BptWBTCWETH",
+  "erc20_symbol": "AAMMBPTWBTCWETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17260/thumb/aAmmBptWBTCWETH.png?1626959325"
+}

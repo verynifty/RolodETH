@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SHKOOBY INU",
+  "erc20_symbol": "SHKOOBY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19790/thumb/shkooby.png?1645255468"
+}

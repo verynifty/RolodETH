@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kollect",
+  "erc20_symbol": "KOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18664/thumb/kol.png?1632827164"
+}

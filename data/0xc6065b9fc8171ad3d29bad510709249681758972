@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wallfair",
+  "erc20_symbol": "WFAIR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18920/thumb/wallfair_logo.png?1633942136"
+}

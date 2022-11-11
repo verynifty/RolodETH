@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hara",
+  "erc20_symbol": "HART",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5138/thumb/hara.jpg?1547040533"
+}

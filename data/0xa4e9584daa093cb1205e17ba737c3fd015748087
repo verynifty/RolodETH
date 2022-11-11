@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FOREXCOIN",
+  "erc20_symbol": "FOREX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6852/thumb/forex-logo.PNG?1547043174"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "3X Long PAX Gold Token",
+  "erc20_symbol": "PAXGBULL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10435/thumb/683JEXMN_400x400.png?1579276663"
+}

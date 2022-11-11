@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Prime",
+  "erc20_symbol": "D2D",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21609/thumb/RJD82RrV_400x400.jpg?1639559164"
+}

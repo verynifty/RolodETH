@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "APY vision",
+  "erc20_symbol": "VISION",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13288/thumb/apyvisionlogo200circle.png?1607059042"
+}

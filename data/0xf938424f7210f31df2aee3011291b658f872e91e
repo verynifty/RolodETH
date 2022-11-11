@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Visor",
+  "erc20_symbol": "VISR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14381/thumb/visor_logo.png?1615782828"
+}

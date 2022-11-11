@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ExNetwork",
+  "erc20_symbol": "EXNT",
+  "erc20_decimals": 16,
+  "imageURL": "https://assets.coingecko.com/coins/images/12328/thumb/exnt_logo.png?1599102916"
+}

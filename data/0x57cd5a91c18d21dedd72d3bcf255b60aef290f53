@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SnapEx",
+  "erc20_symbol": "SNAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21458/thumb/snap.png?1639291894"
+}

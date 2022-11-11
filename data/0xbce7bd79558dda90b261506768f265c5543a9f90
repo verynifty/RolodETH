@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TKN",
+  "erc20_symbol": "TKNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12808/thumb/1_jLY3Tj0kuBTjZGHFCqkTGA.png?1602713481"
+}

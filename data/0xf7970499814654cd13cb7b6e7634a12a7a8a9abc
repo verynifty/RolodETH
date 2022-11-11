@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TOM Finance",
+  "erc20_symbol": "TOM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13173/thumb/TOM_logo.png?1605857896"
+}

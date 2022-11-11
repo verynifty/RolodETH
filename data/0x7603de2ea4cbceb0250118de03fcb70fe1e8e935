@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AMC Fight Night",
+  "erc20_symbol": "AMC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17290/thumb/amc.PNG?1627252646"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Slay To Earn",
+  "erc20_symbol": "SLAY2EARN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26257/thumb/cmc-logo.png?1657600932"
+}

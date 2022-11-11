@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Crypto Perx",
+  "erc20_symbol": "CPRX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20768/thumb/8iQSd5YY_400x400.jpg?1637655996"
+}

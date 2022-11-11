@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Succession",
+  "erc20_symbol": "SCCN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25377/thumb/sccn.png?1651410204"
+}

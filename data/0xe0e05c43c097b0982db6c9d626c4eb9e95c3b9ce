@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unslashed Finance",
+  "erc20_symbol": "USF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14177/thumb/Unslashed.jpeg?1614793365"
+}

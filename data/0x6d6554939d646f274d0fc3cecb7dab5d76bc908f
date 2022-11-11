@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Morphswap",
+  "erc20_symbol": "MS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28114/thumb/mslogo200.png?1668056773"
+}

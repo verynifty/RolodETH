@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Folder Protocol",
+  "erc20_symbol": "FOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13755/thumb/folderlabs_logo.png?1611560881"
+}

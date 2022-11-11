@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Axus Coin",
+  "erc20_symbol": "AXUS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20713/thumb/-rUSqDLk_400x400.png?1637575970"
+}

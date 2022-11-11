@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TON",
+  "erc20_symbol": "TON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12334/thumb/ton.jpg?1599128436"
+}

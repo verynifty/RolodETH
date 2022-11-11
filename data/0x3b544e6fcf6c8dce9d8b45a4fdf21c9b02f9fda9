@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Giftedhands",
+  "erc20_symbol": "GHD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12540/thumb/K-8uHktJ.png?1600644856"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SpiceUSD",
+  "erc20_symbol": "USDS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25697/thumb/USDS.png?1653440948"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "bitfinex"
+  ],
+  "name": "Bitfinex: LEO Token",
+  "erc20_symbol": "LEO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8418/thumb/leo-token.png?1558326215"
+}

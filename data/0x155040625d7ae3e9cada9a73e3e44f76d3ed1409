@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Revomon",
+  "erc20_symbol": "REVO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14759/thumb/revomon.jpeg?1618243538"
+}

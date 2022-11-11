@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "shiba-inu"
+  ],
+  "name": "Shiba Inu: SHIB Token",
+  "erc20_symbol": "SHIB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1622619446"
+}

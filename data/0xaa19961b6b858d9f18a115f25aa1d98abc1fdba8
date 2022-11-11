@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LocalCoinSwap",
+  "erc20_symbol": "LCS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3998/thumb/LocalCoinSwap.png?1547039086"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "jarvis-network"
+  ],
+  "name": "Jarvis Network: JRT Token",
+  "erc20_symbol": "JRT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10390/thumb/cfeii0y.png?1578868949"
+}

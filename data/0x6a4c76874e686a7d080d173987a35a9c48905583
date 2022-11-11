@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Luxurious Pro Network",
+  "erc20_symbol": "LPNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14126/thumb/logo_%2894%29.png?1614570735"
+}

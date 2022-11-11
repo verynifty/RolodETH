@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Dracula",
+  "erc20_symbol": "DRC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12758/thumb/DRC-LOGO.png?1648050189"
+}

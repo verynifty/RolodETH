@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Try Finance",
+  "erc20_symbol": "TRY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13865/thumb/try-logo.png?1612420128"
+}

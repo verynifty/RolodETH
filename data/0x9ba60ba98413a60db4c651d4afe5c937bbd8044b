@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yearn Lazy Ape",
+  "erc20_symbol": "YLA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14447/thumb/yla.png?1616128042"
+}

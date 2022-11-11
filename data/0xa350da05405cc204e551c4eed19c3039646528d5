@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Blocksport",
+  "erc20_symbol": "BSPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23735/thumb/lUjOcgBNs1fSMbGND5bmUMSKaVYybK5oDblEFgqX5Tvcg89_U3yzRRHzcR5UMpzObjlps5ZpumoYjtP9R2ddgsUkP0xyw3p5R_VMAh5qIQfUu8IGicH2xEzzwHM5ayPOh8PaO_BEFxjvYlYpt1Fknz6OdOhQrTBhh8kBfG0De1HEGZLe7dJGKnoLRzlyYkzYcIimMy-rzp2swB.jpg?1645174474"
+}

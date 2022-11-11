@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Euro Coin",
+  "erc20_symbol": "EUROC",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+}

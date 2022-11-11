@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CVI",
+  "erc20_symbol": "GOVI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13875/thumb/GOVI.png?1612451531"
+}

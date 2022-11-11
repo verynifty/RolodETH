@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Engine",
+  "erc20_symbol": "EGCC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4531/thumb/2852.png?1547039827"
+}

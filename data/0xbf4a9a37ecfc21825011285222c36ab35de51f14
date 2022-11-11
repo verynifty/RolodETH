@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nyan V2",
+  "erc20_symbol": "NYAN-2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13093/thumb/v2-logo.png?1605067493"
+}

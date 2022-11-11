@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Peacockcoin  ETH ",
+  "erc20_symbol": "PEKC",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/18373/thumb/pekc.jpg?1631679728"
+}

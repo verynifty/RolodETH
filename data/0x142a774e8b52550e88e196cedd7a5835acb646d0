@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SaitaRealty",
+  "erc20_symbol": "SRLTY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27289/thumb/s_mksCdB_400x400.jpeg?1663145048"
+}

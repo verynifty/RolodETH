@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "JustCarbon Governance",
+  "erc20_symbol": "JCG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25701/thumb/Just-Carbon-JCG.png?1653451947"
+}

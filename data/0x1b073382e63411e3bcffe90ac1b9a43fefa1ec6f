@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bitpanda Ecosystem",
+  "erc20_symbol": "BEST",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/8738/thumb/BEST-Coin-Logo.png?1619079782"
+}

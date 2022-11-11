@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Authencity",
+  "erc20_symbol": "AUTH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/26960/thumb/1.png?1661062419"
+}

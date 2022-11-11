@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ccore",
+  "erc20_symbol": "CCO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1287/thumb/LOGO_CCO.png?1547035312"
+}

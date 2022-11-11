@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SaitamaX",
+  "erc20_symbol": "SAITAX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19419/thumb/6mrg5N1.png?1635213446"
+}

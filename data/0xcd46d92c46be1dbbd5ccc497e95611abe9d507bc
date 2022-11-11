@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FACE Vault  NFTX ",
+  "erc20_symbol": "FACE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17039/thumb/FACE.png?1626146356"
+}

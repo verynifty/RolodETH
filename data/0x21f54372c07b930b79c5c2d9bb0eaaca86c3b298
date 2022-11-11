@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Banana Finance",
+  "erc20_symbol": "BANANA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13419/thumb/bananacoin.png?1608446599"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FINXFLO",
+  "erc20_symbol": "FXF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13916/thumb/raVh1Iw.png?1618978607"
+}

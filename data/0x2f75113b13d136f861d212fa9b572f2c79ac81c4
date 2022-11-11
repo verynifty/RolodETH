@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ekta",
+  "erc20_symbol": "EKTA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22350/thumb/token.jpg?1641882684"
+}

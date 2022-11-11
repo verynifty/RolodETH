@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "handle fi",
+  "erc20_symbol": "FOREX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18533/thumb/handle.fiFOREXLogoDark200x200.png?1632755675"
+}

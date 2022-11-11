@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "IdeaChain",
+  "erc20_symbol": "ICH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/11053/thumb/4fJlFzca_400x400.jpg?1587609361"
+}

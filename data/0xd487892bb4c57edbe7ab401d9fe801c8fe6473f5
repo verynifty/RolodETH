@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Uhive",
+  "erc20_symbol": "HVE2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3811/thumb/hve2.png?1639045485"
+}

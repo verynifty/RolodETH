@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wise",
+  "erc20_symbol": "WISE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13552/thumb/WISE-logo-1600x1280.png?1609727947"
+}

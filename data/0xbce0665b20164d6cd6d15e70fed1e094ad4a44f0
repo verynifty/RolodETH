@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Meta Capital",
+  "erc20_symbol": "MCAP",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/22320/thumb/EMWN_Ybl_400x400.jpg?1641454816"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hifi Finance",
+  "erc20_symbol": "MFT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3293/thumb/hifi_logo.png?1613102742"
+}

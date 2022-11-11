@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Scry info",
+  "erc20_symbol": "DDD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2569/thumb/Scry.info.jpg?1547036695"
+}

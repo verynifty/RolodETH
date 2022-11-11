@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Shinjiro",
+  "erc20_symbol": "SHOX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/25018/thumb/Shinjiro_200x200.png?1649830769"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bal kesirspor Token",
+  "erc20_symbol": "BLKS",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/24811/thumb/18434.png?1649024433"
+}

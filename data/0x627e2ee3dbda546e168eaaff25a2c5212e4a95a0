@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Inverse Bitcoin Volatility",
+  "erc20_symbol": "IBVOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11057/thumb/download_%2810%29.png?1587642128"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sakura Planet",
+  "erc20_symbol": "SAK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27225/thumb/SAK.?1662698993"
+}

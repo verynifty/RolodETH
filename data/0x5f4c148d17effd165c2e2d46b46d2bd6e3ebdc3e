@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "5KM RUN",
+  "erc20_symbol": "RUN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26072/thumb/logo-200.png?1655621986"
+}

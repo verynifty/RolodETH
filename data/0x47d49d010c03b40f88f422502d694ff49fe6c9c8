@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Giresunspor Token",
+  "erc20_symbol": "GRS",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/24810/thumb/18444.png?1649024268"
+}

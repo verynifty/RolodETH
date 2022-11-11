@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "UNION Protocol Governance",
+  "erc20_symbol": "UNN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13408/thumb/unn_finance.png?1608262290"
+}

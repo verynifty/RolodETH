@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MetamonkeyAi",
+  "erc20_symbol": "MMAI",
+  "erc20_decimals": 7,
+  "imageURL": "https://assets.coingecko.com/coins/images/27208/thumb/metamonkey.jpeg?1662608488"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Fnk com",
+  "erc20_symbol": "FNK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13483/thumb/fnk.png?1609039834"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Skyrim Finance",
+  "erc20_symbol": "SKYRIM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18003/thumb/Xo3oCb53_400x400.png?1630096304"
+}

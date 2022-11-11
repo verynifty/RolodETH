@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "InsureDAO",
+  "erc20_symbol": "INSURE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23913/thumb/InsureDAO_-_Final_Logo_%28solo%29.png?1645682885"
+}

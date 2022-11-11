@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MyBit",
+  "erc20_symbol": "MYB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1240/thumb/mybit.png?1547035264"
+}

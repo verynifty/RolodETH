@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aave Balancer Pool Token",
+  "erc20_symbol": "ABPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16788/thumb/ABPT_2x.png?1625046056"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Shabu Shabu",
+  "erc20_symbol": "KOBE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13577/thumb/shabu_shabu_logo.jpg?1609901993"
+}

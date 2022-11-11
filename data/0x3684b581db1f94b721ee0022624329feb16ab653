@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GUNTHY",
+  "erc20_symbol": "GUNTHY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7869/thumb/GUNTHY_128.png?1562130711"
+}

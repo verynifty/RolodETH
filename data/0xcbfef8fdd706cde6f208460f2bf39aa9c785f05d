@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kine Protocol",
+  "erc20_symbol": "KINE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14339/thumb/kine.jpg?1615474456"
+}

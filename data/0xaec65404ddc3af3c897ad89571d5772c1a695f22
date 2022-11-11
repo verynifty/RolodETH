@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Phoenix Finance",
+  "erc20_symbol": "PHX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17675/thumb/phx_logo.png?1628832432"
+}

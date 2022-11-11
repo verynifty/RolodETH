@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Rainicorn",
+  "erc20_symbol": "RAINI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14491/thumb/logo-200x200.png?1633314246"
+}

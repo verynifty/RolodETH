@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DEGEN Index",
+  "erc20_symbol": "DEGEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14143/thumb/alpha_logo.png?1614651244"
+}

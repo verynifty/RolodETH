@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gric Coin",
+  "erc20_symbol": "GC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7144/thumb/gric.png?1576037693"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tracer DAO",
+  "erc20_symbol": "TCR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18271/thumb/tracer_logo.png?1631176676"
+}

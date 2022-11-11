@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "website-down"
+  ],
+  "name": "Bitcoin Red: BTCR Token",
+  "erc20_symbol": "BTCRED",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1054/thumb/bitcoin-red.png?1547034993"
+}

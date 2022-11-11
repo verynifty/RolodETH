@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeFi Bids",
+  "erc20_symbol": "BID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12344/thumb/IMG_20200919_115022_477.png?1600739441"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cyn C",
+  "erc20_symbol": "CYNC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24065/thumb/logo_disc.png?1646206132"
+}

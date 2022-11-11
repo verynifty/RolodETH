@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yield App",
+  "erc20_symbol": "YLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13365/thumb/Google_Play_Store_Icon.png?1657012535"
+}

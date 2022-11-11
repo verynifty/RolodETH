@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aave AMM UniMKRWETH",
+  "erc20_symbol": "AAMMUNIMKRWETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17222/thumb/aAmmUniMKRWETH.png?1626880292"
+}

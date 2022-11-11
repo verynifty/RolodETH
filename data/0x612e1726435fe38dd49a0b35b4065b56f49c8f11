@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CryptoCart V2",
+  "erc20_symbol": "CCV2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15210/thumb/DP7-T6rox-400x400_%281%29.png?1638928576"
+}

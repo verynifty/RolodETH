@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "aave-v2",
+    "aave"
+  ],
+  "name": "Aave: aUSDT Token V2",
+  "erc20_symbol": "AUSDT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/14243/thumb/aUSDT.78f5faae.png?1615528400"
+}

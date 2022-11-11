@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TopBidder",
+  "erc20_symbol": "BID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14820/thumb/topbidder_logo_square_256.png?1618556813"
+}

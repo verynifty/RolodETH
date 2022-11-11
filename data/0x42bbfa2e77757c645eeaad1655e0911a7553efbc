@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Boba Network",
+  "erc20_symbol": "BOBA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576"
+}

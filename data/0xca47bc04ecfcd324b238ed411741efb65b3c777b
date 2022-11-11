@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ecosystem Coin Network",
+  "erc20_symbol": "ECN",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/18529/thumb/WeChat_Image_20210928174723.jpg?1632822490"
+}

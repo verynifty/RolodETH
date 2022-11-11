@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Stader MaticX",
+  "erc20_symbol": "MATICX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25383/thumb/6GWyFVHD_400x400.jpg?1651615396"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "radicle"
+  ],
+  "name": "Radicle: RAD Token",
+  "erc20_symbol": "RAD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918"
+}

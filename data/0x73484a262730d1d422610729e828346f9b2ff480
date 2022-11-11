@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BRCP",
+  "erc20_symbol": "BRCP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14388/thumb/brcp-500x500-verde.png?1615855378"
+}

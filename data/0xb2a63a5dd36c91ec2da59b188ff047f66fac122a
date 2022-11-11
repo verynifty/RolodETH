@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Alpha Impact",
+  "erc20_symbol": "FOLO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19988/thumb/folo.PNG?1636357322"
+}

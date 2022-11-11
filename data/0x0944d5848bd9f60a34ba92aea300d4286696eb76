@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Palette",
+  "erc20_symbol": "PLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22153/thumb/262aoVTp_400x400.jpg?1640940192"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CyberTronchain",
+  "erc20_symbol": "CTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13391/thumb/zNdoAnW.png?1608095358"
+}

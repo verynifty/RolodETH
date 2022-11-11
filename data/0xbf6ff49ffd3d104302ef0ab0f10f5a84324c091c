@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nftfy",
+  "erc20_symbol": "NFTFY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15292/thumb/nfty.PNG?1620365235"
+}

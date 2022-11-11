@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "blocked",
+    "mstable"
+  ],
+  "name": "mStable: MTA Token",
+  "erc20_symbol": "MTA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11846/thumb/mStable.png?1594950533"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "bitfinex",
+    "exchange",
+    "fiat-gateway",
+    "otc"
+  ],
+  "name": "Bitfinex 1"
+}

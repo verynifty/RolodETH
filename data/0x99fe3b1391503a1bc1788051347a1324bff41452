@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SX Network",
+  "erc20_symbol": "SX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13779/thumb/sx.png?1636034699"
+}

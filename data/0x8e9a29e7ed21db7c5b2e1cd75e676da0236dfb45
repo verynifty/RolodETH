@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Minter Hub",
+  "erc20_symbol": "HUB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14639/thumb/hub200.png?1651724396"
+}

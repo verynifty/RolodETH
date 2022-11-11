@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kush Finance",
+  "erc20_symbol": "KSEED",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12545/thumb/kush.finance-512.png?1600844515"
+}

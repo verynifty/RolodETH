@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "eosDAC",
+  "erc20_symbol": "EOSDAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3878/thumb/2644.png?1547038931"
+}

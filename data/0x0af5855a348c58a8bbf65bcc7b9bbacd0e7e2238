@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ulanco",
+  "erc20_symbol": "UAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20662/thumb/udacity_logo_icon_169367.png?1637545628"
+}

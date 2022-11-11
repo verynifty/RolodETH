@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "dAppstore",
+  "erc20_symbol": "DAPPX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15780/thumb/large-logo.png?1621841062"
+}

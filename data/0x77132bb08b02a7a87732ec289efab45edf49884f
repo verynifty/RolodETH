@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Relic",
+  "erc20_symbol": "RELIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26424/thumb/EQiM831z_400x400.png?1657930563"
+}

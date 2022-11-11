@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "dotmoovs",
+  "erc20_symbol": "MOOV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15817/thumb/dotmoovs-symbol-gradient.png?1635332626"
+}

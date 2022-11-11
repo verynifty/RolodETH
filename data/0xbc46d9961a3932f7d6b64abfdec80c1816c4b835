@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LITEX",
+  "erc20_symbol": "LXT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5133/thumb/litex-logo.png?1547040525"
+}

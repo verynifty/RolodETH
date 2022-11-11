@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "International CryptoX",
+  "erc20_symbol": "INCX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4244/thumb/download_%2833%29.jpg?1547039576"
+}

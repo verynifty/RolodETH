@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "EthereumMax",
+  "erc20_symbol": "EMAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15540/thumb/EMAX-Coin-Final2000x.png?1639402630"
+}

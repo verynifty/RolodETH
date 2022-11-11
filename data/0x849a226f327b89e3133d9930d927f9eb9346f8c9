@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Crypto Global United",
+  "erc20_symbol": "CGU",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/20751/thumb/2022_CGU-MG_RGB.png?1666606977"
+}

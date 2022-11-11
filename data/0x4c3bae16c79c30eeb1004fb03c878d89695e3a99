@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Autumn",
+  "erc20_symbol": "AUTUMN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25366/thumb/autumn.png?1651317533"
+}

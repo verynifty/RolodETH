@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Mogul Productions",
+  "erc20_symbol": "STARS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14975/thumb/STARS_LOGO_PNG.png?1619214520"
+}

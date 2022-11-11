@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Neutrino USD",
+  "erc20_symbol": "USDN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10117/thumb/78GWcZu.png?1600845716"
+}

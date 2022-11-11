@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ruff",
+  "erc20_symbol": "RUFF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2726/thumb/ruff.png?1548608556"
+}

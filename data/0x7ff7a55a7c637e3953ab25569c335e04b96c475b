@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kondux",
+  "erc20_symbol": "KNDX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16987/thumb/bzYx6E41zeLl2gopOj9UqNmIdFgrGU2zSA.jpeg?1646104675"
+}

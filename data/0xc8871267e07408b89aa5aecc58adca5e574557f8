@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Instadapp USDC",
+  "erc20_symbol": "IUSDC",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/25820/thumb/iUSDC_100x100.png?1654055475"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Clover Finance",
+  "erc20_symbol": "CLV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15278/thumb/photo_2022-03-24_10-22-33.jpg?1648531786"
+}

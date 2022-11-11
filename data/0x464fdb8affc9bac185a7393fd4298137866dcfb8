@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Realm",
+  "erc20_symbol": "REALM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18366/thumb/realm.PNG?1631665838"
+}

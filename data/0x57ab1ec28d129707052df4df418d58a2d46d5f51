@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "proxy-contract",
+    "synthetix"
+  ],
+  "name": "Synthetix: Proxy sUSD Token",
+  "erc20_symbol": "SUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+}

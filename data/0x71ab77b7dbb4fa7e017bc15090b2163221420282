@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Highstreet",
+  "erc20_symbol": "HIGH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18973/thumb/logosq200200Coingecko.png?1634090470"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Exp",
+  "erc20_symbol": "EXP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24263/thumb/explogo.png?1648627774"
+}

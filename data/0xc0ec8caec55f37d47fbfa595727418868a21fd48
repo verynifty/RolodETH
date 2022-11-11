@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "EcoG9coin",
+  "erc20_symbol": "EGC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/8038/thumb/Screenshot_2019-12-05_at_7.14.34_AM.png?1575501284"
+}

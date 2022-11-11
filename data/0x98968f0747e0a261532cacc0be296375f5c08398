@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MOONCAT Vault  NFTX ",
+  "erc20_symbol": "MOONCAT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17055/thumb/Mooncats.png?1626149563"
+}

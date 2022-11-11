@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Float Protocol",
+  "erc20_symbol": "BANK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14116/thumb/FLOAT-Bank_LOGO-reduced_01.png?1616573606"
+}

@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "reservelending",
+    "unfederalreserve"
+  ],
+  "name": "UnFederalReserve: eRSDL Token",
+  "erc20_symbol": "ERSDL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12975/thumb/logo_eRSDL.png?1625755665"
+}

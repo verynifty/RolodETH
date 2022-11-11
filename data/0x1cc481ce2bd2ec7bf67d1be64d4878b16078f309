@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Iron Bank CHF",
+  "erc20_symbol": "IBCHF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18577/thumb/logo-128_%284%29.png?1632470239"
+}

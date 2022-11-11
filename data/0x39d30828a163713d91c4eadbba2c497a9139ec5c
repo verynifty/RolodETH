@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Happy Birthday Coin",
+  "erc20_symbol": "HBDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12814/thumb/%EC%A7%84%ED%92%88.png?1630840854"
+}

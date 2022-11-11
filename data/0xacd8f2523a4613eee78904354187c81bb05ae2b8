@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Stand Cash",
+  "erc20_symbol": "SAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13542/thumb/sac.jpg?1609648101"
+}

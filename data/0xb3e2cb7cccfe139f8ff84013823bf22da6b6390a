@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Iconic ICNQ",
+  "erc20_symbol": "ICNQ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7830/thumb/2_Iconic_Holding_icon.png?1593396172"
+}

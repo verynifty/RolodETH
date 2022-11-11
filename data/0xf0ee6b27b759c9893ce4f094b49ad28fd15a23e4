@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Enigma",
+  "erc20_symbol": "ENG",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1007/thumb/enigma-logo.png?1547034914"
+}

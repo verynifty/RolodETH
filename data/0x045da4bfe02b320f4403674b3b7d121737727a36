@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeFi Franc",
+  "erc20_symbol": "DCHF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28108/thumb/22249.png?1667544891"
+}

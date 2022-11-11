@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SEDO POW",
+  "erc20_symbol": "SEDO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/6866/thumb/sedocoin-logo.jpg?1547043199"
+}

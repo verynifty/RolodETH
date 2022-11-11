@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yearn Finance Diamond",
+  "erc20_symbol": "YFDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12824/thumb/yfdt_logo.png?1602814305"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Integral",
+  "erc20_symbol": "ITGR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18381/thumb/icon.png?1650331643"
+}

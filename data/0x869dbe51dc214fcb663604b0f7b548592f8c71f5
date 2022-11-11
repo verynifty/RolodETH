@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Okidoki Social",
+  "erc20_symbol": "DOKI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27018/thumb/Okidoki_Logo.png?1661480220"
+}

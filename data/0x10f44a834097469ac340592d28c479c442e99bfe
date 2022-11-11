@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Alcazar",
+  "erc20_symbol": "ALCAZAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28010/thumb/Alcazar.jpeg?1666943350"
+}

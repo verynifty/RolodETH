@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wombat",
+  "erc20_symbol": "WOMBAT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1657930951"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Rage Fan",
+  "erc20_symbol": "RAGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14585/thumb/Copy_of_RAGE_FAN_LOGO_ONLY.png?1627476357"
+}

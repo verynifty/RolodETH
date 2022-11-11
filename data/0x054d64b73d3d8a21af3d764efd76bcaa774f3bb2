@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Plasma Finance",
+  "erc20_symbol": "PPAY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13340/thumb/Hi9sEGAD.png?1607586849"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bent Finance",
+  "erc20_symbol": "BENT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21274/thumb/bent-logo-200x200.png?1638861325"
+}

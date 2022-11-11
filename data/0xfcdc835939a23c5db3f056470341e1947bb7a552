@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Husky VC",
+  "erc20_symbol": "HUSKY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27353/thumb/logo_husky200.png?1663659027"
+}

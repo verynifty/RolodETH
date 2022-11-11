@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bitgear",
+  "erc20_symbol": "GEAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12127/thumb/bitgear_logo.png?1597377982"
+}

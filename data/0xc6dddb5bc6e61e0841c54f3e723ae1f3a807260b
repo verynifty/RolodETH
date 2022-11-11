@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aurox",
+  "erc20_symbol": "URUS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14122/thumb/Aurox.png?1648524329"
+}

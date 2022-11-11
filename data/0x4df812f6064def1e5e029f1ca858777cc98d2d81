@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Xaurum",
+  "erc20_symbol": "XAUR",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/461/thumb/xaurum.png?1548761197"
+}

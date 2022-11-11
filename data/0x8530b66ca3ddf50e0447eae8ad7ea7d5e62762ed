@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Meta Doge",
+  "erc20_symbol": "METADOGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19656/thumb/metadoge.png?1636333901"
+}

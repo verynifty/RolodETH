@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Modefi",
+  "erc20_symbol": "MOD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13980/thumb/modefi_logo.png?1613453111"
+}

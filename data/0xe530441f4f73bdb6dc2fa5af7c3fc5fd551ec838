@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GSENetwork",
+  "erc20_symbol": "GSE",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/4776/thumb/gsenetwork.png?1547743285"
+}

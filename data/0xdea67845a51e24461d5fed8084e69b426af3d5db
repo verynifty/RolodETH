@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "HodlTree",
+  "erc20_symbol": "HTRE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12511/thumb/htre.jpg?1600373697"
+}

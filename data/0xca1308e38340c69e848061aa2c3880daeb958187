@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hackerlabs DAO",
+  "erc20_symbol": "HLD",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/24670/thumb/YFYHhGlJ_400x400.jpg?1648540176"
+}

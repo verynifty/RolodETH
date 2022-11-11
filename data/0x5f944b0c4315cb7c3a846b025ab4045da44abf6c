@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Pancake Games",
+  "erc20_symbol": "GCAKE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20217/thumb/6oc-L2UC_400x400.png?1636671365"
+}

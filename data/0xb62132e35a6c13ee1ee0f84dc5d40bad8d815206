@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "nexo"
+  ],
+  "name": "Nexo Token",
+  "erc20_symbol": "NEXO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3695/thumb/nexo.png?1548086057"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "KROWN",
+  "erc20_symbol": "KRW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1624343058"
+}

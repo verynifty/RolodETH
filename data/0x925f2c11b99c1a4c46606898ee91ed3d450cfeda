@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chow Chow Finance",
+  "erc20_symbol": "CHOW",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/14275/thumb/chow-logo.png?1620787242"
+}

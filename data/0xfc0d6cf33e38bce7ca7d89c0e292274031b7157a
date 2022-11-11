@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Netvrk",
+  "erc20_symbol": "NTVRK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15721/thumb/netvrk_icon.png?1627536091"
+}

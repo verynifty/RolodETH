@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Stacy",
+  "erc20_symbol": "STACY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12986/thumb/Stacy.png?1604384468"
+}

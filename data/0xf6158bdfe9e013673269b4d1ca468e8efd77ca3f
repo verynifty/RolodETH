@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Teleport",
+  "erc20_symbol": "PORT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27342/thumb/logo.png?1663552195"
+}

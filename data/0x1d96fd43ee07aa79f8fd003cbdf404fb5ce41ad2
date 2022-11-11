@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Qawalla",
+  "erc20_symbol": "QWLA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15242/thumb/qwla.png?1648268288"
+}

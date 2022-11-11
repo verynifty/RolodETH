@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unicly CryptoPunks Collection",
+  "erc20_symbol": "UPUNK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14905/thumb/cryptopunk7804.png?1618978888"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DAO Invest",
+  "erc20_symbol": "VEST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17901/thumb/logo-round-200.png?1629773511"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WOWswap",
+  "erc20_symbol": "WOW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14101/thumb/Group-423.png?1614317472"
+}

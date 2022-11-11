@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ShowTime Potocol",
+  "erc20_symbol": "STP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27509/thumb/D92uffI__400x400.jpeg?1664335190"
+}

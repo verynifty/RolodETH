@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "eGold",
+  "erc20_symbol": "EGOLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1105/thumb/egold.png?1547035084"
+}

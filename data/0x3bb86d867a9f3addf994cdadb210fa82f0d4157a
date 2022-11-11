@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ghoul",
+  "erc20_symbol": "GHOUL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16455/thumb/rsz-ghoul2.png?1624249816"
+}

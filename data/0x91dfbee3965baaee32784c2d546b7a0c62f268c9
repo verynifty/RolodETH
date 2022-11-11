@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Forj",
+  "erc20_symbol": "BONDLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13322/thumb/FORJ_twitter_twitter-linked_in_profile_%281%29.png?1653026729"
+}

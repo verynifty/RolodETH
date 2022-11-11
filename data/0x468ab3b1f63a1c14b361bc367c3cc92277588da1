@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yeld Finance",
+  "erc20_symbol": "YELD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12389/thumb/X4bTDcZ.png?1622177749"
+}

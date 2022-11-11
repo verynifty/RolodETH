@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ShibRobi",
+  "erc20_symbol": "SHIBORG",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23505/thumb/_-5o_lop_400x400.jpg?1644297264"
+}

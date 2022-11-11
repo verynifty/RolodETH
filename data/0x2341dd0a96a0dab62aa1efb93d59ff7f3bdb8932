@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ProStarter",
+  "erc20_symbol": "PROT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15259/thumb/rpot.PNG?1620269970"
+}

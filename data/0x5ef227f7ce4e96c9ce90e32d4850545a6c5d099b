@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BLUECHIPS",
+  "erc20_symbol": "BCHIP",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7119/thumb/xIh2PBdp_400x400.jpg?1547043616"
+}

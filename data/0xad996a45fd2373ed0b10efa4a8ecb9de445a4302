@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Shirtum",
+  "erc20_symbol": "SHI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16955/thumb/4fWlpC0.png?1625794164"
+}

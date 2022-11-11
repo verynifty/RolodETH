@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OneLedger",
+  "erc20_symbol": "OLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3422/thumb/One_Ledger.jpeg?1547038108"
+}

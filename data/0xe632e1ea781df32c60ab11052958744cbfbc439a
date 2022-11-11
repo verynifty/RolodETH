@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BAKC Vault  NFTX ",
+  "erc20_symbol": "BAKC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17052/thumb/BYAC.png?1626149096"
+}

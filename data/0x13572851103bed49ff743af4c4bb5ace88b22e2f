@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Recharge Finance",
+  "erc20_symbol": "R3FI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/14036/thumb/IMG_20210518_073652_114.png?1623833528"
+}

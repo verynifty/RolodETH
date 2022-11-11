@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Xave Coin",
+  "erc20_symbol": "XVC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24084/thumb/k8qjP9t9_400x400.jpg?1646292464"
+}

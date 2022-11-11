@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "White Ethereum",
+  "erc20_symbol": "WHITE",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26667/thumb/IMG_2923.PNG?1659500526"
+}

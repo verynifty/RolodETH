@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SuperSkyNet",
+  "erc20_symbol": "SSN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8944/thumb/p3dTwXMK_400x400.jpg?1563153164"
+}

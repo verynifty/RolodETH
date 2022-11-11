@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sashimi",
+  "erc20_symbol": "SASHIMI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12427/thumb/SashimiSwap-200x200.png?1601347413"
+}

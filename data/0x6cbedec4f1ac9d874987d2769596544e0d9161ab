@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeepCloud AI",
+  "erc20_symbol": "DEEP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4549/thumb/Deepcloud.png?1564168501"
+}

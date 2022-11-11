@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DOOR",
+  "erc20_symbol": "DOOR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16885/thumb/door256.png?1625548384"
+}

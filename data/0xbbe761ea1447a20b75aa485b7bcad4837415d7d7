@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Global Crypto Alliance",
+  "erc20_symbol": "CALL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10276/thumb/gca-favicon.png?1576969530"
+}

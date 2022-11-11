@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Monerium EUR emoney",
+  "erc20_symbol": "EURE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1643926562"
+}

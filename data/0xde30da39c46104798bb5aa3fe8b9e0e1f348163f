@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "gitcoin-grants"
+  ],
+  "name": "Gitcoin: GTC Token",
+  "erc20_symbol": "GTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929"
+}

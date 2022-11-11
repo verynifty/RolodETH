@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "poundtoken",
+  "erc20_symbol": "GBPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26591/thumb/gbpt.jpeg?1658958061"
+}

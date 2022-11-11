@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "unit-protocol"
+  ],
+  "name": "Unit Protocol: DUCK Token",
+  "erc20_symbol": "DUCK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13359/thumb/6f38719f-fe83-44ff-af30-7965fd23ac06.png?1660612730"
+}

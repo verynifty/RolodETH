@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lendroid Support",
+  "erc20_symbol": "LST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3485/thumb/lst-icon.png?1606992361"
+}

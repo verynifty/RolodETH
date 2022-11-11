@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "dHealth",
+  "erc20_symbol": "DHP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20167/thumb/dHealth_Network_Icon_200w.png?1636601369"
+}

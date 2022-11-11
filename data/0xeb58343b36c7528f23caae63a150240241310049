@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nimbus",
+  "erc20_symbol": "NBU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14517/thumb/EQMLlI52Dhm7DPe4QPt81MiqPTUa0X7YOZV9G1ki_OpZe6rtVUtmIn5XbQHeMHyuTkX4Y1qU-K8lAn4juL3KnVQLR7WeeJ_r6jI5nrjGgvt4DgMSAnuTrT15AREqbB0wUkosE8NVhjKpPUvvaALnpO0BtFUt4Bo9tsOTsfQDAEFrpH0uhVkEqJG_u09ehkX88hkYKJcm5RkvIgq.jpg?1616654587"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Fuse",
+  "erc20_symbol": "FUSE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10347/thumb/vUXKHEe.png?1601523640"
+}

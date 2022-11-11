@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "All me",
+  "erc20_symbol": "ME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5497/thumb/all.me-logo.jpg?1547041239"
+}

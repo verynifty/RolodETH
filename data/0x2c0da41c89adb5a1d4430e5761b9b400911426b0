@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DAMA",
+  "erc20_symbol": "DAMA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23636/thumb/img-token-dama.png?1644907682"
+}

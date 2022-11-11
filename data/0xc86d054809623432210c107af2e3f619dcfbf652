@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "sentinel-protocol"
+  ],
+  "name": "Uppsala Token",
+  "erc20_symbol": "UPP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3369/thumb/Sentinel_Protocol.jpg?1547700074"
+}

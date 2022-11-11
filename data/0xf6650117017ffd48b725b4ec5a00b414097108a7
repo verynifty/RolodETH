@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Xido Finance",
+  "erc20_symbol": "XIDO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16161/thumb/KJw4clj.png?1623141959"
+}

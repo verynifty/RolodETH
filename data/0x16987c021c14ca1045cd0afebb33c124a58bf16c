@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Voyager",
+  "erc20_symbol": "VGR",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/7381/thumb/PKQbxUtP_400x400.jpg?1547044079"
+}

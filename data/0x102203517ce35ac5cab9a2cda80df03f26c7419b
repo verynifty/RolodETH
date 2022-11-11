@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SUMOTEX",
+  "erc20_symbol": "SMTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27478/thumb/Sumotex_telegram_image_PNG.jpg?1664198249"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Niros",
+  "erc20_symbol": "NIROS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22409/thumb/oJEphc3R_400x400.jpg?1641797798"
+}

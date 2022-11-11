@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cryptonits",
+  "erc20_symbol": "CRT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13392/thumb/logo-200x200.png?1608100148"
+}

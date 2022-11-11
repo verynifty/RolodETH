@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lepasa",
+  "erc20_symbol": "LEPA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22745/thumb/lepasa.PNG?1642550975"
+}

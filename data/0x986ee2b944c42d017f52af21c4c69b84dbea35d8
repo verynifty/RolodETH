@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "bitmart"
+  ],
+  "name": "BitMart: BMC Token",
+  "erc20_symbol": "BMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5236/thumb/bitmart-token.png?1548835017"
+}

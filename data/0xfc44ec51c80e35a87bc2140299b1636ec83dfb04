@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Volt",
+  "erc20_symbol": "ACDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5321/thumb/vivo.png?1548760105"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Vabble",
+  "erc20_symbol": "VAB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17508/thumb/vabble_tplogo_200_x_200.png?1628508875"
+}

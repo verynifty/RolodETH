@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Town Star",
+  "erc20_symbol": "TOWN",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/19581/thumb/town.png?1635840875"
+}

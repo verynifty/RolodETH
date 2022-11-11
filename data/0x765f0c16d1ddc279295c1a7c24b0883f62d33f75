@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DaTa eXchange DTX",
+  "erc20_symbol": "DTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2920/thumb/dtx.png?1578973961"
+}

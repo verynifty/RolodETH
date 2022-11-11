@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "fantom"
+  ],
+  "name": "Fantom: FTM Token",
+  "erc20_symbol": "FTM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png?1558015016"
+}

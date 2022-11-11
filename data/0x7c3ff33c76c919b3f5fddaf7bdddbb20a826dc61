@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Froggies",
+  "erc20_symbol": "FROGGIES",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/20405/thumb/froggies.png?1640934476"
+}

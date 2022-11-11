@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Basan",
+  "erc20_symbol": "BASAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27988/thumb/BigBasanLogo_%281%29.png?1666864518"
+}

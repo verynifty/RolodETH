@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LOCGame",
+  "erc20_symbol": "LOCG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15175/thumb/LOC_GAME.png?1620025060"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bean",
+  "erc20_symbol": "BEAN",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/18447/thumb/bean-logo-coingecko.png?1632090495"
+}

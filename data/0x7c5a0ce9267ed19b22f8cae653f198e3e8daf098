@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Santiment Network",
+  "erc20_symbol": "SAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/797/thumb/santiment-network-token.png?1547034571"
+}

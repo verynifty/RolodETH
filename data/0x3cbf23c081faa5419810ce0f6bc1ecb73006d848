@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Digible",
+  "erc20_symbol": "DIGI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14960/thumb/RE3Fiua.png?1619148839"
+}

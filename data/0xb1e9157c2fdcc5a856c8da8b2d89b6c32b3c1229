@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Zenfuse",
+  "erc20_symbol": "ZEFU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12796/thumb/zenfuse.jpg?1602640333"
+}

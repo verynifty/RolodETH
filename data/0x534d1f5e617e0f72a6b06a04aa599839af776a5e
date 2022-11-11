@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Blockswap Network",
+  "erc20_symbol": "BSN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27023/thumb/BSN_brandmark_in_black_circle_preview.png?1661484890"
+}

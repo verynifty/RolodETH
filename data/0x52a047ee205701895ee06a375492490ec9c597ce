@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PulseMarkets",
+  "erc20_symbol": "PULSE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19011/thumb/photo_2021-11-11_06-24-09.jpg?1636616734"
+}

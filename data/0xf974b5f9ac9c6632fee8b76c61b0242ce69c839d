@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "old-contract"
+  ],
+  "name": "ZyxNetwork: Old ZYX Token",
+  "erc20_symbol": "ZYX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11964/thumb/zyx.png?1596454904"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DotOracle",
+  "erc20_symbol": "DTO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19527/thumb/84438129.png?1635371187"
+}

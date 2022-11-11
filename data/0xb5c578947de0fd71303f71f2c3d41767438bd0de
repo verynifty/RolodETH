@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeHorizon",
+  "erc20_symbol": "DEVT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21373/thumb/A3RjDqet_400x400.jpg?1639031847"
+}

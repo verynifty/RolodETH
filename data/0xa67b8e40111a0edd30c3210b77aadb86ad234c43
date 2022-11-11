@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Banana Index",
+  "erc20_symbol": "BANDEX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26700/thumb/6233e7f496c72994c313a50a_cactusboy90_%282%29-p-1080.png?1659616101"
+}

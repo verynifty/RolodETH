@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": " STIMMY",
+  "erc20_symbol": "STIMMY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20796/thumb/logo.gif?1637677225"
+}

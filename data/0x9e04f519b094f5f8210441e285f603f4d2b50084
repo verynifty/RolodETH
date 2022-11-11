@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "EarthFund",
+  "erc20_symbol": "1EARTH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20822/thumb/earthfund.PNG?1637722232"
+}

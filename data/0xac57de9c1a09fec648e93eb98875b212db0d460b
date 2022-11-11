@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Baby Doge Coin",
+  "erc20_symbol": "BABYDOGE",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16125/thumb/Baby_Doge.png?1623044048"
+}

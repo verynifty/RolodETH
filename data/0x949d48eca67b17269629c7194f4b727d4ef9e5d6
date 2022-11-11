@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Merit Circle",
+  "erc20_symbol": "MC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19304/thumb/Db4XqML.png?1634972154"
+}

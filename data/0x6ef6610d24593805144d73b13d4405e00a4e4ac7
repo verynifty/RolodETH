@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Die Protocol",
+  "erc20_symbol": "DIE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27903/thumb/newlogo.jpg?1666334549"
+}

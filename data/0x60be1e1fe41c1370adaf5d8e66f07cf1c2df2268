@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Perion",
+  "erc20_symbol": "PERC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23302/thumb/perion.png?1661498749"
+}

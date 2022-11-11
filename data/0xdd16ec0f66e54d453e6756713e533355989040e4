@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tokenomy",
+  "erc20_symbol": "TEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2286/thumb/logo_%281%29.png?1604543144"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GoalTime N",
+  "erc20_symbol": "GTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10705/thumb/GTX_200x200.png?1607580745"
+}

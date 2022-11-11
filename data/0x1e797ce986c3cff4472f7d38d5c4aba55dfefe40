@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BlockCDN",
+  "erc20_symbol": "BCDN",
+  "erc20_decimals": 15,
+  "imageURL": "https://assets.coingecko.com/coins/images/1301/thumb/blockcdn.png?1547350830"
+}

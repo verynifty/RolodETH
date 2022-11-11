@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kaiba Defi",
+  "erc20_symbol": "KAIBA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19990/thumb/2Le4vyc.png?1646120236"
+}

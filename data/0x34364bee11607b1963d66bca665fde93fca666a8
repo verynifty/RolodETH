@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "YOU Chain",
+  "erc20_symbol": "YOU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4649/thumb/youchain-logo.jpg?1547039915"
+}

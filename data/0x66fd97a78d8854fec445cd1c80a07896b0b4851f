@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lunch Money",
+  "erc20_symbol": "LMY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4149/thumb/IMG_2073.png?1612754752"
+}

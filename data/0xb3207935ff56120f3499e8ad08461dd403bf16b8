@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "dAMM",
+  "erc20_symbol": "DAMM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28082/thumb/dAMM_logo_round_-_dark.png?1667443628"
+}

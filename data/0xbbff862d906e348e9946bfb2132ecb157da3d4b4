@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sharder protocol",
+  "erc20_symbol": "SS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2921/thumb/sharder-200px.png?1595305234"
+}

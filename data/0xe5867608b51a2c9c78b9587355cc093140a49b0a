@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Speed Mining Service",
+  "erc20_symbol": "SMS",
+  "erc20_decimals": 3,
+  "imageURL": "https://assets.coingecko.com/coins/images/1807/thumb/speed-mining-service.png?1548610827"
+}

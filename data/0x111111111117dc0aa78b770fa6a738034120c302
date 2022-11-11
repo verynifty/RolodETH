@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "1inch",
+  "erc20_symbol": "1INCH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+}

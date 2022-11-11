@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "QUINADS",
+  "erc20_symbol": "QUIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7041/thumb/quinads-logo.png?1547043484"
+}

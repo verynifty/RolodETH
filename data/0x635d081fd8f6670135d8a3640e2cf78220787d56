@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Add xyz  NEW ",
+  "erc20_symbol": "ADD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14351/thumb/ADDBK.png?1622444542"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Vortex DeFi",
+  "erc20_symbol": "VTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14120/thumb/vortex_defi.png?1614514332"
+}
