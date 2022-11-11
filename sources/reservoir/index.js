@@ -18,7 +18,11 @@ reservoir.prototype.addTo = async function (RolodETH) {
             RolodETH.addProperty(address, "name", collection.name);
             RolodETH.addProperty(address, "imageUrl", collection.image);
             RolodETH.addProperty(address, "externalUrl", collection.externalUrl);
+            RolodETH.addProperty(address, "discordUrl", collection.discordUrl);
+            RolodETH.addProperty(address, "twitterUsername", collection.twitterUsername);
+            RolodETH.addProperty(address, "description", collection.description);
             RolodETH.addTag(address, "nft")
+            console.log(collection)
             if (collection.openseaVerificationStatus) {
                 RolodETH.addTag(address, "opensea_verified")
             }

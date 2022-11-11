@@ -5,5 +5,8 @@
   ],
   "name": "Terraforms by Mathcastles",
   "imageUrl": "https://i.seadn.io/gae/5w8DDjrDhTKLfe-r6erP3yF1m9nfFi-d4b_WbArv17vqatPg0ZwTVrnOGiry3YhQCS00gfxzOEDSbW2Zr4soCTZ0A-u0TZ3Xjln4qA?w=500&auto=format",
-  "externalUrl": "http://mathcastles.xyz"
+  "externalUrl": "http://mathcastles.xyz",
+  "discordUrl": "https://discord.gg/mathcastles",
+  "twitterUsername": "mathcastles",
+  "description": "Onchain land art from a dynamically generated onchain 3D world."
 }
