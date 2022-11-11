@@ -3,5 +3,6 @@
     "ens",
     "contract"
   ],
-  "name": "ENS: ETH Registrar Controller"
+  "name": "ENS: ETH Registrar Controller",
+  "ens": null
 }

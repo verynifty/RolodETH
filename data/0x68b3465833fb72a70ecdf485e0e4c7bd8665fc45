@@ -3,5 +3,6 @@
     "dex",
     "contract"
   ],
-  "name": "Uniswap V3: Router 2"
+  "name": "Uniswap V3: Router 2",
+  "ens": null
 }

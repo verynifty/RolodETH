@@ -3,5 +3,6 @@
     "marketplace",
     "contract"
   ],
-  "name": "X2Y2: Exchange"
+  "name": "X2Y2: Exchange",
+  "ens": null
 }

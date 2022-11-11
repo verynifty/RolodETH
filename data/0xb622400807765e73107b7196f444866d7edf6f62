@@ -6,5 +6,6 @@
   "name": "Heros",
   "erc20_symbol": "HEROS",
   "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/20381/thumb/200x200.png?1658719987"
+  "imageURL": "https://assets.coingecko.com/coins/images/20381/thumb/200x200.png?1658719987",
+  "ens": null
 }

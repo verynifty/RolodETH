@@ -3,5 +3,6 @@
     "exchange",
     "eoa"
   ],
-  "name": "MEXC: Mexc.com"
+  "name": "MEXC: Mexc.com",
+  "ens": null
 }

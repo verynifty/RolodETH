@@ -3,5 +3,6 @@
     "mev-bot",
     "contract"
   ],
-  "name": "MEV Bot: 0x811...a95"
+  "name": "MEV Bot: 0x811...a95",
+  "ens": null
 }

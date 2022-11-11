@@ -4,5 +4,6 @@
     "ftx",
     "eoa"
   ],
-  "name": "FTX Exchange 2"
+  "name": "FTX Exchange 2",
+  "ens": null
 }

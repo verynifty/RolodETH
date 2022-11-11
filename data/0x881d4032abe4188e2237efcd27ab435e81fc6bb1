@@ -3,5 +3,6 @@
     "coinbase",
     "contract"
   ],
-  "name": "Coinbase: Commerce"
+  "name": "Coinbase: Commerce",
+  "ens": null
 }

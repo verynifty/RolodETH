@@ -44,6 +44,16 @@ RolodETH.prototype.addProperty = async function (address, propertyName, value) {
 
 }
 
+RolodETH.prototype.removeProperty = async function (address, propertyName) {
+    const nAddress = this.normalizeAddress(address);
+    const existing = this.kfs[nAddress];
+    if (existing == null) {
+    } else {
+        existing[propertyName] = null;
+        this.kfs[nAddress] = existing;
+    }
+}
+
 RolodETH.prototype.addTag = function (address, tagName) {
     if (tagName == null || tagName == "") {
         return;

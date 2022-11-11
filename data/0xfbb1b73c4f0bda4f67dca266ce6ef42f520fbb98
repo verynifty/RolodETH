@@ -4,5 +4,6 @@
     "exchange",
     "eoa"
   ],
-  "name": "Bittrex"
+  "name": "Bittrex",
+  "ens": null
 }

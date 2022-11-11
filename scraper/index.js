@@ -27,7 +27,15 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
     let addresses = await this.getAddressesInBlocks(fromBlock, toBlock);
     for (const address of addresses) {
         const code = await this.provider.getCode(address);
+        
         console.log("https://etherscan.io/address/" + address, code != "0x")
+        const lookup = await this.provider.lookupAddress(address);
+        if (lookup) {
+            rolodeth.addProperty(address, "ens", lookup);
+        } else {
+            rolodeth.removeProperty(address, "ens");
+        }
+        console.log(lookup)
         if (code == "0x") {
             rolodeth.addTag(address, "eoa");
         } else {
