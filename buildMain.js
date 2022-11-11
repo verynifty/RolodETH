@@ -1,4 +1,4 @@
-const RolodETH = new (require("./RolodETH"))("./db_test/", 1);
+const RolodETH = new (require("./RolodETH"))("./data/", 1);
 
 const UniswapTokenList = require("./sources/UniswapTokenList");
 const OpenSeaAPI = require("./sources/OpenSeaAPI");
