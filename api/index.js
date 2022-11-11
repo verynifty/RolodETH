@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-const RolodETH = new (require("./RolodETH"))("./db_test/", 1);
+const RolodETH = new (require("../RolodETH"))("../db_test/", 1);
 
 
 app.get('/address/:address', (req, res) => {
