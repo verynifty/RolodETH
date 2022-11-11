@@ -1,9 +1,10 @@
 {
   "tags": [
     "nft",
-    "opensea_verified"
+    "opensea_verified",
+    "mekaverse"
   ],
-  "name": "The Mekabots",
+  "name": "MekaVerse: MBOT Token",
   "imageUrl": "https://i.seadn.io/gcs/files/8cdbb4306169bd8f5f7be8cf0def9ac2.jpg?w=500&auto=format",
   "externalUrl": "https://www.themekaverse.com/"
 }

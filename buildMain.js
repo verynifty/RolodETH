@@ -16,16 +16,17 @@ const Reservoir = new reservoir();
 
 
 (async () => {
+    
+    await CoingeckoTokenList.addTo(RolodETH)
+    await estherscanLabels.addTo(RolodETH);
     await Reservoir.addTo(RolodETH);
 
     return;
 
     await OS.addTo(RolodETH);
-    await estherscanLabels.addTo(RolodETH);
     return;
     // await OS.addTo(RolodETH);
     // RolodETH.toString()
-    await CoingeckoTokenList.addTo(RolodETH)
     RolodETH.toString()
 
 
