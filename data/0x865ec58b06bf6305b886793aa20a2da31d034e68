@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Mossland",
-  "erc20_symbol": "MOC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2374/thumb/moc.png?1547036557"
-}

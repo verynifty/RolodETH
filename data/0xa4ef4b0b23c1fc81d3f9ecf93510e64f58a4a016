@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "1MillionNFTs",
-  "erc20_symbol": "1MIL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14990/thumb/4kQ8hRnU_400x400.jpg?1619334818"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "NFT Index",
-  "erc20_symbol": "NFTI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14215/thumb/nfti.png?1614992905"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "bRing Finance",
-  "erc20_symbol": "BRNG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17836/thumb/bring_finance.PNG?1629417184"
-}

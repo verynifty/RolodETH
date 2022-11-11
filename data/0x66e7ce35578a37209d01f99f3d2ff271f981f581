@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PactSwap",
-  "erc20_symbol": "PACT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15265/thumb/pact.PNG?1620281262"
-}

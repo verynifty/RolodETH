@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BlitzPick",
-  "erc20_symbol": "XBP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2458/thumb/BlitzPredict.jpg?1547701183"
-}

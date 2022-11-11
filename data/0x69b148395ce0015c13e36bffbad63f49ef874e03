@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DATA",
-  "erc20_symbol": "DTA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2604/thumb/data.png?1547036749"
-}

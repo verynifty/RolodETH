@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "EnterButton",
-  "erc20_symbol": "ENTC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19677/thumb/ENTC_symbol.png?1635740712"
-}

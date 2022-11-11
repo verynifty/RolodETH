@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "iEthereum",
-  "erc20_symbol": "IETH",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/1065/thumb/ieth.png?1600765203"
-}

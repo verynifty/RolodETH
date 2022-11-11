@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SafeMoon Inu",
-  "erc20_symbol": "SMI",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/16091/thumb/SMI.png?1622801787"
-}

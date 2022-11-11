@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Rocket Bunny",
-  "erc20_symbol": "BUNNY",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/14350/thumb/n8TgW06A_400x400.jpg?1615514406"
-}

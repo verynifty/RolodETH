@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AstroElon",
-  "erc20_symbol": "ELONONE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/16082/thumb/AstroElon.png?1622791921"
-}

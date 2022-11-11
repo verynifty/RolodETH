@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "void cash",
-  "erc20_symbol": "VCASH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26976/thumb/Avatar_v2.png?1661168692"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "LinkArt",
-  "erc20_symbol": "LAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8892/thumb/pB4iXZbU_400x400.jpg?1562579001"
-}

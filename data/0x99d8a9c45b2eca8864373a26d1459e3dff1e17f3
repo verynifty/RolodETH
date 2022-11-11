@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Magic Internet Money",
-  "erc20_symbol": "MIM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16786/thumb/mimlogopng.png?1624979612"
-}

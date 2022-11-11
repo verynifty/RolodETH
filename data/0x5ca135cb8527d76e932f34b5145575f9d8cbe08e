@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Frax Price Index",
-  "erc20_symbol": "FPI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24945/thumb/fpi.png?1649485834"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DogeZilla Token",
-  "erc20_symbol": "DOGEZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20511/thumb/dogezilla.png?1637807027"
-}

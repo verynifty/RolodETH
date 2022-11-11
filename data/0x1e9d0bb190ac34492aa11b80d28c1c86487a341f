@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "The Neko",
-  "erc20_symbol": "NEKO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22692/thumb/FL6SU9b5_400x400.jpg?1642409749"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CRDT",
-  "erc20_symbol": "CRDT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11859/thumb/image_%281%29.png?1600937373"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ShipChain",
-  "erc20_symbol": "SHIP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3997/thumb/shipchain.png?1548609236"
-}

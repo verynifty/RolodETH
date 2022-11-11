@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "VeriSafe",
-  "erc20_symbol": "VSF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7862/thumb/verisafe_logo.png?1563852491"
-}

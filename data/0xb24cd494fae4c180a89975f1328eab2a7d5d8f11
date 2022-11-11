@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Developer DAO",
-  "erc20_symbol": "CODE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27011/thumb/CHWxD9GV_400x400.jpeg?1661421133"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Stake DAO",
-  "erc20_symbol": "SDT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13724/thumb/stakedao_logo.jpg?1611195011"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Qtoken",
-  "erc20_symbol": "QTO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26024/thumb/8QyOrTCm_400x400.jpg?1655332588"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Chicken",
-  "erc20_symbol": "KFC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12569/thumb/download.png?1600840301"
-}

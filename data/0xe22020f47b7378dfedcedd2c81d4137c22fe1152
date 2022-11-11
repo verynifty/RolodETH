@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "My Liquidity Partner",
-  "erc20_symbol": "MLP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26204/thumb/4xZ5Nb52_400x400.jpg?1656491493"
-}

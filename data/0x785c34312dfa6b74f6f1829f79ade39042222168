@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bumper",
-  "erc20_symbol": "BUMP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17822/thumb/Bumper-Icon-Inverse-200.png?1629344025"
-}

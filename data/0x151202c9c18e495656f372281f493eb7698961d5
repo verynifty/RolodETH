@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Debitum Network",
-  "erc20_symbol": "DEB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1648/thumb/debitum_network_token.jpg?1547035890"
-}

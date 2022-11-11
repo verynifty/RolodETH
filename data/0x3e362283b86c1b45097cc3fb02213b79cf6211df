@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CatCoin com",
-  "erc20_symbol": "CATCOIN",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/25279/thumb/logo_%281%29.png?1651126078"
-}

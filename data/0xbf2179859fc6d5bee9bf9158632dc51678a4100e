@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "aelf",
-  "erc20_symbol": "ELF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1371/thumb/aelf-logo.png?1547035397"
-}

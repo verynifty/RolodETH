@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "cBAT",
-  "erc20_symbol": "CBAT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/10645/thumb/cBAT1.JPG?1581390910"
-}

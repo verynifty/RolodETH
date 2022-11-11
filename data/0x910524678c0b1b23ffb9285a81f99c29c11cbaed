@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Azuki",
-  "erc20_symbol": "AZUKI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13091/thumb/bdUBSCo.png?1605169403"
-}

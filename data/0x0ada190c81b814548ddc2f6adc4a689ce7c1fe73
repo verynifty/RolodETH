@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "yAxis",
-  "erc20_symbol": "YAXIS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12620/thumb/Logo.png?1608310944"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PRivaCY Coin",
-  "erc20_symbol": "PRCY",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/14151/thumb/prcy.png?1614666991"
-}

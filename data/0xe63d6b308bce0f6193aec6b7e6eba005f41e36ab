@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Stone",
-  "erc20_symbol": "STN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14593/thumb/stone-logo.png?1617164796"
-}

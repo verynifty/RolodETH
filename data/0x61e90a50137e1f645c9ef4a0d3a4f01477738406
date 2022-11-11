@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "League of Kingdoms",
-  "erc20_symbol": "LOKA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22572/thumb/loka_64pix.png?1642643271"
-}

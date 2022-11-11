@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Daisy Protocol",
-  "erc20_symbol": "DAISY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17844/thumb/daisy.PNG?1629497116"
-}

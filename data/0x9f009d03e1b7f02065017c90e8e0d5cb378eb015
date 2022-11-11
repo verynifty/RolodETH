@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Fortune",
-  "erc20_symbol": "FORTUNE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/20374/thumb/TZcfq5b_%281%29.png?1636949601"
-}

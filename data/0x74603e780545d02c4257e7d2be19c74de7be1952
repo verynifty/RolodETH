@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ETG Finance",
-  "erc20_symbol": "ETGF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13032/thumb/etgf_logo.png?1604482450"
-}

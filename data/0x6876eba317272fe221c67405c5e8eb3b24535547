@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MicroTuber",
-  "erc20_symbol": "MCT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15489/thumb/mct.PNG?1621040638"
-}

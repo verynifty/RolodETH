@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "NFTmall",
-  "erc20_symbol": "GEM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16217/thumb/Icon-1000x1000.png?1623316471"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Multi Farm Capital",
-  "erc20_symbol": "MFC",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/20694/thumb/mfclogo.png?1637564399"
-}

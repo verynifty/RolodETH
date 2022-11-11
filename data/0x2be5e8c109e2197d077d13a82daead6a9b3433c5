@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Tokamak Network",
-  "erc20_symbol": "TON",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12260/thumb/D919x5-s_400x400.png?1598568068"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "JPEX Coin",
-  "erc20_symbol": "JPC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27717/thumb/200_200_JPEX_LOGO_transparent.png?1665453898"
-}

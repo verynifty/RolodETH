@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Kleros",
-  "erc20_symbol": "PNK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1547975322"
-}

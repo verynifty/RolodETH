@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DxChain",
-  "erc20_symbol": "DX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4700/thumb/VdZwy0Pv_400x400.png?1603089728"
-}

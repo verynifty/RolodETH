@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Medi",
-  "erc20_symbol": "MEDI",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/23037/thumb/Medi_200_x_200.PNG?1643096227"
-}

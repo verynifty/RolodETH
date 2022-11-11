@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Inverse Bitcoin Volatility Index Token",
-  "erc20_symbol": "IBTCV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16718/thumb/logo_-_2021-06-28T093119.133.png?1624843921"
-}

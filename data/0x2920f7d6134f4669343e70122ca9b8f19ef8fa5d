@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MonoX",
-  "erc20_symbol": "MONO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20901/thumb/e51c6UaU_400x400.png?1637879085"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "HydroLink",
-  "erc20_symbol": "HLNK",
-  "erc20_decimals": 10,
-  "imageURL": "https://assets.coingecko.com/coins/images/19664/thumb/200x-logo.png?1635736696"
-}

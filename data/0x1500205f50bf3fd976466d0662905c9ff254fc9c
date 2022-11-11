@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BitBoost",
-  "erc20_symbol": "BBT",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/1194/thumb/bitboost.jpg?1547035224"
-}

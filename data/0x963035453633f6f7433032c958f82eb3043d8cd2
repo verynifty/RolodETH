@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "USD Freedom",
-  "erc20_symbol": "USDF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26920/thumb/USDF_200x200.png?1660815930"
-}

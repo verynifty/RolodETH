@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "IoT Chain",
-  "erc20_symbol": "ITC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1304/thumb/iot-chain-logo.png?1547035331"
-}

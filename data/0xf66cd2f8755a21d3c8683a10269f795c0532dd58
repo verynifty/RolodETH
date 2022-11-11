@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "coreDAO",
-  "erc20_symbol": "COREDAO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23745/thumb/coredao.png?1645273627"
-}

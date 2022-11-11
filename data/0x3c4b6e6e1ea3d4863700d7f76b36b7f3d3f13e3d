@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Voyager VGX",
-  "erc20_symbol": "VGX",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/794/thumb/Voyager-vgx.png?1575693595"
-}

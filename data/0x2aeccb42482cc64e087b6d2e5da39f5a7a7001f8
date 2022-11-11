@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ruler Protocol",
-  "erc20_symbol": "RULER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14183/thumb/ruler_token.png?1614821796"
-}

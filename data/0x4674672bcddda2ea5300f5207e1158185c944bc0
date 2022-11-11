@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Gem Exchange and Trading",
-  "erc20_symbol": "GXT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12226/thumb/a.png?1653378779"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "eBlockStock",
-  "erc20_symbol": "EBSO",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/18636/thumb/eBSO_logo_szines.png?1632730502"
-}

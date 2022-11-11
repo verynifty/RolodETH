@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "keyTango",
-  "erc20_symbol": "TANGO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14349/thumb/2Fv6IUqc_400x400.jpg?1615513660"
-}

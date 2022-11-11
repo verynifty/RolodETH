@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Polychain Monsters Genesis",
-  "erc20_symbol": "PMLG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25396/thumb/19329.png?1651710855"
-}

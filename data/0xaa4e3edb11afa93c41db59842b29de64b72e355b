@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Marginswap",
-  "erc20_symbol": "MFI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13899/thumb/marginswap_logo.png?1612756590"
-}

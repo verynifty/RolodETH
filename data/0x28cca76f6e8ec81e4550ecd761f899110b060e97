@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ArGoApp",
-  "erc20_symbol": "ARGO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15477/thumb/Group_118.png?1647877401"
-}

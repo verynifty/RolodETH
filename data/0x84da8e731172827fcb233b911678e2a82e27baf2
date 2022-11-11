@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ANKR Reward Earning KSM",
-  "erc20_symbol": "AKSMB",
-  "erc20_decimals": 12,
-  "imageURL": "https://assets.coingecko.com/coins/images/26028/thumb/a-ksm-b-99bb6bfd6eddad0ce2a44dac4667ec34.png?1655349825"
-}

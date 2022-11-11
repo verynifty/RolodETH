@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Poseidon",
-  "erc20_symbol": "PSDN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25316/thumb/psdn_32.png?1651216148"
-}

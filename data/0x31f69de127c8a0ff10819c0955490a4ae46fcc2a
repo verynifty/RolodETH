@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Obyte",
-  "erc20_symbol": "GBYTE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1547564361"
-}

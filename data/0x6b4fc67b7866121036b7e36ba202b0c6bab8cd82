@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "VendettaDAO",
-  "erc20_symbol": "V",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27029/thumb/Vendetta-DAO-200x200.png?1661493958"
-}

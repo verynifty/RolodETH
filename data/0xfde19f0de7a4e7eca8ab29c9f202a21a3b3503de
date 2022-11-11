@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Gilgamesh ETH",
-  "erc20_symbol": "GIL",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/19882/thumb/GILcoin.png?1636085605"
-}

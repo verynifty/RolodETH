@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "QuiverX",
-  "erc20_symbol": "QRX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12916/thumb/qrx_logo.png?1603550478"
-}

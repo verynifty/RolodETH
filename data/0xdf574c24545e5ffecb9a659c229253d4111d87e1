@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "HUSD",
-  "erc20_symbol": "HUSD",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9567/thumb/HUSD.jpg?1568889385"
-}

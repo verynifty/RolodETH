@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DUSK Network",
-  "erc20_symbol": "DUSK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/5217/thumb/D_ticker_purple_on_circle_%282%29.png?1563781659"
-}

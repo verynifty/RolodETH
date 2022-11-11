@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Mops",
-  "erc20_symbol": "MOPS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26900/thumb/mops.png?1660724129"
-}

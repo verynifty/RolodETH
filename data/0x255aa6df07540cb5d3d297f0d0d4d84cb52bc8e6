@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Raiden Network",
-  "erc20_symbol": "RDN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1132/thumb/raiden-logo.jpg?1547035131"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Telcoin",
-  "erc20_symbol": "TEL",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1547036203"
-}

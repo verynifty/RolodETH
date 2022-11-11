@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BrightID",
-  "erc20_symbol": "BRIGHT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18415/thumb/bright.PNG?1631841211"
-}

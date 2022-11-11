@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "district0x",
-  "erc20_symbol": "DNT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762"
-}

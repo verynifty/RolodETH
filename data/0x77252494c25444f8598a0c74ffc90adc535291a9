@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nemesis",
-  "erc20_symbol": "NMS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18904/thumb/NMS-150x150.jpg?1633849465"
-}

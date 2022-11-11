@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped Paycoin",
-  "erc20_symbol": "WPCI",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/24390/thumb/new_logo_square_%281%29.png?1648792416"
-}

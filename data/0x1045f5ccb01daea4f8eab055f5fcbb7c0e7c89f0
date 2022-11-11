@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeFiato",
-  "erc20_symbol": "DFIAT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13386/thumb/Defiato.png?1608085873"
-}

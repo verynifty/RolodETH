@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Storj",
-  "erc20_symbol": "STORJ",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/949/thumb/storj.png?1547034811"
-}

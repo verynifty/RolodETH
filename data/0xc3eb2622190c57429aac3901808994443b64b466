@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ORO",
-  "erc20_symbol": "ORO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13114/thumb/oro_logo.png?1605338447"
-}

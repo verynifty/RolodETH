@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Donut",
-  "erc20_symbol": "DONUT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7538/thumb/Donut.png?1548234345"
-}

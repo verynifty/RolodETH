@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Paypolitan",
-  "erc20_symbol": "EPAN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13192/thumb/ava3.png?1606102032"
-}

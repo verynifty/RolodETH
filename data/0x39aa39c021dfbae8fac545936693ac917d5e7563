@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "cUSDC",
-  "erc20_symbol": "CUSDC",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9442/thumb/Compound_USDC.png?1567581577"
-}

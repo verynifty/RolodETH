@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Momento",
-  "erc20_symbol": "MOMENTO",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/18532/thumb/momento.png?1632295065"
-}

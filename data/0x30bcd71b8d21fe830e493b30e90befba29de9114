@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Penguin Party Fish",
-  "erc20_symbol": "FISH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14359/thumb/Screen-Shot-2021-03-10-at-1-05-40-AM.png?1615629402"
-}

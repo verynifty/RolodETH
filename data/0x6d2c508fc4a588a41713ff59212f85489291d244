@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bloomzed Loyalty Club Ticket",
-  "erc20_symbol": "BLCT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10810/thumb/esRodCO5_400x400.jpg?1583906706"
-}

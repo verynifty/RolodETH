@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Baked",
-  "erc20_symbol": "BAKED",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19178/thumb/rebaked-logo-full.png?1634613132"
-}

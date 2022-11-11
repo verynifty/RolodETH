@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Metal Blockchain",
-  "erc20_symbol": "METAL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27222/thumb/metal-chain.png?1662685566"
-}

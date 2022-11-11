@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Pawtocol",
-  "erc20_symbol": "UPI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12186/thumb/pawtocol.jpg?1597962008"
-}

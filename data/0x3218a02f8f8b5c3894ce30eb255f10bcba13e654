@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MegaCryptoPolis",
-  "erc20_symbol": "MEGA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12971/thumb/mcp_icon_200.png?1603943441"
-}

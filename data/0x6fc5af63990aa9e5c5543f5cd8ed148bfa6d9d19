@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Saint Inu",
-  "erc20_symbol": "SAINT",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/19724/thumb/saint_inu.png?1648269236"
-}

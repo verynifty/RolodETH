@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PointPay",
-  "erc20_symbol": "PXP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8950/thumb/6f9823ed-464a-4413-8940-72aa61d30b43.png?1645271610"
-}

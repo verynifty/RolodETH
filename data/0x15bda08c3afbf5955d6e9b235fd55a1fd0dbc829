@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Alpha Coin",
-  "erc20_symbol": "APC",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/6725/thumb/alpha-coin.png?1547042955"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Trace Network Labs",
-  "erc20_symbol": "TRACE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23266/thumb/Token_Icon_02.png?1655797843"
-}

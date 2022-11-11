@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Sunrise",
-  "erc20_symbol": "SUNC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1628864229"
-}

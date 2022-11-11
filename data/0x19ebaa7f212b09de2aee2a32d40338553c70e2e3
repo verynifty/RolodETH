@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ARTM",
-  "erc20_symbol": "ARTM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21577/thumb/artm_token_logo.png?1639530067"
-}

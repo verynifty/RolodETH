@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bezoge Earth",
-  "erc20_symbol": "BEZOGE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/15639/thumb/token-logo.png?1621408212"
-}

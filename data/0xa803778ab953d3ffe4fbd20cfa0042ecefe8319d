@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Totem",
-  "erc20_symbol": "CTZN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21558/thumb/ctzn.png?1642930817"
-}

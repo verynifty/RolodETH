@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ShibVinci",
-  "erc20_symbol": "SHIV",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/24703/thumb/gk-logo.png?1648645069"
-}

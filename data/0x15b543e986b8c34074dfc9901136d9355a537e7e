@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Student Coin",
-  "erc20_symbol": "STC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6260/thumb/logo_in_circle_%281%29.png?1667725082"
-}

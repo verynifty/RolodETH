@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Polars",
-  "erc20_symbol": "POL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24220/thumb/alpha_logo_polars.png?1646919342"
-}

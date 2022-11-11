@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Orion Money",
-  "erc20_symbol": "ORION",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18630/thumb/YtrqPIWc.png?1632710781"
-}

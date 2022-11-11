@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Mycelium",
-  "erc20_symbol": "MYC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26874/thumb/MYC_Token.png?1665971552"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Stake DAO CRV",
-  "erc20_symbol": "SDCRV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27756/thumb/scCRV-2.png?1665654580"
-}

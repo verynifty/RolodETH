@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GeoDB",
-  "erc20_symbol": "GEO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11130/thumb/geodb.png?1588941704"
-}

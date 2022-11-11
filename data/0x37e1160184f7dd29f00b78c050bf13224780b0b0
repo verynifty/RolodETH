@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Yuan Chain Coin",
-  "erc20_symbol": "YCC",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/5328/thumb/G5gCEo-J_400x400.jpg?1547040897"
-}

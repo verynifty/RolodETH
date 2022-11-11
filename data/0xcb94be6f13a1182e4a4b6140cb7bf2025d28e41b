@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "WeTrust",
-  "erc20_symbol": "TRST",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/645/thumb/wetrust.png?1547034370"
-}

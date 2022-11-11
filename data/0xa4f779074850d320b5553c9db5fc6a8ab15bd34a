@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "YFIX finance",
-  "erc20_symbol": "YFIX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12554/thumb/yfix-icon-200.png?1600739144"
-}

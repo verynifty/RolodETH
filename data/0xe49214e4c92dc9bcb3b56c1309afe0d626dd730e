@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SynchroCoin",
-  "erc20_symbol": "SYC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1469/thumb/ud643DVg.png?1621828021"
-}

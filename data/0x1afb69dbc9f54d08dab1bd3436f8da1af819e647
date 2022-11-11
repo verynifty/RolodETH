@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Melos Studio",
-  "erc20_symbol": "MELOS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24411/thumb/18551.png?1647558428"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BitCherry",
-  "erc20_symbol": "BCHC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11655/thumb/1JhE8tWnG6kmVCr.png?1592356873"
-}

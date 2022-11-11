@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BasketDAO",
-  "erc20_symbol": "BASK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14636/thumb/BASK_200_CIRCLE.png?1617494952"
-}

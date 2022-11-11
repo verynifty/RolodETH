@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Quick Mining",
-  "erc20_symbol": "QM",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/15916/thumb/qm.PNG?1622427094"
-}

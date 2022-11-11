@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Aave Interest Bearing STETH",
-  "erc20_symbol": "ASTETH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1646634315"
-}

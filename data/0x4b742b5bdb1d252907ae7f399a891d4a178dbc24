@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "B ONE PAYMENT",
-  "erc20_symbol": "B1P",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10865/thumb/68rvfmWK_400x400.jpg?1585522355"
-}

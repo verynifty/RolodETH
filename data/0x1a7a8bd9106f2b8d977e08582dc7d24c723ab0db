@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AppCoins",
-  "erc20_symbol": "APPC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1876/thumb/appcoins.png?1547036186"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Algory",
-  "erc20_symbol": "ALG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12231/thumb/logo-2.png?1605256312"
-}

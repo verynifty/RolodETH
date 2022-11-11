@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "OPEN Governance",
-  "erc20_symbol": "OPEN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13233/thumb/opendao_logo.png?1606575207"
-}

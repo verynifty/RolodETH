@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeFIL",
-  "erc20_symbol": "DFL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17708/thumb/defillogo200200.png?1629080381"
-}

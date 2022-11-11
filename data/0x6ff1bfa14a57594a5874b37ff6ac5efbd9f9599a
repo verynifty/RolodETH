@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "TotemFi",
-  "erc20_symbol": "TOTM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14680/thumb/TOTM.png?1617721704"
-}

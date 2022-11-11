@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Oddz",
-  "erc20_symbol": "ODDZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14421/thumb/NewLogo.png?1645171454"
-}

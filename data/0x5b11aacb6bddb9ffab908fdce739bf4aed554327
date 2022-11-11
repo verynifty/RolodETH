@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "TrueDeck",
-  "erc20_symbol": "TDP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6567/thumb/truedeck.png?1548759129"
-}

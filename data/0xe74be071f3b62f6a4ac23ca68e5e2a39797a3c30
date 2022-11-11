@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Recharge",
-  "erc20_symbol": "RCG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18120/thumb/thecharge.PNG?1630559768"
-}

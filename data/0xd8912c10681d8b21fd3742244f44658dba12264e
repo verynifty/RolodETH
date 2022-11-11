@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Pluton",
-  "erc20_symbol": "PLU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1241/thumb/pluton.png?1548331624"
-}

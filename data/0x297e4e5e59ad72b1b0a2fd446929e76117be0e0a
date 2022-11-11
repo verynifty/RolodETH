@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Smart Valor",
-  "erc20_symbol": "VALOR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7231/thumb/smart_valor.png?1555925772"
-}

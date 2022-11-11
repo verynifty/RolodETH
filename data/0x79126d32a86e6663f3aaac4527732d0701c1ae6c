@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Dark Matter",
-  "erc20_symbol": "DMT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14223/thumb/dmt.jpg?1615089067"
-}

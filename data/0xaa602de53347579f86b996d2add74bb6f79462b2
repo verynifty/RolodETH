@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Zipmex",
-  "erc20_symbol": "ZMT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13866/thumb/ZMT_Token.png?1637241562"
-}

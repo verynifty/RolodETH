@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PieDAO BTC  ",
-  "erc20_symbol": "BTC++",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10959/thumb/BTC__.png?1586499443"
-}

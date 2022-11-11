@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SideShift",
-  "erc20_symbol": "XAI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15719/thumb/sideshift-icon_3x.png?1621595183"
-}

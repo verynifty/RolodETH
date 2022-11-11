@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Waves",
-  "erc20_symbol": "WAVES",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/425/thumb/waves.png?1548386117"
-}

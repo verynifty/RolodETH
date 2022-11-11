@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ripio Credit Network",
-  "erc20_symbol": "RCN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1057/thumb/ripio-credit-network.png?1548608361"
-}

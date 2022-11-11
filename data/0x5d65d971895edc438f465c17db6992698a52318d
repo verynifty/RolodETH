@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nebulas",
-  "erc20_symbol": "NAS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2431/thumb/193394331.png?1597976208"
-}

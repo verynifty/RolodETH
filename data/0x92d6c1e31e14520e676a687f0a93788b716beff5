@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "dYdX",
-  "erc20_symbol": "DYDX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17500/thumb/hjnIm9bV.jpg?1628009360"
-}

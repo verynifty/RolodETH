@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MoonTools",
-  "erc20_symbol": "MOONS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12793/thumb/moontools-token-logo.png?1602588060"
-}

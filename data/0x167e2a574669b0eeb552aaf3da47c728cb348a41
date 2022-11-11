@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Spartan",
-  "erc20_symbol": "300",
-  "erc20_decimals": 7,
-  "imageURL": "https://assets.coingecko.com/coins/images/13371/thumb/spartan300-200x200.png?1607986424"
-}

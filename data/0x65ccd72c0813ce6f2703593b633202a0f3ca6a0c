@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nestree",
-  "erc20_symbol": "EGG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9362/thumb/nestree.png?1566529061"
-}

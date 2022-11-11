@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Schrodinger",
-  "erc20_symbol": "KITTYDINGER",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/19649/thumb/kitty_dinger.png?1636332557"
-}

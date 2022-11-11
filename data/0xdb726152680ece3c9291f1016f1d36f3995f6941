@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Media Network",
-  "erc20_symbol": "MEDIA",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/15142/thumb/media50x50.png?1620122020"
-}

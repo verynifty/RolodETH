@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped Ampleforth",
-  "erc20_symbol": "WAMPL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951"
-}

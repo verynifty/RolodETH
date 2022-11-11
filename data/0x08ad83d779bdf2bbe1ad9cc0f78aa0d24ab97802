@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Robonomics Web Services",
-  "erc20_symbol": "RWS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11885/thumb/rws_logo.png?1595745253"
-}

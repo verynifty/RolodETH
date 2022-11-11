@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "agEUR",
-  "erc20_symbol": "AGEUR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566"
-}

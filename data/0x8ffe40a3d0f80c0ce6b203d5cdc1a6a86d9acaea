@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "IG Gold",
-  "erc20_symbol": "IGG",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/7697/thumb/N7aEdYrY_400x400.png?1561587437"
-}

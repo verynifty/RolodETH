@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "TokenBot",
-  "erc20_symbol": "TKB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27106/thumb/tokenbot-logo-icon.png?1662007634"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GhostMarket",
-  "erc20_symbol": "GM",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1642574907"
-}

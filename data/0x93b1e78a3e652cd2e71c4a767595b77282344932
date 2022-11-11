@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BITO Coin",
-  "erc20_symbol": "BITO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7796/thumb/bitopro_28.png?1550628495"
-}

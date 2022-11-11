@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CryptoMoonShots",
-  "erc20_symbol": "CMS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18730/thumb/UEYC0ty.png?1633251229"
-}

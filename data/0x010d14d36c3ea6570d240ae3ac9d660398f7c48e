@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "XCF Token",
-  "erc20_symbol": "XCF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10987/thumb/xcf-icon-01-1-flat.png?1622195426"
-}

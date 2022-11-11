@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CPChain",
-  "erc20_symbol": "CPC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2760/thumb/cpchain.png?1547036953"
-}

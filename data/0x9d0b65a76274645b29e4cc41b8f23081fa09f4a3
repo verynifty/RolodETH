@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "iMe Lab",
-  "erc20_symbol": "LIME",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16243/thumb/lim_200.2.png?1623376205"
-}

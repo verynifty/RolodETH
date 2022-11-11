@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ApolloFi",
-  "erc20_symbol": "APO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26451/thumb/apo.png?1660311541"
-}

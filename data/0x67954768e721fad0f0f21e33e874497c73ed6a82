@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "KeKChain",
-  "erc20_symbol": "KEK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27061/thumb/20220816_155427.png?1661668348"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CropBytes",
-  "erc20_symbol": "CBX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19907/thumb/cbx.png?1647698560"
-}

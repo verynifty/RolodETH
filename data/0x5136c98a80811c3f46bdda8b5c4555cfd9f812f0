@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "indaHash",
-  "erc20_symbol": "IDH",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/1909/thumb/indahash.png?1547973902"
-}

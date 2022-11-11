@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "One Cash",
-  "erc20_symbol": "ONC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13529/thumb/onc_logo.png?1609406029"
-}

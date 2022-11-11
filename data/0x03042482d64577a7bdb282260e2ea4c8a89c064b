@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Centaur",
-  "erc20_symbol": "CNTR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12743/thumb/logo_%2898%29.png?1602630445"
-}

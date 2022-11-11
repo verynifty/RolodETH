@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Apollo Crypto",
-  "erc20_symbol": "APOLLO",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/22606/thumb/apollo-icon-green-black-w3-200.png?1656312049"
-}

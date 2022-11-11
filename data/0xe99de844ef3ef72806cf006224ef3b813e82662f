@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "YouMinter",
-  "erc20_symbol": "UMINT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24564/thumb/xXlHazn__400x400.jpg?1648190269"
-}

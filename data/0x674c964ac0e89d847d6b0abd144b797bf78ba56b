@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GreenWorld",
-  "erc20_symbol": "GWD",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/27771/thumb/200x200logo.png?1665737292"
-}

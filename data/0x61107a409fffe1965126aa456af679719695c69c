@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Umi Digital",
-  "erc20_symbol": "UMI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17874/thumb/Umi-200-x-200.png?1629700077"
-}

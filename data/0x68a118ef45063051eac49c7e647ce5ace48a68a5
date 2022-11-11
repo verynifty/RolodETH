@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Based Money",
-  "erc20_symbol": "BASED",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12115/thumb/Based.png?1597261198"
-}

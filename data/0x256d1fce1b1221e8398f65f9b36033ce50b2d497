@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Alvey Chain",
-  "erc20_symbol": "WALV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26964/thumb/logo200x200.png?1661079637"
-}

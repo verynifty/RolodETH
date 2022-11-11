@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GenCoin Capital",
-  "erc20_symbol": "GENCAP",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/22282/thumb/200x200_logo.png?1641364979"
-}

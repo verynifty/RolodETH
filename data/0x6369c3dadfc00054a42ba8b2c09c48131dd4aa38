@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Morpher",
-  "erc20_symbol": "MPH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12619/thumb/morpher_200_200.png?1601524084"
-}

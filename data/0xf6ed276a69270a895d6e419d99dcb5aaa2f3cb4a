@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SwapAll",
-  "erc20_symbol": "SAP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13014/thumb/fav.png?1604383601"
-}

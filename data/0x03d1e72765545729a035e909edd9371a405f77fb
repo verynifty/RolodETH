@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nabox",
-  "erc20_symbol": "NABOX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16445/thumb/NyemjVRA_400x400.png?1624235013"
-}

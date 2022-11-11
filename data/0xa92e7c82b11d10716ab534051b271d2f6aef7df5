@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ara",
-  "erc20_symbol": "ARA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13877/thumb/ara-icon-200.png?1628171321"
-}

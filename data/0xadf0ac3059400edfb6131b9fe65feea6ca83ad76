@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Turtle Shell Islands",
-  "erc20_symbol": "SHELL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26925/thumb/slogo.png?1660833387"
-}

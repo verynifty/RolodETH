@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MoonRock V2",
-  "erc20_symbol": "ROCK",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/25147/thumb/96251267.png?1650438435"
-}

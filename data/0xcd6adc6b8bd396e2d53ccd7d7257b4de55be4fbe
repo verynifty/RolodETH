@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CFL365 Finance",
-  "erc20_symbol": "CFL365",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17548/thumb/cfl365.PNG?1628218865"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "renFIL",
-  "erc20_symbol": "RENFIL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13375/thumb/Filecoin.jpg?1628072923"
-}

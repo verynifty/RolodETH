@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AllianceBlock",
-  "erc20_symbol": "ALBT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12392/thumb/alliance_block_logo.jpg?1599546617"
-}

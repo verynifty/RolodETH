@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GOGO Finance",
-  "erc20_symbol": "GOGO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13857/thumb/gogofinance.png?1612404853"
-}

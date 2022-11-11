@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "JPGoldCoin",
-  "erc20_symbol": "JPGC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27321/thumb/JPGC_LOGO-_Coingecko.png?1663319056"
-}

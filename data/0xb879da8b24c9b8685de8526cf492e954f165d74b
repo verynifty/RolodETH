@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MovieBloc",
-  "erc20_symbol": "MBL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8460/thumb/MBL_Logo.png?1628258374"
-}

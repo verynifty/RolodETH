@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MAI",
-  "erc20_symbol": "MIMATIC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018"
-}

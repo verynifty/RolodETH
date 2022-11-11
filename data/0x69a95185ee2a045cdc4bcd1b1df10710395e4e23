@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Poolz Finance",
-  "erc20_symbol": "POOLZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13679/thumb/poolz_logo.png?1610806091"
-}

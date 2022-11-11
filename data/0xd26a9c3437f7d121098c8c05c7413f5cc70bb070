@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Azuma Coin",
-  "erc20_symbol": "AZUM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10483/thumb/WDncHJ5.png?1580161760"
-}

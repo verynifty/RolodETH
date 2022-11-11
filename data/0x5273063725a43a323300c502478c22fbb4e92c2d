@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "My Identity Coin",
-  "erc20_symbol": "MYID",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15063/thumb/MYID-LOGO.png?1619594142"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ampleforth Governance",
-  "erc20_symbol": "FORTH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14917/thumb/photo_2021-04-22_00.00.03.jpeg?1619020835"
-}
