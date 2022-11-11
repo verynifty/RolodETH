@@ -22,6 +22,7 @@ RolodETH.prototype.normalizeAddress = function (address) {
 
 RolodETH.prototype.get = function (address) {
     let nAddress = this.normalizeAddress(address);
+    console.log(nAddress)
     return (this.kfs[nAddress]);
 }
 
