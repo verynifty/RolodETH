@@ -20,6 +20,11 @@ RolodETH.prototype.normalizeAddress = function (address) {
     return address.toLowerCase()
 }
 
+RolodETH.prototype.get = function (address) {
+    let nAddress = this.normalizeAddress(address);
+    return (this.kfs[nAddress]);
+}
+
 RolodETH.prototype.addProperty = async function (address, propertyName, value) {
     if (value == null || value == "") {
         return;
@@ -55,19 +60,6 @@ RolodETH.prototype.addTag = function (address, tagName) {
             this.kfs[nAddress] = existing;
         }
     }
-}
-
-RolodETH.prototype.count = function () {
-
-}
-
-RolodETH.prototype.toString = async function () {
-
-
-}
-
-RolodETH.prototype.toFile = function (path) {
-
 }
 
 module.exports = RolodETH;

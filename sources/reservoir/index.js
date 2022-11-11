@@ -1,5 +1,6 @@
 const axios = require("axios");
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 function reservoir(address) {
     this.name = "JSONImporter_" + address + "_" + Date.now();
     this.address = address;
@@ -28,21 +29,8 @@ reservoir.prototype.addTo = async function (RolodETH) {
             continuation = false;
         }
         console.log("requests:", requests++)
+        await sleep(1000); // sleep 1 sec for rate limit
     }
-    return;
-    for (const address in labels) {
-        if (Object.hasOwnProperty.call(labels, address)) {
-            const label = labels[address];
-            console.log(label)
-            if (label.name != null && label.name != "") {
-                RolodETH.addProperty(address, "name", label.name);
-            }
-            for (const tag of label.labels) {
-                RolodETH.addTag(address, tag);
-            }
-        }
-    }
-
 }
 
 module.exports = reservoir;
