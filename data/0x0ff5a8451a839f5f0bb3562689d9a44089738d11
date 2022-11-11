@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Dopex Rebate",
+  "erc20_symbol": "RDPX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16659/thumb/rDPX_200x200_Coingecko.png?1624614475"
+}

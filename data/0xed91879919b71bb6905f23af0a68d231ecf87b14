@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DMM  Governance",
+  "erc20_symbol": "DMG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11677/thumb/dmm.png?1592674690"
+}

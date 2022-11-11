@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "hiODBS",
+  "erc20_symbol": "HIODBS",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DePay",
+  "erc20_symbol": "DEPAY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13183/thumb/DEPAY.png?1650615816"
+}

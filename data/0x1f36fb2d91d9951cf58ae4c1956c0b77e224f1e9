@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "VCGamers",
+  "erc20_symbol": "VCG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22371/thumb/VCG-Token-Logo-PNG.png?1643187590"
+}

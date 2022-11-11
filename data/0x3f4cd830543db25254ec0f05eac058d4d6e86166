@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Jindoge",
+  "erc20_symbol": "JINDOGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15417/thumb/JINDOGE.png?1620774122"
+}

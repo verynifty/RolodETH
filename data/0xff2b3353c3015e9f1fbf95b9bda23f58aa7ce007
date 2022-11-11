@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BitScreener",
+  "erc20_symbol": "BITX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4241/thumb/bitx.png?1547039570"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DRC Mobility",
+  "erc20_symbol": "DRC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13457/thumb/drc_symbol.png?1608759323"
+}

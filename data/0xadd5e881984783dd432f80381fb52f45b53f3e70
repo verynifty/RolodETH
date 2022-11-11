@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Vite",
+  "erc20_symbol": "VITE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4513/thumb/Vite.png?1558014583"
+}

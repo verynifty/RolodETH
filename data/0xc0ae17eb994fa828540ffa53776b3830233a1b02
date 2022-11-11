@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Element Black",
+  "erc20_symbol": "ELT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25160/thumb/4TCtUKHs_400x400.jpg?1650464346"
+}

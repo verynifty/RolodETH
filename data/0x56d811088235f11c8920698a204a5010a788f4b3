@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "blocked",
+    "bzx"
+  ],
+  "name": "bZx Protocol Token",
+  "erc20_symbol": "BZRX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1594563172"
+}

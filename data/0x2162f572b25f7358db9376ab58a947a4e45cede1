@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LABEL Foundation",
+  "erc20_symbol": "LBL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19202/thumb/tele_profile_%EB%8C%80%EC%A7%80_1_-_%282%29.png?1634680838"
+}

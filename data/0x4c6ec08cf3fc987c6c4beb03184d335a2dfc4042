@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MurAll",
+  "erc20_symbol": "PAINT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14103/thumb/paint_logo_200x200.png?1614325640"
+}

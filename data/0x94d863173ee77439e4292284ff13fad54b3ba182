@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Delphi",
+  "erc20_symbol": "ADEL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12300/thumb/adel_on_white_10x.png?1598967061"
+}

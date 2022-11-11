@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Internxt",
+  "erc20_symbol": "INXT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/986/thumb/inxt.png?1639651885"
+}

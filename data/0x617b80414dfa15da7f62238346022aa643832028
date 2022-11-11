@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Waifu - NFT Automation",
+  "imageUrl": "https://i.seadn.io/gae/OLT_OdHo2Hl5fJmwk1mRL0IAt2VK7M4IEaZGwJXVpvh67Gnu5EvYujLQ-K9Cn5rdYZN6jgDGuJ9v-iBSL02YykZdqHS6AnsRQTBk?w=500&auto=format",
+  "externalUrl": "https://etherscan.io/address/0x617b80414DfA15Da7F62238346022Aa643832028",
+  "discordUrl": "https://discord.gg/nonfungiblewaifu",
+  "twitterUsername": "fungiblewaifu",
+  "description": "Holding a token from this collection will allow a user to successfully authenticate with Waifu, an up and coming NFT bot allowing users to automate the minting process with ease.\n\nEach token will have a different expiry date and time, the exact time this token expires can be found under the EXPIRY UNIX attribute."
+}

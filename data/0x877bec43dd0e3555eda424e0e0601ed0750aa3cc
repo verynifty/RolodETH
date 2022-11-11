@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Jackson On Chain NFT",
+  "imageUrl": "https://openseauserdata.com/files/4e843ac5b154df071eb0c50aa904b1d1.svg",
+  "externalUrl": "http://www.jacksonnft.xyz",
+  "twitterUsername": "LXRogers",
+  "description": "##100% On Chain Dynamic Art\n\nJackson is a dynamic art project where each canvas grows over time based on who mints from the collection. \n\n! Be sure to click 'refresh metadata' to make sure the image of your Jackson is up-to-date on OpenSea. You can always view the live version on jacksonnft.xyz/browse/tokenId !\n\nEach Jackson starts out with one brush stroke on it, which was generated from the minter's address. This brush stroke was added to canvases that were minted before it. In turn, the Jackson will grow over time and gain new brush strokes as more Jacksons are minted.\n\nFor each Jackson, you can view which canvases it painted on as well as where each brush stroke came from by visiting www.jacksonnft.xyz/browse/tokenId, where tokenId is the 0-999 token ID."
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "1Million",
+  "erc20_symbol": "1MT",
+  "erc20_decimals": 7,
+  "imageURL": "https://assets.coingecko.com/coins/images/8495/thumb/1MTp.png?1586964391"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Zeedex",
+  "erc20_symbol": "ZDEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12412/thumb/Untitled-design-4.png?1599647173"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Shaman",
+  "erc20_symbol": "SHAMAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25292/thumb/0v-V3FPz_400x400.jpg?1651139525"
+}

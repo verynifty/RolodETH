@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CRE8R DAO",
+  "erc20_symbol": "CRE8R",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22568/thumb/cropped-FINALwithbrick-2-1-1.png?1642060468"
+}

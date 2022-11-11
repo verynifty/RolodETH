@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TigerQueen",
+  "erc20_symbol": "TQUEEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22531/thumb/Logo-Tiger-Queen.png?1641997189"
+}

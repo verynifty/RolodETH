@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Jenny DAO V2",
+  "erc20_symbol": "JENNY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28116/thumb/jenny.png?1667554356"
+}

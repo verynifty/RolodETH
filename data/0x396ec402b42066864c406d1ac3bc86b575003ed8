@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Buying com",
+  "erc20_symbol": "BUY",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/5290/thumb/buying_200x200.png?1628587856"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "YieldWars",
+  "erc20_symbol": "WAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12633/thumb/121169136_333321361293975_7238588238572942050_n.png?1602551929"
+}

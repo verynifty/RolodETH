@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WPT Investing Corp",
+  "erc20_symbol": "WPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26431/thumb/200200.png?1657934772"
+}

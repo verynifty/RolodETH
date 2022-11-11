@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Halving",
+  "erc20_symbol": "HALV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12085/thumb/Halv-logo-200x200.png?1597009175"
+}

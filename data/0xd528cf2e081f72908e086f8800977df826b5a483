@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Paribus",
+  "erc20_symbol": "PBX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18410/thumb/paribus.PNG?1631828570"
+}

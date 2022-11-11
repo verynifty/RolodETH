@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Planet Inu",
+  "erc20_symbol": "PLANETINU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/21025/thumb/61a411c49069ade3e2229ae2_2021-11-29_00.32_1.png?1638196668"
+}

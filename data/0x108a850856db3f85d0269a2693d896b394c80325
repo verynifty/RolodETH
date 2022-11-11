@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "THORWallet DEX",
+  "erc20_symbol": "TGT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21843/thumb/tgt_logo.png?1641568708"
+}

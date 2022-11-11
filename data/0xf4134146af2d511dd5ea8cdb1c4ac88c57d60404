@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SunContract",
+  "erc20_symbol": "SNC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1166/thumb/suncontract.png?1548611174"
+}

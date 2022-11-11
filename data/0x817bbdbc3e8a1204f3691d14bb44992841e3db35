@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cudos",
+  "erc20_symbol": "CUDOS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13651/thumb/CudosIconTransparent.png?1610631426"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MintySwap",
+  "erc20_symbol": "MINTYS",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17975/thumb/Minty-logo-200x200.png?1629966728"
+}

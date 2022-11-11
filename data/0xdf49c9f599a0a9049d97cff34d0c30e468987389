@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SaTT",
+  "erc20_symbol": "SATT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4070/thumb/r3s9XKk.png?1623046839"
+}

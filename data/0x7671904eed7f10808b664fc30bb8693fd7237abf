@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bitberry",
+  "erc20_symbol": "BBR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13673/thumb/1_AdMyBccrRv0e6rhW7UKJSw.png?1610681228"
+}

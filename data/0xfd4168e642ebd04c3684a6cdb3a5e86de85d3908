@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "The APIS",
+  "erc20_symbol": "API",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14055/thumb/Screenshot_2022-03-10_at_11.09.50_AM.png?1646882043"
+}

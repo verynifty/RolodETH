@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BlackHole Protocol",
+  "erc20_symbol": "BLACK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15124/thumb/blackhole.PNG?1620094580"
+}

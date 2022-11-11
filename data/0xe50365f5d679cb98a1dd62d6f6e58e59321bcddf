@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "latoken"
+  ],
+  "name": "LA Token",
+  "erc20_symbol": "LA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1051/thumb/LA_token.png?1605772040"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Switch",
+  "erc20_symbol": "ESH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8608/thumb/Cco9sLN.png?1603676332"
+}

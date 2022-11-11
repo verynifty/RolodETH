@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Truebit Protocol",
+  "erc20_symbol": "TRU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15053/thumb/Truebit.png?1623296246"
+}

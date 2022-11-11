@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kaeri",
+  "erc20_symbol": "KAERI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27977/thumb/63370e2a1f2bea31fc7f6977_512x512_v2-p-500-2.png?1666846544"
+}

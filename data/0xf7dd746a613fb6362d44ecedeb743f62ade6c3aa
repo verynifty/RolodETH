@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FIFTYONEFIFTY",
+  "erc20_symbol": "FIFTY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/18207/thumb/5150icon.png?1630980446"
+}

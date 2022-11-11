@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gains",
+  "erc20_symbol": "GAINS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14681/thumb/GAINS_Token_200x200.png?1617796172"
+}

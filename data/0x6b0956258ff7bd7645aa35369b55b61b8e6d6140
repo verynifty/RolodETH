@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Maximus LUCKY",
+  "erc20_symbol": "LUCKY",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/27685/thumb/IMG_1129.PNG?1665214648"
+}

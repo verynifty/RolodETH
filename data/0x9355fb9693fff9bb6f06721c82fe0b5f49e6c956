@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "RGB",
+  "imageUrl": "https://i.seadn.io/gae/8Abr3TJPsX0uQyk9ZRSJUgZiGz8-EhsUHWhJCeF8Mt8OtfmYWSFPaJ66UU468uB1WZwG5yEX7W62C1qQXKqfmEna?w=500&auto=format",
+  "externalUrl": "https://etherscan.io/dapp/0x9355fb9693fff9bb6f06721c82fe0b5f49e6c956",
+  "discordUrl": "https://discord.gg/GYV8JRR",
+  "twitterUsername": "alxocity",
+  "description": "Alert! Each MATH token has been split into 3 universes: Red, Green, and Blue. It is your job to rescue them into RGB pixel art masterpieces. Call the \"add\" contract function with payableAmount = 0.03 and 3 MATH token ids to superimpose into a new RGB token. Owners of the MATH tokens split the fee as royalty."
+}

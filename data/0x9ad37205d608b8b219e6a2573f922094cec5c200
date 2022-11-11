@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Izumi Finance",
+  "erc20_symbol": "IZI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1640053924"
+}

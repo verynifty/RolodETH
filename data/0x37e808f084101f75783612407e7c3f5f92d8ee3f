@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Xiotri RI",
+  "erc20_symbol": "RI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12536/thumb/Ri_logo_512x512.png?1601775196"
+}

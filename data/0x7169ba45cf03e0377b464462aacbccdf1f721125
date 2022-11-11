@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "1peco",
+  "erc20_symbol": "1PECO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22312/thumb/1PECO_200x200.png?1641467088"
+}

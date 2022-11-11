@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lumerin",
+  "erc20_symbol": "LMR",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/24593/thumb/Lumerin-icon.png?1650688090"
+}

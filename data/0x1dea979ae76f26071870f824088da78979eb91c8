@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SPINDLE",
+  "erc20_symbol": "SPD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3714/thumb/spindle-core-logo.png?1547038741"
+}

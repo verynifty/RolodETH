@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Suterusu",
+  "erc20_symbol": "SUTER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9830/thumb/p-NFlBlw_400x400.jpg?1572472860"
+}

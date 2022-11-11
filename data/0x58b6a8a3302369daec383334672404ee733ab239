@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "livepeer"
+  ],
+  "name": "Livepeer: LPT Token",
+  "erc20_symbol": "LPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1619593365"
+}

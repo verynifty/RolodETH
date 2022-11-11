@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lightcoin",
+  "erc20_symbol": "LHC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/16381/thumb/lhc.PNG?1623835248"
+}

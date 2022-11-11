@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bankroll Vault",
+  "erc20_symbol": "VLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11638/thumb/vlt-200.png?1592272725"
+}

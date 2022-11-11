@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CashBackPro",
+  "erc20_symbol": "CBP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12893/thumb/logo_%2818%29.png?1603766120"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Amun Polygon Ecosystem Index",
+  "erc20_symbol": "PECO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19270/thumb/amun-peco.png?1634868167"
+}

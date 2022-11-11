@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unikoin Gold",
+  "erc20_symbol": "UKG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1120/thumb/unikoin-gold.png?1548759441"
+}

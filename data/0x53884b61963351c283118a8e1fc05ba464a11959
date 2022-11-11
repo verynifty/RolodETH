@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Monnos",
+  "erc20_symbol": "MNS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11640/thumb/logo_%2880%29.png?1592274153"
+}

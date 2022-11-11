@@ -7,6 +7,6 @@ const scraper = new Scraper("https://rpc.flashbots.net/");
 
 (async () => {
 
-    await scraper.scrapeBlocks(RolodETH, 15635081, 15635091)
+    await scraper.scrapeBlocks(RolodETH, 15635081, 15635151)
     
 })();

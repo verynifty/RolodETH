@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Pranksy Rocks",
+  "imageUrl": "https://i.seadn.io/gae/_Cd9wdMNbq0Be4gyWB1YxVwV6O1yAyexH85FccNz_w7i9PT2rxxVwIOosjl7LYSBcVQ4WMDvX09aFJUKy4HKfTYTrg?w=500&auto=format",
+  "externalUrl": "https://app.rarible.com/collection/0xccd4b56d975620a7bef48fb5b8b00e28be668780",
+  "description": "i had to reuse the old 2020 advent calendar contract because Rarible kept failing trying to make a new ERC-1155 contract. Official home of terrible pranksy ideas like advent calendar and rocks."
+}

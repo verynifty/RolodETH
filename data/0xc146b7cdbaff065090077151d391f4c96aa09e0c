@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Multi Chain Capital",
+  "erc20_symbol": "MCC",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/21621/thumb/mcc.png?1639622572"
+}

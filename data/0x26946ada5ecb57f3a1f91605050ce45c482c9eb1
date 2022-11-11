@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "bitcoinsov"
+  ],
+  "name": "BitcoinSoV: BSOV Token",
+  "erc20_symbol": "BSOV",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/9205/thumb/bsov.png?1578020375"
+}

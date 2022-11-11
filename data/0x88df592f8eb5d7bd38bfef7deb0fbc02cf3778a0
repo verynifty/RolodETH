@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tellor",
+  "erc20_symbol": "TRB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686"
+}

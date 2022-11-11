@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "My Curio Cards",
+  "imageUrl": "https://i.seadn.io/gae/xNW1W9O2CYUNGS2GeHqv9yHw-wLdSb9uVoc51TL5GSp8yvC2en45pqp5zYFHhRGHZpgHJdagD2QELXwpu01frltG7Nl055aVqDTDSg?w=500&auto=format",
+  "externalUrl": "https://Curio.Cards",
+  "discordUrl": "https://discord.gg/qVZR6T7Arw",
+  "twitterUsername": "MyCurioCards",
+  "description": "[Curio Cards](https://curio.cards) is an online art show and the First Art NFTs on Ethereum, launched May 9, 2017. Featuring 30 unique series of cards from seven different artists, Curio Cards is referenced in the original ERC-721 Non-Fungible Token Standard and pre-dates CryptoPunks. Join the [Curio Discord](https://discord.curio.cards) and check out the [Curio Docs](https://docs.curio.cards) to learn more.\n\nGiven their age, Curio Cards are wrapped to work on platforms like OpenSea. If you purchased cards directly from the original contracts before March 2021, you can wrap them [here](https://wrap.curio.cards). Otherwise, you don't need to do anything. All cards on OpenSea are already wrapped.\n\nThe 1% artist royalty goes entirely to the original Curio Cards Artists."
+}

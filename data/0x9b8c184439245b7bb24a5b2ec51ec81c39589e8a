@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "KIMEX",
+  "erc20_symbol": "KMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8062/thumb/XSsfMr8.png?1554083098"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TouchCon",
+  "erc20_symbol": "TOC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8003/thumb/touchcon.png?1629088447"
+}

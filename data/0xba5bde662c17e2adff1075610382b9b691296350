@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "superrare"
+  ],
+  "name": "SuperRare: RARE Token",
+  "erc20_symbol": "RARE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534"
+}

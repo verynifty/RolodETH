@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeFiPie",
+  "erc20_symbol": "PIE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11956/thumb/98j5E_EG_400x400.png?1596644614"
+}

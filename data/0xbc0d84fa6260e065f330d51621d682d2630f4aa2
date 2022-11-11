@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BeatBind",
+  "erc20_symbol": "BBND",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16951/thumb/beatbind-logo.png?1625836007"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FREEdom coin",
+  "erc20_symbol": "FREE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5585/thumb/free.png?1639547764"
+}

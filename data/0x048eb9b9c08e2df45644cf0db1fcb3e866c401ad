@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Live Swap Coin",
+  "erc20_symbol": "LSC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15287/thumb/lsc.PNG?1620356318"
+}

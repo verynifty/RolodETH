@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DataKYC",
+  "erc20_symbol": "DKYC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7123/thumb/1btu7Lp__400x400.jpg?1547043621"
+}

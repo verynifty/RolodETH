@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hundred Finance",
+  "erc20_symbol": "HND",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18445/thumb/hnd.PNG?1632054703"
+}

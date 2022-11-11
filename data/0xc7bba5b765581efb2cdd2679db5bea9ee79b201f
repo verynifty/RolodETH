@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gems",
+  "erc20_symbol": "GEM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3945/thumb/Webp.net-resizeimage_%2817%29.jpg?1547038970"
+}

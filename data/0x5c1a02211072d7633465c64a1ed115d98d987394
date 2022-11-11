@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GTraX",
+  "erc20_symbol": "GTRX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27506/thumb/lcSVRB3TqwxffjniiK5S4n4C4lMRhx0wXIWA02iiQCHvz6sS96X69Iy_kb4YZXpe1OpmJTjE7518Bl6nmFh8BhpB_vTVWzk3pGiEjHJ4dHvQKkioP6xcO7VUCkwj2QqY6iN7j39OjzDp_FuBvN1ua4Ov1wVxxkeC6ozV37cLKcU5uuC0N5gFx6lioJyybw8QQ9rOwSEmdWPpJ5KAMgjr9ii-Hj4GwW3M6q8DsTZHy4gXXvH.jpeg?1664333232"
+}

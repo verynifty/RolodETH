@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "NAGA",
+  "erc20_symbol": "NGC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1439/thumb/naga.jpg?1547035515"
+}

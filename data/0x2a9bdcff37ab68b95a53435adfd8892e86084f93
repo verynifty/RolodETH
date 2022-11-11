@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Alpha Quark",
+  "erc20_symbol": "AQT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12872/thumb/alpha_quark_logo.png?1605169527"
+}

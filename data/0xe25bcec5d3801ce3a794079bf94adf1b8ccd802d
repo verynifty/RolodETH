@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "old-contract"
+  ],
+  "name": "MATRIX AI Network: Old Token",
+  "erc20_symbol": "MAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2698/thumb/matrix-ai-network.png?1547978533"
+}

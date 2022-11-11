@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Proton",
+  "erc20_symbol": "XPR",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/10941/thumb/Proton-Icon.png?1588283737"
+}

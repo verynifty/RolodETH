@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CitaDAO",
+  "erc20_symbol": "KNIGHT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22848/thumb/KNIGHT_TOKEN_LOGO.png?1643190758"
+}

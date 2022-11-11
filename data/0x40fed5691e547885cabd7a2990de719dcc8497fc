@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Safe Haven",
+  "erc20_symbol": "SHA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2584/thumb/safehaven.png?1620037471"
+}

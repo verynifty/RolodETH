@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "HOMT",
+  "erc20_symbol": "HOMT",
+  "erc20_decimals": 15,
+  "imageURL": "https://assets.coingecko.com/coins/images/11597/thumb/HOM-Token-Logo.jpg?1591668252"
+}

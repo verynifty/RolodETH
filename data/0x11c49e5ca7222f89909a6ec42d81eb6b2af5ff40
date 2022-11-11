@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BridgeCoin",
+  "erc20_symbol": "BRC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27334/thumb/brc.png?1663481808"
+}

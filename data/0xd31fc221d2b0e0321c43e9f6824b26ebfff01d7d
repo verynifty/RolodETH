@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Brotchain",
+  "imageUrl": "https://i.seadn.io/gae/94UUt89IKyW9isVCNsoQKmTsm5TSkUB-99-aTPY-NhN8tXwR3qbUXdsd00hyErRwBDHmzJn48Jh1JSnInmaF0DTomhU0O7-SVXXe?w=500&auto=format",
+  "externalUrl": "https://brotchain.art",
+  "discordUrl": "https://discord.gg/sVraemYmaG",
+  "twitterUsername": "brotchain",
+  "description": "\"In-chain\" generative art, Brots were the first bitmaps to be generated and rendered entirely by a blockchain contract. No externalities, no rendering dependencies—just 100% Solidity.\n\nCollectors can experiment with different colour palettes on our [site](https://brotchain.art/color-editor.html), before committing their favourite to the blockchain to update their piece.\n\nYou can hear creators, Arran and Harri, talking about the project with Kevin Rose on his NFT podcast [PROOF](https://www.proof.xyz/brotchain-generative-art-built-entirely-on-blockchain/)"
+}

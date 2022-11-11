@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wrapped NXM",
+  "erc20_symbol": "WNXM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11890/thumb/wrapped-nexus-mutual.jpg?1595811559"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Couchain",
+  "erc20_symbol": "COU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4529/thumb/couchain.png?1547039825"
+}

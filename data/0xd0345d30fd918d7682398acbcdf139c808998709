@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lixir Finance",
+  "erc20_symbol": "LIX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15333/thumb/SVxrN7DF_400x400.jpg?1637855435"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BoringDAO  OLD ",
+  "erc20_symbol": "BOR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12917/thumb/bor_logo.png?1603607502"
+}

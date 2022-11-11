@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OtherDAO",
+  "erc20_symbol": "OTHR",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/25882/thumb/othr.png?1654334543"
+}

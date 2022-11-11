@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Freeliquid",
+  "erc20_symbol": "FL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13698/thumb/freeliquid_logo.png?1610980336"
+}

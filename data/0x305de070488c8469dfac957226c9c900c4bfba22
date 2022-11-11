@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "More",
+  "erc20_symbol": "MORE",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/742/thumb/1722.png?1620080666"
+}

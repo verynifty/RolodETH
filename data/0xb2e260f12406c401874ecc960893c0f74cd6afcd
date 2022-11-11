@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BitUP BUT",
+  "erc20_symbol": "BUT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6041/thumb/bitup_token.jpg?1548828844"
+}

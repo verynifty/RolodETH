@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chainlink",
+  "erc20_symbol": "LINK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700"
+}

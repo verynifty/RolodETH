@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "BlockGlyphs",
+  "imageUrl": "https://i.seadn.io/gae/wGglylJiCKKVcTO7n_WGTkUSQA72VX52OHVS83y1TwoCoshYEx3MOoUAXig1epRSsAirv85FljRJskIMQO_NRve5H-DQzs9xHk_guQ?w=500&auto=format",
+  "externalUrl": "https://www.blockglyphs.com/",
+  "discordUrl": "https://discord.gg/hQBCyVKnGy",
+  "twitterUsername": "BlockGlyphs",
+  "description": "BlockGlyphs is an on-chain generative art project stored on the Ethereum Blockchain. Each BlockGlyph is generated using p5.js, a Javascript library for creative coding. Visit [www.blockglyphs.com](https://blockglyphs.com) to learn more."
+}

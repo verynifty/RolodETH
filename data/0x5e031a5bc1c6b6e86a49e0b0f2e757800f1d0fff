@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DaFIN",
+  "erc20_symbol": "DAF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17378/thumb/dafin.PNG?1627454158"
+}

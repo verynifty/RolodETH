@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chedda",
+  "erc20_symbol": "CHEDDA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22654/thumb/cMckil70_400x400.jpg?1642400459"
+}

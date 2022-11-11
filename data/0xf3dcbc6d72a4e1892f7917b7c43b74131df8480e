@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Big Data Protocol",
+  "erc20_symbol": "BDP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14222/thumb/logo_BDP_200.png?1615088501"
+}

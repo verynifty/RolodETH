@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Inari",
+  "erc20_symbol": "INARI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16795/thumb/token_logo_%281%29.png?1625036828"
+}

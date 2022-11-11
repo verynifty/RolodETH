@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Poken",
+  "erc20_symbol": "PKN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21574/thumb/G10VNBAR_400x400.jpg?1639490463"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CortexDAO",
+  "erc20_symbol": "CXD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25224/thumb/cortex.jpg?1650979502"
+}

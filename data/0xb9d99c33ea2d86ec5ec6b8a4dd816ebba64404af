@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "K21",
+  "erc20_symbol": "K21",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14466/thumb/k21-token.png?1616775801"
+}

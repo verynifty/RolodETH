@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wallstreetbets com",
+  "erc20_symbol": "WSB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24170/thumb/18622.png?1646718687"
+}

@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Shackled Genesis",
+  "imageUrl": "https://i.seadn.io/gae/4ZRSS-C9_XrXnwOIZc651oVvx6ErF0pBbWK4jq4wmoj9Ay8faivIDHIB4T1Apl8GSx9qmSTmDyuvTBahTCqGbCQczXU_ReEJn3rF_co?w=500&auto=format",
+  "externalUrl": "https://shackled.spectra.art",
+  "discordUrl": "https://discord.gg/spectraart",
+  "twitterUsername": "SpectraArt_NFT",
+  "description": "Shackled is the first general-purpose 3D rendering engine built entirely within smart contracts for the Ethereum blockchain.\n\nTo demonstrate the power of this technology, we’re creating an on-chain collection of 1024 3D generative art pieces. \n\n# The Shackled Genesis collection.\n\nIn each Genesis piece, you’ll find an exploration of depth, symmetry, hierarchy, perspective, and emergence. This is explained in detail in our blog.\n\nThe real magic happens when we pass those structures to the Shackled on-chain rendering engine; it brings them to life by computing a vibrant 3D render. Uniquely, Shackled doesn’t require an off-chain or client-side renderer — it all happens on Ethereum. 3D art doesn’t get more on-chain than this."
+}

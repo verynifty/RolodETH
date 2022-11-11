@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WePiggy Coin",
+  "erc20_symbol": "WPC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21914/thumb/WPC200.png?1640262945"
+}

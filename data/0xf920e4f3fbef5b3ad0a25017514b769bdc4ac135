@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BABB",
+  "erc20_symbol": "BAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2168/thumb/babb.png?1547036466"
+}

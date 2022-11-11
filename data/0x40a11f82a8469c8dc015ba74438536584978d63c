@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Galileo",
+  "erc20_symbol": "GALI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28007/thumb/gali.jpg?1666939897"
+}

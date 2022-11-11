@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Jupiter",
+  "erc20_symbol": "JUP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10351/thumb/logo512.png?1632480932"
+}

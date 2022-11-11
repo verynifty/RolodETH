@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "USD Bancor",
+  "erc20_symbol": "USDB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10619/thumb/busd.png?1581026228"
+}

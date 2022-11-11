@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "contract-deployer",
+    "gitcoin-grantee",
+    "sybil-delegate"
+  ],
+  "name": "yearn: Deployer"
+}

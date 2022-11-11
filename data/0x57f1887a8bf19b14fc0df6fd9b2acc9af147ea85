@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "ens",
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "ENS: Ethereum Name Service",
+  "imageUrl": "https://i.seadn.io/gae/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ?w=500&auto=format",
+  "externalUrl": "https://ens.domains",
+  "twitterUsername": "ensdomains",
+  "description": "Ethereum Name Service (ENS) domains are secure domain names for the decentralized world. ENS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Ethereum addresses, IPFS hashes, or website URLs. ENS domains can be bought and sold on secondary markets."
+}

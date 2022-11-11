@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Swapr",
+  "erc20_symbol": "SWPR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501"
+}

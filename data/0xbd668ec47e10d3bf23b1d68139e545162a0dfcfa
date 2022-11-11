@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GranX Chain",
+  "erc20_symbol": "GRANX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18658/thumb/granx-002.png?1632812430"
+}

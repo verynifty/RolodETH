@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Uno Re",
+  "erc20_symbol": "UNO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15073/thumb/c0vbqVE.png?1632814516"
+}

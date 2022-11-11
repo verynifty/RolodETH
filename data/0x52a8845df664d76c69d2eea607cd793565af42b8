@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ApeX",
+  "erc20_symbol": "APEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25266/thumb/CxpMECpk_400x400_%281%29.png?1651067984"
+}

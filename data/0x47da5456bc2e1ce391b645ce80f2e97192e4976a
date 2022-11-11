@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PL Gnet",
+  "erc20_symbol": "PLUG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15824/thumb/PLUG_token.png?1622007572"
+}

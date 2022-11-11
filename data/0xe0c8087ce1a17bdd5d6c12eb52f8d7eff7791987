@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "old-contract"
+  ],
+  "name": "Linfinity: Old Token",
+  "erc20_symbol": "LFC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5364/thumb/Linfinity-logo.jpg?1547040963"
+}

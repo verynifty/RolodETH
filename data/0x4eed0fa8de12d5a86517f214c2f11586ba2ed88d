@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DragonBite",
+  "erc20_symbol": "BITE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16386/thumb/dragonbite.PNG?1623893567"
+}

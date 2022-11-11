@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Pawthereum",
+  "erc20_symbol": "PAWTH",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19275/thumb/pawth.png?1635127429"
+}

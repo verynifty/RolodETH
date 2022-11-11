@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Mondo Community Coin",
+  "erc20_symbol": "MNDCC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18680/thumb/mndcc_bildmarke_256px.png?1632965673"
+}

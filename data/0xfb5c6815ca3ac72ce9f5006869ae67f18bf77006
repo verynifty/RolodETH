@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "pSTAKE Finance",
+  "erc20_symbol": "PSTAKE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23931/thumb/PSTAKE_Dark.png?1645709930"
+}

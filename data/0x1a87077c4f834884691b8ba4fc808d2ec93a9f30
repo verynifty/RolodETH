@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Winry Inu",
+  "erc20_symbol": "WINRY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19420/thumb/winry.png?1640575013"
+}

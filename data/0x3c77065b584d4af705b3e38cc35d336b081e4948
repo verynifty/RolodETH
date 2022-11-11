@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "discreet (original set, deprecated)",
+  "imageUrl": "https://i.seadn.io/gae/ZnLMu_Ghe9SU96bQb-90gXbHCqtgO44B6ohgtYdBNfDw6Jz0Ll1wbk6B8nUERFk0mZ5OrDzzByIdAwLes9uSg75ZAfdEP_jb0lPel8M?w=500&auto=format",
+  "description": "MINTING COMPLETE — do not mint or purchase any items from this collection!\r\n\r\nNOTE FOR EXISTING TOKEN HOLDERS, tokenIds 1 to 575: Migration to new contract in progress until September 5th 2021, migrate before then by sending them to the new contract at `0x5C2AFeD4c41B85C36FFB6cC2A235AfA66C5A780D` via the `safeTransferFrom` function before the migration period finishes.\r\n\r\nNew contract: https://etherscan.io/address/discreet.eth\r\n\r\nCollection: https://opensea.io/collection/discreet-eth"
+}

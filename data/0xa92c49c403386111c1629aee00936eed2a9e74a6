@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kollector",
+  "erc20_symbol": "KLTR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19926/thumb/kbase_logo.jpg?1636302934"
+}

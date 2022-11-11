@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "HUMAN Protocol",
+  "erc20_symbol": "HMT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16412/thumb/human_protocol.PNG?1623971316"
+}

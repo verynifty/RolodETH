@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Continuum World",
+  "erc20_symbol": "UM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18798/thumb/Moneda.png?1633474110"
+}

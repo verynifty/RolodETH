@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "nft"
+  ],
+  "name": "Recursion by Hevey",
+  "imageUrl": "https://media.artblocks.io/192000000.png",
+  "externalUrl": "https://twitter.com/HeveyArt",
+  "description": "Recursion is a generative art project whose concept is recursion. Each variation starts with a block which is irregularly divided into smaller blocks, which are then divided into smaller blocks, which are then divided into smaller blocks, etc, based on a defined depth (to better visualize this concept, take a look at https://hevey.art/blog/recursion-concept). In this project, even the script is recursive! The script is able to generate a large number of variations and each of these variations is then able to generate its own variations (keeping the same properties) with a single click on the image. Drop Mechanic: Dutch Auction, with a start price of 3 ETH, decreasing in price every 5 minutes to a resting price of 0.25 ETH. Pricing Tiers: 3 / 2 / 1.5 / 1 / 0.75 / 0.5 / 0.35 / 0.25 ETH."
+}

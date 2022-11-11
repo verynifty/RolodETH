@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Metria Network",
+  "erc20_symbol": "METR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24870/thumb/Metria-logo_1.png?1649213114"
+}

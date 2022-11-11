@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Mandelbrot Set Collection",
+  "imageUrl": "https://i.seadn.io/gae/zMsLCZjtoeJr8flH-1MRh3KtFLvH33cyRPyf9ZDFFvXGionDJevBlIH0iwZnVEeZGfsaQvpIdA5wovX7O5CRrGhmitj0vf1SnEu5?w=500&auto=format",
+  "externalUrl": "https://mandelbrot.fractalnft.art",
+  "discordUrl": "https://discord.gg/NdsDp7QkRu",
+  "twitterUsername": "Fractal_dims",
+  "description": "The *Mandelbrot Set Collection* is a curated selection of points of the Mandelbrot, generated with a numerical algorithm and engraved into 1978 unique NFTs. Each work represents the neighborhood of one of our favorite points of the fractal, with a random zoom factor and colored with arbitrary gradients based on the number of iterations of the function f(z) = z^2 + c before the point diverges to infinity.\n\nNot all the attributes are equally likely, thus giving rise to different degrees of scarcity for each artwork. In particular, higher zoom levels are limited and golden-colored points are very scarce. Attribution is random, so we wish you the best of luck in unveiling one of the most out-of-the-ordinary pieces. \n\nMore info on [our website](https://mandelbrot.fractalnft.art/)\n\nMathematically linked to the [Julia Set Collection](https://opensea.io/collection/julia-set-collection) and the [Mandelbrot Trilogy Collection](https://opensea.io/collection/mandelbrot-trilogy-collection)"
+}

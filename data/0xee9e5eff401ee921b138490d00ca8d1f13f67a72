@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Asian Fintech",
+  "erc20_symbol": "AFIN",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7519/thumb/Afinlogo-200x200.png?1630048356"
+}

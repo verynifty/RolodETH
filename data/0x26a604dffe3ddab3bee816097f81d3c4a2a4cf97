@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CorionX",
+  "erc20_symbol": "CORX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13129/thumb/x_log.png?1605515405"
+}

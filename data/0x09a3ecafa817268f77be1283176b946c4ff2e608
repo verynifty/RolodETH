@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Mirror Protocol",
+  "erc20_symbol": "MIR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13295/thumb/mirror_logo_transparent.png?1611554658"
+}

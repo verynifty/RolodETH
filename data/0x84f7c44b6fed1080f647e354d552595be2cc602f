@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bigbom",
+  "erc20_symbol": "BBO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3795/thumb/bigbom-logo.png?1547038875"
+}

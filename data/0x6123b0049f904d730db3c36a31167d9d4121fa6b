@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "ribbon-finance"
+  ],
+  "name": "Ribbon Finance: RBN Token",
+  "erc20_symbol": "RBN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15823/thumb/RBN_64x64.png?1633529723"
+}

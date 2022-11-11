@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Launchpool",
+  "erc20_symbol": "LPOOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14041/thumb/dGUvV0HQ_400x400.jpg?1613976219"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Blockster",
+  "erc20_symbol": "BXR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19857/thumb/bxr-left2.png?1636064209"
+}

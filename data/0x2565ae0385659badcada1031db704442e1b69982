@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Assemble Protocol",
+  "erc20_symbol": "ASM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11605/thumb/gpvrlkSq_400x400_%281%29.jpg?1591775789"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CryptoTask",
+  "erc20_symbol": "CTASK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13965/thumb/cryptotask_logo.png?1613372242"
+}

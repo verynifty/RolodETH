@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "compound"
+  ],
+  "name": "Compound: cYFI Token",
+  "erc20_symbol": "CYFI",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/17530/thumb/cyfi.PNG?1628123155"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FIDEX Exchange",
+  "erc20_symbol": "FEX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/6843/thumb/1LC9qeLf_400x400.jpg?1547043159"
+}

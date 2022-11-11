@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nodeseeds",
+  "erc20_symbol": "NDS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14658/thumb/n1EiZLt.png?1618374330"
+}

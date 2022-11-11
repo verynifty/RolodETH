@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Name Change",
+  "erc20_symbol": "NCT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13826/thumb/hashmasks-nct.png?1612879286"
+}

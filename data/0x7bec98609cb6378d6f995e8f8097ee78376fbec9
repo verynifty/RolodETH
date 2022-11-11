@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LeisureMeta",
+  "erc20_symbol": "LM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25761/thumb/SVG_16533804486374586M.jpg?1653548604"
+}

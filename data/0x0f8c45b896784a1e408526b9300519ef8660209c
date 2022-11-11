@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "XMax",
+  "erc20_symbol": "XMX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/4643/thumb/xmx.png?1574682262"
+}

@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "The CAPTCHAs",
+  "imageUrl": "https://i.seadn.io/gae/MzDepHpzmHBl6cfyOeDEThqpndkcZraFEztFgnCeP6DEUN-70QCk7-tRbyBwjtVdyrlELHPeApchyNI8deeMFklIaF0-6OJO8GBzmnw?w=500&auto=format",
+  "externalUrl": "https://www.thecaptcha.art",
+  "discordUrl": "https://discord.gg/thecaptchas",
+  "twitterUsername": "CaptchasNFT",
+  "description": "Captchas is a collection of generative captchas that must be solved on-chain to mint. They serve as a proof of concept for on-chain captchas, which can make it more difficult for bots to participate in NFT drops. \n\n[thecaptcha.art](https://www.thecaptcha.art)"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Envelop  Niftsy ",
+  "erc20_symbol": "NIFTSY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19161/thumb/logo200x200.png?1643188130"
+}

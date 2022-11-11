@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SF Capital",
+  "erc20_symbol": "SFCP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6239/thumb/36952079_1621155091328297_7456989147790573568_n.jpg?1547042274"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OpenSwap One",
+  "erc20_symbol": "OPENX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19274/thumb/X_color.png?1654833718"
+}

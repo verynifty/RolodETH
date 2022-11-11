@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "pNetwork",
+  "erc20_symbol": "PNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11659/thumb/pNetwork.png?1592411134"
+}

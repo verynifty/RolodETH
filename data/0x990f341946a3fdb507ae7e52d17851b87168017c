@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "strongblock"
+  ],
+  "name": "StrongBlock: STRONG Token",
+  "erc20_symbol": "STRONG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12092/thumb/STRONG-Token-256x256.png?1597823573"
+}

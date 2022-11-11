@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aave AMM WETH",
+  "erc20_symbol": "AAMMWETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17259/thumb/aAMMWETH_2x.png?1626958225"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "PeopleLand",
+  "imageUrl": "https://i.seadn.io/gae/WzT1A5lCnRvhBsGbZu3VmXoetsPuuILhIX4y1NRBZecEtu-hPd6kGUHa6zCCnXbqA1-gc9SbMoejQq7P6h089rLD6y0KydYJpQRl?w=500&auto=format",
+  "discordUrl": "https://discord.gg/qdPkjaXkWy",
+  "description": "For the PEOPLE of ConstitutionDAO who made history\n\nRules\n\nDonors are free to mint a piece of land with no fee\n\nA person who has obtained 'land' is now PEOPLE\n\nA PEOPLE is allowed to invite at most two other persons\n\nTo invite a person you can mint land and provide that to him/her\n\nOnly one person can be the owner of a piece of land\n\nEach person can only accept an invitation once\n\nNeighbors\n\nPEOPLELAND saves invitations and neighbor's relationships forever.\n\nGetting an invitation is an honor and the value of land is determined by neighoring land, be careful to invite neighbors!\n\nExplaination\n\nLand is a space with (x,y) coordinates. The positive x is east and the negative is west, the positive y is north and the negative is south. Each value of x and y can only be a numerical whole number, there is no limit to the maximum possible range and every coordinate position represents an area of 100\n"
+}

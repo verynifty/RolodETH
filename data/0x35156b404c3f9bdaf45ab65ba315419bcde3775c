@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chihiro Inu",
+  "erc20_symbol": "CHIRO",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19721/thumb/chiro200x200.png?1642166355"
+}

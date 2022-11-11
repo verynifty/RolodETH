@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bone ShibaSwap",
+  "erc20_symbol": "BONE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16916/thumb/bone_icon.png?1625625505"
+}

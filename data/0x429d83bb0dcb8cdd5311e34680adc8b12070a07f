@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PlatonCoin",
+  "erc20_symbol": "PLTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7178/thumb/PLTC.png?1616126045"
+}

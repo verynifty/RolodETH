@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aurora Chain",
+  "erc20_symbol": "AOA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4755/thumb/aurora-logo.png?1547040076"
+}

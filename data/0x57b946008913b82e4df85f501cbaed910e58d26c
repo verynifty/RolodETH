@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Marlin",
+  "erc20_symbol": "POND",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Pitch",
+  "erc20_symbol": "PITCH",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/2855/thumb/pitch_token.jpg?1547037026"
+}

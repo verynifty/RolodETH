@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "EveryonesCrypto",
+  "erc20_symbol": "EOC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13081/thumb/logo_blue.png?1604976930"
+}

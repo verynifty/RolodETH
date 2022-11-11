@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ITEN",
+  "erc20_symbol": "ITEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12314/thumb/logo-light_%281%29.png?1599084234"
+}

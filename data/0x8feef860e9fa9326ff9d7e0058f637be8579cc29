@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Timers",
+  "erc20_symbol": "IPM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12649/thumb/logo200x200_%282%29.png?1601421807"
+}

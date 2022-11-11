@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "XOVBank",
+  "erc20_symbol": "XOV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5396/thumb/xov.jpg?1549857681"
+}

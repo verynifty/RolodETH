@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Erzurumspor Token",
+  "erc20_symbol": "ERZ",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/24809/thumb/17059.png?1649024114"
+}

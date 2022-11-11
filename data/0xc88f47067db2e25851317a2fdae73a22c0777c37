@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "old-contract"
+  ],
+  "name": "oneBTC: Old oneBTC Token",
+  "erc20_symbol": "ONEBTC",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/15082/thumb/G9oJy1-R.png?1619660359"
+}

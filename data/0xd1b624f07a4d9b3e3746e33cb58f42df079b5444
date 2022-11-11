@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "NKCL Classic",
+  "erc20_symbol": "NKCLC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17893/thumb/w02Nksm-.png?1629718144"
+}

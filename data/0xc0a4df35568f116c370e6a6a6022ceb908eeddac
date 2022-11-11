@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Umee",
+  "erc20_symbol": "UMEE",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/20635/thumb/1Ab_Umee_Brand_Icon_Full_Color.png?1645018295"
+}

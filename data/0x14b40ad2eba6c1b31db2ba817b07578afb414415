@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "colR Coin",
+  "erc20_symbol": "COLR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26701/thumb/colverse.jpeg?1659662193"
+}

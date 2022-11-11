@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Wrapped Curio Cards",
+  "imageUrl": "https://i.seadn.io/gae/7TrHn4WXzE4NyQF9DDjJ9wMWV5Dyo_sklBQfu3IA-TVjR4ydcQjYexm0mD5_bu8mwdaXRe3OEj4U9w5mw2og9cPv_oBm4xxSME0V5A?w=500&auto=format",
+  "externalUrl": "http://wrap.cards",
+  "discordUrl": "https://discord.gg/vN2trgAPA8",
+  "twitterUsername": "curio_cards",
+  "description": "Wrapped Curio Cards: the first ever ERC-1155 wrapping of the world's first proto-NFT, mentioned in the original ERC-721 specifications. Curio Cards are 30 unique art cards deployed on the blockchain — the first of their kind, predating both CryptoPunks and MoonCatRescue. This is the first original unofficial fully functional wrapper for Curio Cards. \r\n\r\nEach card in this collection is backed 1:1 by an official original ERC-20 Curio Card from 2017. Wrapped Curio Cards and original Curio Cards can be converted back and forth seamlessly at any time and in any quantity, either using the wrapper contract directly, or using our UI at http://wrap.cards/.\r\n\r\nThese Curio Cards contain the exact same underlying tokens as our sister verified collection (they're the same thing). Our collection also includes 17B - an earlier duplicate deployment of card 17 ('UASF')."
+}

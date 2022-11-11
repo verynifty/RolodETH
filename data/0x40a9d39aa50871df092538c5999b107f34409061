@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Instadapp DAI",
+  "erc20_symbol": "IDAI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25821/thumb/iDAI_100x100.png?1654055549"
+}

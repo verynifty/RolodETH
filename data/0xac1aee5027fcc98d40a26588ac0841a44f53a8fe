@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "WORD",
+  "imageUrl": "https://i.seadn.io/gae/uk4g2wguqOxvL58AA108ky42LCFwuxg5K0MEmUcccw_SqQfhGcTlDiTSWxAhqgbr-2jcK3bHQDqbnyGkKNGZxOgI?w=500&auto=format",
+  "externalUrl": "https://ethwords.co",
+  "discordUrl": "https://discord.gg/7B72HHb",
+  "twitterUsername": "WordsOnEth",
+  "description": "Word token to own your words.\n\nCollect your favorite Words powered by Ethereum blockchain.\nMint a new token for 0.002 by concatenating two existing tokens.\nGet paid (0.001) when other users use your token to mint a new one.\n\nWord tokens can be used to create Sentence tokens. Owner of each Word token used in the creation of a Sentence token gets paid (0.001) for each use of their Word tokens."
+}

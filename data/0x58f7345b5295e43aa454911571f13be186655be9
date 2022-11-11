@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Garlicoin",
+  "erc20_symbol": "GRLC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/2699/thumb/garlicoin.png?1548126827"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LivenPay",
+  "erc20_symbol": "LVN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9554/thumb/8PgKjhJn_400x400.jpg?1568837435"
+}

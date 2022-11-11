@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TapX",
+  "erc20_symbol": "TAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13942/thumb/tapx.png?1652444051"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unagii Tether USD",
+  "erc20_symbol": "UUSDT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/13778/thumb/uUSDT.png?1611729448"
+}

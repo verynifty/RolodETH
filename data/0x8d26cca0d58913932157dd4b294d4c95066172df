@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Millennium Sapphire",
+  "erc20_symbol": "MSTO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24020/thumb/eliUfGAG_400x400.jpg?1646040397"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sentinel Chain",
+  "erc20_symbol": "SENC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2960/thumb/sentinel-chain.jpg?1547037201"
+}

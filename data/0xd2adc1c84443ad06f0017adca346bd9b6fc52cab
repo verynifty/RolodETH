@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "dFund",
+  "erc20_symbol": "DFND",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15286/thumb/1zbdX36.png?1620355973"
+}

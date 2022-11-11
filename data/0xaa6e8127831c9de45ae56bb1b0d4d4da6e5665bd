@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "index-coop"
+  ],
+  "name": "Index Coop: ETH 2x Flexible Leverage Index",
+  "erc20_symbol": "ETH2X-FLI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "B watch Box",
+  "erc20_symbol": "BOX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25324/thumb/Screenshot_from_2022-04-29_17-04-42.png?1651223108"
+}

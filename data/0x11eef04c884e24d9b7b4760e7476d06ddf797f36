@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MX",
+  "erc20_symbol": "MX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8545/thumb/TII1YIdv_400x400.png?1559180170"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Taklimakan Network",
+  "erc20_symbol": "TAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1963/thumb/takli.png?1566738740"
+}

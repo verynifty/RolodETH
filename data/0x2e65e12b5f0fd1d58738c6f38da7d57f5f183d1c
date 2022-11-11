@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tepleton",
+  "erc20_symbol": "TEP",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/9622/thumb/tep.PNG?1569856834"
+}

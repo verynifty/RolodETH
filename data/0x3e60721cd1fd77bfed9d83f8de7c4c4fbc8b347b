@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Otis House",
+  "imageUrl": "https://i.seadn.io/gae/JsruAxJz4ETKyrGejttfb68dsLRNoaFcprqWwnvSMb3p6W_edh8X713x8AlaBMpXKnlNx-WHc6R7Q66ery_AVjvg9jEE_aNEFxC406g?w=500&auto=format",
+  "externalUrl": "https://www.otishouse.xyz/",
+  "description": "Otis House is a vault, marketplace, and auction platform for physical items, built on top of Ethereum. The physical items are stored, secured, and insured by Otis, then we mint an NFT for each item, representing ownership and protecting the provenance of the asset."
+}

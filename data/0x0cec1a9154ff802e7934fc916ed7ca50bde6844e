@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "pooltogether"
+  ],
+  "name": "PoolTogether: POOL Token",
+  "erc20_symbol": "POOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1613585632"
+}

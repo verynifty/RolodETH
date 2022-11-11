@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "revest-finance"
+  ],
+  "name": "Revest Finance: RVST Token",
+  "erc20_symbol": "RVST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18622/thumb/Qma94n6waADECpde1ukBBS8iNiECcdVcxjfgubnWPE9ZT7.png?1632701737"
+}

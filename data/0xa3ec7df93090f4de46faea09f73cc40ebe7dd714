@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Monkey King",
+  "erc20_symbol": "WUKONG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27238/thumb/wukong.png?1662877212"
+}

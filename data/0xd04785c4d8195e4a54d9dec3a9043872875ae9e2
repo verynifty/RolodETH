@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Rotten",
+  "erc20_symbol": "ROT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12560/thumb/rot_logo.png?1600762626"
+}

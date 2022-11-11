@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Idavoll DAO",
+  "erc20_symbol": "IDV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14229/thumb/71922199.png?1615169236"
+}

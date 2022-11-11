@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Trism",
+  "erc20_symbol": "TRISM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13549/thumb/76106366.png?1609715454"
+}

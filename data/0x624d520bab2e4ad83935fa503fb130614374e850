@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Smartshare",
+  "erc20_symbol": "SSP",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/4642/thumb/smartshare.png?1548609894"
+}

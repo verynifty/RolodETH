@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nsure Network",
+  "erc20_symbol": "NSURE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12948/thumb/Nsure_token.png?1603778876"
+}

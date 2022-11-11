@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "X,Y Project",
+  "imageUrl": "https://openseauserdata.com/files/980ed80888257c4f61f6521f5c93f309.svg",
+  "externalUrl": "https://xyproject.io",
+  "discordUrl": "https://discord.gg/zBWEsfufPZ",
+  "twitterUsername": "XYCoordinates",
+  "description": "The X,Y Project Genesis Collection is a set of XY Coordinates stored fully on the Ethereum blockchain, representing plots in a 128x128 grid. Use it for metaverse land, games, maps, locations, or anything you want! Your X,Y Coordinate also grants exclusive, members-only access to games, experiences, future NFT collections, and digital land in X,Y World.\n\nView the full XY Grid at [XYProject.io](https://xyproject.io) and build your own metaverse experience with the X,Y Project web3 gaming platform. Integrate any NFTs as in-game assets, playable avatars, or community token gating. Or play live on X,Y World, the first open world metaverse game built on X,Y Project\n\nCoordinates start at (0,0) and end at (127,127) with sequential tokenIDs starting from 1 to 16,384. You can convert from tokenID to x and y as follows: \n\nx = (tokenID - 1) % 128\n\ny = (tokenID - 1) / 128\n\nBrought to you by the team @ [NFTYverse API](https://nftyverse.com)"
+}

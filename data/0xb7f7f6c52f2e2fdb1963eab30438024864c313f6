@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Wrapped Cryptopunks",
+  "imageUrl": "https://i.seadn.io/gae/OnBu_tLdS59m_tThijZTUwikivyOdPFSY30VrD15Ucg8uW0x_bJ9iHQqP1iaQGh6Q5RllO_wFgfzVJunWgL6OWQw?w=500&auto=format",
+  "externalUrl": "https://wrappedpunks.com/",
+  "discordUrl": "https://discord.gg/Bvf5m9k",
+  "twitterUsername": "arkgalleryDAO",
+  "description": "Wrapped Punks are ERC721 Tokens, each one backed 1:1 by an original Cryptopunk by Larvalabs.\r\n\r\nBuy an original Cryptopunk at https://larvalabs.com/cryptopunks\r\n\r\nTurn your Original Cryptopunk into an ERC721 at https://wrappedpunks.com/\r\n\r\nCryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard."
+}

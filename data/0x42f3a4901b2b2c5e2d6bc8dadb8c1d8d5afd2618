@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Durham Inu",
+  "erc20_symbol": "RBI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24016/thumb/wk9djJpG_400x400.jpg?1646032297"
+}

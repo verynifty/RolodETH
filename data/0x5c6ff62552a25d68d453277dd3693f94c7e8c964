@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Fit Beat",
+  "erc20_symbol": "FTB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18871/thumb/ftb.png?1638183072"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Havens Nook",
+  "erc20_symbol": "HXN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14876/thumb/havennook.PNG?1618881827"
+}

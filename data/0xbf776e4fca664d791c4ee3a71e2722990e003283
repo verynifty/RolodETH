@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Smoothy",
+  "erc20_symbol": "SMTY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15039/thumb/dDxKgwPN_400x400.jpg?1619507030"
+}

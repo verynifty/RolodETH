@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SuperFarm",
+  "erc20_symbol": "SUPER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899"
+}

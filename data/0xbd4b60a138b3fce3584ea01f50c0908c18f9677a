@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FinTab",
+  "erc20_symbol": "FNTB",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/3773/thumb/300x300_%281%29.png?1547038862"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Voxel X Network",
+  "erc20_symbol": "VXL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21419/thumb/Voxel-Logo-200x200-Transparent.png?1639093664"
+}

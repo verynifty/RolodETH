@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aave BAL",
+  "erc20_symbol": "ABAL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17242/thumb/aBAL_2x.png?1626940749"
+}

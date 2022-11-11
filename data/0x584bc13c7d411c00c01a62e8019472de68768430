@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hegic",
+  "erc20_symbol": "HEGIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12454/thumb/new.png?1628668523"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MEDIBIT",
+  "erc20_symbol": "MEDIBIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6606/thumb/medibit.png?1547978632"
+}

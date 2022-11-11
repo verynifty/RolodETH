@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Railgun",
+  "erc20_symbol": "RAIL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16840/thumb/railgun.jpeg?1625322775"
+}

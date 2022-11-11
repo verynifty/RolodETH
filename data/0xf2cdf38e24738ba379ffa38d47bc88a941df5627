@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ally",
+  "erc20_symbol": "ALY",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/9619/thumb/BTf_sTXi_400x400.jpg?1569854715"
+}

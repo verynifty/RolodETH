@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Quidd",
+  "erc20_symbol": "QUIDD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19725/thumb/quidd.png?1637303435"
+}

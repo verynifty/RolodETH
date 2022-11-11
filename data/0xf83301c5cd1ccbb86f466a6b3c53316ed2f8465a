@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "COMSA",
+  "erc20_symbol": "CMS",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/2500/thumb/comsa-_xem_.png?1547036614"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gains Farm",
+  "erc20_symbol": "GFARM2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13703/thumb/gfarm_v2.png?1611035398"
+}

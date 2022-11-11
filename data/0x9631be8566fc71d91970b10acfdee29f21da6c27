@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Intelligent Monsters",
+  "erc20_symbol": "IMON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26077/thumb/imonToken.png?1655690407"
+}

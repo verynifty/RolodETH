@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hati",
+  "erc20_symbol": "HATI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25736/thumb/hati-logo.png?1653461606"
+}

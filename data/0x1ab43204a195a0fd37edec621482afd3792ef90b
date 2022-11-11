@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Aurigami",
+  "erc20_symbol": "PLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24074/thumb/EbB5N8IN_400x400.jpg?1646230298"
+}

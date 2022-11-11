@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Huobi Bitcoin Cash",
+  "erc20_symbol": "HBCH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14105/thumb/HBCh.png?1614330789"
+}

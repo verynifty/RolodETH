@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Quadrant Protocol",
+  "erc20_symbol": "EQUAD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4462/thumb/equad.png?1547039783"
+}

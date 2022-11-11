@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GigaSwap",
+  "erc20_symbol": "GIGA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26919/thumb/final_62fcaacdbcc9640975d3fb7c_822256.png?1660815521"
+}

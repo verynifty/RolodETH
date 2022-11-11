@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unicly Mystic Axies Collection",
+  "erc20_symbol": "UAXIE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14921/thumb/uaxie-mystic.png?1619055573"
+}

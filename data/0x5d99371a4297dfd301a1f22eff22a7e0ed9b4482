@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Generative Transfer Art Project 1",
+  "imageUrl": "https://i.seadn.io/gae/R0R5Dwe7XxPRgIbC3gpBrwTHMS5vwjj9f8BkhO_XfI7QEWE4kve4X_ezgaF-LSdq0eISdsosZhoSegixLy3uaBqs_c0LmU2rmxuFvyk?w=500&auto=format",
+  "externalUrl": "https://generative-transfer.art/",
+  "discordUrl": "https://discord.gg/uuWTZvUJqG",
+  "twitterUsername": "wilsoncusack",
+  "description": "⚠️Please read the description ⚠️\n\nGenerative Transfer Art Project 1 is the first in a series of experimental projects by [Wilson Cusack](https://twitter.com/WilsonCusack). Each NFT's image is created by its first 16 transfers, populating a 4x4 grid of squares. A new colored square is added on each transfer. The to address of the transfer determines the color.\n\nThere are 64 originals. Each original has up to 16 editions/copies, depending on the number of times transferred. Due to a bug, editions/copies mint more editions/copies when they are transferred. Please do due diligence to know whether you are buying an original or a copy. Copies do not add to the NFT art are when transferred, only the originals do. \n\nIf the number at the end of the url matches the displayed \"Token #...\", then it is an original. There is also a [collection of wrapped originals](https://opensea.io/collection/wgtap1-og). Visit our website and Discord for more info. "
+}

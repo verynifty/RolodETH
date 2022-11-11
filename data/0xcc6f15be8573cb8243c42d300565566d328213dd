@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OWN Token",
+  "erc20_symbol": "OWN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10950/thumb/cropped-WhatsApp-Image-2020-04-04-at-9.04.01-PM.jpeg?1586305520"
+}

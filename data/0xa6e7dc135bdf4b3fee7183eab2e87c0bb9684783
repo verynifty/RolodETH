@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BIGOCOIN",
+  "erc20_symbol": "BIGO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/10564/thumb/Bigocoin_1200px.jpg?1597463586"
+}

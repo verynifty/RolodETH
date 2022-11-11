@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Distortion Genesis",
+  "imageUrl": "https://i.seadn.io/gae/cCg34XsMWEaeIZ_BRWyZXfOXny6A9xKhQ3ejbIrHvbpT3wPSSntcuZ5dz-Levc-W4CoveJ1xZfJnipGwV3NCZyA49vi_d4we-PPxWA?w=500&auto=format",
+  "externalUrl": "https://0xdistortion.com",
+  "discordUrl": "https://discord.gg/rAQDwwXYbS",
+  "description": "Distortion is a fully hand-typed 100% on-chain art collection. It is designed to be displayed with no external browser libraries (e.g. p5js).\n\nDistortion's skeleton is wrapped within a smart contract which will use the hash of the block of the original collection's final mint as an input to make sure the collection has an immutable and verifiable provenance.\n\nThis is currently the only official collection, with a total max supply of 1,111 pieces.\n\nDiscord: https://discord.gg/r6s4k3pdHQ"
+}

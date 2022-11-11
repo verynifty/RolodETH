@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DEUS Finance",
+  "erc20_symbol": "DEUS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18778/thumb/DEUS-logo-200x200.png?1646318385"
+}

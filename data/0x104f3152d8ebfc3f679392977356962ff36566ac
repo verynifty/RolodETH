@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ChainPort",
+  "erc20_symbol": "PORTX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24490/thumb/VE-tUL-q_400x400.png?1647855096"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Talaria Inu",
+  "erc20_symbol": "TALI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21849/thumb/200_%2815%29.png?1640137716"
+}

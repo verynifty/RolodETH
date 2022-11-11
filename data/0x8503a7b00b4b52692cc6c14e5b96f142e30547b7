@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Meeds DAO",
+  "erc20_symbol": "MEED",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24281/thumb/s-YfFWYu_400x400.png?1647218173"
+}

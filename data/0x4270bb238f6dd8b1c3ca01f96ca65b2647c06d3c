@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Fortuna",
+  "erc20_symbol": "FOTA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2689/thumb/fortuna.png?1547483931"
+}

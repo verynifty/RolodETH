@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Filecoin Standard Full Hashrate",
+  "erc20_symbol": "SFIL",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/21669/thumb/_70BfuBY_400x400.jpg?1639706531"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "gemini"
+  ],
+  "name": "Gemini: eFIL Token",
+  "erc20_symbol": "EFIL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18231/thumb/output-onlinepngtools_%287%29.png?1631060559"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Upper Euro",
+  "erc20_symbol": "EURU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12353/thumb/euru.png?1642929585"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "The DAOX Index",
+  "erc20_symbol": "DAOX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25042/thumb/200px-DAOx.png?1649911875"
+}

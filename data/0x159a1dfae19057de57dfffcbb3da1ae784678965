@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Reflex",
+  "erc20_symbol": "RFX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/12745/thumb/2MKGMRCT_400x400.png?1602194456"
+}

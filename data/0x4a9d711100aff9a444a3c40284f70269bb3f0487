@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chellitcoin",
+  "erc20_symbol": "CHLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19192/thumb/chellit_ticker-01.png?1634632273"
+}

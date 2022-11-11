@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "CryptoBonusMiles",
+  "erc20_symbol": "CBM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9302/thumb/CryptoBonusMiles.png?1565865043"
+}

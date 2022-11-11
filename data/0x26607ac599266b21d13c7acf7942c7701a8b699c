@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "sybil-delegate"
+  ],
+  "name": "PowerIndex: PIPT Token",
+  "erc20_symbol": "PIPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13281/thumb/pipt_logo.jpg?1606910642"
+}

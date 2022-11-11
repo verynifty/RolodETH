@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Adventure Gold",
+  "erc20_symbol": "AGLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955"
+}

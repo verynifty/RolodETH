@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ULTRON",
+  "erc20_symbol": "ULX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26977/thumb/ULX.png?1661168951"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Chainflix",
+  "erc20_symbol": "CFXT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17671/thumb/Logo_200_%282%29.png?1628822696"
+}

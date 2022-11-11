@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PoS 32",
+  "erc20_symbol": "POS32",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27358/thumb/90532f66-9158-4bd4-8928-bcb8ec012579.png?1663663764"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "i9 Coin",
+  "erc20_symbol": "I9C",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/12399/thumb/Vvm9V6YM_400x400.png?1599556271"
+}

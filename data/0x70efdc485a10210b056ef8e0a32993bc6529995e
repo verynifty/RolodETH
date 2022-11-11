@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Blaze Network",
+  "erc20_symbol": "BLZN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12248/thumb/A8JOuPSJ_400x400.jpg?1598511402"
+}

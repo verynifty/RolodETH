@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Matrix Labs",
+  "erc20_symbol": "MATRIX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18297/thumb/matrixlabs.png?1643277367"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Akamaru Inu",
+  "erc20_symbol": "AKAMARU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19375/thumb/akamaru.png?1635136512"
+}

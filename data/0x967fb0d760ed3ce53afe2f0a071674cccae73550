@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "XANA",
+  "erc20_symbol": "XETA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24379/thumb/XANA_Logo_neon_pink.png?1658197388"
+}

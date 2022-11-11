@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Stonk Swap",
+  "erc20_symbol": "STONK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11690/thumb/PNG_logo_200px.png?1622340402"
+}

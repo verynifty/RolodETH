@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cap",
+  "erc20_symbol": "CAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11775/thumb/CAP.png?1594083244"
+}

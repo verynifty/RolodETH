@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Cards (for Gamblers)",
+  "imageUrl": "https://i.seadn.io/gcs/files/aa52ed1d655b56052cd0e35c72780442.png?w=500&auto=format",
+  "externalUrl": "https://wtf.cards",
+  "description": "The Cards project consists of the 1326 unique poker starting hand combinations that can be obtained within a deck of 52 cards. The contract permanently stores the starting hands, names and icons of the 52 cards in a deck and can be externally accessed by any contracts or dApps. Feel free to use Cards in any way you want."
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Candela Coin",
+  "erc20_symbol": "CLA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13139/thumb/Easy_To_Use__13_-removebg-preview_bumlw2.png?1605591087"
+}

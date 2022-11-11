@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "GENETICATS NFT",
+  "imageUrl": "https://i.seadn.io/gae/m3NBDWvOw691GclCIUbm_cADaj2QT3-J6WsYhvAr4ZIh40G5lj8vN_fGRckyowRqGOX_rIJZGuvJHIAo4h5VtJDkkWKaXYYdGyR2?w=500&auto=format",
+  "externalUrl": "https://genomes.io/",
+  "discordUrl": "https://discord.gg/genomes",
+  "twitterUsername": "GenomesDAO",
+  "description": "GenomesDAO is a biotech DAO focused on the safe, private, and auditable monetization of genomic data. We’re merging the bleeding edge of encryption technology (AMD-SEV Vaults) with the blockchain to create the world’s first decentralized data brokering platform where users have full-custody and control of their genomic information.\n\nEach Geneticat NFT includes a whole-genome sequencing kit and a genome mining vault (powered by AMD). Once we’ve sequenced and vaulted your genome — you receive a 1:1 generative NFT based on a set of queries from your genome."
+}

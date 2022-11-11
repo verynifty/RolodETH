@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Non Fungible Yearn",
+  "erc20_symbol": "NFY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12766/thumb/NFY_logo.png?1602686886"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "mstable"
+  ],
+  "name": "mStable: mBTC",
+  "erc20_symbol": "MBTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13973/thumb/mbtc.png?1613485921"
+}

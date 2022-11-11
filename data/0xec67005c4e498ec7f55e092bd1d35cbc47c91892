@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "enzyme-finance"
+  ],
+  "name": "Enzyme Finance: MLN Token",
+  "erc20_symbol": "MLN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/605/thumb/Enzyme_Icon_Secondary.png?1611576629"
+}

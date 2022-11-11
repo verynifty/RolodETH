@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LIT",
+  "erc20_symbol": "LIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21344/thumb/LitLogo_CG.png?1639990605"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tacos",
+  "erc20_symbol": "TACO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12108/thumb/photo_2020-08-12_05-50-46.jpg?1597217863"
+}

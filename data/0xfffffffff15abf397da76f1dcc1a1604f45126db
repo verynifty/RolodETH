@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Falconswap",
+  "erc20_symbol": "FSW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12256/thumb/falconswap.png?1598534184"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Spring",
+  "erc20_symbol": "SPRING",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25364/thumb/spring.png?1651317225"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cordium",
+  "erc20_symbol": "CORD",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28013/thumb/IMG-20221026-WA0025.png?1666947806"
+}

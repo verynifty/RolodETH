@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MARS4",
+  "erc20_symbol": "MARS4",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18709/thumb/mars4_logo.jpg?1633070237"
+}

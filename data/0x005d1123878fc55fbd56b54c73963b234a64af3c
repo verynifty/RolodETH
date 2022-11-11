@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kiba Inu",
+  "erc20_symbol": "KIBA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19525/thumb/kiba.png?1648549322"
+}

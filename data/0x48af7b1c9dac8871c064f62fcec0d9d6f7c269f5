@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": " Alpha",
+  "erc20_symbol": "ALPHA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24340/thumb/alpha_icon.png?1647395407"
+}

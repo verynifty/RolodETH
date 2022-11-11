@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wrapped LEO",
+  "erc20_symbol": "WLEO",
+  "erc20_decimals": 3,
+  "imageURL": "https://assets.coingecko.com/coins/images/12626/thumb/4XfO3w3.png?1601286769"
+}

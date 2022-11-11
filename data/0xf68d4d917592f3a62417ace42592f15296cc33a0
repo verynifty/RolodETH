@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "COINHUB",
+  "erc20_symbol": "CHB",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/26818/thumb/4DBF1DAE-0930-4925-BD70-1A446F267546.jpeg?1660278721"
+}

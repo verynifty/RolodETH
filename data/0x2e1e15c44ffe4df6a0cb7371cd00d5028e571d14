@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Mettalex",
+  "erc20_symbol": "MTLX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12730/thumb/nrEqFTEW_400x400.jpg?1602063980"
+}

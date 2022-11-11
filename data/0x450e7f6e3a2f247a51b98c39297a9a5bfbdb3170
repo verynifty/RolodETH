@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Elon GOAT",
+  "erc20_symbol": "EGT",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/22301/thumb/ElonGoat.jpg?1641438513"
+}

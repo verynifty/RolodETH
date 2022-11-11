@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Panvala Pan",
+  "erc20_symbol": "PAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9543/thumb/pan-logo.png?1568674599"
+}

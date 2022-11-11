@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Finminity",
+  "erc20_symbol": "FMT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14696/thumb/finminity.png?1617834914"
+}

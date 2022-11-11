@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Changer",
+  "erc20_symbol": "CNG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21786/thumb/cng.png?1640327628"
+}

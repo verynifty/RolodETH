@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Poseidon Network",
+  "erc20_symbol": "QQQ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8442/thumb/LNBLzKy2_400x400.jpg?1558562627"
+}

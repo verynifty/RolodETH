@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "My Neighbor Alice",
+  "erc20_symbol": "ALICE",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968"
+}

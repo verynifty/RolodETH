@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Etherpoems",
+  "imageUrl": "https://i.seadn.io/gae/oiAnjdh4CPvgNJ7MMapt_65LGt7W4S0R_0yIYMsb5NQUQDwPfNKd-_2_ThEWH1R5U0bj1oUOUyxCYssW2C_NsBNAWzX-16c7ERf6vA?w=500&auto=format",
+  "externalUrl": "http://etherpoems.com",
+  "twitterUsername": "etherpoems_",
+  "description": "#\nEtherpoems are minted fully on-chain through a **\"collective deployed\"** smart contract.\n\nTraditionally, only a reference to a datastore (usually IPFS) lives on-chain, but with Etherpoems, the full poem is stored on-chain and guaranteed to last as long as the Ethereum blockchain does, regardless of what happens to IPFS or any other datastore!\n\nEtherpoems is also the first **“collective deployed“** contract. All proceeds from claiming Etherpoems and secondary sale royalties are split among all contributors trustlessly through blockchain technology."
+}

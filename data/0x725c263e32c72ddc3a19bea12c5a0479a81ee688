@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Bridge Mutual",
+  "erc20_symbol": "BMI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13808/thumb/bmi_logo.png?1612009598"
+}

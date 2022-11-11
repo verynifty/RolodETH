@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "BLONKS",
+  "imageUrl": "https://openseauserdata.com/files/13a214a9ace3c862271351f2888d34bf.svg",
+  "externalUrl": "https://blonks.xyz/",
+  "discordUrl": "https://discord.gg/AQDwjAa3g2",
+  "twitterUsername": "blonksCC0",
+  "description": "BLONKS are owner-responsive, 100% on-chain, CC0, generative vector-graphic illustrations.\n\nTraits are based on values generated at mint and never change, while visual aspects of each NFT are determined by its owner's address (preview changes directly from the smart contract or at http://blonks.xyz). BLONKS NFTs live on Ethereum and require no off-chain dependencies.\n\nCoded by Matto."
+}

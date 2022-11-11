@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Ankr MATIC Reward Earning Bond",
+  "erc20_symbol": "AMATICB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26096/thumb/aMATICb.png?1658821076"
+}

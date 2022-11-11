@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DaddyBezos",
+  "erc20_symbol": "DJBZ",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19782/thumb/tOyy80Z.png?1635846414"
+}

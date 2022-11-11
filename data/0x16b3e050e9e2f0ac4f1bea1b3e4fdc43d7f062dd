@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Sombra",
+  "erc20_symbol": "SMBR",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17884/thumb/sombra-200.png?1629710204"
+}

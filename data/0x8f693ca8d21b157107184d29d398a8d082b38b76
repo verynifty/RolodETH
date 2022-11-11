@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Streamr",
+  "erc20_symbol": "DATA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17869/thumb/DATA_new_symbol_3x.png?1629692324"
+}

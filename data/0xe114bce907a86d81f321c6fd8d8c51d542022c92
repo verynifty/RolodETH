@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Gamee Vouchers",
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=a793eaf435bb5f1bdda3fa27127b7bfb30dabd62d10d40733bdcab3238027cf552966e7c215bfb604066268c46d1bb9e",
+  "externalUrl": "https://token.gamee.com/",
+  "description": "*Gamee Vouchers* are representations of the GMEE ERC-20 token. A Gamee Voucher represents an amount of GMEE which the owner of the Voucher can redeem at a later date.\r\n\r\nGAMEE is a high-engagement gaming platform, where users complete game missions, compete in tournaments and earn prizes for their activity.\r\n\r\nOur vision is to create an entertainment platform accessible to anyone, connecting gamers and game creators to recognise and reward gaming skill, effort and loyalty."
+}

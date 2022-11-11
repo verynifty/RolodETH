@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Immortal Cat",
+  "erc20_symbol": "ICC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26397/thumb/l4P_a2cv_400x400.png?1657753905"
+}

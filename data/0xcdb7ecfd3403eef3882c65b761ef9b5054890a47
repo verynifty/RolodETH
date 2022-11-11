@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Hurify",
+  "erc20_symbol": "HUR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2705/thumb/Hurify.jpg?1547036915"
+}

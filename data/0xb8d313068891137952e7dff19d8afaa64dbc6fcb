@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "RedPill",
+  "erc20_symbol": "RPILL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27879/thumb/3177f501-401e-418d-a4bc-f72fdf9fe5d7.png?1666230108"
+}

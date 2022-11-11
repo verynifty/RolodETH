@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MobileGo",
+  "erc20_symbol": "MGO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/768/thumb/mobilego.png?1548085237"
+}

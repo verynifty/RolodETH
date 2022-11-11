@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "dappnode"
+  ],
+  "name": "DAppNode: NODE Token",
+  "erc20_symbol": "NODE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17187/thumb/36789279.png?1626828678"
+}

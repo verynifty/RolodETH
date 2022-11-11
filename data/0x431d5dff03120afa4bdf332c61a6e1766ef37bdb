@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "JPY Coin",
+  "erc20_symbol": "JPYC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25971/thumb/JPYC_logo_3D_cmyk_0-1_%282%29.jpg?1667467959"
+}

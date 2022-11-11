@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SeedSwap",
+  "erc20_symbol": "SNFT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15300/thumb/ZkJWmP1.png?1629463853"
+}

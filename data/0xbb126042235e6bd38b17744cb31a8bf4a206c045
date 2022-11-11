@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "fanC",
+  "erc20_symbol": "FANC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26500/thumb/hJ6MD49P_400x400.jpeg?1658356676"
+}

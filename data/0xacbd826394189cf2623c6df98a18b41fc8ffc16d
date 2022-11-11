@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "NFTify",
+  "erc20_symbol": "N1",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16095/thumb/n1-token-logo-circle-200x200.png?1627130530"
+}

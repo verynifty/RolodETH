@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Yearn Ecosystem Index",
+  "erc20_symbol": "YETI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13332/thumb/yeti.png?1607563342"
+}

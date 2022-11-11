@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Everus",
+  "erc20_symbol": "EVR",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1027/thumb/everus.png?1547395108"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gene",
+  "erc20_symbol": "GENE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14145/thumb/logo.a60a0c80_%281%29.png?1614653629"
+}

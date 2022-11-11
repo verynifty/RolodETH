@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BRMV",
+  "erc20_symbol": "BRMV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14389/thumb/brmv-logo-256px.png?1615856173"
+}

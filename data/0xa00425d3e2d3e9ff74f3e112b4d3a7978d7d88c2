@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GoPower",
+  "erc20_symbol": "GPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2991/thumb/82EMDIqURn_Y_O021ulWgQ.png?1547037256"
+}

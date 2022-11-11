@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Pendle",
+  "erc20_symbol": "PENDLE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1634196276"
+}

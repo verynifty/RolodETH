@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "FRMx",
+  "erc20_symbol": "FRMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13082/thumb/frmx.png?1660311822"
+}

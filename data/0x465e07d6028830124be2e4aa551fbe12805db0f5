@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wrapped XMR by BTSE",
+  "erc20_symbol": "WXMR",
+  "erc20_decimals": 18
+}

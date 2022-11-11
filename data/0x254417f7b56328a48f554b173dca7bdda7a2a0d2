@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Simba",
+  "erc20_symbol": "SIMBA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16060/thumb/200x200_%2819%29.png?1622710548"
+}

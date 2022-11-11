@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Tesla TSL",
+  "erc20_symbol": "TSL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1222/thumb/energo.png?1547035249"
+}

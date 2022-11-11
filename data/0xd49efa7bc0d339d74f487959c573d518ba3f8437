@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Coliquidity",
+  "erc20_symbol": "COLI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15813/thumb/sign_dark_200x200.png?1646641417"
+}

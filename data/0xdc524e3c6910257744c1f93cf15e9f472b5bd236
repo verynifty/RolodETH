@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Witch",
+  "erc20_symbol": "WITCH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17205/thumb/download_%2829%29.png?1626848072"
+}

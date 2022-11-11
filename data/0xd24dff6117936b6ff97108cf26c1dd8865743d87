@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MEDIUM",
+  "erc20_symbol": "MDM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9961/thumb/VEEFC4sG.png?1574293042"
+}

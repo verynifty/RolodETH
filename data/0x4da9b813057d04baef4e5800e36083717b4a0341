@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "ERC20",
+    "aave-v1",
+    "aave"
+  ],
+  "name": "Aave: aTUSD Token V1",
+  "erc20_symbol": "ATUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11724/thumb/aTUSD.png?1593082700"
+}

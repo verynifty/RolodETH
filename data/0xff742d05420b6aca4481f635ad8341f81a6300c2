@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AscendEx",
+  "erc20_symbol": "ASD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5003/thumb/bitmax.png?1621310871"
+}

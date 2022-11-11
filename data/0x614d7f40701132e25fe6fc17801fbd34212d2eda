@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "SafeBlast",
+  "erc20_symbol": "BLAST",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/15686/thumb/safeblast.png?1621561206"
+}

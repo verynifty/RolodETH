@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeGate",
+  "erc20_symbol": "DG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14415/thumb/80035388.png?1615951031"
+}

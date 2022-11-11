@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Exchange Union",
+  "erc20_symbol": "XUC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1052/thumb/exchange-union.png?1548125817"
+}

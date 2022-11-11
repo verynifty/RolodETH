@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "MadC - Color Rhythms",
+  "imageUrl": "https://i.seadn.io/gae/GZekiPX4VNZpn6duR1yHO04Dbslz6wHmVQ0k6Y3bSVp6KfaZc9clR6V28wDSof0H_haYTgPf5eea-p7VgWSZ2q2dgrDKpWQL8PuSW7U?w=500&auto=format",
+  "externalUrl": "https://madc.nft.heni.com/",
+  "discordUrl": "https://discord.gg/heni",
+  "description": "HENI is delighted to present Color Rhythms, a generative NFT collection by the internationally renowned graffiti artist MadC. Consisting of 1,000 unique NFTs, Color Rhythms innovatively combines a generative algorithm, machine learning and hand curation in order to push the boundaries of MadC’s expressive compositions. This drop is also novel in its use of machine learning to create and apply titles that visually relate to each artwork. The artwork uses p5.js and all the code is stored on chain. Machine learning was used to both generate the titles and match them to the artworks.\r\n\r\nThe collection was minted on the Palm blockchain, which is a token-powered ecosystem for NFTs connected to Ethereum. It is 99% more energy efficient than proof of work systems such as Ethereum or Bitcoin. This collection can be moved between Palm and Ethereum using Palm's NFT Bridge."
+}

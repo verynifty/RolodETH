@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LunchDAO",
+  "erc20_symbol": "LUNCH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25808/thumb/200x200.png?1653979480"
+}

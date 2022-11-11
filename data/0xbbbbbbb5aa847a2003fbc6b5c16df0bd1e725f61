@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "B Protocol",
+  "erc20_symbol": "BPRO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15110/thumb/66428641.jpg?1619749844"
+}

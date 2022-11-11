@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unbanked",
+  "erc20_symbol": "UNBNK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20171/thumb/logo_-_2021-11-11T115427.135.png?1636602880"
+}

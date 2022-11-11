@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "infiNFT alpha gallery",
+  "imageUrl": "https://i.seadn.io/gae/AQa4HgzhRYgcSkoUMYy3cY4J0CAG1qFMrcBMYNPyTv_8oIpJxaU3FKan7Dl2k0FJzx6mJdvfWdKMwc7MCQnPqEIe?w=500&auto=format",
+  "externalUrl": "https://www.infinft.com/",
+  "discordUrl": "https://discord.gg/KS8Fd4C",
+  "twitterUsername": "nft4ever",
+  "description": "All InfiNFT art pieces have artist metadata stored directly on chain. The file is stored redundantly on Arweave blockchain as well as IPFS, and the hashes from both platforms are written to the token upon minting. The alpha is contract-limited to a maximum of 12 pieces."
+}

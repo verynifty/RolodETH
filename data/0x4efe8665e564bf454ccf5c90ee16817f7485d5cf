@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BlackDragon",
+  "erc20_symbol": "BDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13426/thumb/Black-Dragon-Black.png?1608515220"
+}

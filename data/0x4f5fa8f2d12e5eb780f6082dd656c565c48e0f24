@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Gourmet Galaxy",
+  "erc20_symbol": "GUM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13846/thumb/gum.png?1612320864"
+}

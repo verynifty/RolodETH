@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AAX",
+  "erc20_symbol": "AAB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11073/thumb/GluwoJk__400x400.jpg?1587969347"
+}

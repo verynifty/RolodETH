@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Skrumble Network",
+  "erc20_symbol": "SKM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3826/thumb/skrumble-network.png?1548609513"
+}

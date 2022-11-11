@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Avid Lines",
+  "imageUrl": "https://i.seadn.io/gae/csTwo6-qkzy2jje1WWJQI-T0Eto5EL356rXF02QnaOcaJl1jc7na1K4kpCtAf9HHqP2tXfqxaR5y5oYRQG9VnHzkWscCIEN9FVHhoy0?w=500&auto=format",
+  "externalUrl": "https://avidlines.art",
+  "discordUrl": "https://discord.gg/amzyQn4dA5",
+  "twitterUsername": "AvidLines",
+  "description": "This project is an experiment about composability in NFTs. The pieces are generated on mint, using instructions from Autoglyphs together with random characteristics. Autoglyphs were chosen because they're the first and most important generative art project, fully contained on-chain, which allows deeper composability. Two pieces generated from the same generator will not be equal.\r\nThe artwork consists of lines that are carefully spread across the canvas. This project is an ode to shapes derived from round-ended lines and complexity from chaos. It has inspiration from microscopic nature and movement.\r\n\r\nVisit the website: <https://avidlines.art>"
+}

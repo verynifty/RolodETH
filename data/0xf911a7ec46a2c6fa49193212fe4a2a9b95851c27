@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Antiample",
+  "erc20_symbol": "XAMP",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/11925/thumb/antiample.png?1596168983"
+}

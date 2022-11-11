@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Staked Aave Balancer Pool Token",
+  "erc20_symbol": "STKABPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16789/thumb/StkABPT_2x.png?1625046066"
+}

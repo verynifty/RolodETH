@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "MEV Army",
+  "imageUrl": "https://i.seadn.io/gae/B8rd2_-577LEP2oOkUg0-uDtOY9mby-f6oQVYiLdYqXO63pZY-Xj2F8VRrY2oQ22cOI9K_P0LnKSorTu1QCRiP-nsWsGdHYxka9mSpg?w=500&auto=format",
+  "externalUrl": "https://mevarmy.x0rart.com/",
+  "discordUrl": "https://discord.gg/Py8vA4tRzH",
+  "twitterUsername": "x0rart",
+  "description": "MEV Army is a collection of shadowy super coders lurking in the Ethereum dark forest, ready to exploit transactions. MEV, as initially defined by Phil Daian in Flash Boys 2.0, stands for Miner Extractable Value. MEV is additional value captured by miners who censor and reorder transactions in blocks they produce.\n\nEach member of the MEV Army is composed of the original transaction ordering code from go-ethereum. Miners are not the only 'players' who can capture MEV; they include transaction searchers, liquidators, sandwichers, backrunners, time-bandits, and generalized frontrunners are scattered throughout the dark forest. These represent some of the traits in the MEV Army Collection.\n\n5% Royalty Applies. See x0r Terms for details: https://www.x0rart.com/terms-of-service"
+}

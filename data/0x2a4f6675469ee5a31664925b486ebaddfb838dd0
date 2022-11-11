@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ACU Platform",
+  "erc20_symbol": "ACU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20845/thumb/acu_platform.PNG?1637744893"
+}

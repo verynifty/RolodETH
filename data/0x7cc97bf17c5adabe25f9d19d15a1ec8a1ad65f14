@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Wolverinu",
+  "erc20_symbol": "WOLVERINU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27872/thumb/LOGO3232.jpg?1666166703"
+}

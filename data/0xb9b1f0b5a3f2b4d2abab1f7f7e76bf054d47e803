@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "NonExistentToken",
+  "imageUrl": "https://i.seadn.io/gae/kcf0gEUG5d_JBzDlU9YpQz9F8AFSTfKXKM7qcFiOX3qaAwpa_CNRFXOw9pTNwukWlZciwMSTJetqt8Fi-_x3fJ1QJJI7W_BB00Vq?w=500&auto=format",
+  "externalUrl": "http://www.nonexistenttoken.com",
+  "twitterUsername": "sarahmeyohas",
+  "description": "Each bid must be 10% higher than the one before. The previous bidder will immediately receive their money back + 5% (minus gas fees). The rest is the artist's royalty. A winning bid receives an NFT in their wallet of a bubble. As soon as there is a subsequent bid, the bubble passes on to the next winner. The previous transaction will become a receipt which advertises your return.\n\nI love NFTs so I just had to make a never-ending bubble. The greater fool theory encoded as a smart contract + generative art + receipts of your financial return + humor. Always humor."
+}

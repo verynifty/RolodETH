@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BigBang Game",
+  "erc20_symbol": "BBGC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7719/thumb/rxpRt7tH_400x400.jpg?1549957251"
+}

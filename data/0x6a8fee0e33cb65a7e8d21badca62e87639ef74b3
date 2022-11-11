@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "PDX Coin",
+  "erc20_symbol": "PDX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25095/thumb/vBi23nWw_400x400.jpg?1650271510"
+}

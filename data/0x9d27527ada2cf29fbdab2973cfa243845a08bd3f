@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea_verified"
+  ],
+  "name": "Bleeps",
+  "imageUrl": "https://openseauserdata.com/files/5b82793d058e1c909f57f5286c101051.svg",
+  "externalUrl": "https://bleeps.art",
+  "discordUrl": "https://discord.gg/DRtq7xBdtn",
+  "twitterUsername": "BleepsDAO",
+  "description": "Bleeps are the first sounds fully generated on-chain with zero externalities. Each Bleep gives one vote in the Bleeps DAO. They can also be combined to create Onchain Melodies."
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Golden Goal",
+  "erc20_symbol": "GDG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26345/thumb/3kmKPRHZ_400x400.jpeg?1657586811"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Rate3",
+  "erc20_symbol": "RTE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3342/thumb/rate3-logo.png?1547037953"
+}

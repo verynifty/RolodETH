@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "XELS",
+  "erc20_symbol": "XELS",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/14729/thumb/Xels_logo_square_%281%29.png?1617957186"
+}

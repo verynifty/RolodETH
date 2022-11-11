@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Datamine",
+  "erc20_symbol": "DAM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11695/thumb/qxsFH8W.png?1592880463"
+}

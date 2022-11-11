@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unlock Protocol",
+  "erc20_symbol": "UDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14545/thumb/unlock.jpg?1616948136"
+}

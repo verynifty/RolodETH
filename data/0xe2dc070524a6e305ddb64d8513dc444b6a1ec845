@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Nash",
+  "erc20_symbol": "NEX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/3246/thumb/nash.png?1653656442"
+}

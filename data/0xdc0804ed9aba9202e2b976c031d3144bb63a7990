@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Kishutama",
+  "erc20_symbol": "KISHUTAMA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23483/thumb/Screenshot-2022-02-05-at-09-20-53.png?1644219727"
+}

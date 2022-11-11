@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Xfinance",
+  "erc20_symbol": "XFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12449/thumb/go.png?1599904281"
+}

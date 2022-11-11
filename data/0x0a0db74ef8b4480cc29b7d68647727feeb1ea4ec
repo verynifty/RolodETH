@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "GLEX",
+  "erc20_symbol": "GLEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11609/thumb/1578901576974.png?1591777246"
+}

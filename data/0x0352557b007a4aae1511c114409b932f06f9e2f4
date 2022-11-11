@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "sRUNE",
+  "erc20_symbol": "SRUNE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14953/thumb/sRUNE.png?1619129376"
+}

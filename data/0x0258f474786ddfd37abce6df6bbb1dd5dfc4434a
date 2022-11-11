@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Orion Protocol",
+  "erc20_symbol": "ORN",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318"
+}

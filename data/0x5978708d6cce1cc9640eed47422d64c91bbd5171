@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "LOLTOKEN",
+  "erc20_symbol": "LOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8551/thumb/logo100.png?1596534732"
+}

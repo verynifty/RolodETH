@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Unagii USD Coin",
+  "erc20_symbol": "UUSDC",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/13781/thumb/uUSDC.png?1611729843"
+}

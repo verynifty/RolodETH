@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Exgold",
+  "erc20_symbol": "EXG",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/14068/thumb/-HgHqzsy_400x400.png?1614137624"
+}

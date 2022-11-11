@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Krypton Galaxy Coin",
+  "erc20_symbol": "KGC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9152/thumb/krypton.PNG?1564733517"
+}

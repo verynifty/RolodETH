@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "DeFi Yield Protocol",
+  "erc20_symbol": "DYP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13480/thumb/DYP_Logo_Symbol-8.png?1655809066"
+}

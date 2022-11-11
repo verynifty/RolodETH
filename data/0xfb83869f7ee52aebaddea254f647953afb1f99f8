@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Lean Management",
+  "erc20_symbol": "LEAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19602/thumb/tIajRRh.png?1635491525"
+}

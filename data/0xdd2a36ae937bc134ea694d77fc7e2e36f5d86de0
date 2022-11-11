@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "WELD",
+  "erc20_symbol": "WELD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18544/thumb/weld.png?1661497968"
+}

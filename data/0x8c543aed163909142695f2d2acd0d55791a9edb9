@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Velas",
+  "erc20_symbol": "VLX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9651/thumb/logo_blue.png?1663764088"
+}

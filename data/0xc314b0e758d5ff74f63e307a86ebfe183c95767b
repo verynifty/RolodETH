@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Adappter",
+  "erc20_symbol": "ADP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14203/thumb/logo_on.png?1614909616"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Cuminu",
+  "erc20_symbol": "CUMINU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15832/thumb/CUMINU.png?1628849016"
+}

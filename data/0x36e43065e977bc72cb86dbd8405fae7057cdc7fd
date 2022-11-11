@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "ArchAngel",
+  "erc20_symbol": "ARCHA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/18814/thumb/ARCHA200x200.png?1633714225"
+}

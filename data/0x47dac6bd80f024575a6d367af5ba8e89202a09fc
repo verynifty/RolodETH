@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "OXO Farm",
+  "erc20_symbol": "OXO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15107/thumb/OXO200.png?1619734005"
+}

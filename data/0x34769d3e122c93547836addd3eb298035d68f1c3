@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "NumisMe",
+  "erc20_symbol": "NUME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24766/thumb/nume_token_logo.png?1648817270"
+}

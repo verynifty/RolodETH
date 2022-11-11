@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "ERC20",
+    "fei-protocol"
+  ],
+  "name": "Fei Protocol: Tribe",
+  "erc20_symbol": "TRIBE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954"
+}

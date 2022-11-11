@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "BTRIPS",
+  "erc20_symbol": "BTR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19273/thumb/btr.png?1638182009"
+}

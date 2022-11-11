@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Agrello",
+  "erc20_symbol": "DLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/900/thumb/delta_200x200.png?1616645398"
+}

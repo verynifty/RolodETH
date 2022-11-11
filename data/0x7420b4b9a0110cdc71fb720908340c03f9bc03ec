@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "JasmyCoin",
+  "erc20_symbol": "JASMY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13876/thumb/JASMY200x200.jpg?1612473259"
+}

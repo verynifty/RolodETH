@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "Merculet",
+  "erc20_symbol": "MVP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3483/thumb/feature_token.png?1547038223"
+}

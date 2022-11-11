@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "TosDis",
+  "erc20_symbol": "DIS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13745/thumb/Tosdis-black.png?1611379744"
+}

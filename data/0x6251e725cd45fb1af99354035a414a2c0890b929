@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "MixTrust",
+  "erc20_symbol": "MXT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12148/thumb/MXT_LOGO_200_200.png?1597578983"
+}

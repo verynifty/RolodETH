@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "ERC20"
+  ],
+  "name": "AI Network",
+  "erc20_symbol": "AIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1606205615"
+}
