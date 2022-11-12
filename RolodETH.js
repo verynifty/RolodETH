@@ -49,7 +49,7 @@ RolodETH.prototype.removeProperty = async function (address, propertyName) {
     const existing = this.kfs[nAddress];
     if (existing == null) {
     } else {
-        existing[propertyName] = null;
+        delete existing[propertyName];
         this.kfs[nAddress] = existing;
     }
 }
