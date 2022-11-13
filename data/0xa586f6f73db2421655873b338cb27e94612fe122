@@ -2,6 +2,7 @@
   "tags": [
     "bayc_minter",
     "bayc-minter",
-    "azuki-minter"
+    "azuki-minter",
+    "hashmask-minter"
   ]
 }

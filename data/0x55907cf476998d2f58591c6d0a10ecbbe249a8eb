@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "doodle-minter",
-    "loot-minter"
+    "loot-minter",
+    "hashmask-minter"
   ]
 }

@@ -38,6 +38,8 @@ const NFTMinters = [
 
 (async () => {
 
+    await HashMaskMinters.addTo(RolodETH)
+    return
     for (const m of NFTMinters) {
         await m.addTo(RolodETH);
     }

@@ -1,6 +1,7 @@
 {
   "tags": [
     "coolcat-minter",
-    "loot-minter"
+    "loot-minter",
+    "hashmask-minter"
   ]
 }

@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "coolcat-minter",
-    "pudgypinguin-minter"
+    "pudgypinguin-minter",
+    "hashmask-minter"
   ]
 }

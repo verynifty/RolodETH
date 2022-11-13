@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "hashmask-minter"
   ],
   "name": "Gitcoin Grants: NonFunGerbils"
 }

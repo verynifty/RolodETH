@@ -1,6 +1,7 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "hashmask-minter"
   ],
   "name": "PUNKS Comic: Deployer"
 }

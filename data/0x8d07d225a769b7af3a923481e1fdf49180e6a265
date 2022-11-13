@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter",
     "sybil-delegate",
-    "top-degen"
+    "top-degen",
+    "hashmask-minter"
   ],
   "name": "Sybil Delegate: MonetSupply"
 }

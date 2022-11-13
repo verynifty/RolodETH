@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "shiba-inu"
+    "shiba-inu",
+    "hashmask-minter"
   ],
   "name": "Shiba Inu: Deployer"
 }

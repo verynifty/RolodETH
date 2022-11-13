@@ -1,6 +1,7 @@
 {
   "tags": [
-    "maker-vault-owner"
+    "maker-vault-owner",
+    "hashmask-minter"
   ],
   "name": "Sorbet Finance Hack Alert 149"
 }

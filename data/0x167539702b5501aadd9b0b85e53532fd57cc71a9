@@ -2,7 +2,8 @@
   "tags": [
     "contract-deployer",
     "bayc_minter",
-    "bayc-minter"
+    "bayc-minter",
+    "hashmask-minter"
   ],
   "name": "Paragons DAO: Deployer"
 }

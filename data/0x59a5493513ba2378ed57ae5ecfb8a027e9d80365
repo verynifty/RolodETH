@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter",
-    "moonbird-minter"
+    "moonbird-minter",
+    "hashmask-minter"
   ],
   "name": "Sybil Delegate: iamDCinvestor"
 }

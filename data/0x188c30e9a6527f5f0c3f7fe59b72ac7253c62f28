@@ -3,6 +3,7 @@
     "sybil-delegate",
     "bayc_minter",
     "bayc-minter",
-    "loot-minter"
+    "loot-minter",
+    "hashmask-minter"
   ]
 }

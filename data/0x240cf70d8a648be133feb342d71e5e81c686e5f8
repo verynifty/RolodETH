@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "loot-minter"
+    "loot-minter",
+    "hashmask-minter"
   ]
 }
