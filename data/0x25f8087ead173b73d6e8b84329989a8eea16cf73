@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ERC20"
+    "ERC20",
+    "contract"
   ],
   "name": "Yield Guild Games",
   "erc20_symbol": "YGG",

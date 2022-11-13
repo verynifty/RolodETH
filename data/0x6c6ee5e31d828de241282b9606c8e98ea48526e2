@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ERC20"
+    "ERC20",
+    "contract"
   ],
   "name": "Holo",
   "erc20_symbol": "HOT",

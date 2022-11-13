@@ -1,6 +1,7 @@
 {
   "tags": [
-    "hot-wallet"
+    "hot-wallet",
+    "eoa"
   ],
   "name": "Bitkub: Hot Wallet 4"
 }

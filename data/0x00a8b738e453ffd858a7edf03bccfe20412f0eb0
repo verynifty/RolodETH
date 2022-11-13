@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ERC20"
+    "ERC20",
+    "contract"
   ],
   "name": "AllianceBlock",
   "erc20_symbol": "ALBT",

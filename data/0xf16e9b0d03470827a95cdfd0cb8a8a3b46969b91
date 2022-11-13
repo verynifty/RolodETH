@@ -1,7 +1,8 @@
 {
   "tags": [
     "exchange",
-    "kucoin"
+    "kucoin",
+    "eoa"
   ],
   "name": "KuCoin 9"
 }

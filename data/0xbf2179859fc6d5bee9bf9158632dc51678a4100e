@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ERC20"
+    "ERC20",
+    "contract"
   ],
   "name": "aelf",
   "erc20_symbol": "ELF",

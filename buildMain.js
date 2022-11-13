@@ -4,6 +4,7 @@ const UniswapTokenList = require("./sources/UniswapTokenList");
 const OpenSeaAPI = require("./sources/OpenSeaAPI");
 const JSONImporter = require("./sources/JSONImporter");
 const reservoir = require("./sources/reservoir");
+const ERC721Minters = require("./sources/ERC721Minters");
 
 const CoingeckoTokenList = new UniswapTokenList("https://tokens.coingecko.com/uniswap/all.json");
 const MyCryptoTokenList = new UniswapTokenList("https://uniswap.mycryptoapi.com/");
@@ -14,11 +15,14 @@ const estherscanLabels = new JSONImporter("https://raw.githubusercontent.com/bri
 const OS = new OpenSeaAPI();
 const Reservoir = new reservoir();
 
+const BAYCMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d", "bayc_minter");
+
 
 (async () => {
 
-    await MyEtherWalletDarkListLabels.addTo(RolodETH);
+    await BAYCMinters.addTo(RolodETH);
     return;
+    await MyEtherWalletDarkListLabels.addTo(RolodETH);
     await CoingeckoTokenList.addTo(RolodETH)
     await estherscanLabels.addTo(RolodETH);
     await Reservoir.addTo(RolodETH);

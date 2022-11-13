@@ -1,7 +1,8 @@
 {
   "tags": [
     "ERC20",
-    "fantom"
+    "fantom",
+    "contract"
   ],
   "name": "Fantom: FTM Token",
   "erc20_symbol": "FTM",

@@ -15,7 +15,7 @@ UniswapTokenList.prototype.addTo = async function(RolodETH) {
         RolodETH.addProperty(address, "erc20_symbol", token.symbol)
         RolodETH.addProperty(address, "erc20_decimals", token.decimals)
         RolodETH.addProperty(address, "imageURL", token.logoURI)
-        RolodETH.addTag(address, "ERC20")
+        RolodETH.addTag(address, "erc20")
     }
 }
 

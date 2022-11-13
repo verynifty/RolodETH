@@ -2,7 +2,8 @@
   "tags": [
     "derivatives",
     "exchange",
-    "okex"
+    "okex",
+    "eoa"
   ],
   "name": "OKEx"
 }
