@@ -49,6 +49,8 @@ const NFTMinters = [
 
 (async () => {
 
+    await Reservoir.addTo(RolodETH);
+    return;
 
     for (const m of NFTMinters) {
         await m.addTo(RolodETH);
@@ -57,7 +59,6 @@ const NFTMinters = [
     await MyEtherWalletDarkListLabels.addTo(RolodETH);
     await CoingeckoTokenList.addTo(RolodETH)
     await estherscanLabels.addTo(RolodETH);
-    await Reservoir.addTo(RolodETH);
 
     return;
 
