@@ -1,6 +1,8 @@
 {
   "tags": [
     "coolcat-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter",
+    "cryptoadz-minter"
   ]
 }

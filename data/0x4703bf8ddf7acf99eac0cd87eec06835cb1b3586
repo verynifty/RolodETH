@@ -3,7 +3,8 @@
     "take-action",
     "bayc_minter",
     "bayc-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ],
   "name": "Multichain Hack Alert 2755"
 }

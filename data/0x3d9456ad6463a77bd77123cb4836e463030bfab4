@@ -1,6 +1,8 @@
 {
   "tags": [
     "coolcat-minter",
-    "loot-minter"
+    "loot-minter",
+    "autoglyph-minter",
+    "meebit-minter"
   ]
 }

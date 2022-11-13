@@ -1,6 +1,7 @@
 {
   "tags": [
     "gitcoin-grantee",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ]
 }

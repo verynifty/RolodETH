@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "coolcat-minter"
+    "coolcat-minter",
+    "meebit-minter"
   ],
   "name": "Doodles: Deployer"
 }

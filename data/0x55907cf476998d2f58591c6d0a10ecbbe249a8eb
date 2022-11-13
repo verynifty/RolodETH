@@ -4,6 +4,7 @@
     "bayc-minter",
     "doodle-minter",
     "loot-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ]
 }

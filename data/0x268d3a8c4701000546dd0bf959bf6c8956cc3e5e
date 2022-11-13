@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "azuki-minter",
-    "doodle-minter"
+    "doodle-minter",
+    "cryptoadz-minter"
   ]
 }

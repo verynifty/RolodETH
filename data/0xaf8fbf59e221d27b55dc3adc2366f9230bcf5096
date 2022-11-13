@@ -1,7 +1,8 @@
 {
   "tags": [
     "donate",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "meebit-minter"
   ],
   "name": "Donate: EthMerge.com"
 }

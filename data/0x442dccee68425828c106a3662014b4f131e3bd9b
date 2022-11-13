@@ -2,6 +2,9 @@
   "tags": [
     "bayc_minter",
     "bayc-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "autoglyph-minter",
+    "meebit-minter",
+    "veefriend-minter"
   ]
 }

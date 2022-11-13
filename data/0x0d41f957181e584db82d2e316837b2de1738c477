@@ -1,5 +1,8 @@
 {
   "tags": [
-    "doodle-minter"
+    "doodle-minter",
+    "autoglyph-minter",
+    "meebit-minter",
+    "veefriend-minter"
   ]
 }

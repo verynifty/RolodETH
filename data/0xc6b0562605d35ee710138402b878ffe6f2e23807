@@ -2,7 +2,8 @@
   "tags": [
     "beeple",
     "contract-deployer",
-    "moonbird-minter"
+    "moonbird-minter",
+    "veefriend-minter"
   ],
   "name": "Beeple"
 }

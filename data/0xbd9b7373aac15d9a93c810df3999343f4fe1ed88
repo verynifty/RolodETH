@@ -1,6 +1,7 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "meebit-minter"
   ],
   "name": "Alotta Money's Twitter Headers: Deployer"
 }

@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "moonbird-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ]
 }

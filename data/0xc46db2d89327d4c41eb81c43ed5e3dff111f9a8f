@@ -1,7 +1,9 @@
 {
   "tags": [
     "contract-deployer",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter",
+    "cryptoadz-minter"
   ],
   "name": "Crypto Punk: Deployer"
 }

@@ -2,7 +2,9 @@
   "tags": [
     "contract-deployer",
     "bayc_minter",
-    "bayc-minter"
+    "bayc-minter",
+    "meebit-minter",
+    "cryptoadz-minter"
   ],
   "name": "Ukraine DAO: Deployer"
 }

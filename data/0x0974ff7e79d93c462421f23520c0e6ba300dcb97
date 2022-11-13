@@ -1,7 +1,9 @@
 {
   "tags": [
     "contract-deployer",
-    "pudgypinguin-minter"
+    "pudgypinguin-minter",
+    "pudgy-pinguin-minter",
+    "meebit-minter"
   ],
   "name": "AIA: Deployer"
 }

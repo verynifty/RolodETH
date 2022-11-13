@@ -1,6 +1,8 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "autoglyph-minter",
+    "meebit-minter"
   ],
   "name": "Autoglyphs: Deployer"
 }

@@ -4,6 +4,7 @@
     "bayc-minter",
     "azuki-minter",
     "moonbird-minter",
-    "doodle-minter"
+    "doodle-minter",
+    "meebit-minter"
   ]
 }

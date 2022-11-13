@@ -1,7 +1,8 @@
 {
   "tags": [
     "take-action",
-    "azuki-minter"
+    "azuki-minter",
+    "cryptoadz-minter"
   ],
   "name": "Multichain Hack Alert 592"
 }

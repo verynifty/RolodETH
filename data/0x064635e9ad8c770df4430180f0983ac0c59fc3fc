@@ -3,6 +3,8 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "pudgypinguin-minter"
+    "pudgypinguin-minter",
+    "pudgy-pinguin-minter",
+    "meebit-minter"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "contract-deployer",
-    "loot-minter"
+    "loot-minter",
+    "meebit-minter",
+    "cryptoadz-minter"
   ],
   "name": "dhof"
 }

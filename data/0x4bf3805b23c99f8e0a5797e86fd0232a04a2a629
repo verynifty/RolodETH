@@ -1,6 +1,8 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "meebit-minter",
+    "cryptoadz-minter"
   ],
   "name": "IKB Cachet de Garantie: Deployer"
 }

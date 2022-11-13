@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "doodle-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ]
 }

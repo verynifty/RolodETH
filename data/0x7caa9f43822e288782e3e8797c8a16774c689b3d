@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "coolcat-minter"
+    "coolcat-minter",
+    "cryptoadz-minter"
   ]
 }

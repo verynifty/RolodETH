@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "azuki-minter",
-    "moonbird-minter"
+    "moonbird-minter",
+    "meebit-minter"
   ]
 }

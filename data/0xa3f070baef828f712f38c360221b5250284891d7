@@ -4,6 +4,7 @@
     "bayc-minter",
     "coolcat-minter",
     "pudgypinguin-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "pudgy-pinguin-minter"
   ]
 }

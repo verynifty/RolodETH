@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter",
     "writer",
-    "loot-minter"
+    "loot-minter",
+    "meebit-minter"
   ],
   "name": "Mirror: John Palmer"
 }

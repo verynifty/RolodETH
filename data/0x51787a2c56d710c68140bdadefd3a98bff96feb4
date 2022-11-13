@@ -1,5 +1,7 @@
 {
   "tags": [
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter",
+    "veefriend-minter"
   ]
 }

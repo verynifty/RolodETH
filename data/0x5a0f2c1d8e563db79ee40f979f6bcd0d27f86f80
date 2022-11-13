@@ -1,6 +1,7 @@
 {
   "tags": [
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "meebit-minter"
   ],
   "name": "Gitcoin Grants: BlockSpy"
 }

@@ -3,7 +3,8 @@
     "snapshot-voter",
     "sybil-delegate",
     "top-degen",
-    "hashmask-minter"
+    "hashmask-minter",
+    "meebit-minter"
   ],
   "name": "Sybil Delegate: MonetSupply"
 }

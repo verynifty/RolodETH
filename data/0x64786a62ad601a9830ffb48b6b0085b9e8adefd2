@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "cryptoadz-minter"
   ]
 }

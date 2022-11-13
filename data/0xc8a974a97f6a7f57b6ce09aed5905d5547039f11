@@ -1,5 +1,8 @@
 {
   "tags": [
-    "hashmask-minter"
+    "hashmask-minter",
+    "autoglyph-minter",
+    "meebit-minter",
+    "cryptoadz-minter"
   ]
 }

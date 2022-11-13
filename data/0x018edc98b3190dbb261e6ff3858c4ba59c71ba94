@@ -1,5 +1,7 @@
 {
   "tags": [
-    "moonbird-minter"
+    "moonbird-minter",
+    "autoglyph-minter",
+    "meebit-minter"
   ]
 }

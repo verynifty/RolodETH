@@ -24,7 +24,6 @@ const LootMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xff9c1b15b
 const PudgyPinguinMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbd3531da5cf5857e7cfaa92426877b022e612cf8", ["pudgy-pinguin-minter"]);
 const HashMaskMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xc2c747e0f7004f9e8817db2ca4997657a7746928", ["hashmask-minter"]);
 const AutoglyphMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xd4e4078ca3495de5b1d4db434bebc5a986197782", ["autoglyph-minter"]);
-const GutterCatGangMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xedb61f74b0d09b2558f1eeb79b247c1f363ae452", ["gutter-cat-gang-minter"]);
 const CyberKongzMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x57a204aa1042f6e66dd7730813f4024114d74f37", ["cyber-kong-minter"]);
 const MeebitsMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7", ["meebit-minter"]);
 const CrypToadzMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6", ["cryptoadz-minter"]);
@@ -42,7 +41,6 @@ const NFTMinters = [
     PudgyPinguinMinters,
     HashMaskMinters,
     AutoglyphMinters,
-    GutterCatGangMinters,
     CyberKongzMinters,
     MeebitsMinters,
     CrypToadzMinters,

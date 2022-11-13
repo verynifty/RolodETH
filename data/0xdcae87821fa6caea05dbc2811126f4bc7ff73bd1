@@ -2,7 +2,8 @@
   "tags": [
     "contract-deployer",
     "bayc_minter",
-    "bayc-minter"
+    "bayc-minter",
+    "meebit-minter"
   ],
   "name": "Rektguy: Deployer"
 }
