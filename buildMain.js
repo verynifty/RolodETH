@@ -21,8 +21,15 @@ const MoonBirdMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x23581
 const DoodleMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e", ["doodle-minter"]);
 const CoolcatMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x1a92f7381b9f03921564a437210bb9396471050c", ["coolcat-minter"]);
 const LootMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7", ["loot-minter"]);
-const PudgyPinguinMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbd3531da5cf5857e7cfaa92426877b022e612cf8", ["pudgypinguin-minter"]);
+const PudgyPinguinMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbd3531da5cf5857e7cfaa92426877b022e612cf8", ["pudgy-pinguin-minter"]);
 const HashMaskMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xc2c747e0f7004f9e8817db2ca4997657a7746928", ["hashmask-minter"]);
+const AutoglyphMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xd4e4078ca3495de5b1d4db434bebc5a986197782", ["autoglyph-minter"]);
+const GutterCatGangMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xedb61f74b0d09b2558f1eeb79b247c1f363ae452", ["gutter-cat-gang-minter"]);
+const CyberKongzMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x57a204aa1042f6e66dd7730813f4024114d74f37", ["cyber-kong-minter"]);
+const MeebitsMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7", ["meebit-minter"]);
+const CrypToadzMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6", ["cryptoadz-minter"]);
+const VeeFriendsMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb", ["veefriend-minter"]);
+
 
 
 const NFTMinters = [
@@ -33,13 +40,18 @@ const NFTMinters = [
     CoolcatMinters,
     LootMinters,
     PudgyPinguinMinters,
-    HashMaskMinters
+    HashMaskMinters,
+    AutoglyphMinters,
+    GutterCatGangMinters,
+    CyberKongzMinters,
+    MeebitsMinters,
+    CrypToadzMinters,
+    VeeFriendsMinters
 ];
 
 (async () => {
 
-    await HashMaskMinters.addTo(RolodETH)
-    return
+
     for (const m of NFTMinters) {
         await m.addTo(RolodETH);
     }
