@@ -1,5 +1,9 @@
 {
   "tags": [
-    "bayc_minter"
+    "bayc_minter",
+    "bayc-minter",
+    "azuki-minter",
+    "doodle-minter",
+    "pudgypinguin-minter"
   ]
 }

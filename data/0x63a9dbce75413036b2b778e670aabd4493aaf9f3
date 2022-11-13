@@ -1,6 +1,8 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "moonbird-minter",
+    "doodle-minter"
   ],
   "name": "WIPcoin: Deployer"
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
-    "take-action"
+    "take-action",
+    "moonbird-minter",
+    "pudgypinguin-minter"
   ],
   "name": "Multichain Hack Alert 720"
 }

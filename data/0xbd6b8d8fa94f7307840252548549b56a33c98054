@@ -1,6 +1,8 @@
 {
   "tags": [
-    "take-action"
+    "take-action",
+    "azuki-minter",
+    "doodle-minter"
   ],
   "name": "Multichain Hack Alert 500"
 }

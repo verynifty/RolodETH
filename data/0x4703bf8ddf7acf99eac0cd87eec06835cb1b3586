@@ -1,7 +1,8 @@
 {
   "tags": [
     "take-action",
-    "bayc_minter"
+    "bayc_minter",
+    "bayc-minter"
   ],
   "name": "Multichain Hack Alert 2755"
 }

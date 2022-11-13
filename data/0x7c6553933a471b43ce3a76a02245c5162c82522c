@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "bayc_minter"
+    "bayc_minter",
+    "bayc-minter"
   ],
   "name": "Ukraine DAO: Deployer"
 }

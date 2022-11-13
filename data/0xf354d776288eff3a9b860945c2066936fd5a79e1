@@ -1,7 +1,9 @@
 {
   "tags": [
     "contract-deployer",
-    "bayc_minter"
+    "bayc_minter",
+    "bayc-minter",
+    "moonbird-minter"
   ],
   "name": "Chiptopunks: Deployer"
 }

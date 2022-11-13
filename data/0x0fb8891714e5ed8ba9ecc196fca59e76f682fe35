@@ -1,6 +1,9 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "azuki-minter",
+    "moonbird-minter",
+    "doodle-minter"
   ],
   "name": "NFT Finesser: Deployer"
 }

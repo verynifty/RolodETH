@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "evmos"
+    "evmos",
+    "moonbird-minter"
   ],
   "name": "Evmos: Deployer"
 }

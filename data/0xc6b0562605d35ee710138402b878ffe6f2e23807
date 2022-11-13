@@ -1,7 +1,8 @@
 {
   "tags": [
     "beeple",
-    "contract-deployer"
+    "contract-deployer",
+    "moonbird-minter"
   ],
   "name": "Beeple"
 }

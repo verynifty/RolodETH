@@ -1,6 +1,8 @@
 {
   "tags": [
     "sybil-delegate",
-    "bayc_minter"
+    "bayc_minter",
+    "bayc-minter",
+    "loot-minter"
   ]
 }

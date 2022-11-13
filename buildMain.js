@@ -25,7 +25,7 @@ const PudgyPinguinMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xb
 const HashMaskMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xc2c747e0f7004f9e8817db2ca4997657a7746928", ["hashmask-minter"]);
 
 
-const NFTMinters = []
+const NFTMinters = [
     BAYCMinters,
     AzukiMinters,
     MoonBirdMinters,
