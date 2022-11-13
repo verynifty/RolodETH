@@ -28,7 +28,7 @@ ERC721Minters.prototype.addTo = async function (RolodETH, fromBlock = 0, toBlock
         addresses[address] = true;
     }
     for (const address of Object.keys(addresses)) {
-        
+        RolodETH.addTag(address, this.tag)
     }
 }
 
