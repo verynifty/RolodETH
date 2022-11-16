@@ -23,9 +23,11 @@ ERC721Minters.prototype.getEvents = async function (fromBlock, toBlock) {
                 null
             ]
         };
-        return (await this.provider.getLogs(filter));
+        let events = await this.provider.getLogs(filter);
+        console.log("GOT EVENTS", events.length)
+        return (events);
     } catch (error) {
-        console.log(error)
+        //console.log(error)
         let newToBlock =
             toBlock == "latest" ? await this.provider.getBlockNumber("latest") : toBlock;
         const result = await Promise.all([
