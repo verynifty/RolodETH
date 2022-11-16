@@ -15,6 +15,8 @@ const estherscanLabels = new JSONImporter("https://raw.githubusercontent.com/bri
 const OS = new OpenSeaAPI();
 const Reservoir = new reservoir();
 
+const UniswapV3LP = new ERC721Minters("https://rpc.flashbots.net/", "0xc36442b4a4522e871399cd717abdd847ab11fe88", "uniswapv3-lp");
+
 const BAYCMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d", ["bayc-minter"]);
 const AzukiMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xed5af388653567af2f388e6224dc7c4b3241c544", ["azuki-minter"]);
 const MoonBirdMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x23581767a106ae21c074b2276d25e5c3e136a68b", ["moonbird-minter"]);
@@ -53,6 +55,8 @@ const NFTMinters = [
 
 (async () => {
 
+    await UniswapV3LP.addTo(RolodETH);
+    return;
     await Reservoir.addTo(RolodETH);
     return;
 

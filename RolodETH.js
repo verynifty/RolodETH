@@ -1,8 +1,9 @@
 
 const KFS = require("key-file-storage").default;
-
+var fs = require('fs');
 function RolodETH(filename, chainID) {
     console.log(KFS)
+    this.filename = filename;
     this.chainID = chainID;
     this.kfs = KFS(filename)
 }
@@ -23,6 +24,11 @@ RolodETH.prototype.normalizeAddress = function (address) {
 RolodETH.prototype.get = function (address) {
     let nAddress = this.normalizeAddress(address);
     return (this.kfs[nAddress]);
+}
+
+RolodETH.prototype.getFiles = function () {
+    const files = fs.readdirSync(this.filename);
+    return files;
 }
 
 RolodETH.prototype.addProperty = async function (address, propertyName, value) {

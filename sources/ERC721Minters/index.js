@@ -11,6 +11,7 @@ function ERC721Minters(rpcUrl, address, tags) {
 }
 
 ERC721Minters.prototype.getEvents = async function (fromBlock, toBlock) {
+    console.log(fromBlock, toBlock)
     try {
         let filter = {
             fromBlock: fromBlock,
