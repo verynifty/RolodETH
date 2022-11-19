@@ -47,8 +47,9 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
                 requestFunc,
                 "latest"
             )
-            if (target == true) {
+            if (target != null) {
                 rolodeth.addTag(address, "proxy");
+                rolodeth.addProperty(address, "proxy", target);
             }
             console.log(target)
             continue;

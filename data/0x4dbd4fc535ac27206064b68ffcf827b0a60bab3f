@@ -1,7 +1,8 @@
 {
   "tags": [
     "arbitrum",
-    "bridge"
+    "bridge",
+    "contract"
   ],
   "name": "Arbitrum: Inbox"
 }
