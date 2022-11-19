@@ -33,6 +33,10 @@ const VeeFriendsMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xa3a
 const CloneXMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b", ["clonex-minter"]);
 const WorldOfWomenMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xe785e82358879f061bc3dcac6f0444462d4b5330", ["wow-minter"]);
 const GolbinTownMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e", ["goblin-town-minter"]);
+const ArtGobblersMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x60bb1e2aa1c9acafb4d34f71585d7e959f387769", ["art-goblers-minter"]);
+const OtherdeedMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258", ["otherdeed-minter"]);
+const MAYCMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x60e4d786628fea6478f785a6d7e704777c86a7c6", ["mayc-minter"]);
+const CloneXMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b", ["clonex-minter"]);
 
 const NFTMinters = [
     BAYCMinters,
@@ -50,7 +54,12 @@ const NFTMinters = [
     VeeFriendsMinters,
     CloneXMinters,
     WorldOfWomenMinters,
-    GolbinTownMinters
+    GolbinTownMinters,
+    ArtGobblersMinters,
+    OtherdeedMinters,
+    MAYCMinters,
+    CloneXMinters,
+    UniswapV3LP
 ];
 
 (async () => {
