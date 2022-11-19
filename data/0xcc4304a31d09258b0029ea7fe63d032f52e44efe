@@ -1,7 +1,8 @@
 {
   "tags": [
     "ERC20",
-    "bridged-token"
+    "bridged-token",
+    "contract"
   ],
   "name": "Trustswap",
   "erc20_symbol": "SWAP",
