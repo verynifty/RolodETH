@@ -4,6 +4,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-moonwell-governance",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-piedao"
   ]
 }

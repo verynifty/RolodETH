@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox"
   ]
 }

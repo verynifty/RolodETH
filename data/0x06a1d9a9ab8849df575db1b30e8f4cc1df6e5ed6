@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-1inch",
+    "snapshot-voter-stgdao"
   ]
 }

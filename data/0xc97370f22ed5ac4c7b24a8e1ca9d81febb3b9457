@@ -16,6 +16,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

@@ -18,6 +18,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-1inch",
+    "snapshot-voter-stgdao"
   ]
 }

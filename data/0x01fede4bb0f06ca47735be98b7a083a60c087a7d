@@ -21,6 +21,8 @@
     "snapshot-voter-saddlefinance",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao"
   ]
 }

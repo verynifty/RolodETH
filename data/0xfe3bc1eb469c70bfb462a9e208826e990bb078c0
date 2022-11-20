@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-qidao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

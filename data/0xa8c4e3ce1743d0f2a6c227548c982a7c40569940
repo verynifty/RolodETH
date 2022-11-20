@@ -20,6 +20,13 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-1inch",
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gearbox"
   ]
 }

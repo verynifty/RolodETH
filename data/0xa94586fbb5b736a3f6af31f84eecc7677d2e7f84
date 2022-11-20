@@ -15,6 +15,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

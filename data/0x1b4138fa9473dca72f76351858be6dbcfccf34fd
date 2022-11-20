@@ -4,6 +4,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-dydxgov",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis"
   ]
 }

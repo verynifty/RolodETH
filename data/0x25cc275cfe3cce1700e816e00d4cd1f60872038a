@@ -19,6 +19,10 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-uniswap",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify",
+    "snapshot-voter-piedao"
   ]
 }

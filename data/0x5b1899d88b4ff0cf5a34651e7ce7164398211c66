@@ -7,6 +7,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

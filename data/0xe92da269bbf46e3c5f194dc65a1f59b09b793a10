@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-gal",
+    "snapshot-voter-gearbox"
   ]
 }

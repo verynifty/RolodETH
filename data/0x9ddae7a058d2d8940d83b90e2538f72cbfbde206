@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

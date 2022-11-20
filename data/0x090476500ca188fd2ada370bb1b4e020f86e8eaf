@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-balancer",
+    "snapshot-voter-hakka",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

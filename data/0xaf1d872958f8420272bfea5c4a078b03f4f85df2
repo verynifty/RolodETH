@@ -3,6 +3,7 @@
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

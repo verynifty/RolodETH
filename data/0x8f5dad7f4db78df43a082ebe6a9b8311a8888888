@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-apecoin",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gearbox"
   ]
 }

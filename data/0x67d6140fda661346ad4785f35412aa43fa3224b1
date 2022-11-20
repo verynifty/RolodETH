@@ -18,6 +18,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-unlock-protocol",
+    "snapshot-voter-stgdao"
   ]
 }

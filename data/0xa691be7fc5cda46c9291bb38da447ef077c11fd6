@@ -6,6 +6,7 @@
     "hashmask-minter",
     "meebit-minter",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-opcollective"
   ]
 }

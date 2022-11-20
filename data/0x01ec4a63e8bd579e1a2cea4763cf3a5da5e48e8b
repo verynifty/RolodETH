@@ -21,6 +21,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-aave",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-1inch"
   ]
 }

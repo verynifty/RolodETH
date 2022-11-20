@@ -6,6 +6,10 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-53231323",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-derify",
+    "snapshot-voter-piedao"
   ]
 }

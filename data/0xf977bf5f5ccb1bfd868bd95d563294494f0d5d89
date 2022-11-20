@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-gauge.rbn",
-    "snapshot-voter-gauge-rbn"
+    "snapshot-voter-gauge-rbn",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-stgdao"
   ]
 }

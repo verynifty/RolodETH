@@ -3,7 +3,9 @@
     "eoa",
     "snapshot-voter-gmx",
     "snapshot-voter-qidao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-zksync-dao"
   ],
   "ens": "tthdteamhome.eth"
 }

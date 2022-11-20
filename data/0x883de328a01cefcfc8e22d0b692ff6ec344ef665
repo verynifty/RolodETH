@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-1inch",
+    "snapshot-voter-stgdao"
   ]
 }

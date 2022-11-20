@@ -15,6 +15,11 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-elfi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-piedao",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-gnosis"
   ]
 }

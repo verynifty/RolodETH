@@ -16,6 +16,8 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

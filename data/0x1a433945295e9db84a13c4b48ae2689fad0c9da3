@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -15,6 +15,9 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
   ]
 }

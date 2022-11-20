@@ -17,6 +17,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote"
   ]
 }

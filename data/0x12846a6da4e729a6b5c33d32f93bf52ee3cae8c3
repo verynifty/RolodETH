@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-layer2dao.org",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

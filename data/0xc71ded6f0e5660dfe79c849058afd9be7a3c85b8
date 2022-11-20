@@ -3,6 +3,8 @@
     "snapshot-voter",
     "snapshot-voter-gmx",
     "snapshot-voter-balancer",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-gearbox"
   ]
 }

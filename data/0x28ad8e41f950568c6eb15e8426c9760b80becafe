@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-elfi",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

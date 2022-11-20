@@ -18,6 +18,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-eulerdao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

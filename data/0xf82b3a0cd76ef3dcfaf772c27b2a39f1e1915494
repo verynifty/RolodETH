@@ -14,6 +14,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

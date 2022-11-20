@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gmx",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -16,6 +16,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-qidao",
-    "snapshot-voter-daoge"
+    "snapshot-voter-daoge",
+    "snapshot-voter-stgdao"
   ]
 }

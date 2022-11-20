@@ -13,6 +13,9 @@
     "-",
     "l",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

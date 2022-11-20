@@ -16,6 +16,8 @@
     "snapshot-voter-freerossdao",
     "snapshot-voter-olympusdao",
     "snapshot-voter-yam",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

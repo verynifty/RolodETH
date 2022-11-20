@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-apecoin",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

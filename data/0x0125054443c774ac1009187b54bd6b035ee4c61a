@@ -12,6 +12,9 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-treasuredao"
   ]
 }

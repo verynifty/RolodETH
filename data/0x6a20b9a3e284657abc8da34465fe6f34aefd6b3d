@@ -14,6 +14,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

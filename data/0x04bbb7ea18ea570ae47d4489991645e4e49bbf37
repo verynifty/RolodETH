@@ -22,6 +22,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-badgerdao",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-stgdao"
   ]
 }

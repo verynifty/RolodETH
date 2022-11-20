@@ -1,5 +1,7 @@
 {
   "tags": [
-    "loot-minter"
+    "loot-minter",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-hop"
   ]
 }

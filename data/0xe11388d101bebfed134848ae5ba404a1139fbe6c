@@ -3,6 +3,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-mail3"
   ]
 }

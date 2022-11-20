@@ -17,7 +17,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ],
   "name": "Evmos: Deployer"
 }

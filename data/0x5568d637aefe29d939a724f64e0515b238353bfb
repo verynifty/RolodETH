@@ -11,6 +11,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
-    "snapshot-voter-meowbored"
+    "snapshot-voter-meowbored",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-stgdao"
   ]
 }

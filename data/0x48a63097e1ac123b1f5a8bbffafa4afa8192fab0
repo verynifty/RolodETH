@@ -2,7 +2,8 @@
   "tags": [
     "gitcoin-grantee",
     "writer",
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-opcollective"
   ],
   "name": "Mirror: Scott Moore"
 }

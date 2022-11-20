@@ -18,6 +18,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

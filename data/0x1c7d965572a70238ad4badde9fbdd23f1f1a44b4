@@ -4,6 +4,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-dydxgov",
     "snapshot-voter-sismo",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

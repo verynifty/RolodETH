@@ -3,6 +3,10 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gal"
   ]
 }

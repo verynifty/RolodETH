@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-stgdao"
   ]
 }

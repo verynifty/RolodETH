@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-qidao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-koba777"
+    "snapshot-voter-koba777",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

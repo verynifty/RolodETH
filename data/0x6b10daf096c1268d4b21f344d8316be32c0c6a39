@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-stgdao"
   ]
 }

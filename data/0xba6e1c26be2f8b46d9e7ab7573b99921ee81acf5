@@ -1,5 +1,8 @@
 {
   "tags": [
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-wolfguildvote",
+    "snapshot-voter-wagdie",
+    "snapshot-voter-gnars"
   ]
 }

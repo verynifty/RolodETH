@@ -13,6 +13,11 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-ens",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal"
   ]
 }

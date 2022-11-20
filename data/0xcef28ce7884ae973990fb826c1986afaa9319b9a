@@ -16,6 +16,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

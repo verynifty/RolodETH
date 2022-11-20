@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "snapshot-voter-tomoondao"
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-jbdao"
   ],
   "name": "Moon DAO: Deployer"
 }

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-poh",
+    "snapshot-voter-pohboard"
   ]
 }

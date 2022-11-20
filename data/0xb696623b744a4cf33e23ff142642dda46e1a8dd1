@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-uniswap",
-    "snapshot-voter-isat"
+    "snapshot-voter-isat",
+    "snapshot-voter-stgdao"
   ]
 }

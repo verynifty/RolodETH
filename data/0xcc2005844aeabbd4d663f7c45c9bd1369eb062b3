@@ -18,6 +18,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-people-dao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

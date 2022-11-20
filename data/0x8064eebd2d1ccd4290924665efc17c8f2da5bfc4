@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "hashmask-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-gearbox"
   ]
 }

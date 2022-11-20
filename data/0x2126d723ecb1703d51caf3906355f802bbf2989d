@@ -6,6 +6,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

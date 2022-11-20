@@ -15,6 +15,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-xennft",
-    "snapshot-voter-isat"
+    "snapshot-voter-isat",
+    "snapshot-voter-jbdao"
   ]
 }

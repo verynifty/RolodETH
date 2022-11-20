@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-index-coop",
     "snapshot-voter-bancornetwork",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gearbox"
   ]
 }

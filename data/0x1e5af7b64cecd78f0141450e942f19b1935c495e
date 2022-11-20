@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

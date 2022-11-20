@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-beets",
+    "snapshot-voter-treasuredao"
   ]
 }

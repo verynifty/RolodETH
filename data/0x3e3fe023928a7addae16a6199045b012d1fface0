@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

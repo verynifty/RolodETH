@@ -2,6 +2,11 @@
   "tags": [
     "snapshot-voter-gnosis",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-sanei",
+    "snapshot-voter-sismo",
+    "snapshot-voter-web3dao"
   ]
 }

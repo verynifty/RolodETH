@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

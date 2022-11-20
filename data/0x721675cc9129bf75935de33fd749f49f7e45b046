@@ -3,6 +3,7 @@
     "snapshot-voter-mimo",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-qidao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-synthereum"
   ]
 }

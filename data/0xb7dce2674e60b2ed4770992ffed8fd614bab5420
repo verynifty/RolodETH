@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-grayboys"
   ]
 }

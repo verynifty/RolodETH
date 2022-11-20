@@ -15,6 +15,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-ens",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

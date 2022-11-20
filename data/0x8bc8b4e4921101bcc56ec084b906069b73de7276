@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-moonwell-governance"
+    "snapshot-voter-moonwell-governance",
+    "snapshot-voter-stgdao"
   ]
 }

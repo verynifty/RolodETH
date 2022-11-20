@@ -18,6 +18,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-derify",
+    "snapshot-voter-gearbox"
   ]
 }

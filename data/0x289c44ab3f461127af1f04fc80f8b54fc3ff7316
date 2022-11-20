@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-huwacoin",
     "snapshot-voter-aave",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-stgdao"
   ]
 }

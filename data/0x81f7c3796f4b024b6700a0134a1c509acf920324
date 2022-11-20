@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ]
 }

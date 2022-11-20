@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-pitchdeployer",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-stgdao"
   ]
 }

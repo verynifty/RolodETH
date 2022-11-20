@@ -3,6 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify",
+    "snapshot-voter-piedao"
   ]
 }

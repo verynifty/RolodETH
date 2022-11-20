@@ -8,6 +8,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-comp-vote",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

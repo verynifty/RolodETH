@@ -4,6 +4,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-stgdao"
   ]
 }

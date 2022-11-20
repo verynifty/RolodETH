@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-tomoondao",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-stgdao"
   ]
 }

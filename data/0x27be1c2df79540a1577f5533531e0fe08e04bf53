@@ -15,6 +15,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-53231323"
+    "snapshot-voter-53231323",
+    "snapshot-voter-stgdao"
   ]
 }

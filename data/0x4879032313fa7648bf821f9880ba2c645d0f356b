@@ -17,6 +17,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gnosis"
   ]
 }

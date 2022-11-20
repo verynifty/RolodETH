@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-bestfork"
   ]
 }

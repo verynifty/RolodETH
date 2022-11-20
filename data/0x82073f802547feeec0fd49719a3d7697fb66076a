@@ -15,6 +15,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gnosis",
     "snapshot-voter-poh",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

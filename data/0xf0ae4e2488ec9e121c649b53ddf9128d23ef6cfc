@@ -17,6 +17,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-345133",
     "snapshot-voter-234188",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-toubazi"
   ]
 }

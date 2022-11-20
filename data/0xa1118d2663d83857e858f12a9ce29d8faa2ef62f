@@ -8,6 +8,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-alchemixstakers"
   ]
 }

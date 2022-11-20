@@ -19,6 +19,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gotchivault"
+    "snapshot-voter-gotchivault",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify"
   ]
 }

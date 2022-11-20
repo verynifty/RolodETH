@@ -11,6 +11,10 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox"
   ]
 }

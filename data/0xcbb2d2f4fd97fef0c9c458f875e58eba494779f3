@@ -17,6 +17,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-derify"
   ]
 }

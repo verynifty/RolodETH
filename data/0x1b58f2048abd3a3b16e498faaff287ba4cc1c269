@@ -10,6 +10,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-53231323",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

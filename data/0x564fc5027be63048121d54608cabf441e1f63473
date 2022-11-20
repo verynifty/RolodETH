@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gal"
   ]
 }

@@ -19,6 +19,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-hop",
-    "snapshot-voter-gotchivault"
+    "snapshot-voter-gotchivault",
+    "snapshot-voter-krap",
+    "snapshot-voter-gnosis"
   ]
 }

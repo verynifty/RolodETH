@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-gmx",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

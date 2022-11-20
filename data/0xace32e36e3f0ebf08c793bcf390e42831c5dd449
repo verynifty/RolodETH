@@ -11,6 +11,9 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-polygon-goodghosting"
   ]
 }

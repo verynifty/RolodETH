@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-pushdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

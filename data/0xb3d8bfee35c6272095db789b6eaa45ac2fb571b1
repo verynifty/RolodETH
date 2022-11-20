@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-apecoin",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

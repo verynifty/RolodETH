@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-10kvote"
   ]
 }

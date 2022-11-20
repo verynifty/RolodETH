@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-stgdao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-nftunit"
   ]
 }

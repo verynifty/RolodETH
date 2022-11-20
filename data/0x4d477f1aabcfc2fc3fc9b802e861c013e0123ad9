@@ -20,6 +20,7 @@
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

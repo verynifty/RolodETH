@@ -14,6 +14,9 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

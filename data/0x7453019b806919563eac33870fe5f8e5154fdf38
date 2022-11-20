@@ -3,6 +3,8 @@
     "moonbird-minter",
     "snapshot-voter-speraxdao",
     "snapshot-voter-goldfinch",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-ethlizards"
   ]
 }

@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox"
   ]
 }

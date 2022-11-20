@@ -16,6 +16,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-comp-vote",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

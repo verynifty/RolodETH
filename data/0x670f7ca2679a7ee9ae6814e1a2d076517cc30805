@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

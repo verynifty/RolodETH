@@ -12,6 +12,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-bancornetwork"
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-gmx",
     "snapshot-voter-cvx",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-beets"
   ]
 }

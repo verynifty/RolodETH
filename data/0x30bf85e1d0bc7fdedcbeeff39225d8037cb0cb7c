@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gauge.rbn",
-    "snapshot-voter-gauge-rbn"
+    "snapshot-voter-gauge-rbn",
+    "snapshot-voter-stgdao"
   ]
 }

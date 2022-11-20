@@ -20,6 +20,7 @@
     "snapshot-voter-vote.hopr",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-vote-hopr",
-    "snapshot-voter-giv"
+    "snapshot-voter-giv",
+    "snapshot-voter-stgdao"
   ]
 }

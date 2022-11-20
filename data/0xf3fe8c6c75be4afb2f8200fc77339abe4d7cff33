@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-uniswap",
-    "snapshot-voter-eulerdao"
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -19,6 +19,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

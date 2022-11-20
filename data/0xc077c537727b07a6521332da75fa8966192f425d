@@ -21,6 +21,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-stgdao"
   ]
 }

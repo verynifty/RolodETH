@@ -16,6 +16,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

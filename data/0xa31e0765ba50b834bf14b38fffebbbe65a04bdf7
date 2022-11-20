@@ -11,6 +11,9 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

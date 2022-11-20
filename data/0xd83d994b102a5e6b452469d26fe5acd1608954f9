@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-balancer",
-    "snapshot-voter-shapeshiftdao"
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-hakka"
   ]
 }

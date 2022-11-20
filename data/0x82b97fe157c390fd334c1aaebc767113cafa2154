@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-cakevote",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

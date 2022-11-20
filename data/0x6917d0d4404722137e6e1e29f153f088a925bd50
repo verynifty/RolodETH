@@ -4,6 +4,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gal"
   ]
 }

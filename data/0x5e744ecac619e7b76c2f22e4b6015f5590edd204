@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-piedao"
   ]
 }

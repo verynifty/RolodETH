@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gearbox"
   ]
 }

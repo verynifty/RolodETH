@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-ctcswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-daoge",
+    "snapshot-voter-gal"
   ]
 }

@@ -7,6 +7,8 @@
     "snapshot-voter-koba777",
     "snapshot-voter-qidao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-derify",
+    "snapshot-voter-stgdao"
   ]
 }

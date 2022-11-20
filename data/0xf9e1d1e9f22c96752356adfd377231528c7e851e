@@ -23,6 +23,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-bullsontheblock"
   ]
 }

@@ -17,6 +17,8 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-elfi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

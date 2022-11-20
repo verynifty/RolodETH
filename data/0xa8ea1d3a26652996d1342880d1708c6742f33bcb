@@ -18,6 +18,9 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-piedao",
+    "snapshot-voter-pranjalbora"
   ]
 }

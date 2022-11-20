@@ -16,6 +16,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-elfi",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis"
   ]
 }

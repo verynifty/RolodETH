@@ -5,6 +5,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-piedao",
+    "snapshot-voter-derify"
   ]
 }

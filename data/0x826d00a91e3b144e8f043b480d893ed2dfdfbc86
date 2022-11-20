@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gnosis"
   ]
 }

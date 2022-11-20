@@ -3,7 +3,9 @@
     "snapshot-voter",
     "take-action",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-stgdao"
   ],
   "name": "Multichain Hack Alert 2315"
 }

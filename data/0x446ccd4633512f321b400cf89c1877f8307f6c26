@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-goldfinch",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

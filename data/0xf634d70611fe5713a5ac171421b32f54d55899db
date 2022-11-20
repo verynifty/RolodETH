@@ -4,6 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-pranjalbora"
   ]
 }

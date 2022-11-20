@@ -14,6 +14,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-aladdindao",
+    "snapshot-voter-gearbox"
   ]
 }

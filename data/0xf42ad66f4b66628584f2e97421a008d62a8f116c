@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-ens",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-jbdao"
   ]
 }
