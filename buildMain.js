@@ -5,6 +5,7 @@ const OpenSeaAPI = require("./sources/OpenSeaAPI");
 const JSONImporter = require("./sources/JSONImporter");
 const reservoir = require("./sources/reservoir");
 const ERC721Minters = require("./sources/ERC721Minters");
+const SnapshotVoting = require("./sources/SnapshotVoting");
 
 const CoingeckoTokenList = new UniswapTokenList("https://tokens.coingecko.com/uniswap/all.json");
 const MyCryptoTokenList = new UniswapTokenList("https://uniswap.mycryptoapi.com/");
@@ -14,6 +15,7 @@ const MyEtherWalletDarkListLabels = new JSONImporter("https://raw.githubusercont
 const estherscanLabels = new JSONImporter("https://raw.githubusercontent.com/brianleect/etherscan-labels/main/combined/combinedLabels.json");
 const OS = new OpenSeaAPI();
 const Reservoir = new reservoir();
+const snapshotvoting = new SnapshotVoting()
 
 const UniswapV3LP = new ERC721Minters("https://rpc.flashbots.net/", "0xc36442b4a4522e871399cd717abdd847ab11fe88", ["uniswapv3-lp"]);
 
@@ -36,7 +38,6 @@ const GolbinTownMinters = new ERC721Minters("https://rpc.flashbots.net/", "0xbce
 const ArtGobblersMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x60bb1e2aa1c9acafb4d34f71585d7e959f387769", ["art-goblers-minter"]);
 const OtherdeedMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258", ["otherdeed-minter"]);
 const MAYCMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x60e4d786628fea6478f785a6d7e704777c86a7c6", ["mayc-minter"]);
-const CloneXMinters = new ERC721Minters("https://rpc.flashbots.net/", "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b", ["clonex-minter"]);
 
 const NFTMinters = [
     BAYCMinters,
@@ -63,7 +64,8 @@ const NFTMinters = [
 ];
 
 (async () => {
-
+    await snapshotvoting.addTo(RolodETH);
+    return
     await UniswapV3LP.addTo(RolodETH);
     return;
     await Reservoir.addTo(RolodETH);
