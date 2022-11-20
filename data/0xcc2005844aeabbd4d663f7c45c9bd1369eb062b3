@@ -10,6 +10,12 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-comp-vote"
   ]
 }

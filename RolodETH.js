@@ -31,6 +31,17 @@ RolodETH.prototype.getFiles = function () {
     return files;
 }
 
+RolodETH.prototype.cleanTag = function(tag) {
+    tag = tag.toLowerCase();
+    if (tag == "blocked") {
+        return ""
+    }
+    tag = tag.replace(" ", "-")
+    tag = tag.replace("_", "-")
+    tag = tag.replace(".", "-")
+    return tag;
+}
+
 RolodETH.prototype.addProperty = async function (address, propertyName, value) {
     if (value == null || value == "") {
         return;
@@ -61,6 +72,7 @@ RolodETH.prototype.removeProperty = async function (address, propertyName) {
 }
 
 RolodETH.prototype.addTag = function (address, tagName) {
+    tagName = this.cleanTag(tagName)
     if (tagName == null || tagName == "") {
         return;
     }

@@ -11,6 +11,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-silofinance",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave"
   ]
 }

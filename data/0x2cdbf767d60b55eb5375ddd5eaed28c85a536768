@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-comp-vote"
   ]
 }

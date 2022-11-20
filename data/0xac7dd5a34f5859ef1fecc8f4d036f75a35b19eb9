@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-etherscoredao"
   ]
 }

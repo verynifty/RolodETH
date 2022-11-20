@@ -10,6 +10,14 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-elfi",
+    "snapshot-voter-aave",
+    "snapshot-voter-ens",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-pancake",
+    "snapshot-voter-comp-vote"
   ]
 }

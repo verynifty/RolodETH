@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-snapshot.dcl",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-qidao"
   ]
 }

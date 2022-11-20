@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-1inch"
   ]
 }

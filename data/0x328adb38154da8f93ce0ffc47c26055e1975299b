@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-frax",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave",
+    "snapshot-voter-gitcoindao"
   ]
 }

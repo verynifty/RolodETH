@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-tableland-rigs",
+    "snapshot-voter-aave",
+    "snapshot-voter-comp-vote"
   ]
 }

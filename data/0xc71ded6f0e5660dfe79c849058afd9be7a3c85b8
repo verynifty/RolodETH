@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-gmx",
+    "snapshot-voter-balancer",
+    "snapshot-voter-hop"
   ]
 }

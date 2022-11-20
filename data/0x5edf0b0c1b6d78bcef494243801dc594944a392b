@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-sismo",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ]
 }

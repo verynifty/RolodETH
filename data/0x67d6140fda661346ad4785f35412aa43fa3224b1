@@ -10,6 +10,12 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-snapshot.dcl",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal",
+    "snapshot-voter-gitcoindao"
   ]
 }

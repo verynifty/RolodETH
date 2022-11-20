@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-ens",
+    "snapshot-voter-1inch",
+    "snapshot-voter-comp-vote"
   ]
 }

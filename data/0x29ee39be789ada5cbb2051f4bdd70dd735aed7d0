@@ -10,6 +10,12 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-banklessvault"
   ]
 }

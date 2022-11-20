@@ -11,6 +11,10 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-apecoin"
   ]
 }

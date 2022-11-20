@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-hop",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao"
   ]
 }

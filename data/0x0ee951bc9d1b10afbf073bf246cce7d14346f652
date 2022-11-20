@@ -10,6 +10,12 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-hop",
+    "snapshot-voter-gal",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-ens"
   ]
 }

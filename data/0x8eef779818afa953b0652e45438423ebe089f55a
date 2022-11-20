@@ -12,6 +12,12 @@
     "-",
     "l",
     "snapshot-voter-people-dao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-layer2dao.org",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-tomoondao"
   ]
 }

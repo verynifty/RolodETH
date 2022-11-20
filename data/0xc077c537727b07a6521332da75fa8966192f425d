@@ -12,6 +12,13 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap"
   ]
 }

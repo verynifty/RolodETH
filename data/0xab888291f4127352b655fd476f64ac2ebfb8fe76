@@ -10,6 +10,15 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-balancer",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-ens",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-apecoin"
   ]
 }

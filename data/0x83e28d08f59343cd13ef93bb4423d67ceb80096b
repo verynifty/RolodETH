@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-aave",
+    "snapshot-voter-ens",
+    "snapshot-voter-etherscoredao"
   ]
 }

@@ -11,6 +11,11 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-ens",
+    "snapshot-voter-layer2dao.org"
   ]
 }

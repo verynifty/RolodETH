@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-snapshot.dcl",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao"
   ]
 }

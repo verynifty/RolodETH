@@ -1,6 +1,8 @@
 {
   "tags": [
-    "eoa"
+    "eoa",
+    "snapshot-voter-gmx",
+    "snapshot-voter-qidao"
   ],
   "ens": "tthdteamhome.eth"
 }

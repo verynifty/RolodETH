@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-zkware",
+    "snapshot-voter-aave",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-pooltogether"
   ]
 }

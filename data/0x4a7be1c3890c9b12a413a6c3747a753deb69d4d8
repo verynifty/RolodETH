@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-ens"
   ]
 }

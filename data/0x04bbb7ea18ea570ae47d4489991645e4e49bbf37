@@ -12,6 +12,10 @@
     "-",
     "l",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gal",
+    "snapshot-voter-gitcoindao"
   ]
 }

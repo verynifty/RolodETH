@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-gmx",
+    "snapshot-voter-elfi",
+    "snapshot-voter-paraswap-dao"
   ]
 }

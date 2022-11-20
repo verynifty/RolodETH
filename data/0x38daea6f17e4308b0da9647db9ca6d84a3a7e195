@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-snapshot.dcl",
+    "snapshot-voter-stakewise",
+    "snapshot-voter-cre8r"
   ]
 }

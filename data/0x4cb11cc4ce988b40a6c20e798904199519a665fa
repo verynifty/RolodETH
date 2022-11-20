@@ -11,6 +11,8 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-layer2dao.org"
   ]
 }

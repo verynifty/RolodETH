@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave",
+    "snapshot-voter-speraxdao"
   ]
 }

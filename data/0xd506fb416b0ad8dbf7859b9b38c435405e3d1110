@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

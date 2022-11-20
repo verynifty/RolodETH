@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-comp-vote"
   ]
 }

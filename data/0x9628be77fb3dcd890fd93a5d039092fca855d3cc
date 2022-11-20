@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-aave",
+    "snapshot-voter-spiritswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-hop",
+    "snapshot-voter-pushdao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-apecoin"
   ]
 }

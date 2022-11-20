@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-dydxgov"
   ]
 }

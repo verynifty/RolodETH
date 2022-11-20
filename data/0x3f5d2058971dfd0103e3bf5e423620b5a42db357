@@ -10,6 +10,13 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote"
   ]
 }

@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot"
   ]
 }

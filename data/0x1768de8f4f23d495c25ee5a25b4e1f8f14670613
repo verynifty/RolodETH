@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao"
   ]
 }

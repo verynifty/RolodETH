@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-gmx",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-zkSync DAO"
   ]
 }

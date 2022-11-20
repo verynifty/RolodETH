@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-hop"
   ]
 }

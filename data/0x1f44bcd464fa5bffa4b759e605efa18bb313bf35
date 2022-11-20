@@ -10,6 +10,12 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-moonwell-governance",
+    "snapshot-voter-gal",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-aave",
+    "snapshot-voter-layer2dao.org",
+    "snapshot-voter-mail3"
   ]
 }

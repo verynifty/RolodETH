@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-aave"
   ]
 }

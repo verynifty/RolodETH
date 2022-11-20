@@ -13,7 +13,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-ens",
+    "snapshot-voter-aave",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao"
   ],
   "name": "Evmos: Deployer"
 }

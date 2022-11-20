@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-gal",
+    "snapshot-voter-nexisdao",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gauge.rbn"
   ]
 }
