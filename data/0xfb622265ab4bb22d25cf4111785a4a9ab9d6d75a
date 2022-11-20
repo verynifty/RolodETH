@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-yokaiswap"
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-zksync-dao"
   ]
 }

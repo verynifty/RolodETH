@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-balancer",
-    "snapshot-voter-breederdao-admin"
+    "snapshot-voter-breederdao-admin",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dforcenet",
+    "snapshot-voter-stgdao"
   ]
 }

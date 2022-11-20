@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao"
   ]
 }

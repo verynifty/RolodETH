@@ -6,6 +6,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-layer2dao.org",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-layer2dao-org"
   ]
 }

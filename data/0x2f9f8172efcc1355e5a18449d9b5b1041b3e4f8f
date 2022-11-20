@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-elfi",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

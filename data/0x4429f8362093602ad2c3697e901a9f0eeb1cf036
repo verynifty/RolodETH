@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-cakevote",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

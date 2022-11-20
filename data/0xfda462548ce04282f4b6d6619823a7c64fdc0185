@@ -11,7 +11,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-sdfxs",
+    "snapshot-voter-sdcrv"
   ],
   "name": "Angle Protocol: Deployer"
 }

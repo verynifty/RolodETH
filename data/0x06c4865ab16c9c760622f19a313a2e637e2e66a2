@@ -16,6 +16,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-banklessvault",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-yam",
+    "snapshot-voter-uniswap"
   ]
 }

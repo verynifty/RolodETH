@@ -3,6 +3,10 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-zkSync DAO"
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-hop",
+    "snapshot-voter-aavegotchi"
   ]
 }

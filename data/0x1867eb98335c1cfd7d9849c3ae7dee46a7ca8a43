@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-aave",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-uniswap"
   ]
 }

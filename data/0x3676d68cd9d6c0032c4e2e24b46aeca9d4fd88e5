@@ -1,6 +1,11 @@
 {
   "tags": [
     "snapshot-voter-speraxdao",
-    "snapshot-voter-zkSync DAO"
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-aave",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-hop"
   ]
 }

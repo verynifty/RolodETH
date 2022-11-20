@@ -3,6 +3,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-shapeshiftdao"
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

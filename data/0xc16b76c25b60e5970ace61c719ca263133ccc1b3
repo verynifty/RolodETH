@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-balancer",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -16,6 +16,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gotchivault"
   ]
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
-    "take-action"
+    "take-action",
+    "snapshot-voter-gotchivault",
+    "snapshot-voter-stgdao"
   ],
   "name": "Multichain Hack Alert 3168"
 }

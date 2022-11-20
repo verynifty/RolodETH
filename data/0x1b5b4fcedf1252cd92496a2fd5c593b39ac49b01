@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

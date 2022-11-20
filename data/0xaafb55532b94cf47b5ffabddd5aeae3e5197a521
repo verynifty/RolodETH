@@ -15,6 +15,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-cakevote",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-zksync-dao"
   ]
 }

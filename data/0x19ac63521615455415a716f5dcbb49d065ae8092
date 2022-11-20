@@ -4,6 +4,7 @@
     "bayc-minter",
     "hashmask-minter",
     "cyber-kong-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-lgcryptounicorns"
   ]
 }

@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-layer2dao.org"
+    "snapshot-voter-layer2dao.org",
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-uniswap"
   ]
 }

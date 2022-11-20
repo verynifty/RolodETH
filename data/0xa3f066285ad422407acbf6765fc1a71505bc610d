@@ -14,6 +14,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-comp-vote",
     "snapshot-voter-aave",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

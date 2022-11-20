@@ -13,6 +13,16 @@
     "l",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-index-coop",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-hop",
+    "snapshot-voter-mail3",
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

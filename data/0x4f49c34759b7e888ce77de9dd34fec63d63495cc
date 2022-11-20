@@ -15,6 +15,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-balancer",
     "snapshot-voter-ens",
-    "snapshot-voter-layer2dao.org"
+    "snapshot-voter-layer2dao.org",
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis"
   ]
 }

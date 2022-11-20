@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-xennft",
+    "snapshot-voter-isat"
   ]
 }

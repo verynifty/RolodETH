@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-sismo"
   ]
 }

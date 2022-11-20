@@ -17,6 +17,11 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-balancer",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-daocity",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

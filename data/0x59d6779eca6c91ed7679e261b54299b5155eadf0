@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-index-coop"
+    "snapshot-voter-index-coop",
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

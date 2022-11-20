@@ -14,6 +14,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-huwacoin"
+    "snapshot-voter-huwacoin",
+    "snapshot-voter-zksync-dao"
   ]
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-balancer",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aavegotchi"
   ]
 }

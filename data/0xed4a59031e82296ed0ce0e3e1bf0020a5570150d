@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-uniswap"
   ]
 }

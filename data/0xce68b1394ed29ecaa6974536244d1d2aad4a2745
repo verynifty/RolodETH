@@ -10,6 +10,10 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gitcoindao"
   ]
 }

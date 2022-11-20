@@ -11,6 +11,10 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-poh",
+    "snapshot-voter-gal"
   ]
 }

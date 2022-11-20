@@ -14,6 +14,7 @@
     "l",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-gauge.rbn"
+    "snapshot-voter-gauge.rbn",
+    "snapshot-voter-gauge-rbn"
   ]
 }

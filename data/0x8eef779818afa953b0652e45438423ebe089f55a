@@ -18,6 +18,12 @@
     "snapshot-voter-ens",
     "snapshot-voter-balancer",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-tomoondao"
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop",
+    "snapshot-voter-liveartxevent"
   ]
 }

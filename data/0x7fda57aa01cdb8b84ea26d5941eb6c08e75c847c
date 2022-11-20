@@ -1,7 +1,8 @@
 {
   "tags": [
     "eoa",
-    "snapshot-voter-zkSync DAO"
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-zksync-dao"
   ],
   "ens": "mampy.eth"
 }

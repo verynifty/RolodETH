@@ -13,6 +13,10 @@
     "l",
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-8848labs",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-darumadao",
+    "snapshot-voter-gal"
   ]
 }

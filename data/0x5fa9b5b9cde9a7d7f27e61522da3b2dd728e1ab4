@@ -1,6 +1,7 @@
 {
   "tags": [
     "azuki-minter",
-    "loot-minter"
+    "loot-minter",
+    "snapshot-voter-stgdao"
   ]
 }

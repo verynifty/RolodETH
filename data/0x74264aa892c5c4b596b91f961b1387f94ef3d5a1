@@ -10,6 +10,8 @@
     "snapshot-voter-pancake",
     "snapshot-voter-apeswap-finance",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-bancornetwork"
   ]
 }

@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-apecoin",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

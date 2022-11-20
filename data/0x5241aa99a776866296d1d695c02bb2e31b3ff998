@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-plutusclub",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-cakevote"
   ]
 }

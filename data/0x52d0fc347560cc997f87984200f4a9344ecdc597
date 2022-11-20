@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-goldfinch"
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-stgdao"
   ]
 }

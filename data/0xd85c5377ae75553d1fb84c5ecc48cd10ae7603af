@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-elfi"
   ]
 }

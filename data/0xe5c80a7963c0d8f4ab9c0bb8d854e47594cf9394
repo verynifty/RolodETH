@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-dydxgov",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis"
   ]
 }

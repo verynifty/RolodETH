@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-huwacoin"
+    "snapshot-voter-huwacoin",
+    "snapshot-voter-zksync-dao"
   ]
 }

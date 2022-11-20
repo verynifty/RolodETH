@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-gmx",
     "snapshot-voter-elfi",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-moonwell-governance",
+    "snapshot-voter-gal"
   ]
 }

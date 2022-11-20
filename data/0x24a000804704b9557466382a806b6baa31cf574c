@@ -8,6 +8,9 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-hop",
+    "snapshot-voter-8848labs",
+    "snapshot-voter-199820"
   ]
 }

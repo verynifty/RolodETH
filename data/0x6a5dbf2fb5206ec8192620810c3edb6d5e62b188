@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-cvx",
+    "snapshot-voter-frax",
+    "snapshot-voter-olympusdao"
   ]
 }

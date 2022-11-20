@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-officialoceandao"
   ]
 }

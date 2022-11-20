@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-giv",
+    "snapshot-voter-uniswap"
   ]
 }

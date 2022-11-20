@@ -15,6 +15,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-balancer",
     "snapshot-voter-apecoin",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

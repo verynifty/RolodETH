@@ -1,7 +1,9 @@
 {
   "tags": [
     "snapshot-voter",
-    "take-action"
+    "take-action",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ],
   "name": "Multichain Hack Alert 2315"
 }

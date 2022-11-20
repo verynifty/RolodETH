@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

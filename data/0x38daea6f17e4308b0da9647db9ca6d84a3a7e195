@@ -13,6 +13,15 @@
     "l",
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-stakewise",
-    "snapshot-voter-cre8r"
+    "snapshot-voter-cre8r",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-breederdao-admin",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gmx",
+    "snapshot-voter-theidols",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-unlock-protocol"
   ]
 }

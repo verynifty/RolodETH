@@ -13,6 +13,9 @@
     "l",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-aave",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-daoge",
+    "snapshot-voter-stgdao"
   ]
 }

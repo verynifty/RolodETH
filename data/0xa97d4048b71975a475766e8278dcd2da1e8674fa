@@ -16,6 +16,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-comp-vote",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aavegotchi"
   ]
 }

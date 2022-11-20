@@ -4,6 +4,8 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gov.spool",
-    "snapshot-voter-egov.spool"
+    "snapshot-voter-egov.spool",
+    "snapshot-voter-gov-spool",
+    "snapshot-voter-egov-spool"
   ]
 }

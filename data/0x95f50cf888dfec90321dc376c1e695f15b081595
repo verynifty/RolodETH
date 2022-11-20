@@ -11,6 +11,11 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-poh",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-hop"
   ]
 }

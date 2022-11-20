@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-tableland-rigs",
     "snapshot-voter-aave",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

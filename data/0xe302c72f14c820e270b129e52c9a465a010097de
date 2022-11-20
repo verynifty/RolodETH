@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-snapshot.dcl",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-uniswap"
   ]
 }

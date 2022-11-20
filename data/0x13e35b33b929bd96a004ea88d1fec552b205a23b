@@ -15,6 +15,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-nftfinance",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

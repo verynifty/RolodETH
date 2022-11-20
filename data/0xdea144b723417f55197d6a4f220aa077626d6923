@@ -13,6 +13,9 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-toubazi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

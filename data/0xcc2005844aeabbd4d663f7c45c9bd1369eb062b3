@@ -16,6 +16,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-qidao",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-uniswap"
   ]
 }

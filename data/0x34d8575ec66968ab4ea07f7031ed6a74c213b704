@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-ens",
-    "snapshot-voter-o3dao"
+    "snapshot-voter-o3dao",
+    "snapshot-voter-uniswap"
   ]
 }

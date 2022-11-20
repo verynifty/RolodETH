@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-uniswap"
   ]
 }

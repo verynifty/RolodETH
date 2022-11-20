@@ -5,6 +5,9 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-53231323"
   ]
 }

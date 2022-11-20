@@ -3,6 +3,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-sdcrv",
     "snapshot-voter-frax",
-    "snapshot-voter-sdfxs"
+    "snapshot-voter-sdfxs",
+    "snapshot-voter-apwine"
   ]
 }

@@ -13,6 +13,7 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-vote.metricsdao"
+    "snapshot-voter-vote.metricsdao",
+    "snapshot-voter-vote-metricsdao"
   ]
 }

@@ -3,6 +3,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-aave",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-aavegotchi"
   ]
 }

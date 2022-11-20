@@ -16,6 +16,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-poh"
   ]
 }

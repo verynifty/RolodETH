@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-gauge.rbn",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-gauge-rbn"
   ]
 }

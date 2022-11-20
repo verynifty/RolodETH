@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-snapshot.dcl",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

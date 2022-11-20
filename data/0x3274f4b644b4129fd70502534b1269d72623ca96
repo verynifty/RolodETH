@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-comp-vote"
   ]
 }

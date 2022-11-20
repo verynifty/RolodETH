@@ -12,6 +12,10 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-1inch",
+    "snapshot-voter-uniswap"
   ]
 }

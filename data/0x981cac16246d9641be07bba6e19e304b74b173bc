@@ -10,6 +10,9 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-index-coop",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-stgdao"
   ]
 }

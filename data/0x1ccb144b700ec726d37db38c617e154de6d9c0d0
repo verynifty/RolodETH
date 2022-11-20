@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-unlock-protocol",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-uniswap"
   ]
 }

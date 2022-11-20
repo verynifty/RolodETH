@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-hop",
+    "snapshot-voter-gal"
   ]
 }

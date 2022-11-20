@@ -4,6 +4,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-aave",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

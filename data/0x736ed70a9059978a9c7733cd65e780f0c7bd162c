@@ -15,6 +15,11 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-layer2dao.org",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo",
+    "snapshot-voter-53231323"
   ]
 }

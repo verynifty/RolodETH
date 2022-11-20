@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-ens",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

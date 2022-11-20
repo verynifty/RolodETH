@@ -1,5 +1,10 @@
 {
   "tags": [
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-balancer",
+    "snapshot-voter-1inch",
+    "snapshot-voter-beets"
   ]
 }

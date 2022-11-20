@@ -3,6 +3,10 @@
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-people-dao",
     "snapshot-voter-zkSync DAO",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-liveartxevent"
   ]
 }

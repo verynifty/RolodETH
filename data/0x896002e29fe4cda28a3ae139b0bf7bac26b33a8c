@@ -18,6 +18,9 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-uniswap"
   ]
 }

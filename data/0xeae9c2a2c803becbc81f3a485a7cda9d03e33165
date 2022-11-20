@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-elfi",
+    "snapshot-voter-liveartxevent"
   ]
 }

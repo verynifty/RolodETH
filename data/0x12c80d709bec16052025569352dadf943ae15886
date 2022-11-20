@@ -11,6 +11,8 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

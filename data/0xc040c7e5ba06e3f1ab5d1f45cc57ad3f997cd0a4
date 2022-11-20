@@ -1,7 +1,8 @@
 {
   "tags": [
     "take-action",
-    "veefriend-minter"
+    "veefriend-minter",
+    "snapshot-voter-stgdao"
   ],
   "name": "Multichain Hack Alert 1915"
 }

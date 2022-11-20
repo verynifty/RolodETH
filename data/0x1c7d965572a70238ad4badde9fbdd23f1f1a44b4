@@ -3,6 +3,7 @@
     "hashmask-minter",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-zksync-dao"
   ]
 }

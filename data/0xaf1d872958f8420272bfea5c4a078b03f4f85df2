@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-snapshot.dcl",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-stgdao"
   ]
 }

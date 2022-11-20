@@ -18,6 +18,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-tomoondao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-daoge"
   ]
 }

@@ -15,6 +15,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-snapshot.dcl"
+    "snapshot-voter-snapshot.dcl",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

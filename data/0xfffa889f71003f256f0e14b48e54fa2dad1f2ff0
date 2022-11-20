@@ -13,6 +13,10 @@
     "l",
     "snapshot-voter-speraxdao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

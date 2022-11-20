@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-speraxdao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-zksync-dao"
   ]
 }

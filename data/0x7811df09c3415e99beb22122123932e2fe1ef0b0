@@ -16,6 +16,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

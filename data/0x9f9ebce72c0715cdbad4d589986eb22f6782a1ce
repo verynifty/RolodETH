@@ -13,6 +13,8 @@
     "l",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

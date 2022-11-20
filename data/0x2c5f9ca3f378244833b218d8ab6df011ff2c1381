@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-speraxdao"
   ]
 }

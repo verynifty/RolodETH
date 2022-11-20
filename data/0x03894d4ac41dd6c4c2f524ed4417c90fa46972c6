@@ -14,6 +14,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-elfi",
+    "snapshot-voter-uniswap"
   ]
 }

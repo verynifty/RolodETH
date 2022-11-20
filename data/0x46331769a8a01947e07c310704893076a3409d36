@@ -3,6 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-index-coop",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-1inch",
+    "snapshot-voter-stgdao"
   ]
 }

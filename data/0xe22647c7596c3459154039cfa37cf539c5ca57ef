@@ -3,6 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
     "snapshot-voter-gal",
-    "snapshot-voter-eulerdao"
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-speraxdao"
   ]
 }

@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-moonwell-governance",
+    "snapshot-voter-uniswap"
   ]
 }

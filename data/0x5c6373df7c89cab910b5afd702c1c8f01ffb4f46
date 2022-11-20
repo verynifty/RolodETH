@@ -15,6 +15,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-zksync-dao"
   ]
 }

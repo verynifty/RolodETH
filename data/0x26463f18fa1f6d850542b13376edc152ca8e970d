@@ -14,6 +14,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

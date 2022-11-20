@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-zkSync DAO"
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-zksync-dao"
   ]
 }

@@ -11,6 +11,10 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-diadao"
   ]
 }

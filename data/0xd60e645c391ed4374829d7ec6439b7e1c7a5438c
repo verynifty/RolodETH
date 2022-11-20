@@ -12,6 +12,10 @@
     "-",
     "l",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gal",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-uniswap"
   ]
 }

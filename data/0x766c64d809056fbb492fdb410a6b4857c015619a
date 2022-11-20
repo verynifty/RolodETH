@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-cvx",
+    "snapshot-voter-frax",
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-stgdao"
   ]
 }

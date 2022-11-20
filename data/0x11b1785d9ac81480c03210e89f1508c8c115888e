@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-stgdao"
   ]
 }

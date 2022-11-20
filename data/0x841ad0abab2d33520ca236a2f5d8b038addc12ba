@@ -14,6 +14,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-krausehouse",
     "snapshot-voter-layer2dao.org",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-layer2dao-org"
   ]
 }

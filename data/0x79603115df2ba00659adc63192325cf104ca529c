@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-mimo",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-stgdao"
   ]
 }

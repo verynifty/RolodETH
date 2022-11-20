@@ -17,6 +17,11 @@
     "snapshot-voter-balancer",
     "snapshot-voter-ens",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-hop",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

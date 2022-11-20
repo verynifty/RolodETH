@@ -2,6 +2,10 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-53231323",
+    "snapshot-voter-gal"
   ]
 }

@@ -12,6 +12,8 @@
     "-",
     "l",
     "snapshot-voter-snapshot.dcl",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -2,6 +2,10 @@
   "tags": [
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-sismo",
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

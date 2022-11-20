@@ -7,6 +7,10 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-qidao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-hop",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-meowbored"
   ]
 }

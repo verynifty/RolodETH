@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-qidao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

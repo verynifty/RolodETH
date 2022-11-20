@@ -18,6 +18,9 @@
     "snapshot-voter-layer2dao.org",
     "snapshot-voter-ens",
     "snapshot-voter-qidao",
-    "snapshot-voter-saddlefinance"
+    "snapshot-voter-saddlefinance",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-poh"
   ]
 }

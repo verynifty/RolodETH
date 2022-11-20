@@ -14,6 +14,8 @@
     "snapshot-voter-whitemountain",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap"
   ]
 }

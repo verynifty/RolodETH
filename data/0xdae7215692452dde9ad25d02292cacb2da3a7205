@@ -11,6 +11,8 @@
     "3",
     "-",
     "l",
-    "snapshot-voter-o3dao"
+    "snapshot-voter-o3dao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

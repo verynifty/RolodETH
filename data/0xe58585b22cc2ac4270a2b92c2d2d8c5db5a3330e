@@ -15,6 +15,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-uniswap"
   ]
 }

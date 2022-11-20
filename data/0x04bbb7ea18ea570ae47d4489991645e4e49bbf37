@@ -16,6 +16,12 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-vote-hopr",
+    "snapshot-voter-53231323",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-alchemixstakers"
   ]
 }

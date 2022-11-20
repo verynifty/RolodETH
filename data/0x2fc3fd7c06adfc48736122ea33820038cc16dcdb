@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-daocity"
+    "snapshot-voter-daocity",
+    "snapshot-voter-gal"
   ]
 }

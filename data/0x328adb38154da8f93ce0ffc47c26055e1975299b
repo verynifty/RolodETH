@@ -15,6 +15,11 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-qidao",
     "snapshot-voter-aave",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-53231323",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

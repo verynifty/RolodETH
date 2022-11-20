@@ -12,6 +12,11 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-cvx",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

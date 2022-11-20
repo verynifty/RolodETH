@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-index-coop"
   ]
 }

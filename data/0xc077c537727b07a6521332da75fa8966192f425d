@@ -19,6 +19,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-banklessvault",
     "snapshot-voter-ens",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-hop"
   ]
 }

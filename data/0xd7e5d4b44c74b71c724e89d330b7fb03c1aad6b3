@@ -5,6 +5,7 @@
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-eulerdao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

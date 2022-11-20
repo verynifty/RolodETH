@@ -12,6 +12,9 @@
     "-",
     "l",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-lgcryptounicorns",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop"
   ]
 }

@@ -16,6 +16,7 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-banklessvault",
     "snapshot-voter-apecoin",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

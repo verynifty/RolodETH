@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-snapshot.dcl",
     "snapshot-voter-zhulindong",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

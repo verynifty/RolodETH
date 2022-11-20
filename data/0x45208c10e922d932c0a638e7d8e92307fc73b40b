@@ -15,6 +15,9 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-aave",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-uniswap"
   ]
 }

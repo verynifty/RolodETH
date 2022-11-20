@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-uniswap"
   ]
 }

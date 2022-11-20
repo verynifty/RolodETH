@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap"
   ]
 }

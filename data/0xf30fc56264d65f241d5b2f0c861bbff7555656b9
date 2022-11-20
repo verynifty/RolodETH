@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-banklessvault"
   ]
 }

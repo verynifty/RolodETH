@@ -10,6 +10,11 @@
     "v",
     "3",
     "-",
-    "l"
+    "l",
+    "snapshot-voter-1satoshi",
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-index-coop",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-dydxgov"
   ]
 }

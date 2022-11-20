@@ -13,6 +13,9 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-pushdao"
+    "snapshot-voter-pushdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

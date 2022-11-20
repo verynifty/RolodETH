@@ -3,6 +3,7 @@
     "bayc_minter",
     "bayc-minter",
     "pudgypinguin-minter",
-    "pudgy-pinguin-minter"
+    "pudgy-pinguin-minter",
+    "snapshot-voter-brightmoments"
   ]
 }

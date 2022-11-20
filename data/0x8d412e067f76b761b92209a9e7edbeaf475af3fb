@@ -13,6 +13,7 @@
     "l",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-stgdao"
   ]
 }

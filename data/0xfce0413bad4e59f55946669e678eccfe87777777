@@ -5,6 +5,7 @@
     "meebit-minter",
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-zksync-dao"
   ]
 }

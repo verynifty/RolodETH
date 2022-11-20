@@ -13,6 +13,9 @@
     "l",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-qidao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-poh",
+    "snapshot-voter-gal"
   ]
 }

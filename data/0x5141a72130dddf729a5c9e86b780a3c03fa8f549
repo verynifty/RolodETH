@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-53231323"
   ]
 }

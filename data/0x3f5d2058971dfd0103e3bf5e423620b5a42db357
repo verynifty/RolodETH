@@ -17,6 +17,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

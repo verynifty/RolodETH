@@ -15,6 +15,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap"
   ]
 }

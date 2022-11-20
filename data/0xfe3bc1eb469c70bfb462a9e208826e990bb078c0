@@ -3,6 +3,7 @@
     "snapshot-voter-zkSync DAO",
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-zksync-dao"
   ]
 }

@@ -3,6 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

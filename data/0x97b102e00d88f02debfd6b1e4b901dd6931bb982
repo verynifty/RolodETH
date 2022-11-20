@@ -12,6 +12,10 @@
     "-",
     "l",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-goldfinch"
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-freerossdao",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-yam",
+    "snapshot-voter-gal"
   ]
 }

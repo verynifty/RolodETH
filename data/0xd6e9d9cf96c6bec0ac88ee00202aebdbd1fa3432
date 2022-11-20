@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-zkSync DAO"
+    "snapshot-voter-zkSync DAO",
+    "snapshot-voter-zksync-dao"
   ]
 }

@@ -19,6 +19,12 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-pooltogether"
   ]
 }

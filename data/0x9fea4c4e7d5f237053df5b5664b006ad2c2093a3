@@ -12,6 +12,7 @@
     "-",
     "l",
     "snapshot-voter-aave",
-    "snapshot-voter-huwacoin"
+    "snapshot-voter-huwacoin",
+    "snapshot-voter-uniswap"
   ]
 }

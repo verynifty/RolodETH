@@ -18,6 +18,8 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-cakevote",
     "snapshot-voter-pancake",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }
