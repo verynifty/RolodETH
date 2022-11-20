@@ -4,6 +4,13 @@ function SnapshotVoting() {
     this.name = "SnapshotVoting_" + Date.now();
 }
 
+SnapshotVoting.prototype.spaceToName = function(spaceName) {
+    if (spaceName == "jntaoli.eth") {
+        return "zkSync DAO"
+    }
+    return spaceName.toLowerCase().replace(".eth", "");
+}
+
 SnapshotVoting.prototype.addTo = async function (RolodETH) {
     let cont = true;
     let skip = 0;
@@ -23,22 +30,19 @@ SnapshotVoting.prototype.addTo = async function (RolodETH) {
               space
             }
           }
-    `
+        `
         }
 
         );
         let votes = resp.data.data.messages;
         for (const vote of votes) {
-            if (voters[vote.address.toLowerCase()] == null) {
-                voters[vote.address.toLowerCase()] = {
-                    spaces: {}
-                }
-            }
-            voters[vote.address.toLowerCase()].spaces[vote.space] = true
+            RolodETH.addTag(vote.address, "snapshot-voter-" + this.spaceToName(vote.space));
         }
-        console.log(Object.keys(voters).length)
         skip += returnSize
         console.log(votes.length, skip)
+        if (votes.length < returnSize) {
+            cont = false;
+        }
     }
 
 }
