@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-cvx",
     "snapshot-voter-frax",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-gearbox"
   ]
 }

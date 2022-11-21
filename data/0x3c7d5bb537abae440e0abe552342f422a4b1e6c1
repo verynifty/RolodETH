@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
-    "snapshot-voter-unlock-protocol"
+    "snapshot-voter-unlock-protocol",
+    "snapshot-voter-stgdao"
   ]
 }

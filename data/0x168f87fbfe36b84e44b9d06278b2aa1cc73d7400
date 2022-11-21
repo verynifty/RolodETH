@@ -3,6 +3,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

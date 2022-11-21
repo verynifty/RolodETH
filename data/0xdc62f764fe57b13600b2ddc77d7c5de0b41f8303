@@ -5,6 +5,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-stgdao"
   ]
 }

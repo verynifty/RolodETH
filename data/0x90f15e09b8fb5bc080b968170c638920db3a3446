@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-balancer",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-redactedcartel"
   ]
 }

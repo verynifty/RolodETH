@@ -3,6 +3,8 @@
     "meebit-minter",
     "snapshot-voter-frax",
     "snapshot-voter-botto",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-redactedcartel"
   ]
 }

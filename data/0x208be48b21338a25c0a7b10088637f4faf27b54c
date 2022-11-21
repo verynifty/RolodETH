@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-ens",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-poh",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

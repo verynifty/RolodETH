@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-officialoceandao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

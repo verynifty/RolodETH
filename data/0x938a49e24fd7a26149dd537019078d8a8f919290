@@ -6,6 +6,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao"
   ]
 }

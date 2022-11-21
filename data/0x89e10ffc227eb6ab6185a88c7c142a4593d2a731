@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gmx",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-synthereum"
   ]
 }

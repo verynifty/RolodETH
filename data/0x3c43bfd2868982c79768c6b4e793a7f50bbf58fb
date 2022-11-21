@@ -4,6 +4,7 @@
     "snapshot-voter-xtarot",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

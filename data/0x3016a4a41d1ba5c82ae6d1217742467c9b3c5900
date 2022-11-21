@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

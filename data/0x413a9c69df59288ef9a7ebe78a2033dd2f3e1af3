@@ -5,6 +5,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-qidao",
     "snapshot-voter-derify",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

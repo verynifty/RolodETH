@@ -3,6 +3,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

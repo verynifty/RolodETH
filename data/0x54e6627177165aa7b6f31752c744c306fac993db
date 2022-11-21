@@ -4,6 +4,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

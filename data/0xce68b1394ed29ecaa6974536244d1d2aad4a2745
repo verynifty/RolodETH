@@ -9,6 +9,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-stgdao"
   ]
 }

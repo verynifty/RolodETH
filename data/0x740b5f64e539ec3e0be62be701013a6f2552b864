@@ -5,6 +5,8 @@
     "snapshot-voter-maoke",
     "snapshot-voter-luobotou",
     "snapshot-voter-aave",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

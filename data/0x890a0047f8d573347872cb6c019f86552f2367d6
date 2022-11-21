@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-stgdao"
   ]
 }

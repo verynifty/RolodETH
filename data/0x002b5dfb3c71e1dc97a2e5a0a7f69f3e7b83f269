@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

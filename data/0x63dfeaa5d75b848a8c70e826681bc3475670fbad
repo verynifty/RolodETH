@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-hop",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

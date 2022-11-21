@@ -4,6 +4,8 @@
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-hop",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-tomoondao"
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

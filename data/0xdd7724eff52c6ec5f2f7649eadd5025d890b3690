@@ -9,6 +9,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
     "snapshot-voter-apollodao",
-    "snapshot-voter-polydoge"
+    "snapshot-voter-polydoge",
+    "snapshot-voter-stgdao"
   ]
 }

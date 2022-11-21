@@ -4,6 +4,7 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ]
 }

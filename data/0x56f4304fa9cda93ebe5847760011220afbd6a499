@@ -5,6 +5,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-cakevote",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gal"
   ]
 }

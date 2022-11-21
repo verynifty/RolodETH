@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-uniswap",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

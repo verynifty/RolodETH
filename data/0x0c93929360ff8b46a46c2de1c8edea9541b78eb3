@@ -4,6 +4,7 @@
     "bayc-minter",
     "veefriend-minter",
     "wow-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-brightmoments"
   ]
 }

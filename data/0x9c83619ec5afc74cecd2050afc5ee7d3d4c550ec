@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

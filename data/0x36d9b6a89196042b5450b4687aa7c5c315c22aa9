@@ -6,6 +6,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-olympusdao",
     "snapshot-voter-hop",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

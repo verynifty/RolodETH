@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao"
   ]
 }

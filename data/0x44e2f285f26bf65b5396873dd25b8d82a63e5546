@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-balancer",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao"
   ]
 }

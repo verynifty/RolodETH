@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-cakevote",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

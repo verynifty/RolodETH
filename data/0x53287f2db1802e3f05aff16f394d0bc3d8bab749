@@ -4,6 +4,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

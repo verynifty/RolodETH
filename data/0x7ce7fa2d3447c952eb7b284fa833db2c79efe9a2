@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-qidao",
-    "snapshot-voter-metavault-trade"
+    "snapshot-voter-metavault-trade",
+    "snapshot-voter-stgdao"
   ]
 }

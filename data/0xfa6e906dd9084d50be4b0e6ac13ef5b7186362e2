@@ -4,6 +4,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-cvx",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

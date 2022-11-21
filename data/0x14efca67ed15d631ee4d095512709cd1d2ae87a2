@@ -5,6 +5,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-pancake",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

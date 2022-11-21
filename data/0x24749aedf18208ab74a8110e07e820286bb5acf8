@@ -13,6 +13,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-frax",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gnosis"
   ]
 }

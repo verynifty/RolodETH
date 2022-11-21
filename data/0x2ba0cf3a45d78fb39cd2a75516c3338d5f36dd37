@@ -5,6 +5,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-moonwell-governance",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

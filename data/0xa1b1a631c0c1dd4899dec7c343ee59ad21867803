@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "bayc-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-aurafinance"
   ]
 }

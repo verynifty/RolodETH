@@ -9,6 +9,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

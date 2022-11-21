@@ -10,6 +10,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-daoge"
+    "snapshot-voter-daoge",
+    "snapshot-voter-stgdao"
   ]
 }

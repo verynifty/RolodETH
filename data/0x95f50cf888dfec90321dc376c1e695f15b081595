@@ -8,6 +8,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-stgdao"
   ]
 }

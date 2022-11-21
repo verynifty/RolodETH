@@ -6,6 +6,7 @@
     "snapshot-voter-huwacoin",
     "snapshot-voter-elfi",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-stgdao"
   ]
 }

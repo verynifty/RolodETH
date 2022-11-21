@@ -7,6 +7,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ]
 }
