@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Stitched by pepe xyz",
+  "imageUrl": "https://i.seadn.io/gae/VaURR1xdR8AaTEs3ovq3IHzATEMMyB7QB7ihUAC9a7Yfgx6GDWAqCaqOgb63oRIu4GMqIwd_Qne3240RGQi4F-4j3ZC3rqD0x_-_F18?w=500&auto=format",
+  "description": "You are the product of countless tiny decisions taken over the course of your life. Stitched is an attempt to visualize one’s current self as a product of the myriad forking paths available to us. \n\nStitched is generative art coded in p5.js\n\nStitched is a pan-blockchain release: the original generative art is hosted on the Tezos blockchain and available for view at fx(hash). Mints 1-18 have been minted on the Ethereum blockchain; their Tezos versions remain in the pepe xyz vault. \n\n"
+}

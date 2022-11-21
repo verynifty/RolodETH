@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Deafbeef",
+  "imageUrl": "https://i.seadn.io/gae/uheZXqcvxP_8TK7FzP7skUSNh3njmVStcqyLYkCnYPjb5c3enWOS88IAOTf8vdF5y4-vE7f0BQPHnEsVqjq0pD2QKLFugGZOdXUI?w=500&auto=format",
+  "externalUrl": "https://www.deafbeef.com",
+  "discordUrl": "https://discord.gg/zJBSYSr95s",
+  "twitterUsername": "_deafbeef",
+  "description": "Generative audiovisual art. Nothing but a C compiler. Pushing the limits of multimedia stored completely on-chain. \r\n\r\nSeries 0 - Synth Poems are short generative music pieces, inspired by the sound of analog synthesizers. They are stored [on-chain](https://deafbeef.com/about.htm)\r\n\r\nEach piece is generated at the time of minting from a random hash value, influencing musical elements including tempo, timbre, pitch and time signature. Simple rules lead to surprising variation, giving each piece it's own distinctive personality, while retaining a common theme.\r\n\r\nAlthough synth poems are audio focused, a fitting visualization is added as an ode to early computer graphics that used vector displays to visualize analog signals. What you see is a direct representation of the sound signal, as it would appear on an oscilloscope.\r\n\r\nThe code that generates the audiovisual is stored completely on-chain, allowing a user to reconstruct the media without having to trust IPFS or external storage."
+}

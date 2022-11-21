@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "POW NFT",
+  "imageUrl": "https://i.seadn.io/gae/qKT6n4kCb1-nPXMbMh5PwCPUYYc_6M9G_xXz4RT5swMsxDt19D-0i0clzxEPs7A9lVV-aNTsTg31OGRsR_l7OKmyMHxv2IVXYYkT?w=500&auto=format",
+  "externalUrl": "http://www.pownft.com",
+  "discordUrl": "https://discord.gg/TgtxZ93syu",
+  "twitterUsername": "pownft",
+  "description": "POW NFTs are the first ever mineable NFT, and are mined with an increasing level of difficulty using Proof of Work – a fundamental feature of blockchain first described in Satoshi Nakamoto’s Bitcoin whitepaper. When a POW NFT is mined, a unique and increasingly rare ERC-721 token is created. The mining process prevents front-running and network congestion while maintaining security, and parallel mining-difficulty and price-demand-curves create natural, market-driven scarcity.\r\n\r\nPOW NFT atoms are generated according to a scarcity model relative to the natural distribution of elements. The element, ionic charge and generative properties of the render are all determined by the token’s hash – an unpredictable result of the mining process. Every Atom also contains a unique generative music track.\r\n\r\nAtom minting fees are not paid to the creator, they are distributed evenly to all Atoms from previous generations. Eligible Atoms accrue 0.000045 ETH from every new Atom that is minted."
+}

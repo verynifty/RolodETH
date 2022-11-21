@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Indivisuals by Takens Theorem",
+  "imageUrl": "https://i.seadn.io/gae/PXminTXxRIg-q6yxxvbxerZIa1jGvopQYuJXimpdAO-hRl5kp-FLaR4EyxjFjOHWTSKnWHjU-K4isXP7Mxcu09OxttfcZS_6mZ3_?w=500&auto=format",
+  "externalUrl": "https://takenstheorem.weebly.com/for-collectors/new-project-indivisuals",
+  "twitterUsername": "takenstheorem",
+  "description": "Collection of 1/1s.\n\nData-driven JPEGs.\n\nIn a cryptothematic visuolect.\n\n[Introduction to project](https://takenstheorem.weebly.com/for-collectors/new-project-indivisuals)\n\n***\n\n*Project notes*: Max supply 128 1/1s (see [contract](https://etherscan.io/address/0x7bb6360585a53dce87b4b09d543b626f2e2fa638)); releases every few weeks till early 2022 on assorted themes from raw data bearing on history, present and possible futures; each JPEG > 5000 x 5000, 10 MB; IPFS CID in metadata; metadata stored on chain in `tokenURI()`\n\n***\n\n*Terms, conditions*: Experimental, use at your own risk. Each token provided as-is and as-available without any and all warranty. By using this contract you accept sole responsibility for any and all transactions involving Indivisuals (IbTT1). \n "
+}

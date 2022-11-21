@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Proof of (No) Work",
+  "imageUrl": "https://i.seadn.io/gcs/files/de47de1ed12d33ff697efb004aa0b36c.gif?w=500&auto=format",
+  "externalUrl": "https://dame.art/ponw",
+  "description": "A conceptual art project that explores labor, productivity, and compensation. Buy a time card, the artist will be unproductive, and then you’ll receive the proof.\r\n\r\nEach PONW Time Card is initially blank and may be “redeemed” by sending the card to the ponw.eth wallet address. Once a Time Card has been received by the artist at the ponw.eth address, it will be queued up for fulfillment. When the card's turn has arrived, the artist will then “punch in” using the physical card on a Time Clock device before then spending an unspecified amount of time doing absolutely no work whatsoever. After the session of no work has been completed, the artist will “punch out” using the card, scan it, and then update the NFT’s data before sending it back to the owner. The card will be numbered, signed, and include a brief hand-written description of the “no work” that was rendered. The entire process is done manually by hand.\r\n\r\nLearn more: https://dame.art/ponw"
+}

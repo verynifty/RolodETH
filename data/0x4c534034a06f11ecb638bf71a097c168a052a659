@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Tamagogi Pets",
+  "imageUrl": "https://i.seadn.io/gcs/files/e2bfa1ddcbef4cbe7d359fb0f8bd1807.png?w=500&auto=format",
+  "externalUrl": "https://tamagogi.xyz",
+  "discordUrl": "https://discord.gg/MjcceahkVk",
+  "twitterUsername": "tamagogi_dapp",
+  "description": "Master, Welcome to **Tamagogi** !\r\n\r\n---\r\n\r\nThis is a fully onchain tamagotchi dapp. First released by Bandai in 1996, tamagotchi is the world's first virtual pet. In September 2022, we build tamagogi on the Ethereum blockchain as a tribute to bandai.\r\n\r\nSupply : 2000 Props + 1825 Pets\r\n\r\n**This is redeploy contract with https://opensea.io/collection/tamagogi**"
+}

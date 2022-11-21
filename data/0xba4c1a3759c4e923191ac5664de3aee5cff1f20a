@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "WRLD Name Service",
+  "imageUrl": "https://i.seadn.io/gcs/files/28652b6b46b335b8e69474310f261c91.png?w=500&auto=format",
+  "externalUrl": "https://wrld.name",
+  "discordUrl": "https://discord.gg/nft-worlds",
+  "twitterUsername": "WrldNameService",
+  "description": "Register your own .wrld name now: https://wrld.name\r\n\r\nWRLD Name Service (WRLDNS) names are both a gamertag compatible with all metaverses and a secure, decentralized domain name. WRLDNS names provide a way for metaverses, web3 games/projects to assign and track player achievements and game related data specific to their WRLDNS name. Think of them as a singular account identity for all the metaverses/web3 games you might play in the future. They also operate as a way to map human readable names to blockchain and non-blockchain resources.\r\n\r\nWRLDNS names are designed to be cross chain - in the future supporting name ownership, data and record propagation across all major EVM based chains such as Polygon, Binance Smart Chain, and more."
+}

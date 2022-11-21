@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Meta-DIOs",
+  "imageUrl": "https://i.seadn.io/gcs/files/c7837920c61304e743b9dc0e498b1b5e.gif?w=500&auto=format",
+  "externalUrl": "https://diosnft.io/",
+  "discordUrl": "https://discord.gg/dios",
+  "twitterUsername": "DIOsNFT_",
+  "description": "This is a meta-NFT collection with SVG-format metadata so that the images can follow changes with on-chain data in real time. This will simplify getting trait information of the NFT when trading in the secondary market. Artists would keep creating PFP NFTs. Holding the main NFT can claim PFP for free. Our meta-NFT will have many innovative on-chain gameplays, which mainly emphasize the interaction between NFTs and can promote community formation. Also, we will have an airdrop for senior players before our token release."
+}

@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Tarot Code",
+  "imageUrl": "https://i.seadn.io/gae/UGz-6MFaWvPIzB2YUSuvXL1tbZHl6qHd31_aTNjHXPMz6CdsHrjQoCagXZPwYzv79nhg0w02I6KTBhVk3V1vL3iYUVFOCIKRB56naDQ?w=500&auto=format",
+  "externalUrl": "https://tarotcode.xyz/",
+  "twitterUsername": "stenkirsten",
+  "description": "Tarot Code is a collection of animated tarot cards with advice for the 2020s. The designs are created and coded in p5.js. 4 x decks of 78 cards, a set for each season."
+}

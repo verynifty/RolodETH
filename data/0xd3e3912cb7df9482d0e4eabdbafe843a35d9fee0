@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Proof of Ethereum.",
+  "imageUrl": "https://i.seadn.io/gcs/files/7895a235a5a9d7061d4cc8b8160a1665.jpg?w=500&auto=format",
+  "externalUrl": "https://proofofethereum.xyz/",
+  "discordUrl": "https://discord.gg/eEbgr9nJH5",
+  "twitterUsername": "ProofEthereum",
+  "description": "A generative art project for the Ethereum history romantics. 2604 days of ETH 1.0, 2604 NFTs.\n\nDaily blockchain metrics such as gas price, hash rate and contracts deployed are mapped onto parameters in our algorithm to produce meaningful art. \n\nNetwork Hash Rate ::: shape expansions,\nPrice of Gas ::: animation speed,\nPrice of Ether ::: base angle of lines & likelihood of noise,\nNumber of Transactions ::: number of lines,\nTransaction Volume in $ ::: width of lines,\nDays until The Merge ::: size of largest shape,\nNumber of Contracts Deployed ::: variety of line widths"
+}

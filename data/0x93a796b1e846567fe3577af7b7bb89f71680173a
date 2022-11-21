@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "ChainFaces Arena",
+  "imageUrl": "https://i.seadn.io/gae/K_oWRB9L-cUBUM41HNk4LLI4rU4aF3Uh372SmHu1TMGUl9MZQ9g7TUx5Wy63MQEmcN5rE1hCLbek9ocfL7N7Loq22otrjjqQ_i9Q024?w=500&auto=format",
+  "externalUrl": "http://chainfacesarena.com",
+  "discordUrl": "https://discord.gg/secretproject",
+  "twitterUsername": "NateAlexNFT",
+  "description": "ChainFaces Arena is the much anticipated successor to the original on-chain generative ASCII text faces. The smart contract generator produces randomized faces which will be revealed once the timer runs out or the maximum number of faces are minted. \r\n\r\nThe battle arena is part of the core experience, where ChainFaces can compete to become champion. Dying in the arena means the NFT is gone forever. ChainFaces which survive in the arena are rewarded by having their battle score updated in real time, as well as having the ability to earn generative scars with every 10 rounds survived."
+}

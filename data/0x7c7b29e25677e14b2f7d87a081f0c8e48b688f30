@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "EtherID",
+  "imageUrl": "https://i.seadn.io/gcs/files/76780653d0aed85dfed1ab846e4828be.png?w=500&auto=format",
+  "externalUrl": "https://etherid.org/",
+  "discordUrl": "https://discord.gg/A7n3RZe5bS",
+  "twitterUsername": "EtherId2015",
+  "description": "EtherID - Ethereum Name Registrar\n\nEtherID is one of the earliest ownable and transferable DNS projects on the Ethereum blockchain launched on Nov 29, 2015. The contract was upgraded and verified on June 28th, 2016. The project was created by developer Alexandre Naverniouk. In EtherID's smart contract, the project is referred to as “Ethereum Name Registrar.” This wrapper functions to make EtherIDs compatible with ERC721 standard dapps. \n\nAll EtherIDs may be renewed for up to 2 million blocks (~9 months) in order to maintain ownership of the domain. The “created on” date of the 32,301 original domains that were migrated via code by the developer is reflected by the Genesis date trait. The total EtherID domains created between 2015-2018 is 33,721."
+}

@@ -1,6 +1,12 @@
 {
   "tags": [
-    "myetherwallet"
+    "myetherwallet",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "MyEtherWallet: ETHB Token"
+  "name": "ETH Blocks (by MEW)",
+  "imageUrl": "https://i.seadn.io/gae/ZnIoAna1KSv-WZyTs06ft6FcKy0ZFStWA12iCKIEtVI4n6EsB2RSJ_zOlRzPDqeiYgNZBqGEw7VrgBlZHQbawkWjvpJNoDqfnOjc?w=500&auto=format",
+  "externalUrl": "https://www.myetherwallet.com/wallet/dapps/eth-blocks",
+  "twitterUsername": "myetherwallet",
+  "description": "**ETH Blocks** is an NFT series created by MEW (MyEtherWallet) representing mined Ethereum blocks and their properties. Go to [MEW](https://www.myetherwallet.com/wallet/dapps/eth-blocks) to mint and own your favorite block – whether it's a special block number, the block of your first transaction, or a block that contains a tx with a special message. Own a part of history with ETH Blocks by MEW."
 }

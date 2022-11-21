@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "MIGRATED (Distortion V1)",
+  "imageUrl": "https://i.seadn.io/gae/bWKjCEN21jlDLJhkLV0R_OkkAZOsMu0TdNboOPLXB8sKv25x5iMecxceSg8zJuc2GWyeGrQPyzT8vsmd9HuC5kUAQpgh9fHGPv98jQ?w=500&auto=format",
+  "externalUrl": "https://0xdistortion.com/",
+  "discordUrl": "https://discord.gg/rAQDwwXYbS",
+  "description": "MIGRATED TO: https://opensea.io/collection/distortion-genesis\n\nTHE CONTRACT IS EXPLOITABLE. PLEASE STOP BUYING FROM THIS COLLECTION.\n\nDistortion is a fully hand-typed 100% on-chain art collection limited to 1,000 pieces. It is designed to be displayed with no external browser libraries (e.g. p5js).\n\nDistortion's skeleton is wrapped within a smart contract which will use the hash of the block of the 1000th and final mint as an input to make sure the collection has an immutable and verifiable provenance."
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": ".com Name Service (ensCOM)",
+  "imageUrl": "https://i.seadn.io/gcs/files/ef854e1f0ae1aa425c74c2e63ed6f6de.png?w=500&auto=format",
+  "externalUrl": "https://enscom.domains",
+  "description": "ensCOM is a name service project designed to help others find you. Register a .com name and you own it for life. Built on top of the ERC721A protocol, ensCOM is decentralized and stored on-chain."
+}

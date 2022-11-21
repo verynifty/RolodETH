@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Restored Cache",
+  "imageUrl": "https://i.seadn.io/gae/_9b1tA0SrLrw5XiHs-O2LiHkaTCdX4_p0BqBgWfcmaXLnaKIYiltKRolDuJajlA1ek0GHaBXbRzXME_uKZZWOoNFqvP2OK-A_iPU?w=500&auto=format",
+  "externalUrl": "https://www.cooperjamieson.com",
+  "discordUrl": "https://discord.gg/5Ghxw2crWN",
+  "twitterUsername": "csj_art",
+  "description": "Iterating on Bad Cache, Restored Cache is a generative series of artworks that involve the collector. The artworks are created with a feedback loop initiated from the outputs of Bad Cache. The program makes ten attempts to recreate the original tokens; each iteration is fed back into the program to create a new output."
+}

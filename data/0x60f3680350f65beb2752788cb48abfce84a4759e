@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Colorglyphs",
+  "imageUrl": "https://i.seadn.io/gae/_qVcbehSf6EsqnxpFhXyCm6R1X38AOBfhbq3-y3wZjooZGb9qEXYt177QMNfCqnq0LW9nOvUNSOyBQNfVihyySOIbg?w=500&auto=format",
+  "externalUrl": "https://djviau.github.io/colorglyphs-frontend/",
+  "description": "Colorglyphs are an extension of Larva Labs' peerless Autoglyphs project. Each Colorglyph is a colorful version of an Autoglyph. Colorglyphs turns the black elements in an Autoglyph colorful, using hex colors drawn from the address of the Colorglyph's creator.  Buying a Colorglyph is not the same as buying an Autoglyph."
+}

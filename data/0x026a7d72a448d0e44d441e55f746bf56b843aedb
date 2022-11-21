@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "TOON",
+  "imageUrl": "https://i.seadn.io/gae/qIa6NXpLCxkQs5pOCjTai7_I7jJb3ueyXejCbIy2mTXqODxCivfr1rqYtXcLOKXphduTeyHuHiW04It7oubQ4RQH5g?w=500&auto=format",
+  "externalUrl": "https://etherscan.io/dapp/0x026a7d72a448d0e44d441e55f746bf56b843aedb",
+  "discordUrl": "https://discord.gg/GYV8JRR",
+  "twitterUsername": "alxocity",
+  "description": "Mashup your MATH, WORD, ChainFaces, and RGB forever into TOON tokens! Call the \"add\" contract function with 1 MATH token id, 1 WORD token id, 1 ChainFaces token id, and 1 RGB token id. Make sure that all the tokens are in the your wallet and that none of them have already been mashed up."
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "MagicFolk Burn Tickets",
+  "imageUrl": "https://i.seadn.io/gcs/files/146ebf57a45af5331e2afa0da13d9770.png?w=500&auto=format",
+  "externalUrl": "https://magicfolk.io",
+  "description": "This is the OLD MagicFolk contract. \n\nThe NFTs can be burned in exchange for two new NFTs at https://magicfolk.io/mint\n\nNew collection: https://opensea.io/collection/magicfolk-genesis\n\nBurning one of these old NFTs will make you eligible to receive exclusive founder's items at a later date. The items depend on the token ID burned. \n\n**IDs _less_ than 398**: Founder's Weapon + Founder's Pet\n\n**All other IDs**: Founder's Weapon\n\n\nDISCLAIMER: Holder count is not accurate due to majority of NFTs being staked in the contract. Item count is also not accurate as NFTs burned in the [migration contract](https://opensea.io/0x2CAd060B169a4780746090Cf9a98d052cf75F92f) are still counted by OpenSea"
+}

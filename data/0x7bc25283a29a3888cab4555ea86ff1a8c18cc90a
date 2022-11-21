@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Set In Merge",
+  "imageUrl": "https://i.seadn.io/gcs/files/d6d4d84ea187ad228a97c5f9eaea8380.jpg?w=500&auto=format",
+  "externalUrl": "http://setinmerge.org",
+  "discordUrl": "https://discord.gg/pARhEgMXDz",
+  "twitterUsername": "SetInMerge",
+  "description": "Genuine history locked in NFTs.\n\nSet In Merge — the first and last NFT collection that is minted both in Ethereum's PoS and PoW parts of blockchain. Dedicated to The Merge, it captures and absorbs the historical moment of the great event, turning it into its inner value. \n\nThe value of NFT depends on its proximity to the first PoS block or to the last PoW block depending when an NFT was minted. The number in the top right corner shows this proximity. Proximity number is not presented on the POAPs. The NFT tier is defined by the proximity.\n\nExamples:\nSIM 1 PoW - NFT was minted in the last block of PoW chain; \nSIM 1 PoS - NFT was minted in the first block of PoS chain; \nSIM 5 PoW - NFT was minted in the last fifth block of PoW chain; \nSIM 5  PoS - NFT was minted in the first block of PoS chain; \nSIM POAP PoW - NFT was minted > 300 blocks before The Merge; \nSIM POAP PoS - NFT was minted > 300 blocks after The Merge; "
+}

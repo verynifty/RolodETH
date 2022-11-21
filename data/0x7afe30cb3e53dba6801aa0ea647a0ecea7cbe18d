@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Realms (for Adventurers)",
+  "imageUrl": "https://i.seadn.io/gae/kHRyhl24FEUgv0Vs6AsS4jg-qZCZOiD9k5M5T7e7cvRcERcgXMQrXeCy8IZyBeOvgyMZAEGzTJPFfpR0QqqqfYeHD9BXnNnoLmlV?w=500&auto=format",
+  "externalUrl": "https://bibliothecadao.xyz/",
+  "discordUrl": "https://discord.gg/yF6vNegMZd",
+  "twitterUsername": "LootRealms",
+  "description": "There will only ever be 8000 Loot Realms, 1 for each Loot ID.\n\nCurrently 7134/8000 Realms staked and 2,117 unique owners (as of 13th October 2022 - updated monthly).\n\nBoard the Galleon > https://staking.bibliothecadao.xyz/\n\nBibliotheca x Realms are building a MMOCCG (massively-multiplayer on-chain composable game) on L2 StarkNet for Realm Lords & Ladies.\n\nEvery Realm has been procedurally generated and is unique down to the language. Each Realm has a map showing the regions, cities, rivers and topography that exist in the world. Each Realm’s rankings will display the number of regions, cities, rivers, and harbors within the Realm. Resource deposits can be found in each realm with varying rarity and there are 50 Wonders spread among the 8000 Realms.\n\nThe code to originally generate Realms was forked from https://github.com/mewo2/terrain under an MIT license."
+}

@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Project INK",
+  "imageUrl": "https://i.seadn.io/gae/JP8mddmhhBfFW5S9TTjHyqQTveU43S-VWAiOD6uHlhybwj1Auc_qxNqNMuF6mQHM1_e_xES9_CVNZZ4pYNf-YiiBidLjaoUfMhnm0w?w=500&auto=format",
+  "externalUrl": "https://project.ink/",
+  "discordUrl": "https://discord.gg/4hMKXNHQnE",
+  "twitterUsername": "project_ink_eth",
+  "description": "Collect generative inkblot art inspired by the Rorschach test. Although random in appearance, each person projects their own personality and emotions and in turn will perceive each inkblot differently.\n\nTo rename a token, use the [contract on etherscan](https://etherscan.io/address/0x5e8353930b557a524ff92eace9b87d82f9793124#writeContract) or the [website](https://project.ink/mint).\n\nTo animate your INK, rename your token and surround the name with [square brackets] and wait a minute or two for the gif to generate for the first time. Once ready, click the 'Refresh metadata' button up the top right of your token page to see the changes on Opensea."
+}

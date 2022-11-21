@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "ETHMap Zones",
+  "imageUrl": "https://openseauserdata.com/files/7eb1a3c3d1055d786750e2ad7a294812.svg",
+  "externalUrl": "https://ethmap.app/",
+  "discordUrl": "https://discord.gg/wufEvQKYxx",
+  "twitterUsername": "ETHMapNft",
+  "description": "[ETHMap](https://ethmap.app/) is a project created in February 2018 by the developer of [WeiCards](https://willdn.github.io/weicards/#/). It was discovered in August 2021 by a small group of crypto sleuths, and has since attracted a significant number of collectors.\n\nETHMap has 178 \"zones\" - countries that can be owned and traded by players. ETHMap Zones is a wrapper around the ETHMap contract that allows the zones to be used by other dapps such as OpenSea."
+}

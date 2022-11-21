@@ -1,6 +1,11 @@
 {
   "tags": [
-    "cryptorome"
+    "cryptorome",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "CryptoRome: Land NFT 1"
+  "name": "CryptoRome_Legacy",
+  "imageUrl": "https://i.seadn.io/gcs/0x86e4dc25259ee2191cd8ae40e1865b9f0319646c-featured-1556588888.png?w=500&auto=format",
+  "externalUrl": "https://www.cryptorome.io/",
+  "description": "A world of economic, political and military strategy awaits you. Build your empire from a free plot of land."
 }

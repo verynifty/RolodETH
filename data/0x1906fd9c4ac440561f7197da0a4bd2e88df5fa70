@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Aavegotchi Ethereum",
+  "imageUrl": "https://i.seadn.io/gae/CxerhuM8RvXkcnsGsPhNQ9PzYXvz7MLyEMEeqO2-7PAL2bBZTELirtNrD7GKx-SwVRGAvNomfE58_oej8sMoHQqjFE55W479GWZZjUQ?w=500&auto=format",
+  "externalUrl": "https://aavegotchi.com",
+  "discordUrl": "https://discord.gg/aavegotchi",
+  "twitterUsername": "aavegotchi",
+  "description": "The official Aavegotchi collection on Ethereum! All Aavegotchis in this collection have been bridged from Polygon via the Aavegotchi bridge. \n\nEasily bridge your Aavegotchis and Portals back to Polygon by visiting https://aavegotchi.com/bridge, selecting up to 5 NFTs, and clicking Deposit in Matic. Your NFT will then appear on Polygon after about 10 minutes. "
+}

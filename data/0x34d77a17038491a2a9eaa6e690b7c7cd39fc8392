@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Dada Collectible",
+  "imageUrl": "https://i.seadn.io/gcs/0x34d77a17038491a2a9eaa6e690b7c7cd39fc8392-1558561729.jpg?w=500&auto=format",
+  "externalUrl": "https://creeps.dada.nyc/",
+  "discordUrl": "https://discord.gg/aGEQR6XCkH",
+  "twitterUsername": "dadacreeps",
+  "description": "Trading of the tokens from this contract is only possible using the Historic DADA Collections Wrapper. Tokens can be wrapped at [wrapdada.com](https://wrapdada.com/) and traded on OS at the [Historic DADA Collections Wrapper](https://opensea.io/collection/wrapped-historic-dada).\nVisit our own marketplace for a more accurate view of sales, availability & floor prices of the [2017 ERC20 Creeps](https://creeps.dada.nyc/marketplace).   \nVisit our [Discord channel](https://discord.com/invite/QkmhxgjQXY)\n"
+}

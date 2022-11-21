@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Gather Masternode NFTs",
+  "imageUrl": "https://i.seadn.io/gae/6xKefbO1CU8OxTBrC24pHwbr7XCfs0iSkgSHyuy2VECnNB9p-6kmcc9OYtMZ0wW_XQ1-rP7RXNHpTN9MDtrS8155hKYby-ZNBR-1Vg?w=500&auto=format",
+  "externalUrl": "https://gather.network",
+  "discordUrl": "https://discord.gg/w4CvcpNBMf",
+  "twitterUsername": "gather_network",
+  "description": "Gather Masternode NFTs represent the ownership of Gather Network’s Full or Shared Masternodes, $GTH masternode collaterals are linked to the NFTs.\n\nThey are used as access keys to run masternode servers for Gather Cloud. The NFT owner address is rewarded accordingly with GTH as per masternode rewards. For more information, please check [Gather Blog - A New Form of NFT by Gather: NFT as a Masternode Key (NaaMK)](https://blog.gather.network/a-new-form-of-nft-by-gather-nft-as-a-masternode-key-naamk/)"
+}

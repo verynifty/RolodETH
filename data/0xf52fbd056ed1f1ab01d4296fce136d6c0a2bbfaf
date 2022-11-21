@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "MethodNFT",
+  "imageUrl": "https://i.seadn.io/gae/DQxvf8_asQ4JYnAUrvrbhT3RgmTS8XL1AIAz5WMj2SzMc2uG7ftyw1yWyYJvT9QGmY875edZ22OOf0ssFKQERybNOWeUJKSKpznmCA?w=500&auto=format",
+  "externalUrl": "https://methodfi.co",
+  "discordUrl": "https://discord.gg/dE6qXp5mFE",
+  "twitterUsername": "Method_Finance",
+  "description": "Method NFTs represent MethodNFT SmartVaults&#8482; where users can lock assets. Assets can be anything like ERC-20 tokens that represent a DeFi protocol's LP tokens. So for instance, a Uniswap LP can stake his/her LP tokens in the vault instead of Uniswap's staking contract and still earn the Liquidity Mining rewards. The holder of the corresponding Method NFT has ownership of the underlying vault and has full control over it."
+}

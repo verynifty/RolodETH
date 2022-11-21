@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "LUSD Chicken Bonds",
+  "imageUrl": "https://openseauserdata.com/files/86148a1a50a0e40c12ace53a58a264f4.svg",
+  "externalUrl": "http://chickenbonds.org",
+  "discordUrl": "https://discord.gg/6TgS4evYpB",
+  "description": "(🥚,🐔) LUSD Chicken Bonds: **a DeFi protocol paired with a generative NFT collection**\r\n\r\nWhen users deposit LUSD into the Chicken Bonds, they receive an Egg-NFT that contains the claim upon the assets. It can be transferred or resold.\r\n\r\nThe Egg-NFT features three randomized attributes (Border, Card, Egg Color) and one attribute scaling with the amount of LUSD deposited (Egg Size).\r\n\r\nThe NFT evolves with the users' interaction with the app: Chicken Bonds pioneers **Dynamic NFTs**. \r\n\r\nWhen they confirm or cancel the bond, their Egg-NFT **evolves** into a Chad Chicken or Scared Chicken and gains additional generative attributes. **Depending on the wallet onchain activities, the user can obtain more attributes**: if the wallet owns a Liquity trove, or LQTY (staked too), or voted for the LUSD/3pool Curve gauge.\r\n\r\nThe art for the LUSD Chicken Bonds NFT lives fully onchain (.svg approach) and was made by Luchador, creator of the eponym collection.\r\n\r\nhttps://chickenbonds.org/"
+}

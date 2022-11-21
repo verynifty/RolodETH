@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "the Universe Machine by Joshua Davis / PrayStation",
+  "imageUrl": "https://i.seadn.io/gae/lOR7DgHCD5SjAH9qV1uZw_eGJory3mclkkiDK6PotdEOZnVjyyxUN5480-HZN0TB2SoORc3NpIgrephsv00VHS_yaJ41CGIGcLF3nDM?w=500&auto=format",
+  "externalUrl": "http://joshuadavis.com",
+  "discordUrl": "https://discord.gg/praystation",
+  "description": "the Universe Machine is an algorithm I have been working on since 2014. The program can generate 1 of 55 unique generative patterns. Maps 56,000 textures to a grid based Bezier path segment function... to build a universe in 10 possible color sets."
+}

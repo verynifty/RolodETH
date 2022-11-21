@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Proof of Work V1",
+  "imageUrl": "https://i.seadn.io/gae/Taz1MNCvDSwQXOqkdDyhqHWuOT0mo32LBKRFrdrZ71hnGhUUPeg8ug_CLUeO4VKt08JHjpP64yGI-PjrbIxR5Pbj8o-Td9TNR7HnEA?w=500&auto=format",
+  "externalUrl": "https://proofofwork.jonathanchomko.com/",
+  "twitterUsername": "https://twitter.com/proof_of_work_",
+  "description": "Precise measures of abstract artistic effort.\n\nEach graphic pixel corresponds to one keypress, resulting in images where visual density is directly correlated with manual gesture. \n\nImages are generated in a custom software, which receives keypresses and fills the colour of a graphic pixel. The generation process is recorded, and video of the process is included with each token.\n\nImages are generated in daily cycles, the pixel canvas doubling each day until one image cannot be completed in one day.\n\nTokens are minted on a custom contract with a hard-coded limit of 50 tokens. \n\nBinary Random: IDs 0 - 9\n\nBlue Duration: IDs 10 - 17\n\nRed Pressure: IDs 18 - 26\n\n[proofofwork.jonathanchomko.com](https://proofofwork.jonathanchomko.com/)\n"
+}

@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Rxnegade RX Apes",
+  "imageUrl": "https://i.seadn.io/gae/kSiU7e8qNA2KZvExDTtk1z6aN4J8TQdwJa4vRn4MMXzg2HNHy_LDF_bJiHXdshZ92ahuUJ-Folkqy0zWzftqBNGFs0Agu7ejgNNO?w=500&auto=format",
+  "externalUrl": "https://projectrxnegade.com/apes",
+  "discordUrl": "https://discord.gg/projectrxnegade",
+  "description": "\"The most fun and addictive minting experience.\" - Every RX Ape minter, 2022.\n\nThe first Project Rxnegade collection. 3,400 Ape NFTs generated randomly, on-demand, in real-time at the point of minting by Rxnegades members. \n\nDon't like your ape? Yeet it (as long as it isn't Yoinked already) and get a new image, once per day, per token, until you are happy, then name it. You don't wait for the reveal, the reveal waits for you. \n\nEach RX Ape token is linked to the Rxnegades member that minted it (can be transferred) using the EIP2981 NFT Royalty Standard. The holder of the Rxnegades membership NFT that the RX Ape is linked to receives royalties (0-10% customisable) on secondary sales (on marketplaces that support the standard)."
+}

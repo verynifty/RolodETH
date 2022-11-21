@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Negative Value Certificates",
+  "imageUrl": "https://i.seadn.io/gae/5N-E5yB3PqxlkruT9MflyuEeaXrAXyA0nRzjtCK4yfAudXP_9kRGY00iBVSkIyfni04i8Xx9t1HVJlzWStQNCbYdGFRHgqL4lRMf?w=500&auto=format",
+  "externalUrl": "https://steviep.xyz/negative-value-certificates/",
+  "discordUrl": "https://discord.gg/9uA8WBFpcB",
+  "twitterUsername": "steviepxyz",
+  "description": "Each Negative Value Certificate has a par value of -0.09937734 ETH, which is backed by a one two hundred fifty-sixth share of the 25.4406 ETH loss sustained by Ethereum address: 0x7c23c1b7e544e3e805ba675c811e287fc9d71949 following the public exposure of its private key on October 15, 2021 at 02:44:49 (UTC). While certificate holders may possibly sell this token for an amount greater than the purchase price, the negative par value indicates that they have no reasonable expectation of profit, and, in fact, have a reasonable expectation of loss. Certificates are non-revokable, non-redeemable, and may not be exchangeable for monetary or non-monetary compensation. All certificates are minted through the compromised wallet responsible for the loss as proof of authenticity."
+}

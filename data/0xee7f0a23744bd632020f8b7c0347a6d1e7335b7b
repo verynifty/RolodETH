@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "OnlyUps",
+  "imageUrl": "https://i.seadn.io/gcs/files/76f30e38f2c4b8969bcef53030259b91.gif?w=500&auto=format",
+  "externalUrl": "https://onlyups.xyz",
+  "discordUrl": "https://discord.gg/onlyups",
+  "description": "OnlyUps.xyz - as the name suggests, these are DeFi NFTs programmed to do one thing: **go up**. \n\nThey literally can never decrease in price, `as per code`.\n\nTrue DeFi on OpenSea, introduced for the first time ever.\n\nHow: deep integration with Opensea (Seaport.sol) contracts - see github/etherscan - all our codebase is audited and open-source."
+}

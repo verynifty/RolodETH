@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Entropes",
+  "imageUrl": "https://i.seadn.io/gae/vJVddFpNplH5Jlduon_Mflnkw_6HSOjFfrfp8cP6wH95ieubFBVeMA7au0_h6XtRMckY9uxW8yyNxXs6nMDODB5hBfRiNmrvV91h-Q?w=500&auto=format",
+  "externalUrl": "https://entropes.xyz",
+  "discordUrl": "https://discord.gg/SByCf9fyEy",
+  "twitterUsername": "multiplayerart",
+  "description": "Traditional art is collected, Multiplayer art is shared.\r\n\r\nWe are a new kind of generative art that is collaborative at the protocol level. A massively multiplayer on-chain game of creation. We evolve as we are exchanged on the blockchain. When you mint or buy an Entrope, the next step in our evolution is rendered to token based on your unique wallet address (not the tx hash, though minting uses tx as a salt). Our evolution tends toward ever-increasing visual complexity, and every owner in our chain is contributing to our realization. Collectors become creators. You tell our story, together.\r\n\r\n## Key Rules\r\n\r\n1. Disconnects: reacquiring an entrope you previously owned within 10 transfers of the last time you owned it will result in a Disconnect. You will need to sell or transfer it to a valid owner in order for it to be reconnected.\r\n\r\n2. Events are temporary. Some like “Shiny” have a decay.\r\n\r\n3. Entropes can evolve infinitely many times.\r\n\r\nMultiplayer > Singleplayer 🎮 \r\nGrow the chain 🌱"
+}

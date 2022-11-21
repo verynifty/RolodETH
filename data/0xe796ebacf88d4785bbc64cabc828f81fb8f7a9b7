@@ -1,0 +1,12 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Wrapped Generative Transfer Art Project 1 Originals",
+  "imageUrl": "https://i.seadn.io/gae/cUYN8mcD3mipuwMG4dLZj_AHnKDqN33EHT6_ayZnLCzJ7gAn4w5XYWAk_Dl5rsC0tjWzqfhTFht7LF9WAorajZw2T6Rt8F9nBBlTUA?w=500&auto=format",
+  "externalUrl": "https://generative-transfer-art-client-ftjg4o3dn-wilsoncusack.vercel.app/",
+  "discordUrl": "https://discord.gg/uuWTZvUJqG",
+  "twitterUsername": "wilsoncusack",
+  "description": "These NFTs are wrapped [GTAP1](https://opensea.io/collection/generative-transfer-art-project-1) assets. In the original Collection, it is difficult to tell which assets are originals and which are copies or follower of originals. \n\nThe GTAP1 creators made this contract which only allows GTAP1 originals to be wrapped, so that people can trade with confidence. \n\nPlease note: If the GTAP1 art is not complete (i.e. 4x4 is not full) wrapping and unwrapping from this contract will add squares to the art. Transferring wrapped GTAP1s will not add to the art. \n\nMore about GTAP1: The image of each NFT is created by its first 16 transfers, populating a 4x4 grid of squares. A new colored square is added on each transfer. The to address of the transfer determines the color. Each of the first 16 transferred to addresses get a copy of this NFT. The image is entirely Solidity generated"
+}

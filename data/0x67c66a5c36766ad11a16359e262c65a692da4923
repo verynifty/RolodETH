@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "oSnipe Genesis Pass",
+  "imageUrl": "https://i.seadn.io/gcs/files/caefe5bbed8697dd63ea5ebbf7d44e6a.gif?w=500&auto=format",
+  "discordUrl": "https://discord.gg/oSnipe",
+  "twitterUsername": "oSnipeNFT",
+  "description": "oSnipe is a tool that brings your favorite NFT notifications to you. No more spending hours glued to marketplaces and alpha tools. Set your filters, and let the important data flow. Filters are available by any combination of collection, trait, price, token ID, wallet address, and work for listings or sales. Notifications delivered to your private, personal channel in the oSnipe discord.\n\nEach Sniper's Pass holder is granted their own channel where their alerts are sent.\n\nPurveyor's Passes allow you to direct each alert to its own, external webhook. This is a must have for alpha discords, discords with friends, or even project discords. For instance, oSnipe currently powers the sales bots for several large projects.\n\nSnipers and Purveyors can mint Observers Passes for 0.03 ether. By doing so, they become committed and cannot be transferred until those Observers are burned. Observers pass holders can be invited to your channel to either view, or even help manage alerts.\n\nHappy Sniping!"
+}

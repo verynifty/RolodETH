@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "t3rm.dev",
+  "imageUrl": "https://i.seadn.io/gae/MBvP4a1jnY-S1uuRj6mPFHTavQ62R8KzVjchak-ANjE-9HPugPu3ztl9v3fwfZj7gGO0s8uv8Wb2TbEe-q62N5jsFAB52BfsuCaR5Q?w=500&auto=format",
+  "externalUrl": "https://t3rm.dev",
+  "twitterUsername": "t3rmdotdev",
+  "description": "Developers have full root-access privileges to the interplanetary web3 terminal, where source code lives forever on IPFS. Collectors control packages, which are minted as NFTs. Frozen multihashes are immutable. Auto-pricing adjusts to a constant generation of tokens per day.\n\nTo view information about a package prior to purchase use: `INFO TOKEN [id]` or `INFO PKG [pkg]`. To mint a new token, use: `MINT`"
+}

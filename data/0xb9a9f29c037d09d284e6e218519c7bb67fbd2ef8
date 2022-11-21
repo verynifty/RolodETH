@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Familiars (for Adventurers)",
+  "imageUrl": "https://i.seadn.io/gae/TQNta3SrSyzdfIPAAQzGrzeNreWhglV2kQGA3NoraZuiOaX6NabEURCSUZkYJjanUjEq_FdgjPdqesQCOnW4JRpoIC46zxHGSW1q?w=500&auto=format",
+  "description": "A collection of mighty familiars for the Loot project adventurers. \n\nFamiliars can be minted for 0.2 ETH by anyone. All the ETH raised will be used to buy floor Loots and these will be fractionalized into $FLOOT. Every familiar will be able claim 110k FLOOT when FLOOT is released.\n\nLoot bags content, such as rarity and name of assets, influences familiar attributes when generated. Rarer bags are more likely to generate a rarer familiar.\n\n## How to purchase:\n1. Go to https://etherscan.io/address/0xb9a9f29c037d09d284e6e218519c7bb67fbd2ef8#writeContract and call the multiMint()\n2. In the first input box, enter the amount of ETH you want to send (e.g. if you buy 2 familiars, put 0.4 ETH)\n3. In the second input box, enter an array of Familiar IDs you want to purchase (e.g. to buy Familiar #111 and #333, enter [111,333]). Make sure there are no spaces between the numbers.\nWarning: Make sure you buy familiars that have NOT been claimed yet."
+}

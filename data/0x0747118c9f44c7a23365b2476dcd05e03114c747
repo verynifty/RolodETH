@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Shields",
+  "imageUrl": "https://i.seadn.io/gae/YPrTXYJJn4SiRupatfXX2dzDVbOsSh2yoRVXuFOCpRA70aOkvGlg2rzGRl_U5reKUIykOxJzbCNXlQnwg3MW5Agk5OnAzUFJVZ0J?w=500&auto=format",
+  "externalUrl": "http://shields.build/",
+  "twitterUsername": "shields_bot",
+  "description": "Shields is an on-chain heraldic design system developed by Area Technology. Each Shield is composed and built by the holder of a Shield Badge. All components are stored as SVG strings on Ethereum. This project is released as CC0 under the public domain. Anyone may use Shields, or the individual elements of the system, in any way they choose."
+}
