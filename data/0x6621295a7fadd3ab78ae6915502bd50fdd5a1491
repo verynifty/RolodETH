@@ -1,5 +1,8 @@
 {
   "tags": [
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-yam",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-swerve"
   ]
 }

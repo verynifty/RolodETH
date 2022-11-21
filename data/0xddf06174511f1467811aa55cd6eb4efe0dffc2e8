@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "wow-minter",
-    "snapshot-voter-dopedao"
+    "snapshot-voter-dopedao",
+    "snapshot-voter-swerve"
   ]
 }

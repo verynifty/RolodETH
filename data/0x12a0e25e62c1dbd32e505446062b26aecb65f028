@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "clonex-minter",
     "otherdeed-minter",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-rarible",
+    "snapshot-voter-yearn"
   ]
 }

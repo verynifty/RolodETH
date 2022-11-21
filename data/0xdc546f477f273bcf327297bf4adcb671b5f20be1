@@ -1,7 +1,8 @@
 {
   "tags": [
     "meebit-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-rarible"
   ],
   "name": "BlackBox.Art: Deployer"
 }

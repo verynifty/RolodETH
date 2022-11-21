@@ -5,6 +5,8 @@
     "meebit-minter",
     "snapshot-voter-balancer",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-tetubal"
+    "snapshot-voter-tetubal",
+    "snapshot-voter-yam",
+    "snapshot-voter-sushigov"
   ]
 }

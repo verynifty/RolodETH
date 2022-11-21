@@ -4,6 +4,7 @@
     "hashmask-minter",
     "meebit-minter",
     "veefriend-minter",
-    "top-degen"
+    "top-degen",
+    "snapshot-voter-sushigov"
   ]
 }

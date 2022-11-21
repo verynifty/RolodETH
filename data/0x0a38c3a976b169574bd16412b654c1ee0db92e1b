@@ -6,6 +6,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-anatadao",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-sushigov"
   ]
 }

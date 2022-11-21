@@ -4,6 +4,9 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-pooltogether",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-sushigov"
   ]
 }

@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-beets"
+    "snapshot-voter-beets",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-aave"
   ]
 }

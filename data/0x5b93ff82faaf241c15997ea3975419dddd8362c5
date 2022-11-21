@@ -4,6 +4,10 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter",
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-aave"
   ]
 }

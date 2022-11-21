@@ -6,6 +6,7 @@
     "snapshot-voter-sharkdao",
     "snapshot-voter-hop",
     "snapshot-voter-jbdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sushigov"
   ]
 }

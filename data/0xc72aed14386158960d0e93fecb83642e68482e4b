@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "meebit-minter",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-curve"
   ]
 }

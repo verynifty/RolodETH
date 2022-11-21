@@ -2,6 +2,7 @@
   "tags": [
     "hashmask-minter",
     "clonex-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-yearn"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "meebit-minter",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-yearn"
   ]
 }

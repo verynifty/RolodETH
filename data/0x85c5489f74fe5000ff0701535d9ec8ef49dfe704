@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "veefriend-minter"
+    "veefriend-minter",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov"
   ]
 }

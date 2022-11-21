@@ -2,7 +2,8 @@
   "tags": [
     "hashmask-minter",
     "cyber-kong-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-yam"
   ],
   "name": "Wrapped Origin Axie: Deployer"
 }

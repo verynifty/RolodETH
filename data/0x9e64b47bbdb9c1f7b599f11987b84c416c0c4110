@@ -8,6 +8,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "writer",
-    "snapshot-voter-daoge"
+    "snapshot-voter-daoge",
+    "snapshot-voter-yam"
   ]
 }

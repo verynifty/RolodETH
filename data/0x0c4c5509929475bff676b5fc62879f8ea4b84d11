@@ -1,5 +1,7 @@
 {
   "tags": [
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-yearn",
+    "snapshot-voter-build"
   ]
 }

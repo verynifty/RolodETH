@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-yam"
   ],
   "name": "BaconDAO: Deployer"
 }

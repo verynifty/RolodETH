@@ -4,6 +4,7 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-sushigov"
   ]
 }

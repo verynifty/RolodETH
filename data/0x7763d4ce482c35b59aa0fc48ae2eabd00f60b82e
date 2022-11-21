@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-piedao",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-sushigov"
   ]
 }

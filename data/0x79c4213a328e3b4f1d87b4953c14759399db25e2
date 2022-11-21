@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-yearn",
+    "snapshot-voter-yam"
   ]
 }

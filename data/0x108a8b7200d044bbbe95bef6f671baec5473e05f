@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-sushigov"
   ]
 }

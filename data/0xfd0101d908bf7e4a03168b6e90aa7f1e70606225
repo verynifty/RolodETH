@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam"
   ]
 }

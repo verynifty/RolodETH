@@ -5,6 +5,7 @@
     "doodle-minter",
     "pudgy-pinguin-minter",
     "wow-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-sushigov"
   ]
 }

@@ -1,5 +1,8 @@
 {
   "tags": [
-    "loot-minter"
+    "loot-minter",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov"
   ]
 }

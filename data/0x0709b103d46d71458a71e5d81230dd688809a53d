@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "bayc-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "snapshot-voter-pickle"
   ]
 }

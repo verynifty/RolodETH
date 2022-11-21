@@ -4,6 +4,8 @@
     "bayc-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "maker-vault-owner"
+    "maker-vault-owner",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov"
   ]
 }

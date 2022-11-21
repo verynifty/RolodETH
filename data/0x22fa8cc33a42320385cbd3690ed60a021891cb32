@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov"
   ]
 }

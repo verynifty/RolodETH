@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "loot-minter",
     "hashmask-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-sushigov"
   ]
 }

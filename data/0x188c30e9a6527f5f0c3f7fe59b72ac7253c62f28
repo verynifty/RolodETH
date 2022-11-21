@@ -7,6 +7,9 @@
     "otherdeed-minter",
     "mayc-minter",
     "sybil-delegate",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-yearn",
+    "snapshot-voter-rarible"
   ]
 }

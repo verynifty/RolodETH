@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-phonon",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-aave"
   ]
 }

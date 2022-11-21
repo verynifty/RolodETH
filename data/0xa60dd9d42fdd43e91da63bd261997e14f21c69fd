@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-saddlefinance",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yearn"
   ]
 }

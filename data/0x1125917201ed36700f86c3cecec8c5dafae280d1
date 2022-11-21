@@ -3,6 +3,7 @@
     "snapshot-voter",
     "snapshot-voter-olympusdao",
     "snapshot-voter-1inch",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-sushigov"
   ]
 }

@@ -5,6 +5,8 @@
     "hashmask-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-coin",
+    "snapshot-voter-pickle"
   ]
 }

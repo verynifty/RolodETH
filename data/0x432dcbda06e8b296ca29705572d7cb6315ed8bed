@@ -4,6 +4,11 @@
     "hashmask-minter",
     "meebit-minter",
     "mayc-minter",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-build",
+    "snapshot-voter-aave",
+    "snapshot-voter-pickle"
   ]
 }

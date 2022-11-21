@@ -2,6 +2,9 @@
   "tags": [
     "meebit-minter",
     "clonex-minter",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-swerve"
   ]
 }

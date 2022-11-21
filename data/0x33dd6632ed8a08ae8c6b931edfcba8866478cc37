@@ -2,6 +2,7 @@
   "tags": [
     "bayc-minter",
     "mayc-minter",
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-yfbeta"
   ]
 }

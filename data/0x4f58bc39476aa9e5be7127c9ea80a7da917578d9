@@ -4,6 +4,7 @@
     "moonbird-minter",
     "loot-minter",
     "hashmask-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-yearn"
   ]
 }

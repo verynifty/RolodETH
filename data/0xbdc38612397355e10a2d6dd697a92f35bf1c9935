@@ -1,5 +1,7 @@
 {
   "tags": [
-    "bayc-minter"
+    "bayc-minter",
+    "snapshot-voter-balancer",
+    "snapshot-voter-swerve"
   ]
 }

@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "snapshot-voter-yearn",
+    "snapshot-voter-swerve"
   ]
 }

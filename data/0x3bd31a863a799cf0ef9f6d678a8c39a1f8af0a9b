@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-yam",
+    "snapshot-voter-sushigov"
   ]
 }

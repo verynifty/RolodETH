@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-sushigov"
   ]
 }

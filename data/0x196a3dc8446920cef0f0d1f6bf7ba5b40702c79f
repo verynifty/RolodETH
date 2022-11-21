@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "bayc-minter",
     "clonex-minter",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-yearn"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "bayc-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-yearn"
   ]
 }

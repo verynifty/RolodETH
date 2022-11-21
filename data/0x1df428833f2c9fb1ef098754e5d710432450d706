@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "veefriend-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-yam",
+    "snapshot-voter-aave",
+    "snapshot-voter-pickle"
   ]
 }

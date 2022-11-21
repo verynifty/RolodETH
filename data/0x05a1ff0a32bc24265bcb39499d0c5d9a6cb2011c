@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-swerve",
+    "snapshot-voter-pickle"
   ]
 }

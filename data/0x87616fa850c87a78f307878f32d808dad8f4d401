@@ -4,6 +4,9 @@
     "bayc-minter",
     "loot-minter",
     "hashmask-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-build"
   ]
 }

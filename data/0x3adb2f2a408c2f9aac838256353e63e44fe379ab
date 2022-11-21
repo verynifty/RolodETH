@@ -1,6 +1,8 @@
 {
   "tags": [
     "bayc-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-harvestfi"
   ]
 }

@@ -3,6 +3,7 @@
     "bayc-minter",
     "meebit-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-rarible"
   ]
 }

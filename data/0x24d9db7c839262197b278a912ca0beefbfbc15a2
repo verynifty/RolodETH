@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "cyber-kong-minter"
+    "cyber-kong-minter",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-aave"
   ]
 }

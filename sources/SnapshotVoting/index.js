@@ -13,7 +13,7 @@ SnapshotVoting.prototype.spaceToName = function(spaceName) {
 
 SnapshotVoting.prototype.addTo = async function (RolodETH) {
     let cont = true;
-    let skip = 400000;
+    let skip = 0;
     let returnSize = 1000
     let voters = {}
     while (cont) {
@@ -25,7 +25,7 @@ SnapshotVoting.prototype.addTo = async function (RolodETH) {
                   skip: ${skip}
                   where: { type: "vote" }
                   orderBy: "timestamp"
-                  orderDirection: desc
+                  orderDirection: asc
                 ) {
                   address
                   space

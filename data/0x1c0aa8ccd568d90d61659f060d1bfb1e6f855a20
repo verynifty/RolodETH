@@ -2,7 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "contract-deployer",
-    "writer"
+    "writer",
+    "snapshot-voter-lao",
+    "snapshot-voter-anjmol",
+    "snapshot-voter-lexdao"
   ],
   "name": "SushiSwap: Deployer 1"
 }

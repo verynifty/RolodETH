@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-dfi"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-test1-snapback",
     "snapshot-voter-snapback",
     "snapshot-voter-mcv",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-dai",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn"
   ]
 }

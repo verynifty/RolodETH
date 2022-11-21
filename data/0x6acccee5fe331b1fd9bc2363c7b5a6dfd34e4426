@@ -1,6 +1,7 @@
 {
   "tags": [
     "meebit-minter",
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-yearn"
   ]
 }

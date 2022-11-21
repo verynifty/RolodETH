@@ -5,7 +5,11 @@
     "meebit-minter",
     "snapshot-voter",
     "sybil-delegate",
-    "top-degen"
+    "top-degen",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-curve"
   ],
   "name": "Sybil Delegate: MonetSupply"
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-piedao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-yam"
   ]
 }

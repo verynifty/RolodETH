@@ -1,7 +1,8 @@
 {
   "tags": [
     "gitcoin-grantee",
-    "gitcoin-grants"
+    "gitcoin-grants",
+    "snapshot-voter-yam"
   ],
   "name": "Gitcoin: Maintainer"
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "doodle-minter",
     "hashmask-minter",
-    "wow-minter"
+    "wow-minter",
+    "snapshot-voter-sushigov"
   ]
 }

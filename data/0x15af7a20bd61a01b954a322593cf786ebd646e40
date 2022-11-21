@@ -1,5 +1,7 @@
 {
   "tags": [
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov"
   ]
 }

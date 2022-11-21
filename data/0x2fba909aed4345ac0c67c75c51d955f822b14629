@@ -3,6 +3,9 @@
     "hashmask-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-aave",
+    "snapshot-voter-yearn"
   ]
 }

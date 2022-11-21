@@ -7,7 +7,8 @@
     "snapshot-voter",
     "writer",
     "snapshot-voter-elfi",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-sushigov"
   ],
   "name": "Mirror: Simona Pop"
 }

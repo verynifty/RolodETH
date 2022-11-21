@@ -1,6 +1,12 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-balancer",
+    "snapshot-voter-yam",
+    "snapshot-voter-yearn",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-lexdao",
+    "snapshot-voter-aave"
   ]
 }

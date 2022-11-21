@@ -4,6 +4,7 @@
     "hashmask-minter",
     "veefriend-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-yearn"
   ]
 }

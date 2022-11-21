@@ -1,5 +1,7 @@
 {
   "tags": [
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-sushigov",
+    "snapshot-voter-curve"
   ]
 }

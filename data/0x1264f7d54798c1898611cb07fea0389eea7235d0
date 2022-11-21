@@ -2,6 +2,8 @@
   "tags": [
     "hashmask-minter",
     "cyber-kong-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-yearn",
+    "snapshot-voter-aave"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "bayc-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-yearn"
   ]
 }

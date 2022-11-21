@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "meebit-minter",
-    "top-degen"
+    "top-degen",
+    "snapshot-voter-aave"
   ]
 }
