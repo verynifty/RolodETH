@@ -64,10 +64,11 @@ const NFTMinters = [
 ];
 
 (async () => {
-    await snapshotvoting.addTo(RolodETH);
-    return
+
     await UniswapV3LP.addTo(RolodETH);
     return;
+    await snapshotvoting.addTo(RolodETH);
+    return
     await Reservoir.addTo(RolodETH);
     return;
 
