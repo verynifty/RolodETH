@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-gal",
+    "snapshot-voter-nexisdao",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gauge-rbn"
   ]
 }

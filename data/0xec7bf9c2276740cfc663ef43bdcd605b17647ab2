@@ -1,6 +1,8 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-pantherprotocol",
+    "snapshot-voter-lgcryptounicorns"
   ],
   "name": "aMining Network: Deployer"
 }

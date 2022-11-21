@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-qidao"
   ]
 }

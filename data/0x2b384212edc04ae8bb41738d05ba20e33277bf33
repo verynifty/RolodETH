@@ -2,7 +2,8 @@
   "tags": [
     "compound-governance",
     "contract-deployer",
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-comp-vote"
   ],
   "name": "Sybil Delegate: Arr00"
 }

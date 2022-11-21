@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave",
+    "snapshot-voter-hop"
   ]
 }

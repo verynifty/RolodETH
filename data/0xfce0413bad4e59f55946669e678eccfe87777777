@@ -3,6 +3,10 @@
     "doodle-minter",
     "loot-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gal"
   ]
 }

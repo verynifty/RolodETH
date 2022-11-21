@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "clonex-minter"
+    "clonex-minter",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-decentralgames",
+    "snapshot-voter-layer2dao-org"
   ]
 }

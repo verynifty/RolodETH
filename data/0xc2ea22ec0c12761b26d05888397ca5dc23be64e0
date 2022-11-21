@@ -1,7 +1,10 @@
 {
   "tags": [
     "otherdeed-minter",
-    "take-action"
+    "take-action",
+    "snapshot-voter-gmx",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-speraxdao"
   ],
   "name": "Multichain Hack Alert 2166"
 }

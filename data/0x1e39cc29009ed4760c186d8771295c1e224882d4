@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gitcoindao"
   ]
 }

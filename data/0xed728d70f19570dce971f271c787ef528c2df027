@@ -1,5 +1,7 @@
 {
   "tags": [
-    "goblin-town-minter"
+    "goblin-town-minter",
+    "snapshot-voter-aave",
+    "snapshot-voter-etherscoredao"
   ]
 }

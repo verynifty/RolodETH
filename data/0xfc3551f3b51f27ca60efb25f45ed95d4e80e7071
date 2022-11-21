@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-1satoshi",
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-index-coop",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-dydxgov"
   ]
 }

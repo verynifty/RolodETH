@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-people-dao"
   ]
 }

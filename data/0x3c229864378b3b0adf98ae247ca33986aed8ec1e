@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-gauge-rbn"
   ]
 }

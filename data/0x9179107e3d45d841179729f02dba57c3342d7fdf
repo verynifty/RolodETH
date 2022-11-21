@@ -1,6 +1,11 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-aave",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

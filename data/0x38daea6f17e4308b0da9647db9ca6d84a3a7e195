@@ -1,6 +1,13 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "clonex-minter"
+    "clonex-minter",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-breederdao-admin",
+    "snapshot-voter-stakewise",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gmx",
+    "snapshot-voter-cre8r"
   ]
 }

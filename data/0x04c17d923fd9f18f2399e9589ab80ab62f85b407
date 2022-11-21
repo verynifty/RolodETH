@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "azuki-minter",
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-gmx"
   ]
 }

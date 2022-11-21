@@ -5,6 +5,7 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "top-degen"
+    "top-degen",
+    "snapshot-voter-apecoin"
   ]
 }

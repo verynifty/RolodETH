@@ -1,12 +1,7 @@
 # RolodETH
-An open source and open data Rolodex for popular Ethereum addresses. 
+An open source and open data Rolodex for Ethereum addresses. You can see an example of data [here]() or [here]().
 
-All code and data is released under the MIT license.
-
-# Contribute
-
-To add your data, open a pull request or contact [@grand_marquis](https://twitter.com/grands_marquis) on twitter.
-
+All code and data is released by the [Muse DAO](https://twitter.com/NiftyMuseum) under the MIT license.
 # Data sources
 
 Data are sourced from a variety of providers listed here:
@@ -16,6 +11,12 @@ Data are sourced from a variety of providers listed here:
 * Popular NFT collection minters from ERC721 on chain transfers such as: bayc, azuki, moonbird, doodle, coolcat, loot..
 * Uniswap V3 LP providers from ERC721 on chain transfers
 * [MyEtherWallet](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/addresses/addresses-darklist.json) scam darklist
+* [Etherscan labels](https://github.com/brianleect/etherscan-labels)
+* Some personal tags by [@grand_marquis](https://twitter.com/grands_marquis).
+
+# Contribute
+
+To add your data, open a pull request or contact [@grand_marquis](https://twitter.com/grands_marquis) on twitter.
 # Installation
 
 ```

@@ -1,6 +1,11 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-silofinance",
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-catblox"
   ]
 }

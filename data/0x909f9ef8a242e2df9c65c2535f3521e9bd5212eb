@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-gmx",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-aave"
   ]
 }

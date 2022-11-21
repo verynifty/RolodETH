@@ -6,6 +6,7 @@
     "hashmask-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-aavegotchi"
   ]
 }

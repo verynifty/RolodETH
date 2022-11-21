@@ -1,5 +1,14 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gmx",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-apecoin"
   ]
 }

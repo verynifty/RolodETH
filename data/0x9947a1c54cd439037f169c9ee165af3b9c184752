@@ -3,7 +3,10 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "contract-deployer",
-    "evmos"
+    "evmos",
+    "snapshot-voter-gmx",
+    "snapshot-voter-ens",
+    "snapshot-voter-aave"
   ],
   "name": "Evmos: Deployer"
 }

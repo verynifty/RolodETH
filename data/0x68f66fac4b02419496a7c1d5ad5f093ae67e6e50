@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave"
   ]
 }

@@ -1,5 +1,12 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-aave",
+    "snapshot-voter-spiritswap",
+    "snapshot-voter-gal",
+    "snapshot-voter-hop",
+    "snapshot-voter-pushdao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-apecoin"
   ]
 }

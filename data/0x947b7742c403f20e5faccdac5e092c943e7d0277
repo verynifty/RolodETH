@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "convex-finance"
+    "convex-finance",
+    "snapshot-voter-cvx"
   ],
   "name": "Convex Finance: Deployer"
 }

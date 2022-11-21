@@ -1,5 +1,11 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-frax",
+    "snapshot-voter-aave",
+    "snapshot-voter-balancer",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-ens"
   ]
 }

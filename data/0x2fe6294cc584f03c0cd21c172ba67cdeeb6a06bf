@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-aave"
   ]
 }

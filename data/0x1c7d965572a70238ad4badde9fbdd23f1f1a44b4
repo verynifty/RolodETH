@@ -1,5 +1,8 @@
 {
   "tags": [
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-sismo"
   ]
 }

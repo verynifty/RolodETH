@@ -4,6 +4,7 @@
     "bayc-minter",
     "hashmask-minter",
     "meebit-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "snapshot-voter-wormchurch"
   ]
 }

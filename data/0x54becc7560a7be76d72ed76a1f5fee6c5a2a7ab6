@@ -5,7 +5,9 @@
     "mayc-minter",
     "gitcoin-grantee",
     "snapshot-voter",
-    "writer"
+    "writer",
+    "snapshot-voter-elfi",
+    "snapshot-voter-ens"
   ],
   "name": "Mirror: Simona Pop"
 }

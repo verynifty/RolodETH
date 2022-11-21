@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "moonbird-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "snapshot-voter-aave",
+    "snapshot-voter-gitcoindao"
   ]
 }

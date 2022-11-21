@@ -2,7 +2,10 @@
   "tags": [
     "otherdeed-minter",
     "mayc-minter",
-    "take-action"
+    "take-action",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ],
   "name": "Multichain Hack Alert 3168"
 }

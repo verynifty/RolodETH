@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "clonex-minter"
+    "clonex-minter",
+    "snapshot-voter-gmx",
+    "snapshot-voter-banklessvault"
   ]
 }

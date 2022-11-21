@@ -1,5 +1,12 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-frax",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-ens",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-krausehouse"
   ]
 }

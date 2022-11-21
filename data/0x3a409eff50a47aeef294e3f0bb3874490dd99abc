@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gitcoindao"
   ]
 }
