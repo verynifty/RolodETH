@@ -6,6 +6,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

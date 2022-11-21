@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-balancer",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

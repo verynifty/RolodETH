@@ -4,6 +4,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gearbox"
   ]
 }

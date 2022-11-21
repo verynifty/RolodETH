@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-stgdao"
   ]
 }

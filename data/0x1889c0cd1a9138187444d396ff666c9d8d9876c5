@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal"
   ]
 }

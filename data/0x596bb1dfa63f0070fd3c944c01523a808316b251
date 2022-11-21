@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

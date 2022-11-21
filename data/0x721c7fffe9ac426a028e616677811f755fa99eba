@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-stgdao"
   ]
 }

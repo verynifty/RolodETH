@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "goblin-town-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-stgdao"
   ]
 }

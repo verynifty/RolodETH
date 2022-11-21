@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "goblin-town-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-stgdao"
   ]
 }

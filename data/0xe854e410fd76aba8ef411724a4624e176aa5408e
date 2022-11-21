@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
     "snapshot-voter-silofinance",
-    "snapshot-voter-daocity"
+    "snapshot-voter-daocity",
+    "snapshot-voter-stgdao"
   ]
 }

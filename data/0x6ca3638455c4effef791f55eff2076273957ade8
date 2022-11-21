@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-koba777"
+    "snapshot-voter-koba777",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-gal"
   ]
 }
