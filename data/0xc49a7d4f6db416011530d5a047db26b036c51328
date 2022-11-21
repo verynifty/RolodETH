@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-zksync-dao"
   ]
 }

@@ -3,6 +3,9 @@
     "snapshot-voter-balancer",
     "snapshot-voter-saddlefinance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-gmx",
+    "snapshot-voter-etherscoredao"
   ]
 }

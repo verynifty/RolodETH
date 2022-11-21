@@ -3,6 +3,11 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "snapshot-voter-aave",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gmx"
   ]
 }

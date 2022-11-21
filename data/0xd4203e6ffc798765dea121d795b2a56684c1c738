@@ -5,6 +5,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-speraxdao"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-opcollective",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
   ]
 }

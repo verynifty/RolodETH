@@ -3,6 +3,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-apwine",
     "snapshot-voter-synthereum",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-aave"
   ]
 }

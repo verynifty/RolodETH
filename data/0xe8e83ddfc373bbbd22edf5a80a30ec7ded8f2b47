@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-etherscoredao"
   ]
 }

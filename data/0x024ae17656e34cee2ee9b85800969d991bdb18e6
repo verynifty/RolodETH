@@ -7,6 +7,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-spookyswap",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-gmx"
   ]
 }

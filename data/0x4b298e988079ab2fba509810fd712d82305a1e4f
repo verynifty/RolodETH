@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

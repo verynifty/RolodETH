@@ -3,6 +3,8 @@
     "snapshot-voter-2021eth",
     "snapshot-voter-nftfinance",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-gmx",
+    "snapshot-voter-speraxdao"
   ]
 }

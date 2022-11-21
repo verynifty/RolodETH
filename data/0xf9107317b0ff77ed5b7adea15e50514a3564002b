@@ -7,6 +7,8 @@
     "clonex-minter",
     "mayc-minter",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-planckcatdao",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

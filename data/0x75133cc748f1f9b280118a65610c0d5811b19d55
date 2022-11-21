@@ -4,6 +4,9 @@
     "snapshot-voter-balancer",
     "snapshot-voter-cvx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin"
   ]
 }

@@ -3,6 +3,7 @@
     "doodle-minter",
     "art-goblers-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-apecoin"
   ]
 }

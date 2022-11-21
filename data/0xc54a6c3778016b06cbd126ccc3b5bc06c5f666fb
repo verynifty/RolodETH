@@ -4,6 +4,11 @@
     "snapshot-voter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-ens",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-nation3"
   ]
 }

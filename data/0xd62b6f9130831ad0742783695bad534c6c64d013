@@ -5,6 +5,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-goldfinch",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ]
 }

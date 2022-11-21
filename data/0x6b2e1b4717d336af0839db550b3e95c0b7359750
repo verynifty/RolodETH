@@ -4,6 +4,7 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-bullsontheblock"
+    "snapshot-voter-bullsontheblock",
+    "snapshot-voter-remix-dao"
   ]
 }

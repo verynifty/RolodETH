@@ -3,6 +3,8 @@
     "snapshot-voter-pantherprotocol",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-qidao"
   ]
 }

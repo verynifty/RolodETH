@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave"
   ]
 }

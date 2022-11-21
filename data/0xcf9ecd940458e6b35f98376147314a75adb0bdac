@@ -4,6 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-pranjalbora",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-qidao"
   ]
 }

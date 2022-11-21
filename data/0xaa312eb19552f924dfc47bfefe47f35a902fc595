@@ -6,6 +6,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-beets",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-qidao",
+    "snapshot-voter-gmx"
   ]
 }

@@ -13,6 +13,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-1inch",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ]
 }

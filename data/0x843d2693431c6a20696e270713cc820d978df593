@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-xole",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

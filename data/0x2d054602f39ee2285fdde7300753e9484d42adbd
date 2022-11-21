@@ -9,6 +9,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ]
 }

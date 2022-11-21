@@ -10,6 +10,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-people-dao"
   ]
 }

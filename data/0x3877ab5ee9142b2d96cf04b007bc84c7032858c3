@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-opcollective",
     "snapshot-voter-gal",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-people-dao"
   ]
 }

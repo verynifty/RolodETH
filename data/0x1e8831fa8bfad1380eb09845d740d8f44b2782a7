@@ -9,6 +9,8 @@
     "snapshot-voter-daoge",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-uniswap"
   ]
 }

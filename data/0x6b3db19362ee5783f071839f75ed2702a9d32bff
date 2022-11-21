@@ -6,6 +6,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

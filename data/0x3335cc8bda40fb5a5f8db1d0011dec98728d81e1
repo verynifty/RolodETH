@@ -2,6 +2,7 @@
   "tags": [
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-ens"
   ]
 }

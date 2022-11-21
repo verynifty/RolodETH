@@ -5,6 +5,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-10kvote"
+    "snapshot-voter-10kvote",
+    "snapshot-voter-gmx"
   ]
 }

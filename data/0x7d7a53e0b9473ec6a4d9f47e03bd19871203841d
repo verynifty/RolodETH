@@ -8,6 +8,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-qidao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aavegotchi"
   ]
 }

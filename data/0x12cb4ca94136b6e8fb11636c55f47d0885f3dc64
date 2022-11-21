@@ -5,6 +5,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ]
 }

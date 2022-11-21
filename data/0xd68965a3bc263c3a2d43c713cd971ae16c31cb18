@@ -7,6 +7,10 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-piedao",
     "snapshot-voter-cakevote",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-gal",
+    "snapshot-voter-gmx"
   ]
 }

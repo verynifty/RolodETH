@@ -4,6 +4,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-balancer",
     "snapshot-voter-hop",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

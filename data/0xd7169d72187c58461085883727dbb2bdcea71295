@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-ens"
   ]
 }

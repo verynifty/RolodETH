@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-ens"
   ]
 }

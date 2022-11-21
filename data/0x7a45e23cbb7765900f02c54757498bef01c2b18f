@@ -1,6 +1,7 @@
 {
   "tags": [
     "loot-minter",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-ens"
   ]
 }

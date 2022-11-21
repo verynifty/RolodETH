@@ -11,6 +11,7 @@
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ]
 }

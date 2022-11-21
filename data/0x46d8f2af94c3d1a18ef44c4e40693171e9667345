@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-2021eth",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-frax",
+    "snapshot-voter-gmx"
   ]
 }

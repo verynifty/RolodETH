@@ -3,6 +3,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "snapshot-voter-gmx"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-wumingqi",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ]
 }

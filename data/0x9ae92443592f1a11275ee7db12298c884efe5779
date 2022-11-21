@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-aave",
+    "snapshot-voter-speraxdao"
   ]
 }

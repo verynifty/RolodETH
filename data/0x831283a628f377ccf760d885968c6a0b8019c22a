@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gmx"
   ]
 }

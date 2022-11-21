@@ -12,6 +12,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-gmx"
   ]
 }

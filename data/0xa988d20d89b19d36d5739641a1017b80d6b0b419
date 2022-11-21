@@ -7,6 +7,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-wumingqi",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

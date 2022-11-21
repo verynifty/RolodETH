@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-zksync-dao"
   ]
 }

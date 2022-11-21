@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-cakevote"
   ]
 }

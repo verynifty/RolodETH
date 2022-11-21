@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-apecoin",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

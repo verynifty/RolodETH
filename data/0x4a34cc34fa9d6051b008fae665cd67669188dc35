@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-gmx"
   ]
 }

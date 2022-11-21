@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-sismo",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

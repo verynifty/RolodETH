@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-silofinance",
     "snapshot-voter-bestfork",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

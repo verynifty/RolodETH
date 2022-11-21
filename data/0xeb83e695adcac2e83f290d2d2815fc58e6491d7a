@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "doodle-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-apecoin"
   ]
 }

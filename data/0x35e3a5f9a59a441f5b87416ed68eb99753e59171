@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

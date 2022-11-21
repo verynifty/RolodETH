@@ -8,6 +8,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

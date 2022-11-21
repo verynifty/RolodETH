@@ -5,6 +5,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov"
   ]
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-xiaowukong"
   ]
 }

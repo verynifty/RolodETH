@@ -3,6 +3,7 @@
     "moonbird-minter",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-gmx"
   ]
 }

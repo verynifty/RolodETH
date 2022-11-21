@@ -5,6 +5,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ]
 }

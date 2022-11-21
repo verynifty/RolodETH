@@ -6,6 +6,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-opcollective",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-gmx"
   ]
 }

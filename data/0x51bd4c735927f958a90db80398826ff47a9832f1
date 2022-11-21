@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-gmx"
   ]
 }

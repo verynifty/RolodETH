@@ -4,6 +4,8 @@
     "snapshot-voter-benddao",
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

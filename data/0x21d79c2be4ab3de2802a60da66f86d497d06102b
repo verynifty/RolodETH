@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-uwucrew",
+    "snapshot-voter-gmx"
   ]
 }

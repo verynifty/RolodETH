@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-53231323",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-dudulab",
+    "snapshot-voter-aave"
   ]
 }

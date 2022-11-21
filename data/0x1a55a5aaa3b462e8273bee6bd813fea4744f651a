@@ -4,6 +4,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

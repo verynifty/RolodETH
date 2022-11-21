@@ -2,6 +2,11 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-apecoin"
   ]
 }

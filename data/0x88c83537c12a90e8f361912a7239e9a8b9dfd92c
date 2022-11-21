@@ -5,6 +5,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-synthereum",
     "snapshot-voter-beets",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-dforcenet"
   ]
 }

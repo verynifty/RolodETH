@@ -8,6 +8,9 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

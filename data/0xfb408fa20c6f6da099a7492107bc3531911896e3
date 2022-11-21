@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-hakka",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-aave"
   ]
 }

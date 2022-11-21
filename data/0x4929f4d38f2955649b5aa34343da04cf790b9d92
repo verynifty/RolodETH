@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-piedao",
     "snapshot-voter-balancer",
-    "snapshot-voter-swerve"
+    "snapshot-voter-swerve",
+    "snapshot-voter-gmx"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-daocity",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gmx"
   ]
 }

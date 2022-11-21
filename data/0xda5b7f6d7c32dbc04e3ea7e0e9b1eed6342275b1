@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

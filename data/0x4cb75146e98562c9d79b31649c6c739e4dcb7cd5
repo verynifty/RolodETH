@@ -5,6 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-zksync-dao"
   ]
 }

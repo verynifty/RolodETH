@@ -3,6 +3,7 @@
     "snapshot-voter-baovotes",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-gmx"
   ]
 }

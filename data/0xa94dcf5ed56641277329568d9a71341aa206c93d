@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
   ]
 }

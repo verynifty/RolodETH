@@ -24,8 +24,6 @@ SnapshotVoting.prototype.addTo = async function (RolodETH) {
                   first: ${returnSize}
                   skip: ${skip}
                   where: { type: "vote" }
-                  orderBy: "timestamp"
-                  orderDirection: asc
                 ) {
                   address
                   space

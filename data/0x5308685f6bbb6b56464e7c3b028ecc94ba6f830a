@@ -1,6 +1,10 @@
 {
   "tags": [
     "doodle-minter",
-    "snapshot-voter-electronicwinecompany"
+    "snapshot-voter-electronicwinecompany",
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-gmx",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

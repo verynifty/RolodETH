@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-sismo",
     "snapshot-voter-gearbox",
-    "snapshot-voter-dorg"
+    "snapshot-voter-dorg",
+    "snapshot-voter-ens"
   ]
 }

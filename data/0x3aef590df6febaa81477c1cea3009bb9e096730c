@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-qidao",
+    "snapshot-voter-zksync-dao"
   ]
 }

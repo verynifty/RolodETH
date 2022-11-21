@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-aurafinance",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "snapshot-voter-gmx"
   ]
 }

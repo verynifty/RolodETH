@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-ens",
+    "snapshot-voter-gmx"
   ]
 }

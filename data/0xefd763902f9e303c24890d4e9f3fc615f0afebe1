@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-zksync-dao"
   ]
 }
