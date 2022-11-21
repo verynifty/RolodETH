@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-speraxdao",
     "snapshot-voter-balancer",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-liveartxevent"
   ]
 }

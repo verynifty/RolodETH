@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-ens",
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
+  ]
+}

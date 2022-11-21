@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-elfi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-stgdao"
   ]
 }

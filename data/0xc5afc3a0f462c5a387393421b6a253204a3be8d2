@@ -8,6 +8,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
     "snapshot-voter-qidao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gotchivault"
   ]
 }

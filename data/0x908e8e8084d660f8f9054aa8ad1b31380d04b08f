@@ -7,6 +7,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

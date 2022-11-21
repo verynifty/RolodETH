@@ -8,6 +8,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-poh",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-piedao",
+    "snapshot-voter-koba777"
   ]
 }

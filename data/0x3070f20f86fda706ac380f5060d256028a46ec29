@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-saddlefinance",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-piedao",
+    "snapshot-voter-gearbox"
   ]
 }

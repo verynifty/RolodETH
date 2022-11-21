@@ -6,6 +6,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-dydxgov",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }
