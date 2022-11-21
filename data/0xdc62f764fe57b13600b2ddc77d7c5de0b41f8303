@@ -6,6 +6,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-treasuredao"
   ]
 }

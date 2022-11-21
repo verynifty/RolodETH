@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-nftfinance",
     "snapshot-voter-cakevote",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

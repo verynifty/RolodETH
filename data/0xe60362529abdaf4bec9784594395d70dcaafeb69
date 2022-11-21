@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-treasuredao"
   ]
 }

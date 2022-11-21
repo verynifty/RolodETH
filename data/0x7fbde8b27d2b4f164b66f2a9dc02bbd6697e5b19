@@ -9,6 +9,9 @@
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-gnosis"
   ]
 }

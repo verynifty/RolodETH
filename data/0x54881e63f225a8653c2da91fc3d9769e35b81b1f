@@ -3,6 +3,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-piedao",
+    "snapshot-voter-derify",
+    "snapshot-voter-treasuredao"
   ]
 }

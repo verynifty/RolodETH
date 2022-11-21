@@ -9,6 +9,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-jbdao"
   ]
 }

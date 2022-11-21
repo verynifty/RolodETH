@@ -3,6 +3,12 @@
     "uniswapv3-lp",
     "snapshot-voter-ens",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-safe"
   ]
 }

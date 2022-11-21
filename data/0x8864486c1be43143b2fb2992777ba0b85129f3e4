@@ -5,6 +5,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-polygon-goodghosting"
   ]
 }

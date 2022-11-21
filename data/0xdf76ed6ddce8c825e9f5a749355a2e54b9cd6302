@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-opcollective"
   ]
 }

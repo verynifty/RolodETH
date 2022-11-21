@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "goblin-town-minter",
     "snapshot-voter-mutantsdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-thelanddaoprop"
   ]
 }

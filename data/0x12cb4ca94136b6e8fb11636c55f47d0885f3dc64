@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ]
 }

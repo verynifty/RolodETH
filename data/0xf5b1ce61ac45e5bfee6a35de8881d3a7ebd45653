@@ -5,6 +5,8 @@
     "snapshot-voter-kostrenfinance",
     "snapshot-voter-freerossdao",
     "snapshot-voter-redactedcartel",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-gearbox"
   ]
 }

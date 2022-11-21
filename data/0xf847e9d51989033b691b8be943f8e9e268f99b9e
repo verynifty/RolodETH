@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -4,6 +4,11 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify",
+    "snapshot-voter-sismo",
+    "snapshot-voter-piedao",
+    "snapshot-voter-pranjalbora"
   ]
 }

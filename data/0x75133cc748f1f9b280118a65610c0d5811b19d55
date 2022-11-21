@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "snapshot-voter-cvx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

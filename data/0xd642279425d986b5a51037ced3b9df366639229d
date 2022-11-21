@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gal",
-    "snapshot-voter-saddlefinance"
+    "snapshot-voter-saddlefinance",
+    "snapshot-voter-gnosis"
   ]
 }

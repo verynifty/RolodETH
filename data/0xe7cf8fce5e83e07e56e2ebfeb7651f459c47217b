@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-goldfinch",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gearbox"
   ]
 }

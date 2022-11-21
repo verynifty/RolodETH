@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-opcollective"
   ]
 }

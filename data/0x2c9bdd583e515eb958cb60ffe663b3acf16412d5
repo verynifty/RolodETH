@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-qidao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

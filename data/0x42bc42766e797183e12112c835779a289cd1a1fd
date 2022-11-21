@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-derify"
   ]
 }

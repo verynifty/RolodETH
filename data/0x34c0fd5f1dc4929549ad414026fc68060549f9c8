@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

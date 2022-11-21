@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-babydogevote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-cakevote"
   ]
 }

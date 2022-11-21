@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-opcollective"
   ]
 }

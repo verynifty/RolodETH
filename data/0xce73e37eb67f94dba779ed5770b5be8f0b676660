@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3",
+    "snapshot-voter-pranjalbora"
   ]
 }

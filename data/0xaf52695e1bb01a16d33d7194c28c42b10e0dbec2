@@ -1,6 +1,7 @@
 {
   "tags": [
-    "aura-finance"
+    "aura-finance",
+    "snapshot-voter-snapshot-brianbutterfield"
   ],
   "name": "Aura: Voter Proxy"
 }

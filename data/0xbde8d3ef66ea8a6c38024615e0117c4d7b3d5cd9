@@ -6,6 +6,9 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-eulerdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-cow",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
     "loot-minter",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-hop"
   ]
 }

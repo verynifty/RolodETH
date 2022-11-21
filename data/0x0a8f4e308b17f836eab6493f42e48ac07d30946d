@@ -4,6 +4,7 @@
     "moonbird-minter",
     "loot-minter",
     "goblin-town-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-shellprotocol"
   ]
 }

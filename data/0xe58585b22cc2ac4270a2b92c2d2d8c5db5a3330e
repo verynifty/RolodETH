@@ -6,6 +6,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-dydxgov",
     "snapshot-voter-balancer",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-1inch",
+    "snapshot-voter-gnosis"
   ]
 }

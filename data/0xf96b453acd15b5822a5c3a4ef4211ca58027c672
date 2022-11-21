@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-apecoin",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

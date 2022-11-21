@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-beefydao"
   ]
 }

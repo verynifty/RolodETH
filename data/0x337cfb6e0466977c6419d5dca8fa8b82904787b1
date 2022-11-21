@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-🌿lens🌿"
+    "snapshot-voter-🌿lens🌿",
+    "snapshot-voter-derify",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal",
+    "snapshot-voter-opcollective"
   ]
 }

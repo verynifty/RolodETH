@@ -4,6 +4,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-10kvote"
   ]
 }

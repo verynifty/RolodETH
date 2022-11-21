@@ -3,6 +3,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo",
+    "snapshot-voter-zksyncdao"
   ]
 }

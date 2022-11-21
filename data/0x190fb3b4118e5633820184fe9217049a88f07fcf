@@ -4,6 +4,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gauge-rbn"
   ]
 }

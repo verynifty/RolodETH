@@ -5,6 +5,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-elfi",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

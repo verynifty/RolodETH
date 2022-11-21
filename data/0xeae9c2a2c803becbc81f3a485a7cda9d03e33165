@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-elfi",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-safe"
   ]
 }

@@ -11,6 +11,11 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-ocm",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-derify",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-daoge"
   ]
 }

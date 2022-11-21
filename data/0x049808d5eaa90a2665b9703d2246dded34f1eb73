@@ -5,6 +5,8 @@
     "loot-minter",
     "goblin-town-minter",
     "art-goblers-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-ethlizards",
+    "snapshot-voter-shellprotocol"
   ]
 }

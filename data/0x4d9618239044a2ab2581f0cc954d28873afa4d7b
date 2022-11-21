@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-index-coop",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ]
 }

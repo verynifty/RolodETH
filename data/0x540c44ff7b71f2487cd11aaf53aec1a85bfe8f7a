@@ -1,5 +1,8 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-celo-goodghosting"
   ]
 }

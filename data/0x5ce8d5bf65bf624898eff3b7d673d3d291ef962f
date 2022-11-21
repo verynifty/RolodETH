@@ -5,6 +5,10 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

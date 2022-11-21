@@ -11,6 +11,11 @@
     "snapshot-voter-ens",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal",
+    "snapshot-voter-jbdao"
   ]
 }

@@ -5,6 +5,9 @@
     "snapshot-voter-elfi",
     "snapshot-voter-frax",
     "snapshot-voter-redactedcartel",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-beets",
+    "snapshot-voter-pitchdeployer"
   ]
 }

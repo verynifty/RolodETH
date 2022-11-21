@@ -6,6 +6,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-xole"
   ]
 }

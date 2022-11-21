@@ -4,6 +4,10 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-bentfinance",
     "snapshot-voter-sdcrv",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-balancer",
+    "snapshot-voter-sdbal",
+    "snapshot-voter-dfx",
+    "snapshot-voter-pitchdeployer"
   ]
 }

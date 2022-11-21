@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-cvx",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis"
   ]
 }

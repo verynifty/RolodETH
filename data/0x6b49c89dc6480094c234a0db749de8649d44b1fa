@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao"
   ]
 }

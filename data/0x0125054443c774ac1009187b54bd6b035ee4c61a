@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-treasuredao"
   ]
 }

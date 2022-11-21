@@ -16,6 +16,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-cakevote"
   ]
 }

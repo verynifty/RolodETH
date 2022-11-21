@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

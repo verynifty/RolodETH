@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-speraxdao",
     "snapshot-voter-hakka",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gal"
   ]
 }

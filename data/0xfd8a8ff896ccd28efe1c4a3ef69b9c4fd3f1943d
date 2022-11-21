@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-53231323"
   ]
 }

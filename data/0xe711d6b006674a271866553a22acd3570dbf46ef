@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao"
   ]
 }

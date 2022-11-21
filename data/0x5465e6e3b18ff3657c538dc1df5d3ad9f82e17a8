@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

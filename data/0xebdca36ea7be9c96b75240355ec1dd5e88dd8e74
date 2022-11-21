@@ -3,6 +3,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

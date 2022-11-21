@@ -4,6 +4,8 @@
     "snapshot-voter-pancake",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

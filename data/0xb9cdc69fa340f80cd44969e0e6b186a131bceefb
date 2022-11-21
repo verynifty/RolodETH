@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-opcollective"
   ]
 }

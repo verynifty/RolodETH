@@ -7,6 +7,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -18,6 +18,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pooltogether",
     "snapshot-voter-1inch",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-jbdao"
   ]
 }

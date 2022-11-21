@@ -5,6 +5,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

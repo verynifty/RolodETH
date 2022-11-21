@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal"
   ]
 }

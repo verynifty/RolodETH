@@ -5,6 +5,9 @@
     "snapshot-voter-frax",
     "snapshot-voter-gmx",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ]
 }

@@ -9,6 +9,9 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-piedao",
+    "snapshot-voter-pranjalbora"
   ]
 }

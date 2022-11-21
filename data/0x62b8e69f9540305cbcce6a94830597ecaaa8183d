@@ -4,6 +4,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-cakevote",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify"
   ]
 }

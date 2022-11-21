@@ -3,6 +3,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-derify",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

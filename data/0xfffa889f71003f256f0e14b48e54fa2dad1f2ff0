@@ -8,6 +8,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

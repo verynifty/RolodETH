@@ -5,6 +5,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-qidao",
     "snapshot-voter-elfi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-gearbox"
   ]
 }

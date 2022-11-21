@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
     "snapshot-voter-huwacoin",
-    "snapshot-voter-pushdao"
+    "snapshot-voter-pushdao",
+    "snapshot-voter-gearbox"
   ]
 }

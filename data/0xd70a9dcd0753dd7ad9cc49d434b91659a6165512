@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

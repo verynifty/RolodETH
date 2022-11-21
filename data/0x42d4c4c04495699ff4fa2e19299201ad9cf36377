@@ -4,6 +4,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-apecoin",
     "snapshot-voter-hop",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo",
+    "snapshot-voter-gal"
   ]
 }

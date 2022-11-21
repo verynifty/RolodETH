@@ -10,6 +10,9 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-1inch",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao"
   ]
 }

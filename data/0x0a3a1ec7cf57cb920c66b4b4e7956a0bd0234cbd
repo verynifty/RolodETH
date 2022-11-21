@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-metavault-trade",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-stgdao"
   ]
 }

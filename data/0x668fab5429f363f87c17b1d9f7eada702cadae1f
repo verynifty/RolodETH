@@ -8,6 +8,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot"
   ]
 }

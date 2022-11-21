@@ -5,6 +5,7 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-dropsdao"
+    "snapshot-voter-dropsdao",
+    "snapshot-voter-jpeg’d"
   ]
 }

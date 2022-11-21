@@ -6,6 +6,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-botto",
-    "snapshot-voter-dopedao"
+    "snapshot-voter-dopedao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis"
   ]
 }

@@ -7,6 +7,10 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal",
+    "snapshot-voter-derify",
+    "snapshot-voter-stgdao"
   ]
 }

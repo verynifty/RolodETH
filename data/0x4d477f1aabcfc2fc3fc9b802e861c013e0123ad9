@@ -11,6 +11,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis"
   ]
 }

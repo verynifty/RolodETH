@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "loot-minter",
-    "snapshot-voter-dopedao"
+    "snapshot-voter-dopedao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-loot-dao",
+    "snapshot-voter-gnosis"
   ]
 }

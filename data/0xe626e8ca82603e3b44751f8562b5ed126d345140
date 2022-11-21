@@ -4,6 +4,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

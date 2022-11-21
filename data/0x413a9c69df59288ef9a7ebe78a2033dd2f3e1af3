@@ -6,6 +6,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-derify",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-benddao",
+    "snapshot-voter-gnosis"
   ]
 }

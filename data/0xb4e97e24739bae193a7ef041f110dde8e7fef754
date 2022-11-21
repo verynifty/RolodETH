@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-cow",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

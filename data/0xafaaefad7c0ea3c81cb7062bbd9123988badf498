@@ -2,6 +2,11 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-53231323",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-cow",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

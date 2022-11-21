@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-cakevote"
   ]
 }

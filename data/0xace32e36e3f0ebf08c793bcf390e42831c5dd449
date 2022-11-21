@@ -6,6 +6,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-elfi",
     "snapshot-voter-gnosis",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-daoge"
   ]
 }

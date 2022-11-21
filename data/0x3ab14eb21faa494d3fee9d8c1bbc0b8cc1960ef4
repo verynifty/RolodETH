@@ -3,6 +3,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

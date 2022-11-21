@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers"
   ]
 }

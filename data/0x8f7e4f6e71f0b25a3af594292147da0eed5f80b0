@@ -3,6 +3,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gnosis",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective"
   ]
 }

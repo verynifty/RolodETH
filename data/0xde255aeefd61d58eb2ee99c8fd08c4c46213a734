@@ -6,6 +6,12 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-derify",
+    "snapshot-voter-piedao",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-millionwinner"
   ]
 }

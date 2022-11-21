@@ -11,6 +11,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-benddao"
   ]
 }

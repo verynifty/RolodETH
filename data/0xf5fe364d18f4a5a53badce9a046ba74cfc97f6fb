@@ -13,6 +13,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers"
   ]
 }

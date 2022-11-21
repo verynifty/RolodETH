@@ -4,6 +4,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
     "snapshot-voter-koba777",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-frax",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-rook"
   ]
 }

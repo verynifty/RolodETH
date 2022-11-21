@@ -2,6 +2,7 @@
   "tags": [
     "bayc-minter",
     "mayc-minter",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-gearbox"
   ]
 }

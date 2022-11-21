@@ -5,6 +5,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

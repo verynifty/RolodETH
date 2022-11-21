@@ -9,6 +9,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-vote-hopr",
     "snapshot-voter-giv",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis"
   ]
 }

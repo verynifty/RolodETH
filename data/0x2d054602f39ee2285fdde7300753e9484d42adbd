@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ]
 }

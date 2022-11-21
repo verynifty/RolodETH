@@ -3,7 +3,8 @@
     "hashmask-minter",
     "gitcoin-grantee",
     "writer",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-opcollective"
   ],
   "name": "Mirror: Scott Moore"
 }

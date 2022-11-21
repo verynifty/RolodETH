@@ -3,6 +3,7 @@
     "snapshot-voter-frax",
     "snapshot-voter-1inch",
     "snapshot-voter-cvx",
-    "snapshot-voter-sdangle"
+    "snapshot-voter-sdangle",
+    "snapshot-voter-alchemixstakers"
   ]
 }

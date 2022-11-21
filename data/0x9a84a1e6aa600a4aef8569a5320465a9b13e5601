@@ -7,6 +7,10 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

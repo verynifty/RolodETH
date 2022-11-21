@@ -6,6 +6,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-shellprotocol"
   ]
 }

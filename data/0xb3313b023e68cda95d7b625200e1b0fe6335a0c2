@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-dropsdao",
+    "snapshot-voter-opcollective"
   ]
 }

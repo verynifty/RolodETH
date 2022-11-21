@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gal",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

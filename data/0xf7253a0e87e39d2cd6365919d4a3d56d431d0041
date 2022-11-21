@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "loot-minter",
     "cryptoadz-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-loot-dao"
   ]
 }

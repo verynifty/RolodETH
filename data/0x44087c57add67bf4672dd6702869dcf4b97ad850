@@ -7,6 +7,8 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gnosis",
     "snapshot-voter-1inch",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-balancer",
+    "snapshot-voter-stgdao"
   ]
 }

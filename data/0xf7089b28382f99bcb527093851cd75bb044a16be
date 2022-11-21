@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

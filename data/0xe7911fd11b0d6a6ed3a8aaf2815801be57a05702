@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
-    "snapshot-voter-nftfinance"
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

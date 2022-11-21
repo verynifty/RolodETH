@@ -4,6 +4,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-53231323",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

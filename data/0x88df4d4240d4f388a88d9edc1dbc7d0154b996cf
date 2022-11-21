@@ -4,6 +4,10 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-hakka",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

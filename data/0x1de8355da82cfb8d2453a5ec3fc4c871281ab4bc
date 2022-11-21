@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -4,6 +4,7 @@
     "hashmask-minter",
     "meebit-minter",
     "snapshot-voter-balancer",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-tetubal"
   ]
 }

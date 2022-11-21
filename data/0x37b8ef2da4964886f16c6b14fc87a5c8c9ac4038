@@ -2,6 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gmx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gal"
   ]
 }

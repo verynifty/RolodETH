@@ -14,6 +14,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-bancornetwork",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

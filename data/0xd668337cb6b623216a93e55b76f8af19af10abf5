@@ -4,6 +4,9 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-balancer",
+    "snapshot-voter-treasuredao"
   ]
 }

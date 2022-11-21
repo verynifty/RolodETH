@@ -3,7 +3,8 @@
     "moonbird-minter",
     "writer",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ],
   "name": "Mirror: K~Erica"
 }

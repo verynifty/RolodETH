@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-aurafinance"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

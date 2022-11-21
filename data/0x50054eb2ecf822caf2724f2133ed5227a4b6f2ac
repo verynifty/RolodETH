@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-celo-goodghosting",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -7,6 +7,9 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-pranjalbora"
   ]
 }

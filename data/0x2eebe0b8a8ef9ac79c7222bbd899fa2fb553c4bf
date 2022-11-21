@@ -5,6 +5,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-piedao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-opcollective"
   ]
 }

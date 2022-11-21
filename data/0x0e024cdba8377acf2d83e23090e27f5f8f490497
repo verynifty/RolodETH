@@ -4,6 +4,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-uniswap",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gearbox"
   ]
 }

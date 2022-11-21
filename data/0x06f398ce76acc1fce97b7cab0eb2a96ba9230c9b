@@ -6,6 +6,9 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-badgerdao"
   ]
 }

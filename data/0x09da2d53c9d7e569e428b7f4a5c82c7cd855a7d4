@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

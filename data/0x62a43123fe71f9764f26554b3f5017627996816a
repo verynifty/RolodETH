@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-hop",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-safe"
   ]
 }

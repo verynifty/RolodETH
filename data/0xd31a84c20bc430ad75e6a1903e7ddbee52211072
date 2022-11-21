@@ -7,6 +7,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal"
   ]
 }

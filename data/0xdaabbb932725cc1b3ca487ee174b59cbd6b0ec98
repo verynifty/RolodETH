@@ -4,6 +4,7 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

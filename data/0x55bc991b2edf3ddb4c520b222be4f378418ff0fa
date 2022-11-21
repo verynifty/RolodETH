@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "lido"
+    "lido",
+    "snapshot-voter-lido-snapshot"
   ],
   "name": "Lido: Deployer 1"
 }

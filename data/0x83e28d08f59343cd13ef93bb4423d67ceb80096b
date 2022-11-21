@@ -5,6 +5,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-aave",
     "snapshot-voter-ens",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gal"
   ]
 }

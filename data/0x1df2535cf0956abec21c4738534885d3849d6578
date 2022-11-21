@@ -5,6 +5,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gearbox"
   ]
 }

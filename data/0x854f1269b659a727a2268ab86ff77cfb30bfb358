@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "mayc-minter",
-    "snapshot-voter-lgcryptounicorns"
+    "snapshot-voter-lgcryptounicorns",
+    "snapshot-voter-alchemixstakers"
   ]
 }

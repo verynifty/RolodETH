@@ -9,6 +9,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-unlock-protocol",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

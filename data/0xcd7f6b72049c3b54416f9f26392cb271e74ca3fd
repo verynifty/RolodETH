@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "pudgy-pinguin-minter",
-    "goblin-town-minter"
+    "goblin-town-minter",
+    "snapshot-voter-shellprotocol"
   ]
 }

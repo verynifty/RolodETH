@@ -4,6 +4,7 @@
     "snapshot-voter-frax",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-sdbal",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-sdangle"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-sharkdao"
+    "snapshot-voter-sharkdao",
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective"
   ]
 }

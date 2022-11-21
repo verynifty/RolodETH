@@ -6,6 +6,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-ens",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-polygon-goodghosting"
   ]
 }

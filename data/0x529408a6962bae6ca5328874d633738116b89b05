@@ -7,6 +7,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gal"
   ]
 }

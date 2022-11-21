@@ -2,7 +2,8 @@
   "tags": [
     "veefriend-minter",
     "take-action",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers"
   ],
   "name": "Multichain Hack Alert 1915"
 }

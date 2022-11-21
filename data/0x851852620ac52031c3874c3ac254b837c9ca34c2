@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal",
+    "snapshot-voter-treasuredao"
   ]
 }

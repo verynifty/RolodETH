@@ -9,6 +9,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-hop",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-catblox"
+    "snapshot-voter-catblox",
+    "snapshot-voter-treasuredao"
   ]
 }

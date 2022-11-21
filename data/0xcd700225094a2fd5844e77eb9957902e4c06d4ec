@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-sismo",
     "snapshot-voter-daocity",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal"
   ]
 }

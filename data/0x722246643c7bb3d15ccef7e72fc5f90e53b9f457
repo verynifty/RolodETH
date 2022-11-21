@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }

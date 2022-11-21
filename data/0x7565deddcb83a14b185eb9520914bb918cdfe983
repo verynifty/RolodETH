@@ -5,6 +5,7 @@
     "hashmask-minter",
     "goblin-town-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -2,7 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "take-action",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-poh"
   ],
   "name": "Multichain Hack Alert 499"
 }

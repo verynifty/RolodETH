@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "mayc-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-gearbox"
   ]
 }

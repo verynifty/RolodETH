@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-aave",
-    "snapshot-voter-tomoondao"
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-shellprotocol"
   ]
 }

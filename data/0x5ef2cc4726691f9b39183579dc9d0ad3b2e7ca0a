@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-gauge-rbn",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

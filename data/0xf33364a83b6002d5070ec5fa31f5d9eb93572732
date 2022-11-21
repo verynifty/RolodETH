@@ -3,6 +3,8 @@
     "bayc-minter",
     "doodle-minter",
     "mayc-minter",
-    "snapshot-voter-sharkdao"
+    "snapshot-voter-sharkdao",
+    "snapshot-voter-hop",
+    "snapshot-voter-jbdao"
   ]
 }

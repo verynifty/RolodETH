@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-polygon-goodghosting"
   ]
 }

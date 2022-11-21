@@ -4,6 +4,11 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-hop",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-hakka",
+    "snapshot-voter-cow",
+    "snapshot-voter-mail3"
   ]
 }

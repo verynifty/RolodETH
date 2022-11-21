@@ -10,6 +10,10 @@
     "snapshot-voter-o3dao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-rook",
+    "snapshot-voter-aave",
+    "snapshot-voter-banklessvault"
   ]
 }

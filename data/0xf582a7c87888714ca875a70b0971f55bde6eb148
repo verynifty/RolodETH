@@ -9,6 +9,8 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-qidao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-dforcenet",
+    "snapshot-voter-gnosis"
   ]
 }

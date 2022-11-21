@@ -10,6 +10,9 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
-    "snapshot-voter-meowbored"
+    "snapshot-voter-meowbored",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-treasuredao"
   ]
 }

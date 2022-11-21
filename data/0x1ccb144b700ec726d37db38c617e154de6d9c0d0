@@ -6,6 +6,10 @@
     "snapshot-voter-bancornetwork",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gro-xyz"
   ]
 }

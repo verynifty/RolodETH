@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "snapshot-voter-mail3",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

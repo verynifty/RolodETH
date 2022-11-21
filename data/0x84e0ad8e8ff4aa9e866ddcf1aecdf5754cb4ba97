@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-daoge",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-safe"
   ]
 }

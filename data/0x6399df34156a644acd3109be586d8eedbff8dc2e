@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-qidao",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

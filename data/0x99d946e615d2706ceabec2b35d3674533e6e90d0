@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-nftfinance",
     "snapshot-voter-gnosis",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

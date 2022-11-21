@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-hop",
     "snapshot-voter-gal",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-jbdao"
   ]
 }

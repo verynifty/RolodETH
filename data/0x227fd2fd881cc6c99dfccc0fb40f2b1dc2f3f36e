@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-ens",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-opcollective"
   ]
 }

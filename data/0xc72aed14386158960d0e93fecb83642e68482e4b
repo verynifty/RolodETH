@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "hashmask-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-cvx"
   ]
 }

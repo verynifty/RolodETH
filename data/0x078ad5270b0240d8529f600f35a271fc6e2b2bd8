@@ -11,6 +11,10 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

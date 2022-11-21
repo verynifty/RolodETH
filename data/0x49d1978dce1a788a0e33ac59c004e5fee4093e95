@@ -5,6 +5,10 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao"
   ]
 }

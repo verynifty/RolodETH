@@ -4,6 +4,8 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-daoge",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-daocity",
+    "snapshot-voter-lkcup"
   ]
 }

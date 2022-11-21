@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

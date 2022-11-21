@@ -4,6 +4,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-poorcoin",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

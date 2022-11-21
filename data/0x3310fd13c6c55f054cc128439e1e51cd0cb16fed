@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "moonbird-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-krap"
   ]
 }

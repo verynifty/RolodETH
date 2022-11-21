@@ -3,6 +3,7 @@
     "moonbird-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "snapshot-voter-friendswithbenefits"
+    "snapshot-voter-friendswithbenefits",
+    "snapshot-voter-dirtxyz"
   ]
 }

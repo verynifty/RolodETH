@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "sybil-delegate",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox"
   ],
   "name": "Sybil Delegate: Yinz1020"
 }

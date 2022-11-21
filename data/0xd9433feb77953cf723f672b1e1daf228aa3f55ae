@@ -5,6 +5,9 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

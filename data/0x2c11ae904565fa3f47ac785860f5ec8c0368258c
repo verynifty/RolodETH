@@ -7,6 +7,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-eulerdao",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-nftfinance"
   ]
 }

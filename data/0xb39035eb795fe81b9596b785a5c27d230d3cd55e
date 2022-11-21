@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-silofinance"
+    "snapshot-voter-silofinance",
+    "snapshot-voter-bestfork"
   ]
 }

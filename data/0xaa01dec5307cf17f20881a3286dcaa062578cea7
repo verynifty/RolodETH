@@ -4,6 +4,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-sismo",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-dorg"
   ]
 }

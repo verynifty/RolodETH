@@ -5,6 +5,7 @@
     "loot-minter",
     "hashmask-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-stgdao"
   ]
 }

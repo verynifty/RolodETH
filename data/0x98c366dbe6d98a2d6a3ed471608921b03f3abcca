@@ -5,6 +5,9 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

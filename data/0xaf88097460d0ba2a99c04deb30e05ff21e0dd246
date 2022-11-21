@@ -5,6 +5,7 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

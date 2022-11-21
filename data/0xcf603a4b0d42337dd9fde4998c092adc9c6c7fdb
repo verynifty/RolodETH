@@ -6,6 +6,9 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-shellprotocol"
   ]
 }
