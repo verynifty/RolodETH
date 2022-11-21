@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "bZxETHiToken",
+  "erc20_symbol": "iETH",
+  "erc20_decimals": 18
+}

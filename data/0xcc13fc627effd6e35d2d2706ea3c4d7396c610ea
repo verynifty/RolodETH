@@ -1,6 +1,9 @@
 {
   "tags": [
-    "idex"
+    "idex",
+    "erc20"
   ],
-  "name": "IDEX Membership Token"
+  "name": "IDEXMembership",
+  "erc20_symbol": "IDXM",
+  "erc20_decimals": 8
 }

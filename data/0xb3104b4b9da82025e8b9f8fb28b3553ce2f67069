@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BiboxToken",
+  "erc20_symbol": "BIX",
+  "erc20_decimals": 18
+}

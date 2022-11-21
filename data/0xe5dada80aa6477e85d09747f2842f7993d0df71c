@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dock",
+  "erc20_symbol": "DOCK",
+  "erc20_decimals": 18
+}

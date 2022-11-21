@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HawalaToday",
+  "erc20_symbol": "HAT",
+  "erc20_decimals": 18
+}

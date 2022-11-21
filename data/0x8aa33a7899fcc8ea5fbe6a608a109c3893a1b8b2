@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DAOCasino",
+  "erc20_symbol": "BET",
+  "erc20_decimals": 18
+}

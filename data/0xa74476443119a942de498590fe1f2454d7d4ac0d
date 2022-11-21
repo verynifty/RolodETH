@@ -1,4 +1,8 @@
 {
-  "tags": [],
-  "name": "Golem Token"
+  "tags": [
+    "erc20"
+  ],
+  "name": "Golem",
+  "erc20_symbol": "GNT",
+  "erc20_decimals": 18
 }

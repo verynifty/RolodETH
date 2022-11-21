@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RiptideCoin",
+  "erc20_symbol": "RIPT",
+  "erc20_decimals": 8
+}

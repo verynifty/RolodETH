@@ -1,6 +1,9 @@
 {
   "tags": [
-    "flexa"
+    "flexa",
+    "erc20"
   ],
-  "name": "Flexacoin: FXC Token"
+  "name": "Flexacoin",
+  "erc20_symbol": "FXC",
+  "erc20_decimals": 18
 }

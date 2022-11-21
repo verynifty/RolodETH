@@ -1,6 +1,8 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Autonio Foundation: Old NIO Token"
+  "name": "Autonio",
+  "erc20_symbol": "NIO"
 }

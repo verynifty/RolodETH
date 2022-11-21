@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WAX",
+  "erc20_symbol": "WAX",
+  "erc20_decimals": 8
+}

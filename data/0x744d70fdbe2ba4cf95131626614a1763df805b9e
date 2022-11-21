@@ -3,7 +3,7 @@
     "erc20",
     "status"
   ],
-  "name": "Status Network Token",
+  "name": "StatusNetworkToken",
   "erc20_symbol": "SNT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778"

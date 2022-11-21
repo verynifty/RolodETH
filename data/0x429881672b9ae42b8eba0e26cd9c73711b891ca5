@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Pickle Finance",
+  "name": "PickleFinance",
   "erc20_symbol": "PICKLE",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12435/thumb/0M4W6Yr6_400x400.jpg?1643006080"

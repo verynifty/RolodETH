@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vite",
+  "erc20_symbol": "VITE",
+  "erc20_decimals": 18
+}

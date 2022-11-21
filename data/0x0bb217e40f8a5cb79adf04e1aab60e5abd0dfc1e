@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "SWFTCOIN",
+  "name": "SwftCoin",
   "erc20_symbol": "SWFTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/2346/thumb/SWFTCoin.jpg?1618392022"

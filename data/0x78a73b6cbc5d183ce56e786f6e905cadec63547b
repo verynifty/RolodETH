@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FabricToken",
+  "erc20_symbol": "FT",
+  "erc20_decimals": 18
+}

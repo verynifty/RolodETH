@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Minereum: Old Token 1"
+  "name": "Minereum",
+  "erc20_symbol": "MNE",
+  "erc20_decimals": 8
 }

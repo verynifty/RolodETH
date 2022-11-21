@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Libra Credit",
+  "name": "Cred",
   "erc20_symbol": "LBA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3673/thumb/libra-credit.png?1547975828"

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DEW",
+  "erc20_symbol": "DEW",
+  "erc20_decimals": 18
+}

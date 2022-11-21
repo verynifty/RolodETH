@@ -1,4 +1,8 @@
 {
-  "tags": [],
-  "name": "Value DeFi Protocol: YFV Token"
+  "tags": [
+    "erc20"
+  ],
+  "name": "YFValue",
+  "erc20_symbol": "YFV",
+  "erc20_decimals": 18
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hut34EntropyToken",
+  "erc20_symbol": "ENTRP",
+  "erc20_decimals": 18
+}

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Orion Protocol: Old ORN Token"
+  "name": "OrionProtocol",
+  "erc20_symbol": "ORN",
+  "erc20_decimals": 8
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EtherBTC",
+  "erc20_symbol": "ETHB",
+  "erc20_decimals": 8
+}

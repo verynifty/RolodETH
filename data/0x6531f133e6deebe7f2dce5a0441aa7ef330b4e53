@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Chronobank",
+  "erc20_symbol": "TIME",
+  "erc20_decimals": 8
+}

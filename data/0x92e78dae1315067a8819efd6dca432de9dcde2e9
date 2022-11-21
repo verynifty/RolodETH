@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Veros: Old Token"
+  "name": "Veros",
+  "erc20_symbol": "VRS",
+  "erc20_decimals": 6
 }

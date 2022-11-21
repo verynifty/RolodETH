@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "wystoken",
+  "erc20_symbol": "WYS",
+  "erc20_decimals": 18
+}

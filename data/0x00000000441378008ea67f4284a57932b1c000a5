@@ -1,6 +1,9 @@
 {
   "tags": [
-    "trusttoken"
+    "trusttoken",
+    "erc20"
   ],
-  "name": "TrueGBP"
+  "name": "TrueGBP",
+  "erc20_symbol": "TGBP",
+  "erc20_decimals": 18
 }

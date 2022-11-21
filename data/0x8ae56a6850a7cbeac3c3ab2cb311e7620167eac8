@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PEGNetworkToken",
+  "erc20_symbol": "PEG",
+  "erc20_decimals": 18
+}

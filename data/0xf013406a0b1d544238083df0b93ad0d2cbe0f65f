@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "bZxUSDCiToken",
+  "erc20_symbol": "iUSDC",
+  "erc20_decimals": 6
+}

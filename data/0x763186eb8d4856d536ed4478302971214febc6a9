@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BetterBetting",
+  "erc20_symbol": "BETR",
+  "erc20_decimals": 18
+}

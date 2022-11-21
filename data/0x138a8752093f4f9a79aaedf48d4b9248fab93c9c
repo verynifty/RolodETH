@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Musiconomi",
+  "erc20_symbol": "MCI",
+  "erc20_decimals": 18
+}

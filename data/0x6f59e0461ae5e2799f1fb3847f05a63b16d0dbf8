@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ORCAToken",
+  "erc20_symbol": "ORCA",
+  "erc20_decimals": 18
+}

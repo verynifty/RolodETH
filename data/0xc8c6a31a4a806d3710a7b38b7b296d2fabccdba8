@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ElixirToken",
+  "erc20_symbol": "ELIX",
+  "erc20_decimals": 18
+}

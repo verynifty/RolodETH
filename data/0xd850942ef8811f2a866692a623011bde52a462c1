@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "VeChain: Old Token"
+  "name": "VeChain",
+  "erc20_symbol": "VEN",
+  "erc20_decimals": 18
 }

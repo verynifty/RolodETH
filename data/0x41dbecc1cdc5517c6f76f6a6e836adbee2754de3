@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Medicalchain",
+  "name": "MedToken",
   "erc20_symbol": "MTN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2850/thumb/medicalchain.png?1547037019"

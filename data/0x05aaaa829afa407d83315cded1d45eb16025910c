@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sp8de",
+  "erc20_symbol": "SPX",
+  "erc20_decimals": 18
+}

@@ -2,8 +2,8 @@
   "tags": [
     "erc20"
   ],
-  "name": "Pax Dollar",
-  "erc20_symbol": "USDP",
+  "name": "PaxosStandardPAX",
+  "erc20_symbol": "PAX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/6013/thumb/Pax_Dollar.png?1629877204"
 }

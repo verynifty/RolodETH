@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SkrumbleNetwork",
+  "erc20_symbol": "SKM",
+  "erc20_decimals": 18
+}

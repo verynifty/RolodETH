@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RealEstateAssetLedger",
+  "erc20_symbol": "REAL",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PIPLCoin",
+  "erc20_symbol": "PIPL",
+  "erc20_decimals": 8
+}

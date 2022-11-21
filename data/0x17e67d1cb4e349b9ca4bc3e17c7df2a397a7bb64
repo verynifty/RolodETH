@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Freyrchain",
+  "erc20_symbol": "FREC",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CompoundWrappedBTC",
+  "erc20_symbol": "cWBTC",
+  "erc20_decimals": 8
+}

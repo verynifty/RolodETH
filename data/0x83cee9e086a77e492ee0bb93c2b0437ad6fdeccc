@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Goldmint",
+  "name": "GoldmintMNTPrelaunchToken",
   "erc20_symbol": "MNTP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1944/thumb/goldmint.png?1547743002"

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NamiICO",
+  "erc20_symbol": "NAC",
+  "erc20_decimals": 18
+}

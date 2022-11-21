@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FARADCryptoken",
+  "erc20_symbol": "FRD",
+  "erc20_decimals": 18
+}

@@ -3,8 +3,8 @@
     "erc20",
     "kyber-network"
   ],
-  "name": "Kyber: Old KNC Token",
-  "erc20_symbol": "KNCL",
+  "name": "KyberNetwork",
+  "erc20_symbol": "KNC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/947/thumb/logo-kncl.png?1618984814"
 }

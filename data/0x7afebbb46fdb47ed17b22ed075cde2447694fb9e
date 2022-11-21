@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Ocean Protocol: Old Ocean Token"
+  "name": "OceanToken",
+  "erc20_symbol": "OCEAN",
+  "erc20_decimals": 18
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "carVertical: Old cV Token"
+  "name": "carVertical",
+  "erc20_symbol": "cV",
+  "erc20_decimals": 18
 }

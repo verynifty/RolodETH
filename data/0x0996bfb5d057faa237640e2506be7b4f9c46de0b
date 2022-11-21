@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RenderToken",
+  "erc20_symbol": "RNDR",
+  "erc20_decimals": 18
+}

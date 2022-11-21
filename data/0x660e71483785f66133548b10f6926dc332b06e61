@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Adelphoi",
+  "erc20_symbol": "ADL",
+  "erc20_decimals": 18
+}

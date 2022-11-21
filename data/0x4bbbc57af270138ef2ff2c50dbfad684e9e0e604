@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WABnetwork",
+  "erc20_symbol": "WAB",
+  "erc20_decimals": 18
+}

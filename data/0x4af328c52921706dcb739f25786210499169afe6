@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SakuraBloom",
+  "erc20_symbol": "SKB",
+  "erc20_decimals": 8
+}

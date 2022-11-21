@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Internxt",
+  "erc20_symbol": "INXT",
+  "erc20_decimals": 8
+}

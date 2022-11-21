@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Neverdie",
+  "erc20_symbol": "NDC",
+  "erc20_decimals": 18
+}

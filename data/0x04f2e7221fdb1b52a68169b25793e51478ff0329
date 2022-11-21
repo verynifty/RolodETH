@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Cappasity: Old CAPP Token"
+  "name": "Cappasity",
+  "erc20_symbol": "CAPP",
+  "erc20_decimals": 2
 }

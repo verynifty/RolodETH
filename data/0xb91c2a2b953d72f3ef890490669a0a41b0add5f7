@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Belifex",
+  "erc20_symbol": "BEFX",
+  "erc20_decimals": 8
+}

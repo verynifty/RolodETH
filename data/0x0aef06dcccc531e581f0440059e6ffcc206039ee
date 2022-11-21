@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ITTToken",
+  "erc20_symbol": "ITT",
+  "erc20_decimals": 8
+}

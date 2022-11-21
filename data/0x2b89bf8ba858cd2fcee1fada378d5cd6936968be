@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Secret  ERC20 ",
+  "name": "Wrapped SCRT",
   "erc20_symbol": "WSCRT",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/13767/thumb/Secret_S_Black_Coingecko.png?1611667298"

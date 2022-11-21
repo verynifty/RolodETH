@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HighPerformanceBlockchain",
+  "erc20_symbol": "HPB",
+  "erc20_decimals": 18
+}

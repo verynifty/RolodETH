@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CanonChain",
+  "erc20_symbol": "CZR",
+  "erc20_decimals": 18
+}

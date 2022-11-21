@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Biotron",
+  "erc20_symbol": "BTRN",
+  "erc20_decimals": 18
+}

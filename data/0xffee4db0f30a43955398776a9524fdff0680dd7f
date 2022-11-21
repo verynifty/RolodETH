@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EXSERIONToken",
+  "erc20_symbol": "EXR",
+  "erc20_decimals": 8
+}

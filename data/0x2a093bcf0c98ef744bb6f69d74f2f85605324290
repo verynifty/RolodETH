@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FoodCoin",
+  "erc20_symbol": "FOOD",
+  "erc20_decimals": 8
+}

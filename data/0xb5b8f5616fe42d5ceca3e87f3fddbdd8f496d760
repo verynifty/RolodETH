@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ZPER",
+  "erc20_symbol": "ZPR",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CredoBitbounce",
+  "erc20_symbol": "CREDO",
+  "erc20_decimals": 18
+}

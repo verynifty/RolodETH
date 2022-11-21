@@ -4,8 +4,8 @@
     "proxy-contract",
     "synthetix"
   ],
-  "name": "Synthetix: Proxy sETH Token",
-  "erc20_symbol": "SETH",
+  "name": "SynthsETH",
+  "erc20_symbol": "sETH",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/8843/thumb/sETH.png?1616150207"
 }

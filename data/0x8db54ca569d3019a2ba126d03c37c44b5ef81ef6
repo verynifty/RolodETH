@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Datawallet",
+  "erc20_symbol": "DXT",
+  "erc20_decimals": 8
+}

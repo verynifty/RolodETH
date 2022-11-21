@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Omnitude",
+  "erc20_symbol": "ECOM",
+  "erc20_decimals": 18
+}

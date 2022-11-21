@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniswapDaiStablecoin",
+  "erc20_symbol": "uniDAI",
+  "erc20_decimals": 18
+}

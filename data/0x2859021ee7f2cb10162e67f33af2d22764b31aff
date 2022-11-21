@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SilentNotary",
+  "erc20_symbol": "SNTR",
+  "erc20_decimals": 4
+}

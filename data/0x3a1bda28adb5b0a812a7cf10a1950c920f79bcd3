@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Gameflip",
+  "name": "FLIPToken",
   "erc20_symbol": "FLP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2173/thumb/flp.png?1547036470"

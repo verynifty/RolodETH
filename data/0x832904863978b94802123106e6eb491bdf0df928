@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OptiToken",
+  "erc20_symbol": "OPTI",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SugarExchange",
+  "erc20_symbol": "SGR",
+  "erc20_decimals": 8
+}

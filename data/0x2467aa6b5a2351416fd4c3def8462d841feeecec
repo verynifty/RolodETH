@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "qiibeeToken",
+  "erc20_symbol": "QBX",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AdHiveToken",
+  "erc20_symbol": "ADH",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Moonlite",
+  "erc20_symbol": "MNL",
+  "erc20_decimals": 18
+}

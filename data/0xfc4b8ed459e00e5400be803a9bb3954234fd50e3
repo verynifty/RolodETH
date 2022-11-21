@@ -4,8 +4,8 @@
     "aave-v1",
     "aave"
   ],
-  "name": "Aave: aWBTC Token V1",
-  "erc20_symbol": "AWBTC",
+  "name": "AaveInterestbearingWBTC",
+  "erc20_symbol": "aWBTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/11734/thumb/aWBTC.png?1593087741"
 }

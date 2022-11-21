@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PHIToken",
+  "erc20_symbol": "PHI",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CarbCoin",
+  "erc20_symbol": "CARB",
+  "erc20_decimals": 8
+}

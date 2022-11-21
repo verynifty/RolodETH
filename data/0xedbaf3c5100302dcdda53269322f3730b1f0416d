@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Veros",
+  "erc20_symbol": "VRS",
+  "erc20_decimals": 5
+}

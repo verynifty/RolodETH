@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TrustlinesNetworkToken",
+  "erc20_symbol": "TLN",
+  "erc20_decimals": 18
+}

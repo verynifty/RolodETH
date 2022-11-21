@@ -1,6 +1,9 @@
 {
   "tags": [
-    "closure"
+    "closure",
+    "erc20"
   ],
-  "name": "Sola Token: Closure"
+  "name": "SolaToken",
+  "erc20_symbol": "SOL",
+  "erc20_decimals": 6
 }

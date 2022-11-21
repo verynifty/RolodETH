@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Voise",
+  "erc20_symbol": "VOISE",
+  "erc20_decimals": 8
+}

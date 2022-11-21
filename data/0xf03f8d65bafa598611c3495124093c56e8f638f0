@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Viewly",
+  "erc20_symbol": "VIEW",
+  "erc20_decimals": 18
+}

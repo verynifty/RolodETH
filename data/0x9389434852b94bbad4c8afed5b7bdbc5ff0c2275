@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TTCProtocol",
+  "erc20_symbol": "TTC",
+  "erc20_decimals": 18
+}

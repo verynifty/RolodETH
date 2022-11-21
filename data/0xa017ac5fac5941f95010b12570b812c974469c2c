@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Proxeus",
+  "erc20_symbol": "XES",
+  "erc20_decimals": 18
+}

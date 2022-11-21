@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PayPie",
+  "erc20_symbol": "PPP",
+  "erc20_decimals": 18
+}

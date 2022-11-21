@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "dether",
+  "erc20_symbol": "DTH",
+  "erc20_decimals": 18
+}

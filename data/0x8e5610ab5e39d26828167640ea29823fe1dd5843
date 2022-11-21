@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KanadeCoin",
+  "erc20_symbol": "KNDC",
+  "erc20_decimals": 8
+}

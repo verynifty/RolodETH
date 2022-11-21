@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SocialMediaMarket",
+  "erc20_symbol": "SMT",
+  "erc20_decimals": 8
+}

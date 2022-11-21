@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Viuly: Old Token"
+  "name": "Viuly",
+  "erc20_symbol": "VIU",
+  "erc20_decimals": 18
 }

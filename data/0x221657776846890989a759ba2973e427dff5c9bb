@@ -3,8 +3,8 @@
     "erc20",
     "augur"
   ],
-  "name": "Augur: REPv2 Token",
-  "erc20_symbol": "REP",
+  "name": "Reputation",
+  "erc20_symbol": "REPv2",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/309/thumb/REP.png?1596339859"
 }

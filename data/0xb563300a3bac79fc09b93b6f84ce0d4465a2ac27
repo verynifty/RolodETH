@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RedCab",
+  "erc20_symbol": "REDC",
+  "erc20_decimals": 18
+}

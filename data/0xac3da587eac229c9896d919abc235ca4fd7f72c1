@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TargetCoin",
+  "erc20_symbol": "TGT",
+  "erc20_decimals": 1
+}

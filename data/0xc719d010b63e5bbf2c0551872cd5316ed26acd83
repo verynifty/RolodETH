@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Etherisc DIP",
+  "name": "DecentralizedInsuranceProtocol",
   "erc20_symbol": "DIP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4586/thumb/dip.png?1547039863"

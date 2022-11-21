@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vezt",
+  "erc20_symbol": "VZT",
+  "erc20_decimals": 18
+}

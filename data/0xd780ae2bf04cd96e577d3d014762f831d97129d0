@@ -3,7 +3,7 @@
     "erc20",
     "ico-wallets"
   ],
-  "name": "Envion Token",
+  "name": "EnvionAG",
   "erc20_symbol": "EVN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1547/thumb/envion.jpg?1547035704"

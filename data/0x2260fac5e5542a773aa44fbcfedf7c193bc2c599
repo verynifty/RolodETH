@@ -3,7 +3,7 @@
     "erc20",
     "wrapped-bitcoin"
   ],
-  "name": "Wrapped BTC: WBTC Token",
+  "name": "WrappedBitcoin",
   "erc20_symbol": "WBTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"

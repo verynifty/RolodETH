@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PEPToken",
+  "erc20_symbol": "PEP",
+  "erc20_decimals": 18
+}

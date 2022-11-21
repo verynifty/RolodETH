@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SpaceChain",
+  "erc20_symbol": "SPC",
+  "erc20_decimals": 18
+}

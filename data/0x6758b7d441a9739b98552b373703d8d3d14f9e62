@@ -1,6 +1,9 @@
 {
   "tags": [
-    "poa-network"
+    "poa-network",
+    "erc20"
   ],
-  "name": "POA Network: POA20 Token"
+  "name": "POAERC20onFoundation",
+  "erc20_symbol": "POA20",
+  "erc20_decimals": 18
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "POLYAI",
+  "erc20_symbol": "AI",
+  "erc20_decimals": 18
+}

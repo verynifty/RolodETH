@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GermanCoin",
+  "erc20_symbol": "GCX",
+  "erc20_decimals": 6
+}

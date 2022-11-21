@@ -3,7 +3,7 @@
     "erc20",
     "dforce"
   ],
-  "name": "dForce: DF Token",
+  "name": "dForcePlatformToken",
   "erc20_symbol": "DF",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9709/thumb/xlGxxIjI_400x400.jpg?1571006794"

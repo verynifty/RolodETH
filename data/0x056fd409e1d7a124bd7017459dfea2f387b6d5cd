@@ -3,7 +3,7 @@
     "erc20",
     "gemini"
   ],
-  "name": "Gemini: GUSD Token",
+  "name": "Geminidollar",
   "erc20_symbol": "GUSD",
   "erc20_decimals": 2,
   "imageURL": "https://assets.coingecko.com/coins/images/5992/thumb/gemini-dollar-gusd.png?1536745278"

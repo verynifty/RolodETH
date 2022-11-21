@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LIVEToken",
+  "erc20_symbol": "LIVE",
+  "erc20_decimals": 18
+}

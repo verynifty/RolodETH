@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TokenINMAX",
+  "erc20_symbol": "INX",
+  "erc20_decimals": 8
+}

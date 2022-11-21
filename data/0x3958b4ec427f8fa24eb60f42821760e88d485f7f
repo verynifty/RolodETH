@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniswapSynthetixNetworkToken",
+  "erc20_symbol": "uniSNX",
+  "erc20_decimals": 18
+}

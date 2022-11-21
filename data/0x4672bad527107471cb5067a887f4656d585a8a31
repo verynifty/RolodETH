@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dropil",
+  "erc20_symbol": "DROP",
+  "erc20_decimals": 18
+}

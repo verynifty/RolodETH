@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "aXpire: Old AXPR Token"
+  "name": "aXpire",
+  "erc20_symbol": "AXPR",
+  "erc20_decimals": 18
 }

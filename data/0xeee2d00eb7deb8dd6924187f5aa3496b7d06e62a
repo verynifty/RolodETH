@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tigereum",
+  "erc20_symbol": "TIG",
+  "erc20_decimals": 18
+}

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "phish-hack"
+    "phish-hack",
+    "erc20"
   ],
-  "name": "Uniswap V2: rBON"
+  "name": "Uniswap V2 - WETH/rBON",
+  "erc20_symbol": "UNI-V2",
+  "erc20_decimals": 18
 }

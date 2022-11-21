@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RChain",
+  "erc20_symbol": "RHOC",
+  "erc20_decimals": 8
+}

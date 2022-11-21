@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HiBTCToken",
+  "erc20_symbol": "HIBT",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Libereum",
+  "erc20_symbol": "LIBER",
+  "erc20_decimals": 18
+}

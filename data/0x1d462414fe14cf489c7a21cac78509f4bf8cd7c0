@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CanYaCoin",
+  "erc20_symbol": "CAN",
+  "erc20_decimals": 6
+}

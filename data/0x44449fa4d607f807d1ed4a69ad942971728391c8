@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XMEDChain",
+  "erc20_symbol": "XMCT",
+  "erc20_decimals": 18
+}

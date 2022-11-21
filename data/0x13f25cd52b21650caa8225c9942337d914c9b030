@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RealChain",
+  "erc20_symbol": "RCT",
+  "erc20_decimals": 18
+}

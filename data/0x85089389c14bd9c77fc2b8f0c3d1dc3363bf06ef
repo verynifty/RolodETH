@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sportify",
+  "erc20_symbol": "SPF",
+  "erc20_decimals": 18
+}

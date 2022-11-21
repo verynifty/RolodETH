@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Iungo",
+  "erc20_symbol": "ING",
+  "erc20_decimals": 18
+}

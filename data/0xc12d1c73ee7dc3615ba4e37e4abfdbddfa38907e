@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "KickICO: Old KICK Token"
+  "name": "KickToken",
+  "erc20_symbol": "KICK",
+  "erc20_decimals": 8
 }

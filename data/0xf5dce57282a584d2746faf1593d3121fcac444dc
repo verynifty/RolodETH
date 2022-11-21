@@ -1,6 +1,9 @@
 {
   "tags": [
-    "compound"
+    "compound",
+    "erc20"
   ],
-  "name": "Compound: cSAI Token"
+  "name": "CompoundSai",
+  "erc20_symbol": "cSai",
+  "erc20_decimals": 8
 }

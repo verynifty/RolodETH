@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BitherPlatformToken",
+  "erc20_symbol": "BTR",
+  "erc20_decimals": 18
+}

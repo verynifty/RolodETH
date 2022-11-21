@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BOXXTokenBlockparty",
+  "erc20_symbol": "BOXX",
+  "erc20_decimals": 15
+}

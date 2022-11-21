@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PylonNetwork",
+  "erc20_symbol": "PYLNT",
+  "erc20_decimals": 18
+}

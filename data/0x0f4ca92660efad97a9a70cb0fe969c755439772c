@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Leverj: Old LEV Token"
+  "name": "Leverj",
+  "erc20_symbol": "LEV",
+  "erc20_decimals": 9
 }

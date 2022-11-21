@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tracto",
+  "erc20_symbol": "TRCT",
+  "erc20_decimals": 8
+}

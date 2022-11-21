@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OpenWebToken",
+  "erc20_symbol": "OWT",
+  "erc20_decimals": 18
+}

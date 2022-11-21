@@ -63,6 +63,9 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await MyCryptoTokenList.addTo(RolodETH)
+    await UniswapPairsList.addTo(RolodETH)
+    return
     await MyEtherWalletDarkListLabels.addTo(RolodETH);
     await CoingeckoTokenList.addTo(RolodETH)
     await estherscanLabels.addTo(RolodETH);

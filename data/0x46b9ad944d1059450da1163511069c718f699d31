@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Credits",
+  "erc20_symbol": "CS",
+  "erc20_decimals": 6
+}

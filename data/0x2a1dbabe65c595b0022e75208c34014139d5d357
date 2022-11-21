@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TrustedHealth",
+  "erc20_symbol": "TDH",
+  "erc20_decimals": 18
+}

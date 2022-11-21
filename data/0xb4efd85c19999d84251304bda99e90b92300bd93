@@ -1,6 +1,9 @@
 {
   "tags": [
-    "rocket-pool"
+    "rocket-pool",
+    "erc20"
   ],
-  "name": "Rocket Pool: Old RPL Token"
+  "name": "RocketPool",
+  "erc20_symbol": "RPL",
+  "erc20_decimals": 18
 }

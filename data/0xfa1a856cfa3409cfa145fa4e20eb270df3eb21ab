@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "IOST: Old Token"
+  "name": "IOSToken",
+  "erc20_symbol": "IOST",
+  "erc20_decimals": 18
 }

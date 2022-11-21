@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Bitcoin Turbo Koin: Old Token"
+  "name": "BitcoinToken",
+  "erc20_symbol": "BTK",
+  "erc20_decimals": 18
 }

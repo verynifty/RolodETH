@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BankcoinCash",
+  "erc20_symbol": "BKC",
+  "erc20_decimals": 8
+}

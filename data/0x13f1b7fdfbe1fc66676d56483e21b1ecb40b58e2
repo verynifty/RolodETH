@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AcceleratorNetwork",
+  "erc20_symbol": "ACC",
+  "erc20_decimals": 18
+}

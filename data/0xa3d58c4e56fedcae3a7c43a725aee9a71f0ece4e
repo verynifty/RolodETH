@@ -1,6 +1,9 @@
 {
   "tags": [
-    "metronome"
+    "metronome",
+    "erc20"
   ],
-  "name": "Metronome Token"
+  "name": "Metronome",
+  "erc20_symbol": "MET",
+  "erc20_decimals": 18
 }

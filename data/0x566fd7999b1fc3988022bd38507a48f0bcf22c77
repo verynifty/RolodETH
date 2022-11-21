@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TheRealCoin",
+  "erc20_symbol": "TRCN",
+  "erc20_decimals": 18
+}

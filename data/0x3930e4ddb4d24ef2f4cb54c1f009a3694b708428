@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GameFanz",
+  "erc20_symbol": "GFN",
+  "erc20_decimals": 8
+}

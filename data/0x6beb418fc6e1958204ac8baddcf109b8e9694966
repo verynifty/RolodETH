@@ -2,8 +2,8 @@
   "tags": [
     "erc20"
   ],
-  "name": "Linker Coin",
-  "erc20_symbol": "LNC",
+  "name": "LinkerCoin",
+  "erc20_symbol": "LNCLinkerCoin",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3885/thumb/linker-coin.png?1547975979"
 }

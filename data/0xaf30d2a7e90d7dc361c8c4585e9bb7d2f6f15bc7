@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FirstBlood",
+  "erc20_symbol": "1ST",
+  "erc20_decimals": 18
+}

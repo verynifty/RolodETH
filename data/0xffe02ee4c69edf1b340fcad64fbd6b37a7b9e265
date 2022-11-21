@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NANJCOIN",
+  "erc20_symbol": "NANJ",
+  "erc20_decimals": 8
+}

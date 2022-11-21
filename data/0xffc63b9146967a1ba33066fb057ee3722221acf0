@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alpha",
+  "erc20_symbol": "A",
+  "erc20_decimals": 18
+}

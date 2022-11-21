@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Props Project: PROPS Token",
+  "name": "Props",
   "erc20_symbol": "PROPS",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/6735/thumb/photo-2017-10-10-03-32-02.png?1595168186"

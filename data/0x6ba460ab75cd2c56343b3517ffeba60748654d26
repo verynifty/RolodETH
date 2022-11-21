@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UpToken",
+  "erc20_symbol": "UP",
+  "erc20_decimals": 8
+}

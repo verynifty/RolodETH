@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MARKSPACE",
+  "erc20_symbol": "MRK",
+  "erc20_decimals": 8
+}

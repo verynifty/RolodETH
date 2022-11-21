@@ -3,7 +3,7 @@
     "erc20",
     "maker"
   ],
-  "name": "Maker Token",
+  "name": "MakerDAO",
   "erc20_symbol": "MKR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1364/thumb/Mark_Maker.png?1585191826"

@@ -3,8 +3,8 @@
     "erc20",
     "tokenlon"
   ],
-  "name": "imBTC Token",
-  "erc20_symbol": "IMBTC",
+  "name": "TheTokenizedBitcoin",
+  "erc20_symbol": "imBTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/10702/thumb/imbtc.png?1585124381"
 }

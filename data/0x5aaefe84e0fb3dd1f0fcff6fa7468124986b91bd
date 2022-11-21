@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Evedo",
+  "name": "EvedoToken",
   "erc20_symbol": "EVED",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/7721/thumb/Variations-09.png?1549979992"

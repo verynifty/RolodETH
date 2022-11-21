@@ -1,6 +1,9 @@
 {
   "tags": [
-    "dforce"
+    "dforce",
+    "erc20"
   ],
-  "name": "dForce: USDX Token"
+  "name": "dForceStablecoin",
+  "erc20_symbol": "USDx",
+  "erc20_decimals": 18
 }

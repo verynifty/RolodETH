@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cofoundit",
+  "erc20_symbol": "CFI",
+  "erc20_decimals": 18
+}

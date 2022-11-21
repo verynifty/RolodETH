@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gimli",
+  "erc20_symbol": "GIM",
+  "erc20_decimals": 8
+}

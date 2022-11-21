@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Qtum",
+  "erc20_symbol": "QTUM",
+  "erc20_decimals": 18
+}

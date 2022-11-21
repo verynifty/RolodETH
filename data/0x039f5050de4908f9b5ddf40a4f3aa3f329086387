@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EthernetCash",
+  "erc20_symbol": "ENC",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Uniswap V2 - 서울 리테일/WETH",
+  "erc20_symbol": "UNI-V2",
+  "erc20_decimals": 18
+}

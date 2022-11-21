@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OysterShell",
+  "erc20_symbol": "SHL",
+  "erc20_decimals": 18
+}

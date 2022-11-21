@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XPA",
+  "erc20_symbol": "XPA",
+  "erc20_decimals": 18
+}

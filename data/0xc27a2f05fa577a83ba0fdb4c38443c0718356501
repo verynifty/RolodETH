@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LamdenTau",
+  "erc20_symbol": "TAU",
+  "erc20_decimals": 18
+}

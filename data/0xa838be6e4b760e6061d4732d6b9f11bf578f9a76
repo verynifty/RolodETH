@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TVTWOTokenforTelevision",
+  "erc20_symbol": "TTV",
+  "erc20_decimals": 18
+}

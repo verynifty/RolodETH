@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Opacity",
+  "erc20_symbol": "OPQ",
+  "erc20_decimals": 18
+}

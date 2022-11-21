@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ArbitrageCT",
+  "erc20_symbol": "ARCT",
+  "erc20_decimals": 8
+}

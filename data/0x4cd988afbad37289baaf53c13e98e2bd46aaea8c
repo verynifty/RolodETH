@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Key",
+  "name": "BihuKey",
   "erc20_symbol": "KEY",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4182/thumb/bihu-key-token.png?1547039459"

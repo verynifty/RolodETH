@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ColuLocalNetwork",
+  "erc20_symbol": "CLN",
+  "erc20_decimals": 18
+}

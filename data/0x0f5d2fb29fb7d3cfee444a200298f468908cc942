@@ -3,7 +3,7 @@
     "erc20",
     "decentraland"
   ],
-  "name": "Decentraland: MANA Token",
+  "name": "DecentralandMANA",
   "erc20_symbol": "MANA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745"

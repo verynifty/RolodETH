@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Globitex",
+  "erc20_symbol": "GBX",
+  "erc20_decimals": 18
+}

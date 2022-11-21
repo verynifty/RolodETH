@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Uniswap V2 - CAR-USDC-MAR2/USDC",
+  "erc20_symbol": "UNI-V2",
+  "erc20_decimals": 18
+}

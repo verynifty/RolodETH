@@ -1,6 +1,9 @@
 {
   "tags": [
-    "trusttoken"
+    "trusttoken",
+    "erc20"
   ],
-  "name": "TrueAUD"
+  "name": "TrueAUD",
+  "erc20_symbol": "TAUD",
+  "erc20_decimals": 18
 }

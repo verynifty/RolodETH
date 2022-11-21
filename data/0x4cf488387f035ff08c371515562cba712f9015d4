@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "WePower",
+  "name": "WePowerToken",
   "erc20_symbol": "WPR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1951/thumb/wpr.png?1547036237"

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shivom",
+  "erc20_symbol": "OMX",
+  "erc20_decimals": 8
+}

@@ -1,6 +1,8 @@
 {
   "tags": [
-    "website-down"
+    "website-down",
+    "erc20"
   ],
-  "name": "SandCoin: SND Token"
+  "name": "Sandcoin",
+  "erc20_symbol": "SND"
 }

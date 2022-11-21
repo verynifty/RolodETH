@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PBL",
+  "erc20_symbol": "PBL",
+  "erc20_decimals": 18
+}

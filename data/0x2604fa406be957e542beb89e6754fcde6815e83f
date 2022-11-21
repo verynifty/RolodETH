@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "PlayKey",
+  "name": "Playkey",
   "erc20_symbol": "PKT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2116/thumb/playkey.png?1548331394"

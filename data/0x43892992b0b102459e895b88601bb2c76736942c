@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniswapRepublicToken",
+  "erc20_symbol": "uniREN",
+  "erc20_decimals": 18
+}

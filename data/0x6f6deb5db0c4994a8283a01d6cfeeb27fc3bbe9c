@@ -1,6 +1,8 @@
 {
   "tags": [
-    "ico-wallets"
+    "ico-wallets",
+    "erc20"
   ],
-  "name": "SmartBillions Token"
+  "name": "SmartBillions",
+  "erc20_symbol": "SMART"
 }

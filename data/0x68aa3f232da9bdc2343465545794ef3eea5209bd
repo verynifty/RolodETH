@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mothership",
+  "erc20_symbol": "MSP",
+  "erc20_decimals": 18
+}

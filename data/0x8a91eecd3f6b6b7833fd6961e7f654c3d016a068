@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WowooExchangeToken",
+  "erc20_symbol": "WWX",
+  "erc20_decimals": 18
+}

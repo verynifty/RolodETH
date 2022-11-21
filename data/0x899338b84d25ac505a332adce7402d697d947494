@@ -1,6 +1,9 @@
 {
   "tags": [
-    "website-down"
+    "website-down",
+    "erc20"
   ],
-  "name": "WAX: WIN Token"
+  "name": "WCOIN",
+  "erc20_symbol": "WIN",
+  "erc20_decimals": 8
 }

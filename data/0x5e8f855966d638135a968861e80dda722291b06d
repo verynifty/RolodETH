@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Coinvest: Old Token"
+  "name": "CoinvestV2Token",
+  "erc20_symbol": "COIN",
+  "erc20_decimals": 18
 }

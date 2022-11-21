@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OpenTradingNetwork",
+  "erc20_symbol": "OTN",
+  "erc20_decimals": 18
+}

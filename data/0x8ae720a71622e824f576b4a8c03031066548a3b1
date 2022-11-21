@@ -1,6 +1,9 @@
 {
   "tags": [
-    "reflexer-finance"
+    "reflexer-finance",
+    "erc20"
   ],
-  "name": "Uniswap V2: RAI 4"
+  "name": "Uniswap V2 - RAI/WETH",
+  "erc20_symbol": "UNI-V2",
+  "erc20_decimals": 18
 }

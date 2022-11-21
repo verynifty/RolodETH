@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Talao",
+  "erc20_symbol": "TALAO",
+  "erc20_decimals": 18
+}

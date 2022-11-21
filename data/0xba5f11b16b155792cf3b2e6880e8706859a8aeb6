@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aeron",
+  "erc20_symbol": "ARN",
+  "erc20_decimals": 8
+}

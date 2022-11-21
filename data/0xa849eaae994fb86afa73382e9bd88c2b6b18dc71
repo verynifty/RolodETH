@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "MVL",
+  "name": "MassVehicleLedgerToken",
   "erc20_symbol": "MVL",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3476/thumb/mass-vehicle-ledger.png?1547978299"

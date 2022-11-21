@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ONOToken",
+  "erc20_symbol": "ONOT",
+  "erc20_decimals": 18
+}

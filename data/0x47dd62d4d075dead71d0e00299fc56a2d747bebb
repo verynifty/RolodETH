@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Equal: Old Token 2"
+  "name": "Equal",
+  "erc20_symbol": "EQL",
+  "erc20_decimals": 18
 }

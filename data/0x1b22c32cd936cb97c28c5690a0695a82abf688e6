@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MyWish",
+  "erc20_symbol": "WISH",
+  "erc20_decimals": 18
+}

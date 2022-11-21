@@ -3,7 +3,7 @@
     "erc20"
   ],
   "name": "Zeusshield",
-  "erc20_symbol": "ZSC",
+  "erc20_symbol": "ZCS",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1009/thumb/zeusshield.png?1548761440"
 }

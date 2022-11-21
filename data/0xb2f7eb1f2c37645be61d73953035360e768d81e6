@@ -1,6 +1,9 @@
 {
   "tags": [
-    "cobinhood"
+    "cobinhood",
+    "erc20"
   ],
-  "name": "Cobinhood: COB Token"
+  "name": "CobinhoodToken",
+  "erc20_symbol": "COB",
+  "erc20_decimals": 18
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OlympusLabs",
+  "erc20_symbol": "MOT",
+  "erc20_decimals": 18
+}

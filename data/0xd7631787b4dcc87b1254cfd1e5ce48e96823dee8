@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Sociall",
+  "name": "SocialCoin",
   "erc20_symbol": "SCL",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/874/thumb/scl.png?1547034694"

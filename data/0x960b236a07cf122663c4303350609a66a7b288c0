@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Aragon: Old ANT Token"
+  "name": "Aragon",
+  "erc20_symbol": "ANTold",
+  "erc20_decimals": 18
 }

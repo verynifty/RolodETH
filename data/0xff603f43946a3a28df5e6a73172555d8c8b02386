@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "OneRoot Network",
+  "name": "OneRootNetwork",
   "erc20_symbol": "RNT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2520/thumb/OneRootNetwork.PNG?1558014608"

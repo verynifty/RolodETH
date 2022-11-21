@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Jibrel Network: Old JNT Token"
+  "name": "JibrelNetwork",
+  "erc20_symbol": "JNT",
+  "erc20_decimals": 18
 }

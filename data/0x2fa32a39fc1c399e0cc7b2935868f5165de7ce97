@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "PayFair: Old Token"
+  "name": "Payfair",
+  "erc20_symbol": "PFR",
+  "erc20_decimals": 8
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DigitalAssetExchangeToken",
+  "erc20_symbol": "DAXT",
+  "erc20_decimals": 18
+}

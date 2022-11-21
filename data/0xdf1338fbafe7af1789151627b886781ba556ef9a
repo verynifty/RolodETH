@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KuendeToken",
+  "erc20_symbol": "KUE",
+  "erc20_decimals": 18
+}

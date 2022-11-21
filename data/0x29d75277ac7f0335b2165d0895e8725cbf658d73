@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BitDice",
+  "erc20_symbol": "CSNO",
+  "erc20_decimals": 8
+}

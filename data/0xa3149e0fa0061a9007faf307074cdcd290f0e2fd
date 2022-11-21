@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PronCoin",
+  "erc20_symbol": "PRON",
+  "erc20_decimals": 8
+}

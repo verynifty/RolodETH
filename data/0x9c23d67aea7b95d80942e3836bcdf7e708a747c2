@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LOCIcoin",
+  "erc20_symbol": "LOCI",
+  "erc20_decimals": 18
+}

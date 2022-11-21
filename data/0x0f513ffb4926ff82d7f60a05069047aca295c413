@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XSC",
+  "erc20_symbol": "XSC",
+  "erc20_decimals": 18
+}

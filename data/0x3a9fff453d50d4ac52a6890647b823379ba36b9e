@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ShuffleMonsterV3",
+  "erc20_symbol": "SHUF",
+  "erc20_decimals": 18
+}

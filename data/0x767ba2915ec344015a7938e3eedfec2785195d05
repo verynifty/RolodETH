@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Realisto",
+  "erc20_symbol": "REA",
+  "erc20_decimals": 18
+}

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Sogur: Old SGA Token"
+  "name": "SGAToken",
+  "erc20_symbol": "SGA",
+  "erc20_decimals": 18
 }

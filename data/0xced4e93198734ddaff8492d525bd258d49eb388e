@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Eidoo: Old EDO Token"
+  "name": "Eidoo",
+  "erc20_symbol": "EDO",
+  "erc20_decimals": 18
 }

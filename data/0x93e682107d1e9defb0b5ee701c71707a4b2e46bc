@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MCAP",
+  "erc20_symbol": "MCAP",
+  "erc20_decimals": 8
+}

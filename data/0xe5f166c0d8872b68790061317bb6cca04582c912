@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "TeFood: Old TFD Token"
+  "name": "TEFOOD",
+  "erc20_symbol": "TFD",
+  "erc20_decimals": 18
 }

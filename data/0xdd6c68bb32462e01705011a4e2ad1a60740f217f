@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HubiiNetwork",
+  "erc20_symbol": "HBT",
+  "erc20_decimals": 15
+}

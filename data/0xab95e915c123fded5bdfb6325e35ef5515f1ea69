@@ -1,6 +1,9 @@
 {
   "tags": [
-    "website-down"
+    "website-down",
+    "erc20"
   ],
-  "name": "XenonToken"
+  "name": "XENON",
+  "erc20_symbol": "XNN",
+  "erc20_decimals": 18
 }

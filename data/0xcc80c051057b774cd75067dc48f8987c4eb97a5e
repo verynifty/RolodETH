@@ -1,6 +1,9 @@
 {
   "tags": [
-    "deversifi"
+    "deversifi",
+    "erc20"
   ],
-  "name": "Ethfinex: Nectar Token"
+  "name": "EthfinexNectarToken",
+  "erc20_symbol": "NEC",
+  "erc20_decimals": 18
 }

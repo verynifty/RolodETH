@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OysterPearl",
+  "erc20_symbol": "PRL",
+  "erc20_decimals": 18
+}

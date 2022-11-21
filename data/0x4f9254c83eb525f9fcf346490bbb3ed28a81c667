@@ -3,7 +3,7 @@
     "erc20",
     "celer-network"
   ],
-  "name": "Celer Network: CELR Token",
+  "name": "CelerToken",
   "erc20_symbol": "CELR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4379/thumb/Celr.png?1554705437"

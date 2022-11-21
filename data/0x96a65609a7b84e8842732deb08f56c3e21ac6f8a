@@ -1,6 +1,9 @@
 {
   "tags": [
-    "flagged-by-sec"
+    "flagged-by-sec",
+    "erc20"
   ],
-  "name": "Centra.tech: CTR Token"
+  "name": "Centra",
+  "erc20_symbol": "CTR",
+  "erc20_decimals": 18
 }

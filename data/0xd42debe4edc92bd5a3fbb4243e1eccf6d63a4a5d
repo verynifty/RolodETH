@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Carboneum",
+  "erc20_symbol": "C8",
+  "erc20_decimals": 18
+}

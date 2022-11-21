@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Insolar",
+  "erc20_symbol": "INS",
+  "erc20_decimals": 10
+}

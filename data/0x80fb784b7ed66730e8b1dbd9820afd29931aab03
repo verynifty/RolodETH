@@ -3,7 +3,7 @@
     "erc20",
     "aave"
   ],
-  "name": "Aave: LEND Token",
+  "name": "ETHLend",
   "erc20_symbol": "LEND",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1365/thumb/ethlend.png?1547394586"

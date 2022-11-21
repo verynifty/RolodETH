@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "savedroid",
+  "erc20_symbol": "SVD",
+  "erc20_decimals": 18
+}

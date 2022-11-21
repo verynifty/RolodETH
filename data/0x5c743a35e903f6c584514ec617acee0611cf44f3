@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Experty",
+  "erc20_symbol": "EXY",
+  "erc20_decimals": 18
+}

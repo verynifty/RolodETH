@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LALAWorldToken",
+  "erc20_symbol": "LALA",
+  "erc20_decimals": 18
+}

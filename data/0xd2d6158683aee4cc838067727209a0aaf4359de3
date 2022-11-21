@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Bounty0x",
+  "name": "Bounty0xToken",
   "erc20_symbol": "BNTY",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1444/thumb/bounty0x.png?1547562674"

@@ -3,7 +3,7 @@
     "erc20",
     "binance"
   ],
-  "name": "Binance USD",
+  "name": "BinanceUSDBUSD",
   "erc20_symbol": "BUSD",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"

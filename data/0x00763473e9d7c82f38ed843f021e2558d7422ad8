@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ducat",
+  "erc20_symbol": "DUCAT",
+  "erc20_decimals": 4
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Invacio",
+  "erc20_symbol": "INV",
+  "erc20_decimals": 8
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PCHAIN",
+  "erc20_symbol": "PAI",
+  "erc20_decimals": 18
+}

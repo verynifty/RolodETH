@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BitZToken",
+  "erc20_symbol": "BZ",
+  "erc20_decimals": 18
+}

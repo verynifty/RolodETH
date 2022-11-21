@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CommerceBlock",
+  "erc20_symbol": "CBT",
+  "erc20_decimals": 18
+}

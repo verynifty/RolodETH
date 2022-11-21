@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AdExNetworklegacy",
+  "erc20_symbol": "ADXL",
+  "erc20_decimals": 4
+}

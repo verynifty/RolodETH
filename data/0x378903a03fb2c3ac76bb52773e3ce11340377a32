@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Clipper Coin Capital: Old Token"
+  "name": "ClipperCoin",
+  "erc20_symbol": "CCCX",
+  "erc20_decimals": 18
 }

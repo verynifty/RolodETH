@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "AMO Coin",
+  "name": "AMOCoin",
   "erc20_symbol": "AMO",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4009/thumb/amo-logomark_black.png?1547039106"

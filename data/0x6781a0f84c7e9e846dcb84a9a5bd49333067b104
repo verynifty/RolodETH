@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Zap",
+  "name": "ZAP",
   "erc20_symbol": "ZAP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2180/thumb/zap.png?1547036476"

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Thartoken",
+  "erc20_symbol": "Thar",
+  "erc20_decimals": 18
+}

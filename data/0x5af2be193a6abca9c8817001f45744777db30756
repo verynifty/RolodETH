@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bitquence",
+  "erc20_symbol": "BQX",
+  "erc20_decimals": 8
+}

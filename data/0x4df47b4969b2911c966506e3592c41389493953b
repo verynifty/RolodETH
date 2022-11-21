@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FundRequest",
+  "erc20_symbol": "FND",
+  "erc20_decimals": 18
+}

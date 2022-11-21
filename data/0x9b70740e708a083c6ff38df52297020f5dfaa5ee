@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DaneelToken",
+  "erc20_symbol": "DAN",
+  "erc20_decimals": 10
+}

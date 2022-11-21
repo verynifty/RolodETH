@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ThriveToken",
+  "erc20_symbol": "THRT",
+  "erc20_decimals": 18
+}

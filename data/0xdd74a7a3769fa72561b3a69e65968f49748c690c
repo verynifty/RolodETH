@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ETCH",
+  "erc20_symbol": "ETCH",
+  "erc20_decimals": 18
+}

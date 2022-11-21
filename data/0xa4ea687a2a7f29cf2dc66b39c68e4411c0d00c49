@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IvyKoinPublicNetworkTokens",
+  "erc20_symbol": "IVY",
+  "erc20_decimals": 18
+}

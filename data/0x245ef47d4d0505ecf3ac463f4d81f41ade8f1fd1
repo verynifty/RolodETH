@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NuggetsToken",
+  "erc20_symbol": "NUG",
+  "erc20_decimals": 18
+}

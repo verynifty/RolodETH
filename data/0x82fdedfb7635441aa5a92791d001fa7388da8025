@@ -2,8 +2,8 @@
   "tags": [
     "erc20"
   ],
-  "name": "Digital Ticks",
-  "erc20_symbol": "DTX",
+  "name": "DigitalTicks",
+  "erc20_symbol": "DTx",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4898/thumb/digital-ticks-logo.jpg?1533010074"
 }

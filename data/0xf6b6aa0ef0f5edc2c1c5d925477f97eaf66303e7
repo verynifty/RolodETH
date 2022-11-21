@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GoingGems",
+  "erc20_symbol": "XGG",
+  "erc20_decimals": 8
+}

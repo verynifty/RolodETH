@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Webcoin: Old WEB Token"
+  "name": "Webcoin",
+  "erc20_symbol": "WEB",
+  "erc20_decimals": 18
 }

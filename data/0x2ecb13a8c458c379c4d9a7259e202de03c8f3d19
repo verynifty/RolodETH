@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BlockChaincom",
+  "erc20_symbol": "BC",
+  "erc20_decimals": 18
+}

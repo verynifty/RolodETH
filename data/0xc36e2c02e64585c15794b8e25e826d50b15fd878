@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Animeyen",
+  "erc20_symbol": "ANIME",
+  "erc20_decimals": 8
+}

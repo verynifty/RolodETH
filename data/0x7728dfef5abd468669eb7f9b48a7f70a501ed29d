@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Paragon",
+  "erc20_symbol": "PRG",
+  "erc20_decimals": 6
+}

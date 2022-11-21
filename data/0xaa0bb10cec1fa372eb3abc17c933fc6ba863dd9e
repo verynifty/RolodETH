@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HmsToken",
+  "erc20_symbol": "HMC",
+  "erc20_decimals": 18
+}

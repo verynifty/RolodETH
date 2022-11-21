@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BitCarToken",
+  "erc20_symbol": "BITCAR",
+  "erc20_decimals": 8
+}

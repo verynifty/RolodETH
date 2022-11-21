@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Copytrack: Old Token"
+  "name": "COPYTRACK",
+  "erc20_symbol": "CPY",
+  "erc20_decimals": 18
 }

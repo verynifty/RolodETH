@@ -1,7 +1,10 @@
 {
   "tags": [
     "idex",
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Aurora DAO: Old Token"
+  "name": "AuroraDAO",
+  "erc20_symbol": "AURA",
+  "erc20_decimals": 18
 }

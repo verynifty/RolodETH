@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SuperKeepToken",
+  "erc20_symbol": "SKE",
+  "erc20_decimals": 8
+}

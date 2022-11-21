@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "DMarket",
+  "name": "DMarketToken",
   "erc20_symbol": "DMT",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/1602/thumb/dmarket.png?1547223830"

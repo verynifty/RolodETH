@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Spectre ai Dividend",
+  "name": "SpectreaiDToken",
   "erc20_symbol": "SXDT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2550/thumb/spectre-dividend.png?1547036667"

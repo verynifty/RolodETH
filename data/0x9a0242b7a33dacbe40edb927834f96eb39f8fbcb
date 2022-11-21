@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "BABB Platform: Old BAX Token"
+  "name": "BABB",
+  "erc20_symbol": "BAX",
+  "erc20_decimals": 18
 }

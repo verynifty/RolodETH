@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MTRCToken",
+  "erc20_symbol": "MTRc",
+  "erc20_decimals": 18
+}

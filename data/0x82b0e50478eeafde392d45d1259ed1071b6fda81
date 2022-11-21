@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EncrypGenold",
+  "erc20_symbol": "DNA",
+  "erc20_decimals": 18
+}

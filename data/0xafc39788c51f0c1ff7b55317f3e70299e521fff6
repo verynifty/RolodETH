@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "eBCH",
+  "erc20_symbol": "eBCH",
+  "erc20_decimals": 8
+}

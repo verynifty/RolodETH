@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ProtonToken",
+  "erc20_symbol": "PTT",
+  "erc20_decimals": 18
+}

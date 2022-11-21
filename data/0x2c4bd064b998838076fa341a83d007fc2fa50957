@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniswapMaker",
+  "erc20_symbol": "uniMKR",
+  "erc20_decimals": 18
+}

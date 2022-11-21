@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Bezop: Old Token"
+  "name": "Bezop",
+  "erc20_symbol": "BEZ",
+  "erc20_decimals": 18
 }

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TKRToken",
+  "erc20_symbol": "TKR",
+  "erc20_decimals": 18
+}

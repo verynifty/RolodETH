@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Enecuum",
+  "erc20_symbol": "ENQ",
+  "erc20_decimals": 10
+}

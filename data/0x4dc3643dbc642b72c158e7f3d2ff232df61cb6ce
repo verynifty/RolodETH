@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AmberToken",
+  "erc20_symbol": "AMB",
+  "erc20_decimals": 18
+}

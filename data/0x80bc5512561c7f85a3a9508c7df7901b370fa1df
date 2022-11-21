@@ -1,7 +1,10 @@
 {
   "tags": [
     "old-contract",
-    "trade-io"
+    "trade-io",
+    "erc20"
   ],
-  "name": "Trade.io: Old Token"
+  "name": "TIO",
+  "erc20_symbol": "TIO",
+  "erc20_decimals": 18
 }

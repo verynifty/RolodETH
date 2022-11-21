@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "STRC",
+  "erc20_symbol": "STRC",
+  "erc20_decimals": 8
+}

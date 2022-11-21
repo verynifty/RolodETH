@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Jobchain: Old JOB Token"
+  "name": "JOBCHAIN",
+  "erc20_symbol": "JOB",
+  "erc20_decimals": 8
 }

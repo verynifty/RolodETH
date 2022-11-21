@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LancerToken",
+  "erc20_symbol": "LNC",
+  "erc20_decimals": 18
+}

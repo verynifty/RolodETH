@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XinFinNetwork",
+  "erc20_symbol": "XDCE",
+  "erc20_decimals": 18
+}

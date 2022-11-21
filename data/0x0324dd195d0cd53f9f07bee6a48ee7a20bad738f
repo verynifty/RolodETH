@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SPiCEVCToken",
+  "erc20_symbol": "SPICE",
+  "erc20_decimals": 8
+}

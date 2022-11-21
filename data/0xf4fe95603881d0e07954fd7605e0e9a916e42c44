@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "WhenHub",
+  "name": "WHENToken",
   "erc20_symbol": "WHEN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4136/thumb/when.png?1547039367"

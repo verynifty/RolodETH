@@ -3,7 +3,7 @@
     "erc20",
     "ampleforth"
   ],
-  "name": "Ampleforth: AMPL Token",
+  "name": "Ampleforth",
   "erc20_symbol": "AMPL",
   "erc20_decimals": 9,
   "imageURL": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"

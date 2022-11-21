@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DistributedCreditChain",
+  "erc20_symbol": "DCC",
+  "erc20_decimals": 18
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PDATA",
+  "erc20_symbol": "PDATA",
+  "erc20_decimals": 18
+}

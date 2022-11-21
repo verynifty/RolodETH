@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cryptosolartech",
+  "erc20_symbol": "CST",
+  "erc20_decimals": 18
+}

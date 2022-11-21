@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PASSToken",
+  "erc20_symbol": "PASS",
+  "erc20_decimals": 18
+}

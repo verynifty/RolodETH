@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EWOToken",
+  "erc20_symbol": "EWO",
+  "erc20_decimals": 18
+}

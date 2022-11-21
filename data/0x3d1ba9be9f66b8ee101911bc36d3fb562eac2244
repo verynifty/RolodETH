@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rivetz",
+  "erc20_symbol": "RVT",
+  "erc20_decimals": 18
+}

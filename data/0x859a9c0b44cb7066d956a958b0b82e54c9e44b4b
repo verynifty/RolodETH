@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "iEthereum",
+  "erc20_symbol": "IETH",
+  "erc20_decimals": 8
+}

@@ -3,7 +3,7 @@
     "erc20",
     "revain"
   ],
-  "name": "Revain: REV Token",
+  "name": "Revain",
   "erc20_symbol": "REV",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/1107/thumb/256x256.png?1587018647"

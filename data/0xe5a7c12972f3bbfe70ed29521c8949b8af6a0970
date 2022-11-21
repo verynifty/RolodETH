@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Iconomi",
+  "erc20_symbol": "BLXIconomi",
+  "erc20_decimals": 18
+}

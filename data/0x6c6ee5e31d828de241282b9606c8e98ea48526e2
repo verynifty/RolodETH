@@ -2,8 +2,8 @@
   "tags": [
     "erc20"
   ],
-  "name": "Holo",
-  "erc20_symbol": "HOT",
+  "name": "HoloToken",
+  "erc20_symbol": "HOTHolo",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3348/thumb/Holologo_Profile.png?1547037966"
 }

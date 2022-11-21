@@ -2,8 +2,8 @@
   "tags": [
     "erc20"
   ],
-  "name": "Streamr XDATA",
-  "erc20_symbol": "XDATA",
+  "name": "StreamrDATAcoin",
+  "erc20_symbol": "DATA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1115/thumb/streamr.png?1547035101"
 }

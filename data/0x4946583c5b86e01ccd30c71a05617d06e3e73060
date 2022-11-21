@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PTON",
+  "erc20_symbol": "PTON",
+  "erc20_decimals": 18
+}

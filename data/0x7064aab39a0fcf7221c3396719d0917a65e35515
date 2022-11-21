@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Cpollo: Old Token"
+  "name": "CPOLLO",
+  "erc20_symbol": "CPLO",
+  "erc20_decimals": 18
 }

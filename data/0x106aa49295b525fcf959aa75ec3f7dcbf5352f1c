@@ -1,7 +1,10 @@
 {
   "tags": [
     "gbx",
-    "old-contract"
+    "old-contract",
+    "erc20"
   ],
-  "name": "Rock: Old Token"
+  "name": "Rock",
+  "erc20_symbol": "RKT",
+  "erc20_decimals": 18
 }

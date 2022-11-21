@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hydro",
+  "erc20_symbol": "HYDRO",
+  "erc20_decimals": 18
+}

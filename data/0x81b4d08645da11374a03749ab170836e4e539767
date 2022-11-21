@@ -1,6 +1,9 @@
 {
   "tags": [
-    "website-down"
+    "website-down",
+    "erc20"
   ],
-  "name": "Paymon Token"
+  "name": "Paymon",
+  "erc20_symbol": "PMNT",
+  "erc20_decimals": 9
 }

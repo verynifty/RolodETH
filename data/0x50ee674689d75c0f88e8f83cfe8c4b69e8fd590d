@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Emphy",
+  "erc20_symbol": "EPY",
+  "erc20_decimals": 8
+}

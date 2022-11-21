@@ -1,6 +1,9 @@
 {
   "tags": [
-    "website-down"
+    "website-down",
+    "erc20"
   ],
-  "name": "Atmchain.io: ATM Token"
+  "name": "ATMChain",
+  "erc20_symbol": "ATM",
+  "erc20_decimals": 8
 }

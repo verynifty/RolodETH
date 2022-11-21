@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Atonomi",
+  "erc20_symbol": "ATMI",
+  "erc20_decimals": 18
+}

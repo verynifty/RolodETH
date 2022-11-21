@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LikeCoin",
+  "erc20_symbol": "LIKE",
+  "erc20_decimals": 18
+}

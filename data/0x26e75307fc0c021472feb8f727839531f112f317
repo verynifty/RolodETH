@@ -1,6 +1,9 @@
 {
   "tags": [
-    "ico-wallets"
+    "ico-wallets",
+    "erc20"
   ],
-  "name": "Crypto20: C20 Token"
+  "name": "Crypto20sToken",
+  "erc20_symbol": "C20",
+  "erc20_decimals": 18
 }

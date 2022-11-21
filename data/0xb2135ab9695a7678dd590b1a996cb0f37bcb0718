@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SignalsNetwork",
+  "erc20_symbol": "SGN",
+  "erc20_decimals": 9
+}

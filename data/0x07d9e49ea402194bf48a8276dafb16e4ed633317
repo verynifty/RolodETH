@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Dalecoin",
+  "name": "DaleCoin",
   "erc20_symbol": "DALC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/932/thumb/dalecoin.png?1547791491"

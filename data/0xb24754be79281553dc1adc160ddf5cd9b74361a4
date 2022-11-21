@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XRL",
+  "erc20_symbol": "XRL",
+  "erc20_decimals": 9
+}

@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Guppy",
+  "name": "Matchpool",
   "erc20_symbol": "GUP",
   "erc20_decimals": 3,
   "imageURL": "https://assets.coingecko.com/coins/images/683/thumb/matchpool.png?1547034437"

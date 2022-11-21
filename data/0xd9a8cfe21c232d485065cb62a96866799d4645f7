@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FingerPrint",
+  "erc20_symbol": "FGP",
+  "erc20_decimals": 18
+}

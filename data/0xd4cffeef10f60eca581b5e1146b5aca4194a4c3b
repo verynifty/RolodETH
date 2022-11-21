@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DecentralizedUniversalBasicIncome",
+  "erc20_symbol": "DUBI",
+  "erc20_decimals": 18
+}
