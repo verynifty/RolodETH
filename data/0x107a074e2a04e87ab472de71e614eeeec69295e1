@@ -1,5 +1,7 @@
 {
   "tags": [
-    "azuki-minter"
+    "azuki-minter",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-index-coop",
-    "snapshot-voter-bancornetwork"
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-stgdao"
   ]
 }

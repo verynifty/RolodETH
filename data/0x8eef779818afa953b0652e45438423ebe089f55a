@@ -12,6 +12,7 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-liveartxevent"
   ]
 }

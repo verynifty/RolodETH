@@ -5,6 +5,7 @@
     "snapshot-voter-dforcenet",
     "snapshot-voter-gmx",
     "snapshot-voter-hakka",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

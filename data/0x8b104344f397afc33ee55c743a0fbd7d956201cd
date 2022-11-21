@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "clonex-minter",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-giv"
+    "snapshot-voter-giv",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-phonon"
   ]
 }
