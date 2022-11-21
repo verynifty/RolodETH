@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "bayc-minter",
     "doodle-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "opensea-user"
   ]
 }

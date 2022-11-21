@@ -3,7 +3,8 @@
     "meebit-minter",
     "art-goblers-minter",
     "mayc-minter",
-    "writer"
+    "writer",
+    "opensea-user"
   ],
   "name": "Mirror: Dark Star"
 }

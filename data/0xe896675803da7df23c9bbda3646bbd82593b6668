@@ -5,6 +5,7 @@
     "mayc-minter",
     "snapshot-voter-apecoin",
     "snapshot-voter-ocm",
-    "snapshot-voter-foundersdao"
+    "snapshot-voter-foundersdao",
+    "opensea-user"
   ]
 }

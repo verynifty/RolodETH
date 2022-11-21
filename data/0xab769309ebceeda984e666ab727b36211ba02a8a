@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-studiodao",
     "snapshot-voter-daoge",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

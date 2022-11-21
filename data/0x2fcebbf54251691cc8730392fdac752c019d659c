@@ -3,6 +3,7 @@
     "moonbird-minter",
     "pudgy-pinguin-minter",
     "meebit-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

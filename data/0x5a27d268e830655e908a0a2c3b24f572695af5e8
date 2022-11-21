@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-gearbox",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "opensea-user"
   ]
 }

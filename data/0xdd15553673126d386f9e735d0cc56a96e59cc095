@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-aurafinance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

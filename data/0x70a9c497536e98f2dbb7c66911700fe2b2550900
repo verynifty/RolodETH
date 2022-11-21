@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-olympusdao",
     "snapshot-voter-beanstalkdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

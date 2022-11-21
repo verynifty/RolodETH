@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-yam",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

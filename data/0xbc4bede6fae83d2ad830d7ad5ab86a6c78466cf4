@@ -9,6 +9,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "opensea-user"
   ]
 }

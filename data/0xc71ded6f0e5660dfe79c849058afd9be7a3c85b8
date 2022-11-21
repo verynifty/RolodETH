@@ -5,6 +5,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-hop",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "opensea-user"
   ]
 }

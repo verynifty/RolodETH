@@ -3,6 +3,7 @@
     "veefriend-minter",
     "clonex-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

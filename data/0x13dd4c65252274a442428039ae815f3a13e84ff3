@@ -4,6 +4,7 @@
     "mayc-minter",
     "snapshot-voter-cvx",
     "snapshot-voter-gearbox",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-floordao",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "opensea-user"
   ]
 }

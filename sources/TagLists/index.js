@@ -11,9 +11,9 @@ TagList.prototype.addTo = async function (RolodETH, fromBlock = 0, toBlock = "la
     let i = 0;
     for (const address of t) {
         RolodETH.addTag(address, this.tagname)
-        if (i % 10000 == 0) {
+        if (i++ % 10000 == 0) {
             console.log(i)
-            await sleep(1000)
+            await sleep(2000)
         }
     }
 }

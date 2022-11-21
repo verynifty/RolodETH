@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "bayc-minter",
     "coolcat-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "opensea-user"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-saddlefinance",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "take-action",
     "snapshot-voter-botto",
-    "snapshot-voter-brightmoments"
+    "snapshot-voter-brightmoments",
+    "opensea-user"
   ],
   "name": "Multichain Hack Alert 2344"
 }

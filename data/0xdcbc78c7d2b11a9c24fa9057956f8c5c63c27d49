@@ -3,6 +3,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-badgerdao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "opensea-user"
   ]
 }

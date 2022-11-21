@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "clonex-minter",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-decentralgames"
+    "snapshot-voter-decentralgames",
+    "opensea-user"
   ]
 }
