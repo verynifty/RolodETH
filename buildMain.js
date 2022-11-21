@@ -6,6 +6,10 @@ const JSONImporter = require("./sources/JSONImporter");
 const reservoir = require("./sources/reservoir");
 const ERC721Minters = require("./sources/ERC721Minters");
 const SnapshotVoting = require("./sources/SnapshotVoting");
+const TagList = require("./sources/TagLists");
+
+const sudoswap_users = new TagList('sudoswap_user')
+const os_users = new TagList('opensea_user')
 
 const CoingeckoTokenList = new UniswapTokenList("https://tokens.coingecko.com/uniswap/all.json");
 const MyCryptoTokenList = new UniswapTokenList("https://uniswap.mycryptoapi.com/");
@@ -65,6 +69,8 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await sudoswap_users.addTo(RolodETH);
+    return
     await snapshotvoting.addTo(RolodETH);
 return
     //await Reservoir.addTo(RolodETH);
