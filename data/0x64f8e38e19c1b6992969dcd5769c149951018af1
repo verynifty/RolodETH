@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-apecoin",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-shellprotocol"
   ]
 }

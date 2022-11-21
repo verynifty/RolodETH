@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-sismo"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-cvx",
     "snapshot-voter-frax",
     "snapshot-voter-redactedcartel",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-aave",
+    "snapshot-voter-concentratordao"
   ]
 }

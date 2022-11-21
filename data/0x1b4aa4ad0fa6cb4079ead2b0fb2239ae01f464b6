@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }

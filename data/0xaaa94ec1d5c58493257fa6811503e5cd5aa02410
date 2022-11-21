@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

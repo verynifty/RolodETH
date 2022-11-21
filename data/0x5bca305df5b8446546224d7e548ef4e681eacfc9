@@ -9,6 +9,8 @@
     "snapshot-voter-xennft",
     "snapshot-voter-isat",
     "snapshot-voter-jbdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-cow"
   ]
 }

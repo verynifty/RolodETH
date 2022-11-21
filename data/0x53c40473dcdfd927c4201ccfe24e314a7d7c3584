@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-banklessvault",
     "snapshot-voter-uniswap",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

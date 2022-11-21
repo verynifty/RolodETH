@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
     "snapshot-voter-beets",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

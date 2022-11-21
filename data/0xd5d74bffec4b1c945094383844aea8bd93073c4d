@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-cow"
   ]
 }

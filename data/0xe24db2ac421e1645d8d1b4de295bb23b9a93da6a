@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-leagueoflils",
     "snapshot-voter-gal",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-cow"
   ]
 }

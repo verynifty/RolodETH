@@ -6,6 +6,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

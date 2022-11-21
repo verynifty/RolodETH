@@ -3,6 +3,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-jpeg’d",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-blockhubdao"
   ]
 }

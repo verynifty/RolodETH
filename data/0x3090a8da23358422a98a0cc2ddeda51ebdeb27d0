@@ -4,6 +4,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-safe",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo"
   ]
 }

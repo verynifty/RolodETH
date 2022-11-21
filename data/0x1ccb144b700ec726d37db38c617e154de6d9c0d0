@@ -13,6 +13,10 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-sismo",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-shellprotocol"
   ]
 }

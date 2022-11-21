@@ -3,6 +3,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol"
   ]
 }

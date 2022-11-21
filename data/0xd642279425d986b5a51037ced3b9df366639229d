@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-gal",
     "snapshot-voter-saddlefinance",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

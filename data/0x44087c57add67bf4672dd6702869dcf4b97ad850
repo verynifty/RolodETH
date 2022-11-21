@@ -9,6 +9,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-gal",
     "snapshot-voter-balancer",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

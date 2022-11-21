@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sismo",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mail3"
   ]
 }

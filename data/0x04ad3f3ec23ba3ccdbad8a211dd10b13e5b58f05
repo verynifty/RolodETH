@@ -5,6 +5,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-derify",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -7,6 +7,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-1inch",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-opcollective"
   ]
 }

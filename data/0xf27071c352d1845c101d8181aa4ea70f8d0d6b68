@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-cakevote",
-    "snapshot-voter-toyes"
+    "snapshot-voter-toyes",
+    "snapshot-voter-optimismio"
   ]
 }

@@ -12,6 +12,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

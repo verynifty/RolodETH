@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-dudulab",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-cakevote"
   ]
 }

@@ -5,6 +5,10 @@
     "snapshot-voter-yam",
     "snapshot-voter-bancornetwork",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-beets",
+    "snapshot-voter-cow",
+    "snapshot-voter-badgerdao"
   ]
 }

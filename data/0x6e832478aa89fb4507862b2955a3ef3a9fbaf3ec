@@ -4,6 +4,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

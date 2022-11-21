@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal",
+    "snapshot-voter-aave"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

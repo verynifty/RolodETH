@@ -11,6 +11,8 @@
     "snapshot-voter-hop",
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

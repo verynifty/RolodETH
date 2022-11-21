@@ -6,6 +6,10 @@
     "snapshot-voter-frax",
     "snapshot-voter-silofinance",
     "snapshot-voter-sismo",
-    "snapshot-voter-freerossdao"
+    "snapshot-voter-freerossdao",
+    "snapshot-voter-jpeg’d",
+    "snapshot-voter-aave",
+    "snapshot-voter-gobblerunion",
+    "snapshot-voter-shellprotocol"
   ]
 }

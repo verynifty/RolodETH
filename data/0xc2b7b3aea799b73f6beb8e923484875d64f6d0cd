@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ]
 }

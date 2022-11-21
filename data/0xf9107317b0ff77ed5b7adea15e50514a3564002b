@@ -6,6 +6,7 @@
     "hashmask-minter",
     "clonex-minter",
     "mayc-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

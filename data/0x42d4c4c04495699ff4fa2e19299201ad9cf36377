@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-xole"
   ]
 }

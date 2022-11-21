@@ -5,6 +5,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

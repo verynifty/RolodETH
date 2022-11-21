@@ -11,6 +11,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-gal",
     "snapshot-voter-derify",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }

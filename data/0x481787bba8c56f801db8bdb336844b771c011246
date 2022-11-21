@@ -1,6 +1,8 @@
 {
   "tags": [
     "moonbird-minter",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-polygon-goodghosting"
   ]
 }

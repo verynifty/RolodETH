@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-cvx",
     "snapshot-voter-gmx",
-    "snapshot-voter-silofinance"
+    "snapshot-voter-silofinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-lido-snapshot"
   ]
 }

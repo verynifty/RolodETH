@@ -4,6 +4,8 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-qidao",
     "snapshot-voter-aave",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-safe"
   ]
 }

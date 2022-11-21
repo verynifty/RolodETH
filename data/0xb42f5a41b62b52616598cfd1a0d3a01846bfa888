@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-elfi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

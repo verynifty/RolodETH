@@ -4,6 +4,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-shellprotocol"
   ]
 }

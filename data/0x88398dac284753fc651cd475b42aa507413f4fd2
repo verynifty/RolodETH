@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gal",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

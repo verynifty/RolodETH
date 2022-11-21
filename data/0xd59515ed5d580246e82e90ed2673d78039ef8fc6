@@ -6,6 +6,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ]
 }

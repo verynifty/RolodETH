@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-yokaiswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-wumingqi",
     "snapshot-voter-aave",
     "snapshot-voter-qidao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

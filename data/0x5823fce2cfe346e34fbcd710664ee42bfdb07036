@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-shellprotocol"
   ]
 }

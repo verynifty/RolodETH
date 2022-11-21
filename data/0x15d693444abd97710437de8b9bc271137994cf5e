@@ -10,6 +10,7 @@
     "snapshot-voter-53231323",
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ]
 }

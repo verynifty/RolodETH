@@ -12,6 +12,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo"
   ]
 }

@@ -3,6 +3,7 @@
     "doodle-minter",
     "pudgy-pinguin-minter",
     "otherdeed-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-shellprotocol"
   ]
 }

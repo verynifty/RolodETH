@@ -8,6 +8,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-qidao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-metavault-trade"
   ]
 }

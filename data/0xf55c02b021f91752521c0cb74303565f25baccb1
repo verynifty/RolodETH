@@ -15,6 +15,9 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-sismo"
   ]
 }

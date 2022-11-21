@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-shellprotocol"
   ]
 }

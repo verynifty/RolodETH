@@ -2,6 +2,7 @@
   "tags": [
     "moonbird-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-shellprotocol"
   ]
 }

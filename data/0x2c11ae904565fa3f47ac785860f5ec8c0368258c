@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-nftfinance"
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-sismo"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gro-xyz"
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-alchemixstakers"
   ]
 }

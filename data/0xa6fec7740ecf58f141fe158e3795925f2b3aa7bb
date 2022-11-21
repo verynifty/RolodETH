@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-gal"
   ]
 }

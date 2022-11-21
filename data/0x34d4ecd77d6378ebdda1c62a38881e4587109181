@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-sismo"
   ]
 }

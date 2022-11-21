@@ -4,6 +4,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-gearbox",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-shellprotocol"
   ]
 }

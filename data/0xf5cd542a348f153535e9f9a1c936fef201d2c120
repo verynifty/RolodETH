@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-benddao",
     "snapshot-voter-elfi",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-apecoin"
   ]
 }

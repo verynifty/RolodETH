@@ -4,6 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-balancer",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo",
+    "snapshot-voter-lido-snapshot"
   ]
 }

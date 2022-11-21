@@ -9,6 +9,8 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-balancer",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mstablegovernance"
   ]
 }

@@ -5,6 +5,9 @@
     "snapshot-voter-krausehouse",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-ens",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-tempusgov",
+    "snapshot-voter-sismo"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-shellprotocol"
   ]
 }

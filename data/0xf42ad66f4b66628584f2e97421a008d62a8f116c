@@ -4,6 +4,10 @@
     "snapshot-voter-ens",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-cow"
   ]
 }

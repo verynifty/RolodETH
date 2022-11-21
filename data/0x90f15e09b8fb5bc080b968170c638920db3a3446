@@ -5,6 +5,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-qidao",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-beanstalkdao"
   ]
 }

@@ -2,6 +2,10 @@
   "tags": [
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-cow",
+    "snapshot-voter-beets",
+    "snapshot-voter-badgerdao"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-gal",
-    "snapshot-voter-1satoshi"
+    "snapshot-voter-1satoshi",
+    "snapshot-voter-xole"
   ]
 }

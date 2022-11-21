@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -3,6 +3,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-aurafinance",
     "snapshot-voter-beets",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-cow",
+    "snapshot-voter-humandao"
   ]
 }

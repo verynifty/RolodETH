@@ -9,6 +9,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-aladdindao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

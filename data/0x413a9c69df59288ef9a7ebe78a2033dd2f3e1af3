@@ -9,6 +9,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-benddao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-xole",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-shellprotocol"
   ]
 }

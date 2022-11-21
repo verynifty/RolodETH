@@ -7,6 +7,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

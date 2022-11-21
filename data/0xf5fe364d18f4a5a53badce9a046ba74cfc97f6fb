@@ -16,6 +16,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-opcollective",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-safe"
   ]
 }

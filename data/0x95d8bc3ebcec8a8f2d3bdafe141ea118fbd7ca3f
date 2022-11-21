@@ -12,6 +12,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-jbdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

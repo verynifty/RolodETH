@@ -14,6 +14,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-bullsontheblock",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

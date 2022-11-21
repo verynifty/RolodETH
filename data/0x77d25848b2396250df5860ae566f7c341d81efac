@@ -5,6 +5,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-balancer",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

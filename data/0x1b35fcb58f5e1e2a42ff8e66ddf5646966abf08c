@@ -4,6 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-cvx",
     "snapshot-voter-hakka",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-0xgov"
   ]
 }

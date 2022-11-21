@@ -3,6 +3,12 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-🌿lens🌿",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-cow",
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

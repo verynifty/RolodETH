@@ -3,6 +3,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-banklessvault",
     "snapshot-voter-aave",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-sharkdao",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-shellprotocol"
   ]
 }

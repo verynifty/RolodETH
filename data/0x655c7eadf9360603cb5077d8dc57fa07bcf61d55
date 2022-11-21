@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "clonex-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-baovotes"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-hop",
     "snapshot-voter-gnosis",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-shellprotocol"
   ]
 }

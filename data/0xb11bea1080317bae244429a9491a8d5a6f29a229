@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-frax",
+    "snapshot-voter-8848labs",
+    "snapshot-voter-lido-snapshot"
   ]
 }

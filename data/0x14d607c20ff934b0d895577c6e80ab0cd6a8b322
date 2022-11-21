@@ -9,6 +9,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-xuzhiyong"
   ]
 }

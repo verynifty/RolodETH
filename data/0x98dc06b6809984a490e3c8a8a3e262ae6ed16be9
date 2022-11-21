@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
   ]
 }

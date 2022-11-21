@@ -5,6 +5,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-doremifasollasi",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-cow"
   ]
 }

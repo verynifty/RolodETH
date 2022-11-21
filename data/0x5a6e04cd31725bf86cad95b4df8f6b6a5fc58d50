@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
   ]
 }

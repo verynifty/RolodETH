@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-cow",
+    "snapshot-voter-people-dao"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-qidao",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

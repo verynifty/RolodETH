@@ -5,6 +5,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-qidao",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

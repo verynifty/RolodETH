@@ -84,7 +84,7 @@
     },
     "0x1111111254fb6c44bac0bed2854e76f90643097d": {
       "name": "1inch",
-      "tags": [],
+      "tags": ["1inch"],
     },
     "0x283af0b28c62c092c9727f1ee09c02ca627eb7f5": {
       "name": "ENS",
@@ -175,4 +175,16 @@
       "name": "Beacon Deposit Contract",
       "tags": [],
     },
+    "0x0de8bf93da2f7eecb3d9169422413a9bef4ef628": {
+      "name": "Coin Tool app",
+      "tags": []
+    },
+    "0xfe50ba7241b635eda23a32875c383a34e8a3596c": {
+      "name": "Centrifuge Chainbridge",
+      "tags": []
+    },
+    "0x1111111254eeb25477b68fb85ed929f73a960582": {
+      "name": "1inch V5",
+      "tags": ["1inch"]
+    }
 };

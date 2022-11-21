@@ -4,6 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

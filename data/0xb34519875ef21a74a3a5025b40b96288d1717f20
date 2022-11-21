@@ -3,6 +3,7 @@
     "moonbird-minter",
     "meebit-minter",
     "goblin-town-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-10kvote"
   ]
 }

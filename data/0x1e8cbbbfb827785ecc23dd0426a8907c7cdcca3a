@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol"
   ]
 }

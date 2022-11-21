@@ -19,6 +19,8 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-1inch",
     "snapshot-voter-gnosis",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-shellprotocol"
   ]
 }

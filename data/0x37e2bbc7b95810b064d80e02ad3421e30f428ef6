@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-olympusdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ]
 }

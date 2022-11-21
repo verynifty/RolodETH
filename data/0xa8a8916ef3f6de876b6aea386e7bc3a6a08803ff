@@ -3,6 +3,7 @@
     "clonex-minter",
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

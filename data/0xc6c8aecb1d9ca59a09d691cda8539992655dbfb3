@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "cryptoadz-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-cow"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-cow",
+    "snapshot-voter-aave"
   ]
 }

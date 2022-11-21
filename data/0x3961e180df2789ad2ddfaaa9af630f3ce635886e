@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-beets",
+    "snapshot-voter-cow"
   ]
 }

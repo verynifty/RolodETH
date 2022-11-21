@@ -3,6 +3,7 @@
     "bayc-minter",
     "mayc-minter",
     "snapshot-voter-cvx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-alchemixstakers"
   ]
 }

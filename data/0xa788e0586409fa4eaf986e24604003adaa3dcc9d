@@ -8,6 +8,7 @@
     "snapshot-voter-8848labs",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

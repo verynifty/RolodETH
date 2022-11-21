@@ -9,6 +9,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-sismo",
     "snapshot-voter-opcollective",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

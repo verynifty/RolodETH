@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-cakevote",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-cow",
+    "snapshot-voter-opcollective"
   ]
 }

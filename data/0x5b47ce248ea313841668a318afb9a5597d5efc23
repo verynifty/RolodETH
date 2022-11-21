@@ -13,6 +13,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "snapshot-voter-benddao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

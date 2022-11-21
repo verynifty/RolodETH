@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-shellprotocol"
   ]
 }

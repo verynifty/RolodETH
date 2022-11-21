@@ -10,6 +10,8 @@
     "snapshot-voter-safe",
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

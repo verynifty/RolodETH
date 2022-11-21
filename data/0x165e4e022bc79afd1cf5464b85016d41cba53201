@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-speraxdao",
     "snapshot-voter-beets",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-olympusdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-sismo"
   ]
 }
