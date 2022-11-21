@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "pudgy-pinguin-minter",
+    "clonex-minter",
+    "wow-minter",
+    "mayc-minter"
   ]
 }

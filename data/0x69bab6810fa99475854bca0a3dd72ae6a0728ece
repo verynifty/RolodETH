@@ -1,5 +1,13 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "bayc-minter",
+    "azuki-minter",
+    "doodle-minter",
+    "cyber-kong-minter",
+    "meebit-minter",
+    "clonex-minter",
+    "otherdeed-minter",
+    "mayc-minter"
   ]
 }

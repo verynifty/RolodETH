@@ -1,5 +1,11 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "moonbird-minter",
+    "coolcat-minter",
+    "cryptoadz-minter",
+    "clonex-minter",
+    "art-goblers-minter",
+    "mayc-minter"
   ]
 }

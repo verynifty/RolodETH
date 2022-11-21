@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "coolcat-minter",
+    "cyber-kong-minter",
+    "otherdeed-minter",
+    "mayc-minter"
   ]
 }

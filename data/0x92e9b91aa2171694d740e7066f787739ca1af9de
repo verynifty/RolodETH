@@ -1,5 +1,14 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "bayc-minter",
+    "azuki-minter",
+    "moonbird-minter",
+    "coolcat-minter",
+    "loot-minter",
+    "goblin-town-minter",
+    "art-goblers-minter",
+    "otherdeed-minter",
+    "mayc-minter"
   ]
 }

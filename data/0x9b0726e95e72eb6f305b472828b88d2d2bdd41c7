@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "azuki-minter",
+    "moonbird-minter",
+    "loot-minter",
+    "otherdeed-minter"
   ]
 }

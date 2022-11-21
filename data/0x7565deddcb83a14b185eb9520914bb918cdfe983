@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "loot-minter",
+    "hashmask-minter",
+    "goblin-town-minter",
+    "otherdeed-minter",
+    "mayc-minter"
   ]
 }

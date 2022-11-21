@@ -1,5 +1,13 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "bayc-minter",
+    "loot-minter",
+    "hashmask-minter",
+    "meebit-minter",
+    "clonex-minter",
+    "wow-minter",
+    "art-goblers-minter",
+    "mayc-minter"
   ]
 }

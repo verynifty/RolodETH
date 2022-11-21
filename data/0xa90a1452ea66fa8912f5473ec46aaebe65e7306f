@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "cryptoadz-minter",
+    "veefriend-minter",
+    "otherdeed-minter",
+    "mayc-minter"
   ]
 }

@@ -1,5 +1,11 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "bayc-minter",
+    "hashmask-minter",
+    "autoglyph-minter",
+    "meebit-minter",
+    "veefriend-minter",
+    "clonex-minter"
   ]
 }

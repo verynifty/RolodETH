@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "pudgy-pinguin-minter",
+    "cyber-kong-minter",
+    "wow-minter",
+    "otherdeed-minter"
   ]
 }

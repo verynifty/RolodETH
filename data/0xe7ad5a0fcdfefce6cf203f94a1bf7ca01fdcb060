@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "hashmask-minter",
+    "clonex-minter",
+    "art-goblers-minter",
+    "otherdeed-minter"
   ]
 }
