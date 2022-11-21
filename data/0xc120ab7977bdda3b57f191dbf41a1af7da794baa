@@ -4,6 +4,7 @@
     "snapshot-voter-threshold",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yam",
-    "snapshot-voter-dfi"
+    "snapshot-voter-dfi",
+    "sudoswap-user"
   ]
 }

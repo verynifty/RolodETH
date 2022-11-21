@@ -6,6 +6,7 @@
     "art-goblers-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-catsproject"
+    "snapshot-voter-catsproject",
+    "sudoswap-user"
   ]
 }

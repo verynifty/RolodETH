@@ -15,6 +15,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "sudoswap-user"
   ]
 }

@@ -8,6 +8,7 @@
     "meebit-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

@@ -17,6 +17,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-beefydao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

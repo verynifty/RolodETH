@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "contract-deployer",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "sudoswap-user"
   ],
   "name": "BaconDAO: Deployer"
 }

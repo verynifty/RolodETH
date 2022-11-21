@@ -7,6 +7,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-stgdao",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "sudoswap-user"
   ]
 }

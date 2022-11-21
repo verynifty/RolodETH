@@ -7,6 +7,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-ens",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "sudoswap-user"
   ]
 }

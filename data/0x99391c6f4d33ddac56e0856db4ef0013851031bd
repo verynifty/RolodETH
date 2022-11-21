@@ -4,6 +4,7 @@
     "top-degen",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "sudoswap-user"
   ]
 }

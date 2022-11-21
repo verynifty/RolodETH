@@ -4,6 +4,7 @@
     "moonbird-minter",
     "cyber-kong-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

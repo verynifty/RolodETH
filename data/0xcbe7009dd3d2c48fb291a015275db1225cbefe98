@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-comp-vote",
     "snapshot-voter-gmx",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "sudoswap-user"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "sudoswap-user"
   ]
 }

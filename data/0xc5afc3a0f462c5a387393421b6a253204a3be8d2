@@ -11,6 +11,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gotchivault",
     "snapshot-voter-krap",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "sudoswap-user"
   ]
 }

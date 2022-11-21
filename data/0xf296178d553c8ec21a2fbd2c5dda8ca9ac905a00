@@ -5,7 +5,8 @@
     "meebit-minter",
     "cryptoadz-minter",
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "sudoswap-user"
   ],
   "name": "dhof"
 }

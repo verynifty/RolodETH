@@ -20,6 +20,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-0xgov",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

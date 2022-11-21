@@ -8,6 +8,7 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

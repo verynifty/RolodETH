@@ -17,6 +17,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gearbox",
     "snapshot-voter-safe",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

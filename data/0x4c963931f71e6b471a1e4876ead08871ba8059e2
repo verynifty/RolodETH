@@ -5,6 +5,7 @@
     "snapshot-voter-beets",
     "snapshot-voter-hakka",
     "snapshot-voter-cow",
-    "snapshot-voter-humandao"
+    "snapshot-voter-humandao",
+    "sudoswap-user"
   ]
 }

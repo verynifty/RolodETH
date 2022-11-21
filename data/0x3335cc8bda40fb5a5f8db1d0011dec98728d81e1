@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "sudoswap-user"
   ]
 }

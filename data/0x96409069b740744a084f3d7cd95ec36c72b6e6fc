@@ -7,6 +7,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-xole",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

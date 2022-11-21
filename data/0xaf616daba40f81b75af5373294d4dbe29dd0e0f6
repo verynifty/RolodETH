@@ -4,6 +4,7 @@
     "top-degen",
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

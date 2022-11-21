@@ -4,6 +4,7 @@
     "snapshot-voter-pitchdeployer",
     "snapshot-voter-frax",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

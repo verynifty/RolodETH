@@ -3,6 +3,7 @@
     "snapshot-voter-interportfinance",
     "snapshot-voter-nyolings",
     "snapshot-voter-gearbox",
-    "snapshot-voter-influenc"
+    "snapshot-voter-influenc",
+    "sudoswap-user"
   ]
 }

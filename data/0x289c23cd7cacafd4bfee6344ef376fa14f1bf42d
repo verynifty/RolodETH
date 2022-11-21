@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-yam",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "sudoswap-user"
   ]
 }

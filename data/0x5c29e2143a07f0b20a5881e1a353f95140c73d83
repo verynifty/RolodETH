@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-lgcryptounicorns"
+    "snapshot-voter-lgcryptounicorns",
+    "sudoswap-user"
   ]
 }

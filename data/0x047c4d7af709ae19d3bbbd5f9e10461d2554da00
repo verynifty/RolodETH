@@ -4,6 +4,7 @@
     "snapshot-voter-arablefinance",
     "snapshot-voter-ocm",
     "snapshot-voter-theheaddao",
-    "snapshot-voter-crypto-corgis"
+    "snapshot-voter-crypto-corgis",
+    "sudoswap-user"
   ]
 }

@@ -3,6 +3,7 @@
     "hashmask-minter",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

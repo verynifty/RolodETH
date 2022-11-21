@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "otherdeed-minter",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "sudoswap-user"
   ]
 }

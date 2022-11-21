@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "coolcat-minter",
-    "pudgy-pinguin-minter"
+    "pudgy-pinguin-minter",
+    "sudoswap-user"
   ]
 }

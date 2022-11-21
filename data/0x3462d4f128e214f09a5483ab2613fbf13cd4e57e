@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "pudgy-pinguin-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "sudoswap-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "mayc-minter",
     "snapshot-voter-sushigov",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

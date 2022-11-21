@@ -4,6 +4,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-daocity",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

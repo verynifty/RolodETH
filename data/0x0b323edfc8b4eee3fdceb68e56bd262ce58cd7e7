@@ -8,6 +8,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

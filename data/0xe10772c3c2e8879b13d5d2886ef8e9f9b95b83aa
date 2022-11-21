@@ -5,6 +5,7 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

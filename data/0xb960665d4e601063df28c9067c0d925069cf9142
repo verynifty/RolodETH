@@ -3,7 +3,8 @@
     "take-action",
     "snapshot-voter-stgdao",
     "snapshot-voter-cow",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ],
   "name": "Multichain Hack Alert 2847"
 }

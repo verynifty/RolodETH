@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "meebit-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "sudoswap-user"
   ]
 }

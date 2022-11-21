@@ -5,6 +5,7 @@
     "snapshot-voter-krausehouse",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

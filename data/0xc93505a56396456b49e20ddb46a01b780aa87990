@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hop",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

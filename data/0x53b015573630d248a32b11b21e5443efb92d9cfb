@@ -11,6 +11,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-badgerdao",
-    "snapshot-voter-doremifasollasi"
+    "snapshot-voter-doremifasollasi",
+    "sudoswap-user"
   ]
 }

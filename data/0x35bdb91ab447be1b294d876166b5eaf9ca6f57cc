@@ -4,6 +4,7 @@
     "moonbird-minter",
     "pudgy-pinguin-minter",
     "art-goblers-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "sudoswap-user"
   ]
 }

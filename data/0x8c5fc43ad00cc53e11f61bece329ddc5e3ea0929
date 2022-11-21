@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "doodle-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "sudoswap-user"
   ]
 }

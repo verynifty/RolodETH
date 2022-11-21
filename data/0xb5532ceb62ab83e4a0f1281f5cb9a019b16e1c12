@@ -4,6 +4,7 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

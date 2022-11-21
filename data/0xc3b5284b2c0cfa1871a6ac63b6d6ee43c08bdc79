@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "sudoswap-user"
   ],
   "name": "BGAN Vault  NFTX ",
   "erc20_symbol": "BGAN",

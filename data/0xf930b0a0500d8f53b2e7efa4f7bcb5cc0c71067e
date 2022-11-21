@@ -3,6 +3,7 @@
     "coolcat-minter",
     "loot-minter",
     "meebit-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "sudoswap-user"
   ]
 }

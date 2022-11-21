@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "art-goblers-minter",
-    "snapshot-voter-fingerprints"
+    "snapshot-voter-fingerprints",
+    "sudoswap-user"
   ]
 }

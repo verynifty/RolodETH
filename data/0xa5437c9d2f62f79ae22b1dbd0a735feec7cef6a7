@@ -3,6 +3,7 @@
     "bayc-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

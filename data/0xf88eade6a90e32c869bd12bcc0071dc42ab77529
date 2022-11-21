@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "sudoswap-user"
   ]
 }

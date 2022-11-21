@@ -5,6 +5,7 @@
     "pudgy-pinguin-minter",
     "cryptoadz-minter",
     "art-goblers-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-1inch",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "sudoswap-user"
   ]
 }

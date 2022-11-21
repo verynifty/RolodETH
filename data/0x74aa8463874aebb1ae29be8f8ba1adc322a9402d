@@ -5,6 +5,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-uniswap",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

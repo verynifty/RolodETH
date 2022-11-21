@@ -4,6 +4,7 @@
     "azuki-minter",
     "moonbird-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

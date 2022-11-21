@@ -5,6 +5,7 @@
     "loot-minter",
     "pudgy-pinguin-minter",
     "meebit-minter",
-    "wow-minter"
+    "wow-minter",
+    "sudoswap-user"
   ]
 }

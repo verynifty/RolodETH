@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-moisave-alliance",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-daocity"
+    "snapshot-voter-daocity",
+    "sudoswap-user"
   ]
 }

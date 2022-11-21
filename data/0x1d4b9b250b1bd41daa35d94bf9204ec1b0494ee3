@@ -4,6 +4,7 @@
     "bayc-minter",
     "meebit-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

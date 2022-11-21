@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-defiall",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "sudoswap-user"
   ]
 }

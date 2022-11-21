@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-yam",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

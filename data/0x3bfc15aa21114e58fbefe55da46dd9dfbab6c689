@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

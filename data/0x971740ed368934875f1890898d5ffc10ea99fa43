@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

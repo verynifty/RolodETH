@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "sudoswap-user"
   ]
 }

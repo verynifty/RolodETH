@@ -5,6 +5,7 @@
     "meebit-minter",
     "top-degen",
     "snapshot-voter-sushigov",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "sudoswap-user"
   ]
 }

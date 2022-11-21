@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "art-goblers-minter",
     "gitcoin-grantee",
-    "snapshot-voter-leagueoflils"
+    "snapshot-voter-leagueoflils",
+    "sudoswap-user"
   ]
 }

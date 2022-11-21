@@ -3,6 +3,7 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

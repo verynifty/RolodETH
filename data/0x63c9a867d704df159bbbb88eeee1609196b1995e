@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "sybil-delegate",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mutantsdao"
+    "snapshot-voter-mutantsdao",
+    "sudoswap-user"
   ],
   "name": "Sybil Delegate: atila_o_huno"
 }

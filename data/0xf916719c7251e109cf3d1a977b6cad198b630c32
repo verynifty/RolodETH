@@ -3,6 +3,7 @@
     "doodle-minter",
     "loot-minter",
     "pudgy-pinguin-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

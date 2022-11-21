@@ -4,6 +4,7 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
-    "snapshot-voter-1doge"
+    "snapshot-voter-1doge",
+    "sudoswap-user"
   ]
 }

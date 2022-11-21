@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "sudoswap-user"
   ]
 }

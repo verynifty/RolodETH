@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "cryptoadz-minter",
     "otherdeed-minter",
-    "snapshot-voter-fingerprints"
+    "snapshot-voter-fingerprints",
+    "sudoswap-user"
   ]
 }

@@ -5,6 +5,7 @@
     "clonex-minter",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
-    "snapshot-voter-yfbeta"
+    "snapshot-voter-yfbeta",
+    "sudoswap-user"
   ]
 }

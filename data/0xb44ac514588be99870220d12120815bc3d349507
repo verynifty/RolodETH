@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-nftfinance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "sudoswap-user"
   ]
 }

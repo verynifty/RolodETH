@@ -1,6 +1,7 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "sudoswap-user"
   ],
   "name": "Infinity Frogs: Deployer"
 }

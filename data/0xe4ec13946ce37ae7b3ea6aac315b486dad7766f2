@@ -11,6 +11,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
     "snapshot-voter-gobblerunion",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

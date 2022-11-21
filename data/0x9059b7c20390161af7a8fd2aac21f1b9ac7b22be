@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "azuki-minter",
-    "hashmask-minter"
+    "hashmask-minter",
+    "sudoswap-user"
   ]
 }

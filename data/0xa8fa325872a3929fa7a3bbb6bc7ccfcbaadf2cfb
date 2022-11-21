@@ -8,6 +8,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

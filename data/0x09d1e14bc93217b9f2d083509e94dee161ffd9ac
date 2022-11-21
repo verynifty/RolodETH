@@ -4,6 +4,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

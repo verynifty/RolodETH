@@ -4,6 +4,7 @@
     "moonbird-minter",
     "coolcat-minter",
     "pudgy-pinguin-minter",
-    "wow-minter"
+    "wow-minter",
+    "sudoswap-user"
   ]
 }

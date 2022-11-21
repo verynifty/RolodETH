@@ -3,6 +3,7 @@
     "moonbird-minter",
     "doodle-minter",
     "cryptoadz-minter",
-    "snapshot-voter-botto"
+    "snapshot-voter-botto",
+    "sudoswap-user"
   ]
 }

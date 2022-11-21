@@ -4,6 +4,7 @@
     "azuki-minter",
     "doodle-minter",
     "hashmask-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

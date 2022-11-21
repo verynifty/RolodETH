@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-vnftpgov",
     "snapshot-voter-gmx",
-    "snapshot-voter-interportfinance"
+    "snapshot-voter-interportfinance",
+    "sudoswap-user"
   ]
 }

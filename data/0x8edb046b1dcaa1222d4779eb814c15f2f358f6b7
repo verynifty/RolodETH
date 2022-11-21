@@ -7,6 +7,7 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "sudoswap-user"
   ]
 }

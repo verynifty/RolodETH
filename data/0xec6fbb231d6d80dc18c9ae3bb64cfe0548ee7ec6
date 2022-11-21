@@ -4,6 +4,7 @@
     "azuki-minter",
     "doodle-minter",
     "goblin-town-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

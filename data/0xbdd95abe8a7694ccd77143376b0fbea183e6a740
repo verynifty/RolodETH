@@ -4,6 +4,7 @@
     "azuki-minter",
     "doodle-minter",
     "art-goblers-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

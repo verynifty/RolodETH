@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-nation3"
+    "snapshot-voter-nation3",
+    "sudoswap-user"
   ]
 }

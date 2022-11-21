@@ -3,6 +3,7 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

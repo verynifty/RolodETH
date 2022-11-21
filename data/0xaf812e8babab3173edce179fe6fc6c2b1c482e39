@@ -5,6 +5,7 @@
     "cryptoadz-minter",
     "goblin-town-minter",
     "art-goblers-minter",
-    "snapshot-voter-beanstalkdao"
+    "snapshot-voter-beanstalkdao",
+    "sudoswap-user"
   ]
 }

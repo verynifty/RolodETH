@@ -4,6 +4,7 @@
     "azuki-minter",
     "moonbird-minter",
     "loot-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

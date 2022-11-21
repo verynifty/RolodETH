@@ -9,6 +9,7 @@
     "snapshot-voter-sushigov",
     "snapshot-voter-build",
     "snapshot-voter-aave",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "sudoswap-user"
   ]
 }

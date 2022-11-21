@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-therandomdao",
     "snapshot-voter-leagueoflils",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

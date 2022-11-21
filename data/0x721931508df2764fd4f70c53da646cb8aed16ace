@@ -6,6 +6,7 @@
     "hashmask-minter",
     "cyber-kong-minter",
     "meebit-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "sudoswap-user"
   ]
 }

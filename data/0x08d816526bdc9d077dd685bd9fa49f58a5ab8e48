@@ -7,6 +7,7 @@
     "loot-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

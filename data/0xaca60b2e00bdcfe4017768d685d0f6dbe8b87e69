@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-huwacoin",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "sudoswap-user"
   ]
 }

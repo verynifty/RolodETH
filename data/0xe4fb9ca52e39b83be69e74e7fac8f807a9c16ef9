@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

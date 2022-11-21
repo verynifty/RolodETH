@@ -3,6 +3,7 @@
     "azuki-minter",
     "doodle-minter",
     "pudgy-pinguin-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

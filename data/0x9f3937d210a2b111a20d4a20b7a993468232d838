@@ -4,6 +4,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "sudoswap-user"
   ]
 }

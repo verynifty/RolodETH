@@ -6,6 +6,7 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-rugcommunity"
+    "snapshot-voter-rugcommunity",
+    "sudoswap-user"
   ]
 }

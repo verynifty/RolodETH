@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

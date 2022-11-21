@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "sudoswap-user"
   ]
 }

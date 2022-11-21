@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "loot-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "sudoswap-user"
   ]
 }

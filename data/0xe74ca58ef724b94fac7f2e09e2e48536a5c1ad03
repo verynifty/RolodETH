@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "meebit-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

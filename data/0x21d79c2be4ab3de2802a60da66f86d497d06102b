@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
     "snapshot-voter-uwucrew",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

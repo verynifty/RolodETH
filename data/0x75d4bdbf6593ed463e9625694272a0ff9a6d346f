@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "art-goblers-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "sudoswap-user"
   ],
   "name": "0xmons: Deployer"
 }

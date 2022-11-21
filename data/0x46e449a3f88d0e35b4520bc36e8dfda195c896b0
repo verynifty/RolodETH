@@ -10,6 +10,7 @@
     "clonex-minter",
     "goblin-town-minter",
     "art-goblers-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

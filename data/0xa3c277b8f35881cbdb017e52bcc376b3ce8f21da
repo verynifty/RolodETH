@@ -4,7 +4,8 @@
     "moonbird-minter",
     "meebit-minter",
     "take-action",
-    "snapshot-voter-lgcryptounicorns"
+    "snapshot-voter-lgcryptounicorns",
+    "sudoswap-user"
   ],
   "name": "Multichain Hack Alert 691"
 }

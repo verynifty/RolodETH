@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

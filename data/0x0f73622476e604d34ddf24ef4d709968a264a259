@@ -4,6 +4,7 @@
     "wow-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-justsomedao"
+    "snapshot-voter-justsomedao",
+    "sudoswap-user"
   ]
 }

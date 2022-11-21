@@ -5,6 +5,7 @@
     "pudgy-pinguin-minter",
     "clonex-minter",
     "mayc-minter",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

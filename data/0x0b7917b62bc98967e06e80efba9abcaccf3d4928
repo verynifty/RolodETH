@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "coolcat-minter",
     "loot-minter",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

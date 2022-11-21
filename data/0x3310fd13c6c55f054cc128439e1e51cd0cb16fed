@@ -4,6 +4,7 @@
     "azuki-minter",
     "moonbird-minter",
     "otherdeed-minter",
-    "snapshot-voter-krap"
+    "snapshot-voter-krap",
+    "sudoswap-user"
   ]
 }

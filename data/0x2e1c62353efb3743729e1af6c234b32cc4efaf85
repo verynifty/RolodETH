@@ -6,6 +6,7 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-goldfinch",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "sudoswap-user"
   ]
 }

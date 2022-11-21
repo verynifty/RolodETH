@@ -6,6 +6,7 @@
     "hashmask-minter",
     "autoglyph-minter",
     "meebit-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

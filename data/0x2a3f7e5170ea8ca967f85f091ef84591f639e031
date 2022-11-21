@@ -4,6 +4,7 @@
     "hashmask-minter",
     "autoglyph-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

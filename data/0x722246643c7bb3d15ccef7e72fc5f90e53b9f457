@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-xole"
+    "snapshot-voter-xole",
+    "sudoswap-user"
   ]
 }

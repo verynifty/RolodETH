@@ -3,6 +3,7 @@
     "cyber-kong-minter",
     "meebit-minter",
     "cryptoadz-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "sudoswap-user"
   ]
 }

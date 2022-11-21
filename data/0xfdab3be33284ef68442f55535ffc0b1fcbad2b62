@@ -10,6 +10,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-nftfinance",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

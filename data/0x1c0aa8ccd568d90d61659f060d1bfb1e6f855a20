@@ -5,7 +5,8 @@
     "writer",
     "snapshot-voter-lao",
     "snapshot-voter-anjmol",
-    "snapshot-voter-lexdao"
+    "snapshot-voter-lexdao",
+    "sudoswap-user"
   ],
   "name": "SushiSwap: Deployer 1"
 }

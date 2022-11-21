@@ -4,6 +4,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-gal",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

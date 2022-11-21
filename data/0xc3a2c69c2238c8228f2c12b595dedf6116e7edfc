@@ -1,7 +1,8 @@
 {
   "tags": [
     "art-goblers-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "sudoswap-user"
   ],
   "name": "The Tweet DAO: Deployer"
 }

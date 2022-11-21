@@ -5,6 +5,7 @@
     "azuki-minter",
     "pudgy-pinguin-minter",
     "cyber-kong-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

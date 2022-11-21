@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

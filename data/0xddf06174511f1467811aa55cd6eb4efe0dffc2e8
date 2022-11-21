@@ -4,6 +4,7 @@
     "hashmask-minter",
     "wow-minter",
     "snapshot-voter-dopedao",
-    "snapshot-voter-swerve"
+    "snapshot-voter-swerve",
+    "sudoswap-user"
   ]
 }

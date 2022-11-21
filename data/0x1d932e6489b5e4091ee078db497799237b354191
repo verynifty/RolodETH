@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-silofinance",
-    "snapshot-voter-vote-hopr"
+    "snapshot-voter-vote-hopr",
+    "sudoswap-user"
   ]
 }

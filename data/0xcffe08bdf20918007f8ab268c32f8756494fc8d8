@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "gitcoin-grantee",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

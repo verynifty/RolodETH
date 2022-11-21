@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-beanstalkdao"
+    "snapshot-voter-beanstalkdao",
+    "sudoswap-user"
   ]
 }

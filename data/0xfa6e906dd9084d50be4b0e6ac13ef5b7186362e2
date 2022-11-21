@@ -11,6 +11,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "sudoswap-user"
   ]
 }

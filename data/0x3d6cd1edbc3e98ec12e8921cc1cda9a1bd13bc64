@@ -5,6 +5,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "sudoswap-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-600274",
     "snapshot-voter-yokaiswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

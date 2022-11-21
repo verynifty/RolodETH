@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "pudgy-pinguin-minter",
     "clonex-minter",
-    "wow-minter"
+    "wow-minter",
+    "sudoswap-user"
   ]
 }

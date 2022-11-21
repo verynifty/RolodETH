@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-banklessvault",
     "snapshot-voter-friendswithbenefits",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

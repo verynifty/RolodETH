@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "sudoswap-user"
   ]
 }

@@ -4,6 +4,7 @@
     "clonex-minter",
     "snapshot-voter-piedao",
     "snapshot-voter-yearn",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

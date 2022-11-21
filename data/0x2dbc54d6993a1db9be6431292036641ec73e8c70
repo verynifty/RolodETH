@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "sudoswap-user"
   ]
 }

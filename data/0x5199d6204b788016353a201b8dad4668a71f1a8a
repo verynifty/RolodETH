@@ -3,6 +3,7 @@
     "azuki-minter",
     "doodle-minter",
     "cryptoadz-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

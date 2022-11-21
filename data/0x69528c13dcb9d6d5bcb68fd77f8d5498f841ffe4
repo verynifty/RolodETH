@@ -4,7 +4,8 @@
     "take-action",
     "snapshot-voter-stgdao",
     "snapshot-voter-jbdao",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "sudoswap-user"
   ],
   "name": "Multichain Hack Alert 499"
 }

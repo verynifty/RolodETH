@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-o3dao"
+    "snapshot-voter-o3dao",
+    "sudoswap-user"
   ]
 }

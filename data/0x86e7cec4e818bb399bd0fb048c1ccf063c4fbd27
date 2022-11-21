@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-pancake"
+    "snapshot-voter-pancake",
+    "sudoswap-user"
   ]
 }

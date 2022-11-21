@@ -4,6 +4,7 @@
     "meebit-minter",
     "sybil-delegate",
     "snapshot-voter-balancer",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "sudoswap-user"
   ]
 }

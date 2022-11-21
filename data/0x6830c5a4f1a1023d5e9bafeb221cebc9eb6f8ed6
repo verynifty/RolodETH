@@ -3,7 +3,8 @@
     "otherdeed-minter",
     "take-action",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ],
   "name": "Multichain Hack Alert 2992"
 }

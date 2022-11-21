@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "cryptoadz-minter",
     "goblin-town-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

@@ -4,6 +4,7 @@
     "bayc-minter",
     "doodle-minter",
     "coolcat-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "sudoswap-user"
   ]
 }

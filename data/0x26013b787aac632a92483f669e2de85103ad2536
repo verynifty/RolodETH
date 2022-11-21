@@ -6,6 +6,7 @@
     "loot-minter",
     "cryptoadz-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

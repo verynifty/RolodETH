@@ -3,6 +3,7 @@
     "goblin-town-minter",
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "sudoswap-user"
   ]
 }

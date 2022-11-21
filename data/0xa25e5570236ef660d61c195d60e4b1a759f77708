@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-toubazi",
     "snapshot-voter-gal",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "sudoswap-user"
   ]
 }

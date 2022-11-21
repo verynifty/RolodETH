@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "sudoswap-user"
   ]
 }

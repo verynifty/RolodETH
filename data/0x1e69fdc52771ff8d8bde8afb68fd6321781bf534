@@ -3,6 +3,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-opcollective",
     "snapshot-voter-daocity",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "sudoswap-user"
   ]
 }

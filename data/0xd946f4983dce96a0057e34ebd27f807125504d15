@@ -6,6 +6,7 @@
     "cryptoadz-minter",
     "clonex-minter",
     "mayc-minter",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "sudoswap-user"
   ]
 }

@@ -3,6 +3,7 @@
     "loot-minter",
     "hashmask-minter",
     "meebit-minter",
-    "snapshot-voter-lgcryptounicorns"
+    "snapshot-voter-lgcryptounicorns",
+    "sudoswap-user"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

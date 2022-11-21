@@ -8,6 +8,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

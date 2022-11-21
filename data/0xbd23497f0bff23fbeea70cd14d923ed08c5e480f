@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-xiaowukong"
+    "snapshot-voter-xiaowukong",
+    "sudoswap-user"
   ]
 }

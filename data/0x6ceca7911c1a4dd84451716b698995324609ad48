@@ -4,6 +4,7 @@
     "moonbird-minter",
     "doodle-minter",
     "cryptoadz-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

@@ -3,7 +3,8 @@
     "hashmask-minter",
     "mayc-minter",
     "gitcoin-grantee",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ],
   "name": "Gitcoin Grants: TensorTrade"
 }

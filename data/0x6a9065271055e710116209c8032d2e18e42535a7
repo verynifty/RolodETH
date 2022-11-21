@@ -3,6 +3,7 @@
     "moonbird-minter",
     "otherdeed-minter",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

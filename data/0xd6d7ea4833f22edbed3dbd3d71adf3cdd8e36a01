@@ -4,6 +4,7 @@
     "hashmask-minter",
     "cryptoadz-minter",
     "snapshot-voter-yearn",
-    "snapshot-voter-swerve"
+    "snapshot-voter-swerve",
+    "sudoswap-user"
   ]
 }

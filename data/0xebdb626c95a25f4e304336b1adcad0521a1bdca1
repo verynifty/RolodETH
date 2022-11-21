@@ -3,7 +3,8 @@
     "loot-minter",
     "hashmask-minter",
     "gitcoin-grantee",
-    "top-degen"
+    "top-degen",
+    "sudoswap-user"
   ],
   "name": "Defiprime : Donate"
 }

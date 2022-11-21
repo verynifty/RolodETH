@@ -5,6 +5,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

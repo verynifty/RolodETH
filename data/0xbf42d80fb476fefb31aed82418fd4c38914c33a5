@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-serta",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "sudoswap-user"
   ]
 }

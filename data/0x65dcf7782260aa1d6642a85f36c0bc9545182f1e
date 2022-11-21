@@ -4,6 +4,7 @@
     "azuki-minter",
     "goblin-town-minter",
     "otherdeed-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

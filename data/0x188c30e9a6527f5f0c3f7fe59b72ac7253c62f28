@@ -10,6 +10,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-sushigov",
     "snapshot-voter-yearn",
-    "snapshot-voter-rarible"
+    "snapshot-voter-rarible",
+    "sudoswap-user"
   ]
 }

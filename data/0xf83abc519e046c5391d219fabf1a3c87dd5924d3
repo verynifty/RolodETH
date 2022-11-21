@@ -6,6 +6,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "sudoswap-user"
   ]
 }

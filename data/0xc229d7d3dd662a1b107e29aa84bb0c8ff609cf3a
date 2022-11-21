@@ -5,6 +5,7 @@
     "hashmask-minter",
     "meebit-minter",
     "cryptoadz-minter",
-    "wow-minter"
+    "wow-minter",
+    "sudoswap-user"
   ]
 }

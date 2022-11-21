@@ -4,6 +4,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-stgdao",
-    "snapshot-voter-catblox"
+    "snapshot-voter-catblox",
+    "sudoswap-user"
   ]
 }

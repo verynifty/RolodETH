@@ -5,6 +5,7 @@
     "art-goblers-minter",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-0xgov"
+    "snapshot-voter-0xgov",
+    "sudoswap-user"
   ]
 }

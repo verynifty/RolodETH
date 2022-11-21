@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "sudoswap-user"
   ]
 }

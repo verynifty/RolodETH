@@ -5,6 +5,7 @@
     "hashmask-minter",
     "meebit-minter",
     "mayc-minter",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "sudoswap-user"
   ]
 }

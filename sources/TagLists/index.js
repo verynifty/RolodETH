@@ -8,7 +8,9 @@ function TagList(tagname) {
 
 TagList.prototype.addTo = async function (RolodETH, fromBlock = 0, toBlock = "latest") {
     let t = require("./" + this.tagname)
-    console.log(t)
+    for (const address of t) {
+        RolodETH.addTag(address, this.tagname)
+    }
 }
 
 module.exports = TagList;

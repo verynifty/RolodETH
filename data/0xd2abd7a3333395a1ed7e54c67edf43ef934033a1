@@ -4,6 +4,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

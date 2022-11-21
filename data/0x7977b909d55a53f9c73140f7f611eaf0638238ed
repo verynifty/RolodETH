@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "sudoswap-user"
   ]
 }

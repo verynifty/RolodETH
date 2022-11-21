@@ -6,6 +6,7 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "sudoswap-user"
   ]
 }

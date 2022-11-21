@@ -6,6 +6,7 @@
     "pudgy-pinguin-minter",
     "hashmask-minter",
     "clonex-minter",
-    "wow-minter"
+    "wow-minter",
+    "sudoswap-user"
   ]
 }

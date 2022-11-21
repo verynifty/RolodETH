@@ -4,6 +4,7 @@
     "azuki-minter",
     "coolcat-minter",
     "hashmask-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

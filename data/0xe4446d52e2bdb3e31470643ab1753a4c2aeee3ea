@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "loot-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }

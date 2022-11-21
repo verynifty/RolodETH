@@ -12,6 +12,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "sudoswap-user"
   ]
 }
