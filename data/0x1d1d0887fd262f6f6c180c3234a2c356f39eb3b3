@@ -4,6 +4,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-safe",
+    "snapshot-voter-lido-snapshot"
   ]
 }

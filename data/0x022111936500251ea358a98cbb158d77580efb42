@@ -9,6 +9,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-sismo"
   ]
 }

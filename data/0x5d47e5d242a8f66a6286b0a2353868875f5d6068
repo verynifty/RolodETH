@@ -10,6 +10,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-piedao",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ]
 }

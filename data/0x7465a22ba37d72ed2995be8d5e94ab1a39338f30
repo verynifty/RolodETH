@@ -4,6 +4,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-hop",
     "snapshot-voter-gal",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-vote-perp",
+    "snapshot-voter-opcollective"
   ]
 }

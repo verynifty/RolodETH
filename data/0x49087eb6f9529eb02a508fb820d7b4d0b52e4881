@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-pooltogether",
     "snapshot-voter-zerozero",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-sismo"
   ]
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-balancer",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-vestafinance"
   ]
 }

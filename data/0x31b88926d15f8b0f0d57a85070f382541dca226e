@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-sismo"
   ]
 }

@@ -15,6 +15,7 @@
     "snapshot-voter-bullsontheblock",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

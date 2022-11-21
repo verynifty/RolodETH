@@ -4,6 +4,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-sismo"
   ]
 }

@@ -11,6 +11,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-derify",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ]
 }

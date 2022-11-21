@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-poh",
-    "snapshot-voter-elfork"
+    "snapshot-voter-elfork",
+    "snapshot-voter-tomasmika"
   ]
 }

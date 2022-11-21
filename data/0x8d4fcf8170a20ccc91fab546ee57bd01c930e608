@@ -11,6 +11,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-stgdao",
     "snapshot-voter-lkcup",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

@@ -13,6 +13,8 @@ const UniswapPairsList = new UniswapTokenList("https://raw.githubusercontent.com
 
 const MyEtherWalletDarkListLabels = new JSONImporter("https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/addresses/addresses-darklist.json");
 const estherscanLabels = new JSONImporter("https://raw.githubusercontent.com/brianleect/etherscan-labels/main/combined/combinedLabels.json");
+const GrandsMarquisManualLabels = new JSONImporter("https://raw.githubusercontent.com/verynifty/RolodETH/main/sources/JSONImporter/grandsmarquis.json");
+
 const OS = new OpenSeaAPI();
 const Reservoir = new reservoir();
 const snapshotvoting = new SnapshotVoting()
@@ -63,6 +65,8 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await GrandsMarquisManualLabels.addTo(RolodETH);
+return
     await snapshotvoting.addTo(RolodETH);
     //await Reservoir.addTo(RolodETH);
     return;

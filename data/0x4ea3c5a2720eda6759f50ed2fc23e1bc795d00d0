@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-doremifasollasi",
+    "snapshot-voter-sismo"
   ]
 }

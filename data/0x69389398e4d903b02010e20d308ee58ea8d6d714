@@ -15,6 +15,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-1inch",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-sismo"
   ]
 }

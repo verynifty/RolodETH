@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-apecoin",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sismo"
   ]
 }

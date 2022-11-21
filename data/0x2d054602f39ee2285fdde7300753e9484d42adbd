@@ -8,6 +8,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gal",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-pooltogether"
   ]
 }

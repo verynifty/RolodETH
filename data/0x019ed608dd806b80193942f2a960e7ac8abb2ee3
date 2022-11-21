@@ -4,6 +4,8 @@
     "clonex-minter",
     "snapshot-voter-decentralgames",
     "snapshot-voter-gal",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-daocity",
+    "snapshot-voter-banklessvault"
   ]
 }

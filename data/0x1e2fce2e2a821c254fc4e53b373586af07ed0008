@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-aave",
     "snapshot-voter-gauge-rbn",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-vestafinance"
   ]
 }

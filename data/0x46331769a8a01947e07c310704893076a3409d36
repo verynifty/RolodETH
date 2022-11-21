@@ -8,6 +8,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-stgdao",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-8848labs"
   ]
 }
