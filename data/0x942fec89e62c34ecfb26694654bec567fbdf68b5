@@ -6,6 +6,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-10kvote",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

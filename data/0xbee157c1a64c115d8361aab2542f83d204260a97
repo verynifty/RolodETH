@@ -4,6 +4,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "opensea-user"
   ]
 }

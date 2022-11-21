@@ -3,6 +3,7 @@
     "bayc-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

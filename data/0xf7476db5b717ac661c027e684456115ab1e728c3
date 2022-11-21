@@ -2,7 +2,8 @@
   "tags": [
     "moonbird-minter",
     "loot-minter",
-    "sybil-delegate"
+    "sybil-delegate",
+    "opensea-user"
   ],
   "name": "Sybil Delegate: MirageLight"
 }

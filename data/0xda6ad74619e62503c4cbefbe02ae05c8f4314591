@@ -4,6 +4,7 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "meebit-minter"
+    "meebit-minter",
+    "opensea-user"
   ]
 }

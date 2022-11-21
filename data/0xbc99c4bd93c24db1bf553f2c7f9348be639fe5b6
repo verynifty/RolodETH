@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-krausehouse",
     "snapshot-voter-o3dao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

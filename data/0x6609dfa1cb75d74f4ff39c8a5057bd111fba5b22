@@ -3,6 +3,7 @@
     "loot-minter",
     "goblin-town-minter",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

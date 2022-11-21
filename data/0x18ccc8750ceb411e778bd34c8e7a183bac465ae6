@@ -3,6 +3,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-pistachiodao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

@@ -13,6 +13,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

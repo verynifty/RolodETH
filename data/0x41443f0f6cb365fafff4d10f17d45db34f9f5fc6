@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-frax",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

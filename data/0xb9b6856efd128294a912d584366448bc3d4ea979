@@ -3,7 +3,8 @@
     "doodle-minter",
     "cyber-kong-minter",
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "DystoPunks: Deployer"
 }

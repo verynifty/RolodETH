@@ -6,6 +6,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

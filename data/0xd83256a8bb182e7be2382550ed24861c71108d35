@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-rarible",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

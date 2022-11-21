@@ -4,6 +4,7 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "clonex-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

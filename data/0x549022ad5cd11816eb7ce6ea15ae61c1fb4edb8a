@@ -3,6 +3,7 @@
     "azuki-minter",
     "wow-minter",
     "mayc-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "opensea-user"
   ]
 }

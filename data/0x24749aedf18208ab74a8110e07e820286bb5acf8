@@ -17,6 +17,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gnosis",
     "snapshot-voter-hop",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

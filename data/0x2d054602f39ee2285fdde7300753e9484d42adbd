@@ -12,6 +12,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

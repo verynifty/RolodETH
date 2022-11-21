@@ -5,6 +5,7 @@
     "snapshot-voter-blockhubdao",
     "snapshot-voter-gotchivault",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
     "snapshot-voter-etherscoredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

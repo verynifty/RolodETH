@@ -7,6 +7,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

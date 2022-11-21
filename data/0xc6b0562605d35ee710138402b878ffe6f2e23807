@@ -3,7 +3,8 @@
     "moonbird-minter",
     "veefriend-minter",
     "beeple",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Beeple"
 }

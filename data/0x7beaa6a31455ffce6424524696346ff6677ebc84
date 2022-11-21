@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "loot-minter",
     "pudgy-pinguin-minter",
-    "cryptoadz-minter"
+    "cryptoadz-minter",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-gnosis",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "opensea-user"
   ]
 }

@@ -6,7 +6,8 @@
     "clonex-minter",
     "art-goblers-minter",
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Ukraine DAO: Deployer"
 }

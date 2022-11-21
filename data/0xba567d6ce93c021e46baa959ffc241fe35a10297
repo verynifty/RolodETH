@@ -4,6 +4,7 @@
     "moonbird-minter",
     "coolcat-minter",
     "loot-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-nftfinance",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

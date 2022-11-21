@@ -3,6 +3,7 @@
     "hashmask-minter",
     "mayc-minter",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

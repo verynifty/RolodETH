@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-jpeg’d",
-    "snapshot-voter-benddao"
+    "snapshot-voter-benddao",
+    "opensea-user"
   ]
 }

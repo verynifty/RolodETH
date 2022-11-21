@@ -1,7 +1,8 @@
 {
   "tags": [
     "clonex-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Cityroots DAO: Deployer"
 }

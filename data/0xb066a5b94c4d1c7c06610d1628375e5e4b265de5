@@ -3,6 +3,7 @@
     "bayc-minter",
     "moonbird-minter",
     "doodle-minter",
-    "wow-minter"
+    "wow-minter",
+    "opensea-user"
   ]
 }

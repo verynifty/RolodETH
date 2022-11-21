@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "clonex-minter",
     "otherdeed-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Shilladel Pass: Deployer"
 }

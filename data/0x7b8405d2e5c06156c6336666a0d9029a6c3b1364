@@ -3,7 +3,8 @@
     "hashmask-minter",
     "meebit-minter",
     "contract-deployer",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "opensea-user"
   ],
   "name": "Gitcoin Grants: NonFunGerbils"
 }

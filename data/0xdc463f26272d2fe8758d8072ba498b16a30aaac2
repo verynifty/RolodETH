@@ -3,7 +3,8 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Sleeper Hits Collection Volume 1: Deployer"
 }

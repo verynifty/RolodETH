@@ -11,6 +11,7 @@
     "snapshot-voter-sushigov",
     "snapshot-voter-yearn",
     "snapshot-voter-rarible",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

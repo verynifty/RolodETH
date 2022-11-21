@@ -3,6 +3,7 @@
     "azuki-minter",
     "cryptoadz-minter",
     "art-goblers-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

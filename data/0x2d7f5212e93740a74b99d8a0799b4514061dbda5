@@ -4,6 +4,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

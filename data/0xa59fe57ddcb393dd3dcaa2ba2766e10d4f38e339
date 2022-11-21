@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "cyber-kong-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

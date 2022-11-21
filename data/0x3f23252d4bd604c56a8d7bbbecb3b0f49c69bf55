@@ -4,6 +4,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

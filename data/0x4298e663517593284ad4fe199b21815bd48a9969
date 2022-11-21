@@ -6,6 +6,7 @@
     "meebit-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "opensea-user"
   ]
 }

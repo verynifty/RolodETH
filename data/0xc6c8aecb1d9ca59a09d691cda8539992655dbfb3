@@ -4,6 +4,7 @@
     "cryptoadz-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-cow",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

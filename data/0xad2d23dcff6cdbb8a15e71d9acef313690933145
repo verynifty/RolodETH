@@ -6,6 +6,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "opensea-user"
   ]
 }

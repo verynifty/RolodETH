@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "snapshot-voter-gnars"
+    "snapshot-voter-gnars",
+    "opensea-user"
   ],
   "name": "ART HAUS: Deployer"
 }

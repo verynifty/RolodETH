@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-yokaiswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

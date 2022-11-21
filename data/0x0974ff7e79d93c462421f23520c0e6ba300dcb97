@@ -3,7 +3,8 @@
     "pudgy-pinguin-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "AIA: Deployer"
 }

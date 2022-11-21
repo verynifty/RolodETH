@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

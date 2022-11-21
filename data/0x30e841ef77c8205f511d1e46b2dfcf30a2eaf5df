@@ -1,7 +1,8 @@
 {
   "tags": [
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Crazy Lemur Club: Deployer"
 }

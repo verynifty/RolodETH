@@ -7,6 +7,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

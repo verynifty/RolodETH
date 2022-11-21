@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-speraxdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

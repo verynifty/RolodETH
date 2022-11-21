@@ -3,6 +3,7 @@
     "snapshot-voter-dropsdao",
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "opensea-user"
   ]
 }

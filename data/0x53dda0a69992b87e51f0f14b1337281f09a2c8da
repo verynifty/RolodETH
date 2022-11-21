@@ -5,6 +5,7 @@
     "cyber-kong-minter",
     "meebit-minter",
     "wow-minter",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

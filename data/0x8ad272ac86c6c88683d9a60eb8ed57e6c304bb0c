@@ -4,6 +4,7 @@
     "clonex-minter",
     "art-goblers-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

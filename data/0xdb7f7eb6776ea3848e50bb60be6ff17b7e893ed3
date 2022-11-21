@@ -3,6 +3,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-aave",
     "snapshot-voter-goldfinch",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "opensea-user"
   ]
 }

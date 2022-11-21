@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-people-dao",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "opensea-user"
   ]
 }

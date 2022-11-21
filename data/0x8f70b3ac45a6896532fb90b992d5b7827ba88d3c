@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "pudgy-pinguin-minter",
     "hashmask-minter",
-    "top-degen"
+    "top-degen",
+    "opensea-user"
   ]
 }

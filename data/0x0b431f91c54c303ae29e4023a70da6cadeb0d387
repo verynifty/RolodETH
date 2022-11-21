@@ -3,6 +3,7 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

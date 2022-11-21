@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "snapshot-voter-banklessvault",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-unlock-protocol"
+    "snapshot-voter-unlock-protocol",
+    "opensea-user"
   ]
 }

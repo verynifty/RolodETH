@@ -3,6 +3,7 @@
     "snapshot-voter-eliteness",
     "snapshot-voter-spiritswap",
     "snapshot-voter-maiadao",
-    "snapshot-voter-beets"
+    "snapshot-voter-beets",
+    "opensea-user"
   ]
 }

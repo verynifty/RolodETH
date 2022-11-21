@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-sismo",
     "snapshot-voter-yam",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

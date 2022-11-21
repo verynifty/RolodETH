@@ -5,6 +5,7 @@
     "mayc-minter",
     "snapshot-voter-apecoin",
     "snapshot-voter-balancer",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

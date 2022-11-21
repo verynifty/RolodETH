@@ -6,6 +6,7 @@
     "snapshot-voter-synthereum",
     "snapshot-voter-beets",
     "snapshot-voter-stgdao",
-    "snapshot-voter-dforcenet"
+    "snapshot-voter-dforcenet",
+    "opensea-user"
   ]
 }

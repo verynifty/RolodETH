@@ -6,6 +6,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-doremifasollasi",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

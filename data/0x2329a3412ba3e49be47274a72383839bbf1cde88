@@ -5,6 +5,7 @@
     "clonex-minter",
     "goblin-town-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

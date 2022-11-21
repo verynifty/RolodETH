@@ -6,6 +6,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-decentralgames",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-daocity",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "opensea-user"
   ]
 }

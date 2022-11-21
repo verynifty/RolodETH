@@ -5,6 +5,7 @@
     "hashmask-minter",
     "clonex-minter",
     "goblin-town-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

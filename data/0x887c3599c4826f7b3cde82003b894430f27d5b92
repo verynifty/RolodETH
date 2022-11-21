@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-piedao",
     "snapshot-voter-cvx",
-    "snapshot-voter-staking-idlefinance"
+    "snapshot-voter-staking-idlefinance",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-koba777"
+    "snapshot-voter-koba777",
+    "opensea-user"
   ]
 }

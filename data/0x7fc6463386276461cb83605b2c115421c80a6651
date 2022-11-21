@@ -3,6 +3,7 @@
     "bayc-minter",
     "coolcat-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

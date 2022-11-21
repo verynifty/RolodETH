@@ -7,6 +7,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-daocity",
     "snapshot-voter-lkcup",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "opensea-user"
   ]
 }

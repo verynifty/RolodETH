@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-0xgov",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

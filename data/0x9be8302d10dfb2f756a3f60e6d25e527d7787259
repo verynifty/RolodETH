@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-ens",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "opensea-user"
   ]
 }

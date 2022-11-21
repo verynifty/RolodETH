@@ -8,6 +8,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-pooltogether",
     "snapshot-voter-apecoin",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

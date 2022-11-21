@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "pudgy-pinguin-minter",
     "wow-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

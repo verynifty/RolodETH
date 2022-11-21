@@ -3,6 +3,7 @@
     "bayc-minter",
     "meebit-minter",
     "snapshot-voter-gearbox",
-    "snapshot-voter-dopedao"
+    "snapshot-voter-dopedao",
+    "opensea-user"
   ]
 }

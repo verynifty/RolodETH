@@ -3,6 +3,7 @@
     "moonbird-minter",
     "loot-minter",
     "otherdeed-minter",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-baebaecafe",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

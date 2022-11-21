@@ -6,6 +6,7 @@
     "wow-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-metabrewsociety"
+    "snapshot-voter-metabrewsociety",
+    "opensea-user"
   ]
 }

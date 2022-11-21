@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "Regulars: Deployer"
 }

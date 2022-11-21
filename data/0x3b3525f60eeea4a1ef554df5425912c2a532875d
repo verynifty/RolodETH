@@ -4,6 +4,7 @@
     "loot-minter",
     "writer",
     "snapshot-voter-ens",
-    "snapshot-voter-dirtxyz"
+    "snapshot-voter-dirtxyz",
+    "opensea-user"
   ]
 }

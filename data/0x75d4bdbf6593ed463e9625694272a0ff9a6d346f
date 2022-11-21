@@ -4,7 +4,8 @@
     "hashmask-minter",
     "art-goblers-minter",
     "contract-deployer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "0xmons: Deployer"
 }

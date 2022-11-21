@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "doodle-minter",
     "cryptoadz-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

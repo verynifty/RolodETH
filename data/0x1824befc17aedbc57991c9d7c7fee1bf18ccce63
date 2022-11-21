@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-daocity",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "opensea-user"
   ]
 }

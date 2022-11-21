@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cow",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

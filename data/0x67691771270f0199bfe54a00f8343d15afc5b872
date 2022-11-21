@@ -4,6 +4,7 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "snapshot-voter-gmx",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

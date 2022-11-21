@@ -4,6 +4,7 @@
     "moonbird-minter",
     "meebit-minter",
     "mayc-minter",
-    "snapshot-voter-foundersdao"
+    "snapshot-voter-foundersdao",
+    "opensea-user"
   ]
 }

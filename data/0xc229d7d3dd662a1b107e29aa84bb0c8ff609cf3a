@@ -6,6 +6,7 @@
     "meebit-minter",
     "cryptoadz-minter",
     "wow-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-elfi",
     "snapshot-voter-friendswithbenefits",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

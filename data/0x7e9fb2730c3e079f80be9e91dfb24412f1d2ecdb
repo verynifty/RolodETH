@@ -4,6 +4,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "opensea-user"
   ]
 }

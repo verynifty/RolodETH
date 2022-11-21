@@ -3,6 +3,7 @@
     "moonbird-minter",
     "otherdeed-minter",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

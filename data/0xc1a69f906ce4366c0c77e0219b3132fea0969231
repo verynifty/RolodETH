@@ -3,6 +3,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-index-coop",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "opensea-user"
   ]
 }

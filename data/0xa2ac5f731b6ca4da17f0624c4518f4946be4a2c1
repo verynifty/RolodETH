@@ -3,6 +3,7 @@
     "moonbird-minter",
     "coolcat-minter",
     "clonex-minter",
-    "wow-minter"
+    "wow-minter",
+    "opensea-user"
   ]
 }

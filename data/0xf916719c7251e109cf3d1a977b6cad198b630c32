@@ -4,6 +4,7 @@
     "loot-minter",
     "pudgy-pinguin-minter",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

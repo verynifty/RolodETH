@@ -5,6 +5,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-qidao",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "opensea-user"
   ]
 }

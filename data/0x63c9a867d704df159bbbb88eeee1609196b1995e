@@ -4,7 +4,8 @@
     "sybil-delegate",
     "snapshot-voter-stgdao",
     "snapshot-voter-mutantsdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "Sybil Delegate: atila_o_huno"
 }

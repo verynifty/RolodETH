@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
     "snapshot-voter-zerozero",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

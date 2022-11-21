@@ -3,6 +3,7 @@
     "snapshot-voter-decentralgames",
     "snapshot-voter-stgdao",
     "snapshot-voter-genart-dao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

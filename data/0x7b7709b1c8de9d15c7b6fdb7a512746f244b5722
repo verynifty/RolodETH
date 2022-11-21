@@ -3,6 +3,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

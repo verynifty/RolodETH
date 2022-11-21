@@ -1,7 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "MetaFactory: Deployer"
 }

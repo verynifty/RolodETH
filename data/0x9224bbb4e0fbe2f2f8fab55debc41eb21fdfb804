@@ -6,6 +6,7 @@
     "top-degen",
     "snapshot-voter-sushigov",
     "snapshot-voter-yam",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

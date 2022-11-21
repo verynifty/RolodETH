@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "opensea-user"
   ]
 }

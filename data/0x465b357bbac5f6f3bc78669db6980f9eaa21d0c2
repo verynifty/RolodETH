@@ -2,6 +2,7 @@
   "tags": [
     "hashmask-minter",
     "snapshot-voter",
-    "snapshot-voter-yflink"
+    "snapshot-voter-yflink",
+    "opensea-user"
   ]
 }

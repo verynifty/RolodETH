@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "nft"
+    "nft",
+    "opensea-user"
   ],
   "name": "KnownOrigin: Admin"
 }

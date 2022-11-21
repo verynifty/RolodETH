@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "snapshot-voter-index-coop",
-    "snapshot-voter-sharkdao"
+    "snapshot-voter-sharkdao",
+    "opensea-user"
   ]
 }

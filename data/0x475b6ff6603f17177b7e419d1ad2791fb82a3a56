@@ -3,6 +3,7 @@
     "loot-minter",
     "snapshot-voter-aave",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "opensea-user"
   ]
 }

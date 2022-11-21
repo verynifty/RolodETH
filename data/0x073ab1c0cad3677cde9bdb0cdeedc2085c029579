@@ -3,7 +3,8 @@
     "contract-deployer",
     "gem",
     "gitcoin-grantee",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "Gitcoin Grants: SimpleAsWater"
 }

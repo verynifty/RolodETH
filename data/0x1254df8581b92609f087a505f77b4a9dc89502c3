@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

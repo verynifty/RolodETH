@@ -7,6 +7,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "opensea-user"
   ]
 }

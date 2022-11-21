@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "goblin-town-minter",
     "otherdeed-minter",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

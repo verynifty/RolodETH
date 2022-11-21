@@ -8,6 +8,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

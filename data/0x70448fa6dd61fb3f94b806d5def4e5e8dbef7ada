@@ -5,6 +5,7 @@
     "cyber-kong-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-influenc"
+    "snapshot-voter-influenc",
+    "opensea-user"
   ]
 }

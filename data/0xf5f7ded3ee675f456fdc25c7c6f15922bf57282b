@@ -3,6 +3,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "opensea-user"
   ]
 }

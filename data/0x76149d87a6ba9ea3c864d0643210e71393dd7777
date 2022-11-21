@@ -4,6 +4,7 @@
     "clonex-minter",
     "art-goblers-minter",
     "snapshot-voter-sushigov",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "cyber-kong-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

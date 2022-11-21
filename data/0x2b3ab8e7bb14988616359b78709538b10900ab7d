@@ -2,7 +2,8 @@
   "tags": [
     "coolcat-minter",
     "meebit-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Doodles: Deployer"
 }

@@ -3,6 +3,7 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "snapshot-voter-frax",
-    "snapshot-voter-phonon"
+    "snapshot-voter-phonon",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gearbox",
     "snapshot-voter-balancer",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "opensea-user"
   ]
 }

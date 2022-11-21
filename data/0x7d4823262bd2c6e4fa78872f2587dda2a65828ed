@@ -3,6 +3,7 @@
     "cyber-kong-minter",
     "meebit-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

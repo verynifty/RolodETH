@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-0xgov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

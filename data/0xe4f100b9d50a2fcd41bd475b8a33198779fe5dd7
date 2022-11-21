@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "opensea-user"
   ]
 }

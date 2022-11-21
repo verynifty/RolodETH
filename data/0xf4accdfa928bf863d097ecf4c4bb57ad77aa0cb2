@@ -4,6 +4,7 @@
     "snapshot-voter-nyolings",
     "snapshot-voter-gearbox",
     "snapshot-voter-influenc",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

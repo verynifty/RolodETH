@@ -9,6 +9,7 @@
     "snapshot-voter-daoge",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

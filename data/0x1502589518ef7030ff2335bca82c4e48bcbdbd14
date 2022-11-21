@@ -4,6 +4,7 @@
     "moonbird-minter",
     "doodle-minter",
     "otherdeed-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

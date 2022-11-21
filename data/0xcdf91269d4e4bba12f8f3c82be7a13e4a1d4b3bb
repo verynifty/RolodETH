@@ -5,6 +5,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-badgerdao",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "opensea-user"
   ]
 }

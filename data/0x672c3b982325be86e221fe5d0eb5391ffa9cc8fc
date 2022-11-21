@@ -4,6 +4,7 @@
     "goblin-town-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "bayc-minter",
     "pudgy-pinguin-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

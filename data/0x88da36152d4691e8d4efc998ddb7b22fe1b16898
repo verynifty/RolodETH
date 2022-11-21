@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "coolcat-minter",
     "meebit-minter",
-    "wow-minter"
+    "wow-minter",
+    "opensea-user"
   ]
 }

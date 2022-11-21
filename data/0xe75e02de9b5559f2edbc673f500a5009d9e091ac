@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "opensea-user"
   ]
 }

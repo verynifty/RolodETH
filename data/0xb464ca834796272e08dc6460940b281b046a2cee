@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "take-action",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "opensea-user"
   ],
   "name": "Multichain Hack Alert 2591"
 }

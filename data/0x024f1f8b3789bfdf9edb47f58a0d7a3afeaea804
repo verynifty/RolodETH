@@ -5,6 +5,7 @@
     "pudgy-pinguin-minter",
     "hashmask-minter",
     "meebit-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "mayc-minter",
     "snapshot-voter",
     "snapshot-voter-ens",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

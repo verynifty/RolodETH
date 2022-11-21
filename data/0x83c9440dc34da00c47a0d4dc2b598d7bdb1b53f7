@@ -5,6 +5,7 @@
     "otherdeed-minter",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aurafinance",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

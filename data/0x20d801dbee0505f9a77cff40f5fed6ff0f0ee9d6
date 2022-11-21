@@ -5,6 +5,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-huwacoin",
     "snapshot-voter-pushdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "opensea-user"
   ]
 }

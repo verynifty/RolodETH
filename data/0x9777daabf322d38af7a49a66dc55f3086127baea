@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-anglegovernance",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

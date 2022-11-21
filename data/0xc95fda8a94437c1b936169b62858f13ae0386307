@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "opensea-user"
   ],
   "name": "Raptor: Deployer"
 }

@@ -3,6 +3,7 @@
     "moonbird-minter",
     "hashmask-minter",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

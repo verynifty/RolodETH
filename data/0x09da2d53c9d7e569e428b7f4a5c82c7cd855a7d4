@@ -4,6 +4,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gnosis",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

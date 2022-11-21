@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "opensea-user"
   ]
 }

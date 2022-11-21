@@ -4,6 +4,7 @@
     "mayc-minter",
     "snapshot-voter-sushigov",
     "snapshot-voter-yearn",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

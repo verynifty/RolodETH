@@ -1,7 +1,8 @@
 {
   "tags": [
     "meebit-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Punks Malaysia: Deployer"
 }

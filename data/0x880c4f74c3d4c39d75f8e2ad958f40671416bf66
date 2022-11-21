@@ -4,6 +4,7 @@
     "moonbird-minter",
     "clonex-minter",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

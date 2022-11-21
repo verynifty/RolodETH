@@ -3,6 +3,7 @@
     "meebit-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-mcv",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "opensea-user"
   ]
 }

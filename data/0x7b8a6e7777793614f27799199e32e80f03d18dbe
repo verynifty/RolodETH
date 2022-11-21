@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "goblin-town-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

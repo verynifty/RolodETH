@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "clonex-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

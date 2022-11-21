@@ -4,6 +4,7 @@
     "hashmask-minter",
     "mayc-minter",
     "snapshot-voter-lgcryptounicorns",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "opensea-user"
   ]
 }

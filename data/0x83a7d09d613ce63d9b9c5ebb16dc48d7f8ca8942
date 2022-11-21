@@ -3,6 +3,7 @@
     "moonbird-minter",
     "clonex-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

@@ -5,6 +5,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-bullsontheblock",
-    "snapshot-voter-remix-dao"
+    "snapshot-voter-remix-dao",
+    "opensea-user"
   ]
 }

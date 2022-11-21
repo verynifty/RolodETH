@@ -4,6 +4,7 @@
     "cryptoadz-minter",
     "mayc-minter",
     "snapshot-voter-lgcryptounicorns",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

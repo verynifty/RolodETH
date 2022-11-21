@@ -5,6 +5,7 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "opensea-user"
   ]
 }

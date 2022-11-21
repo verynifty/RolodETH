@@ -4,6 +4,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "opensea-user"
   ]
 }

@@ -4,7 +4,8 @@
     "hashmask-minter",
     "contract-deployer",
     "snapshot-voter-yam",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "BaconDAO: Deployer"
 }

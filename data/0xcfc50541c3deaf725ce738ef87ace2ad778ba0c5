@@ -4,6 +4,7 @@
     "meebit-minter",
     "otherdeed-minter",
     "snapshot-voter-sushigov",
-    "snapshot-voter-swerve"
+    "snapshot-voter-swerve",
+    "opensea-user"
   ]
 }

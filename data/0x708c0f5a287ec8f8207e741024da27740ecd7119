@@ -3,6 +3,7 @@
     "moonbird-minter",
     "veefriend-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

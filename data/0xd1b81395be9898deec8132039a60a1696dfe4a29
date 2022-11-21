@@ -4,6 +4,7 @@
     "moonbird-minter",
     "doodle-minter",
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

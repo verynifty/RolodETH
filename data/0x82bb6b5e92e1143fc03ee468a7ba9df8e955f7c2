@@ -3,6 +3,7 @@
     "meebit-minter",
     "snapshot-voter-yearn",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

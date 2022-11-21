@@ -3,6 +3,7 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "opensea-user"
   ]
 }

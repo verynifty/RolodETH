@@ -2,7 +2,8 @@
   "tags": [
     "doodle-minter",
     "contract-deployer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ],
   "name": "Pillheads: Deployer"
 }

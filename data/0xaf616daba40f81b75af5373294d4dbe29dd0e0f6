@@ -5,6 +5,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
     "snapshot-voter-yearn",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }
