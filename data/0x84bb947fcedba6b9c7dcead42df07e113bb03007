@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Stater",
-  "erc20_symbol": "STR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14476/thumb/str.png?1639046202"
-}

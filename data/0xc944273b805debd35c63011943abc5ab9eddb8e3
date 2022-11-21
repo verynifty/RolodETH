@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Crypto Shield",
-  "erc20_symbol": "SHIELD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21614/thumb/14834.png?1639610437"
-}

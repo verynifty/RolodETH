@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Parasset",
-  "erc20_symbol": "ASET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19395/thumb/token_200.png?1635151501"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "EXRT Network",
-  "erc20_symbol": "EXRT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/5954/thumb/exrt.png?1616039881"
-}

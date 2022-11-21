@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ETHBTC 2x Long",
-  "erc20_symbol": "ETHBTCMOON",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20046/thumb/beverage-ethbtc.png?1636426369"
-}

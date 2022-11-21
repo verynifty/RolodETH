@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "hiMAYC",
-  "erc20_symbol": "HIMAYC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27602/thumb/himayc.png?1664716538"
-}

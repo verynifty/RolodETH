@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "FOCUS by Matto",
-  "imageUrl": "https://media.artblocks.io/181000000.png",
-  "externalUrl": "https://zenerative.com/focus/",
-  "description": "FOCUS is an exploration of, and meditation on, the act of directed attention, the fixture of concentration, the state permitting clarity, and the mathematical point of convergence. This algorithm can produce images that are elegantly minimal, as well as images featuring complex patterns that explore visual illusions and artificial space. The limited palette consists of black, white, and five colors; this both constrains possible outcomes and allows the creation of unique perceptual interactions. Inspired by the Zen art tradition of doing more with less, FOCUS does not utilize any pseudo-random number generation, and each output can be recreated by hand using simple math and estimation. Except in extremely rare scenarios, each token can provide a wide variety of visual experiences through its interactive features: use up and down arrows to adjust the pattern recursion factor, left and right arrows to adjust the midpoint count, ‘h’ to hide or show the central shape, and ‘s’ to save. FOCUS is best viewed live and full screen."
-}

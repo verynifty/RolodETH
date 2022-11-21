@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeFi Holdings",
-  "erc20_symbol": "DHOLD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23094/thumb/DefiHoldings_Logo.png?1643182605"
-}

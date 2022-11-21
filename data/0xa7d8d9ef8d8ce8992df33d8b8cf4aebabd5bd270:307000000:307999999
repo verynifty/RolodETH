@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Ode to Penrose by uMathA",
-  "imageUrl": "https://media.artblocks.io/307000000.png",
-  "description": "Ode to Penrose is a celebration of the natural beauty of aperiodic tilings, especially of the ones discovered by Sir Roger Penrose. These tilings lie at the intersection of complex mathematical problems and gorgeous visual aesthetics arising from finite amounts of simple objects.\n\nThis project introduces novel ways to use Penrose tiles. Unlike in traditional deterministic usage of these tiles, stochasticity plays a very important part of the script. Randomness can affect things like the total amount of the tiles used, their orientation, coloring, and size. Familiar patterns can be witnessed in some outputs and yet they are completely absent in others. Despite this, perhaps surprisingly, each output could be completed into a traditional Penrose tiling without erasing any lines."
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "XDAO",
-  "erc20_symbol": "XDAO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27363/thumb/XDAO_Token_img.png?1665738325"
-}

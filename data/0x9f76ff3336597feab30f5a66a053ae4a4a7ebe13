@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Token Play",
-  "erc20_symbol": "TP3",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17996/thumb/WyzcFow.png?1630047790"
-}

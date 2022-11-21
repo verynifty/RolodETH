@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ethorse",
-  "erc20_symbol": "HORSE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2531/thumb/ethorse.png?1548125546"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Harmony Token",
-  "erc20_symbol": "HARM",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/27237/thumb/Untitled_design_%2815%29.png?1664068375"
-}

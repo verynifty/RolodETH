@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CoverCompared",
-  "erc20_symbol": "CVR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13720/thumb/cvr.png?1635416411"
-}

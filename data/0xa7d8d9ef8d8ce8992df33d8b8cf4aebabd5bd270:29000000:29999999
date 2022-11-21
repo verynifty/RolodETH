@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Inspirals by Radix",
-  "imageUrl": "https://media.artblocks.io/29000000.png",
-  "externalUrl": "https://inspirals.io",
-  "description": "Escher-style tiling of a plane, gone wrong. Each image spins hash-driven colors, shapes, and symmetries into infinity. Fly through the spiral as it morphs between beauty and madness. Keys: F = Fly through/back, D = Distort on/off, Esc = Stop, S = Save image."
-}

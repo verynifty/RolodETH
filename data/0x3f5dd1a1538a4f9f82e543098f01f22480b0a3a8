@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "KumaDex Token",
-  "erc20_symbol": "DKUMA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26693/thumb/dkumaOG02_CoinGecko.png?1660618296"
-}

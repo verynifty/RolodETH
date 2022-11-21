@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DogeYield",
-  "erc20_symbol": "DOGY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13734/thumb/dogy200px.png?1611266985"
-}

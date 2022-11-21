@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ethernity Chain",
-  "erc20_symbol": "ERN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14238/thumb/LOGO_HIGH_QUALITY.png?1647831402"
-}

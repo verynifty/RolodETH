@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Netkoin",
-  "erc20_symbol": "NTK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/5162/thumb/NTK.png?1606878538"
-}

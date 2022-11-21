@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Kromatika",
-  "erc20_symbol": "KROM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20541/thumb/KROM_Transparent.png?1641398421"
-}

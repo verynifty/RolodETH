@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "POW",
-  "erc20_symbol": "POW",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22333/thumb/16963.png?1641515902"
-}

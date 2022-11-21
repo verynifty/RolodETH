@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Chainsquare",
-  "erc20_symbol": "CHS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14858/thumb/chainsquare.png?1618804636"
-}

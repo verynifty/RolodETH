@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SpaceChain  ERC 20 ",
-  "erc20_symbol": "SPC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6659/thumb/Spacechain.jpg?1547042861"
-}

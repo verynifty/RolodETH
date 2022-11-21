@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "THENODE",
-  "erc20_symbol": "THE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10292/thumb/thenode_logo.png?1577334103"
-}

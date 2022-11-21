@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Waltonchain",
-  "erc20_symbol": "WTC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1093/thumb/ggx6nnW.png?1604815811"
-}

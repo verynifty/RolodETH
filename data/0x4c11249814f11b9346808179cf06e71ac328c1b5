@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Oraichain",
-  "erc20_symbol": "ORAI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12931/thumb/orai.png?1647077378"
-}

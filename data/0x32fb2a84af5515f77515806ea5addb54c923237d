@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SOLO Vault  NFTX ",
-  "erc20_symbol": "SOLO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18349/thumb/solo.png?1631603899"
-}

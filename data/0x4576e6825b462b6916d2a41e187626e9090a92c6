@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Donkey DON",
-  "erc20_symbol": "DON",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18257/thumb/Donkey_Logo_CMC.png?1631154862"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Token CashPay",
-  "erc20_symbol": "TCP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11616/thumb/559059354_256256.png?1591932551"
-}

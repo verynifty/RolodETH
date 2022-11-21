@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Kuai",
-  "erc20_symbol": "KT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/5314/thumb/kuai-token.png?1547040868"
-}

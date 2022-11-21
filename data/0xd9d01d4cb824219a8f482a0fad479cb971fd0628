@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "EnterCoin",
-  "erc20_symbol": "ENTRC",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/8163/thumb/entrc-logo200.png?1555901482"
-}

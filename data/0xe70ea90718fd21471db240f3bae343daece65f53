@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "The Americans NFT",
-  "erc20_symbol": "USACOIN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26566/thumb/american_NFT.jpg?1658800655"
-}

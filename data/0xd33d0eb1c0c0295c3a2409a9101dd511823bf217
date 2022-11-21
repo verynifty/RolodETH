@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Unique Fans",
-  "erc20_symbol": "FANS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14715/thumb/fans_200X200.png?1617922576"
-}

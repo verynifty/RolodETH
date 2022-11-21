@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ShitCoin",
-  "erc20_symbol": "SHIT",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/9472/thumb/ShitCoin_200x200.png?1567723695"
-}

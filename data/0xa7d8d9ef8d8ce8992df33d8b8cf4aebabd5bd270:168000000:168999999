@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Bloom by Blockchance",
-  "imageUrl": "https://media.artblocks.io/168000000.png",
-  "externalUrl": "https://blockchance.io",
-  "description": "Bloom is a story about a flower and its life cycle. Each leaf and petal's shape, location, and variations (color, opacity, shading, contrast, and more) are uniquely generated based on the token's hash. Over a period of time determined by the hash (weeks, months, even years), each element of the flower will break away and float to the floor, ultimately becoming a pile of leaves and petals. The dynamic evolution of this piece  is meant to be a reminder of the fleeting nature of life. Memento Mori.\nDutch auction starting at 2Ξ and decreasing every 5 minutes to 0.25Ξ (2->1->0.75->0.5->0.4->0.35->0.3->0.25).\n25% of sales over base price will be donated to the charities included on our website.\n"
-}

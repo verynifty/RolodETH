@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Dream Swap",
-  "erc20_symbol": "DREAM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13033/thumb/dream_32.png?1604503082"
-}

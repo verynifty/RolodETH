@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CoinLoan",
-  "erc20_symbol": "CLT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/1713/thumb/blue-logo-transparent-200x200.png?1595912819"
-}

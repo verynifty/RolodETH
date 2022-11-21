@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Cream ETH 2",
-  "erc20_symbol": "CRETH2",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13568/thumb/creth2.png?1609837099"
-}

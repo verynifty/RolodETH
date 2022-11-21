@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Jobchain",
-  "erc20_symbol": "JOB",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9352/thumb/Logo_%283%29.png?1566510871"
-}

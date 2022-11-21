@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Apple Protocol",
-  "erc20_symbol": "AAPL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13208/thumb/aapl.png?1606200126"
-}

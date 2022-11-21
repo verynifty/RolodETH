@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Construction Token by Jeff Davis",
-  "imageUrl": "https://media.artblocks.io/2000000.png",
-  "externalUrl": "https://www.jeffgdavis.com/",
-  "description": "Each Construction Token is unique and contains a randomized seed that determines the composition of the artwork. This includes the number, orientation, and placement of rectangles, as well as the color selections. Most tokens are monochromatic, with occasional light or dark variants. In some cases, the script will produce a token using complementary colors."
-}

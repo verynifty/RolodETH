@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Fluffy Inu",
-  "erc20_symbol": "FLUFFY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21769/thumb/fluffy-logo-md.png?1639994182"
-}

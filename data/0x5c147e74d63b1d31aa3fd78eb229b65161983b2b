@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped Flow",
-  "erc20_symbol": "WFLOW",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24045/thumb/wrapped-flow.png?1646187143"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "fantomGO",
-  "erc20_symbol": "FTG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20154/thumb/D6B_ffAH_400x400.jpg?1636584919"
-}

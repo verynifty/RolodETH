@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Aave AMM USDC",
-  "erc20_symbol": "AAMMUSDC",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/17226/thumb/aAMMUSDC_2x.png?1626939994"
-}

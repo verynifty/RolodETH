@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Export Motors Platform",
-  "erc20_symbol": "EMP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24422/thumb/emp_logo_200.png?1647654574"
-}

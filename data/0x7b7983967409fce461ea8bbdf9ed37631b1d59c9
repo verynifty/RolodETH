@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "KPOP Coin",
-  "erc20_symbol": "KPOP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15923/thumb/kpop.PNG?1622431964"
-}

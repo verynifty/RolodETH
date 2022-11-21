@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AidCoin",
-  "erc20_symbol": "AID",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2144/thumb/aid.png?1547036449"
-}

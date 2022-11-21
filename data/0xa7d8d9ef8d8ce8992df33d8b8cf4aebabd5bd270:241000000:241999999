@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Maps by john provencher",
-  "imageUrl": "https://media.artblocks.io/241000000.png",
-  "externalUrl": "https://a-map-is-a-score.com",
-  "description": "A Map is a score for a new world...\n \nMaps is a generative script stored on the blockchain. Each mint generates a unique svg using a seed hash.\n \nThe initial inspiration for Maps was the idea that graphic notation can create a variety of different outputs for music.\n \nThis led to using sprites, a form of graphic notation that gives a sense of how things move without being animated, as the layout to explore each world. \n \nEach Map uses variable colors and patterns to generate different environments. By mixing 10 different elements, new biomes are named ( i.e. scorched forest, dune ocean, etc… )\n \nThese environmental elements are represented by color ( HSL ). different base and accent environments were picked to be mixed and matched freely. \n \nMaybe an NFT can be an instruction for something non-digital, too… The different colors are also matched with pantone chips so that each SVG can be easily printed.\n \nThe method for generating the pattern is called dithering, which is both inherently as much a digital process ( i.e. bitmapping ) as it is a physical one ( i.e. halftone ). The script uses a modified Floyd–Steinberg dither algorithm to approximate the light between each pixel and create unique patterns.\n"
-}

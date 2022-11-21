@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Collateral Pay",
-  "erc20_symbol": "COLL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14682/thumb/cpay.jpg?1617767452"
-}

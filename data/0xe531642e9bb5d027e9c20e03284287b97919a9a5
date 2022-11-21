@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "FaithCoin",
-  "erc20_symbol": "FAITH",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/3648/thumb/Y4u0Cl8.png?1547038612"
-}

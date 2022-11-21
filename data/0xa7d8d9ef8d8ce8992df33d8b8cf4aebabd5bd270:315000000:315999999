@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Rotor by Sebastián Brocher (CryptoArte)",
-  "imageUrl": "https://media.artblocks.io/315000000.png",
-  "description": "Inspired by the physics behind electrical motors and alternators, Rotor projects varied shapes in circular motions to convey the ever turning, invisible magnetic fields that make elements go around. At a more basic level the work also explores how polygonal shapes can morph into circular sections and vice-versa.\n\nWith a subtle hint to information theory, the animation automatically pauses at a very specific moment (depending on traits) whereas the evolution thus far is condensed and captured into the still thumbnail. While the thumbnail possesses lower entropy than the full animation, studying it can reveal many of the traits a mint has and, once familiar with the collection, enable imagining its plausible history and future.\n\nAfter clicking on the artwork, the following commands are available:\n\n* Press 'p' to resume the animation after automatic pause (there's more coming!). Press again to pause / resume.\n* Press 'a' / 's' to alter depth perception\n* Press 'z' / 'x' to bring elements closer or farther\n* Press 'c' to constrain the work\n* Press 'r' to restart\n\nBonus: put on some tunes, hit different patterns of a, s, z, x to the beats, and allow yourself to envision the rotor become vinyl."
-}

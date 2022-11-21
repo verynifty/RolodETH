@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SparkPoint",
-  "erc20_symbol": "SRK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8371/thumb/SRK.png?1614675526"
-}

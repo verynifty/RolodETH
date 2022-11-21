@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "FloorDAO",
-  "erc20_symbol": "FLOOR",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/24026/thumb/icon-floor_2x.png?1646102857"
-}

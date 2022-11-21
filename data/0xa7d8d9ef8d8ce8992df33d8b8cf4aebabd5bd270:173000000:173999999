@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Skulptuur by Piter Pasma",
-  "imageUrl": "https://media.artblocks.io/173000000.png",
-  "externalUrl": "https://piterpasma.nl/skulptuur",
-  "description": "An exploration in generating forms in 3-dimensional space. This exclusive set of sculptures has been carved from a sea of infinite possibilities, much like a sculptor creates a singular reality from the potential in a block of stone. The shapes are illuminated by a variety of complex virtual lighting environments and yet the piece retains algorithmic minimalism with the code reduced to its pure essence -- 6370 bytes. Skulptuurs render in real time. In live view, the image keeps improving in quality. Keys 0-7 change speed: 0=Stop, 5=Default, 7=Fastest. Careful, requires a powerful machine. Requires a WebGL2-enabled browser."
-}

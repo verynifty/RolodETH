@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped NCG",
-  "erc20_symbol": "WNCG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17747/thumb/WNCG.png?1629167703"
-}

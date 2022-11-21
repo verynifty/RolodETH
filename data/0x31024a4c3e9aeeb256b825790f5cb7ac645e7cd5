@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Xiotri",
-  "erc20_symbol": "XIOT",
-  "erc20_decimals": 3,
-  "imageURL": "https://assets.coingecko.com/coins/images/12182/thumb/xiot_logo_512x512.png?1601775223"
-}

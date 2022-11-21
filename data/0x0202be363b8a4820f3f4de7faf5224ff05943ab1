@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "UniLend Finance",
-  "erc20_symbol": "UFT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12819/thumb/UniLend_Finance_logo_PNG.png?1602748658"
-}

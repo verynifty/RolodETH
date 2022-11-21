@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped ATROMG8",
-  "erc20_symbol": "WAG8",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/15182/thumb/ag8.jpg?1620031331"
-}

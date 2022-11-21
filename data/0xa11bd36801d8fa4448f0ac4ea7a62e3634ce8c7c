@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Allbridge",
-  "erc20_symbol": "ABR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18690/thumb/abr.png?1640742053"
-}

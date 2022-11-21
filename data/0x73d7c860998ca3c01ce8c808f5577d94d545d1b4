@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "IX Swap",
-  "erc20_symbol": "IXS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18069/thumb/ixswap.PNG?1630375152"
-}

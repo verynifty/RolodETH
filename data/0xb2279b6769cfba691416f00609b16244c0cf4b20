@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Waifu",
-  "erc20_symbol": "WAIF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12100/thumb/Small-Waifu_token.png?1597120029"
-}

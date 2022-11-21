@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "NFTLaunch",
-  "erc20_symbol": "NFTL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18140/thumb/nftl.PNG?1630652662"
-}

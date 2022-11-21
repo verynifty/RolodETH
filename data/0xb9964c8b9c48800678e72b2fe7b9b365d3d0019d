@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Smartchem",
-  "erc20_symbol": "SMAC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20616/thumb/SMAC-icon200x200.png?1637309473"
-}

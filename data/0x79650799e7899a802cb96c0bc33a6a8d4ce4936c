@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AICHAIN",
-  "erc20_symbol": "AIT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2525/thumb/aichain.png?1547036638"
-}

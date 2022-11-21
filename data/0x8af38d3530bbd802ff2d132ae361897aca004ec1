@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PulseApeCoin",
-  "erc20_symbol": "PLSA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26891/thumb/2022-08-15_16.40.06.jpg?1660706016"
-}

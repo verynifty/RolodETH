@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Blockmason Credit Protocol",
-  "erc20_symbol": "BCPT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1022/thumb/mason.jpg?1547034948"
-}

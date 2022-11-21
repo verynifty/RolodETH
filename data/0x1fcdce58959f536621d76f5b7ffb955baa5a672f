@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ForTube",
-  "erc20_symbol": "FOR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8242/thumb/for.png?1606195375"
-}

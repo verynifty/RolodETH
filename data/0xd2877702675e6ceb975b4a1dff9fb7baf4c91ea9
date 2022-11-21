@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped Terra Classic",
-  "erc20_symbol": "LUNC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13628/thumb/wluna.png?1610448334"
-}

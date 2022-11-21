@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bazaars",
-  "erc20_symbol": "BZR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26392/thumb/bazaars_logo-color-black-icon.png?1657753265"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BitValve",
-  "erc20_symbol": "BTV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20681/thumb/bitvalve-icon-200x200.png?1637551577"
-}

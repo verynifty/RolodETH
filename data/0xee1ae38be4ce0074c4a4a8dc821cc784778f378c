@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "VYNK Chain",
-  "erc20_symbol": "VYNC",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/17743/thumb/vynk_chain.PNG?1629150126"
-}

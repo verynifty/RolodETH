@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Amplify",
-  "erc20_symbol": "AMPT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23695/thumb/ampt_pictogram_color_1920px_2.png?1645080512"
-}

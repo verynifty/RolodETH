@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Value DeFi",
-  "erc20_symbol": "VALUE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12525/thumb/value_logo_-_500x500.png?1601478115"
-}

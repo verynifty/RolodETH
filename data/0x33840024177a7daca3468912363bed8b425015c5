@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ebox",
-  "erc20_symbol": "EBOX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14528/thumb/ebox.png?1639203519"
-}

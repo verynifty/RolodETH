@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "POP Network",
-  "erc20_symbol": "POP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7281/thumb/Logo_%28Light_Mode%29_%281%29.png?1644482888"
-}

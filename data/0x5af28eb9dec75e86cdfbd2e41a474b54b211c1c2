@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Tangle",
-  "erc20_symbol": "TNGL",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/18312/thumb/tangle.PNG?1631510159"
-}

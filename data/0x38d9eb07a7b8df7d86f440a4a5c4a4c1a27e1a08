@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "bloXmove",
-  "erc20_symbol": "BLXM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19310/thumb/blxm_200x200.png?1635238192"
-}

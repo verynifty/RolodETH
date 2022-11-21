@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Aladdin cvxCRV",
-  "erc20_symbol": "ACRV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25395/thumb/Sv06cFHS_400x400.jpg?1651707422"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CargoX",
-  "erc20_symbol": "CXO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2580/thumb/cargox.png?1547738832"
-}

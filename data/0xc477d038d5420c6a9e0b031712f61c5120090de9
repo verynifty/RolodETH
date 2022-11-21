@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Boson Protocol",
-  "erc20_symbol": "BOSON",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14710/thumb/boson_logo.png?1617882472"
-}

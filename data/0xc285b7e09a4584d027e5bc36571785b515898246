@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Coin98 Dollar",
-  "erc20_symbol": "CUSD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26588/thumb/CUSD-01.png?1658909049"
-}

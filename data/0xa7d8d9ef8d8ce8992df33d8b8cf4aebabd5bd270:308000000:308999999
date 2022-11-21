@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Cattleya by Ben Snell",
-  "imageUrl": "https://media.artblocks.io/308000000.png",
-  "externalUrl": "https://bensnell.io/cattleya",
-  "description": "Darwin’s Orchid wasn’t discovered by Darwin, but he correctly hypothesized that its long blooms, up to a foot and a half tall, coevolved with a moth with a very long tongue—just long enough to extract its nectar. This flower embodies the great variety of and fascination with the orchid family. Orchids come in all shapes, sizes, colors, textures and scents—perhaps this is why they’ve entranced cultures dating back well over five millennia, becoming symbols of virility, beauty, peace and prosperity in the process. Named “Cattleya” after my first rare orchid, this work is my Ode to Orchids—a mystical flower that brings me endless delight.\n\nRead more about my [inspiration & process↗](https://bensnell.medium.com/7c943673d54f)\n\n*Notes:*\n*— This project is intended to be run on modern devices, operating systems and browsers. Older ones may yield undesired or undefined behaviors.*\n*— This script includes a modified version of [glsl-fast-gaussian-blur](https://github.com/Jam3/glsl-fast-gaussian-blur), licensed under the MIT License (MIT) Copyright (c) 2015 Jam3.*"
-}

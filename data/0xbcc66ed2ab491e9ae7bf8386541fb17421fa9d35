@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Skull",
-  "erc20_symbol": "SKULL",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/10641/thumb/skull.png?1581339740"
-}

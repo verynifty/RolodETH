@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Inflation Adjusted USDS",
-  "erc20_symbol": "IUSDS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25698/thumb/iUSDS2.png?1653441251"
-}

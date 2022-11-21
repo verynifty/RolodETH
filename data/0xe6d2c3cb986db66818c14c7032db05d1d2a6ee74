@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Finexbox",
-  "erc20_symbol": "FNB",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/8419/thumb/p1WP-viw_400x400.jpg?1558395663"
-}

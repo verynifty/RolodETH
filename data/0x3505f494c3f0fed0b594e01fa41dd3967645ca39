@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Swarm Network",
-  "erc20_symbol": "SWM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/197/thumb/swarm.jpg?1547033949"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "POC Chain",
-  "erc20_symbol": "POCC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7718/thumb/logo_%281%29.png?1549956313"
-}

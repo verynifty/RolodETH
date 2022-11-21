@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Parachute",
-  "erc20_symbol": "PAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7590/thumb/Parachute_Logo.png?1560918207"
-}

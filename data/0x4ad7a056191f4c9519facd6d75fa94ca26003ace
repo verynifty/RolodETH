@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "GoldPesa Option",
-  "erc20_symbol": "GPO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23813/thumb/15462.png?1645513212"
-}

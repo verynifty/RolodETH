@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Yearn Finance Management",
-  "erc20_symbol": "YEFIM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12836/thumb/jOVGT0Y.png?1602886889"
-}

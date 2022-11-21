@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "EcoFi",
-  "erc20_symbol": "ECO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14803/thumb/logo_-_2021-04-16T081409.817.png?1618532056"
-}

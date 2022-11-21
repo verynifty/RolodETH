@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PumaPay",
-  "erc20_symbol": "PMA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2307/thumb/pumapay_dark_rounded_256x256.png?1622176373"
-}

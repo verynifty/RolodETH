@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "QANplatform",
-  "erc20_symbol": "QANX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15977/thumb/qanx.png?1637574290"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Glox Finance",
-  "erc20_symbol": "GLOX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13312/thumb/glox_finance.png?1607395418"
-}

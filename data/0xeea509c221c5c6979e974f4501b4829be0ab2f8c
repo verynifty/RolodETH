@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ENO",
-  "erc20_symbol": "ENO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26501/thumb/Eno_logo.png?1658364451"
-}

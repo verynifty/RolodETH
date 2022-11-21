@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "OneSwap DAO",
-  "erc20_symbol": "ONES",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12552/thumb/logo.png?1600682344"
-}

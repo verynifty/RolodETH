@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "OpenAlexa Protocol",
-  "erc20_symbol": "OAP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12400/thumb/256x256-OAP.png?1599556701"
-}

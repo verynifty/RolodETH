@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Polkadex",
-  "erc20_symbol": "PDEX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14833/thumb/dIze5Ztl_400x400.jpg?1618610724"
-}

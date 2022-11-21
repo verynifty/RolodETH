@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bibox",
-  "erc20_symbol": "BIX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1441/thumb/bibox-token.png?1547035519"
-}

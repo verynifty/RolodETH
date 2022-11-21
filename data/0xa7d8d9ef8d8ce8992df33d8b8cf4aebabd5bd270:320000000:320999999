@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "montreal friend scale by amon tobin",
-  "imageUrl": "https://media.artblocks.io/320000000.png",
-  "externalUrl": "https://www.nomark.net",
-  "description": "white noise contains all possible harmonics/notes/chords. by filtering out narrow frequency bands from the noise, pure sine wave “notes” become audible. we’ve limited these bands to only ever reveal specific notes from a particular musical scale. \n\neach piece then, is a unique iteration of this scale with different notes from it gaining prominence. sometimes they will be chordal and sometimes dissonant but always beautiful because the scale is beautiful.\n\nvisually, the white noise is represented by particles which congeal into dense lines. each line that appears is a specific note you can hear and it's amplitude is defined by the corresponding particle density. chords are represented by the lines crossing over each other.\n\nso in summary, it's a quite literal visual representation of sound moving from an arbitrary form to musical form. natural order from chaos with infinitely variable patterns depending on which notes are audible. \n\n*note we’ve implemented the following variables for more radical variation in particle behavior in addition to the random generation of notes and their corresponding patterns.\n\n- particles will either form straight line shapes or curved shapes \n- particles with vary in size from one iteration to another \n- particles will either favor white or black as their prominent b&w bias creating stark contrast between iterations as well as variables in between the two extremes\n- some iterations will reveal faster and some slower"
-}

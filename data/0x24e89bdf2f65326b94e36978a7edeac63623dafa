@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Tiger King Coin",
-  "erc20_symbol": "TKING",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15605/thumb/tigerking.png?1649149229"
-}

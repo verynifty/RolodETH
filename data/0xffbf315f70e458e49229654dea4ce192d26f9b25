@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Voltage",
-  "erc20_symbol": "VOLT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18515/thumb/volt.png?1632219924"
-}

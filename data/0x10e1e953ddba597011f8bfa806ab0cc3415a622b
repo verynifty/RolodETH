@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "1X Short Ethereum Token",
-  "erc20_symbol": "ETHHEDGE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10220/thumb/683JEXMN_400x400_%281%29.png?1576577133"
-}

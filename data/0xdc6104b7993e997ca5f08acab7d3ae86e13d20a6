@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ParaState",
-  "erc20_symbol": "STATE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23707/thumb/vertical.png?1645082931"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "sETH2",
-  "erc20_symbol": "SETH2",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16569/thumb/emerald256.png?1624494960"
-}

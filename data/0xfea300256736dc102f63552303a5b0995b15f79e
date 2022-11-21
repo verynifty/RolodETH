@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Echelon",
-  "erc20_symbol": "ECH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25498/thumb/SpO_F8a0_400x400.jpg?1652077746"
-}

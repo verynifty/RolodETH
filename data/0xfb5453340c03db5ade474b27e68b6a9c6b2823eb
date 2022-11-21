@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Robot",
-  "erc20_symbol": "ROBOT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13517/thumb/MF_Robot_200px.png?1609312481"
-}

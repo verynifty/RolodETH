@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ethersocks",
-  "erc20_symbol": "SOX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14943/thumb/LOGO-for-CMC-V1.png?1619429911"
-}

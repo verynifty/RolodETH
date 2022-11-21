@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CryptoBossCoin",
-  "erc20_symbol": "CBC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7114/thumb/eqIkj-ZZ_400x400.jpg?1549521587"
-}

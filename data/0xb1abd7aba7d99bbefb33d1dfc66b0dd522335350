@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Euro Stable Token",
-  "erc20_symbol": "EURST",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20988/thumb/AF3E1D9F-4817-4FC4-BC80-FFF30A3E1B91.PNG?1638169603"
-}

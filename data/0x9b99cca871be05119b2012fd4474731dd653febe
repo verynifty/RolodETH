@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AntiMatter",
-  "erc20_symbol": "MATTER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14112/thumb/antimatter_icon.png?1614395992"
-}

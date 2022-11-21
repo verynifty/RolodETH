@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeFido",
-  "erc20_symbol": "DEFIDO",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/18861/thumb/defido.png?1635638445"
-}

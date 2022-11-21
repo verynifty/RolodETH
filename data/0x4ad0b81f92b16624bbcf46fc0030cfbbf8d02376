@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Unagii Dai",
-  "erc20_symbol": "UDAI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13782/thumb/uDAI.png?1611730113"
-}

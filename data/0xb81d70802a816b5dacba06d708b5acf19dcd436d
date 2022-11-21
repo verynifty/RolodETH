@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Dextoken Governance",
-  "erc20_symbol": "DEXG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12223/thumb/dextoken-logo-v2_200.png?1598408669"
-}

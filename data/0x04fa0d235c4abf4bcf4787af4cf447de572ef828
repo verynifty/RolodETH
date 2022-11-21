@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "UMA",
-  "erc20_symbol": "UMA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10951/thumb/UMA.png?1586307916"
-}

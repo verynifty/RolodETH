@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Mindsync",
-  "erc20_symbol": "MAI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7581/thumb/mindsync-logo.jpg?1548636745"
-}

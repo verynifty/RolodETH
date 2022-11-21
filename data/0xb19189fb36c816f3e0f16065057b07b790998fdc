@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Serum SER",
-  "erc20_symbol": "SER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27757/thumb/Untitled_design_%2810%29.png?1665824038"
-}

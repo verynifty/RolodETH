@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Gold Mining Members",
-  "erc20_symbol": "GMM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11660/thumb/gmm_logo_token.png?1592432359"
-}

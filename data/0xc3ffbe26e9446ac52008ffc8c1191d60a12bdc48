@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Medifakt",
-  "erc20_symbol": "FAKT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25248/thumb/fxOi9ZYI_400x400.png?1651031310"
-}

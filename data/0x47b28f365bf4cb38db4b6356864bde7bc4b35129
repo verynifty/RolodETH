@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "FNB Protocol",
-  "erc20_symbol": "FNB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8157/thumb/FNB_protocol.jpg?1555650192"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Notional Finance",
-  "erc20_symbol": "NOTE",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/20282/thumb/NOTE-340x340.png?1636821924"
-}

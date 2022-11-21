@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "UwU Lend",
-  "erc20_symbol": "UWU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27408/thumb/uwu_logo_no-bg_1024.png?1663842922"
-}

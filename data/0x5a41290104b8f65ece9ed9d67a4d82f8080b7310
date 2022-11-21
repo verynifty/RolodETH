@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Game Federation",
-  "erc20_symbol": "GFT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26760/thumb/gft.png?1660311385"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Lobby",
-  "erc20_symbol": "LBY",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/20699/thumb/6197f0a241be5b582742b263_lobbySocial256w.png?1637565411"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Dogetama",
-  "erc20_symbol": "DOGETAMA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23602/thumb/dogetama_logo.png?1644735646"
-}

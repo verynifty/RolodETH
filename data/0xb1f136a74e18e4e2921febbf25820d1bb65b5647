@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "hiPunks",
-  "erc20_symbol": "HIPUNKS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26739/thumb/hipunks.png?1659946062"
-}

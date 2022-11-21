@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "xSUSHI",
-  "erc20_symbol": "XSUSHI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13725/thumb/xsushi.png?1612538526"
-}

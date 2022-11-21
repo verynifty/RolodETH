@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "3X Short Chainlink Token",
-  "erc20_symbol": "LINKBEAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10233/thumb/683JEXMN_400x400_%281%29.png?1576618846"
-}

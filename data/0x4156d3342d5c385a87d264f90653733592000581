@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SALT",
-  "erc20_symbol": "SALT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/962/thumb/salt.png?1548608746"
-}

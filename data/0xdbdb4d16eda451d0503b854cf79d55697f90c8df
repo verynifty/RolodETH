@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Alchemix",
-  "erc20_symbol": "ALCX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874"
-}

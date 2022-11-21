@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bintex Futures",
-  "erc20_symbol": "BNTX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12117/thumb/Bintexfutures_Icon_Logo.png?1597272672"
-}

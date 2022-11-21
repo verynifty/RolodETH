@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "LandBox",
-  "erc20_symbol": "LAND",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14875/thumb/jmKvZDn7_400x400.jpg?1618826129"
-}

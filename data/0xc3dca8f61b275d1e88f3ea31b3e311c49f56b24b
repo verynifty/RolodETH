@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "NPick Block",
-  "erc20_symbol": "NPICK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25151/thumb/Logo200_%281%29.png?1650459923"
-}

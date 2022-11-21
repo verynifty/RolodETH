@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Incooom Genesis",
-  "erc20_symbol": "COOOM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18988/thumb/cooom.png?1634112193"
-}

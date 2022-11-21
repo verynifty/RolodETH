@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ETHDOX",
-  "erc20_symbol": "ETHDOX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25352/thumb/ethdox.png?1651311929"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SUPERCATS",
-  "erc20_symbol": "S-CATS",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/26675/thumb/Supercats_logo.png?1659517034"
-}

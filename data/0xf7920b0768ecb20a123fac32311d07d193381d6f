@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Time New Bank",
-  "erc20_symbol": "TNB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1265/thumb/time-new-bank.png?1547035290"
-}

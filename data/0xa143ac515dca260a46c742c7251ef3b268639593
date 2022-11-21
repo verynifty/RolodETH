@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bulk Network",
-  "erc20_symbol": "BULK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15266/thumb/Bulk_whale_round.png?1620285364"
-}

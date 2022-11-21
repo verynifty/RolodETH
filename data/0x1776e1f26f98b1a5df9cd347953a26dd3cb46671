@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Numeraire",
-  "erc20_symbol": "NMR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/752/thumb/numeraire.png?1592538976"
-}

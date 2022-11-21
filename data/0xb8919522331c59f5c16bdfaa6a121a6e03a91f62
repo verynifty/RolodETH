@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bacon Protocol Home",
-  "erc20_symbol": "HOME",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/26185/thumb/homecoin_200.png?1656384254"
-}

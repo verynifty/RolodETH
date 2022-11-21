@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ruby Currency",
-  "erc20_symbol": "RBC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17494/thumb/IMG-20210802-213909-942-removebg-preview.png?1627972202"
-}

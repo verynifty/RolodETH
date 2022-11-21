@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Tower",
-  "erc20_symbol": "TOWER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14134/thumb/tower-circular-1000.png?1632195469"
-}

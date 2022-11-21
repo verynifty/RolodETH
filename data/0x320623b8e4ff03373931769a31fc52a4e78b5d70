@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Reserve Rights",
-  "erc20_symbol": "RSR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8365/thumb/rsr.png?1637983320"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CoinMeet",
-  "erc20_symbol": "MEET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2688/thumb/coinmeet.png?1547036895"
-}

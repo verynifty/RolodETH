@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeFi ch",
-  "erc20_symbol": "DFCH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18842/thumb/defi200px.png?1633586754"
-}

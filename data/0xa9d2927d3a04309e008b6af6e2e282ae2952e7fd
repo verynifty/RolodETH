@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Zipper Network",
-  "erc20_symbol": "ZIP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4524/thumb/zip_token_logo.png?1547039822"
-}

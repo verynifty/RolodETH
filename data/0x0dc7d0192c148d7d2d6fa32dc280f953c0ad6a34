@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "MetaCat",
-  "erc20_symbol": "METACAT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19661/thumb/5b-IWOyo-O-400x400.jpg?1635735758"
-}

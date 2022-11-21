@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Ringers by Dmitri Cherniak",
-  "imageUrl": "https://media.artblocks.io/13000000.png",
-  "externalUrl": "https://twitter.com/dmitricherniak",
-  "description": "There are an almost infinite number of ways to wrap a string around a set of pegs. On the surface it may seem like a simple concept but prepare to be surprised and delighted at the variety of combinations the algorithm can produce. Each output from 'Ringers' is derived from a unique transaction hash and generated in Javascript in the browser. Feature variations include peg count, sizing, layout, wrap orientation, and a few colorful flourishes for good measure."
-}

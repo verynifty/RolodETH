@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft",
-    "opensea_verified"
-  ],
-  "name": "The Merge Panda V2",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b6232ceb858ad3dcc67ba0b1fca1b885153bebc003ec84168a3e38f120e0925df98565aece0848642e114e3e2dd534e9a8e2a31bafa9ac112baaf87e14f4aa5edff4dbe71b0a5d2cd8c2b05ba14ada0427f483a4256fcf0110ebb20e6ebffef34d1408abee39521f6103215b0602f1ad81c",
-  "description": "The first Ethereum merge panda meme! 🐼\n\nThe two lovely bears perform The Dragon Ball Z \"fusion dance\" and merge into a super panda. It is also an educational infographic of EL + CL = Ethereum ❤️\n\nHsiao-Wei used the meme template to create this meme on Aug 29, 2021. By that time, there was the Eth1 chain (Proof-of-Work chain) and Eth2 chain (Proof-of-Stake beacon chain) while Ethereum was transitioning to a complete Proof-of-Stake system. The ideas were to show that Eth1 and Eth2 client software were equally important and to evolve the terminologies \"Eth1\" and \"Eth2\" with \"Execution Layer\" and \"Consensus Layer\" components in the merged system.\n\nThe original illustration is credited to CW.Cnatch (https://www.facebook.com/cw.cnatch). They will get 25% of the revenue for such brilliant artwork. 👏👏👏\n\n50% of the revenue will be sent to Protocol Guild (https://protocol-guild.readthedocs.io/), a collective of Ethereum core protocol contributors.\n\n10% (part of Hsiao-Wei's allocation) of the revenue will be donated to non-profit animal welfare organizations. Thank all the cute pandas and other lovely animals. The rest 10% (part of Hsiao-Wei's allocation) will be sent to Gitcoin Grants and Shonen Jump.\n"
-}

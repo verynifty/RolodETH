@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "UCONetwork",
-  "erc20_symbol": "UCOIL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27633/thumb/logo.png?1664961037"
-}

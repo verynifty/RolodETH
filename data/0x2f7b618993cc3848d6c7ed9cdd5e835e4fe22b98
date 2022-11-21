@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nami Corporation",
-  "erc20_symbol": "NAMI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13729/thumb/nami_logo_256.png?1611224464"
-}

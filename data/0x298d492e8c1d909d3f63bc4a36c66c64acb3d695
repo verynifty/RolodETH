@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PolkaBridge",
-  "erc20_symbol": "PBR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13744/thumb/symbol-whitebg200x200.png?1611377553"
-}

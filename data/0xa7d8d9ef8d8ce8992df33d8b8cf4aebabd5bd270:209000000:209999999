@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Autology by steganon",
-  "imageUrl": "https://media.artblocks.io/209000000.png",
-  "externalUrl": "https://steganon.com/autology.html",
-  "description": "Is code art? Autology is a study of not only how we interpret art, but also how art can interpret itself. Each piece has its source code embedded imperceptibly within the image itself. Hence the source code is literally part of the artwork. With a little sleuthing, one can derive the source code from the image and vice versa in infinite recursion. Click 's' to save the image and then visit https://steganon.com/autology.html to decode it. Or if you are feeling technologically adventurous, try to develop your own tool to do the same."
-}

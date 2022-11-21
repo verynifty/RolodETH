@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ape Finance",
-  "erc20_symbol": "APEFI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25625/thumb/APEFI.png?1652857977"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "FintruX",
-  "erc20_symbol": "FTX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1928/thumb/token-500x500.png?1547036223"
-}

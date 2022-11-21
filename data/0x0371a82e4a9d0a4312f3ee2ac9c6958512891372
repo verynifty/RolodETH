@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "bitJob",
-  "erc20_symbol": "STU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1172/thumb/bitjob.jpg?1547035202"
-}

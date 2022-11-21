@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Money IMT",
-  "erc20_symbol": "IMT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2955/thumb/imt.png?1547037191"
-}

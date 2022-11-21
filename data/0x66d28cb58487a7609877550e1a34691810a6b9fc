@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Koinos",
-  "erc20_symbol": "KOIN",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/13116/thumb/koinos-mark-circle-250px.png?1614870541"
-}

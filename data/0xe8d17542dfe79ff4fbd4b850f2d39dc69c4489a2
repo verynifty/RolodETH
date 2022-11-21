@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "KiloAmple",
-  "erc20_symbol": "KMPL",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/13449/thumb/kappa_logo.png?1608681544"
-}

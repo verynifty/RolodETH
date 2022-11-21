@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ultiledger",
-  "erc20_symbol": "ULT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6747/thumb/Ultiledger.jpeg?1547042996"
-}

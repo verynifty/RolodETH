@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AIOZ Network",
-  "erc20_symbol": "AIOZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14631/thumb/aioz-logo-200.png?1649237507"
-}

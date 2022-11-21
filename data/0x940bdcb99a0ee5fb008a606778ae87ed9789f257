@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "JFIN Coin",
-  "erc20_symbol": "JFIN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13370/thumb/JFin-Coin-Logo.png?1607984823"
-}

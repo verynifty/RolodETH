@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Liquid Ruminations by Eliya Stein",
-  "imageUrl": "https://media.artblocks.io/278000000.png",
-  "externalUrl": "https://water.org/",
-  "description": "Liquid Ruminations is an algorithm inspired by the contemplative effect of moving water.\n\nUnique invocations of this algorithm consist of any number of several core components including waves that rise and fall, a flow field powered mist, and droplet shapes arranged in a dancing field that are distorted in a rhythmic, sometimes stormy animation.\n\nThese effects are combined and brought to life with mathematical wave functions in order to create movement that is ideally conducive to a meditative state. Viewers are encouraged to take the opportunity to reflect on precious things that we tend to take for granted, primarily easy access to clean water.\n\nThe outputs of this algorithm are interactive:\n\nYou may toggle a \"Liquify\" mode on and off by double-clicking the invocations.\n\nSpacebar pauses the animation.\n\n's' key saves a local screenshot.\n\n'r' key reloads the piece.\n\nPlease note: This project is very CPU intensive and performs best at moderate resolutions on modern desktop devices. Chrome will provide the best experience. Full screen recommended.\n\nPrimary and secondary sales proceeds from this project will be donated to Water.org - an important organization with the critical mission of providing affordable access to safe water to people around the globe."
-}

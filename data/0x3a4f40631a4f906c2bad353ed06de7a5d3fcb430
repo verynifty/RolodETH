@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "PlayDapp",
-  "erc20_symbol": "PLA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14316/thumb/54023228.png?1615366911"
-}

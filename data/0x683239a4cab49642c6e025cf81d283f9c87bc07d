@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Unicly MoonCats Collection",
-  "erc20_symbol": "UMOON",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15674/thumb/MoonCats.jpg?1621498102"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DeltaChain",
-  "erc20_symbol": "DELTA",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/5794/thumb/deltachain.png?1547041664"
-}

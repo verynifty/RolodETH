@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SNKRZ",
-  "erc20_symbol": "SKZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27657/thumb/skz_200_200.png?1665099924"
-}

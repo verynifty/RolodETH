@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Gas DAO",
-  "erc20_symbol": "GAS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22086/thumb/SjrgK6sf_400x400.jpg?1640763291"
-}

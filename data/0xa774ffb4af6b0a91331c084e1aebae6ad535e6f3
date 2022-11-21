@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "flexUSD",
-  "erc20_symbol": "FLEXUSD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13323/thumb/flexUSD_2x.png?1607480702"
-}

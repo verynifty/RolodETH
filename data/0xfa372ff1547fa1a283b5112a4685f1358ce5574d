@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bonded dAMM",
-  "erc20_symbol": "BDAMM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27646/thumb/t9rbdwlR_400x400.jpg?1665022129"
-}

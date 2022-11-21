@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Shield Protocol Token",
-  "erc20_symbol": "SHIELD",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/24014/thumb/Shield_Universal_Avatar_black.png?1646030958"
-}

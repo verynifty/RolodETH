@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Drep",
-  "erc20_symbol": "DREP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14578/thumb/KotgsCgS_400x400.jpg?1617094445"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Instadapp",
-  "erc20_symbol": "INST",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14688/thumb/30hFM0-n_400x400.jpg?1617786420"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "SilkChain",
-  "erc20_symbol": "SILK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3810/thumb/2.png?1561537249"
-}

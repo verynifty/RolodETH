@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Para",
-  "erc20_symbol": "PARA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24652/thumb/para.jpg?1662464045"
-}

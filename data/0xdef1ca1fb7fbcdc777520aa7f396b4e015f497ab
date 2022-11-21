@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "CoW Protocol",
-  "erc20_symbol": "COW",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24384/thumb/cow.png?1660960589"
-}

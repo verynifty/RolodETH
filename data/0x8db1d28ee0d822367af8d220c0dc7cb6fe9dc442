@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ETHPad",
-  "erc20_symbol": "ETHPAD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17520/thumb/tHAbIBQK_400x400.jpg?1628075612"
-}

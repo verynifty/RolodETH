@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "NFTY Labs",
-  "erc20_symbol": "NFTY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18741/thumb/logo_%281%29.png?1643188469"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "YIN Finance",
-  "erc20_symbol": "YIN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18272/thumb/e37387ae6ee756fd.jpg?1631176921"
-}

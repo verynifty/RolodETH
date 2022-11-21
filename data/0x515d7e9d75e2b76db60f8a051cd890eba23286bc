@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Governor DAO",
-  "erc20_symbol": "GDAO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13140/thumb/GDAOlogo2-bird.png?1605591842"
-}

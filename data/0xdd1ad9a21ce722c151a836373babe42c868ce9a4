@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Universal Basic Income",
-  "erc20_symbol": "UBI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15269/thumb/ubi.png?1620287853"
-}

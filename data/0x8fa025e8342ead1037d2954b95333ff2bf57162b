@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "ShibaMax",
-  "erc20_symbol": "SMAX",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/16218/thumb/ShibaMax.png?1623652199"
-}

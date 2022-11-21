@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "DefHold",
-  "erc20_symbol": "DEFO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13168/thumb/defhold_logo.png?1605849148"
-}

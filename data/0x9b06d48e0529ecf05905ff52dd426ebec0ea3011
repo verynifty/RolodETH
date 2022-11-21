@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "XSwap",
-  "erc20_symbol": "XSP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12541/thumb/256x256_%282%29.png?1600645409"
-}

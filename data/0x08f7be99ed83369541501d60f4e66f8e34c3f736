@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Cryptoku",
-  "erc20_symbol": "CKU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25813/thumb/Cryptoku.png?1653988443"
-}

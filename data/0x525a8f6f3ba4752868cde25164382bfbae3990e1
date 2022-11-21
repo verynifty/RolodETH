@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Nym",
-  "erc20_symbol": "NYM",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/24488/thumb/NYM_Token.png?1649926353"
-}

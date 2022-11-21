@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "xToken",
-  "erc20_symbol": "XTK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14089/thumb/xtk.png?1659278233"
-}

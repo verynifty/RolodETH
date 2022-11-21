@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped xBTC",
-  "erc20_symbol": "WXBTC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15688/thumb/XBTC-Logo-6.png?1621564837"
-}

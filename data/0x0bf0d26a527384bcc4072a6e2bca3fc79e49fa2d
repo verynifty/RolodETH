@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Mytrade",
-  "erc20_symbol": "MYT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24134/thumb/transparent_logo.png?1646543530"
-}

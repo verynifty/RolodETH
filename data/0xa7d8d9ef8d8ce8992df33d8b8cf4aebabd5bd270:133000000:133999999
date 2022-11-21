@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Organized Disruption by Joshua Davis / PrayStation",
-  "imageUrl": "https://media.artblocks.io/133000000.png",
-  "externalUrl": "https://linktr.ee/praystation",
-  "description": "\"Organized Disruption\" uses a circle packing algorithm to position and scale objects on a plane in an organized pleasing composition. A series of weighted probabilities determines how this composition is disrupted by picking 1 of 3 forms... squares, spheres (slight elevation off plane), rectangles (extreme elevation off plane). Probability also determines 1 of 9 color sets (some colors being harder to acquire), and 3 possible color animations (slow, medium, fast). Each seeded token hash \"might\" unlock a collection of mouse interactions... proximity object displacement, proximity scale up, proximity scale down, proximity object mutation, proximity object rotation. All minted compositions include \"mouse + click + drag\" to rotate the system. All minted compositions can press the \"s\" key on your keyboard to \"save\" an image."
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Aergo",
-  "erc20_symbol": "AERGO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770"
-}

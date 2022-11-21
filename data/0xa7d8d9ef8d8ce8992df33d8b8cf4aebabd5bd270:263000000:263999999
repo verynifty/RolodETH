@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Click by Ivan Dianov",
-  "imageUrl": "https://media.artblocks.io/263000000.png",
-  "externalUrl": "https://ivandianov.com/click/",
-  "description": "The project focuses on how easily one assigns meaning to seemingly random combinations of blocks, giving them personality and creating emotional connections.\n\nI was inspired by Ringers, in which people see animals and other characters. I wanted to amplify this quality, and the idea of sculptures made of blocks clicked! Endless combinations, funny characters, and my passion for cubes, voxels, and modular systems.\n\nTo make the sculptures, I used technique of hybrid voxel raymarching, so we can say, the sculptures are made of colored void in a reflected space. Some of them may seem impossible due to the lack of perspective, but sooner or later it all clicks! It helps to keep in mind that all shapes are symmetrical.\n\nThe script uses modern features of GPU so it's supposed to work only on desktop: Chrome, Firefox or Safari"
-}

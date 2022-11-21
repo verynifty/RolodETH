@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Atlas USV",
-  "erc20_symbol": "USV",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/22066/thumb/7iUyjg5t.png?1640744823"
-}

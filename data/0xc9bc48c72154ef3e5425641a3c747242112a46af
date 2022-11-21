@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Aave RAI",
-  "erc20_symbol": "ARAI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17245/thumb/aRAI_2x.png?1626942652"
-}

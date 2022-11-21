@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wallet Plus X",
-  "erc20_symbol": "WPX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10302/thumb/WPX_LOGO_200X200.png?1577693149"
-}

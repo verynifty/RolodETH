@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "EHash",
-  "erc20_symbol": "EHASH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14180/thumb/ehash.png?1614820416"
-}

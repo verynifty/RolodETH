@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Lith Token",
-  "erc20_symbol": "LITX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26327/thumb/200x200px_LOGO.jpeg?1657768654"
-}

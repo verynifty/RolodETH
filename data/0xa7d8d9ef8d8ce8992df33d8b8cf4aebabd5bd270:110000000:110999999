@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Lava Glow by JEANVASCRIPT",
-  "imageUrl": "https://media.artblocks.io/110000000.png",
-  "externalUrl": "https://twitter.com/jhelf",
-  "description": "Digital 3D light sculpture made of a sphere in a cube. Using noise algorithms, the sphere gets displaced to reveal it's colorful glowing core and illuminates it's environment, creating an endless organic and soothing real-time animation. The transaction hash value is used to determine the scale and octave of the noise, the color palette and the amount of displacement. Created with threejs and GLSL shaders. A WebXR viewer will be available to see the artwork in 3D on desktop, mobile, AR and VR and take high res screenshots. This artwork will be released via Dutch Auction, with the price starting at 1.5Ξ dropping in 0.1Ξ increments every 5 minutes until 0.1Ξ."
-}

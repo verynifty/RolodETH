@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Primordial by Jacob Gold",
-  "imageUrl": "https://media.artblocks.io/302000000.png",
-  "description": "Primordial presents forms as diverse as those found in the natural world. The emergent system powering Primordial is capable of generating this diversity but is hard to control. After the initial generation there is a curation step; forms must meet certain criteria or the algorithm replaces them.\n\nThe forms produced by Primordial are presented in a triptych, as comparing multiple outputs is fundamental to understanding a generative algorithm. Primordial attempts to generate triptychs where the individual forms are related, and the results can be surprisingly harmonious or discordant.\n\nOnce the triptych is finalized, click on one of the forms to redraw a previous image. Press s to save the entire triptych, or 1-3 to save an individual image."
-}

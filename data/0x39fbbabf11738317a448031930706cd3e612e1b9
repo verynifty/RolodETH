@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Wrapped XRP",
-  "erc20_symbol": "WXRP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "AgaveCoin",
-  "erc20_symbol": "AGVC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7056/thumb/G4TML4cb_400x400.jpg?1547043511"
-}

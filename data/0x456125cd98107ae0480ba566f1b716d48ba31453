@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Ultimate Champions",
-  "erc20_symbol": "CHAMP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28091/thumb/champ.png?1667472074"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Bifrost",
-  "erc20_symbol": "BFC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4639/thumb/bifrost_32.png?1608520677"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BarnBridge",
-  "erc20_symbol": "BOND",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853"
-}

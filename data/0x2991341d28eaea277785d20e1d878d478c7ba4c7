@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "FM Gallery",
-  "erc20_symbol": "FMG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14527/thumb/FR44th_I_400x400.jpg?1616742157"
-}

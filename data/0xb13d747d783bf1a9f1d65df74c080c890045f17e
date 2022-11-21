@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Foundation",
-  "erc20_symbol": "FND",
-  "erc20_decimals": 7,
-  "imageURL": "https://assets.coingecko.com/coins/images/28099/thumb/ddsaaa.png?1667538993"
-}

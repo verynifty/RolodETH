@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "BitClave",
-  "erc20_symbol": "CAT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1585/thumb/bitclave.png?1547035768"
-}

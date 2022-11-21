@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "PrimiEnd by wuwa",
-  "imageUrl": "https://media.artblocks.io/268000000.png",
-  "externalUrl": "https://wuwa.org/primitives",
-  "description": "The final chapter in the Primitive Trilogy. The shapes kept evolving, and out of the chaotic turmoil some complex patterns started to emerge.\nThe same basic geometric primitives are randomly scattered in 3D space, but follow their movement for a while and some beauty will emerge from the chaos. \nThese kinetic sculptures can be re-generated from different angles by interacting with a mouse, while exposing the underlying basic primitives.\n● mouse drag - render different view\n● b - boost\n● p - play/pause\n● r - reset view"
-}

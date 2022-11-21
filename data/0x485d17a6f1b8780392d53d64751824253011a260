@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "chrono tech",
-  "erc20_symbol": "TIME",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666"
-}

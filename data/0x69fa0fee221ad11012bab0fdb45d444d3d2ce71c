@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "Thorstarter",
-  "erc20_symbol": "XRUNE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16835/thumb/thorstarter.jpg?1625279004"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "ERC20"
-  ],
-  "name": "TORQ Coin",
-  "erc20_symbol": "TORQ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3486/thumb/torq-coin.png?1547038229"
-}
