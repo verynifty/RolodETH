@@ -5,6 +5,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-uniswap"
   ]
 }

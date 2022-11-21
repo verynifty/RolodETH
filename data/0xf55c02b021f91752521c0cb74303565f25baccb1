@@ -6,6 +6,12 @@
     "snapshot-voter-balancer",
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop"
   ]
 }

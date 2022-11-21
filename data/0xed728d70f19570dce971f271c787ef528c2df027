@@ -2,6 +2,7 @@
   "tags": [
     "goblin-town-minter",
     "snapshot-voter-aave",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-uniswap"
   ]
 }

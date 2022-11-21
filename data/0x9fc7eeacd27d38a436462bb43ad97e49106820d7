@@ -5,6 +5,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-balancer",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-loot-dao",
+    "snapshot-voter-gnosis"
   ]
 }

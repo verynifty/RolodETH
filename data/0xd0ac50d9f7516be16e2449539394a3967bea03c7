@@ -6,6 +6,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-elfi",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-ricochet"
   ]
 }

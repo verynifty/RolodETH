@@ -5,6 +5,11 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-krausehouse",
     "snapshot-voter-friendswithbenefits",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-daoge"
   ]
 }

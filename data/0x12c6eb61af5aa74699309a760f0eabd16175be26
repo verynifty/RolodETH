@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-qidao",
+    "snapshot-voter-53231323"
   ]
 }

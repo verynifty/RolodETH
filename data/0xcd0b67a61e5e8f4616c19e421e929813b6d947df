@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-liveartxevent"
   ]
 }

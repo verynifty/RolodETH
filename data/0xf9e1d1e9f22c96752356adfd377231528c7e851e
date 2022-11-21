@@ -5,6 +5,11 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-qidao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap"
   ]
 }

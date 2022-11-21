@@ -4,6 +4,12 @@
     "snapshot-voter-aave",
     "snapshot-voter-people-dao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-liveartxevent"
   ]
 }

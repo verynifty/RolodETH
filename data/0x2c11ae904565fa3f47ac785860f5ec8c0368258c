@@ -2,6 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-ens",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

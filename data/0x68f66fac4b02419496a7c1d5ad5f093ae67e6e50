@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-apecoin",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-cakevote"
   ]
 }

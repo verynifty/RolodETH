@@ -3,6 +3,7 @@
     "bayc-minter",
     "moonbird-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-bullsontheblock"
   ]
 }

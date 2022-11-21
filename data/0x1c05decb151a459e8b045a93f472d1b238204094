@@ -7,6 +7,9 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-ens",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

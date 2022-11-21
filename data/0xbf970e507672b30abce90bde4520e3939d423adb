@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-dforcenet",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hakka",
+    "snapshot-voter-gal"
   ]
 }

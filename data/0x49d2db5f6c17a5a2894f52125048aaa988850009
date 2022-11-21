@@ -4,6 +4,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-dydxgov",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hop",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-daocity",
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-1inch"
   ]
 }

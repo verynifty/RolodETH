@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-ens",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-xennft",
+    "snapshot-voter-isat"
   ]
 }

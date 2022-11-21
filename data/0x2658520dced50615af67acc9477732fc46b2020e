@@ -1,5 +1,8 @@
 {
   "tags": [
-    "azuki-minter"
+    "azuki-minter",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote"
   ]
 }

@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-dydxgov",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-botto"
   ]
 }

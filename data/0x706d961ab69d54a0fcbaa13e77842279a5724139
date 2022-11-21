@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-elfi",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-poh"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-aave",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote"
   ]
 }

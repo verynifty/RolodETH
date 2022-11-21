@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "mayc-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -6,7 +6,9 @@
     "evmos",
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao"
   ],
   "name": "Evmos: Deployer"
 }

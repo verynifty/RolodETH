@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

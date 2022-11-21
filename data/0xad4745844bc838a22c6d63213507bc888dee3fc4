@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-uniswap"
   ]
 }

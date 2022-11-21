@@ -4,6 +4,8 @@
     "moonbird-minter",
     "hashmask-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-olympusdao"
   ]
 }

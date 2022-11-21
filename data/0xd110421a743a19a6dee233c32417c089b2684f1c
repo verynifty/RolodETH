@@ -5,6 +5,7 @@
     "snapshot-voter-nexisdao",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-balancer",
-    "snapshot-voter-gauge-rbn"
+    "snapshot-voter-gauge-rbn",
+    "snapshot-voter-pooltogether"
   ]
 }

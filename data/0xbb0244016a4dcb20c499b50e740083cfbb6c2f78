@@ -2,6 +2,11 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-freerossdao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ]
 }

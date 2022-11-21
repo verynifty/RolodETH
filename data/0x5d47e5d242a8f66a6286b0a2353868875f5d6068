@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-elfi",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-redactedcartel"
   ]
 }

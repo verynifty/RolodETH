@@ -4,6 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-apecoin",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

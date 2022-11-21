@@ -1,5 +1,7 @@
 {
   "tags": [
-    "clonex-minter"
+    "clonex-minter",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gotchivault"
   ]
 }

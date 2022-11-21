@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave"
   ],
   "name": "Sybil Delegate: BlockchainatCU"
 }

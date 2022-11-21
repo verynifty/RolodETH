@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-people-dao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-uniswap"
   ]
 }

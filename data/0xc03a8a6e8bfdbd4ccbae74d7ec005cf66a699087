@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-giv",
+    "snapshot-voter-pooltogether"
   ]
 }

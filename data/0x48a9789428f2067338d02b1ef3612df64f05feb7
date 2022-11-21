@@ -4,6 +4,10 @@
     "snapshot-voter-balancer",
     "snapshot-voter-apecoin",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-o3dao",
+    "snapshot-voter-uniswap"
   ]
 }

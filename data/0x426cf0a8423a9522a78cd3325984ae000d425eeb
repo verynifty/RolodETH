@@ -7,6 +7,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-piedao",
+    "snapshot-voter-uniswap"
   ]
 }

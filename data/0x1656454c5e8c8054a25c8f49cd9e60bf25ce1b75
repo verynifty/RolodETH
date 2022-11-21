@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-comp-vote"
   ]
 }

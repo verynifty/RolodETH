@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "hashmask-minter"
+    "hashmask-minter",
+    "snapshot-voter-frax"
   ]
 }

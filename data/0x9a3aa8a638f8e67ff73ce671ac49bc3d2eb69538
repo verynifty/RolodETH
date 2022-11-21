@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "azuki-minter"
+    "azuki-minter",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gitcoindao"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave"
   ]
 }

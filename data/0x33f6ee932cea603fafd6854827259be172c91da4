@@ -4,6 +4,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-poh",
+    "snapshot-voter-uniswap"
   ]
 }

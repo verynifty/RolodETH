@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-apecoin",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap"
   ]
 }

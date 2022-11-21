@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-pooltogether",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-uniswap"
   ]
 }

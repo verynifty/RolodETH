@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-aurafinance"
   ]
 }

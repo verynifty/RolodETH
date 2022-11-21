@@ -6,6 +6,10 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-breederdao-admin"
+    "snapshot-voter-breederdao-admin",
+    "snapshot-voter-yam",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -4,6 +4,7 @@
     "moonbird-minter",
     "otherdeed-minter",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gal"
   ]
 }

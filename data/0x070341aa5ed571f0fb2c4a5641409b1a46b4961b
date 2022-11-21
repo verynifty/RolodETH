@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-index-coop",
+    "snapshot-voter-uniswap"
   ]
 }

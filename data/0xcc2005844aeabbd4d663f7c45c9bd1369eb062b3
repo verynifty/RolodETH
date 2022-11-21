@@ -6,6 +6,9 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

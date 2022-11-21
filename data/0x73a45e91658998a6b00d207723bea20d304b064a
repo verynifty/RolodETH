@@ -5,6 +5,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-tomoondao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-zkware"
+    "snapshot-voter-zkware",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-pooltogether"
   ]
 }

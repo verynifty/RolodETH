@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

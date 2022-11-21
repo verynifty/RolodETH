@@ -3,6 +3,13 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-zirouziyu",
+    "snapshot-voter-691800",
+    "snapshot-voter-nexisdao",
+    "snapshot-voter-poh",
+    "snapshot-voter-53231323"
   ]
 }

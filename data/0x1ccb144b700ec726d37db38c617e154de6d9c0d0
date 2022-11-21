@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-unlock-protocol",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-bancornetwork",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-uniswap"
   ]
 }

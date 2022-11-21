@@ -4,6 +4,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-cakevote",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-qidao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop",
+    "snapshot-voter-apollodao",
+    "snapshot-voter-polydoge"
   ]
 }

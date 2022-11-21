@@ -8,6 +8,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-balancer",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop"
   ]
 }

@@ -7,6 +7,8 @@
     "snapshot-voter-koba777",
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-poh"
   ]
 }

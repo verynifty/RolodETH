@@ -1,5 +1,8 @@
 {
   "tags": [
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-frax",
+    "snapshot-voter-botto",
+    "snapshot-voter-speraxdao"
   ]
 }

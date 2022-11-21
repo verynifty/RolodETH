@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-elfi",
+    "snapshot-voter-uniswap"
   ]
 }

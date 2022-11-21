@@ -4,7 +4,9 @@
     "take-action",
     "snapshot-voter-gmx",
     "snapshot-voter-apecoin",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ],
   "name": "Multichain Hack Alert 2166"
 }

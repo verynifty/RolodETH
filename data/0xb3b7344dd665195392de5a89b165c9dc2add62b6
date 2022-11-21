@@ -4,6 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-balancer",
-    "snapshot-voter-breederdao-admin"
+    "snapshot-voter-breederdao-admin",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

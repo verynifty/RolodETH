@@ -2,6 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-uniswap"
   ]
 }

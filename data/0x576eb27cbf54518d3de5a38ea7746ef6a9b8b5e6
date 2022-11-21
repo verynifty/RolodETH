@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gmx",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-liveartxevent"
   ]
 }

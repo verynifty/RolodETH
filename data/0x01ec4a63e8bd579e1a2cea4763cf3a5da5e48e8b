@@ -7,6 +7,9 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

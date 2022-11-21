@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-uniswap"
   ]
 }

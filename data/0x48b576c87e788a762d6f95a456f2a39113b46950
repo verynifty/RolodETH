@@ -9,6 +9,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-balancer",
     "snapshot-voter-ens",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

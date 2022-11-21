@@ -5,6 +5,14 @@
     "snapshot-voter-gmx",
     "snapshot-voter-people-dao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-balancer",
+    "snapshot-voter-ens",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-hop",
+    "snapshot-voter-uniswap"
   ]
 }

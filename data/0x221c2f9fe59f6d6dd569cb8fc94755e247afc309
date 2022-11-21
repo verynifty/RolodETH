@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "goblin-town-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-cougardao"
   ]
 }

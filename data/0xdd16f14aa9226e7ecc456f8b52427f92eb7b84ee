@@ -5,6 +5,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-gmx",
     "snapshot-voter-pantherprotocol",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ]
 }

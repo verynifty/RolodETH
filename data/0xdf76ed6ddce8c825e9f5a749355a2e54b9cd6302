@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-balancer",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote"
   ]
 }

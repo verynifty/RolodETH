@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-liveartxevent"
   ]
 }

@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-uniswap"
   ]
 }

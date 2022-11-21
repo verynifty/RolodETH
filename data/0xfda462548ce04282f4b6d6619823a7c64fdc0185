@@ -1,7 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-sdfxs",
+    "snapshot-voter-sdcrv"
   ],
   "name": "Angle Protocol: Deployer"
 }

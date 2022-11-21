@@ -5,6 +5,10 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-uniswap"
   ]
 }

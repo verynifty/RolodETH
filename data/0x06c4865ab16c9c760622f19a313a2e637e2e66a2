@@ -4,6 +4,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-yam",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-uniswap"
   ]
 }

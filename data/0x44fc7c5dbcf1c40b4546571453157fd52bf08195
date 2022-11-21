@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-gmx",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-bestfork",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-qidao"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-aave"
   ]
 }

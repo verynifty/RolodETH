@@ -5,6 +5,11 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-friendswithbenefits",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-olympusdao"
   ]
 }

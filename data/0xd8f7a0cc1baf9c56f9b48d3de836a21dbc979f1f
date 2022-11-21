@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

@@ -3,6 +3,11 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-balancer",
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

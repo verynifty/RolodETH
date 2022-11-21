@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap"
   ]
 }

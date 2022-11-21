@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-elfi"
   ]
 }

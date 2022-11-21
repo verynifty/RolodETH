@@ -4,6 +4,7 @@
     "coolcat-minter",
     "cyber-kong-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-influenc"
   ]
 }

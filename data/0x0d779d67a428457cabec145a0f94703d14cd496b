@@ -1,6 +1,7 @@
 {
   "tags": [
     "clonex-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

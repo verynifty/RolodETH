@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-silofinance",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave"
   ]
 }

@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "meebit-minter",
-    "take-action"
+    "take-action",
+    "snapshot-voter-lgcryptounicorns"
   ],
   "name": "Multichain Hack Alert 691"
 }

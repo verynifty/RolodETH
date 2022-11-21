@@ -11,6 +11,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-index-coop",
     "snapshot-voter-balancer",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hashflowdao"
   ]
 }

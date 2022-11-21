@@ -6,6 +6,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

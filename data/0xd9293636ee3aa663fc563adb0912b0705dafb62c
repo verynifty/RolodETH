@@ -1,5 +1,14 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-elfi",
+    "snapshot-voter-aave",
+    "snapshot-voter-ens",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-pancake",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

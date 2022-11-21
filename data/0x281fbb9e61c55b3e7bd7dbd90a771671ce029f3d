@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-balancer",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

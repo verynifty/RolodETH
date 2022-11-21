@@ -5,6 +5,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-cvx",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-silofinance",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hop"
   ]
 }

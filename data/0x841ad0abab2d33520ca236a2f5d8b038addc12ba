@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-layer2dao-org"
+    "snapshot-voter-layer2dao-org",
+    "snapshot-voter-ens"
   ]
 }

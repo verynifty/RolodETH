@@ -4,6 +4,10 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-love0323",
+    "snapshot-voter-lkcup",
+    "snapshot-voter-stgdao"
   ]
 }
