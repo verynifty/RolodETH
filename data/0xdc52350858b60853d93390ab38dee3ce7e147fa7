@@ -12,6 +12,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-jbdao",
     "snapshot-voter-zerozero",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

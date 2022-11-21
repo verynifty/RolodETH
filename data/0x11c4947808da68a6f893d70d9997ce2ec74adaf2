@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "veefriend-minter",
     "wow-minter",
-    "snapshot-voter-ocm"
+    "snapshot-voter-ocm",
+    "sudoswap-user"
   ]
 }

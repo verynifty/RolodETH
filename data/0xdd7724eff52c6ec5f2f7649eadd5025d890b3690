@@ -12,6 +12,7 @@
     "snapshot-voter-polydoge",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "sudoswap-user"
   ]
 }

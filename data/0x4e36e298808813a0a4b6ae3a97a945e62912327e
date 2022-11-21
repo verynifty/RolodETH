@@ -6,6 +6,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "sudoswap-user"
   ]
 }

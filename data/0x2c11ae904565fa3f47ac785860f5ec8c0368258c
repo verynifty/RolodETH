@@ -11,6 +11,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "sudoswap-user"
   ]
 }

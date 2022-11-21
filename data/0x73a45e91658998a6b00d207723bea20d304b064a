@@ -8,6 +8,7 @@
     "snapshot-voter-zkware",
     "snapshot-voter-uniswap",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "sudoswap-user"
   ]
 }

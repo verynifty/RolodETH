@@ -3,6 +3,7 @@
     "hashmask-minter",
     "cryptoadz-minter",
     "mayc-minter",
-    "snapshot-voter-lgcryptounicorns"
+    "snapshot-voter-lgcryptounicorns",
+    "sudoswap-user"
   ]
 }

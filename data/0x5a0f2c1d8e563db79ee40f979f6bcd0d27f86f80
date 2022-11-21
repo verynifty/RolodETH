@@ -1,7 +1,8 @@
 {
   "tags": [
     "meebit-minter",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "sudoswap-user"
   ],
   "name": "Gitcoin Grants: BlockSpy"
 }

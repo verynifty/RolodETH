@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

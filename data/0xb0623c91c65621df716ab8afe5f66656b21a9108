@@ -5,7 +5,8 @@
     "meebit-minter",
     "art-goblers-minter",
     "snapshot-voter",
-    "writer"
+    "writer",
+    "sudoswap-user"
   ],
   "name": "Mirror: John Palmer"
 }

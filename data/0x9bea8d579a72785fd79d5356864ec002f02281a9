@@ -7,6 +7,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-zerozero",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

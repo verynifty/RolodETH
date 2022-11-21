@@ -4,6 +4,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-uniswap",
     "snapshot-voter-piedao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "sudoswap-user"
   ]
 }

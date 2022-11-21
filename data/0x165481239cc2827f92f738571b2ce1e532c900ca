@@ -3,6 +3,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-yokaiswap"
+    "snapshot-voter-yokaiswap",
+    "sudoswap-user"
   ]
 }

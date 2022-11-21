@@ -12,6 +12,7 @@
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-rugcommunity"
+    "snapshot-voter-rugcommunity",
+    "sudoswap-user"
   ]
 }

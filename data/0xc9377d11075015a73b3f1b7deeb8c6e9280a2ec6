@@ -5,6 +5,7 @@
     "snapshot-voter-lkcup",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "sudoswap-user"
   ]
 }

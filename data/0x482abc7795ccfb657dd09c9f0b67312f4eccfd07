@@ -7,6 +7,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "sudoswap-user"
   ]
 }

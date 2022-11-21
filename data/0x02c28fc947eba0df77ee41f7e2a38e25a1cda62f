@@ -3,6 +3,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "sudoswap-user"
   ]
 }

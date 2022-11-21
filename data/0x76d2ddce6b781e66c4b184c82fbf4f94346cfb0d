@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-beets",
-    "snapshot-voter-pitchdeployer"
+    "snapshot-voter-pitchdeployer",
+    "sudoswap-user"
   ]
 }

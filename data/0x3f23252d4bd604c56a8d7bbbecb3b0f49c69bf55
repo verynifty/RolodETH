@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "sudoswap-user"
   ]
 }

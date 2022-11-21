@@ -3,6 +3,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-hakka",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "sudoswap-user"
   ]
 }

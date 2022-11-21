@@ -3,6 +3,7 @@
     "bayc-minter",
     "cyber-kong-minter",
     "meebit-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sudoswap-user"
   ]
 }
