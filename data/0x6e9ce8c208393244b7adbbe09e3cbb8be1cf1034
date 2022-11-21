@@ -1,6 +1,12 @@
 {
   "tags": [
-    "nft"
+    "nft",
+    "opensea-verified"
   ],
-  "name": "Crypto Tuners"
+  "name": "Crypto Tuners",
+  "imageUrl": "https://i.seadn.io/gae/OKmMZF4kJHBH-B8tGS4DcaJV_H9kZi-v_4vxX5RCXq-iG-tMtljuERMmrk43N4N8g55laYJe79fxUuh9EnTl4j1lzG1X27rC8DUw?w=500&auto=format",
+  "externalUrl": "https://www.cryptotuners.io",
+  "discordUrl": "https://discord.gg/gg9YhWyZqQ",
+  "twitterUsername": "CryptoTuners",
+  "description": "5,000 JDM Legends parked in a parking garage located in the Ethereum Blockchain.\n\nCome join the crew @ https://www.cryptotuners.io\n\n Mobile Gaming NFT"
 }

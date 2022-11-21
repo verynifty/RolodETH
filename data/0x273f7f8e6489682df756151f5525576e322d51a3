@@ -1,6 +1,13 @@
 {
   "tags": [
-    "my-crypto-heroes"
+    "my-crypto-heroes",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "MCH: Hero"
+  "name": "MyCryptoHeroes",
+  "imageUrl": "https://i.seadn.io/gae/EjR3eM1lBxgVk6F3PdOU1xaF-aVQfK3aTj29kKsbkDYFJrMC1tBf0k5lYjVfd6FYIPAr-rC3e79WPZmqEkrSv10o?w=500&auto=format",
+  "externalUrl": "https://www.mycryptoheroes.net/",
+  "discordUrl": "https://discord.gg/6sKbyXh",
+  "twitterUsername": "mycryptoheroes_",
+  "description": "It's your job as a data miner to dive into the depths of the Crypto World to battle enemies and restore the heroes back to their finest form. Collect and strengthen your heroes through battles and trades to stay ahead of other miners!"
 }

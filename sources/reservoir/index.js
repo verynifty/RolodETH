@@ -7,7 +7,7 @@ function reservoir(address) {
 }
 
 reservoir.prototype.addTo = async function (RolodETH) {
-    let requests = 0;
+    let requests = 701;
     let continuation = true;
     let url = 'https://api.reservoir.tools/collections/v5?includeTopBid=false&sortBy=allTimeVolume&limit=20'
     while (continuation) {

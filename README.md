@@ -6,6 +6,16 @@ All code and data is released under the MIT license.
 # Contribute
 
 To add your data, open a pull request or contact [@grand_marquis](https://twitter.com/grands_marquis) on twitter.
+
+# Data sources
+
+Data are sourced from a variety of providers listed here:
+* [Uniswap token lists](https://tokenlists.org/) Currated token lists from Coingecko, Uniswap and MyEtherWallet.
+* [reservoir.tools](https://reservoir.tools/) API for NFT collections metadata.
+* [Snapshot voters](https://snapshot.org/) API to get list of voters for all DAO using Snapshot
+* Popular NFT collection minters from ERC721 on chain transfers such as: bayc, azuki, moonbird, doodle, coolcat, loot..
+* Uniswap V3 LP providers from ERC721 on chain transfers
+* [MyEtherWallet](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/addresses/addresses-darklist.json) scam darklist
 # Installation
 
 ```
@@ -13,7 +23,7 @@ npm install
 ```
 
 ```
-node ./api.index.js
+node ./api/index.js
 ```
 # Usage
 

@@ -1,6 +1,13 @@
 {
   "tags": [
-    "cryptopunks"
+    "cryptopunks",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "CryptoPunks: Ͼ Token"
+  "name": "CryptoPunks",
+  "imageUrl": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?w=500&auto=format",
+  "externalUrl": "https://www.larvalabs.com/cryptopunks",
+  "discordUrl": "https://discord.gg/tQp4pSE",
+  "twitterUsername": "larvalabs",
+  "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour."
 }

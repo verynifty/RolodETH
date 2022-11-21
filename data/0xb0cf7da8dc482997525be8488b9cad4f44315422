@@ -1,6 +1,12 @@
 {
   "tags": [
-    "nft"
+    "nft",
+    "opensea-verified"
   ],
-  "name": "the dudes"
+  "name": "thedudes",
+  "imageUrl": "https://i.seadn.io/gae/mxx80GXQVlEfsHRkKrYWxLeFXBWhQd1PyaPyLADxH1mJlAYL4OVwbZ0vqxOofjUsTlz2wom208kCGXdmL_fzwY_9ltu1YS5HuuPSa44?w=500&auto=format",
+  "externalUrl": "https://int.art",
+  "discordUrl": "https://discord.gg/intartnft",
+  "twitterUsername": "intartNFT",
+  "description": "the dudes is the first **interactive** PFP NFT collection. It is fully **code generated** and fully **on-chain**. To see the interactivity, click one of them and play with your dude!\n\n**Holder count is not accurate due to staking.**\n\nthe dudes is the genesis collection of the project followed by ‘the pixels inc’. No designer worked on this. No one actually drew these. It's just some code that generates random, ugly dudes. \n\nAll traits are assigned inside the smart contract and each rarity score is defined on-chain. Each dude generates **$INT** through both active/passive staking. **$INT** can be spent to extend and customise ‘the pixels inc’. Visit [int.art](https://int.art/) to learn more!\n\nOther collections:\n\n[the pixels inc](https://opensea.io/collection/the-pixels-inc)  \n[the duds](https://opensea.io/collection/theduds)  \n[the abstract dudes](https://opensea.io/collection/the-abstract-dudes)  \n[int art factory](https://opensea.io/collection/int-art-factory)"
 }

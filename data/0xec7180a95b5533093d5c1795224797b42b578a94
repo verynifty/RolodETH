@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "War Riders: Old WRG Token"
+  "name": "War Riders Gun V3",
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=b6bb069aeccb3386730f495da5e31d622c45dfc2162e32525b3d6e6aebb74aa280597c9b9e8151bd772fe182befe0c716d1b9be593501dc685202bc97fa4bddedf8816100f981d28caad9d233483f9883a3deb8e562ea6f0007ba30e815559e9"
 }

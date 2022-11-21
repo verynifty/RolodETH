@@ -1,6 +1,13 @@
 {
   "tags": [
-    "neon-district"
+    "neon-district",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "Neon District: In-Game Item"
+  "name": "Neon District",
+  "imageUrl": "https://i.seadn.io/gae/4NU_hkDs7GdAFJxCuc2385wbFWnPpoa2IDYTGWpPGP6anRPPGC0iILc0t4VEE5-H2w6LnGthod-RZvrNmpX02N4m?w=500&auto=format",
+  "externalUrl": "https://neondistrict.io/",
+  "discordUrl": "https://discord.gg/3AbutcS",
+  "twitterUsername": "neondistrictRPG",
+  "description": "Neon District is a free-to-play cyberpunk role-playing game. Collect characters and gear, craft and level up teams, and battle against other players through competitive multiplayer and in turn-based combat."
 }

@@ -1,6 +1,12 @@
 {
   "tags": [
-    "alchemist-coin"
+    "alchemist-coin",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "Alchemist Coin: Crucible NFT"
+  "name": "Alchemist Crucible v1",
+  "imageUrl": "https://i.seadn.io/gae/kSVzgBImWBQd2gbHALj3ZqvsZ4mRglk8Rlv9I3K0iza5goeq7W3KZ9MeG2jGwGRgqak3qugzY7XXEK0kG04QygoIML8yv7GAqM-6?w=500&auto=format",
+  "externalUrl": "http://crucible.wtf",
+  "discordUrl": "https://discord.gg/alchemist",
+  "twitterUsername": "CrucibleNFT"
 }

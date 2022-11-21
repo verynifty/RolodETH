@@ -1,6 +1,13 @@
 {
   "tags": [
-    "cryptoserval"
+    "cryptoserval",
+    "nft",
+    "opensea-verified"
   ],
-  "name": "CryptoServal: Game"
+  "name": "CryptoServal P2E",
+  "imageUrl": "https://i.seadn.io/gae/QHbosF-gv-Z6gh7fFPdYOo9ybpR2np4pC11dgaNfGPwwy9bVkVCskP85kAYFtRdLmEPcL62ox5ql47vIUc2sHaOZ?w=500&auto=format",
+  "externalUrl": "https://cryptoserval.io/",
+  "discordUrl": "https://discord.gg/p3XeKe7",
+  "twitterUsername": "cryptoserval",
+  "description": "Original NFT project since **2018**\n\nThe NFTs you see here are all **playable animals**. More info at  [CryptoServal.io](https://cryptoserval.io/) \n\nIf you want to own a boss, check out [Wild Animal Marketplace](https://cryptoserval.io/marketplace) or [Alpha Animal Marketplace](https://opensea.io/collection/cryptoserval-alpha) here at OpenSea\n\n"
 }

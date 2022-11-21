@@ -2,7 +2,13 @@
   "tags": [
     "gaming",
     "nft",
-    "sorare"
+    "sorare",
+    "opensea-verified"
   ],
-  "name": "Sorare: SOR Token"
+  "name": "Sorare",
+  "imageUrl": "https://i.seadn.io/gae/gj47nmAR3valkmpVbwamiuTJfWEWSCyVeORdjM6DRWrZ1o8WaqBxFXmpBrzZnGoWaPwq1Y0jiXRrBLbnLcawAp92?w=500&auto=format",
+  "externalUrl": "https://sorare.com",
+  "discordUrl": "https://discord.gg/tsjtham",
+  "twitterUsername": "SorareHQ",
+  "description": "Collect, play and win officially licensed digital cards featuring the world's best global football players."
 }

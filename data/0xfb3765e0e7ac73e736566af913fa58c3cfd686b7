@@ -1,6 +1,12 @@
 {
   "tags": [
-    "nft"
+    "nft",
+    "opensea-verified"
   ],
-  "name": "AudioGlyphs"
+  "name": "Audioglyphs",
+  "imageUrl": "https://openseauserdata.com/files/50bedeeed1fb1cac38cb9c5d3ea909cd.svg",
+  "externalUrl": "http://audioglyphs.io",
+  "discordUrl": "https://discord.gg/nSzTVmBVDG",
+  "twitterUsername": "audioglyphs",
+  "description": "10,000 randomly generated, infinite audio NFTs derived from on-chain [Pixelglyph](https://opensea.io/collection/pixelglyphs) data.\r\n\r\nEach Audioglyph synthesizes a unique, infinite stream of music directly in your browser at lossless quality.\r\n\r\n## Future of Music\r\nAudioglyphs are a glimpse into a future of music where instead of publishing statically recorded songs and limiting access, artists create infinite variations that are available to all to explore freely.\r\n\r\nInstead of buying the rights to listen to music, listeners can truly own a unique version.\r\n\r\n## Open Technology\r\n\r\nWe plan to open source the core technology Audioglyphs uses for managing and embedding audio processing on the web.\r\n\r\nWith the success of Audioglyphs, we plan to continue to develop tools for artists to create and publish generative music.\r\n\r\n## Carbon neutral\r\n\r\nCarbon emissions from minting will be offset with a donation supporting the Devarahipparigi Wind Power Project in Karnataka, India facilitated by Offsetra"
 }

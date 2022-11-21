@@ -63,6 +63,8 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await Reservoir.addTo(RolodETH);
+    return;
     await MyCryptoTokenList.addTo(RolodETH)
     await UniswapPairsList.addTo(RolodETH)
     return
@@ -78,8 +80,7 @@ const NFTMinters = [
     return;
     await snapshotvoting.addTo(RolodETH);
     return
-    await Reservoir.addTo(RolodETH);
-    return;
+
 
 
    
