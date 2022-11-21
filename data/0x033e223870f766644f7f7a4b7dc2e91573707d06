@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Zin",
+  "erc20_symbol": "ZIN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13250/thumb/coingecko_logo.png?1606716375"
+}

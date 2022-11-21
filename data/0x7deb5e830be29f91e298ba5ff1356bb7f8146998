@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "erc20",
+    "aave-v1",
+    "aave"
+  ],
+  "name": "Aave: aMKR Token V1",
+  "erc20_symbol": "AMKR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11731/thumb/aMKR.png?1593084715"
+}

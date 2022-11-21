@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bishu Finance",
+  "erc20_symbol": "BISHUFI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19606/thumb/bishu.jpeg?1635492531"
+}

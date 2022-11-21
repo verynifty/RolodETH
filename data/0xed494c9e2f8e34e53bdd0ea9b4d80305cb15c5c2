@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CryptoWorld VIP",
+  "erc20_symbol": "CWV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6570/thumb/s-ZJaJdw_400x400.jpg?1547042779"
+}

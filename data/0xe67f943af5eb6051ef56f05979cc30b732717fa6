@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WATTTON",
+  "erc20_symbol": "WATT",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/27215/thumb/CG_WATT_LOGO.png?1662611245"
+}

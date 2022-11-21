@@ -5,6 +5,7 @@
     "loot-minter",
     "hashmask-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "sybil-delegate"
   ]
 }

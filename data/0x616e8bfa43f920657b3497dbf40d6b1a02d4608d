@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "aura-finance"
+  ],
+  "name": "Aura: auraBAL Token",
+  "erc20_symbol": "AURABAL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26538/thumb/auraBAL.png?1658721102"
+}

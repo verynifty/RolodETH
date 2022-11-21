@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Everest",
+  "erc20_symbol": "ID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5209/thumb/Everest.jpg?1628042930"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Noblesscoin",
+  "erc20_symbol": "NBLS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26147/thumb/13-53-57-IMG-20220623-125356-998.jpg?1656040863"
+}

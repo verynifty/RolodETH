@@ -2,7 +2,6 @@
 const KFS = require("key-file-storage").default;
 var fs = require('fs');
 function RolodETH(filename, chainID) {
-    console.log(KFS)
     this.filename = filename;
     this.chainID = chainID;
     this.kfs = KFS(filename)

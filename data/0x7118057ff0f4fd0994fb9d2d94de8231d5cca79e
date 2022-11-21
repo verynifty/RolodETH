@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ReSource Protocol",
+  "erc20_symbol": "SOURCE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20740/thumb/source.png?1637749215"
+}

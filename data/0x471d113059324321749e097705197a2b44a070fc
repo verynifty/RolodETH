@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kanga Exchange",
+  "erc20_symbol": "KNG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21188/thumb/kanga.PNG?1638514737"
+}

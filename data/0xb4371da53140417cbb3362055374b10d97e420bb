@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Carbon Protocol",
+  "erc20_symbol": "SWTH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/3645/thumb/SWTH_Symbol_Origin.png?1645000262"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "cETH",
+  "erc20_symbol": "CETH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/10643/thumb/ceth2.JPG?1581389598"
+}

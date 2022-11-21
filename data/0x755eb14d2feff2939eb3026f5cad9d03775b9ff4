@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bunny",
+  "erc20_symbol": "BUNNY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3185/thumb/bunnytoken.png?1547564097"
+}

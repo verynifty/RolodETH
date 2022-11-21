@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AlgoVest",
+  "erc20_symbol": "AVS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13874/thumb/icon-200.png?1626094416"
+}

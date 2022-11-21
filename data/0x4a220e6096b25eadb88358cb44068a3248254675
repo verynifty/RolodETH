@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Quant",
+  "erc20_symbol": "QNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3370/thumb/5ZOu7brX_400x400.jpg?1612437252"
+}

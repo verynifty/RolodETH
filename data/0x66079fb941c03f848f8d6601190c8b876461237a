@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DIVI LAND",
+  "erc20_symbol": "DVLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25559/thumb/dvld.jpg?1652441515"
+}

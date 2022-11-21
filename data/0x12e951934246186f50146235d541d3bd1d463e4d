@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Crypto International",
+  "erc20_symbol": "CRI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24700/thumb/logo200x200.png?1648641961"
+}

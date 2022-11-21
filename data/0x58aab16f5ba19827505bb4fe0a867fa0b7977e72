@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Icel Idman Yurdu",
+  "erc20_symbol": "MIY",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/25981/thumb/20570.png?1655113476"
+}

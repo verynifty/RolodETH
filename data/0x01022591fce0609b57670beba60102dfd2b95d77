@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hitop",
+  "erc20_symbol": "HITOP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25959/thumb/20540.png?1654860802"
+}

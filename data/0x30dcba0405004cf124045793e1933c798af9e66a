@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yieldification",
+  "erc20_symbol": "YDF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26699/thumb/logo.png?1659609811"
+}

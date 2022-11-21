@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mochi Inu",
+  "erc20_symbol": "MOCHI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20164/thumb/4DileY_b_400x400.jpg?1636598711"
+}

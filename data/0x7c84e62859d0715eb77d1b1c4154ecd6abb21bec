@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shping",
+  "erc20_symbol": "SHPING",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2588/thumb/000103_Shping_Logos_Shping_Secondary_Logo.png?1661141481"
+}

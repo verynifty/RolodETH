@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WAXE",
+  "erc20_symbol": "WAXE",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13508/thumb/waxe_logo.png?1609232755"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Xensor",
+  "erc20_symbol": "XSR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9224/thumb/Xensor_Logo_%28White__200x200px%29.png?1593570861"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Crypto Excellence",
+  "erc20_symbol": "CE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14809/thumb/New_logo_CE.jpg?1643879310"
+}

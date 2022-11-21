@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Minereum",
+  "erc20_symbol": "MNE",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/702/thumb/mne.png?1587615060"
+}

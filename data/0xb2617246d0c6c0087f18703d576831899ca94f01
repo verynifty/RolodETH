@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Zignaly",
+  "erc20_symbol": "ZIG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14796/thumb/zignaly.jpg?1618496339"
+}

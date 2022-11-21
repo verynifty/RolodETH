@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mithril Share",
+  "erc20_symbol": "MIS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13516/thumb/MIS.png?1609306996"
+}

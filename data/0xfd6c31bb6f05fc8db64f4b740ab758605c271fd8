@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Contracoin",
+  "erc20_symbol": "CTCN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10801/thumb/Contracoin-symbol.png?1583881685"
+}

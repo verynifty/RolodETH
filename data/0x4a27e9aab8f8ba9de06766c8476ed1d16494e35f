@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PEPEGOLD",
+  "erc20_symbol": "PEPE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26864/thumb/logo-200x200.png?1660533136"
+}

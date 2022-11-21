@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Telefy",
+  "erc20_symbol": "TELE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26485/thumb/WhatsApp_Image_2022-07-20_at_2.51.42_AM.jpeg?1658281111"
+}

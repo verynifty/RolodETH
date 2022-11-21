@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DFX Finance",
+  "erc20_symbol": "DFX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1614320944"
+}

@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "erc20",
+    "aave-v1",
+    "aave"
+  ],
+  "name": "Aave: aBUSD Token V1",
+  "erc20_symbol": "ABUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11736/thumb/aBUSD.png?1593085489"
+}

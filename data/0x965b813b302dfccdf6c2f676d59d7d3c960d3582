@@ -2,6 +2,8 @@
   "tags": [
     "meebit-minter",
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "sybil-delegate"
+  ],
+  "name": "Sybil Delegate: nick_emmons"
 }

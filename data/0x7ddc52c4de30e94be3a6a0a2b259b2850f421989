@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GMT",
+  "erc20_symbol": "GMT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15662/thumb/gmt.png?1640069038"
+}

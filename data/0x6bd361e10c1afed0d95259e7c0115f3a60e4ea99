@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BollyCoin",
+  "erc20_symbol": "BOLLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21610/thumb/IMG-20211208-124337-701.jpg?1639579540"
+}

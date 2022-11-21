@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dejitaru Tsuka",
+  "erc20_symbol": "TSUKA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26405/thumb/Tsuka_200x200.png?1657923568"
+}

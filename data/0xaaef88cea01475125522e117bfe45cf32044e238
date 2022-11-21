@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GuildFi",
+  "erc20_symbol": "GF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20933/thumb/guildfi-logo-200.png?1638003537"
+}

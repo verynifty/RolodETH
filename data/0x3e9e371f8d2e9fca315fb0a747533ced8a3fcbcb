@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BIXCPRO",
+  "erc20_symbol": "BIXCPRO",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/7893/thumb/download.jpg?1551429825"
+}

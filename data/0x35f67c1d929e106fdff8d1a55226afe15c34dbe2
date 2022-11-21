@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Beta",
+  "erc20_symbol": "BETA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25539/thumb/Beta-47.png?1652265414"
+}

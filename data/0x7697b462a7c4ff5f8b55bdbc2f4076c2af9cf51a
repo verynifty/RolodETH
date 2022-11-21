@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sarcophagus",
+  "erc20_symbol": "SARCO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15091/thumb/E2S2-CcUcAAyNxD.jpeg?1622519884"
+}

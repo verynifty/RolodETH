@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Starwire",
+  "erc20_symbol": "STR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18232/thumb/starwirelogo_%281%29.png?1631064145"
+}

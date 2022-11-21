@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "QuickX Protocol",
+  "erc20_symbol": "QCX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/4971/thumb/qcx.png?1547040393"
+}

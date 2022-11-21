@@ -1,5 +1,7 @@
 {
   "tags": [
-    "doodle-minter"
-  ]
+    "doodle-minter",
+    "contract-deployer"
+  ],
+  "name": "Pillheads: Deployer"
 }

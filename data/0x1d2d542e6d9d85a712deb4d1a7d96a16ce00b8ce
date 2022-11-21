@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Proof Of Apes",
+  "erc20_symbol": "POA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27896/thumb/POA.png?1666318268"
+}

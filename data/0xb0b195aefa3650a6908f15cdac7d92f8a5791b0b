@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BOB",
+  "erc20_symbol": "BOB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27266/thumb/Bob-logo.png?1663073030"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PonyDAO",
+  "erc20_symbol": "PNYD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26843/thumb/ponydao.png?1660389977"
+}

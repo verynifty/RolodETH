@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GAMEE",
+  "erc20_symbol": "GMEE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14716/thumb/gmee-200x200.png?1621827468"
+}

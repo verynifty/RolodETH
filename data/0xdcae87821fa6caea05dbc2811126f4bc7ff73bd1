@@ -3,6 +3,8 @@
     "bayc-minter",
     "meebit-minter",
     "art-goblers-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer"
+  ],
+  "name": "Rektguy: Deployer"
 }

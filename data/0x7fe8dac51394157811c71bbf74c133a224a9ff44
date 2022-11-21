@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LiquidSwap",
+  "erc20_symbol": "LQD",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23323/thumb/Cq7F8wZr_400x400.jpg?1643836712"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ClinTex CTi",
+  "erc20_symbol": "CTI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13266/thumb/CTI.png?1606817542"
+}

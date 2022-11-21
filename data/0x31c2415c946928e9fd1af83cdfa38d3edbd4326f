@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MADworld",
+  "erc20_symbol": "UMAD",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/20939/thumb/UMAD_.png?1638238294"
+}

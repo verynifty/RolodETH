@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rigel Protocol",
+  "erc20_symbol": "RGP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15837/thumb/A_qRYvB2_400x400.png?1622080940"
+}

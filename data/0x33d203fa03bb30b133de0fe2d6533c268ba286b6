@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MandoX",
+  "erc20_symbol": "MANDOX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/24968/thumb/NmqN8g7.png?1649917431"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Stream Protocol",
+  "erc20_symbol": "STPL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13277/thumb/STPL.png?1606897574"
+}

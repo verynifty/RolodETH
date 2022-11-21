@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Robo",
+  "erc20_symbol": "ROBO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14611/thumb/rlogo200.jpg?1617247446"
+}

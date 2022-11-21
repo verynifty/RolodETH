@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SCARDust",
+  "erc20_symbol": "SCARD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22098/thumb/SCARDust-token-icon-full-color-transparent-bg.png?1640796874"
+}

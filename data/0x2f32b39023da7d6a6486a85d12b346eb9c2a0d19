@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ferro",
+  "erc20_symbol": "FER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26111/thumb/FER_Token.png?1655887206"
+}

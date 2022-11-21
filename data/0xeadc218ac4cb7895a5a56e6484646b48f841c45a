@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MetaFinance",
+  "erc20_symbol": "MFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17365/thumb/meta.PNG?1627435447"
+}

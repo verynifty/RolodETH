@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "delta theta",
+  "erc20_symbol": "DLTA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15697/thumb/logo-DT-square.png?1621570627"
+}

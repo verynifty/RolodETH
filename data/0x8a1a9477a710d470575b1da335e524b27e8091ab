@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Coinnec",
+  "erc20_symbol": "COI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2561/thumb/coi.png?1547036684"
+}

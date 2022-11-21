@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "INU",
+  "erc20_symbol": "INU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16898/thumb/logo.png?1632227807"
+}

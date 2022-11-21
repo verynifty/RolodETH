@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Utopia Genesis Foundation",
+  "erc20_symbol": "UOP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13428/thumb/logo_%2830%29.png?1608518506"
+}

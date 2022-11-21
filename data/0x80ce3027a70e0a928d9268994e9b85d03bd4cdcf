@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lokr",
+  "erc20_symbol": "LKR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14692/thumb/lokr.png?1648886932"
+}

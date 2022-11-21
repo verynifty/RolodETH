@@ -1,5 +1,8 @@
 {
   "tags": [
-    "hashmask-minter"
-  ]
+    "hashmask-minter",
+    "gitcoin-grantee",
+    "writer"
+  ],
+  "name": "Mirror: Scott Moore"
 }

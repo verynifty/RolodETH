@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GOLCOIN",
+  "erc20_symbol": "GOLC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27341/thumb/logo_in_the_middle_.png?1663551501"
+}

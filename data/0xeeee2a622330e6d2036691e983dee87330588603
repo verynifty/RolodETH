@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Asko",
+  "erc20_symbol": "ASKO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11773/thumb/ASKO.png?1662435680"
+}

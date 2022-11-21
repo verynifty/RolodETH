@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polkaswap",
+  "erc20_symbol": "PSWAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15475/thumb/pswap-token-logomark-ticker-icon-200px-transparent-optimized.png?1622447028"
+}

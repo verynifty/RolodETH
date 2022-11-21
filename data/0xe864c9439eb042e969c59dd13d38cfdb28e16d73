@@ -1,5 +1,8 @@
 {
   "tags": [
-    "uniswapv3-lp"
-  ]
+    "uniswapv3-lp",
+    "chain",
+    "contract-deployer"
+  ],
+  "name": "Chain: Team Wallet 2"
 }

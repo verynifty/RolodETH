@@ -5,6 +5,8 @@
     "cryptoadz-minter",
     "clonex-minter",
     "art-goblers-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Ukraine DAO: Deployer"
 }

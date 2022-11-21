@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hermez Network",
+  "erc20_symbol": "HEZ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12826/thumb/hermez_logo.png?1602826556"
+}

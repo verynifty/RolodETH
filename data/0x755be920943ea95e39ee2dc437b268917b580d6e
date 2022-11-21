@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "VersoView",
+  "erc20_symbol": "VVT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13380/thumb/HkfxEtWh_400x400.jpg?1608031723"
+}

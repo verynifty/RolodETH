@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PayYoda",
+  "erc20_symbol": "YOT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/13632/thumb/w_72D81R_400x400.png?1610492214"
+}

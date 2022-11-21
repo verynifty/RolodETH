@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tripio",
+  "erc20_symbol": "TRIO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4648/thumb/tripio-logo.jpg?1547039914"
+}

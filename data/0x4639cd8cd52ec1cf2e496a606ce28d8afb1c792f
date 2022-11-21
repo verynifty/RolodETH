@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "phish-hack"
+  ],
+  "name": "CBDAO: BREE Token",
+  "erc20_symbol": "BREE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12096/thumb/cbdao_logo.jpg?1597059848"
+}

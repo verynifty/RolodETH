@@ -1,6 +1,8 @@
 {
   "tags": [
     "art-goblers-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer"
+  ],
+  "name": "Sound.xyz: Deployer"
 }

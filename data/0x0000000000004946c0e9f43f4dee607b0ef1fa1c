@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "1inch-exchange",
+    "1inch"
+  ],
+  "name": "1inch Network: CHI Token",
+  "erc20_symbol": "CHI",
+  "imageURL": "https://assets.coingecko.com/coins/images/11583/thumb/chi.png?1591331659"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gan Punks",
+  "erc20_symbol": "GPUNKS20",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17859/thumb/unnamed_%282%29.gif?1629683073"
+}

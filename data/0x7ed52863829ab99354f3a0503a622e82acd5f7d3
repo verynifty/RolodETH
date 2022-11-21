@@ -1,5 +1,8 @@
 {
   "tags": [
-    "art-goblers-minter"
-  ]
+    "art-goblers-minter",
+    "snapshot-voter",
+    "sybil-delegate"
+  ],
+  "name": "Sybil Delegate: transmissions11"
 }

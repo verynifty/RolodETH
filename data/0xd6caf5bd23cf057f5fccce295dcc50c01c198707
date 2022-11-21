@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Evanesco Network",
+  "erc20_symbol": "EVA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16722/thumb/evan.PNG?1624849154"
+}

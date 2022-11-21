@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BeeKan   Beenews",
+  "erc20_symbol": "BKBT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5004/thumb/beekan.png?1547040430"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FastSwap",
+  "erc20_symbol": "FAST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13567/thumb/fastswap.jpeg?1622794717"
+}

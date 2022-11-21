@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Adshares",
+  "erc20_symbol": "ADS",
+  "erc20_decimals": 11,
+  "imageURL": "https://assets.coingecko.com/coins/images/868/thumb/rnO9DyJ.png?1663921311"
+}

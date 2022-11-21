@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer",
+    "gitcoin-grantee",
+    "sybil-delegate"
+  ],
+  "name": "yearn: Deployer"
 }

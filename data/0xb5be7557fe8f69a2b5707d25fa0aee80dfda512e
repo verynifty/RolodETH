@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "POLYSPORTS",
+  "erc20_symbol": "PS1",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25070/thumb/L-T2x_cG_400x400.jpg?1650024620"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BoutsPro",
+  "erc20_symbol": "BOUTS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4296/thumb/boutspro-ico-logo-300x300.jpg?1527072201"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dafi Protocol",
+  "erc20_symbol": "DAFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14428/thumb/Dafi_Black_Icon.png?1616040406"
+}

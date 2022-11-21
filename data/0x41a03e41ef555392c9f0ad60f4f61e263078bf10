@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Upper Dollar",
+  "erc20_symbol": "USDU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12332/thumb/usdu.png?1642929548"
+}

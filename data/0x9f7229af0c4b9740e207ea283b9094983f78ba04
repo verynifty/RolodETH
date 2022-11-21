@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tadpole",
+  "erc20_symbol": "TAD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13134/thumb/9DmF_cs3_400x400.jpg?1605574755"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "iXledger",
+  "erc20_symbol": "IXT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/814/thumb/ixledger.png?1547034602"
+}

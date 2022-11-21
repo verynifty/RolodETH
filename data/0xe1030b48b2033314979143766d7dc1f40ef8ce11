@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "The People s Coin",
+  "erc20_symbol": "PEEPS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16777/thumb/CoinGecko_updated_200_by_200.png?1629548157"
+}

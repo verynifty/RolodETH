@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Brokoli",
+  "erc20_symbol": "BRKL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18763/thumb/brkl.png?1633356263"
+}

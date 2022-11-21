@@ -2,6 +2,8 @@
   "tags": [
     "clonex-minter",
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Sleeper Hits Collection Volume 1: Deployer"
 }

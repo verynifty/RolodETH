@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tokenbox",
+  "erc20_symbol": "TBX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2644/thumb/tokenbox.png?1547036822"
+}

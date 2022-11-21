@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Pibble",
+  "erc20_symbol": "PIB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2972/thumb/pibble.jpg?1551683103"
+}

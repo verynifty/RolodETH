@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IjasCoin",
+  "erc20_symbol": "IJC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14099/thumb/Ijascode-Flat-Logo-2-24-2021.png?1614304358"
+}

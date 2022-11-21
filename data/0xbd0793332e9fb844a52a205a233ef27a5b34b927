@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "zb-com"
+  ],
+  "name": "ZB.com Token",
+  "erc20_symbol": "ZB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4773/thumb/zb-token-logo.png?1547040106"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MarsX",
+  "erc20_symbol": "MX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19659/thumb/png256x256.png?1636908533"
+}

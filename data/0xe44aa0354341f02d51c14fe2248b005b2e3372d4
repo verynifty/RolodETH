@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dejitaru Kaida",
+  "erc20_symbol": "KAIDA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27867/thumb/Dejitaru_Kaida.jpeg?1666153265"
+}

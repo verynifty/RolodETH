@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SafeEarth",
+  "erc20_symbol": "SAFEEARTH",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/15449/thumb/SafeEarthLogo2000.png?1620833647"
+}

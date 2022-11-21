@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ImmutableX",
+  "erc20_symbol": "IMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17233/thumb/immutableX-symbol-BLK-RGB.png?1665110648"
+}

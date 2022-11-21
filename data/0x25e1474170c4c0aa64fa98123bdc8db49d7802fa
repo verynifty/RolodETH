@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bidao",
+  "erc20_symbol": "BID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12596/thumb/bidao.png?1600996485"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EvidenZ",
+  "erc20_symbol": "BCDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2014/thumb/evidenz-512.png?1594871754"
+}

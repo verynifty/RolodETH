@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MetricExchange",
+  "erc20_symbol": "METRIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12664/thumb/metric_exchange_logo.png?1601453711"
+}

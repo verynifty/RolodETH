@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "INDESTCOIN",
+  "erc20_symbol": "INTD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27543/thumb/logoend.png?1668586274"
+}

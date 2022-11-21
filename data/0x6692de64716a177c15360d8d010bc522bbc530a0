@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Talent",
+  "erc20_symbol": "TNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25563/thumb/tnt.png?1652521166"
+}

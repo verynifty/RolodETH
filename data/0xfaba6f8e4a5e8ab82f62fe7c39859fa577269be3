@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ondo Finance",
+  "erc20_symbol": "ONDO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26580/thumb/YUBxfjcj_400x400.jpg?1658888594"
+}

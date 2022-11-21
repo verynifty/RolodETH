@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PYROMATIC",
+  "erc20_symbol": "PYRO",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/26662/thumb/PYRO200.jpg?1659448765"
+}

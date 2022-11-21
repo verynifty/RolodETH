@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Squawk",
+  "erc20_symbol": "SQUAWK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25850/thumb/SYp95hCy_400x400.jpg?1654150818"
+}

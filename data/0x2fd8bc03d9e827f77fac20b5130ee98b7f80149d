@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CRB Coin",
+  "erc20_symbol": "CRB",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/19399/thumb/crb.png?1635158925"
+}

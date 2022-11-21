@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lilith Swap",
+  "erc20_symbol": "LLTH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23499/thumb/-c-tn85C_400x400.jpeg?1644293485"
+}

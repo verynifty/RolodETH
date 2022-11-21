@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HEX.com: HEX Token",
+  "erc20_symbol": "HEX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/10103/thumb/HEX-logo.png?1575942673"
+}

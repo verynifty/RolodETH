@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Grow",
+  "erc20_symbol": "GROW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16049/thumb/grow-logo-200x200.png?1622691274"
+}

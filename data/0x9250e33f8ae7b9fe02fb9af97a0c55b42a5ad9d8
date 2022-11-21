@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cino Games",
+  "erc20_symbol": "CINO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24157/thumb/cino.png?1646575256"
+}

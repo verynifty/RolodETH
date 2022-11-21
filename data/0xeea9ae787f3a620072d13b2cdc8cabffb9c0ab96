@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yearn Secure",
+  "erc20_symbol": "YSEC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12993/thumb/ysec.png?1604212852"
+}

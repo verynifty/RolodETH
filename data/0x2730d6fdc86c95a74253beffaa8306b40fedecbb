@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UNICORN",
+  "erc20_symbol": "UNI",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/9383/thumb/54231438.png?1566777314"
+}

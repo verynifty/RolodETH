@@ -1,5 +1,7 @@
 {
   "tags": [
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "sybil-delegate"
+  ],
+  "name": "Sybil Delegate: ruyan768"
 }

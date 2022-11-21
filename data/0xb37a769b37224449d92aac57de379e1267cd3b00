@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cova Unity",
+  "erc20_symbol": "COVA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4707/thumb/covalent.jpg?1547040005"
+}

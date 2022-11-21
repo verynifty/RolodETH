@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sport and Leisure",
+  "erc20_symbol": "SNL",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/7762/thumb/745ba052-73b7-4735-a0bf-e75474def055.png?1550456328"
+}

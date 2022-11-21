@@ -1,5 +1,7 @@
 {
   "tags": [
-    "goblin-town-minter"
-  ]
+    "goblin-town-minter",
+    "contract-deployer"
+  ],
+  "name": "goblintown: Deployer"
 }

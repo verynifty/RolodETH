@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 614"
 }

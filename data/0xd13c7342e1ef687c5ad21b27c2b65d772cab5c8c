@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ultra",
+  "erc20_symbol": "UOS",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/4480/thumb/Ultra.png?1563356418"
+}

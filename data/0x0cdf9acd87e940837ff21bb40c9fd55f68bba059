@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Public Mint: MINT Token",
+  "erc20_symbol": "MINT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14106/thumb/Public_Mint_Icon_200x200.png?1614333027"
+}

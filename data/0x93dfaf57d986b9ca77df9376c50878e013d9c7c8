@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unique One",
+  "erc20_symbol": "RARE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13458/thumb/Logo_Unique.png?1612757355"
+}

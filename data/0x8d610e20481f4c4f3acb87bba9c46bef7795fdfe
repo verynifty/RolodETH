@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unity Network",
+  "erc20_symbol": "UNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17143/thumb/unity.PNG?1626658763"
+}

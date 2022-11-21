@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TrueFi",
+  "erc20_symbol": "TRU",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941"
+}

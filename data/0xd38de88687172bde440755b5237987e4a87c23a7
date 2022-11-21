@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AEN Smart",
+  "erc20_symbol": "AENS",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/15163/thumb/x58-DmSw.png?1620007469"
+}

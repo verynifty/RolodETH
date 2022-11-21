@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fesschain",
+  "erc20_symbol": "FESS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8414/thumb/IMG_20220221_115001_051.jpg?1645459447"
+}

@@ -1,6 +1,9 @@
 {
   "tags": [
     "hashmask-minter",
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "contract-deployer",
+    "gitcoin-grantee"
+  ],
+  "name": "Gitcoin Grants: NonFunGerbils"
 }

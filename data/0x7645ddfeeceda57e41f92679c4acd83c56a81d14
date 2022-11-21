@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Flux Protocol",
+  "erc20_symbol": "FLUX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15002/thumb/logo.dabc411c.png?1619402947"
+}

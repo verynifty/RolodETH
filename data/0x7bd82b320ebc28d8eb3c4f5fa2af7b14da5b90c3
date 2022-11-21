@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mozik",
+  "erc20_symbol": "MOZ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16167/thumb/mozik.PNG?1623189483"
+}

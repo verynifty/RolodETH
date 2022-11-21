@@ -5,6 +5,8 @@
     "meebit-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Crypto Punk: Deployer"
 }

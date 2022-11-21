@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tratok",
+  "erc20_symbol": "TRAT",
+  "erc20_decimals": 5,
+  "imageURL": "https://assets.coingecko.com/coins/images/6791/thumb/tratok.png?1547043075"
+}

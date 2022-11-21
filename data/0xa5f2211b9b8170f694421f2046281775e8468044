@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "THORSwap",
+  "erc20_symbol": "THOR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19292/thumb/THORSwap_Logo-removebg-preview.png?1657210461"
+}

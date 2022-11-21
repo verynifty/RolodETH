@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BaaSid",
+  "erc20_symbol": "BAAS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5463/thumb/baasid.png?1547041199"
+}

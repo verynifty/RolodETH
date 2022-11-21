@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MyToken",
+  "erc20_symbol": "MT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4109/thumb/2712.png?1547039296"
+}

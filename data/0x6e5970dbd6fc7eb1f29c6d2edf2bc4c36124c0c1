@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polytrade",
+  "erc20_symbol": "TRADE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16416/thumb/Logo_colored_200.png?1623979654"
+}

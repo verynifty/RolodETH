@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yearn finance Infrastructure Labs",
+  "erc20_symbol": "YLAB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12744/thumb/kKGUHNFn_400x400.jpg?1602193258"
+}

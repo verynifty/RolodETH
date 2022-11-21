@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Push Protocol",
+  "erc20_symbol": "PUSH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14769/thumb/aiOxYOJI_400x400.jpeg?1664499790"
+}

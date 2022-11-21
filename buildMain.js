@@ -59,11 +59,14 @@ const NFTMinters = [
     ArtGobblersMinters,
     OtherdeedMinters,
     MAYCMinters,
-    CloneXMinters,
-    UniswapV3LP
+    CloneXMinters
 ];
 
 (async () => {
+    await MyEtherWalletDarkListLabels.addTo(RolodETH);
+    await CoingeckoTokenList.addTo(RolodETH)
+    await estherscanLabels.addTo(RolodETH);
+    return
     for (const m of NFTMinters) {
         await m.addTo(RolodETH);
     }
@@ -76,9 +79,7 @@ const NFTMinters = [
     return;
 
 
-    await MyEtherWalletDarkListLabels.addTo(RolodETH);
-    await CoingeckoTokenList.addTo(RolodETH)
-    await estherscanLabels.addTo(RolodETH);
+   
 
     return;
 

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Relevant",
+  "erc20_symbol": "REL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11586/thumb/Relevant.png?1591390081"
+}

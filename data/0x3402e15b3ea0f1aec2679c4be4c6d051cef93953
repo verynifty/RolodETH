@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "QAO",
+  "erc20_symbol": "127760",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17159/thumb/qao.PNG?1626672944"
+}

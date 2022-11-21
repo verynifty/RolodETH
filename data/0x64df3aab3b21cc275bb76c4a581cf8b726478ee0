@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cramer Coin",
+  "erc20_symbol": "CRAMER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27463/thumb/cramercoin.jpg?1664176668"
+}

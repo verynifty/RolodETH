@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SokuSwap",
+  "erc20_symbol": "SOKU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18378/thumb/VCIEHaG.png?1653547690"
+}

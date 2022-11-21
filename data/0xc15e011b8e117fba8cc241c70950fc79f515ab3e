@@ -1,6 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 3168"
 }

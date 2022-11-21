@@ -3,6 +3,8 @@
     "cyber-kong-minter",
     "clonex-minter",
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "FVCK_CRYSTAL//: Deployer"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ASAN VERSE",
+  "erc20_symbol": "ASAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28189/thumb/200200_copy.png?1668324848"
+}

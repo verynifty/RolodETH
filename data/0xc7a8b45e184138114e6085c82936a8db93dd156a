@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MASK Vault  NFTX ",
+  "erc20_symbol": "MASK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17046/thumb/Hashie.png?1626147674"
+}

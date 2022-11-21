@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "friesDAO",
+  "erc20_symbol": "FRIES",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23951/thumb/friespng.png?1645772414"
+}

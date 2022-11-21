@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Manifold Finance",
+  "erc20_symbol": "FOLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15928/thumb/Manifold.png?1622439811"
+}

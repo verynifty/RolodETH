@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yield Optimization Platform   Protocol",
+  "erc20_symbol": "YOP",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13678/thumb/J7zykPx.jpg?1610802162"
+}

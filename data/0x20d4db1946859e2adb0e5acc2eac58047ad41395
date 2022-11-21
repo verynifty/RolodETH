@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Moon DAO",
+  "erc20_symbol": "MOONEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22905/thumb/cVWTHdA.png?1645690722"
+}

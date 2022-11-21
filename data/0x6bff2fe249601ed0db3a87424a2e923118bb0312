@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fyooz",
+  "erc20_symbol": "FYZ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12202/thumb/fyooz.png?1598017956"
+}

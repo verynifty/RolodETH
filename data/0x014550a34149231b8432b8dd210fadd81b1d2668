@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SHEESHETH",
+  "erc20_symbol": "SHEESH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26678/thumb/LOGO.png?1659522896"
+}

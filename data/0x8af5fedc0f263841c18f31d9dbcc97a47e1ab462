@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MESSIER",
+  "erc20_symbol": "M87",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25957/thumb/MESSIERlogonew_%281%29.png?1666773848"
+}

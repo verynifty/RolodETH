@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Circuits of Value",
+  "erc20_symbol": "COVAL",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950"
+}

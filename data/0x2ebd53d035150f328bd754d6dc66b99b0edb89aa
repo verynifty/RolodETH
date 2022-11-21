@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Metronome",
+  "erc20_symbol": "MET",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3249/thumb/metronome.png?1548084800"
+}

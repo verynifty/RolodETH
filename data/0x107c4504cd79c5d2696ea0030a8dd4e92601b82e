@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "bloom"
+  ],
+  "name": "Bloom: BLT Token",
+  "erc20_symbol": "BLT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2662/thumb/bloom.png?1547036854"
+}

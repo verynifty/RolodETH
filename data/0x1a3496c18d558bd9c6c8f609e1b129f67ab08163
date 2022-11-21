@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DEAPCOIN",
+  "erc20_symbol": "DEP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10970/thumb/DEAPcoin_01.png?1586741677"
+}

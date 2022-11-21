@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SPUNK Vault  NFTX ",
+  "erc20_symbol": "SPUNK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17063/thumb/Spunks_%281%29.png?1626150896"
+}

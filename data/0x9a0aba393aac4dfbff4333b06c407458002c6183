@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "acBTC: AC Token",
+  "erc20_symbol": "AC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12779/thumb/ac_logo.png?1602500084"
+}

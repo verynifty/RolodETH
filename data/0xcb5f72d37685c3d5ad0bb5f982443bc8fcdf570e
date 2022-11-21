@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rootkit",
+  "erc20_symbol": "ROOT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13151/thumb/rootkit_logo.png?1605712875"
+}

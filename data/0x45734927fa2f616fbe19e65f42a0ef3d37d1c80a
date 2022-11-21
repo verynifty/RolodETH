@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rogue Doge",
+  "erc20_symbol": "ROGE",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17440/thumb/njbVg2f.png?1645356462"
+}

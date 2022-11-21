@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ETH Max Yield Index",
+  "erc20_symbol": "ETHMAXY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24047/thumb/ethmaxy.png?1646194193"
+}

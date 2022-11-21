@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Istardust",
+  "erc20_symbol": "ISDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12568/thumb/istardust.png?1600840530"
+}

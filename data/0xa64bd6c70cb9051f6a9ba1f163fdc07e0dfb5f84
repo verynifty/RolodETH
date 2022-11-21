@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "erc20",
+    "aave-v1",
+    "aave"
+  ],
+  "name": "Aave: aLINK Token V1",
+  "erc20_symbol": "ALINK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11729/thumb/aLINK.png?1593084323"
+}

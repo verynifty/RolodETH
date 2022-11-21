@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Spume",
+  "erc20_symbol": "SPUME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27089/thumb/D6lMeW9k_400x400.jpeg?1661824399"
+}

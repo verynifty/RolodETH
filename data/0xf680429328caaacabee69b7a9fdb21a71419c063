@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Butterfly Protocol",
+  "erc20_symbol": "BFLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13882/thumb/ButterflyProtocolNoText_sm.png?1612492535"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HOQU",
+  "erc20_symbol": "HQX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1793/thumb/hqx.png?1547036096"
+}

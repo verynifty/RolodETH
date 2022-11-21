@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kaizen",
+  "erc20_symbol": "KZEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24396/thumb/PKl5OVRv_400x400.png?1647522756"
+}

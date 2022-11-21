@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BasketDAO DeFi Index",
+  "erc20_symbol": "BDI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14664/thumb/BDI_200.png?1621851285"
+}

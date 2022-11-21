@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IlliquidDAO",
+  "erc20_symbol": "JPEGS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22498/thumb/sXd3uwVJ_400x400.png?1641951772"
+}

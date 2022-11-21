@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Paladin",
+  "erc20_symbol": "PAL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24558/thumb/Circle-Logo.png?1648180728"
+}

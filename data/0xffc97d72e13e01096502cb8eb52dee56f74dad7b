@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "erc20",
+    "aave-v2",
+    "aave"
+  ],
+  "name": "Aave: aAAVE Token V2",
+  "erc20_symbol": "AAAVE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17248/thumb/amAAVE_2x.png?1626941140"
+}

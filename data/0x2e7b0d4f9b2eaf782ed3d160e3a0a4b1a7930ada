@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ceres",
+  "erc20_symbol": "CERES",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1648442923"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Veritaseum",
+  "erc20_symbol": "VERI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/695/thumb/veritaseum.png?1547034460"
+}

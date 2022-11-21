@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cool Monke Banana",
+  "erc20_symbol": "CMB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23385/thumb/cmb-200x200.png?1643965383"
+}

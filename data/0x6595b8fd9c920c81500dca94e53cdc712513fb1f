@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Olyverse",
+  "erc20_symbol": "OLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13983/thumb/oly-logo.png?1613461530"
+}

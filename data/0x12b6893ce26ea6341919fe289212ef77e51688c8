@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tamadoge",
+  "erc20_symbol": "TAMA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1664329157"
+}

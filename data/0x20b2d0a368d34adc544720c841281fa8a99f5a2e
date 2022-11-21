@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CoinGhost",
+  "erc20_symbol": "GST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25978/thumb/20568.png?1655112863"
+}

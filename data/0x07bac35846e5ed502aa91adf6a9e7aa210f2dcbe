@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sifchain",
+  "erc20_symbol": "EROWAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14044/thumb/EROWAN.png?1614656300"
+}

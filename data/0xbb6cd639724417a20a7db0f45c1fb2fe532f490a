@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hidigital btc",
+  "erc20_symbol": "HDBTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27024/thumb/20220824_132403.png?1661485211"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NBLH",
+  "erc20_symbol": "NBLH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27077/thumb/nblh.png?1661756906"
+}

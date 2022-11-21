@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vow",
+  "erc20_symbol": "VOW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18202/thumb/72Nd63R0_400x400.png?1630974351"
+}

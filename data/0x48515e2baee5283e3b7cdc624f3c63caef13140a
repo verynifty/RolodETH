@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MarvinInu",
+  "erc20_symbol": "MARVIN",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19028/thumb/ea3lTPa.png?1634193762"
+}

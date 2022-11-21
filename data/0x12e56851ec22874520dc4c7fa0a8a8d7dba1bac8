@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GENART",
+  "erc20_symbol": "GENART",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23055/thumb/token_logo.jpeg?1643151315"
+}

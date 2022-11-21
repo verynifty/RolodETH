@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AmpliFi",
+  "erc20_symbol": "AMPLIFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26869/thumb/amplifi.jpg?1662611752"
+}

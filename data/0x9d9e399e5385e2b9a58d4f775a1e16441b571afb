@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Metano",
+  "erc20_symbol": "METANO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28183/thumb/logo200x.jpeg?1668256131"
+}

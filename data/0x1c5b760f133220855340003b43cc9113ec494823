@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cointorox",
+  "erc20_symbol": "OROX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7572/thumb/Cointorox.png?1559635132"
+}

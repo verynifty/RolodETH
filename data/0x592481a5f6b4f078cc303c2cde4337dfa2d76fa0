@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sting",
+  "erc20_symbol": "STN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13760/thumb/sting.png?1611612491"
+}

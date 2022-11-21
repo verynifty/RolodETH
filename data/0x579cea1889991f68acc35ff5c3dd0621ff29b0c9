@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IQ",
+  "erc20_symbol": "IQ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5010/thumb/YAIS3fUh.png?1626267646"
+}

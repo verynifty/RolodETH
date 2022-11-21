@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dola",
+  "erc20_symbol": "DOLA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14287/thumb/dola.png?1667738374"
+}

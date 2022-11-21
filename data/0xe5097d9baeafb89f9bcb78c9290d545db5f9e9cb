@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hummingbot",
+  "erc20_symbol": "HBOT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21717/thumb/PDPuf0tJ_400x400.jpg?1639863782"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fancy Games",
+  "erc20_symbol": "FNC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21367/thumb/fnc.png?1639025576"
+}

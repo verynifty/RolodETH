@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Legacy ICHI",
+  "erc20_symbol": "ICHI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26004/thumb/legacy.png?1655278844"
+}

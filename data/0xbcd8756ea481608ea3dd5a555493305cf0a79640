@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Paparazzi",
+  "erc20_symbol": "PAZZI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11558/thumb/jMJC4g9m_400x400.jpg?1591079702"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "usdc"
+  ],
+  "name": "Centre: USD Coin",
+  "erc20_symbol": "USDC",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+}

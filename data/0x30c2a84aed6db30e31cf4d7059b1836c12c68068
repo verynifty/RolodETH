@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unicly Aavegotchi Astronauts Collection",
+  "erc20_symbol": "UGOTCHI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14901/thumb/uGOTCHI.jpg?1618936478"
+}

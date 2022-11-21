@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Meta Ruffy",
+  "erc20_symbol": "MR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27831/thumb/1tRmvYZ8_400x400.jpeg?1665993865"
+}

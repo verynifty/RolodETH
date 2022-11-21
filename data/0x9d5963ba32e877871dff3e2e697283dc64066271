@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Edcoin",
+  "erc20_symbol": "EDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13872/thumb/EDCOIN-1.png?1612447671"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ResearchCoin",
+  "erc20_symbol": "RSC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28146/thumb/RH_Logo_200x200.png?1668678529"
+}

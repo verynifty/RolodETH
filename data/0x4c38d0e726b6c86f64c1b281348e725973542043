@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Stand Share",
+  "erc20_symbol": "SAS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13543/thumb/sac.jpg?1609648278"
+}

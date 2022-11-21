@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cryptyk",
+  "erc20_symbol": "CTK",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/2729/thumb/th.jpg?1667122361"
+}

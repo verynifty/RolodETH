@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alien Inu",
+  "erc20_symbol": "ALIEN",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/20719/thumb/alien_logo.png?1642675038"
+}

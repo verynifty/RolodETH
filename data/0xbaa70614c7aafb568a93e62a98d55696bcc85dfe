@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unicap Finance",
+  "erc20_symbol": "UCAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13300/thumb/unicap256.png?1607308439"
+}

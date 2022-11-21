@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "JPG NFT Index",
+  "erc20_symbol": "JPG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25071/thumb/JPG-token-logo-01.png?1650242041"
+}

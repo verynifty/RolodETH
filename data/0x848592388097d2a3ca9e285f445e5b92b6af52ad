@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dwagon",
+  "erc20_symbol": "BABYTSUKA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27480/thumb/photo_2022-09-25_21-37-24.jpg?1664242733"
+}

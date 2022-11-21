@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BullionFX",
+  "erc20_symbol": "BULL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19251/thumb/237813872_101246862292596_7969491648103245595_n.png?1634797631"
+}

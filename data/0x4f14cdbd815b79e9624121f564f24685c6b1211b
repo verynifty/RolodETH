@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Angry Doge",
+  "erc20_symbol": "ANFD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25921/thumb/angry-doge-anfd.png?1654653373"
+}

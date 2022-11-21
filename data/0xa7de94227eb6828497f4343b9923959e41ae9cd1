@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MUNI",
+  "erc20_symbol": "MUNI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28166/thumb/I03PYZqO_400x400-removebg-preview.png?1668172860"
+}

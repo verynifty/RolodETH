@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Saddle Finance",
+  "erc20_symbol": "SDL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20476/thumb/edit_saddle.png?1660734429"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Karma DAO",
+  "erc20_symbol": "KARMA",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/11884/thumb/Karma.png?1597042574"
+}

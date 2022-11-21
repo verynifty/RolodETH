@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LGCY Network",
+  "erc20_symbol": "LGCY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12181/thumb/LGCY_network.jpg?1597926587"
+}

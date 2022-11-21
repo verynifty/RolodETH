@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PolkaPet World",
+  "erc20_symbol": "PETS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19409/thumb/pets_polka.PNG?1635211453"
+}

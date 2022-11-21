@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mines of Dalarnia",
+  "erc20_symbol": "DAR",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/19837/thumb/dar.png?1636014223"
+}

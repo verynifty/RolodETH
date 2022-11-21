@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dope Wars Paper",
+  "erc20_symbol": "PAPER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18166/thumb/EQHGcBO__400x400.jpeg?1663726283"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cirus",
+  "erc20_symbol": "CIRUS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17798/thumb/8p0Bvi90_400x400.jpg?1629281912"
+}

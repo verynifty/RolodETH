@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WAGMI Game",
+  "erc20_symbol": "WAGMIGAMES",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25906/thumb/Eohd79rn_400x400.jpg?1654582966"
+}

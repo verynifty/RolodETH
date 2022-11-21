@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Maximus BASE",
+  "erc20_symbol": "BASE",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/27683/thumb/IMG_1131.PNG?1665214262"
+}

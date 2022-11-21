@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BUILD",
+  "erc20_symbol": "BUILD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26533/thumb/BUILD.png?1658714842"
+}

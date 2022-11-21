@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MUX Protocol",
+  "erc20_symbol": "MCB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11796/thumb/mux.jpg?1660125796"
+}

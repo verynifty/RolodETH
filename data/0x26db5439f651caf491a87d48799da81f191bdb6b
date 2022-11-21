@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CBC network",
+  "erc20_symbol": "CBC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/2477/thumb/Icon_for_White_Bg_75x75.png?1637155730"
+}

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "autoglyph-minter",
     "meebit-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Colorglyphs: Deployer"
 }

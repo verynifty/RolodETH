@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Patron",
+  "erc20_symbol": "PAT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3169/thumb/patron.png?1548330790"
+}

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "sybil-delegate"
+  ],
+  "name": "Sybil Delegate: rleshner"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ad Flex",
+  "erc20_symbol": "ADF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5620/thumb/ad-flex-token.png?1547041485"
+}

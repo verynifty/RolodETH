@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sweatcoin   Sweat Economy",
+  "erc20_symbol": "SWEAT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1649947000"
+}

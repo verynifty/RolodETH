@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FlypMe",
+  "erc20_symbol": "FYP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1098/thumb/flypme.png?1548126453"
+}

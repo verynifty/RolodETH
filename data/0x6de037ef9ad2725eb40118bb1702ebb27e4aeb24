@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Render",
+  "erc20_symbol": "RNDR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11636/thumb/rndr.png?1638840934"
+}

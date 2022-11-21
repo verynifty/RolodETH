@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DappRadar",
+  "erc20_symbol": "RADAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20894/thumb/radar.png?1640306268"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Million",
+  "erc20_symbol": "MM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16825/thumb/logo200x200.png?1625834139"
+}

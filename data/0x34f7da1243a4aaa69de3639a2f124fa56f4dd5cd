@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tesseract",
+  "erc20_symbol": "TESS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27966/thumb/photo_2022-10-20_10.54.55.jpeg?1666766468"
+}

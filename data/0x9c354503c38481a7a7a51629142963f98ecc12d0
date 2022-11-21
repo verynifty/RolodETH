@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Origin Dollar Governance",
+  "erc20_symbol": "OGV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26353/thumb/ogv-200x200.png?1657606918"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kiki Finance",
+  "erc20_symbol": "KIKI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23151/thumb/DLq9z6qp_400x400.jpg?1643351049"
+}

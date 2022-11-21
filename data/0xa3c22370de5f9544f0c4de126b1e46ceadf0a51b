@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Stratis",
+  "erc20_symbol": "STRAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/531/thumb/stratis.png?1547034209"
+}

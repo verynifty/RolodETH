@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NanoByte",
+  "erc20_symbol": "NBT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23698/thumb/WpcmdLW.png?1645080885"
+}

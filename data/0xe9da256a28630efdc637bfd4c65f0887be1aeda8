@@ -1,5 +1,7 @@
 {
   "tags": [
-    "pudgy-pinguin-minter"
-  ]
+    "pudgy-pinguin-minter",
+    "contract-deployer"
+  ],
+  "name": "Pudgy Penguins: Deployer"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rublix",
+  "erc20_symbol": "RBLX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3253/thumb/rblx.png?1547037780"
+}

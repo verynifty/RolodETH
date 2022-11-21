@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "United Traders",
+  "erc20_symbol": "UTT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1741/thumb/utt.png?1547036018"
+}

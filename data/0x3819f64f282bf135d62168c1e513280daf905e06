@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hedron",
+  "erc20_symbol": "HDRN",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/24208/thumb/hdrn.png?1647079428"
+}

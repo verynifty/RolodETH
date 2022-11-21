@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dogs Of Elon",
+  "erc20_symbol": "DOE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19942/thumb/doe.png?1636336026"
+}

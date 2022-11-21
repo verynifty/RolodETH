@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Block Commerce Protocol",
+  "erc20_symbol": "BCP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17562/thumb/BCP_200x200.png?1628234484"
+}

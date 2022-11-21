@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "mstable"
+  ],
+  "name": "mStable: mUSD Token",
+  "erc20_symbol": "MUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803"
+}

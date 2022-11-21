@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DinoLFG",
+  "erc20_symbol": "DINO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28239/thumb/photo_2022-11-16_04-57-23.jpg?1668581540"
+}

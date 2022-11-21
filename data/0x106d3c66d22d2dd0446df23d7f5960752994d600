@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LabraCoin",
+  "erc20_symbol": "LABRA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/15024/thumb/Labra_Coin.jpg?1622613634"
+}

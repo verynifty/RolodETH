@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lucky Block",
+  "erc20_symbol": "LBLOCK",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23126/thumb/logo-200x200-LB-09.png?1643268144"
+}

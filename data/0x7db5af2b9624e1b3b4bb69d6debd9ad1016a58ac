@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Volt Inu",
+  "erc20_symbol": "VOLT",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/25201/thumb/logo200.png?1653635992"
+}

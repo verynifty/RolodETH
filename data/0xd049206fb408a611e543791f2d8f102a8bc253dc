@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NFTDAO",
+  "erc20_symbol": "NAO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22576/thumb/NAO.png?1642083280"
+}

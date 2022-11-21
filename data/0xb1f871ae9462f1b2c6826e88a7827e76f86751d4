@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GNY",
+  "erc20_symbol": "GNY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5300/thumb/icon_gny.jpg?1601926183"
+}

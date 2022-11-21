@@ -1,5 +1,8 @@
 {
   "tags": [
-    "uniswapv3-lp"
-  ]
+    "uniswapv3-lp",
+    "contract-deployer",
+    "writer"
+  ],
+  "name": "SushiSwap: Deployer 1"
 }

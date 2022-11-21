@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BOOSTO",
+  "erc20_symbol": "BST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3448/thumb/Untitled2222.png?1547038159"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SimbCoin Swap",
+  "erc20_symbol": "SMBSWAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16808/thumb/smb.png?1625134960"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EpiK Protocol",
+  "erc20_symbol": "EPK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15188/thumb/epk.PNG?1620078400"
+}

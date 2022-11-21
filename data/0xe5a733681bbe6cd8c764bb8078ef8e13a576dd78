@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Devour",
+  "erc20_symbol": "DPAY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27191/thumb/dpay.png?1665907874"
+}

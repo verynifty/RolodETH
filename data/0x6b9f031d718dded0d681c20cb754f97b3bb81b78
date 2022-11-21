@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "geeq"
+  ],
+  "name": "Geeq: GEEQ Token",
+  "erc20_symbol": "GEEQ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11953/thumb/GeeqLogoPNGTransparent-1.png?1596421769"
+}

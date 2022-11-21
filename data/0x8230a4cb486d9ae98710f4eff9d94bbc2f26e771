@@ -1,5 +1,7 @@
 {
   "tags": [
-    "wow-minter"
-  ]
+    "wow-minter",
+    "contract-deployer"
+  ],
+  "name": "Visithra: Deployer"
 }

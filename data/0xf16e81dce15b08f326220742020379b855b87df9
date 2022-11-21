@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Popsicle Finance",
+  "erc20_symbol": "ICE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14586/thumb/ice.png?1617188825"
+}

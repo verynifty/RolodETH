@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gambler Shiba",
+  "erc20_symbol": "GSHIBA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17130/thumb/RHzOHCyb_400x400.jpg?1626410775"
+}

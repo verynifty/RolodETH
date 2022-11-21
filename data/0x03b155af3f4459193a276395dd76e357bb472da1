@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swace",
+  "erc20_symbol": "SWACE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3727/thumb/swace-symbol.png?1564553792"
+}

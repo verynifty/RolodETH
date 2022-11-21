@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DEFY",
+  "erc20_symbol": "DEFY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26877/thumb/8ybr83fb0ca45cm1yvrcaclwbvcp.jpeg?1660622066"
+}

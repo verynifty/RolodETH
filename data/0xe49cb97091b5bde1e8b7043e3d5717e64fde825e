@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KuramaInu",
+  "erc20_symbol": "KUNU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19520/thumb/robert199805_Order_FO41AEBD476C8_KZ00A_R00A%28SY%29_copy.png?1641439224"
+}

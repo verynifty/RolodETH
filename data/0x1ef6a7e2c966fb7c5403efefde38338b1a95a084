@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shield  SLD ",
+  "erc20_symbol": "SLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16170/thumb/SLD_TOKEN.png?1656907214"
+}

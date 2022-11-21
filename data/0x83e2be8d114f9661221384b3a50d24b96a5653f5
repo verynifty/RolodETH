@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "0xcert",
+  "erc20_symbol": "ZXC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4552/thumb/0xcert.png?1547039841"
+}

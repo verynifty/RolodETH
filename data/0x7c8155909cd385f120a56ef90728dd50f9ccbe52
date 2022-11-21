@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Nahmii",
+  "erc20_symbol": "NII",
+  "erc20_decimals": 15,
+  "imageURL": "https://assets.coingecko.com/coins/images/9786/thumb/nahmii-sm_icon-full-color.png?1608513773"
+}

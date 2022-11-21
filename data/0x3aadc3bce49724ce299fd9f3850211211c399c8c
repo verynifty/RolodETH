@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Coinstox",
+  "erc20_symbol": "CSX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14373/thumb/CSX-token-200.png?1615771653"
+}

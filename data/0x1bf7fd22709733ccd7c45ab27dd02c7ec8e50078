@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Quiztok",
+  "erc20_symbol": "QTCON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8208/thumb/QTCON.png?1587543372"
+}

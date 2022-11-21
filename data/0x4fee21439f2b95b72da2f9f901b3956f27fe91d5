@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FrogSwap",
+  "erc20_symbol": "FROG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21449/thumb/logo.54d7099f.png?1639174332"
+}

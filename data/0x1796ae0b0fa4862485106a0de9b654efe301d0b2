@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "polychain-monsters"
+  ],
+  "name": "Polychain Monsters: PMON Token",
+  "erc20_symbol": "PMON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14604/thumb/polkamon.png?1617238350"
+}

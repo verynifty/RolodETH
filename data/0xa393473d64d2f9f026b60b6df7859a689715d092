@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lattice",
+  "erc20_symbol": "LTX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13050/thumb/Lattice.jpg?1613976295"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "lido"
+  ],
+  "name": "Lido: stETH Token",
+  "erc20_symbol": "STETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13442/thumb/steth_logo.png?1608607546"
+}

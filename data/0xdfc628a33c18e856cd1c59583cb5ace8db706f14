@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Projekt Gold",
+  "erc20_symbol": "GOLD",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16417/thumb/gold.png?1623982279"
+}

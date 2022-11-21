@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bullswap Protocol",
+  "erc20_symbol": "BVL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13195/thumb/4HPwA1D2_400x400.png?1606115706"
+}

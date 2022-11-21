@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Saltmarble",
+  "erc20_symbol": "SML",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27504/thumb/SML_200px.png?1664331670"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Up Spiral",
+  "erc20_symbol": "SPIRAL",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26615/thumb/200logo.png?1664098207"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "unit-protocol"
+  ],
+  "name": "Unit Protocol: USDP Stablecoin",
+  "erc20_symbol": "USDP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13234/thumb/USDP.png?1606579598"
+}

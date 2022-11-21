@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FansTime",
+  "erc20_symbol": "FTI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4952/thumb/fanstime.png?1547395397"
+}

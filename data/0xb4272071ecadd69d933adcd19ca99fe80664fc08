@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CryptoFranc",
+  "erc20_symbol": "XCHF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8465/thumb/WhuiuJBc_400x400.jpg?1558699947"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "StormX",
+  "erc20_symbol": "STMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1603113002"
+}

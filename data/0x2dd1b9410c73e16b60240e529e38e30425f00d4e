@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kay Pacha",
+  "erc20_symbol": "PACHA",
+  "erc20_decimals": 10,
+  "imageURL": "https://assets.coingecko.com/coins/images/27194/thumb/0_Lzf-8HxwOnPjYWi-.jpeg?1662539360"
+}

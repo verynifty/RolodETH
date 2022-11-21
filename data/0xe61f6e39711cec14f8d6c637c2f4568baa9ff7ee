@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hey",
+  "erc20_symbol": "HEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28092/thumb/HEY-logo-2-1024x1024.png?1667534940"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Medooza Ecosystem",
+  "erc20_symbol": "MDZA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13448/thumb/medooza-red-symbol-logo-exchange.png?1608681531"
+}

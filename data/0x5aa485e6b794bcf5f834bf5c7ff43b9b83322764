@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mandi",
+  "erc20_symbol": "MANDI",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/11747/thumb/DFE10T9.png?1593414801"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Atomic Wallet Coin",
+  "erc20_symbol": "AWC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7430/thumb/Atomic_Wallet_Aeron_%281%29.png?1547274057"
+}

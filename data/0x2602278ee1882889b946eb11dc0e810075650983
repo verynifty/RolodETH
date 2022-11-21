@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vader Protocol",
+  "erc20_symbol": "VADER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20497/thumb/AcF08Jk1_400x400.jpg?1637131991"
+}

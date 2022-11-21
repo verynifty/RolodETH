@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mochi Market",
+  "erc20_symbol": "MOMA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14993/thumb/mochi.PNG?1619390399"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PieDAO Balanced Crypto Pie",
+  "erc20_symbol": "BCP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13560/thumb/BCP.png?1609813753"
+}

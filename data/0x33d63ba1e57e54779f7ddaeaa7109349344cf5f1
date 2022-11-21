@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Data Economy Index",
+  "erc20_symbol": "DATA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18500/thumb/data_32.png?1632209427"
+}

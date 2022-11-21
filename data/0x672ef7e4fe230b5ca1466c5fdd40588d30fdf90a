@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Wolves of Wall Street",
+  "erc20_symbol": "WOWS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14365/thumb/wows_logo.png?1615704838"
+}

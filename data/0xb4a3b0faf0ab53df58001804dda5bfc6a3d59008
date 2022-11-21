@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sperax",
+  "erc20_symbol": "SPA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12232/thumb/sperax_logo.jpg?1598342904"
+}

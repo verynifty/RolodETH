@@ -1,6 +1,8 @@
 {
   "tags": [
     "autoglyph-minter",
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "gitcoin-grantee"
+  ],
+  "name": "Snowfro"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Perth Mint Gold Token",
+  "erc20_symbol": "PMGT",
+  "erc20_decimals": 5,
+  "imageURL": "https://assets.coingecko.com/coins/images/10730/thumb/pmgt_logo_256x256.png?1582668331"
+}

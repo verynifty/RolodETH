@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Chimpion",
+  "erc20_symbol": "BNANA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7522/thumb/banana-token-logo.jpg?1548167777"
+}

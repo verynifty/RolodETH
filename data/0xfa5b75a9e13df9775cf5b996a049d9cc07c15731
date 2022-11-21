@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "28VCK",
+  "erc20_symbol": "VCK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20063/thumb/9435.png?1636446186"
+}

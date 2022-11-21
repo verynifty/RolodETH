@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PUSd",
+  "erc20_symbol": "PUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25858/thumb/PUSd.png?1654161232"
+}

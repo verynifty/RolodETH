@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "STEPN",
+  "erc20_symbol": "GMT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/23597/thumb/gmt.png?1644658792"
+}

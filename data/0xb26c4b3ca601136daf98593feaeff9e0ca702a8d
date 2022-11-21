@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aladdin DAO",
+  "erc20_symbol": "ALD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18277/thumb/78200839.png?1631234134"
+}

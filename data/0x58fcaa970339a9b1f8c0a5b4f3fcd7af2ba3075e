@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polar Sync",
+  "erc20_symbol": "POLAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18102/thumb/polar-sync-logo-200.jpeg?1668595860"
+}

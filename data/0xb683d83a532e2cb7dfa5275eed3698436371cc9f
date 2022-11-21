@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BTU Protocol",
+  "erc20_symbol": "BTU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3697/thumb/btuprotocol.jpeg?1549597021"
+}

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "hashmask-minter"
-  ]
+    "hashmask-minter",
+    "writer"
+  ],
+  "name": "Gitcoin Grants: Stackbrief"
 }

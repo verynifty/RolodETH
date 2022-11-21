@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "COOL Vault  NFTX ",
+  "erc20_symbol": "COOL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17032/thumb/COOL.png?1626142075"
+}

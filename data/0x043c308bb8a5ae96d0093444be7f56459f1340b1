@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SumSwap",
+  "erc20_symbol": "SUM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17586/thumb/sunswap.PNG?1628570741"
+}

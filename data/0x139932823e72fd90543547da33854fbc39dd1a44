@@ -3,6 +3,8 @@
     "doodle-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 662"
 }

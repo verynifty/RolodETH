@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Defi Franc Moneta",
+  "erc20_symbol": "MON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27493/thumb/logo-moneta.png?1664268389"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BigShortBets",
+  "erc20_symbol": "BIGSB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18235/thumb/bigsb-token-logo.png?1631065645"
+}

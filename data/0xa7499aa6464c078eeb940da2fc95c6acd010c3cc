@@ -1,5 +1,7 @@
 {
   "tags": [
-    "hashmask-minter"
-  ]
+    "hashmask-minter",
+    "gitcoin-grantee"
+  ],
+  "name": "Gitcoin Grants: Arbitrage DAO"
 }

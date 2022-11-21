@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SmartCredit",
+  "erc20_symbol": "SMARTCREDIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13036/thumb/smartcredit_logo_02_white_a-1.png?1604545479"
+}

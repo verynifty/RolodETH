@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NEEO",
+  "erc20_symbol": "NEEO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26060/thumb/ZbD8a9pz_400x400.jpg?1655455842"
+}

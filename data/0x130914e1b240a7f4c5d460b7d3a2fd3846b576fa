@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aureus Nummus Gold",
+  "erc20_symbol": "ANG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12134/thumb/AureusNummusGold-logo.png?1597462266"
+}

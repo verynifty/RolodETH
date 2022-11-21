@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GazeTV",
+  "erc20_symbol": "GAZE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14717/thumb/Gaze_Icon_Positive.png?1617937326"
+}

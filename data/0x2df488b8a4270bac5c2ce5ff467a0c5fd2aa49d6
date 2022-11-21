@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sharity",
+  "erc20_symbol": "SHARI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/21796/thumb/HHGyEDIv_400x400.jpg?1640060553"
+}

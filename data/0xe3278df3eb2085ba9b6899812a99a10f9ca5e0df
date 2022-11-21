@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tourist",
+  "erc20_symbol": "TOTO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/5271/thumb/tourist-token.png?1548759070"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PayAccept",
+  "erc20_symbol": "PAYT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12513/thumb/logo.png?1603801944"
+}

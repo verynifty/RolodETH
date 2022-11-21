@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NuCypher",
+  "erc20_symbol": "NU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3318/thumb/photo1198982838879365035.jpg?1547037916"
+}

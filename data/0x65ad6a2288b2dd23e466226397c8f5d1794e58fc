@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GamyFi",
+  "erc20_symbol": "GFX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14559/thumb/circle-cropped_%281%29.png?1617008124"
+}

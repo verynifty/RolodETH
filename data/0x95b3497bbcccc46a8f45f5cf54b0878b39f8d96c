@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniDex",
+  "erc20_symbol": "UNIDX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1634888975"
+}

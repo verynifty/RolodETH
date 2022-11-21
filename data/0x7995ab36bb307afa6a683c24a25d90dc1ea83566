@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HitChain",
+  "erc20_symbol": "HIT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/5555/thumb/hitchain.png?1547041361"
+}

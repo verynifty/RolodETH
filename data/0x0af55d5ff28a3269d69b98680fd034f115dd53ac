@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BankSocial",
+  "erc20_symbol": "BSL",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/15738/thumb/banksocial_small.png?1621685752"
+}

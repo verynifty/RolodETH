@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HubCoin",
+  "erc20_symbol": "HUB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25671/thumb/logo-200_%281%29.png?1653358021"
+}

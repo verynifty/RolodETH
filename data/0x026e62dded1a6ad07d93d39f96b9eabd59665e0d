@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Birdchain",
+  "erc20_symbol": "BIRD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1994/thumb/MLSILOZA_400x400.png?1564971298"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PayB",
+  "erc20_symbol": "PAYB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25805/thumb/logo_payb_200_x_200.png?1653978259"
+}

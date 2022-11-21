@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ONTPAY",
+  "erc20_symbol": "ONTP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27496/thumb/ezgif.com-gif-maker.jpg?1664271339"
+}

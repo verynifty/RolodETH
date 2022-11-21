@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "erc20",
+    "aave-v2",
+    "aave"
+  ],
+  "name": "Aave: aENJ Token V2",
+  "erc20_symbol": "AENJ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14251/thumb/aENJ.ed76293b.png?1615528574"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ARMOR",
+  "erc20_symbol": "ARMOR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13748/thumb/armor.png?1611425846"
+}

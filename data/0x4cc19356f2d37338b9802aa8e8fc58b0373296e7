@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SelfKey",
+  "erc20_symbol": "KEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2034/thumb/selfkey.png?1548608934"
+}

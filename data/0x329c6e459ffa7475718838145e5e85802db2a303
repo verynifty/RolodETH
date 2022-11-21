@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MaidSafeCoin",
+  "erc20_symbol": "EMAID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/80/thumb/maidsafecoin.png?1547033750"
+}

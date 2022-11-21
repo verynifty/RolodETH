@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AIPRO",
+  "erc20_symbol": "AIPRO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28217/thumb/AIPro_logo_png.png?1668429140"
+}

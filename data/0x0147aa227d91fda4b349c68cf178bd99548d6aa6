@@ -1,5 +1,7 @@
 {
   "tags": [
-    "clonex-minter"
-  ]
+    "clonex-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 1538"
 }

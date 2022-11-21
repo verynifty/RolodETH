@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fear",
+  "erc20_symbol": "FEAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15825/thumb/fear-logo-400-400.png?1625552865"
+}

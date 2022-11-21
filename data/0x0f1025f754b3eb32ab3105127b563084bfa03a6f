@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "gitcoin-grantee"
+  ],
+  "name": "Gitcoin Grants: TensorTrade"
 }

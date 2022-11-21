@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NKN",
+  "erc20_symbol": "NKN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3375/thumb/nkn.png?1548329212"
+}

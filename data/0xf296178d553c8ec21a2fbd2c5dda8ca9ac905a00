@@ -4,6 +4,8 @@
     "loot-minter",
     "meebit-minter",
     "cryptoadz-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "dhof"
 }

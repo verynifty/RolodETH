@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DroneFly",
+  "erc20_symbol": "KDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17243/thumb/dronefly_symbol_200x200.png?1626936898"
+}

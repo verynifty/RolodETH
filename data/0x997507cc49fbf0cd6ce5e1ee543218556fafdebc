@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bitenium",
+  "erc20_symbol": "BT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14618/thumb/BT-token-logo-200.png?1617262055"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rizen Coin  Old ",
+  "erc20_symbol": "RZN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13373/thumb/Rizen_logo_black.png?1620206327"
+}

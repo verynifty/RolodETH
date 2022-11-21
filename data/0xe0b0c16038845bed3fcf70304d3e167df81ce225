@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CrossSwap",
+  "erc20_symbol": "CSWAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18002/thumb/cross.png?1630078540"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Baby Floki Doge",
+  "erc20_symbol": "BABYFD",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19543/thumb/babyfd.png?1635641884"
+}

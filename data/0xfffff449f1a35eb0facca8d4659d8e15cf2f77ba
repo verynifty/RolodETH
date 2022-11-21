@@ -1,5 +1,7 @@
 {
   "tags": [
-    "art-goblers-minter"
-  ]
+    "art-goblers-minter",
+    "contract-deployer"
+  ],
+  "name": "libevm.eth"
 }

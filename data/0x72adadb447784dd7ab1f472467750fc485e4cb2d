@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Worldcore",
+  "erc20_symbol": "WRC",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/1358/thumb/worldcore.png?1548761189"
+}

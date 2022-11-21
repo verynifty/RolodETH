@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XEN Crypto",
+  "erc20_symbol": "XEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27713/thumb/Xen.jpeg?1665453190"
+}

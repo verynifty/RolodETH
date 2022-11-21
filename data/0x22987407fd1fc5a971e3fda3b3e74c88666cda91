@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Smart Reward Token",
+  "erc20_symbol": "SRT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25035/thumb/me-44EyS_400x400.jpg?1649852504"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hackspace Capital",
+  "erc20_symbol": "HAC",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/2336/thumb/hac.png?1547036543"
+}

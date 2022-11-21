@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PERL eco",
+  "erc20_symbol": "PERL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4682/thumb/PERL.eco-Icon-green_6x.png?1624365340"
+}

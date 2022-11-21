@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "liquid"
+  ],
+  "name": "QASH Token",
+  "erc20_symbol": "QASH",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/1220/thumb/qash.jpeg?1547035247"
+}

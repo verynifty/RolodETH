@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gomics",
+  "erc20_symbol": "GOM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9506/thumb/69581895_377122223186787_4719544883591774208_n.png?1568184472"
+}

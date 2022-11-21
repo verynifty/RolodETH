@@ -1,5 +1,7 @@
 {
   "tags": [
-    "hashmask-minter"
-  ]
+    "hashmask-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 2902"
 }

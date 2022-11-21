@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "loot-minter",
     "meebit-minter",
-    "art-goblers-minter"
-  ]
+    "art-goblers-minter",
+    "snapshot-voter",
+    "writer"
+  ],
+  "name": "Mirror: John Palmer"
 }

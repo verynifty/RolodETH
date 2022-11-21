@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Meter Governance mapped by Meter io",
+  "erc20_symbol": "EMTRG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12175/thumb/Dark-blue-icon-transparent-vector-white-icon200x200.png?1597819237"
+}

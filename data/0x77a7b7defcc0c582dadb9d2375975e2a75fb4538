@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fan2Go",
+  "erc20_symbol": "FNTG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28180/thumb/ftgo_logo%28200x200%29.png?1668253761"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vanilla",
+  "erc20_symbol": "VNL",
+  "erc20_decimals": 12,
+  "imageURL": "https://assets.coingecko.com/coins/images/14679/thumb/vnl_logo.jpg?1635746910"
+}

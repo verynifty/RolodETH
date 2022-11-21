@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ContentBox",
+  "erc20_symbol": "BOX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4929/thumb/contentbox.png?1547740046"
+}

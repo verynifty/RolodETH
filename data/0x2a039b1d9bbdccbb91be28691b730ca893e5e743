@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rentible",
+  "erc20_symbol": "RNB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15176/thumb/Rentible-Token-Logo.png?1620025850"
+}

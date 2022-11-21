@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "hiFIDENZA",
+  "erc20_symbol": "HIFIDENZA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28237/thumb/hifidenza.png?1668579144"
+}

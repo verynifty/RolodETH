@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Governance OHM",
+  "erc20_symbol": "GOHM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21129/thumb/token_wsOHM_logo.png?1638764900"
+}

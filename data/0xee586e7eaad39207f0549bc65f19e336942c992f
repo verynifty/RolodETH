@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Celo Euro  Wormhole ",
+  "erc20_symbol": "CEUR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27870/thumb/5ETdHxeE_400x400.jpeg?1666164533"
+}

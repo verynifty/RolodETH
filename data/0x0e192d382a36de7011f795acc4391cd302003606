@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Futureswap",
+  "erc20_symbol": "FST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14520/thumb/futureswap_logo.png?1634122916"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WhaleRoom",
+  "erc20_symbol": "WHL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14328/thumb/ArEX8tkV_400x400.png?1615432175"
+}

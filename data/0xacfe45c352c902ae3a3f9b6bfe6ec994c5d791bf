@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "megaBonk",
+  "erc20_symbol": "MBONK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14996/thumb/Bonk_v2_gecko.png?1619391636"
+}

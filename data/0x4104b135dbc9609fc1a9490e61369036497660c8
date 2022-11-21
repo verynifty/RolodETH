@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "APWine",
+  "erc20_symbol": "APW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15597/thumb/ApWine.png?1621340387"
+}

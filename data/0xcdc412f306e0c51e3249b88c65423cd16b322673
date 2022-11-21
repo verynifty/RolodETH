@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Blockchain io",
+  "erc20_symbol": "BCIO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4168/thumb/BCIO_logo_square_256px.png?1547039429"
+}

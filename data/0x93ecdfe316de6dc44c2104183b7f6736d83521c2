@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Meta Inu Token",
+  "erc20_symbol": "META",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20466/thumb/META-INU.png?1637064437"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "idle-finance"
+  ],
+  "name": "Idle.finance: idleSUSDYield Token",
+  "erc20_symbol": "IDLESUSDYIELD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11934/thumb/idlesusdv3mmaxyield_32.png?1596263703"
+}

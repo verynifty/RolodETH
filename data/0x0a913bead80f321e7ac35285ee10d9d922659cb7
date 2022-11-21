@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DOS Network",
+  "erc20_symbol": "DOS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7991/thumb/DOS.png?1552900889"
+}

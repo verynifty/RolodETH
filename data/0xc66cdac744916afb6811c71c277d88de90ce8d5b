@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CDbio",
+  "erc20_symbol": "MCD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26957/thumb/mcd.png?1660998546"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IdenDEFI",
+  "erc20_symbol": "ID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27851/thumb/2022-10-16_17-47-37.png?1666094387"
+}

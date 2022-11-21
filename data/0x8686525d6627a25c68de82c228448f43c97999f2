@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lilly Finance",
+  "erc20_symbol": "LY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23787/thumb/jQlMieu.png?1645437427"
+}

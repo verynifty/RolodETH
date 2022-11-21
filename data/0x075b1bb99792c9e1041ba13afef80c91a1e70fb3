@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "curve-fi"
+  ],
+  "name": "Curve.fi: sbtcCrv Token",
+  "erc20_symbol": "CRVRENWSBTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11958/thumb/Curvefi_sbtcCrv_32.png?1596436054"
+}

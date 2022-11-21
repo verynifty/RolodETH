@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Thingschain",
+  "erc20_symbol": "TIC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/5320/thumb/thingschain-logo.png?1547040881"
+}

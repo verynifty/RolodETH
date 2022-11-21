@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SheBollETH Commerce",
+  "erc20_symbol": "SBECOM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18186/thumb/sbe.PNG?1630905841"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tax Haven Inu",
+  "erc20_symbol": "TAXHAVENINU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27362/thumb/tax_haven_inu.png?1663665897"
+}

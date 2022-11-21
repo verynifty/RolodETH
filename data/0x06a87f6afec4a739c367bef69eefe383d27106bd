@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Scoobi Doge",
+  "erc20_symbol": "SCOOBI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16101/thumb/scoobi_doge.jpg?1622963978"
+}

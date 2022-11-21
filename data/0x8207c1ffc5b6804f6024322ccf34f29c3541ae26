@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "origin-protocol"
+  ],
+  "name": "Origin: OGN Token",
+  "erc20_symbol": "OGN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878"
+}

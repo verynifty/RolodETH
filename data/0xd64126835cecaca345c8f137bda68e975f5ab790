@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yeni Malatyaspor Token",
+  "erc20_symbol": "YMS",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/24815/thumb/Yeni_Malatyaspor_logo.svg.png?1649029086"
+}

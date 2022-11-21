@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swing DAO",
+  "erc20_symbol": "SWING",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27779/thumb/aUQKFUM.png?1665731942"
+}

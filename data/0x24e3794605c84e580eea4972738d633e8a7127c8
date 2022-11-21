@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Katalyo: KTLYO Token",
+  "erc20_symbol": "KTLYO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13347/thumb/katalyo_logo_aqua_256.png?1607762430"
+}

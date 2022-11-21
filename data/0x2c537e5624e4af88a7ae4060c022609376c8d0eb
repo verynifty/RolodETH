@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BiLira",
+  "erc20_symbol": "TRYB",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1642668342"
+}

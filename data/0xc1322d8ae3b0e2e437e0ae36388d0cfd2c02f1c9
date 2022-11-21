@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DAO PlayMarket 2 0",
+  "erc20_symbol": "PMT",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/1514/thumb/pmt.png?1547035648"
+}

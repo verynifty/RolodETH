@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "QuarkChain",
+  "erc20_symbol": "QKC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3849/thumb/quarkchain.png?1548387524"
+}

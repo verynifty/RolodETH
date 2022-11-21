@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Rentberry",
+  "erc20_symbol": "BERRY",
+  "erc20_decimals": 14,
+  "imageURL": "https://assets.coingecko.com/coins/images/1787/thumb/rentberry.png?1548608046"
+}

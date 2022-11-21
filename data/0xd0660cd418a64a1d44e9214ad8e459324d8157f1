@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Woofy",
+  "erc20_symbol": "WOOFY",
+  "erc20_decimals": 12,
+  "imageURL": "https://assets.coingecko.com/coins/images/15410/thumb/woofy.png?1622566328"
+}

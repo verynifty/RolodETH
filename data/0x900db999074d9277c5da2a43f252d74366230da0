@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Giveth",
+  "erc20_symbol": "GIV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1640055088"
+}

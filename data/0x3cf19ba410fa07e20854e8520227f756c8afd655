@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ShibaTsuka",
+  "erc20_symbol": "STSUKA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27495/thumb/tsuka200.png?1664269591"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vela Exchange",
+  "erc20_symbol": "DXP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25114/thumb/1_0w4P8R5heRFwRomJ4vPCWQ.png?1650348942"
+}

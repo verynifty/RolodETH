@@ -1,5 +1,7 @@
 {
   "tags": [
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "contract-deployer"
+  ],
+  "name": "Lost Poets: Deployer"
 }

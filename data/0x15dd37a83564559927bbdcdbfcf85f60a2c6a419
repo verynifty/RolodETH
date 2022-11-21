@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "StonkLeague",
+  "erc20_symbol": "AEGIS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26294/thumb/iShot_2022-07-07_10.44.16.png?1657161870"
+}

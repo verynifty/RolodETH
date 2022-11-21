@@ -1,5 +1,7 @@
 {
   "tags": [
-    "bayc-minter"
-  ]
+    "bayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Based Fish Mafia: Deployer"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hashflow",
+  "erc20_symbol": "HFT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26136/thumb/hashflow-icon-cmc.png?1668345672"
+}

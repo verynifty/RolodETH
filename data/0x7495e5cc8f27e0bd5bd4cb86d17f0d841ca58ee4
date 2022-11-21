@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Arnoya classic",
+  "erc20_symbol": "ARNC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28194/thumb/ARNC_200.png?1668332937"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fox Trading",
+  "erc20_symbol": "FOXT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5182/thumb/foxtrading-logo.png?1547040619"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Robo Inu Finance",
+  "erc20_symbol": "RBIF",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/20821/thumb/O68Gs5SE_400x400.jpg?1654929220"
+}

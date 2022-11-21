@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TE FOOD",
+  "erc20_symbol": "TONE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2325/thumb/tec.png?1547036538"
+}

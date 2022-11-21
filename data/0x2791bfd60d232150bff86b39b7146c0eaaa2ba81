@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BiFi",
+  "erc20_symbol": "BIFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13671/thumb/ysYIu7Q.png?1610679337"
+}

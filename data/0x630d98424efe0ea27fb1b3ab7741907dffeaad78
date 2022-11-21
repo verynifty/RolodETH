@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PEAKDEFI",
+  "erc20_symbol": "PEAK",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/9626/thumb/PEAKDEFI_Logo_250x250.png?1603094772"
+}

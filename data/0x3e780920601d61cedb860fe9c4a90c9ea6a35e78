@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Boosted Finance",
+  "erc20_symbol": "BOOST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12329/thumb/boosted.jpg?1599105606"
+}

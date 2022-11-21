@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "axie-infinity"
+  ],
+  "name": "Axie Infinity: AXS Token",
+  "erc20_symbol": "AXS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082"
+}

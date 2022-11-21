@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ledgity",
+  "erc20_symbol": "LTY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17939/thumb/ledgity.PNG?1629876428"
+}

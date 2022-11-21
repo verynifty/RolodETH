@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MoveRich",
+  "erc20_symbol": "MVRC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28176/thumb/MoveRich_logo%28200x200%29.png?1668247458"
+}

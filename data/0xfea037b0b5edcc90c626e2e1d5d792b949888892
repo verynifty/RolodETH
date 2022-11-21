@@ -1,6 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "NessGraphics: Deployer"
 }

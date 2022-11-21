@@ -2,6 +2,8 @@
   "tags": [
     "wow-minter",
     "otherdeed-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "Juicebox Frens: Deployer"
 }

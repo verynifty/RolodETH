@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bolide",
+  "erc20_symbol": "BLID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25548/thumb/BLID_token_logo_200x200.png?1652334831"
+}

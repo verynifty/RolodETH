@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KRAUSE",
+  "erc20_symbol": "KRAUSE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21022/thumb/-HEQTtGz_400x400.png?1638193269"
+}

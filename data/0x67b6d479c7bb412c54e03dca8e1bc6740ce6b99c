@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kylin Network",
+  "erc20_symbol": "KYL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14164/thumb/kyl_logo.jpg?1647507720"
+}

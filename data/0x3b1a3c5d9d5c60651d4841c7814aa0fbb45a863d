@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Laeeb Inu ERC",
+  "erc20_symbol": "LAEEB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27905/thumb/LaeebLogo200x200.png?1666335729"
+}

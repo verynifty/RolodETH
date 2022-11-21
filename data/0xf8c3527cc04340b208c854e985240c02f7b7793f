@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Frontier: FRONT Token",
+  "erc20_symbol": "FRONT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12479/thumb/frontier_logo.png?1600145472"
+}

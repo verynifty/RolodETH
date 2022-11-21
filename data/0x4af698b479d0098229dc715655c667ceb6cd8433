@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MaidCoin",
+  "erc20_symbol": "MAID",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17571/thumb/610e48937e73535a83f92ae7_icon200.png?1628517343"
+}

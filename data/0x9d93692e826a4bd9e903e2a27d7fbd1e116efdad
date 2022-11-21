@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "POLY Maximus",
+  "erc20_symbol": "POLY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28236/thumb/photo_2022-11-09_12-53-56.jpg?1668576107"
+}

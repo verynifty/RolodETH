@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "enVoy DeFi",
+  "erc20_symbol": "VOY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22105/thumb/voy_tokenconcepts-01-32x32-1-e1640735076388.png?1640828528"
+}

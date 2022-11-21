@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aurix",
+  "erc20_symbol": "AUR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14372/thumb/gold-brown-2.png?1615769158"
+}

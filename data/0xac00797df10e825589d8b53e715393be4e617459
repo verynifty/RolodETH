@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bubble Network",
+  "erc20_symbol": "BBL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13443/thumb/bubble_network_logo.png?1608612666"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Jewel",
+  "erc20_symbol": "JWL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6996/thumb/jewelpay_token.jpg?1547043400"
+}

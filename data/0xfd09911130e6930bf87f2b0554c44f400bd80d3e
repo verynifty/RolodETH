@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EthicHub",
+  "erc20_symbol": "ETHIX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Whole Earth Coin",
+  "erc20_symbol": "WEC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16313/thumb/61ea0d78e70bb93dee3c03a0_whole-earth-coin_brand.png?1643189537"
+}

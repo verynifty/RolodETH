@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KERMAN",
+  "erc20_symbol": "KERMAN",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/11536/thumb/Kerman.png?1590776066"
+}

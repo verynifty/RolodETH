@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Double A Chain",
+  "erc20_symbol": "AAC",
+  "erc20_decimals": 5,
+  "imageURL": "https://assets.coingecko.com/coins/images/2577/thumb/acute-angle-cloud.png?1547036708"
+}

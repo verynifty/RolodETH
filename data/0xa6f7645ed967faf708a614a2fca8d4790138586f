@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MoonieNFT",
+  "erc20_symbol": "MNY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18226/thumb/sq8oK6mX_400x400.png?1631026813"
+}

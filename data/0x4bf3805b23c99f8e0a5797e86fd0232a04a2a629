@@ -2,6 +2,8 @@
   "tags": [
     "meebit-minter",
     "cryptoadz-minter",
-    "art-goblers-minter"
-  ]
+    "art-goblers-minter",
+    "contract-deployer"
+  ],
+  "name": "IKB Cachet de Garantie: Deployer"
 }

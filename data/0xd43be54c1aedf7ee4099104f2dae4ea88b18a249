@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Traxx",
+  "erc20_symbol": "TRAXX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24441/thumb/TT.png?1658383110"
+}

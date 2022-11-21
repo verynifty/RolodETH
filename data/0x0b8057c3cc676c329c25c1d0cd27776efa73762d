@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Megaweapon",
+  "erc20_symbol": "WEAPON",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/20833/thumb/weapon.png?1659792713"
+}

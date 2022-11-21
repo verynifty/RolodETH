@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SatoExchange",
+  "erc20_symbol": "SATX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/8500/thumb/satx-logo.png?1559015585"
+}

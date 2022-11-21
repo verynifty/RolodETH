@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MCN Ventures",
+  "erc20_symbol": "MCN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17580/thumb/mcn-logo-white-bg.png?1628561611"
+}

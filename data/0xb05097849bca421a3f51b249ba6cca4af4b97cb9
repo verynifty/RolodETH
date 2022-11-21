@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Float Protocol  Float",
+  "erc20_symbol": "FLOAT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15502/thumb/FLOAT_LOGO-reduced_01.png?1621081152"
+}

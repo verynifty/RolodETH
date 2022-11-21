@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Maya Preferred",
+  "erc20_symbol": "MAYP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8081/thumb/2u0OXhT9_400x400.png?1554426529"
+}

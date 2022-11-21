@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LimitSwap",
+  "erc20_symbol": "LIMIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12760/thumb/limit_swap_logo.png?1602347106"
+}

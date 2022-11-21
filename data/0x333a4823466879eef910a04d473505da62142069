@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Nation3",
+  "erc20_symbol": "NATION",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25106/thumb/Orb_gradient.png?1650321118"
+}

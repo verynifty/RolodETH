@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SAUDI SHIBA INU",
+  "erc20_symbol": "SAUDISHIB",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/26708/thumb/FvmN7Wa.png?1659666550"
+}

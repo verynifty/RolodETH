@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mysterium",
+  "erc20_symbol": "MYST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/757/thumb/mysterium.png?1547034503"
+}

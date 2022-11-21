@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unagii Wrapped Bitcoin",
+  "erc20_symbol": "UWBTC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/14625/thumb/uBTC.png?1617294190"
+}

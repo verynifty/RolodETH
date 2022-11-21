@@ -1,5 +1,7 @@
 {
   "tags": [
-    "pudgy-pinguin-minter"
-  ]
+    "pudgy-pinguin-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 807"
 }

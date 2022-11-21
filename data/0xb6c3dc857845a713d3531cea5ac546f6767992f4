@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Advertise Coin",
+  "erc20_symbol": "ADCO",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/14344/thumb/advertisecoin200x200.png?1615503478"
+}

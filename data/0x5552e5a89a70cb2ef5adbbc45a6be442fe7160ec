@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kawakami",
+  "erc20_symbol": "KAWA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16369/thumb/kawakami-2022-red-logo.png?1665374338"
+}

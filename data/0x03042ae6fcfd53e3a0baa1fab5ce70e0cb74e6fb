@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ten Best Coins",
+  "erc20_symbol": "TBC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27312/thumb/tbc.png?1663312003"
+}

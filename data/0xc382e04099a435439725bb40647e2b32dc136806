@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cogecoin",
+  "erc20_symbol": "COGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16791/thumb/Dog-Logo_1x.png?1625033809"
+}

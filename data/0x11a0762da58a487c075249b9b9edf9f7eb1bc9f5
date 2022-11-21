@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OriginDAO",
+  "erc20_symbol": "OG",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27699/thumb/Origin.jpeg?1665303707"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KoaCombat",
+  "erc20_symbol": "KOACOMBAT",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23827/thumb/jGYAi2LB_400x400.jpg?1645515278"
+}

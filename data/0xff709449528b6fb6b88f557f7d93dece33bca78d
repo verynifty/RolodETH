@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ApeUSD",
+  "erc20_symbol": "APEUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25621/thumb/ApeUSD.png?1652857577"
+}

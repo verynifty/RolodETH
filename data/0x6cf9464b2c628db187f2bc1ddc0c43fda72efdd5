@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sivasspor",
+  "erc20_symbol": "SIV",
+  "erc20_decimals": 2,
+  "imageURL": "https://assets.coingecko.com/coins/images/22043/thumb/16528.png?1640674444"
+}

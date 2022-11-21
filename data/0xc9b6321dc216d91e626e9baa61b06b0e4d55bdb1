@@ -1,5 +1,7 @@
 {
   "tags": [
-    "wow-minter"
-  ]
+    "wow-minter",
+    "contract-deployer"
+  ],
+  "name": "World of Women: Deployer"
 }

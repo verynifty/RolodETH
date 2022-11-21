@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hygenercoin",
+  "erc20_symbol": "HG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8817/thumb/60762471_431874227611586_5376521021266329600_n.png?1561551785"
+}

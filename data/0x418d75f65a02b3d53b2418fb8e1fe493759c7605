@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "wormhole"
+  ],
+  "name": "Wormhole: WBNB Token",
+  "erc20_symbol": "BNB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1644224553"
+}

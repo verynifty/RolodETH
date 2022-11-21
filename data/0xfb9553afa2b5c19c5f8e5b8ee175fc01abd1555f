@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hybrid Bank Cash",
+  "erc20_symbol": "HBC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12489/thumb/hb_logo.png?1600208518"
+}

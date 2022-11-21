@@ -4,6 +4,8 @@
     "moonbird-minter",
     "doodle-minter",
     "goblin-town-minter",
-    "mayc-minter"
-  ]
+    "mayc-minter",
+    "contract-deployer"
+  ],
+  "name": "NFT Finesser: Deployer"
 }

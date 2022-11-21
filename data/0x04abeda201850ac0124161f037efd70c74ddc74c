@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "nest-protocol"
+  ],
+  "name": "NEST Protocol: NEST Token",
+  "erc20_symbol": "NEST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1589868539"
+}

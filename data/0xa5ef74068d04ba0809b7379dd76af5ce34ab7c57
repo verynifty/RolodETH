@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LunaChow",
+  "erc20_symbol": "LUCHOW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18805/thumb/J-MwYfhD_400x400.jpg?1633475157"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MEDIA EYE",
+  "erc20_symbol": "EYE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20643/thumb/eye.png?1656052464"
+}

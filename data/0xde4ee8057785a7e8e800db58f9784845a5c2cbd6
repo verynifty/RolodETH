@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DeXe",
+  "erc20_symbol": "DEXE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12713/thumb/logo_%2814%29.png?1601952779"
+}

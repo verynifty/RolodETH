@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BRIBE",
+  "erc20_symbol": "BRIBE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23103/thumb/uo74tgXT_400x400.jpg?1643205065"
+}

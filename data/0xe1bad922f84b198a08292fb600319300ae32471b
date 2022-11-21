@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Firmachain",
+  "erc20_symbol": "FCT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9892/thumb/6mHcLurm_400x400.jpg?1573160342"
+}

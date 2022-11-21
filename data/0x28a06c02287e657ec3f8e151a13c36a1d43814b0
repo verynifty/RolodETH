@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BondAppetit Governance",
+  "erc20_symbol": "BAG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14724/thumb/BAG2x.png?1618568573"
+}

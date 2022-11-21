@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Busy",
+  "erc20_symbol": "BUSY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14966/thumb/busy.PNG?1619165503"
+}

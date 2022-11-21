@@ -7,6 +7,8 @@
     "meebit-minter",
     "veefriend-minter",
     "art-goblers-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer"
+  ],
+  "name": "WIPcoin: Deployer"
 }

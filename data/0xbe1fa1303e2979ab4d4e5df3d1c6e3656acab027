@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dripto",
+  "erc20_symbol": "DRYP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25569/thumb/dryp.png?1652602736"
+}

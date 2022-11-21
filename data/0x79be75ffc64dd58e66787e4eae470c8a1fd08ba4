@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aave AMM DAI",
+  "erc20_symbol": "AAMMDAI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17197/thumb/aAMMDAI_2x.png?1626940032"
+}

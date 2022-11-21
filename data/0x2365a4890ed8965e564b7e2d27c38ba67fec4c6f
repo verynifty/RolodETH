@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aave AMM UniWBTCUSDC",
+  "erc20_symbol": "AAMMUNIWBTCUSDC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17255/thumb/aAmmUniWBTCUSDC.png?1626956709"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WHEY",
+  "erc20_symbol": "WHEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14883/thumb/WHEY_logo_black_0421_v1.png?1618893173"
+}

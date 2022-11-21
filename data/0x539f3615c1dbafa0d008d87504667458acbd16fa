@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fera",
+  "erc20_symbol": "FERA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12143/thumb/IMG_20200908_085545_557.jpg?1599563732"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vidiachange",
+  "erc20_symbol": "VIDA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14346/thumb/vidia.png?1615504632"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Firulais",
+  "erc20_symbol": "FIRU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17564/thumb/firulais.jpg?1628321879"
+}

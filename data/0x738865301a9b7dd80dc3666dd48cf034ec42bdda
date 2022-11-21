@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Agoras  Currency of Tau",
+  "erc20_symbol": "AGRS",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/399/thumb/agrs.png?1639622234"
+}

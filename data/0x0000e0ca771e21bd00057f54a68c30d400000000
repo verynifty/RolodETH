@@ -1,5 +1,7 @@
 {
   "tags": [
-    "uniswapv3-lp"
-  ]
+    "uniswapv3-lp",
+    "mev-bot"
+  ],
+  "name": "MEV Bot: 0x0000E0C...000"
 }

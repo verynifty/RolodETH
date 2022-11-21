@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "X7R",
+  "erc20_symbol": "X7R",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27710/thumb/X7R.png?1665314632"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Skillchain",
+  "erc20_symbol": "SKI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3780/thumb/SKI.png?1589121168"
+}

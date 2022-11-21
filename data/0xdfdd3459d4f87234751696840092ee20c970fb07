@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "My bu",
+  "erc20_symbol": "MYOBU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/16122/thumb/myobu.png?1623037167"
+}

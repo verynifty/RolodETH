@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Zippie",
+  "erc20_symbol": "ZIPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4302/thumb/zippie.jpg?1547039665"
+}

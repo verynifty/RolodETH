@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Intercoin",
+  "erc20_symbol": "ITR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20180/thumb/VU72TTZ3zN3w.png?1636604639"
+}

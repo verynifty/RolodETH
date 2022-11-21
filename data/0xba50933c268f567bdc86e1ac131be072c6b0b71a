@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ARPA",
+  "erc20_symbol": "ARPA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357"
+}

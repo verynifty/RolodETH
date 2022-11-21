@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "3X Short Stellar",
+  "erc20_symbol": "XLMBEAR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13335/thumb/assets_coingecko_com-ftt.jpg?1607567062"
+}

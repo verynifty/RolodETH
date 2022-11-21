@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "VERA Exchange",
+  "erc20_symbol": "VERA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9766/thumb/hn9LRFGrVzyuPJrDIrVeCdUN2IfxIwWDk6mM5U9cGm_b0oPyENjOrXzTJ7vwHE65PIzM_H4nGlcHJHPBV5qHoQ8cfwRSud89RJHUngAGMnYIoLZ-UzEk9HuspfOmNu2Finm8RZW-UIM1_Jykw3Cj743iNPqjsqNxkuazLsa0h76oIwf61Sn3h9-IFiwgVLXyfRVuCO0bTY6q_aLJLwzE-P1OALNJfpLSVY52ygRlDGMZS1qj.jpg?1575358608"
+}

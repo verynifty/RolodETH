@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bluejay",
+  "erc20_symbol": "BLU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28085/thumb/Bluejay.png?1667444163"
+}

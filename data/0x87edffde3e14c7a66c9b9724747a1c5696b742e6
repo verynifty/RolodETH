@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SWAG Finance",
+  "erc20_symbol": "SWAG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12805/thumb/photo_2020-10-14_23.17.02.jpeg?1602688642"
+}

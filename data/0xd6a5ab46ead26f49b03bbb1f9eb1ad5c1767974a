@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "etheremon"
+  ],
+  "name": "Ethermon: EMON Token",
+  "erc20_symbol": "EMON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15889/thumb/LtET0reH_400x400.jpg?1622213962"
+}

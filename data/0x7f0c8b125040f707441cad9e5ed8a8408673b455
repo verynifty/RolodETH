@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CSP DAO Network",
+  "erc20_symbol": "NEBO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13436/thumb/csp_dao.png?1608535699"
+}

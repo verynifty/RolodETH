@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gera Coin",
+  "erc20_symbol": "GERA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13686/thumb/GeraCoin_Logo-icon-1000px.png?1610919942"
+}

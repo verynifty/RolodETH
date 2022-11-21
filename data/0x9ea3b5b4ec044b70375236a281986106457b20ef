@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Delta Financial",
+  "erc20_symbol": "DELTA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14564/thumb/Delta_logo.png?1619067341"
+}

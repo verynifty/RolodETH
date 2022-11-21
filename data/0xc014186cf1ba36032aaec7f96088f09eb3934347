@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WeCoOwn",
+  "erc20_symbol": "WCX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14497/thumb/WCX-Token-Logo.png?1616555141"
+}

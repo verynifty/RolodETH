@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shopping io OLD",
+  "erc20_symbol": "SPI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13537/thumb/SPI_Token.png?1623763713"
+}

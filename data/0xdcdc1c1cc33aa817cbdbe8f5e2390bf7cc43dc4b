@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AVASTR Vault  NFTX ",
+  "erc20_symbol": "AVASTR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17034/thumb/AVASTR.png?1626142802"
+}

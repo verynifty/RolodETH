@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "meebit-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "snapshot-voter"
   ]
 }

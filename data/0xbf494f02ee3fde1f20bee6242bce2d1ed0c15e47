@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "World",
+  "erc20_symbol": "WORLD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13801/thumb/WORLD.png?1612843088"
+}

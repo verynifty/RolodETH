@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XPOP",
+  "erc20_symbol": "XPOP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26251/thumb/%EC%9E%90%EC%82%B0_1.png?1656936169"
+}

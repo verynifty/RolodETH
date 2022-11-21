@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Crypterium",
+  "erc20_symbol": "CRPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1901/thumb/crypt.png?1547036205"
+}

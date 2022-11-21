@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PolkaEx",
+  "erc20_symbol": "PKEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18616/thumb/1024-1024-02.png?1632698540"
+}

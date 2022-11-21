@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Divergence Protocol",
+  "erc20_symbol": "DIVER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18666/thumb/DIVER.jpg?1632837940"
+}

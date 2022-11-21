@@ -1,5 +1,7 @@
 {
   "tags": [
-    "azuki-minter"
-  ]
+    "azuki-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 775"
 }

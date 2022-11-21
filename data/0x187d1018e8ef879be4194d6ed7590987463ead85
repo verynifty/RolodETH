@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FUZE",
+  "erc20_symbol": "FUZE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8941/thumb/logo-fuze-fix-big.png?1563117524"
+}

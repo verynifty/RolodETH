@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Liquinity",
+  "erc20_symbol": "LQNTY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26844/thumb/photo_5161276562430077559_x.jpg?1660391137"
+}

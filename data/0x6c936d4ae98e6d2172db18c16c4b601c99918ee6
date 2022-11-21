@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Life Crypto",
+  "erc20_symbol": "LIFE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18245/thumb/communityIcon_t3kzc5skazh81.png?1666058038"
+}

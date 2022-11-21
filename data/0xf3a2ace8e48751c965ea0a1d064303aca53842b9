@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HXY Money",
+  "erc20_symbol": "HXY",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/11225/thumb/hexmoneygradientsmall.png?1595305947"
+}

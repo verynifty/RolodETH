@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Inusanity",
+  "erc20_symbol": "INUSANITY",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27719/thumb/inusanity200.png?1665462344"
+}

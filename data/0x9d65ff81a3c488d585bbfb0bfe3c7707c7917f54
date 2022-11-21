@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SSV Network",
+  "erc20_symbol": "SSV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19155/thumb/ssv.png?1638181902"
+}

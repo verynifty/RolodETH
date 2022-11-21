@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MatrixETF",
+  "erc20_symbol": "MDF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18538/thumb/MDF.png?1632304949"
+}

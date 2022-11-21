@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "McDoge",
+  "erc20_symbol": "MCDOGE",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23096/thumb/IL1fIBa.png?1643183135"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BabyWhale",
+  "erc20_symbol": "BBW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24168/thumb/babywhale_32.png?1646716918"
+}

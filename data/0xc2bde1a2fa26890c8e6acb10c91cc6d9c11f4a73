@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hashmasks",
+  "erc20_symbol": "MASK20",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17856/thumb/unnamed_%284%29.jpg?1629681381"
+}

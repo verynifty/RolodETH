@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Covalent",
+  "erc20_symbol": "CQT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14168/thumb/covalent-cqt.png?1624545218"
+}

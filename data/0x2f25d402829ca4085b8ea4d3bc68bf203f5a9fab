@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "EagonSwap",
+  "erc20_symbol": "EAGON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20431/thumb/IMG-20210912-WA0003.jpg?1637035180"
+}

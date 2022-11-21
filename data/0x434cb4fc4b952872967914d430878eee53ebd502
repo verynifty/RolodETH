@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ALLPAYCOIN",
+  "erc20_symbol": "APCG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26836/thumb/apcg.png?1660299504"
+}

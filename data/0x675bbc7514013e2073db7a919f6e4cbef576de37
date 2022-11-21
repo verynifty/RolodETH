@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Coldstack",
+  "erc20_symbol": "CLS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15499/thumb/logo_200x200.png?1621072403"
+}

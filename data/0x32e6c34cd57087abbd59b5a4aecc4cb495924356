@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BitBase Token",
+  "erc20_symbol": "BTBS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17414/thumb/btbs.PNG?1627596633"
+}

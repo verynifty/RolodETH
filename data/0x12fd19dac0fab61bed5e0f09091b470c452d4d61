@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Echoin",
+  "erc20_symbol": "EC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9354/thumb/L32_KzNQ_400x400.jpg?1566513096"
+}

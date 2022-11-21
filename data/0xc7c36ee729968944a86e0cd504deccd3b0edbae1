@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "microNFT",
+  "erc20_symbol": "MNT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27510/thumb/qEXG4boD_400x400.jpeg?1664349800"
+}

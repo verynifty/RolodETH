@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Faith Tribe",
+  "erc20_symbol": "FTRB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23939/thumb/ym1Hf4x2_400x400.jpg?1645766940"
+}

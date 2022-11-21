@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "multichain"
+  ],
+  "name": "Multichain: anyFSN Token",
+  "erc20_symbol": "FSN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2515/thumb/Fusion_200x200.png?1639629907"
+}

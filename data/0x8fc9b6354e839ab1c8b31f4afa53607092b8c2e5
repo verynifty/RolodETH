@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ECOSC",
+  "erc20_symbol": "ECU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10989/thumb/ecosc-logo.png?1586914826"
+}

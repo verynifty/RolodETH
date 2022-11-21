@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Arbidex",
+  "erc20_symbol": "ABX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5541/thumb/arbidex.png?1547041334"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Etherpay",
+  "erc20_symbol": "ETHPY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12417/thumb/Captura-de-Tela-2020-09-09-a-s-13-54-20.png?1599692074"
+}

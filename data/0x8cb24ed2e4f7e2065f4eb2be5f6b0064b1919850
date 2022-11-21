@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ZARP Stablecoin",
+  "erc20_symbol": "ZARP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27333/thumb/45F630F8-53ED-46BA-959E-ABAE03A1D5F3.jpeg?1663403124"
+}

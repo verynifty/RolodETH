@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "1X Short Bitcoin Token",
+  "erc20_symbol": "HEDGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10219/thumb/683JEXMN_400x400.png?1596706467"
+}

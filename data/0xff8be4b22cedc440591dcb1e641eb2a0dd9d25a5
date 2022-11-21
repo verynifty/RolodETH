@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Uranus",
+  "erc20_symbol": "URAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4683/thumb/Leood48Z_400x400.jpg?1563118461"
+}

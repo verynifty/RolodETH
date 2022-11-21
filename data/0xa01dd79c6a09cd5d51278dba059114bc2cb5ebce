@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "coolcat-minter",
     "meebit-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "take-action"
+  ],
+  "name": "Multichain Hack Alert 710"
 }

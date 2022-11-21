@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "VIDT Datalink",
+  "erc20_symbol": "VIDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6115/thumb/V-ID_blockchain_-logo.png?1547042127"
+}

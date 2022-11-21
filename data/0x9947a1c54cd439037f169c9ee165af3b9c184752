@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "moonbird-minter"
-  ]
+    "moonbird-minter",
+    "contract-deployer",
+    "evmos"
+  ],
+  "name": "Evmos: Deployer"
 }

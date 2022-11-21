@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alchemy Pay",
+  "erc20_symbol": "ACH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bro",
+  "erc20_symbol": "BRO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24119/thumb/bro-256.png?1646384412"
+}

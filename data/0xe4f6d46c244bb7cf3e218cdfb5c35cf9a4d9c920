@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Donkey",
+  "erc20_symbol": "DONK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15330/thumb/donkey_logo.jpg?1620549377"
+}

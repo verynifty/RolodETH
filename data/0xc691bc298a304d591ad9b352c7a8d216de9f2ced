@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polaris Share",
+  "erc20_symbol": "POLA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13817/thumb/tHQrxdYQ_400x400.png?1612051098"
+}

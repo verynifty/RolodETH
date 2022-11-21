@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SupplyCon",
+  "erc20_symbol": "SPLC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28192/thumb/SupplyCon_Logo_.png?1668327647"
+}

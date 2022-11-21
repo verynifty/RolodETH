@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Pomeranian ETH",
+  "erc20_symbol": "POM",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28246/thumb/Pom.jpeg?1668591756"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Truefeedback",
+  "erc20_symbol": "TFBX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8842/thumb/5rd7a55q_400x400.png?1562902557"
+}

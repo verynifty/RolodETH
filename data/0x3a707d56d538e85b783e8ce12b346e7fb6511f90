@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Inverse Ethereum Volatility Index Token",
+  "erc20_symbol": "IETHV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16715/thumb/logo_-_2021-06-28T085526.083.png?1624841740"
+}

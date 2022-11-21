@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Basis Cash: BAC Token",
+  "erc20_symbol": "BAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13246/thumb/BAC.png?1613231642"
+}

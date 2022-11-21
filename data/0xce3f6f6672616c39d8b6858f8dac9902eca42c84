@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DAO1",
+  "erc20_symbol": "DAO1",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16193/thumb/dao1.PNG?1623276970"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WITChain",
+  "erc20_symbol": "WIT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/6420/thumb/wit-logo.png?1547042587"
+}

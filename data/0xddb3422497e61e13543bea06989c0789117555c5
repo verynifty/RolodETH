@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "COTI",
+  "erc20_symbol": "COTI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2962/thumb/Coti.png?1559653863"
+}

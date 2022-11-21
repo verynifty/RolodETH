@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Doki Doki",
+  "erc20_symbol": "DOKI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12759/thumb/doki_logo.png?1602338064"
+}

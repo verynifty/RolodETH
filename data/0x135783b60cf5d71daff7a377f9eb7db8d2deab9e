@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ctrl X",
+  "erc20_symbol": "CUT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28068/thumb/logo.png?1667567710"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "hi Dollar",
+  "erc20_symbol": "HI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17618/thumb/unnamed_%281%29.png?1628665739"
+}

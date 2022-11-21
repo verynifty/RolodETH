@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Answer Governance",
+  "erc20_symbol": "AGOV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14383/thumb/AgoV_Logo1.png?1622448433"
+}

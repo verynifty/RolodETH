@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Yearn Finance Bit2",
+  "erc20_symbol": "YFB2",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13064/thumb/yfb2_logo.png?1604884273"
+}

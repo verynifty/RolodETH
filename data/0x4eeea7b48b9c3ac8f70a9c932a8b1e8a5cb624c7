@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Membrana",
+  "erc20_symbol": "MBN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5117/thumb/membrana_logo.png?1565238625"
+}

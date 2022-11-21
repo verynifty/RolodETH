@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Punk Vault  NFTX ",
+  "erc20_symbol": "PUNK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17018/thumb/Punk.png?1626086346"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Propy",
+  "erc20_symbol": "PRO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/869/thumb/propy.png?1548332100"
+}

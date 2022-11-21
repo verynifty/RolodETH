@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "American Shiba",
+  "erc20_symbol": "USHIBA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/15650/thumb/american_shiba.PNG?1621476610"
+}

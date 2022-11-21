@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Litecoin LTK",
+  "erc20_symbol": "LTK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7573/thumb/LTK.jpg?1550626784"
+}

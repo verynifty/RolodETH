@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PhoenixDAO",
+  "erc20_symbol": "PHNX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11523/thumb/Token_Icon.png?1618447147"
+}

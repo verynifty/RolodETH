@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dogey Inu",
+  "erc20_symbol": "DINU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16374/thumb/512x512_dinu_logo.jpg?1623919813"
+}

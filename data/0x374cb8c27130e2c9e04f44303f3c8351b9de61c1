@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bao Finance",
+  "erc20_symbol": "BAO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13547/thumb/BaoLogo.png?1615342483"
+}

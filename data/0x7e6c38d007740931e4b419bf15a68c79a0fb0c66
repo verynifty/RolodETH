@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unicly Doki Doki Collection",
+  "erc20_symbol": "UDOKI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14900/thumb/uDOKI.jpg?1618935840"
+}

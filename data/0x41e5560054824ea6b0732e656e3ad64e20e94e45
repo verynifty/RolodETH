@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Civic",
+  "erc20_symbol": "CVC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/788/thumb/civic-orange.png?1657246016"
+}

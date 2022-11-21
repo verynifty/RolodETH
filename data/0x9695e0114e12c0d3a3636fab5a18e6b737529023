@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dfyn Network",
+  "erc20_symbol": "DFYN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15368/thumb/SgqhfWz4_400x400_%281%29.jpg?1620666919"
+}

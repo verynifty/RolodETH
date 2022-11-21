@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aloha",
+  "erc20_symbol": "ALOHA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14048/thumb/aloha.png?1615527835"
+}

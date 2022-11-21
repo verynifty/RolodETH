@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Offshift",
+  "erc20_symbol": "XFT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441"
+}

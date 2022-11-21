@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tierion",
+  "erc20_symbol": "TNT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/923/thumb/tierion.png?1547034767"
+}

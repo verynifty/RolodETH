@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BallSwap",
+  "erc20_symbol": "BSP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14050/thumb/bsp.png?1637556507"
+}

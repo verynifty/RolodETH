@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Morpheus Network",
+  "erc20_symbol": "MNW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2379/thumb/MRPH_CoinGecko.png?1635847791"
+}

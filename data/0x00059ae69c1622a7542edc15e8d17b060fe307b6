@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AmonD",
+  "erc20_symbol": "AMON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8952/thumb/AmonD_512x512.png?1563227436"
+}

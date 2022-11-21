@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Arc",
+  "erc20_symbol": "ARC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24235/thumb/arc.png?1647694270"
+}

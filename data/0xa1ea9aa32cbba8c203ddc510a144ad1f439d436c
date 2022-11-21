@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MetaPortal Gaming Index",
+  "erc20_symbol": "GAME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24071/thumb/GAME.Logo.png?1646216027"
+}

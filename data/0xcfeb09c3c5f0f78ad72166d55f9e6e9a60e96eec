@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "vEmpire DDAO",
+  "erc20_symbol": "VEMP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18074/thumb/Ay5nuny.png?1630380510"
+}

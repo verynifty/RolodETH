@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Oiler",
+  "erc20_symbol": "OIL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15249/thumb/oiler.png?1620237607"
+}

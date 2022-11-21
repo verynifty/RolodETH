@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Wrapped Virgin Gen 0 CryptoKittties",
+  "erc20_symbol": "WVG0",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12875/thumb/wvg0.png?1603211534"
+}

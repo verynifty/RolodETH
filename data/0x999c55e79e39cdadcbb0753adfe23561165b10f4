@@ -1,5 +1,7 @@
 {
   "tags": [
-    "clonex-minter"
-  ]
+    "clonex-minter",
+    "contract-deployer"
+  ],
+  "name": "Incognito: Deployer"
 }

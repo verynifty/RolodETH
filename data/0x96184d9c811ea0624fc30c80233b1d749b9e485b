@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Dapp com",
+  "erc20_symbol": "DAPPT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8282/thumb/dappt_logo.png?1593074788"
+}

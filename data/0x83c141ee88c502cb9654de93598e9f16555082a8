@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "The Genesis Block",
+  "erc20_symbol": "GENBLOK",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27471/thumb/6313c6043c13ed270ede4600_aaaa-p-500.jpg?1664195154"
+}

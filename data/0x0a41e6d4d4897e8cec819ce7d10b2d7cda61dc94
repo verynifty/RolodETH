@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "YCLUB",
+  "erc20_symbol": "SYC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28267/thumb/9DC88DDF-CAB3-410A-87BA-6AB98DCD1B86.jpeg?1668771177"
+}

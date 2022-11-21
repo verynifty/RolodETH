@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Syntropy",
+  "erc20_symbol": "NOIA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3269/thumb/Component_1.png?1608275724"
+}

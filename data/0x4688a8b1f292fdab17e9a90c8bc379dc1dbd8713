@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cover Protocol: COVER Token",
+  "erc20_symbol": "COVER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13563/thumb/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578"
+}

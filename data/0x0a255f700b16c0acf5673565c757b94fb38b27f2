@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NeoWorld Cash",
+  "erc20_symbol": "NASH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6737/thumb/D7F231BA7E294954A0C2C4EBA6BCEFEB.png?1547042977"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CoinPoker",
+  "erc20_symbol": "CHP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1808/thumb/coinpoker.jpg?1547036113"
+}

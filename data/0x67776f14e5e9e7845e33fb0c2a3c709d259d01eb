@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Era",
+  "erc20_symbol": "ERA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27718/thumb/ERA_logo.jpg?1665459246"
+}

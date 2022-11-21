@@ -1,5 +1,7 @@
 {
   "tags": [
-    "clonex-minter"
-  ]
+    "clonex-minter",
+    "contract-deployer"
+  ],
+  "name": "Stranger EggZ: Deployer"
 }

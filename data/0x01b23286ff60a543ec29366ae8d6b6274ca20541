@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Brother Music Platform",
+  "erc20_symbol": "BMP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13207/thumb/BMP_logo.png?1606199707"
+}

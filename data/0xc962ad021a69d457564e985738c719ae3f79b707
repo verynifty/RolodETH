@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IFX24",
+  "erc20_symbol": "IFX24",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10444/thumb/lpFSaoD.png?1579475634"
+}

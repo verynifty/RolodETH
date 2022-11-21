@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "clonex-minter"
-  ]
+    "clonex-minter",
+    "contract-deployer"
+  ],
+  "name": "Cigarette: Deployer"
 }

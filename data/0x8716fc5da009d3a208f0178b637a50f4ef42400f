@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ultrain",
+  "erc20_symbol": "UGAS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4684/thumb/ultrain.png?1547039956"
+}

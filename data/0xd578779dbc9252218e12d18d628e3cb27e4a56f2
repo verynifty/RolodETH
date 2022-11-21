@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Britto",
+  "erc20_symbol": "BRT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22830/thumb/britto-coin-logo.jpg?1642664707"
+}

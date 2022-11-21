@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PowerPool Concentrated Voting Power",
+  "erc20_symbol": "CVP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12266/thumb/Powerpool.jpg?1598621373"
+}

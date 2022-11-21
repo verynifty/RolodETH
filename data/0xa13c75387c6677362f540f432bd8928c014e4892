@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Sky Bandit Coin",
+  "erc20_symbol": "SBC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27868/thumb/SBC.png?1666154249"
+}

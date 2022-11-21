@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "hiSAND33",
+  "erc20_symbol": "HISAND33",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27006/thumb/logo.ab86781.png?1661337838"
+}

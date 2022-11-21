@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XRP Classic",
+  "erc20_symbol": "XRPC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7259/thumb/xrpc.png?1572011410"
+}

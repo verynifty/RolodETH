@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Social Activity",
+  "erc20_symbol": "SAT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/2586/thumb/sat.png?1547036721"
+}

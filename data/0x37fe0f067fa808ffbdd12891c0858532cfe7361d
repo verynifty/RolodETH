@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Civilization",
+  "erc20_symbol": "CIV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17626/thumb/civ-200x200.png?1628674350"
+}

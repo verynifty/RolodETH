@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Jarvis Synthetic British Pound",
+  "erc20_symbol": "JGBP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15726/thumb/jGBP.png?1634046064"
+}

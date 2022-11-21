@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CoinMerge  ERC20 ",
+  "erc20_symbol": "CMERGE",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17146/thumb/cmerge.png?1642926825"
+}

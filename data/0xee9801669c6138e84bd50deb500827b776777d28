@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "O3 Swap",
+  "erc20_symbol": "O3",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15460/thumb/o3.png?1620904316"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swingby",
+  "erc20_symbol": "SWINGBY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11861/thumb/swingby.png?1595822302"
+}

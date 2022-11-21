@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AMIS",
+  "erc20_symbol": "AMIS",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/8445/thumb/amis-newlogo.png?1559633345"
+}

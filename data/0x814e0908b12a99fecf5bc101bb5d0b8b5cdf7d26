@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Measurable Data",
+  "erc20_symbol": "MDT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2441/thumb/mdt_logo.png?1569813574"
+}

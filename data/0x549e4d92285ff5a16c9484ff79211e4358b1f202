@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Infinite Arcade TIC",
+  "erc20_symbol": "TIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25919/thumb/VNReVzc5Sg6NqHONgxEQ_4BI9yq3820sYQx0R.jpg?1654593140"
+}

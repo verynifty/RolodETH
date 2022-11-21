@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hillstone Finance",
+  "erc20_symbol": "HSF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22335/thumb/logo_-_2022-01-07T094430.368.png?1641519883"
+}

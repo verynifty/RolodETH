@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "cyber-kong-minter"
-  ]
+    "cyber-kong-minter",
+    "contract-deployer"
+  ],
+  "name": "Wrapped Origin Axie: Deployer"
 }

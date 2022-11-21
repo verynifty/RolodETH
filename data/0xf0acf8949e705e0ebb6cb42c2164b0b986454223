@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Barter",
+  "erc20_symbol": "BRTR",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/13401/thumb/BRTR.png?1612843022"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MemeCard",
+  "erc20_symbol": "MMC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28096/thumb/IMG_20221102_023910_703.png?1667537410"
+}

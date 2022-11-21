@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BoringDAO",
+  "erc20_symbol": "BORING",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16429/thumb/Tjq3pXEH_400x400.jpg?1623997009"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GET",
+  "erc20_symbol": "GET",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27210/thumb/LOGO_%281%29.jpeg?1662609050"
+}

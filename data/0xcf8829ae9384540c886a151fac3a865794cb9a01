@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SyncDAO Governance",
+  "erc20_symbol": "SDG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21085/thumb/SyncDAO-s-icon_1_200x200.png?1638312055"
+}

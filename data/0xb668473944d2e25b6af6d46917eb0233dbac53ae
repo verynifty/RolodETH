@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Neton",
+  "erc20_symbol": "NTO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25418/thumb/lqT0CJNj_400x400.jpg?1651735850"
+}

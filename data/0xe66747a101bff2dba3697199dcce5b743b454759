@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gate",
+  "erc20_symbol": "GT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8183/thumb/gt.png?1556085624"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Stargate Finance",
+  "erc20_symbol": "STG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518"
+}

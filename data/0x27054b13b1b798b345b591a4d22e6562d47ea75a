@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "airswap"
+  ],
+  "name": "AirSwap: AST Token",
+  "erc20_symbol": "AST",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484"
+}

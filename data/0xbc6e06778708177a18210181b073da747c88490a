@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MOBLAND",
+  "erc20_symbol": "SYNR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22868/thumb/FullML_Yellow_200px.png?1648031600"
+}

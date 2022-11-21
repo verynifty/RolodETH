@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alchemix USD",
+  "erc20_symbol": "ALUSD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14114/thumb/Alchemix_USD.png?1614410406"
+}

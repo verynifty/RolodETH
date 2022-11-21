@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DerivaDAO",
+  "erc20_symbol": "DDX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13453/thumb/ddx_logo.png?1608741641"
+}

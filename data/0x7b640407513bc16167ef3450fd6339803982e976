@@ -1,6 +1,8 @@
 {
   "tags": [
     "doodle-minter",
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer"
+  ],
+  "name": "#LetsWalk: Deployer"
 }

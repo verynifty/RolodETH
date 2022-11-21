@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hyve",
+  "erc20_symbol": "HYVE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13072/thumb/bAe1G-lD_400x400.png?1654056255"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KIRA",
+  "erc20_symbol": "KIRA",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/28196/thumb/KIRA_CMC.png?1668334302"
+}

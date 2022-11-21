@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Max Bidding",
+  "erc20_symbol": "MAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26936/thumb/BPIJ7HUN_400x400.jpg?1660901132"
+}

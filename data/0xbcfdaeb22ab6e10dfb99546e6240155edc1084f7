@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Genexi",
+  "erc20_symbol": "GXI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7126/thumb/bR4FuOeq_400x400.jpg?1547043624"
+}

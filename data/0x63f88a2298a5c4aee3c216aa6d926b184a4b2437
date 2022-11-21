@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GameCredits",
+  "erc20_symbol": "GAME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/193/thumb/XlQmXoU.png?1595304945"
+}

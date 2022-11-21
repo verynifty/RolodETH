@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Winter",
+  "erc20_symbol": "WINTER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25367/thumb/winter.png?1651317666"
+}

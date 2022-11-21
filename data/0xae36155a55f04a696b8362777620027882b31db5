@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kishimoto",
+  "erc20_symbol": "KISHIMOTO",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28011/thumb/kishimoto.png?1666944015"
+}

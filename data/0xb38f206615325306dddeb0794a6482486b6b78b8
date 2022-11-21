@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "1X Short EOS Token",
+  "erc20_symbol": "EOSHEDGE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10221/thumb/683JEXMN_400x400.png?1596706630"
+}

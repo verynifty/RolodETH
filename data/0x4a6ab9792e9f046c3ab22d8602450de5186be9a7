@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polka Ventures",
+  "erc20_symbol": "POLVEN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14613/thumb/polven.png?1617253185"
+}

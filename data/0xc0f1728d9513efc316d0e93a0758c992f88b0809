@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SWTCoin",
+  "erc20_symbol": "SWAT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/5985/thumb/swtcoin.jpg?1547041927"
+}

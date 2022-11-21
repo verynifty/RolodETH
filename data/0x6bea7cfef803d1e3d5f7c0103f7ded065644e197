@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gamma Strategies",
+  "erc20_symbol": "GAMMA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/21975/thumb/gamma-token-200.png?1640566576"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SingularityNET",
+  "erc20_symbol": "AGIX",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/2138/thumb/singularitynet.png?1548609559"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Jelly",
+  "erc20_symbol": "JELLY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25386/thumb/200x200Jtokenlogo.png?1651641389"
+}

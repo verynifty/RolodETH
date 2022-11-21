@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Polkastarter",
+  "erc20_symbol": "POLS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12648/thumb/polkastarter.png?1609813702"
+}

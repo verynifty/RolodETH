@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XIDR",
+  "erc20_symbol": "XIDR",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/21126/thumb/XIDR_Logo_256_X_256.png?1638343133"
+}

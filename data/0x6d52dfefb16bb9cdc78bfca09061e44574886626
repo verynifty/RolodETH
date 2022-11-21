@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CPUcoin",
+  "erc20_symbol": "CPU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9544/thumb/uaz.ms.png?1624024119"
+}

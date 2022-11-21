@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "bitfinex"
+  ],
+  "name": "Tether: USDT Stablecoin",
+  "erc20_symbol": "USDT",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1668148663"
+}

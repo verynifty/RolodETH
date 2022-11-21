@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Marshall Inu",
+  "erc20_symbol": "MRI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23784/thumb/mri.png?1647693409"
+}

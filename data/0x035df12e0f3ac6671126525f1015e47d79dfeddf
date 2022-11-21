@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "0xMonero",
+  "erc20_symbol": "0XMR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11035/thumb/0xmnr.PNG?1587357680"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Oogear",
+  "erc20_symbol": "OG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23970/thumb/og.png?1645869076"
+}

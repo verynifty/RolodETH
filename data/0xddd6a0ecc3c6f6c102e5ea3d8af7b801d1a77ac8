@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "UniX",
+  "erc20_symbol": "UNIX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20674/thumb/unix.png?1663499268"
+}

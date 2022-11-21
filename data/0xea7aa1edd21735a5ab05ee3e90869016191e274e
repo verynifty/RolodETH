@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Junca cash",
+  "erc20_symbol": "JCC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12889/thumb/junca.jpg?1603279160"
+}

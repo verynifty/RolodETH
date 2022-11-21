@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Webcoin",
+  "erc20_symbol": "WEB",
+  "erc20_decimals": 1,
+  "imageURL": "https://assets.coingecko.com/coins/images/3779/thumb/webcoin-logo.png?1547038866"
+}

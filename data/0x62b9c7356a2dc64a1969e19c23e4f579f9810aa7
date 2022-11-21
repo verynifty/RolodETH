@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Convex CRV",
+  "erc20_symbol": "CVXCRV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15586/thumb/convex-crv.png?1621255952"
+}

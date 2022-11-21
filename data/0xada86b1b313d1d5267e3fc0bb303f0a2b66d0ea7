@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Covesting",
+  "erc20_symbol": "COV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1950/thumb/covesting.png?1547036237"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HedgeTrade",
+  "erc20_symbol": "HEDG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7196/thumb/to3Vj4EZ_400x400.jpg?1547043758"
+}

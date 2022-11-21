@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AssangeDAO",
+  "erc20_symbol": "JUSTICE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23555/thumb/JUSTICE_token_logo.png?1644532689"
+}

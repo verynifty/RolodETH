@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Humanscape",
+  "erc20_symbol": "HUM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4243/thumb/Webp.net-resizeimage_%2836%29.png?1547039574"
+}

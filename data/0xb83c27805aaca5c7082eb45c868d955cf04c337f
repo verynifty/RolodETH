@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "JungleKing TigerCoin",
+  "erc20_symbol": "TIGER",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26494/thumb/jungleparty.png?1658300842"
+}

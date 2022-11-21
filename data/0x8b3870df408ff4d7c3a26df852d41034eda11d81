@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "IOI",
+  "erc20_symbol": "IOI",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/15952/thumb/IOI_new_logo.png?1636797701"
+}

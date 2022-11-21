@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Oasis City",
+  "erc20_symbol": "OSC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7038/thumb/wJepb5N.png?1550038108"
+}

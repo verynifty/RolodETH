@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Inescoin",
+  "erc20_symbol": "INES",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26537/thumb/Piece_face_inescoin_1_3_bryefr.png?1658720155"
+}

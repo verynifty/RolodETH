@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "New World Order",
+  "erc20_symbol": "STATE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27387/thumb/icon.png?1663812357"
+}

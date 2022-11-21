@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BLOCK E",
+  "erc20_symbol": "BLOCK-E",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/26905/thumb/photo_2022-09-07_10.17.08.jpeg?1664065816"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LP Yearn CRV Vault",
+  "erc20_symbol": "LP-YCRV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27624/thumb/yearncrvlp_32.png?1664885596"
+}

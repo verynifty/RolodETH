@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HaloDAO",
+  "erc20_symbol": "RNBW",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16754/thumb/RNBW-256x256.png?1624927932"
+}

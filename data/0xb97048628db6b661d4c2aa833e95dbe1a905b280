@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TenX",
+  "erc20_symbol": "PAY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/775/thumb/TenX-Icon-CircleBlack.png?1553766360"
+}

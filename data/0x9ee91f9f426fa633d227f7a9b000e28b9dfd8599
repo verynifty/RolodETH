@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lido Staked Matic",
+  "erc20_symbol": "STMATIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24185/thumb/stMATIC.png?1646789287"
+}

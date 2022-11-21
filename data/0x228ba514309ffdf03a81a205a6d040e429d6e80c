@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Global Social Chain",
+  "erc20_symbol": "GSC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4304/thumb/global-social-chain.png?1547742843"
+}

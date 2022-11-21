@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BankEth",
+  "erc20_symbol": "BANKETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17401/thumb/BankEth_200x200.png?1627529730"
+}

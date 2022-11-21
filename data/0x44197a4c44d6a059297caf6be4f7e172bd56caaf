@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Eltcoin",
+  "erc20_symbol": "ELTCOIN",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1118/thumb/eltcoin.png?1547958349"
+}

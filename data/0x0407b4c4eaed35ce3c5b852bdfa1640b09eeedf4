@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "BlockWRK",
+  "erc20_symbol": "WRK",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/17282/thumb/blkwr.png?1635470283"
+}

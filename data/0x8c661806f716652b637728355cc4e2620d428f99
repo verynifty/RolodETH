@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Delio DSP",
+  "erc20_symbol": "DSP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26236/thumb/4Wbz4ZFt_400x400.png?1656901850"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PirateCash",
+  "erc20_symbol": "PIRATE",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7155/thumb/logo_%281%29.png?1637683371"
+}

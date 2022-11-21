@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Exeedme",
+  "erc20_symbol": "XED",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13518/thumb/exeedme.png?1610669597"
+}

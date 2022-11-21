@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Synapse Network",
+  "erc20_symbol": "SNP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17962/thumb/Webp-net-resizeimage_%282%29.png?1629943450"
+}

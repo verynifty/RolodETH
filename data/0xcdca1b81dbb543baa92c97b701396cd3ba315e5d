@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shuey Rhon Inu",
+  "erc20_symbol": "SHUEY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24306/thumb/shuey.jpg?1647316292"
+}

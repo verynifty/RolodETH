@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CHEX Token",
+  "erc20_symbol": "CHEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10349/thumb/1_0zxuLe6QnvfsZPFzOoUteQ.png?1578434355"
+}

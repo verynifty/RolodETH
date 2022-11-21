@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "keep"
+  ],
+  "name": "Keep: KEEP Token",
+  "erc20_symbol": "KEEP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336"
+}

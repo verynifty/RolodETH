@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ECOMI",
+  "erc20_symbol": "OMI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886"
+}

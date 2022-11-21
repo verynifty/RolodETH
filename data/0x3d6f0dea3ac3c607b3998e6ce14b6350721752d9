@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cardstarter",
+  "erc20_symbol": "CARDS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14612/thumb/CARDSx200.png?1617252006"
+}

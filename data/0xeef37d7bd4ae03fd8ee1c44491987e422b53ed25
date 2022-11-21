@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KryptoPets",
+  "erc20_symbol": "KPETS",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23337/thumb/kyTyD2Fi_400x400.jpg?1643882890"
+}

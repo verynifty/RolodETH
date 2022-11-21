@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ImpactX",
+  "erc20_symbol": "IMPACTX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/20433/thumb/gen-impact-logo-2-276x300.png?1637035516"
+}

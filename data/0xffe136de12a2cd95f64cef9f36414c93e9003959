@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DUCK Vault  NFTX ",
+  "erc20_symbol": "DUCK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18346/thumb/duck.png?1631603088"
+}

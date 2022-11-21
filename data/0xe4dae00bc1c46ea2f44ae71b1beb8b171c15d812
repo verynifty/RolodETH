@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PREMA",
+  "erc20_symbol": "PRMX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27600/thumb/prmx.png?1664715769"
+}

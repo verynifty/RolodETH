@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ARTIC Foundation",
+  "erc20_symbol": "ARTIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24279/thumb/Artic_logo_02.png?1647181452"
+}

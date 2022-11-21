@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tokoin",
+  "erc20_symbol": "TOKO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8807/thumb/TOKOIN_LOGO_%28no_text%29.png?1646664093"
+}

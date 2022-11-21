@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Linework Coin",
+  "erc20_symbol": "LWC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/27739/thumb/Linework-logo_coin_200px-01.png?1665578755"
+}

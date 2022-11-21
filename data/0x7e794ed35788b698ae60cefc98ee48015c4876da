@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Shintama",
+  "erc20_symbol": "SHINTAMA",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/23405/thumb/shintama.png?1644145782"
+}

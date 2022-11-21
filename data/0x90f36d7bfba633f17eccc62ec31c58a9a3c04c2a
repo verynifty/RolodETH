@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "PulseFloki",
+  "erc20_symbol": "PLSF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26833/thumb/Pulse_Floki_Transparant.PNG?1660298457"
+}

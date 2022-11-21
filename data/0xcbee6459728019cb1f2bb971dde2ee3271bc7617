@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "WemergeToken",
+  "erc20_symbol": "MRG",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6833/thumb/wemerge200.png?1547043144"
+}

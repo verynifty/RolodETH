@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CONUN",
+  "erc20_symbol": "CON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/7480/thumb/conun.png?1547716938"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OctoFi",
+  "erc20_symbol": "OCTO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12594/thumb/octofi-256x256-radius-22percent.png?1610679969"
+}

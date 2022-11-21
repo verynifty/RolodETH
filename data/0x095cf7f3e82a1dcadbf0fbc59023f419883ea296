@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Pocket Arena",
+  "erc20_symbol": "POC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8731/thumb/poc.png?1638521756"
+}

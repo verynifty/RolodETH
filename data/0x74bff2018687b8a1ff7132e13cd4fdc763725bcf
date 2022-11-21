@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Credit Suisse Inu",
+  "erc20_symbol": "CSI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27612/thumb/Credit-Suisse-Inu.jpg?1664853199"
+}

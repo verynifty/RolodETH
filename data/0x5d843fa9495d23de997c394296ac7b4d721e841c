@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Relay Chain",
+  "erc20_symbol": "RELAY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17816/thumb/relay-logo-200.png?1629339288"
+}

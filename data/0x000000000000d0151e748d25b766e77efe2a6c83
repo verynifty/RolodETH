@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XDEFI Governance",
+  "erc20_symbol": "XDEX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14485/thumb/logo.png?1616472896"
+}

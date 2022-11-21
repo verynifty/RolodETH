@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "YF Link",
+  "erc20_symbol": "YFL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12081/thumb/YFLink.png?1596987945"
+}

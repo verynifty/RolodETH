@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Curve fi FRAX USDC",
+  "erc20_symbol": "CRVFRAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26829/thumb/W1sQNVWo_400x400.jpeg?1660294792"
+}

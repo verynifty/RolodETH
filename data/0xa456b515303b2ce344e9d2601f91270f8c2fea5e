@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cornichon",
+  "erc20_symbol": "CORN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13235/thumb/cornichon.png?1606629943"
+}

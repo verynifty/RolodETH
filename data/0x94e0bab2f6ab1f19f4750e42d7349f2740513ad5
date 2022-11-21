@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Unicly",
+  "erc20_symbol": "UNIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14720/thumb/Unicly.png?1621132059"
+}

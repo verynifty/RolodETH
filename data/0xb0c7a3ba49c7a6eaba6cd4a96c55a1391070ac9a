@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Magic",
+  "erc20_symbol": "MAGIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18623/thumb/magic.png?1656052146"
+}

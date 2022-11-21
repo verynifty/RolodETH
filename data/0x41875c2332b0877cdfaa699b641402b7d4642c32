@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "FUTURAX",
+  "erc20_symbol": "FTXT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/5796/thumb/futurax.png?1547484031"
+}

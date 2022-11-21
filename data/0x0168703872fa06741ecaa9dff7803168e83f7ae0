@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Mirocana",
+  "erc20_symbol": "MIRO",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1651/thumb/mirocana.jpg?1547035896"
+}

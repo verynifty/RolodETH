@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Identity",
+  "erc20_symbol": "IDTT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18384/thumb/identity.PNG?1631745919"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NUM Token",
+  "erc20_symbol": "NUM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20495/thumb/NP_Social_media_profile_pic.png?1664026542"
+}

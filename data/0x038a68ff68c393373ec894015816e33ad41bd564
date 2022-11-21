@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Glitch Protocol",
+  "erc20_symbol": "GLCH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13712/thumb/glitch_logo.jpeg?1611100011"
+}

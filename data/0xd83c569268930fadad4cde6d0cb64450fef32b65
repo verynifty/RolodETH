@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Invictus Capital",
+  "erc20_symbol": "ICAP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18334/thumb/ICAP-logo-icon.png?1631584746"
+}

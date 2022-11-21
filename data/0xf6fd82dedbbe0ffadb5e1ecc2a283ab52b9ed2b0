@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Etheal",
+  "erc20_symbol": "HEAL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3267/thumb/heal.png?1547037807"
+}

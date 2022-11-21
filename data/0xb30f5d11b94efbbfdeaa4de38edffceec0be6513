@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Play It Forward DAO",
+  "erc20_symbol": "PIF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22904/thumb/pif.png?1642938913"
+}

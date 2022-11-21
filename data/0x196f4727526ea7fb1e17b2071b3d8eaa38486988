@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Reserve",
+  "erc20_symbol": "RSV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/10952/thumb/rsv.png?1637983297"
+}

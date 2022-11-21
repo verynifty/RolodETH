@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Etherean Socks",
+  "erc20_symbol": "ETH2SOCKS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17714/thumb/Q4NQZWp.png?1629083998"
+}

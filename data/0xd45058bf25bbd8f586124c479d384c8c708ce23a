@@ -1,5 +1,7 @@
 {
   "tags": [
-    "azuki-minter"
-  ]
+    "azuki-minter",
+    "contract-deployer"
+  ],
+  "name": "Azuki: Deployer"
 }

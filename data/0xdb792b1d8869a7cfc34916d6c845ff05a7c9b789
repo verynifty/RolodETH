@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cross Chain BCH",
+  "erc20_symbol": "CCBCH",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/19747/thumb/ccBCH.png?1635822615"
+}

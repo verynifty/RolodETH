@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alldex Alliance",
+  "erc20_symbol": "AXA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9438/thumb/alldex.png?1569122383"
+}

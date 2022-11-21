@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AggregatedFinance  OLD ",
+  "erc20_symbol": "AGFI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/25256/thumb/79LDzdib_400x400.png?1651041943"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Chopper Inu",
+  "erc20_symbol": "CHOPPER",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/18644/thumb/Chopper-Inu-Logo.png?1632753815"
+}

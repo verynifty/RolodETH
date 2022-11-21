@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hippo Wallet",
+  "erc20_symbol": "HPO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1667446200"
+}

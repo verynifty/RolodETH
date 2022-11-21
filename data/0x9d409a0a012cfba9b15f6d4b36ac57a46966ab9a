@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "vaults"
+  ],
+  "name": "yearn: yvBOOST Vault",
+  "erc20_symbol": "YVBOOST",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15152/thumb/yvBOOST.png?1619978216"
+}

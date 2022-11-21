@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bacon Coin",
+  "erc20_symbol": "BACON",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25173/thumb/bacon-200.png?1650526720"
+}

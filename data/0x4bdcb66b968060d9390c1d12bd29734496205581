@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Acquire Fi",
+  "erc20_symbol": "ACQ",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27199/thumb/ACQisotypeSept2022_1000x1000px.png?1662566695"
+}

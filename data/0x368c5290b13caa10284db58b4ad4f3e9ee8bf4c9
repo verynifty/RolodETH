@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "KKO Protocol",
+  "erc20_symbol": "KKO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15366/thumb/kko-coingecko.png?1658982821"
+}

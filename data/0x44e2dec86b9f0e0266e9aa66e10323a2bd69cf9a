@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Attrace",
+  "erc20_symbol": "ATTR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4395/thumb/attrace.png?1624466360"
+}

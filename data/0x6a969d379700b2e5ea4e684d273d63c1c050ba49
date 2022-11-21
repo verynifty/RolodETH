@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Pacific",
+  "erc20_symbol": "PAF",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20915/thumb/paf.png?1637922989"
+}

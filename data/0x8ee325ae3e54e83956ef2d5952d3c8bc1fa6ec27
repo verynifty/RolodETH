@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fable Of The Dragon",
+  "erc20_symbol": "TYRANT",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/27911/thumb/da9bdde1-d446-4291-a79d-1b1c2ec183ff.png?1666342614"
+}

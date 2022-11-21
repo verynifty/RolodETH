@@ -1,5 +1,7 @@
 {
   "tags": [
-    "loot-minter"
-  ]
+    "loot-minter",
+    "contract-deployer"
+  ],
+  "name": "Pixelglyphs: Deployer"
 }

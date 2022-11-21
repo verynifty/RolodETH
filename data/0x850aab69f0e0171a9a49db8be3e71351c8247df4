@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Konomi Network",
+  "erc20_symbol": "KONO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14406/thumb/konomi.jpg?1615907763"
+}

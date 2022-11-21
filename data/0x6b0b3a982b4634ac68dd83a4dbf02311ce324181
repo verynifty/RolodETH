@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Alethea Artificial Liquid Intelligence",
+  "erc20_symbol": "ALI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848"
+}

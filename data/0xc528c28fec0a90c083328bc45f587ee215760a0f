@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Endor Protocol",
+  "erc20_symbol": "EDR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3683/thumb/0b805574-ef0d-41dc-b518-8d6148bf4716.png?1547038680"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "idle-finance"
+  ],
+  "name": "Idle.finance: idleWBTCYield Token",
+  "erc20_symbol": "IDLEWBTCYIELD",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11936/thumb/idlewbtcv3maxyield_32.png?1596263736"
+}

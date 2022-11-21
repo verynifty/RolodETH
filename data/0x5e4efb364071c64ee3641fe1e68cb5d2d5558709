@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Katsumi",
+  "erc20_symbol": "KATSUMI",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/22861/thumb/output-onlinepngtools.png?1642752533"
+}

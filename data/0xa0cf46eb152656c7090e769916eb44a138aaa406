@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Spheroid Universe",
+  "erc20_symbol": "SPH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11968/thumb/spheroid-sph-icon-400x400.png?1597307957"
+}

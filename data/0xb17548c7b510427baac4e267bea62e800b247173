@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swarm Markets",
+  "erc20_symbol": "SMT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17488/thumb/swarm-SMT-token-symbol_200x200.png?1655373659"
+}

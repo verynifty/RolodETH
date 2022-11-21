@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Wrapped AR",
+  "erc20_symbol": "WAR",
+  "erc20_decimals": 12,
+  "imageURL": "https://assets.coingecko.com/coins/images/17093/thumb/war.PNG?1626224053"
+}

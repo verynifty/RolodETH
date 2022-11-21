@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "wormhole"
+  ],
+  "name": "Wormhole: UST Token",
+  "erc20_symbol": "UST",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1644223065"
+}

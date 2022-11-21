@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DomRaider",
+  "erc20_symbol": "DRT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/1030/thumb/domraider.png?1547223934"
+}

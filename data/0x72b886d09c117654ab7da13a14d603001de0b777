@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XDEFI",
+  "erc20_symbol": "XDEFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19524/thumb/xdefi.png?1637917251"
+}

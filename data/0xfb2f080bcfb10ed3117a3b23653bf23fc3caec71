@@ -1,5 +1,7 @@
 {
   "tags": [
-    "wow-minter"
-  ]
+    "wow-minter",
+    "gitcoin-grantee"
+  ],
+  "name": "Gitcoin Grants: LTokens"
 }

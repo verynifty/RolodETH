@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Hellsing Inu",
+  "erc20_symbol": "HELLSING",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19795/thumb/hellsing.png?1638182960"
+}

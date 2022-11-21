@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Interest Compounding ETH Index",
+  "erc20_symbol": "ICETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24483/thumb/icETH-token-logo.png?1647826356"
+}

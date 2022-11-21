@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Monavale",
+  "erc20_symbol": "MONA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13298/thumb/monavale_logo.jpg?1607232721"
+}

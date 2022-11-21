@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cindicator",
+  "erc20_symbol": "CND",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1006/thumb/cindicator.png?1547034913"
+}

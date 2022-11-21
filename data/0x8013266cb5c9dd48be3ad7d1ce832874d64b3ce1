@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Boop",
+  "erc20_symbol": "BOOP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27918/thumb/boop.png?1666351418"
+}

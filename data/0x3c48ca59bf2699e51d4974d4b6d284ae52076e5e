@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Capital DAO Starter",
+  "erc20_symbol": "CDS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20332/thumb/cds.png?1661762062"
+}

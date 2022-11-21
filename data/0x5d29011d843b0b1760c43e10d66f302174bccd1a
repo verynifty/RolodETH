@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RickMortyDoxx",
+  "erc20_symbol": "RICKMORTYDOXX",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/19148/thumb/cropped-IMG_20211203_223720_101.png?1643004811"
+}

@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "pundi-x"
+  ],
+  "name": "Function X Token",
+  "erc20_symbol": "FX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/8186/thumb/47271330_590071468072434_707260356350705664_n.jpg?1556096683"
+}

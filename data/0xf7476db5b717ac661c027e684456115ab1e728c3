@@ -1,6 +1,8 @@
 {
   "tags": [
     "moonbird-minter",
-    "loot-minter"
-  ]
+    "loot-minter",
+    "sybil-delegate"
+  ],
+  "name": "Sybil Delegate: MirageLight"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swerve.fi: SWRV Token",
+  "erc20_symbol": "SWRV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12361/thumb/swerve.png?1599278316"
+}

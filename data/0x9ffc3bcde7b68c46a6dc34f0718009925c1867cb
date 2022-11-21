@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Huobi Polkadot",
+  "erc20_symbol": "HDOT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14107/thumb/hdot.png?1614333466"
+}

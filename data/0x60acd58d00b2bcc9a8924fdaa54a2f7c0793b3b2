@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MEME LTD",
+  "erc20_symbol": "MEME20",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17858/thumb/unnamed_%285%29.jpg?1629682905"
+}

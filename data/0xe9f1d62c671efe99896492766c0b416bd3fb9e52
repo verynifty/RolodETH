@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "XOYCoin",
+  "erc20_symbol": "XOY",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/26641/thumb/xoycoin_logo.png?1659347530"
+}

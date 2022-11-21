@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Cryptokek",
+  "erc20_symbol": "KEK",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13513/thumb/Cryptokek-Logo-256px.png?1609292074"
+}

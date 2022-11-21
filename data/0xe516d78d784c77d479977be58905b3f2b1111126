@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bitspawn",
+  "erc20_symbol": "SPWN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16513/thumb/token_logo.png?1631603192"
+}

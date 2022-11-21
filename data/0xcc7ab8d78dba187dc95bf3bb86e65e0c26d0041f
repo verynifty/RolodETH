@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Spacelens",
+  "erc20_symbol": "SPACE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/16979/thumb/SPACE___Spacelens.png?1625900475"
+}

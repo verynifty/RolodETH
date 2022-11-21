@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Elite Swap",
+  "erc20_symbol": "ELT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13715/thumb/logo_-_2021-01-20T105016.992.png?1611111027"
+}

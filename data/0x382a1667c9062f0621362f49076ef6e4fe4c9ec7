@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "RushCoin",
+  "erc20_symbol": "RUSH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25053/thumb/Kax1yBSz_400x400.png?1649979044"
+}

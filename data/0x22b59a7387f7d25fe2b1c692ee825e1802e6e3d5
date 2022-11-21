@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CoinViewCap",
+  "erc20_symbol": "CVC",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/25044/thumb/cvc_trans.png?1651206377"
+}

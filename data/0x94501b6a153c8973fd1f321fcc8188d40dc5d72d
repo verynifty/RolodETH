@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DigiDinar Token",
+  "erc20_symbol": "DDRT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/10415/thumb/8WbpGRw.png?1579128643"
+}

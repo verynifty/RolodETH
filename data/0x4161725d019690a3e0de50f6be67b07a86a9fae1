@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "TokenPocket Token",
+  "erc20_symbol": "TPT",
+  "erc20_decimals": 4,
+  "imageURL": "https://assets.coingecko.com/coins/images/7603/thumb/pocket.jpg?1658907018"
+}

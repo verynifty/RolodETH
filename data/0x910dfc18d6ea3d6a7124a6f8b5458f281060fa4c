@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "X8X",
+  "erc20_symbol": "X8X",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1912/thumb/x8x.png?1547036213"
+}

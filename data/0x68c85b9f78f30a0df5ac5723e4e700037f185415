@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "AiWork",
+  "erc20_symbol": "AWO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15373/thumb/aiwork.PNG?1620691299"
+}

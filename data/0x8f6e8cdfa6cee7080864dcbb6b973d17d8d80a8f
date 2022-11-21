@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NFCore",
+  "erc20_symbol": "NFCR",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25655/thumb/nfcr.png?1653048464"
+}

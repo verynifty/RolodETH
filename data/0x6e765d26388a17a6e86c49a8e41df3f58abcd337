@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Kangal",
+  "erc20_symbol": "KANGAL",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/14241/thumb/logo-200.png?1622341641"
+}

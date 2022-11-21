@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Midas Protocol",
+  "erc20_symbol": "MAS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/4287/thumb/Bestand_000.png?1607560518"
+}

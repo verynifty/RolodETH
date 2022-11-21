@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Misbloc",
+  "erc20_symbol": "MSB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13021/thumb/xREV4lXV.png?1604396822"
+}

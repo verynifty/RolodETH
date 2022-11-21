@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LemoChain",
+  "erc20_symbol": "LEMO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3108/thumb/lemochain.png?1547975597"
+}

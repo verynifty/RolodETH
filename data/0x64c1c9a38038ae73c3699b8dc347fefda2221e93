@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Swiss NFT Fund",
+  "erc20_symbol": "SWISSNFTFUND",
+  "erc20_decimals": 9
+}

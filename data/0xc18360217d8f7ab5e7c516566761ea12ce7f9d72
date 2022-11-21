@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ethereum Name Service",
+  "erc20_symbol": "ENS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+}

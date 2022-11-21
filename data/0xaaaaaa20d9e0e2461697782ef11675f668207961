@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Aurora",
+  "erc20_symbol": "AURORA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20582/thumb/aurora.jpeg?1637250883"
+}

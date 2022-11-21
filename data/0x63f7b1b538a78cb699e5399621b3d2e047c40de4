@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Maxity",
+  "erc20_symbol": "MAX",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/26933/thumb/MAX_token_200.png?1666345433"
+}

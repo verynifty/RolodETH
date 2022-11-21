@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Geojam",
+  "erc20_symbol": "JAM",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/24648/thumb/200px_Transparent_Bubble_Token_Icon.png?1668597490"
+}

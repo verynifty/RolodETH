@@ -1,5 +1,7 @@
 {
   "tags": [
-    "cyber-kong-minter"
-  ]
+    "cyber-kong-minter",
+    "contract-deployer"
+  ],
+  "name": "Surf.Finance: Deployer"
 }

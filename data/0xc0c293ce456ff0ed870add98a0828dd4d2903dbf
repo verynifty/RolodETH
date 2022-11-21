@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "aura-finance"
+  ],
+  "name": "Aura: AURA Token",
+  "erc20_symbol": "AURA",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187"
+}

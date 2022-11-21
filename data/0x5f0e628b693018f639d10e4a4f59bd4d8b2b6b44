@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Whiteheart",
+  "erc20_symbol": "WHITE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13484/thumb/whiteheart.png?1609076548"
+}

@@ -1,5 +1,7 @@
 {
   "tags": [
-    "otherdeed-minter"
-  ]
+    "otherdeed-minter",
+    "contract-deployer"
+  ],
+  "name": "MetaFactory: Deployer"
 }

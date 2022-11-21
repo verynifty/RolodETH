@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "old-contract"
+  ],
+  "name": "Aeternity: Old Token",
+  "erc20_symbol": "AE",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1091/thumb/aeternity.png?1547035060"
+}

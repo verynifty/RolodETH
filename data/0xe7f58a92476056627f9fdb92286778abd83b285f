@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DecentraWeb",
+  "erc20_symbol": "DWEB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/18971/thumb/dweb-logo-transparent.png?1634082358"
+}

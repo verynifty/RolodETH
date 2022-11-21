@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Vaiot",
+  "erc20_symbol": "VAI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13981/thumb/VAIOT_logo.png?1613456546"
+}

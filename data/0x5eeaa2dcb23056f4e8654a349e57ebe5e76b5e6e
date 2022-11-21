@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Virtue Poker Points",
+  "erc20_symbol": "VPP",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3386/thumb/vp-logo-200x200.png?1622068750"
+}

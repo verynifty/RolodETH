@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Ethereum Yield",
+  "erc20_symbol": "ETHY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/13191/thumb/rOIuPZM.png?1606101103"
+}

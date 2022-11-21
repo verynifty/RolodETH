@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Tesla Inu",
+  "erc20_symbol": "TESINU",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/17468/thumb/400_filter_nobg_60c70a3c5aae1.jpg?1628214173"
+}

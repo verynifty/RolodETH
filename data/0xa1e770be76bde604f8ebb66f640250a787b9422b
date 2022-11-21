@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Anduschain",
+  "erc20_symbol": "DEB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/20842/thumb/DEB.png?1637743593"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "InnovativeBioresearchClassic",
+  "erc20_symbol": "INNBCL",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/7911/thumb/INNBCL.png?1551777826"
+}

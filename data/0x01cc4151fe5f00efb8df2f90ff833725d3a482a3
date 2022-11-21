@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SPECTRUM",
+  "erc20_symbol": "SPT",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/7688/thumb/SPT-Logo-200x200.png?1549596154"
+}

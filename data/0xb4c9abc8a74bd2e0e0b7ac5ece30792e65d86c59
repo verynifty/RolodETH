@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LiteGold",
+  "erc20_symbol": "LTG",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/6792/thumb/O4v8ll_f_400x400.jpg?1547043077"
+}

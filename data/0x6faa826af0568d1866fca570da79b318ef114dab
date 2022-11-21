@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "B21",
+  "erc20_symbol": "B21",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/3510/thumb/B21_%283%29.png?1608706191"
+}

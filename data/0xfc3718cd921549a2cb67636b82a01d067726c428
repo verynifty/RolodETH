@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Its Not Art",
+  "erc20_symbol": "NA",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/27039/thumb/NA.png?1661501367"
+}

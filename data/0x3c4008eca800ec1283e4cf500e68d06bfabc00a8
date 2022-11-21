@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "HistoryDAO",
+  "erc20_symbol": "HAO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/27318/thumb/5961657012978_.pic.jpg?1663316216"
+}

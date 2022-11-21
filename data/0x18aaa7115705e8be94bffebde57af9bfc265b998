@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "contract-deployer"
+  ],
+  "name": "Audius: AUDIO Token",
+  "erc20_symbol": "AUDIO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12913/thumb/AudiusCoinLogo_2x.png?1603425727"
+}

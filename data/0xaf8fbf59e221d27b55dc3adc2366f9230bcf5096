@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "meebit-minter"
-  ]
+    "meebit-minter",
+    "donate",
+    "gitcoin-grantee"
+  ],
+  "name": "Donate: EthMerge.com"
 }

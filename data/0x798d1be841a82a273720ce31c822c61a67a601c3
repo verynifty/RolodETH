@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "DIGG",
+  "erc20_symbol": "DIGG",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/13737/thumb/digg.PNG?1611292196"
+}

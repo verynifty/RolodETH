@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Echain Network",
+  "erc20_symbol": "ECT",
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28133/thumb/1666808362379-8226c3c3451e049842cfe21d65cb91ad.png?1667719253"
+}

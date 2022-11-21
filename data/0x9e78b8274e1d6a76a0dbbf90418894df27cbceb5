@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Covenants",
+  "erc20_symbol": "UNIFI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12258/thumb/Unifi.png?1598548933"
+}

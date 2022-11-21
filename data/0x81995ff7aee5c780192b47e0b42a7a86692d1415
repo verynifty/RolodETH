@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Speedcash",
+  "erc20_symbol": "SCS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2929/thumb/scs_logo_200x200.png?1606439865"
+}

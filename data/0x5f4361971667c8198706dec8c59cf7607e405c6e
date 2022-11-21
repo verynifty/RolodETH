@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Fileshare Platform",
+  "erc20_symbol": "FSC",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/28190/thumb/fsc.png?1668325601"
+}

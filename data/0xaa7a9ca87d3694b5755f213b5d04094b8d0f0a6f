@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "OriginTrail",
+  "erc20_symbol": "TRAC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367"
+}

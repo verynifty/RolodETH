@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Neumark",
+  "erc20_symbol": "NEU",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2218/thumb/neumark.png?1547036501"
+}

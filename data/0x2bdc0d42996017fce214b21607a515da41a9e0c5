@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "SkinCoin",
+  "erc20_symbol": "SKIN",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/830/thumb/skincoin.png?1547034622"
+}

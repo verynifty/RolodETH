@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "adbank",
+  "erc20_symbol": "ADB",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/2806/thumb/adbank.png?1547036978"
+}

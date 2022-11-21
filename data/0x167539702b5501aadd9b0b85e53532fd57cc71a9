@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "bayc-minter",
-    "hashmask-minter"
-  ]
+    "hashmask-minter",
+    "contract-deployer"
+  ],
+  "name": "Paragons DAO: Deployer"
 }

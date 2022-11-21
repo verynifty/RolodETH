@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "NutsDAO",
+  "erc20_symbol": "NUTS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28165/thumb/NSD.png?1668171752"
+}

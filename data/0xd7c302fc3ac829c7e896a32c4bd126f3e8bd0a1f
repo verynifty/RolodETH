@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Bit2Me",
+  "erc20_symbol": "B2M",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/19848/thumb/b2m-circle-solid-default.png?1636036332"
+}

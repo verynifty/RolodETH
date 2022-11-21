@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Metaverse DAO",
+  "erc20_symbol": "MDAO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/23242/thumb/ezgif.com-gif-maker_%281%29.jpg?1664937350"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Nuvo Cash",
+  "erc20_symbol": "NUVO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/11422/thumb/nuvo.png?1590109082"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "CRYCASH",
+  "erc20_symbol": "CRC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/1945/thumb/crycash.png?1547790664"
+}

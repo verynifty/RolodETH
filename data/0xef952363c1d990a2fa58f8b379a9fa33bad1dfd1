@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LynKey",
+  "erc20_symbol": "LYNK",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/25069/thumb/oOcTsBsg_400x400_%281%29.jpg?1650038695"
+}

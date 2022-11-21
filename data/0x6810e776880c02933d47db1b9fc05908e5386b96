@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Gnosis",
+  "erc20_symbol": "GNO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1609402668"
+}

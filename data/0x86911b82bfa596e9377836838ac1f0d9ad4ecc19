@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "LCMS",
+  "erc20_symbol": "LCMS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/17324/thumb/lcms.jpeg?1627309697"
+}

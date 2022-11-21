@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Pussy Financial",
+  "erc20_symbol": "PUSSY",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/15213/thumb/pussytoken.png?1620110339"
+}

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "REVV",
+  "erc20_symbol": "REVV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12373/thumb/REVV_TOKEN_Refined_2021_%281%29.png?1627652390"
+}

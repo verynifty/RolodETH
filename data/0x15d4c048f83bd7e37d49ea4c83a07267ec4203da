@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "GALA",
+  "erc20_symbol": "GALA",
+  "erc20_decimals": 8,
+  "imageURL": "https://assets.coingecko.com/coins/images/12493/thumb/GALA-COINGECKO.png?1600233435"
+}

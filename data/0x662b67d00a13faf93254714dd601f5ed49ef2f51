@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Orbit Chain",
+  "erc20_symbol": "ORC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/9782/thumb/-p1Br7oh_400x400.png?1571716593"
+}

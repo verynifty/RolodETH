@@ -1,0 +1,10 @@
+{
+  "tags": [
+    "erc20",
+    "huobi"
+  ],
+  "name": "Huobi: HBTC Token",
+  "erc20_symbol": "HBTC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/12407/thumb/Unknown-5.png?1599624896"
+}

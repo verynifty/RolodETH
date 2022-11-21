@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "The Plant Dao",
+  "erc20_symbol": "SPROUT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/22455/thumb/56z0x6j.png?1641867803"
+}

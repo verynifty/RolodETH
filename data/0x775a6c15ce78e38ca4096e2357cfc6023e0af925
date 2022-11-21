@@ -1,5 +1,7 @@
 {
   "tags": [
-    "moonbird-minter"
-  ]
+    "moonbird-minter",
+    "contract-deployer"
+  ],
+  "name": "Sound.xyz:: Deployer"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Lition",
+  "erc20_symbol": "LIT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6580/thumb/Lition_ico.png?1547042787"
+}
