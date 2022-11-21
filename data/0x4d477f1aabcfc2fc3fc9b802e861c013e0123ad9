@@ -13,6 +13,10 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-daoge",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-0xgov"
   ]
 }

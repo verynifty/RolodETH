@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-hop",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-0xgov"
   ]
 }

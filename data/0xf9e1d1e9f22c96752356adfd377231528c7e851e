@@ -12,6 +12,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-bullsontheblock"
+    "snapshot-voter-bullsontheblock",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-treasuredao"
   ]
 }

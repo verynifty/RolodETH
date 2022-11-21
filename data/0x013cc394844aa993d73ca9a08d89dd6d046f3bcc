@@ -4,6 +4,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

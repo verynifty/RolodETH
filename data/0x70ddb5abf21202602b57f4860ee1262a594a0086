@@ -12,6 +12,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-0xgov",
+    "snapshot-voter-shellprotocol"
   ]
 }

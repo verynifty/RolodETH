@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-celo-goodghosting",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

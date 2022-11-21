@@ -9,6 +9,10 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-rook",
+    "snapshot-voter-cow",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-elfi",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

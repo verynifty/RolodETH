@@ -10,6 +10,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

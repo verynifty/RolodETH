@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-elfi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

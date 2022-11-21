@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-dydxgov",
     "snapshot-voter-hop",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-treasuredao"
   ]
 }

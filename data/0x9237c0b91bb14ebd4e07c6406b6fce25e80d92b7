@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

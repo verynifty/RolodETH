@@ -4,6 +4,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

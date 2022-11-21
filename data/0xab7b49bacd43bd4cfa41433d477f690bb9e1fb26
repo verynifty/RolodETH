@@ -16,6 +16,8 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-0xgov",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gal"
   ]
 }

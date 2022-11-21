@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-53231323",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

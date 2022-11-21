@@ -6,6 +6,7 @@
     "snapshot-voter-pushdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

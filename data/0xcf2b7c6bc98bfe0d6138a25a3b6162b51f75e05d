@@ -4,6 +4,7 @@
     "moonbird-minter",
     "art-goblers-minter",
     "snapshot-voter-aave",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-0xgov"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-derify",
     "snapshot-voter-stgdao",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-treasuredao"
   ]
 }

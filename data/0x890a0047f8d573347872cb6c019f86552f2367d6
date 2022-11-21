@@ -6,6 +6,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-poh",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol"
   ]
 }

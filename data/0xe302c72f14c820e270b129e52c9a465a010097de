@@ -8,6 +8,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-pistachiodao"
+    "snapshot-voter-pistachiodao",
+    "snapshot-voter-gal"
   ]
 }

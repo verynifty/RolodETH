@@ -6,6 +6,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-poh",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-piedao"
   ]
 }

@@ -18,6 +18,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hakka",
     "snapshot-voter-gnosis",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-xole"
   ]
 }

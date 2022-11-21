@@ -4,6 +4,7 @@
     "snapshot-voter-diadao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

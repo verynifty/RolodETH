@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-53231323",
+    "snapshot-voter-shellprotocol"
   ]
 }

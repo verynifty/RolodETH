@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "snapshot-voter-bestfork",
-    "snapshot-voter-millionwinner"
+    "snapshot-voter-millionwinner",
+    "snapshot-voter-shellprotocol"
   ]
 }

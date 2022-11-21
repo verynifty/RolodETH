@@ -5,6 +5,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gal",
+    "snapshot-voter-0xgov"
   ]
 }

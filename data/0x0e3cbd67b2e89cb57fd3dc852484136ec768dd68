@@ -4,6 +4,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-shellprotocol"
   ]
 }

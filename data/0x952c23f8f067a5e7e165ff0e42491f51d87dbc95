@@ -6,6 +6,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-shellprotocol"
   ]
 }

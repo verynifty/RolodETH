@@ -5,6 +5,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao"
   ]
 }

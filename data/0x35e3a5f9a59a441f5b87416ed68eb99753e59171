@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

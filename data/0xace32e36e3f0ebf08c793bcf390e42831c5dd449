@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-daoge"
+    "snapshot-voter-daoge",
+    "snapshot-voter-shellprotocol"
   ]
 }

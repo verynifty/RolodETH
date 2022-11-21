@@ -4,6 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol"
   ]
 }

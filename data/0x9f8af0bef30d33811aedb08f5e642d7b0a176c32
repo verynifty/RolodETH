@@ -4,6 +4,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-treasuredao"
   ]
 }

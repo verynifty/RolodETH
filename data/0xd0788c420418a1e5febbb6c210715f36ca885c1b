@@ -5,6 +5,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

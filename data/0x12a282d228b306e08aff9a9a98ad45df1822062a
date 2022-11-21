@@ -5,6 +5,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-opcollective"
   ]
 }

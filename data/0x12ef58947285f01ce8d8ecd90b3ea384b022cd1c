@@ -8,6 +8,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao",
     "snapshot-voter-celo-goodghosting",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-shellprotocol"
   ]
 }

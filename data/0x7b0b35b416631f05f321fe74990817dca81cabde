@@ -13,6 +13,9 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gro-xyz"
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-sismo",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

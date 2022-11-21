@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

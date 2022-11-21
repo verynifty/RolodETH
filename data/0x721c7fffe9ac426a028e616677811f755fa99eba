@@ -5,6 +5,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

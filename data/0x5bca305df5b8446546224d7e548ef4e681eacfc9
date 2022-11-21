@@ -8,6 +8,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-xennft",
     "snapshot-voter-isat",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

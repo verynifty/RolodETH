@@ -6,6 +6,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-piedao",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-shellprotocol"
   ]
 }

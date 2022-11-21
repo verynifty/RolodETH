@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "goblin-town-minter",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

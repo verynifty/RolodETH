@@ -4,6 +4,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

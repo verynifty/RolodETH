@@ -14,6 +14,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ]
 }

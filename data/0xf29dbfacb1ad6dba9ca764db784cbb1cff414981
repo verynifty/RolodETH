@@ -5,6 +5,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-qidao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-cakevote"
   ]
 }

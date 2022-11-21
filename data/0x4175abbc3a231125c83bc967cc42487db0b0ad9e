@@ -10,6 +10,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-derify",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

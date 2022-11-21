@@ -10,6 +10,9 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gro-xyz"
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-sismo",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave"
   ]
 }

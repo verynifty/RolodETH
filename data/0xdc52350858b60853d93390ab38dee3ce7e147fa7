@@ -4,6 +4,12 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-safe",
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-jbdao"
   ]
 }

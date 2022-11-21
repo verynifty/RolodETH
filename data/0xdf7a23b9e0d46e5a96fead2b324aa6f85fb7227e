@@ -6,6 +6,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

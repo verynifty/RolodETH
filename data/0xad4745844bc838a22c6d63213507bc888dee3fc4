@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "snapshot-voter-people-dao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-shellprotocol"
   ]
 }

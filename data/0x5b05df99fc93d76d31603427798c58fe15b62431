@@ -8,6 +8,9 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-treasuredao"
   ]
 }

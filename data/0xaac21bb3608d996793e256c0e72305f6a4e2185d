@@ -3,6 +3,7 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ens",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-shellprotocol"
   ]
 }

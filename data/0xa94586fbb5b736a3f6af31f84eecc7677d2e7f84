@@ -6,6 +6,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

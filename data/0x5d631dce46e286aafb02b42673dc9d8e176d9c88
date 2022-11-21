@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-derify",
     "snapshot-voter-gal",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

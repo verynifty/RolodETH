@@ -7,6 +7,9 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-qidao",
     "snapshot-voter-dforcenet",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-shellprotocol"
   ]
 }

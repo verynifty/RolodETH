@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave"
   ]
 }

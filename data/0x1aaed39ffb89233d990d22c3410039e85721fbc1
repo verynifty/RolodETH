@@ -8,6 +8,9 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-avcdao"
   ]
 }

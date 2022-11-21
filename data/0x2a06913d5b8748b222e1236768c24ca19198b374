@@ -17,6 +17,10 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

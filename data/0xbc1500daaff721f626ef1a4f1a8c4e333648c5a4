@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
-    "snapshot-voter-popcorn-snapshot"
+    "snapshot-voter-popcorn-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

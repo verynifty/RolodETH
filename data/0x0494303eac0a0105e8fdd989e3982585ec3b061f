@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ]
 }

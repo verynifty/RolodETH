@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-supported",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-goldfinch",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -8,6 +8,10 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3",
+    "snapshot-voter-treasuredao"
   ]
 }

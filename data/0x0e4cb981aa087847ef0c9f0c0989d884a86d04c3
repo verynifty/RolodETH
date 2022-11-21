@@ -1,5 +1,10 @@
 {
   "tags": [
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aave",
+    "snapshot-voter-alchemixstakers"
   ]
 }

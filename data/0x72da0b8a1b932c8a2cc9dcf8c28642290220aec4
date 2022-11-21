@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "sybil-delegate",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-shellprotocol"
   ],
   "name": "Sybil Delegate: Yinz1020"
 }

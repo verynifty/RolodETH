@@ -5,6 +5,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-gal",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-shellprotocol"
   ]
 }

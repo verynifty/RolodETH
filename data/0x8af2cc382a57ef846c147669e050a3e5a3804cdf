@@ -3,6 +3,8 @@
     "snapshot-voter-hop",
     "snapshot-voter-eth888888",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-treasuredao"
   ]
 }

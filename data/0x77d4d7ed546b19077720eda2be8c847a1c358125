@@ -16,6 +16,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

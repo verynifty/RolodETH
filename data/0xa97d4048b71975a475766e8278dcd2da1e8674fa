@@ -9,6 +9,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol"
   ]
 }

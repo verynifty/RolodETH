@@ -10,6 +10,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-yam",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -4,6 +4,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gal",
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol"
   ]
 }

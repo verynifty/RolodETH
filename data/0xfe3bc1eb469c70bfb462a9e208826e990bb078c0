@@ -6,6 +6,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

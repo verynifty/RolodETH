@@ -6,6 +6,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-0xgov"
   ]
 }

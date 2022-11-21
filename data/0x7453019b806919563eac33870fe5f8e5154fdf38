@@ -7,6 +7,9 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-goldfinch",
     "snapshot-voter-stgdao",
-    "snapshot-voter-ethlizards"
+    "snapshot-voter-ethlizards",
+    "snapshot-voter-rook",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "azuki-minter",
     "moonbird-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-sismo",
+    "snapshot-voter-shellprotocol"
   ]
 }

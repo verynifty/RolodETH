@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

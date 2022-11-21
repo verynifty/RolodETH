@@ -4,6 +4,7 @@
     "snapshot-voter-daoge",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-aave"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-qidao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

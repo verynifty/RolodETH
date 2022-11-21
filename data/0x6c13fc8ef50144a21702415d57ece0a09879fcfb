@@ -4,6 +4,8 @@
     "snapshot-voter-daocity",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gauge-rbn"
+    "snapshot-voter-gauge-rbn",
+    "snapshot-voter-shellprotocol"
   ]
 }

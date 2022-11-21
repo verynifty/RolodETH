@@ -7,6 +7,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-piedao",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-treasuredao"
   ]
 }

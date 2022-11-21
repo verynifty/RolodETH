@@ -13,6 +13,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-shellprotocol"
   ]
 }

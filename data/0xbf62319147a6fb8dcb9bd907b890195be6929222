@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-gearbox",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-shellprotocol"
   ]
 }

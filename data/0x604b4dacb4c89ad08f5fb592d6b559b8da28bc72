@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-gmx",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol"
   ]
 }

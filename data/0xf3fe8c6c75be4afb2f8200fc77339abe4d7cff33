@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-nation3"
   ]
 }

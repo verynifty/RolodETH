@@ -7,6 +7,8 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-shellprotocol"
   ]
 }

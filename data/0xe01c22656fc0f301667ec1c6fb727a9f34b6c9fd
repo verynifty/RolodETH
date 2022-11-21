@@ -1,5 +1,9 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-shellprotocol"
   ]
 }

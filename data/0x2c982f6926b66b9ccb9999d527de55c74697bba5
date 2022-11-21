@@ -3,6 +3,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

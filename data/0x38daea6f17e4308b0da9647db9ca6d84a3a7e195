@@ -16,6 +16,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-beets",
     "snapshot-voter-gearbox",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-0xgov"
   ]
 }

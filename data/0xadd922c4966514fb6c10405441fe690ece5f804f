@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-daocity",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

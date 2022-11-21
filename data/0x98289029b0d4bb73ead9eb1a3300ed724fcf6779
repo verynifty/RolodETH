@@ -12,6 +12,7 @@
     "snapshot-voter-gotchivault",
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-treasuredao"
   ]
 }

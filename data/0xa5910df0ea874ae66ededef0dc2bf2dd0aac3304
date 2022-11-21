@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-xuzhiyong",
+    "snapshot-voter-shellprotocol"
   ]
 }

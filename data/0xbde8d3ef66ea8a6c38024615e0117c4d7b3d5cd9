@@ -9,6 +9,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-cow",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sismo",
+    "snapshot-voter-shellprotocol"
   ]
 }

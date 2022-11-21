@@ -1,6 +1,12 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-shellprotocol"
   ]
 }

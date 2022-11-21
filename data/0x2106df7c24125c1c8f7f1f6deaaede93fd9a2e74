@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-stgdao",
-    "snapshot-voter-millionwinner"
+    "snapshot-voter-millionwinner",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

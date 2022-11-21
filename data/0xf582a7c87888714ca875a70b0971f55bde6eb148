@@ -11,6 +11,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-hop",
     "snapshot-voter-dforcenet",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-beefydao"
   ]
 }

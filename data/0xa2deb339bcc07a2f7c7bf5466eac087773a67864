@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shellprotocol"
   ]
 }

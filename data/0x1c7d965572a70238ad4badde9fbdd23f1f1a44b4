@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol"
   ]
 }

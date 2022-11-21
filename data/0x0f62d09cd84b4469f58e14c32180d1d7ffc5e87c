@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

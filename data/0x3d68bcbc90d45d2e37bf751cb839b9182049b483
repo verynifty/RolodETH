@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

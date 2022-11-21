@@ -12,6 +12,8 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -2,6 +2,9 @@
   "tags": [
     "coolcat-minter",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-sismo",
+    "snapshot-voter-shellprotocol"
   ]
 }

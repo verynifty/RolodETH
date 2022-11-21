@@ -6,6 +6,7 @@
     "meebit-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-96studio"
   ]
 }

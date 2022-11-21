@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-8848labs",
+    "snapshot-voter-gal",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

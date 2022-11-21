@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "snapshot-voter-elfi",
-    "snapshot-voter-tempusgov"
+    "snapshot-voter-tempusgov",
+    "snapshot-voter-shellprotocol"
   ]
 }

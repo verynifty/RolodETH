@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-ens",
     "snapshot-voter-aave",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

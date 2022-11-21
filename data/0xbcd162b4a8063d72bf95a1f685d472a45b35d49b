@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ]
 }

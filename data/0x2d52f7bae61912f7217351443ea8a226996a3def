@@ -2,6 +2,10 @@
   "tags": [
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-aave",
+    "snapshot-voter-baovotes",
+    "snapshot-voter-gmdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

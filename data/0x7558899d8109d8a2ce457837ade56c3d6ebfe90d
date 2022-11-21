@@ -8,6 +8,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-gal",
     "snapshot-voter-aladdindao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ]
 }

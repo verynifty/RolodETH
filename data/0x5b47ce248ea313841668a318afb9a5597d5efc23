@@ -12,6 +12,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "snapshot-voter-benddao"
+    "snapshot-voter-benddao",
+    "snapshot-voter-shellprotocol"
   ]
 }

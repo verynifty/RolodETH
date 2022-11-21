@@ -11,6 +11,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
-    "snapshot-voter-ricochet"
+    "snapshot-voter-ricochet",
+    "snapshot-voter-shellprotocol"
   ]
 }

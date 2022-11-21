@@ -8,6 +8,9 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-hop",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-pooltogether"
   ]
 }

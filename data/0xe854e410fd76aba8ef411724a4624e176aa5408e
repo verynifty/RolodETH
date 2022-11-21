@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-silofinance",
     "snapshot-voter-daocity",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shellprotocol"
   ]
 }

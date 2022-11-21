@@ -8,6 +8,7 @@
     "snapshot-voter-botto",
     "snapshot-voter-dopedao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-shellprotocol"
   ]
 }

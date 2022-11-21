@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gal"
   ]
 }

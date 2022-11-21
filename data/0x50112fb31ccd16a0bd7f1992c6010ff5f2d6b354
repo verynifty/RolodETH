@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-aave",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

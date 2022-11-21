@@ -3,6 +3,11 @@
     "uniswapv3-lp",
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-xole",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-shellprotocol"
   ]
 }

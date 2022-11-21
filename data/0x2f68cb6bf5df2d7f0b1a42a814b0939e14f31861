@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-badgerdao"
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-opcollective"
   ]
 }

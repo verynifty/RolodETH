@@ -8,6 +8,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-daoge",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-shellprotocol"
   ]
 }

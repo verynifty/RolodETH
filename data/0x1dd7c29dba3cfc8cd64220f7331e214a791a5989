@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-shellprotocol"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-community-nexusmutual"
+    "snapshot-voter-community-nexusmutual",
+    "snapshot-voter-shellprotocol"
   ]
 }

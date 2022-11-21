@@ -6,6 +6,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-shellprotocol"
   ]
 }

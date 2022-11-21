@@ -6,6 +6,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-shellprotocol"
   ]
 }

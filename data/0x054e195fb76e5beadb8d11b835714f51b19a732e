@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-shellprotocol"
   ]
 }

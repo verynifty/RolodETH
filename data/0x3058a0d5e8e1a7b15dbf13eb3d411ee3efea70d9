@@ -3,6 +3,7 @@
     "moonbird-minter",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-treasuredao"
   ]
 }

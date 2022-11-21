@@ -5,6 +5,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-qidao",
     "snapshot-voter-officialoceandao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-cakevote"
   ]
 }
