@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-ens",
-    "snapshot-voter-moonwell-governance"
+    "snapshot-voter-moonwell-governance",
+    "snapshot-voter-gal"
   ]
 }

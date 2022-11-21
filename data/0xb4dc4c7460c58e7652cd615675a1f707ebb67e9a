@@ -5,6 +5,11 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-gmx",
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-officialoceandao",
+    "snapshot-voter-koba777",
+    "snapshot-voter-piedao",
+    "snapshot-voter-zksyncdao"
   ]
 }

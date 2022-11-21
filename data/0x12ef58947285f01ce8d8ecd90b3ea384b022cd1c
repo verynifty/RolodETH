@@ -5,6 +5,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }

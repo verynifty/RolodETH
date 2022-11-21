@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-zksync-dao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-gal"
   ]
 }

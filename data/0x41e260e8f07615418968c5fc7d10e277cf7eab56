@@ -4,6 +4,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-krausehouse",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -5,7 +5,9 @@
     "take-action",
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gotchivault",
+    "snapshot-voter-stgdao"
   ],
   "name": "Multichain Hack Alert 3168"
 }

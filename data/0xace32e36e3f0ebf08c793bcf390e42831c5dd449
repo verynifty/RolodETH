@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gmx",
-    "snapshot-voter-elfi"
+    "snapshot-voter-elfi",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-stgdao"
   ]
 }

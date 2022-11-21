@@ -9,6 +9,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-piedao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

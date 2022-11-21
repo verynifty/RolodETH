@@ -4,6 +4,7 @@
     "snapshot-voter-dudulab",
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-liveartxevent"
   ]
 }

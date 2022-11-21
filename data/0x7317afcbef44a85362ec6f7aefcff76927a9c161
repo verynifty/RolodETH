@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

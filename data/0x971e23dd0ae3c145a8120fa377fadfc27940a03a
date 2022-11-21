@@ -9,6 +9,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-gal"
   ]
 }

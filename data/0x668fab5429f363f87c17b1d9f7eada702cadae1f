@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-stgdao"
   ]
 }
