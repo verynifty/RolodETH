@@ -69,10 +69,12 @@ const NFTMinters = [
 ];
 
 (async () => {
-    await sudoswap_users.addTo(RolodETH);
-    return
     await os_users.addTo(RolodETH);
     return
+    
+    await sudoswap_users.addTo(RolodETH);
+    return
+
 
     await snapshotvoting.addTo(RolodETH);
 return
