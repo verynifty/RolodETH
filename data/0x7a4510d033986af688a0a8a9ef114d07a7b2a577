@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-stgdao",
-    "snapshot-voter-rektwolf"
+    "snapshot-voter-rektwolf",
+    "opensea-user"
   ]
 }

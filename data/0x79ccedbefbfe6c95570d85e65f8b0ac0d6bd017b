@@ -9,6 +9,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

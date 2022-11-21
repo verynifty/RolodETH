@@ -4,6 +4,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

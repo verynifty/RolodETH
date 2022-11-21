@@ -9,6 +9,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

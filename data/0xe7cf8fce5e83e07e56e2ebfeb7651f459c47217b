@@ -8,6 +8,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "opensea-user"
   ]
 }

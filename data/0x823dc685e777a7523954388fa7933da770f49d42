@@ -3,6 +3,7 @@
     "moonbird-minter",
     "goblin-town-minter",
     "art-goblers-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

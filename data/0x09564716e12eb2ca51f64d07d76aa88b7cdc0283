@@ -3,6 +3,7 @@
     "cryptoadz-minter",
     "clonex-minter",
     "goblin-town-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

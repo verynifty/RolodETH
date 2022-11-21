@@ -1,7 +1,8 @@
 {
   "tags": [
     "wow-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Visithra: Deployer"
 }

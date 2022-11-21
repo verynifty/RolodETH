@@ -12,6 +12,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zirouziyu",
     "snapshot-voter-people-dao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "opensea-user"
   ]
 }

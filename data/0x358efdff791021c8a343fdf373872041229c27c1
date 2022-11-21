@@ -3,6 +3,7 @@
     "hashmask-minter",
     "cryptoadz-minter",
     "art-goblers-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

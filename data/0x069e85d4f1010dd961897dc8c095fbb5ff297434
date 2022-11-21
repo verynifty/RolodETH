@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-cre8r",
     "snapshot-voter-yam",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "opensea-user"
   ]
 }

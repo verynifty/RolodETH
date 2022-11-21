@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "pudgy-pinguin-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

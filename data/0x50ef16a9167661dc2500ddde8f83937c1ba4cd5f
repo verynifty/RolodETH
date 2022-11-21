@@ -5,6 +5,7 @@
     "coolcat-minter",
     "loot-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

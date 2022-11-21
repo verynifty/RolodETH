@@ -4,6 +4,7 @@
     "meebit-minter",
     "wow-minter",
     "otherdeed-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin",
-    "snapshot-voter-metabrewsociety"
+    "snapshot-voter-metabrewsociety",
+    "opensea-user"
   ]
 }

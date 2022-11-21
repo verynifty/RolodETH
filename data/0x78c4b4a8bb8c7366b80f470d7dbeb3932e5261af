@@ -4,6 +4,7 @@
     "coolcat-minter",
     "cryptoadz-minter",
     "wow-minter",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "pudgy-pinguin-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

@@ -2,7 +2,8 @@
   "tags": [
     "veefriend-minter",
     "wow-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "TATR tech: Deployer"
 }

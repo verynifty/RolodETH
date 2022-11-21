@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "opensea-user"
   ]
 }

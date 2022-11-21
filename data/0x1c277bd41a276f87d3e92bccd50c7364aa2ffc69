@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "contract-deployer",
-    "snapshot-voter"
+    "snapshot-voter",
+    "opensea-user"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-therandomdao",
     "snapshot-voter-uniswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -5,6 +5,7 @@
     "clonex-minter",
     "mayc-minter",
     "snapshot-voter-96studio",
-    "snapshot-voter-curve"
+    "snapshot-voter-curve",
+    "opensea-user"
   ]
 }

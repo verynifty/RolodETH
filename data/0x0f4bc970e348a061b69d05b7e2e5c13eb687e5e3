@@ -4,6 +4,7 @@
     "coolcat-minter",
     "meebit-minter",
     "cryptoadz-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

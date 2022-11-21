@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-sushigov",
     "snapshot-voter-yfbeta",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "opensea-user"
   ]
 }

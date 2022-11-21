@@ -3,6 +3,7 @@
     "meebit-minter",
     "mayc-minter",
     "snapshot-voter-atxdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

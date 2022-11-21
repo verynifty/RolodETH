@@ -1,7 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "opensea-user"
   ],
   "name": "Gitcoin Grants: Arbitrage DAO"
 }

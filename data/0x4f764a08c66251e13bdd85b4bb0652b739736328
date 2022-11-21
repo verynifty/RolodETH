@@ -3,6 +3,7 @@
     "moonbird-minter",
     "doodle-minter",
     "meebit-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "opensea-user"
   ]
 }

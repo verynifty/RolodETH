@@ -5,6 +5,7 @@
     "meebit-minter",
     "cryptoadz-minter",
     "clonex-minter",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "opensea-user"
   ]
 }

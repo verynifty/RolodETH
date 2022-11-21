@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "art-goblers-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "opensea-user"
   ]
 }

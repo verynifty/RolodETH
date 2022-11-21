@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "azuki-minter",
     "loot-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

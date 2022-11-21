@@ -3,6 +3,7 @@
     "bayc-minter",
     "azuki-minter",
     "doodle-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

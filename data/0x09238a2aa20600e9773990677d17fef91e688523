@@ -4,6 +4,7 @@
     "hashmask-minter",
     "meebit-minter",
     "wow-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

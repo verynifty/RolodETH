@@ -8,6 +8,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

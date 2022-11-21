@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-theheaddao"
+    "snapshot-voter-theheaddao",
+    "opensea-user"
   ]
 }

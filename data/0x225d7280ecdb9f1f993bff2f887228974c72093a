@@ -3,6 +3,7 @@
     "hashmask-minter",
     "snapshot-voter-anatadao",
     "snapshot-voter-theidols",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

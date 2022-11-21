@@ -3,6 +3,7 @@
     "azuki-minter",
     "moonbird-minter",
     "snapshot-voter-thegirlsofarmament",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

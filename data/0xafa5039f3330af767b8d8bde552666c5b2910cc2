@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-badgerdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "opensea-user"
   ]
 }

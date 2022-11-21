@@ -15,6 +15,7 @@
     "snapshot-voter-rook",
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

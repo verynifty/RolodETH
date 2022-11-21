@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "opensea-user"
   ]
 }

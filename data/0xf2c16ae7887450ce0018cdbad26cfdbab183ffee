@@ -6,6 +6,7 @@
     "clonex-minter",
     "otherdeed-minter",
     "snapshot-voter-yearn",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "opensea-user"
   ]
 }

@@ -17,6 +17,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-apecoin",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

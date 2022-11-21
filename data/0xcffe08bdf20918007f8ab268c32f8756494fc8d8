@@ -4,6 +4,7 @@
     "hashmask-minter",
     "gitcoin-grantee",
     "snapshot-voter-yearn",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

@@ -6,6 +6,7 @@
     "otherdeed-minter",
     "snapshot-voter-jbdao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-loot-dao"
+    "snapshot-voter-loot-dao",
+    "opensea-user"
   ]
 }

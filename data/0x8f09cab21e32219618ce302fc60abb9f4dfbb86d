@@ -9,6 +9,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

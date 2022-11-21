@@ -4,6 +4,7 @@
     "coolcat-minter",
     "meebit-minter",
     "otherdeed-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "opensea-user"
   ]
 }

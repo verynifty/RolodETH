@@ -13,6 +13,7 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

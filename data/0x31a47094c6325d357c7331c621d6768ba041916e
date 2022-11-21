@@ -6,6 +6,7 @@
     "otherdeed-minter",
     "maker-vault-owner",
     "snapshot-voter-yearn",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "azuki-minter",
     "loot-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

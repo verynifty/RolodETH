@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "cyber-kong-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

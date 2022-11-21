@@ -5,6 +5,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

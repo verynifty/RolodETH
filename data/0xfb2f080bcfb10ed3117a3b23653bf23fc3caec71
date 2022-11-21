@@ -1,7 +1,8 @@
 {
   "tags": [
     "wow-minter",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "opensea-user"
   ],
   "name": "Gitcoin Grants: LTokens"
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-cow",
     "snapshot-voter-humandao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

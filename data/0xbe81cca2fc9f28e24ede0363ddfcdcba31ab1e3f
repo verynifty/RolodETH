@@ -4,6 +4,7 @@
     "hashmask-minter",
     "clonex-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

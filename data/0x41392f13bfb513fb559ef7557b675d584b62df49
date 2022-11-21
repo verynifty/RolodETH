@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

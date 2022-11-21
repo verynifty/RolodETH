@@ -5,6 +5,7 @@
     "cryptoadz-minter",
     "veefriend-minter",
     "art-goblers-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

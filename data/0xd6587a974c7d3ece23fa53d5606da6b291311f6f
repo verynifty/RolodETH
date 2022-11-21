@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-cvx",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-beets"
+    "snapshot-voter-beets",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "hashmask-minter",
     "meebit-minter",
     "top-degen",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "opensea-user"
   ]
 }

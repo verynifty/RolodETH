@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "opensea-user"
   ]
 }

@@ -6,6 +6,7 @@
     "doodle-minter",
     "cryptoadz-minter",
     "wow-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

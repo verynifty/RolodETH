@@ -3,6 +3,7 @@
     "snapshot-voter-metabrands",
     "snapshot-voter-anatadao",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "opensea-user"
   ]
 }

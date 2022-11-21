@@ -6,6 +6,7 @@
     "wow-minter",
     "mayc-minter",
     "snapshot-voter-brightmoments",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

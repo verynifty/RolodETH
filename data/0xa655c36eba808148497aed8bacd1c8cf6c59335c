@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "gitcoin-grantee"
+    "gitcoin-grantee",
+    "opensea-user"
   ],
   "name": "PIXEL: Deployer"
 }

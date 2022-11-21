@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "loot-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "SlimHoods: Deployer"
 }

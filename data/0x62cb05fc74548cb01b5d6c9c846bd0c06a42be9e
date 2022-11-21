@@ -5,6 +5,7 @@
     "moonbird-minter",
     "meebit-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

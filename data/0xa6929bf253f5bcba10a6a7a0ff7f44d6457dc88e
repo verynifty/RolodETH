@@ -3,7 +3,8 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "take-action"
+    "take-action",
+    "opensea-user"
   ],
   "name": "Multichain Hack Alert 2883"
 }

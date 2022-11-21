@@ -3,6 +3,7 @@
     "azuki-minter",
     "cryptoadz-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "opensea-user"
   ]
 }

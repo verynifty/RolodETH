@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-balancer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

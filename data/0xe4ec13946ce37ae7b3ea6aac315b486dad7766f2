@@ -12,6 +12,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gobblerunion",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

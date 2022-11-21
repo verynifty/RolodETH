@@ -8,6 +8,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

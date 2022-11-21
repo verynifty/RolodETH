@@ -4,6 +4,7 @@
     "azuki-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-qatardev",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "opensea-user"
   ]
 }

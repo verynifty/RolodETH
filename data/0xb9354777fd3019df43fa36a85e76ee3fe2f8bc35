@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "loot-minter",
     "clonex-minter",
-    "art-goblers-minter"
+    "art-goblers-minter",
+    "opensea-user"
   ]
 }

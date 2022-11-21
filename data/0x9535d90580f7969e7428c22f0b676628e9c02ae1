@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

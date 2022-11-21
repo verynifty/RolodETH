@@ -3,6 +3,7 @@
     "azuki-minter",
     "coolcat-minter",
     "meebit-minter",
-    "clonex-minter"
+    "clonex-minter",
+    "opensea-user"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-vnftpgov",
     "snapshot-voter-gmx",
     "snapshot-voter-interportfinance",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

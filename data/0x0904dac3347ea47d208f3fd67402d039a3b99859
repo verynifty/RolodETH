@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "ens"
+    "ens",
+    "opensea-user"
   ],
   "name": "ENS: Wallet"
 }

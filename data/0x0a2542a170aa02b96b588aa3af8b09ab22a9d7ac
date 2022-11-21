@@ -3,6 +3,7 @@
     "doodle-minter",
     "cyber-kong-minter",
     "meebit-minter",
-    "wow-minter"
+    "wow-minter",
+    "opensea-user"
   ]
 }

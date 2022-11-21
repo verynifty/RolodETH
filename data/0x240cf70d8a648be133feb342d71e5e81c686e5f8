@@ -6,6 +6,7 @@
     "doodle-minter",
     "loot-minter",
     "hashmask-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "opensea-user"
   ]
 }

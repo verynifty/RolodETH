@@ -4,6 +4,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-ens",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

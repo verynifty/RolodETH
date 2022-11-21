@@ -3,7 +3,8 @@
     "wow-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "contract-deployer"
+    "contract-deployer",
+    "opensea-user"
   ],
   "name": "Juicebox Frens: Deployer"
 }

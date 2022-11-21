@@ -4,6 +4,7 @@
     "coolcat-minter",
     "loot-minter",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

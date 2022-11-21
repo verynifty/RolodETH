@@ -3,6 +3,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-balancer",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "opensea-user"
   ]
 }

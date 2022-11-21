@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "opensea-user"
   ]
 }

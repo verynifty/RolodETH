@@ -4,6 +4,7 @@
     "meebit-minter",
     "snapshot-voter",
     "snapshot-voter-aave",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "opensea-user"
   ]
 }

@@ -4,6 +4,7 @@
     "meebit-minter",
     "otherdeed-minter",
     "snapshot-voter-friendswithbenefits",
-    "snapshot-voter-dirtxyz"
+    "snapshot-voter-dirtxyz",
+    "opensea-user"
   ]
 }

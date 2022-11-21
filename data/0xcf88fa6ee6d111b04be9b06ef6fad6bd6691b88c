@@ -5,6 +5,7 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter",
-    "snapshot-voter-coin"
+    "snapshot-voter-coin",
+    "opensea-user"
   ]
 }
