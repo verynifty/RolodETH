@@ -14,6 +14,13 @@ Data are sourced from a variety of providers listed here:
 * [Etherscan labels](https://github.com/brianleect/etherscan-labels)
 * Some personal tags by [@grand_marquis](https://twitter.com/grands_marquis).
 
+# Usage
+
+You can use sources adapters to create your own RolodETH database. The open public repository is located [here](https://github.com/verynifty/RolodETH/tree/main/data). You can host your own API by cloning the repo or use direct Github access:
+```
+https://raw.githubusercontent.com/verynifty/RolodETH/main/data/[ADDRESS IN LOWERCASE]
+```
+
 # Contribute
 
 To add your data, open a pull request or contact [@grand_marquis](https://twitter.com/grands_marquis) on twitter.
@@ -23,19 +30,10 @@ To add your data, open a pull request or contact [@grand_marquis](https://twitte
 npm install
 ```
 
+You can run your own API:
+
 ```
 node ./api/index.js
-```
-# Usage
-
-You can use sources adapters to create your own RolodETH database. The open public repository is located [here](https://github.com/verynifty/RolodETH/tree/main/data). You can host your own API by cloning the repo or use direct Github access:
-```
-https://raw.githubusercontent.com/verynifty/RolodETH/main/data/[ADDRESS IN LOWERCASE]
-```
-
-Our on our hosted API:
-```
-https://rolodeth.vercel.app/address/[ADDRESS]
 ```
 
 

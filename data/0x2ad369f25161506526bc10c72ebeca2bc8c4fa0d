@@ -5,6 +5,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-apecoin",
     "snapshot-voter-giv",
-    "snapshot-voter-eulerdao"
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-opcollective"
   ]
 }

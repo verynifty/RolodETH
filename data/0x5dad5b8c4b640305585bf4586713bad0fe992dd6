@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-wireshape-dao"
   ]
 }

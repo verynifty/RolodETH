@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-aave",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo"
   ]
 }

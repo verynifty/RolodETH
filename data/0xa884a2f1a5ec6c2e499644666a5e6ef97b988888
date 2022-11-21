@@ -8,6 +8,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

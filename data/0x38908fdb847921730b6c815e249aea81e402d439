@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zerozero",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

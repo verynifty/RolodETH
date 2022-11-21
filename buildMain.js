@@ -65,9 +65,8 @@ const NFTMinters = [
 ];
 
 (async () => {
-    await GrandsMarquisManualLabels.addTo(RolodETH);
-return
     await snapshotvoting.addTo(RolodETH);
+return
     //await Reservoir.addTo(RolodETH);
     return;
     await MyCryptoTokenList.addTo(RolodETH)

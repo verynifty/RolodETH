@@ -12,6 +12,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-1inch",
     "snapshot-voter-gnosis",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo"
   ]
 }

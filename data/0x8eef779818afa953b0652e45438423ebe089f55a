@@ -17,6 +17,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-benddao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-sismo"
   ]
 }

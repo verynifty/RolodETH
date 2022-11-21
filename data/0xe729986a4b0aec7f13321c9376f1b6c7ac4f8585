@@ -6,6 +6,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-sharkdao",
     "snapshot-voter-zerozero",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-sismo"
   ]
 }

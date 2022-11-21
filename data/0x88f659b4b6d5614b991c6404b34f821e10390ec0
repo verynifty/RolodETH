@@ -19,6 +19,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-gnosis",
     "snapshot-voter-cakevote",
-    "snapshot-voter-xole"
+    "snapshot-voter-xole",
+    "snapshot-voter-sismo"
   ]
 }

@@ -7,6 +7,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-zkware",
     "snapshot-voter-uniswap",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-sismo"
   ]
 }

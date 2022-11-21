@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-bitdao"
   ]
 }

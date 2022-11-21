@@ -21,6 +21,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-jbdao",
     "snapshot-voter-zerozero",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

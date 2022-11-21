@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sismo"
   ]
 }

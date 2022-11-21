@@ -3,6 +3,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-sismo"
   ]
 }

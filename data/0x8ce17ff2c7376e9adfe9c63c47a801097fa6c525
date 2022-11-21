@@ -3,6 +3,7 @@
     "snapshot-voter-saddlefinance",
     "snapshot-voter-gnosis",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

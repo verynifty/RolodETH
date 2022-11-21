@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-lkcup"
+    "snapshot-voter-lkcup",
+    "snapshot-voter-sismo"
   ]
 }

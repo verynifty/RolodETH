@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-sismo"
   ]
 }

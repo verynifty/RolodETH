@@ -9,6 +9,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-tomoondao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

@@ -11,6 +11,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-piedao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-opcollective"
   ]
 }

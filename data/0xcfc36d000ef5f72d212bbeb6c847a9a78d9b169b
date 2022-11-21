@@ -4,6 +4,10 @@
     "snapshot-voter-freerossdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-safe",
-    "snapshot-voter-xole"
+    "snapshot-voter-xole",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-tomoondao",
+    "snapshot-voter-cow"
   ]
 }

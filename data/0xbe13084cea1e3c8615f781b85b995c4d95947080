@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-sismo"
   ]
 }
