@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ftx"
+    "ftx",
+    "contract"
   ],
   "name": "FTX: FTT Token",
   "erc20_symbol": "FTT",

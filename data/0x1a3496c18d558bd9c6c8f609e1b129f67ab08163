@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "DEAPCOIN",
   "erc20_symbol": "DEP",

@@ -50,7 +50,7 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
                 requestFunc,
                 "latest"
             )
-            if (target != null) {
+            if (target != null && address != "0x0000000000000000000000000000000000000000") {
                 rolodeth.addTag(address, "proxy");
                 rolodeth.addProperty(address, "proxy", target);
             }

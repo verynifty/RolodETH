@@ -1,10 +1,7 @@
 {
   "tags": [
-    "bitstamp",
-    "exchange",
     "contract",
     "proxy"
   ],
-  "name": "Bitstamp 2",
   "proxy": "0x0000000000000000000000000000000000000000"
 }

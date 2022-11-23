@@ -1,6 +1,9 @@
 {
   "tags": [
-    "marketplace"
+    "marketplace",
+    "contract",
+    "proxy"
   ],
-  "name": "X2Y2: Exchange"
+  "name": "X2Y2: Exchange",
+  "proxy": "0x6d7812d41a08bc2a910b562d8b56411964a4ed88"
 }

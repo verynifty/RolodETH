@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "uniswap"
+    "uniswap",
+    "contract"
   ],
   "name": "Uniswap",
   "erc20_symbol": "UNI",

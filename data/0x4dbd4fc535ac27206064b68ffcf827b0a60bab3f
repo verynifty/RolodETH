@@ -1,7 +1,10 @@
 {
   "tags": [
     "arbitrum",
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "Arbitrum: Inbox"
+  "name": "Arbitrum: Inbox",
+  "proxy": "0x931e1770bec7827841f3989bda43319adacd62db"
 }

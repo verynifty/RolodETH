@@ -1,6 +1,7 @@
 {
   "tags": [
-    "gitcoin-grants"
+    "gitcoin-grants",
+    "contract"
   ],
   "name": "Gitcoin: Bulk Checkout"
 }
