@@ -1,4 +1,5 @@
 const { ethers } = require("ethers");
+const { SuperProvider }  = require("ethers-super-provider")
 const proxyDetection = require('evm-proxy-detection');
 const AbiFunctions = require("abi-decode-functions");
 function RoloScraper(rpcUrl) {

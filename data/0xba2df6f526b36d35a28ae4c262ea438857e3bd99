@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tamadoge Ultra Rare NFTs",
   "imageUrl": "https://i.seadn.io/gcs/files/81e45fd8485b5e5c1ff01692d1508f2a.png?w=500&auto=format",
