@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "decentraland"
+    "decentraland",
+    "contract"
   ],
   "name": "DecentralandMANA",
   "erc20_symbol": "MANA",
