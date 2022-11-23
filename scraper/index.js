@@ -37,7 +37,7 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
         }
         console.log(lookup)
         if (code == "0x") {
-            rolodeth.addTag(address, "eoa");
+           //  rolodeth.addTag(address, "eoa");
         } else {
             rolodeth.addTag(address, "contract");
             let provider = this.provider

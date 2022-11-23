@@ -4,7 +4,7 @@ const RolodETH = new (require("./RolodETH"))("./data/", 1);
 const scraper = new Scraper("https://rpc.flashbots.net/");
 
 (async () => {
-
-    await scraper.scrapeBlocks(RolodETH, 16001850, 16001854)
+    let latestBlock = await scraper.provider.getBlockNumber();
+    await scraper.scrapeBlocks(RolodETH, latestBlock - 10, latestBlock)
     
 })();
