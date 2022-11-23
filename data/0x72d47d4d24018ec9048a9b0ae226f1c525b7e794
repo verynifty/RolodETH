@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "BFF Friendship Bracelets",
   "imageUrl": "https://i.seadn.io/gae/9LK52eD3wmwzsk2uuNr1Bl9AZNe89ixNgQzhxIEKodUOcf2vLdJv9DAEpC25aIiCfeUFdWTugdUwGyHuHHUKQpvCz3AA8ZmMex00?w=500&auto=format",
   "externalUrl": "http://www.mybff.com",
   "discordUrl": "https://discord.gg/mybff",
   "twitterUsername": "MyBFF",
-  "description": "BFF helps women and nonbinary friends get educated, connected and rewarded in all things crypto.\r\n\r\nBFF Friendship Bracelets grant priority access to all upcoming NFT drops in partnership with top emerging artists, including our 10k PFP collection in April. Every collection under the BFF umbrella has distinct vision and utility.\r\n\r\nJoin a community of friends in the new world of web3 while supporting independent artists.\r\n\r\n[https://mybff.com](https://mybff.com)"
+  "description": "BFF helps women and nonbinary friends get educated, connected and rewarded in all things crypto.\r\n\r\nBFF Friendship Bracelets grant priority access to all upcoming NFT drops in partnership with top emerging artists, including our 10k PFP collection in April. Every collection under the BFF umbrella has distinct vision and utility.\r\n\r\nJoin a community of friends in the new world of web3 while supporting independent artists.\r\n\r\n[https://mybff.com](https://mybff.com)",
+  "proxy": "0x477c17e53a5f5bc17a6fd54f94219713fda0f562"
 }

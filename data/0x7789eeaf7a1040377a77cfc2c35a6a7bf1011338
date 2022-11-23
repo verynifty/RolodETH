@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Digital Dogs Breeding Labs",
   "imageUrl": "https://i.seadn.io/gcs/files/ea8f7202af56955e3c9c40a96b8c522a.png?w=500&auto=format",

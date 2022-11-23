@@ -1,7 +1,10 @@
 {
   "tags": [
     "contract-deployer",
-    "kraken"
+    "kraken",
+    "contract",
+    "proxy"
   ],
-  "name": "Kraken: Deployer 2"
+  "name": "Kraken: Deployer 2",
+  "proxy": "0x2febe3d60bb2bbdab135c740617241c2eb949635"
 }

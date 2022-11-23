@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "WORLD CUP INU",
   "erc20_symbol": "WCI",

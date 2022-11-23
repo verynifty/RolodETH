@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "lido"
+    "lido",
+    "contract"
   ],
   "name": "Lido: wstETH Token",
   "erc20_symbol": "WSTETH",

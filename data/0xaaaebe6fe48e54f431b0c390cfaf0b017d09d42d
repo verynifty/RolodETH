@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "celsius-network"
+    "celsius-network",
+    "contract"
   ],
   "name": "Celsius Network: CEL Token",
   "erc20_symbol": "CEL",

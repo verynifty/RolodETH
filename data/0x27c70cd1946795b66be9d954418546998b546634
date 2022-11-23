@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "shiba-inu"
+    "shiba-inu",
+    "contract"
   ],
   "name": "Shiba Inu: LEASH Token",
   "erc20_symbol": "LEASH",

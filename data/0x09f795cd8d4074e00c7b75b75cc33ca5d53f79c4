@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "HZN Studio - Collection 001/CW22",
   "imageUrl": "https://i.seadn.io/gcs/files/ed053e529747ace31b2831592c6eb453.gif?w=500&auto=format",

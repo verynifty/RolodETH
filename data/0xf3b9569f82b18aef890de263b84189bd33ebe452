@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "A Hunters Dream",
   "erc20_symbol": "CAW",
