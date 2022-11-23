@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "aave"
+    "aave",
+    "contract",
+    "proxy"
   ],
   "name": "Aave: AAVE Token",
   "erc20_symbol": "AAVE",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+  "imageURL": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
+  "proxy": "0xc13eac3b4f9eed480045113b7af00f7b5655ece8"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "enzyme-finance"
+    "enzyme-finance",
+    "contract"
   ],
   "name": "Melonport",
   "erc20_symbol": "MLNnew",
