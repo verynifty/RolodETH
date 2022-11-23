@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "lido"
+    "lido",
+    "contract",
+    "proxy"
   ],
   "name": "Lido: stETH Token",
   "erc20_symbol": "STETH",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13442/thumb/steth_logo.png?1608607546"
+  "imageURL": "https://assets.coingecko.com/coins/images/13442/thumb/steth_logo.png?1608607546",
+  "proxy": "0x47ebab13b806773ec2a2d16873e2df770d130b50"
 }

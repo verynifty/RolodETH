@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DuDuLab Project",
   "imageUrl": "https://i.seadn.io/gcs/files/b8b03036f0249e16a32d378a148f1013.jpg?w=500&auto=format",

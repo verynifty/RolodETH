@@ -1,7 +1,10 @@
 {
   "tags": [
     "dex",
-    "tokenlon"
+    "tokenlon",
+    "contract",
+    "proxy"
   ],
-  "name": "Tokenlon: DEX 2"
+  "name": "Tokenlon: DEX 2",
+  "proxy": "0xe25ff902295bc085bd548955b0595b518d4c46d2"
 }

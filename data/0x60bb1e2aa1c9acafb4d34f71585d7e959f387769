@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Art Gobblers",
   "imageUrl": "https://i.seadn.io/gcs/files/157b82f0e5adfb82b3c250f2b45dfde5.png?w=500&auto=format",

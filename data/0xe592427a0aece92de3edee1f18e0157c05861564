@@ -1,6 +1,7 @@
 {
   "tags": [
-    "dex"
+    "dex",
+    "contract"
   ],
   "name": "Uniswap V3: Router"
 }
