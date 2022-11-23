@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gmx"
   ]
 }

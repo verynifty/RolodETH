@@ -6,6 +6,16 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-leagueoflils",
+    "snapshot-voter-index-coop",
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-pushdao",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ens"
   ]
 }

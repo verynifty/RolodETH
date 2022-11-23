@@ -3,5 +3,6 @@
     "snapshot-voter-jpeg’d",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "0x73l.eth"
 }

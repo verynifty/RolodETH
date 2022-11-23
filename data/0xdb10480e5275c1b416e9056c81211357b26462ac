@@ -4,6 +4,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-daocity",
     "snapshot-voter-banklessvault",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-qidao"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }

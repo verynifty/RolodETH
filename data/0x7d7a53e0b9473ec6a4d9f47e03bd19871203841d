@@ -10,6 +10,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
     "snapshot-voter-aavegotchi",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave"
   ]
 }

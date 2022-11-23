@@ -4,6 +4,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-daocity",
     "snapshot-voter-sushigov",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

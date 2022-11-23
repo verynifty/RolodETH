@@ -8,6 +8,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "snapshot-voter-jbdao"
   ]
 }

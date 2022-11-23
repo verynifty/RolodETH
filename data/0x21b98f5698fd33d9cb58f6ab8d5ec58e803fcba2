@@ -3,6 +3,9 @@
     "snapshot-voter-cvx",
     "snapshot-voter-gearbox",
     "snapshot-voter-aurafinance",
-    "snapshot-voter-yearn"
+    "snapshot-voter-yearn",
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-aavegotchi"
   ]
 }

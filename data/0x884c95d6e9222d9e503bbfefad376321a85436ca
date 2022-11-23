@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-hop",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

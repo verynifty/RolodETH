@@ -4,6 +4,13 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-eulerdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal",
+    "snapshot-voter-ens",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-qidao",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gitcoindao"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "celer-network"
+    "celer-network",
+    "contract"
   ],
   "name": "CelerToken",
   "erc20_symbol": "CELR",

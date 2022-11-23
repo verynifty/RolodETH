@@ -3,6 +3,8 @@
     "otherdeed-minter",
     "snapshot-voter",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-loot-dao",
+    "snapshot-voter-uniswap"
   ]
 }

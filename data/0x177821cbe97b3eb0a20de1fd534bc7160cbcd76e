@@ -8,6 +8,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

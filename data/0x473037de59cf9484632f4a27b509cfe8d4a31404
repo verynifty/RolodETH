@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "STEPN Green Satoshi Token on ETH",
   "erc20_symbol": "GST-ETH",

@@ -16,6 +16,7 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-2021eth"
   ]
 }

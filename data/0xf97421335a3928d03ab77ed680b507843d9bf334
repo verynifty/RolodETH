@@ -3,6 +3,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-53231323",
+    "snapshot-voter-aavegotchi"
   ]
 }

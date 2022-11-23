@@ -7,6 +7,8 @@
     "snapshot-voter-hop",
     "snapshot-voter-pushdao",
     "snapshot-voter-qidao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-defigeek",
+    "snapshot-voter-morpho"
   ]
 }

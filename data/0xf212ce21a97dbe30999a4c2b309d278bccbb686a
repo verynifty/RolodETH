@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-goldfinch",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-defigeek",
+    "snapshot-voter-morpho"
   ]
 }

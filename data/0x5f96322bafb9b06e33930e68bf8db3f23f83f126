@@ -5,6 +5,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

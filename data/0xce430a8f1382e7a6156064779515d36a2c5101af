@@ -5,6 +5,7 @@
     "snapshot-voter-dforcenet",
     "snapshot-voter-balancer",
     "snapshot-voter-breederdao-admin",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

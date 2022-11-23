@@ -3,6 +3,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

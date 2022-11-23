@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap"
   ]
 }

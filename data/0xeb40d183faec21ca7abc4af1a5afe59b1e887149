@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave"
   ]
 }

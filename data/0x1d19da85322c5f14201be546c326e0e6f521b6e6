@@ -6,6 +6,8 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aave",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

@@ -3,6 +3,7 @@
     "azuki-minter",
     "hashmask-minter",
     "art-goblers-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }

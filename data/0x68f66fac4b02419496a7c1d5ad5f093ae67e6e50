@@ -8,6 +8,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

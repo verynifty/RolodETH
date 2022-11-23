@@ -3,6 +3,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gmx",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ]
 }

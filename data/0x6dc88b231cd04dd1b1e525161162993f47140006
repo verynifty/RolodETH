@@ -6,6 +6,7 @@
     "mayc-minter",
     "top-degen",
     "snapshot-voter-yearn",
-    "snapshot-voter-yam"
+    "snapshot-voter-yam",
+    "snapshot-voter-kwenta"
   ]
 }

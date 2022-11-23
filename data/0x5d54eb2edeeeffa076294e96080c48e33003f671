@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-aave"
   ]
 }

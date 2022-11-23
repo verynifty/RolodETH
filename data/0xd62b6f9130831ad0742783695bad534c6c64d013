@@ -7,6 +7,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-dydxgov",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-morpho"
   ]
 }

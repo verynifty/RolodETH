@@ -18,6 +18,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-morpho"
   ]
 }

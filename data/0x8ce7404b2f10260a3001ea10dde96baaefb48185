@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,11 @@
     "snapshot-voter-1inch",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-bestfork",
+    "snapshot-voter-qidao",
+    "snapshot-voter-cakevote"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gearbox",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-aave"
   ]
 }

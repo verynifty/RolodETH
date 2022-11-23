@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-yokaiswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-etherscoredao"
   ]
 }

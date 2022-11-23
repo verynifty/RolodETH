@@ -6,6 +6,11 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-paraswap-dao"
   ]
 }

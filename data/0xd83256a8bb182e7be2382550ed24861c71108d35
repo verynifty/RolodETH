@@ -5,6 +5,8 @@
     "snapshot-voter-rarible",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gitcoindao"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-foundersdao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

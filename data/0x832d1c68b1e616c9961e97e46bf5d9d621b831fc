@@ -4,6 +4,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
   ]
 }

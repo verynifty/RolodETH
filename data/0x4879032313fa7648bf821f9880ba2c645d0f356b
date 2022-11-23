@@ -8,6 +8,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-manvinder",
+    "snapshot-voter-gmx"
   ]
 }

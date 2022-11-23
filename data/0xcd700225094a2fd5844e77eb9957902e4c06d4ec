@@ -5,6 +5,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-etherscoredao"
   ]
 }

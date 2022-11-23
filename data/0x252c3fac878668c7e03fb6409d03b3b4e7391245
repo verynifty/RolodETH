@@ -4,6 +4,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

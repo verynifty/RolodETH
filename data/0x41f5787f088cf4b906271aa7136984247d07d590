@@ -2,6 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

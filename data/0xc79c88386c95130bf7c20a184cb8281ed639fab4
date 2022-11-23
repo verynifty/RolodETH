@@ -4,6 +4,7 @@
     "clonex-minter",
     "snapshot-voter-influenc",
     "snapshot-voter-gearbox",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-kwenta"
   ]
 }

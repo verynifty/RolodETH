@@ -5,6 +5,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-giv",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-phonon"
+    "snapshot-voter-phonon",
+    "snapshot-voter-banklessvault"
   ]
 }

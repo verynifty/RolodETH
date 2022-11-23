@@ -6,6 +6,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

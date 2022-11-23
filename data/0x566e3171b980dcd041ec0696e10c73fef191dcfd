@@ -8,6 +8,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-gmx"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-safe",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave"
   ]
 }

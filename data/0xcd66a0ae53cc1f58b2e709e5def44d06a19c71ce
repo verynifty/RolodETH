@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-streamr",
+    "snapshot-voter-qidao"
   ]
 }

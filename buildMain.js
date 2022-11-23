@@ -69,6 +69,8 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await snapshotvoting.addTo(RolodETH);
+    return
     await os_users.addTo(RolodETH);
     return
     
@@ -76,8 +78,7 @@ const NFTMinters = [
     return
 
 
-    await snapshotvoting.addTo(RolodETH);
-return
+
     //await Reservoir.addTo(RolodETH);
     return;
     await MyCryptoTokenList.addTo(RolodETH)

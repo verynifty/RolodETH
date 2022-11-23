@@ -24,6 +24,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-etherscoredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-morpho"
   ]
 }

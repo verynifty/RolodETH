@@ -6,6 +6,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
     "snapshot-voter-beets",
-    "snapshot-voter-badgerdao"
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-qidao",
+    "snapshot-voter-gmx"
   ]
 }

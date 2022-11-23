@@ -9,6 +9,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-jbdao"
   ]
 }

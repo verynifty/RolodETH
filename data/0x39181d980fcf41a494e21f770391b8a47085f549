@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-morpho"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

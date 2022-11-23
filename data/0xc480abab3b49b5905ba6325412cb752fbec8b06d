@@ -5,6 +5,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-ens"
   ]
 }

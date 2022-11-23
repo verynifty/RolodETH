@@ -3,6 +3,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal"
   ]
 }

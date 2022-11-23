@@ -4,6 +4,9 @@
     "snapshot-voter-balancer",
     "snapshot-voter-frax",
     "snapshot-voter-phonon",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-cvx",
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-gmx"
   ]
 }

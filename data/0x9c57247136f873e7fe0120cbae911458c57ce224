@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-interportfinance"
   ]
 }

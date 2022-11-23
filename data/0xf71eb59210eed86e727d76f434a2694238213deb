@@ -4,6 +4,7 @@
     "snapshot-voter-pushdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-cow",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

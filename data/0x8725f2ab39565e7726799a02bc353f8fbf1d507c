@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-shapeshiftdao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-gmx"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-banklessvault",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-zksync-dao"
   ]
 }

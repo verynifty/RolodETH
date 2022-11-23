@@ -20,6 +20,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
     "snapshot-voter-people-dao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-morpho"
   ]
 }

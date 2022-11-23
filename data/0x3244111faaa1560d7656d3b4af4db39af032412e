@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-comp-vote",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

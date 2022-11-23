@@ -12,6 +12,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-people-dao"
   ]
 }

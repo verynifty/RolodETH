@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

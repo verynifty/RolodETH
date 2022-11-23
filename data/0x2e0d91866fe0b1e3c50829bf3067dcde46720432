@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-banklessvault",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-apecoin"
   ]
 }

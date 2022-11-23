@@ -6,6 +6,7 @@
     "snapshot-voter-pistachiodao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave"
   ]
 }

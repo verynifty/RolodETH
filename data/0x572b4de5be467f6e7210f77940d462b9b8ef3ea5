@@ -5,6 +5,7 @@
     "snapshot-voter",
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ]
 }

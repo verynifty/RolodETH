@@ -6,6 +6,7 @@
     "snapshot-voter-vestafinance",
     "snapshot-voter-cow",
     "snapshot-voter-sismo",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-morpho"
   ]
 }

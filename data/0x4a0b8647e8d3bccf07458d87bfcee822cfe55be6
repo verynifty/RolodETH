@@ -3,6 +3,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-etherscoredao"
   ]
 }

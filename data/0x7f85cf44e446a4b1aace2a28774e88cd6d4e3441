@@ -17,6 +17,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sushigov",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-paraswap-dao"
   ]
 }

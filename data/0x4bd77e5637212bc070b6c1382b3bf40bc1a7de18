@@ -4,6 +4,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-pooltogether",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-etherscoredao"
   ]
 }

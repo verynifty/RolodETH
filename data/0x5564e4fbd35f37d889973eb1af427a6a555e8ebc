@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pooltogether",
     "snapshot-voter-opcollective",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-gmx"
   ]
 }

@@ -12,6 +12,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-badgerdao",
     "snapshot-voter-doremifasollasi",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }

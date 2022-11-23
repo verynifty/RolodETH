@@ -9,6 +9,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-beets",
     "snapshot-voter-pitchdeployer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-cre8r"
   ]
 }

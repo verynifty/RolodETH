@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ]
 }

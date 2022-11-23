@@ -5,6 +5,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-nftfinance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-badgerdao"
+    "snapshot-voter-badgerdao",
+    "snapshot-voter-gmx"
   ]
 }

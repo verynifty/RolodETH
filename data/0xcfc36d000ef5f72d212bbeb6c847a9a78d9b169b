@@ -8,6 +8,8 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-opcollective",
     "snapshot-voter-tomoondao",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-ens"
   ]
 }
