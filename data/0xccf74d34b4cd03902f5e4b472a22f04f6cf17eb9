@@ -3,6 +3,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gmx",
     "snapshot-voter-opcollective",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-uniswap"
   ]
 }

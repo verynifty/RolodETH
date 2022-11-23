@@ -3,6 +3,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-manvinder",
+    "snapshot-voter-gmx"
   ]
 }
