@@ -1,8 +1,11 @@
 const { ethers } = require("ethers");
 const proxyDetection = require('evm-proxy-detection');
-
 function RoloScraper(rpcUrl) {
-    this.provider = new ethers.providers.JsonRpcProvider(rpcUrl);
+    if (Array.isArray(rpcUrl)) {
+        this.provider = new SuperProvider(rpcUrl.map((url) => new ethers.providers.JsonRpcProvider(url)))
+    } else {
+        this.provider = new ethers.providers.JsonRpcProvider(rpcUrl);
+    }
 }
 
 RoloScraper.prototype.getAddressesInBlocks = async function (fromBlock, toBlock) {

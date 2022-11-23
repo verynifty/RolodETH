@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "binance"
+    "binance",
+    "contract",
+    "proxy"
   ],
   "name": "BinanceUSDBUSD",
   "erc20_symbol": "BUSD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+  "imageURL": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+  "proxy": "0x5864c777697bf9881220328bf2f16908c9afcd7e"
 }

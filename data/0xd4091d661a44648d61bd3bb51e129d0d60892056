@@ -4,5 +4,6 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "jaredsturman.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "shiba-inu"
+    "shiba-inu",
+    "contract"
   ],
   "name": "Shiba Inu: SHIB Token",
   "erc20_symbol": "SHIB",

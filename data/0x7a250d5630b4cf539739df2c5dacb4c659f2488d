@@ -1,6 +1,7 @@
 {
   "tags": [
-    "uniswap"
+    "uniswap",
+    "contract"
   ],
   "name": "Uniswap V2: Router 2"
 }

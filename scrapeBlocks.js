@@ -5,6 +5,7 @@ const scraper = new Scraper("https://rpc.flashbots.net/");
 
 (async () => {
     let latestBlock = await scraper.provider.getBlockNumber();
+    console.log(latestBlock)
     await scraper.scrapeBlocks(RolodETH, latestBlock - 10, latestBlock)
     
 })();

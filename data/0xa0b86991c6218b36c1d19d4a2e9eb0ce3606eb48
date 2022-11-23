@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "usdc"
+    "usdc",
+    "contract",
+    "proxy"
   ],
   "name": "USDCoin",
   "erc20_symbol": "USDC",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+  "imageURL": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
+  "proxy": "0xa2327a938febf5fec13bacfb16ae10ecbc4cbdcf"
 }
