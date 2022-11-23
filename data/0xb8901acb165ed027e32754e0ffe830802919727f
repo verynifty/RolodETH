@@ -1,7 +1,8 @@
 {
   "tags": [
     "bridge",
-    "hop-protocol"
+    "hop-protocol",
+    "contract"
   ],
   "name": "Hop Protocol: Ethereum Bridge"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "loopring"
+    "loopring",
+    "contract"
   ],
   "name": "Loopring",
   "erc20_symbol": "LRC",

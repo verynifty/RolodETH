@@ -1,7 +1,8 @@
 {
   "tags": [
     "dex",
-    "metamask"
+    "metamask",
+    "contract"
   ],
   "name": "Metamask: Swap Router"
 }

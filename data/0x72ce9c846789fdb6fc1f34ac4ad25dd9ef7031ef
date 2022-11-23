@@ -1,7 +1,10 @@
 {
   "tags": [
     "arbitrum",
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "Arbitrum: L1 Gateway Router"
+  "name": "Arbitrum: L1 Gateway Router",
+  "proxy": "0x52595021fa01b3e14ec6c88953afc8e35dff423c"
 }

@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "OKXFootballCup",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75af58a772f68bbcee78ace1ae7b0c33f539b4cd1157a9242206066bc8685bf29acff9dd7af57c52c9a757a6c1e4dc633b81c8f7c49113a1187e03a2df37a9fe250eb8d78209e797397affdd2b2cf1e2f89ac5998b48e5712023007552d89009defd16a302c8a4612ba86201e9bfa2d9b2f058ed9feecb44e991ea6b299d1f7ae6c"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75af58a772f68bbcee78ace1ae7b0c33f539b4cd1157a9242206066bc8685bf29acff9dd7af57c52c9a757a6c1e4dc633b81c8f7c49113a1187e03a2df37a9fe250eb8d78209e797397affdd2b2cf1e2f89ac5998b48e5712023007552d89009defd16a302c8a4612ba86201e9bfa2d9b2f058ed9feecb44e991ea6b299d1f7ae6c",
+  "proxy": "0x4b8946a6850e0ee486939790c0ccc0056c549df5"
 }
