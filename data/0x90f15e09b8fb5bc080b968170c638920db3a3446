@@ -10,5 +10,6 @@
     "snapshot-voter-beanstalkdao",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0x6851.eth"
 }

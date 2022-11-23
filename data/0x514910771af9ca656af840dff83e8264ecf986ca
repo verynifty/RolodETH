@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "LINKChainlink",
   "erc20_symbol": "LINKChainlink",
