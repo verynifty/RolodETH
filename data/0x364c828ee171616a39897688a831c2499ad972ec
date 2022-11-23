@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sappy Seals",
   "imageUrl": "https://i.seadn.io/gcs/files/11570389cac190891fea96fe285cbf01.png?w=500&auto=format",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "coinbase"
+    "coinbase",
+    "contract"
   ],
   "name": "Coinbase: Commerce"
 }
