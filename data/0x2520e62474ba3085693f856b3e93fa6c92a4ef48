@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "We Are All the SA",
   "imageUrl": "https://i.seadn.io/gcs/files/54b64cd181119a2b804b51ee6da6c078.png?w=500&auto=format",

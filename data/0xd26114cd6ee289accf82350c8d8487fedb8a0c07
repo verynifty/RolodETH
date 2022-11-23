@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "omg-network"
+    "omg-network",
+    "contract"
   ],
   "name": "OmiseGO",
   "erc20_symbol": "OMG",

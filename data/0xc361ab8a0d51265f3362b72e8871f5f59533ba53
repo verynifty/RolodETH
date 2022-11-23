@@ -3,5 +3,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "argentdao.eth"
 }

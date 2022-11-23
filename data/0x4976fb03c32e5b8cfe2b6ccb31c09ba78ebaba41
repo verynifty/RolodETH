@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ens"
+    "ens",
+    "contract"
   ],
   "name": "ENS: Public Resolver 2"
 }

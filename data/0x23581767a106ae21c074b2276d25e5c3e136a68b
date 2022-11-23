@@ -2,7 +2,9 @@
   "tags": [
     "erc20",
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Moonbirds",
   "erc20_symbol": "NMOON",

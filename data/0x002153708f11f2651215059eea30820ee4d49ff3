@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "opensea-user"
-  ]
+  ],
+  "ens": "meytab.eth"
 }
