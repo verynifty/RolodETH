@@ -7,6 +7,10 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-sismo",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-53231323",
+    "snapshot-voter-swaprsnapshot"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-gauge-rbn",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave"
   ]
 }

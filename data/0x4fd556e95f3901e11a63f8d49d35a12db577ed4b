@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-derify",
     "snapshot-voter-cakevote",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

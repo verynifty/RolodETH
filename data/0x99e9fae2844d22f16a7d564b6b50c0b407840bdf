@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gearbox",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

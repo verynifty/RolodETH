@@ -11,6 +11,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-toubazi",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-dydxgov"
   ]
 }

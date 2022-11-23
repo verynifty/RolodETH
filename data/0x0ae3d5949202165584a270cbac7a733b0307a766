@@ -5,6 +5,7 @@
     "pudgy-pinguin-minter",
     "goblin-town-minter",
     "otherdeed-minter",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

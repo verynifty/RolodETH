@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gnosis",
     "snapshot-voter-hop",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gitcoindao"
   ]
 }

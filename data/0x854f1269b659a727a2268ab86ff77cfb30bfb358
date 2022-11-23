@@ -5,7 +5,8 @@
     "mayc-minter",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-alchemixstakers",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-floordao"
   ],
   "ens": "invictus369.eth"
 }

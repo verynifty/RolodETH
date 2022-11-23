@@ -18,6 +18,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

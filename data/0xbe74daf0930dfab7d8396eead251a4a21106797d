@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-stakewise"
+    "snapshot-voter-stakewise",
+    "snapshot-voter-gauge-rbn"
   ]
 }

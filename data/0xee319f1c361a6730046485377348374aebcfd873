@@ -4,6 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-aave"
   ]
 }

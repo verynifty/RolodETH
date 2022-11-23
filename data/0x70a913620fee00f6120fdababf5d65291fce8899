@@ -7,6 +7,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-lkcup",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-ens"
   ]
 }

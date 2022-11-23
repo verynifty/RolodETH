@@ -2,6 +2,10 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-balancer",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-ens",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ]
 }

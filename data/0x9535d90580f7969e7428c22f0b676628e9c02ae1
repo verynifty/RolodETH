@@ -6,6 +6,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

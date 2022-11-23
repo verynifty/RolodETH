@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

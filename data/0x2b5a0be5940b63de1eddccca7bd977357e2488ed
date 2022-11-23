@@ -10,6 +10,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-metavault-trade"
+    "snapshot-voter-metavault-trade",
+    "snapshot-voter-spiritswap"
   ]
 }

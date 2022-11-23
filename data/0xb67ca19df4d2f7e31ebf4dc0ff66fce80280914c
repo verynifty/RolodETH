@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave"
   ]
 }

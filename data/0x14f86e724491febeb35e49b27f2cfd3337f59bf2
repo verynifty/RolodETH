@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-tableland-rigs"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ens",
+    "snapshot-voter-gmx"
   ]
 }

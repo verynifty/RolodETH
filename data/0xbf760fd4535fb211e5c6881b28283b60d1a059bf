@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gnosis",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-elfi",
     "snapshot-voter-tempusgov",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx"
   ]
 }

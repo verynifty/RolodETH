@@ -4,6 +4,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
     "snapshot-voter-beefydao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-cakevote"
   ]
 }

@@ -4,6 +4,8 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-mutantsdao"
   ]
 }

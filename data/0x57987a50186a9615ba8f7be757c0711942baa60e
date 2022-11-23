@@ -9,6 +9,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-etherscoredao"
   ]
 }

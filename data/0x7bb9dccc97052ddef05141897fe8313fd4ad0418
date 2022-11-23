@@ -5,6 +5,7 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-balancer",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-etherscoredao"
   ]
 }

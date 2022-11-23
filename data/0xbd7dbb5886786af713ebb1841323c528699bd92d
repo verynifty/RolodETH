@@ -10,6 +10,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-xole",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

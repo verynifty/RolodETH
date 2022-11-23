@@ -13,6 +13,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-dfkvote",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

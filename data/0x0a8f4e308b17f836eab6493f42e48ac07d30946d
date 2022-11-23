@@ -6,6 +6,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }
