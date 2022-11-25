@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Bone ShibaSwap",
   "erc20_symbol": "BONE",
