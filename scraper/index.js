@@ -120,12 +120,15 @@ RoloScraper.prototype.scrapeAddress = async function (rolodeth, address) {
     }
 }
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBlock) {
     // console.log(await  this.requestFunc("eth_getBlockByNumber",[1]))
     let addresses = await this.getAddressesInBlocks(fromBlock, toBlock);
     let promises = []
     for (const address of addresses) {
         promises.push(this.scrapeAddress(rolodeth, address))
+        await sleep(200)
     }
     console.log("PROMISE BEFORE")
     await Promise.all(promises);

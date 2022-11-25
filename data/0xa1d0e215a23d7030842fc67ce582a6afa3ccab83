@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "yfii-finance"
+    "yfii-finance",
+    "contract"
   ],
   "name": "YFIIfinance",
   "erc20_symbol": "YFII",

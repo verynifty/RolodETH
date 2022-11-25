@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "sag3ventures.eth"
 }

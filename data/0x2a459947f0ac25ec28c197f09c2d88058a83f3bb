@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Stickmen Toys",
   "imageUrl": "https://i.seadn.io/gcs/files/2d21367a0bdef1d9db4505e86dba8fdd.gif?w=500&auto=format",

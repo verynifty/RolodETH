@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "cUNI",
   "erc20_symbol": "CUNI",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/12696/thumb/compound-uni.png?1601789718"
+  "imageURL": "https://assets.coingecko.com/coins/images/12696/thumb/compound-uni.png?1601789718",
+  "proxy": "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
 }

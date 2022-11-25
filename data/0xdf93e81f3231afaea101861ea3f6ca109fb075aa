@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bad Baby Dinos",
   "imageUrl": "https://i.seadn.io/gcs/files/18eaa9eb8f30c4cea46af6a036c8eed9.jpg?w=500&auto=format",

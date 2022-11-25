@@ -1,6 +1,9 @@
 {
   "tags": [
-    "illuvium"
+    "illuvium",
+    "contract",
+    "proxy"
   ],
-  "name": "Illuvium: Migrate"
+  "name": "Illuvium: Migrate",
+  "proxy": "0xdb0a2a38f30a3f43fbfae98c85b132702df20cb3"
 }

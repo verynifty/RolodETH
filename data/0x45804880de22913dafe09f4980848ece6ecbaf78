@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "PaxosGold",
   "erc20_symbol": "PAXG",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9519/thumb/paxg.PNG?1568542565"
+  "imageURL": "https://assets.coingecko.com/coins/images/9519/thumb/paxg.PNG?1568542565",
+  "proxy": "0x74271f2282ed7ee35c166122a60c9830354be42a"
 }

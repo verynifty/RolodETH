@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-spiritswap",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "bpinnyc.eth"
 }

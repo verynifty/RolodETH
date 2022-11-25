@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Model Eros Village - Hime",
   "imageUrl": "https://i.seadn.io/gcs/files/acf197b3ee4eb35e8002e809cbfcca0f.gif?w=500&auto=format",
   "externalUrl": "https://lihi2.cc/cr4Y8",
   "discordUrl": "https://discord.gg/model-mev",
   "twitterUsername": "mev_official",
-  "description": "[MEV-Genesis](https://opensea.io/zh-TW/collection/model-eros-village-1)\n[MEV-Genesis](https://opensea.io/zh-CN/collection/bubblemum)\nIn the renowned Japanese myth “Amano Uzume no Mikoto”, Hime (姬) is a semi-clothed celestial being who embodies and symbolizes the beauty of women.\nIn the myth, in order to save the world from darkness she performed a special dance called “Tenshin no Mitsu”, to entice Amaterasu with her allure and elegance.\nInspired by the celestial myth, in Model Eros Village."
+  "description": "[MEV-Genesis](https://opensea.io/zh-TW/collection/model-eros-village-1)\n[MEV-Genesis](https://opensea.io/zh-CN/collection/bubblemum)\nIn the renowned Japanese myth “Amano Uzume no Mikoto”, Hime (姬) is a semi-clothed celestial being who embodies and symbolizes the beauty of women.\nIn the myth, in order to save the world from darkness she performed a special dance called “Tenshin no Mitsu”, to entice Amaterasu with her allure and elegance.\nInspired by the celestial myth, in Model Eros Village.",
+  "proxy": "0x75e588668187b8dc17b1d8d07692ba071e9c5588"
 }

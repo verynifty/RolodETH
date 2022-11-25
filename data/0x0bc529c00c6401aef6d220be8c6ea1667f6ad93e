@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "yearn-finance",
-    "ygov-finance"
+    "ygov-finance",
+    "contract"
   ],
   "name": "yearnfinance",
   "erc20_symbol": "YFI",

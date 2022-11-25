@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "FreeNFT.xyz Collectible Launch Ticket",
   "imageUrl": "https://i.seadn.io/gcs/files/533bbdb688356bc009e1389fad794d12.png?w=500&auto=format",

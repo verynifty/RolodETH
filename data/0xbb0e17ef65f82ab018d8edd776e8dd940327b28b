@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "axie-infinity"
+    "axie-infinity",
+    "contract"
   ],
   "name": "Axie Infinity: AXS Token",
   "erc20_symbol": "AXS",

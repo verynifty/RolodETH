@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Feel Art Essence",
   "imageUrl": "https://i.seadn.io/gcs/files/dc1773d739d6b6d30338a2e3d8a0a8bd.gif?w=500&auto=format",

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "zkSync"
+  "name": "zkSync",
+  "proxy": "0x8e972b354e6933275513c355ee14d44a832ad2d9"
 }

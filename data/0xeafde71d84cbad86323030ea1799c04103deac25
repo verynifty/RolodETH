@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Nerd Collective Genesis PFP",
   "imageUrl": "https://i.seadn.io/gcs/files/4962f495026a3c71bd377d343340011a.png?w=500&auto=format",

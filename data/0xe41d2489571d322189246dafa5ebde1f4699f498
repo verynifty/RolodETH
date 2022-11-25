@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "0x-ecosystem",
-    "0x"
+    "0x",
+    "contract"
   ],
   "name": "0xProject",
   "erc20_symbol": "ZRX",
