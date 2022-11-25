@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "YuGiYn",
   "imageUrl": "https://i.seadn.io/gcs/files/fb756068f5be3cf135f7c5ef211d08c6.png?w=500&auto=format",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "vaults"
+    "vaults",
+    "contract"
   ],
   "name": "yearn: yCRV/stETH Vault"
 }

@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "aave-v1",
-    "aave"
+    "aave",
+    "contract"
   ],
   "name": "AaveInterestbearingDAI",
   "erc20_symbol": "aDAI",

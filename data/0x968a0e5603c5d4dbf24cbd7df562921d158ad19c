@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "rayneman.eth"
 }

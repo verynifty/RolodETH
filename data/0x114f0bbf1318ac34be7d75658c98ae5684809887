@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "followeb3.eth"
 }

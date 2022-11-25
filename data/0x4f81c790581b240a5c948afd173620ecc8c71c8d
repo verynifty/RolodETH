@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Decentral Games Governance",
   "erc20_symbol": "XDG",

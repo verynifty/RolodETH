@@ -3,5 +3,6 @@
     "coolcat-minter",
     "snapshot-voter-pistachiodao",
     "opensea-user"
-  ]
+  ],
+  "ens": "valin.eth"
 }

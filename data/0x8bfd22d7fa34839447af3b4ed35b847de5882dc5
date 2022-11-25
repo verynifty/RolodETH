@@ -3,5 +3,6 @@
     "art-goblers-minter",
     "snapshot-voter-friendswithbenefits",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "spacefe.eth"
 }

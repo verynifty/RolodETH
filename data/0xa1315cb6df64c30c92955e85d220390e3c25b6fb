@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Couch Guyz",
   "imageUrl": "https://i.seadn.io/gcs/files/9aa7d54f41ea405fe5c06331e2e2a92b.png?w=500&auto=format",

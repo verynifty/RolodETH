@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Modernist Genesis Collection 2.0",
   "imageUrl": "https://i.seadn.io/gcs/files/c224cdb15b9af27aae84a2fdf3401d39.png?w=500&auto=format",

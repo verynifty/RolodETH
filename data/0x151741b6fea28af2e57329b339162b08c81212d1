@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-dudulab",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "super1.eth"
 }

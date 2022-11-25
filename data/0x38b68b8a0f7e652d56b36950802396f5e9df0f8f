@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cake Stops Oil",
   "imageUrl": "https://i.seadn.io/gcs/files/c22021173ad3bbdf40a9d6932e23d5cb.png?w=500&auto=format",

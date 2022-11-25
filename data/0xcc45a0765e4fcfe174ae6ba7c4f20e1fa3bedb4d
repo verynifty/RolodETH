@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ether-cards"
+    "ether-cards",
+    "contract"
   ],
   "name": "Ether Cards: Extra DUST Allocator"
 }

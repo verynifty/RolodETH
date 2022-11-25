@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "livepeer"
+    "livepeer",
+    "contract"
   ],
   "name": "LivepeerToken",
   "erc20_symbol": "LPT",

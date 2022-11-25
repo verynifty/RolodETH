@@ -6,5 +6,6 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "justawick.eth"
 }

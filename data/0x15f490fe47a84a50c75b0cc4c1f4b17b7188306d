@@ -4,5 +4,6 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "legangduchat.eth"
 }

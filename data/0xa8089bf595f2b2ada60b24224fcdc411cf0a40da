@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "RoyaltyBlackCard OFFICIAL",
   "imageUrl": "https://i.seadn.io/gcs/files/bf6ac0c9841543016e5203426b7b86cb.png?w=500&auto=format",

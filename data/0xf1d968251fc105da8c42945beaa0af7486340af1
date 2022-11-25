@@ -7,5 +7,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "opensea-user"
-  ]
+  ],
+  "ens": "00h00h00.eth"
 }

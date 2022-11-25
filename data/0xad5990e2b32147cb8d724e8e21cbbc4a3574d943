@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaBlox Genesis NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/143ae8909d15b58d79d6804df6603125.png?w=500&auto=format",

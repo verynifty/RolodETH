@@ -1,6 +1,9 @@
 {
   "tags": [
-    "rarible"
+    "rarible",
+    "contract",
+    "proxy"
   ],
-  "name": "Rarible: Exchange Proxy"
+  "name": "Rarible: Exchange Proxy",
+  "proxy": "0xe77713848bc4ffa4819f9c5cd2cbd90841510bbd"
 }

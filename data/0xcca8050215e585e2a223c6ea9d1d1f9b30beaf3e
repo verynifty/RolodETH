@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoSimeji Official",
   "imageUrl": "https://i.seadn.io/gcs/files/0f8b3e2df37972fece7b2d8fe692f229.png?w=500&auto=format",

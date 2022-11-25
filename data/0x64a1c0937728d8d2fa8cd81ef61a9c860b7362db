@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KILLABITS",
   "imageUrl": "https://i.seadn.io/gcs/files/1736158a112654e30101f5cfe9a35e05.gif?w=500&auto=format",

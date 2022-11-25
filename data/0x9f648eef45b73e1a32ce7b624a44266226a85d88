@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Doge Club(DOGC)",
   "imageUrl": "https://i.seadn.io/gcs/files/dd5e8baa0fa1c0e706dcd1fb871295ee.png?w=500&auto=format",

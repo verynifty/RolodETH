@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ChronoForge",
   "imageUrl": "https://i.seadn.io/gcs/files/f9fd69f0ef630b0524a97212dfd71fb5.png?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Appreciators NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/a0f4e3e1b928fa3eecafccadb16aaece.jpg?w=500&auto=format",

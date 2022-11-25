@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "meebit-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ilovechaos.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "smuzhikov.eth"
 }

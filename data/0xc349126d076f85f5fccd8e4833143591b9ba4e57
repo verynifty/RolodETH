@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BeeFrens",
   "imageUrl": "https://i.seadn.io/gcs/files/a7bce2a20d2202856438637cdf9f3526.gif?w=500&auto=format",

@@ -4,5 +4,6 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao"
-  ]
+  ],
+  "ens": "ztn3tourney1.eth"
 }

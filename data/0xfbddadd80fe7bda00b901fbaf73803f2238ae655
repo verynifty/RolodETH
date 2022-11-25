@@ -1,6 +1,9 @@
 {
   "tags": [
-    "strongblock"
+    "strongblock",
+    "contract",
+    "proxy"
   ],
-  "name": "StrongBlock: Service"
+  "name": "StrongBlock: Service",
+  "proxy": "0x218365abf9d79ae2bd81faf859392a33897b4272"
 }

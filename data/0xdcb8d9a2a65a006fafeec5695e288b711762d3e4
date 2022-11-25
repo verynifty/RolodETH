@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "HEXGO",
   "imageUrl": "https://i.seadn.io/gcs/files/c11831ea8874e13cfcc9a4905d8d03a5.jpg?w=500&auto=format",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "huobi"
+    "huobi",
+    "contract"
   ],
   "name": "HuobiToken",
   "erc20_symbol": "HT",

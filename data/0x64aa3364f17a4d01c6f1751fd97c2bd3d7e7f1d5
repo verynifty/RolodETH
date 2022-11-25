@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "olympusdao"
+    "olympusdao",
+    "contract"
   ],
   "name": "OlympusDAO: OHM Token",
   "erc20_symbol": "OHM",

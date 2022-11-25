@@ -4,5 +4,6 @@
     "loot-minter",
     "cyber-kong-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "inverted888.eth"
 }
