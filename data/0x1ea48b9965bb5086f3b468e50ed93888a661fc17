@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Defi Franc Moneta",
   "erc20_symbol": "MON",

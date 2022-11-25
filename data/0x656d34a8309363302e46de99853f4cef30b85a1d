@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "R Planet - Genesis Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/b85af380d4c380a7ad473c025e67e452.png?w=500&auto=format",

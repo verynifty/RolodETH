@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "proxy-contract",
-    "synthetix"
+    "synthetix",
+    "contract"
   ],
   "name": "SynthetixNetworkToken",
   "erc20_symbol": "SNX",

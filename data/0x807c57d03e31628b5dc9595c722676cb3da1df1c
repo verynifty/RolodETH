@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "viszla.eth"
 }

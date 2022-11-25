@@ -7,5 +7,6 @@
     "clonex-minter",
     "wow-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "perilous.eth"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Beep Boop Toolbox",
   "imageUrl": "https://i.seadn.io/gcs/files/c2ab3e61f106547d9f3e4f567a940ae8.gif?w=500&auto=format",
