@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Silks Thoroughbred Racehorses",
   "imageUrl": "https://i.seadn.io/gcs/files/ada108e12abf9e69ac5e2353fc74544c.png?w=500&auto=format",

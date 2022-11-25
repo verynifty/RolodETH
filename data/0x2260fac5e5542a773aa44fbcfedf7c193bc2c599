@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "wrapped-bitcoin"
+    "wrapped-bitcoin",
+    "contract"
   ],
   "name": "WrappedBitcoin",
   "erc20_symbol": "WBTC",

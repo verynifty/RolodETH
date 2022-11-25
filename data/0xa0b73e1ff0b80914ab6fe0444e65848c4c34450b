@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "crypto-com"
+    "crypto-com",
+    "contract"
   ],
   "name": "Cronos Coin: CRO Token",
   "erc20_symbol": "CRO",

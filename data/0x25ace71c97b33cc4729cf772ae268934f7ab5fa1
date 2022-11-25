@@ -1,7 +1,8 @@
 {
   "tags": [
     "layer-2",
-    "optimism"
+    "optimism",
+    "contract"
   ],
   "name": "Optimism: Proxy OVM L1 Cross Domain Messenger"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tasties",
   "imageUrl": "https://i.seadn.io/gcs/files/87c7fd3a4375b7cf9cd0ac1c32af36b6.gif?w=500&auto=format",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Fable Of The Dragon",
   "erc20_symbol": "TYRANT",

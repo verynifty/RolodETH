@@ -5,11 +5,11 @@ const rpcs = [
     
   ]
 
-const scraper = new Scraper("https://rpc.flashbots.net/");
+const scraper = new Scraper("http://localhost:3000");
 
 (async () => {
     let latestBlock = await scraper.provider.getBlockNumber();
     console.log(latestBlock)
-    await scraper.scrapeBlocks(RolodETH, latestBlock - 50, latestBlock)
+    await scraper.scrapeBlocks(RolodETH, latestBlock - 20, latestBlock)
 
 })();

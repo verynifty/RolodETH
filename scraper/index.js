@@ -1,5 +1,5 @@
 const { ethers } = require("ethers");
-const { SuperProvider }  = require("ethers-super-provider")
+const { SuperProvider } = require("ethers-super-provider")
 const proxyDetection = require('evm-proxy-detection');
 const AbiFunctions = require("abi-decode-functions");
 function RoloScraper(rpcUrl) {
@@ -80,13 +80,11 @@ RoloScraper.prototype.detectERC = async function (address, bytecode) {
     return result;
 }
 
-RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBlock) {
-    // console.log(await  this.requestFunc("eth_getBlockByNumber",[1]))
-    let addresses = await this.getAddressesInBlocks(fromBlock, toBlock);
-    for (const address of addresses) {
-        const code = await this.provider.getCode(address);
+RoloScraper.prototype.scrapeAddress = async function (rolodeth, address) {
+    const code = await this.provider.getCode(address);
 
-        console.log("https://etherscan.io/address/" + address, code != "0x")
+    console.log("https://etherscan.io/address/" + address, code != "0x")
+    try {
         const lookup = await this.provider.lookupAddress(address);
         if (lookup) {
             rolodeth.addProperty(address, "ens", lookup);
@@ -94,30 +92,45 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
             rolodeth.removeProperty(address, "ens");
         }
         console.log(lookup)
-        if (code == "0x") {
-            //  rolodeth.addTag(address, "eoa");
-        } else {
-            rolodeth.addTag(address, "contract");
-            let detected = await this.detectERC(address, code);
-            for (const tag of detected) {
-                rolodeth.addTag(address, tag);
-            }
-            console.log(detected)
-            let provider = this.provider
-            const requestFunc = ({ method, params }) => provider.send(method, params)
-            const target = await proxyDetection.default(
-                address,
-                requestFunc,
-                "latest"
-            )
-            if (target != null && address != "0x0000000000000000000000000000000000000000") {
-                rolodeth.addTag(address, "proxy");
-                rolodeth.addProperty(address, "proxy", target);
-            }
-            console.log(target)
-            continue;
-        }
+    } catch (error) {
+
     }
+
+    if (code == "0x") {
+        //  rolodeth.addTag(address, "eoa");
+    } else {
+        rolodeth.addTag(address, "contract");
+        let detected = await this.detectERC(address, code);
+        for (const tag of detected) {
+            rolodeth.addTag(address, tag);
+        }
+        console.log(detected)
+        let provider = this.provider
+        const requestFunc = ({ method, params }) => provider.send(method, params)
+        const target = await proxyDetection.default(
+            address,
+            requestFunc,
+            "latest"
+        )
+        if (target != null && address != "0x0000000000000000000000000000000000000000") {
+            rolodeth.addTag(address, "proxy");
+            rolodeth.addProperty(address, "proxy", target);
+        }
+        console.log(target)
+    }
+}
+
+RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBlock) {
+    // console.log(await  this.requestFunc("eth_getBlockByNumber",[1]))
+    let addresses = await this.getAddressesInBlocks(fromBlock, toBlock);
+    let promises = []
+    for (const address of addresses) {
+        promises.push(this.scrapeAddress(rolodeth, address))
+    }
+    console.log("PROMISE BEFORE")
+    await Promise.all(promises);
+    console.log("PROMISE AFTER")
+
 }
 
 module.exports = RoloScraper;

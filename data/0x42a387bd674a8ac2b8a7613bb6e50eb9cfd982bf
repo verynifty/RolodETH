@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Blind Angels",
   "imageUrl": "https://i.seadn.io/gcs/files/d7ee0f314a4133e1763f818c7407b433.jpg?w=500&auto=format",

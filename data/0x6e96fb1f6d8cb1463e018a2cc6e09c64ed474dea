@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mandelbrot Set Collection",
   "imageUrl": "https://i.seadn.io/gae/zMsLCZjtoeJr8flH-1MRh3KtFLvH33cyRPyf9ZDFFvXGionDJevBlIH0iwZnVEeZGfsaQvpIdA5wovX7O5CRrGhmitj0vf1SnEu5?w=500&auto=format",
