@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "pooltogether"
+    "pooltogether",
+    "contract"
   ],
   "name": "PoolTogether: POOL Token",
   "erc20_symbol": "POOL",

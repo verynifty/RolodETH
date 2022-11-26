@@ -6,5 +6,6 @@
     "snapshot-voter-yearn",
     "snapshot-voter-swerve",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "mikoto.eth"
 }

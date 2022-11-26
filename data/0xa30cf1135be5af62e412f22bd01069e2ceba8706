@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Humankind Lunchboxes",
   "imageUrl": "https://i.seadn.io/gcs/files/6b0a5a7b3d0d84199e2a9f5546ac7f7a.png?w=500&auto=format",

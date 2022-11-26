@@ -1,6 +1,7 @@
 {
   "tags": [
-    "exchange"
+    "exchange",
+    "contract"
   ],
   "name": "bitFlyer"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "metis-andromeda"
+    "metis-andromeda",
+    "contract"
   ],
   "name": "Metis Andromeda: Metis Token",
   "erc20_symbol": "METIS",

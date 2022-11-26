@@ -3,5 +3,6 @@
     "veefriend-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "oregonguy.eth"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "devilvalley",
   "imageUrl": "https://i.seadn.io/gcs/files/d0d632fcb62fa1902c9b8c9edb95c383.png?w=500&auto=format",

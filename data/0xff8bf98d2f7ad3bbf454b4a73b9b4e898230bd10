@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DreamCar Club NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/9d0cbf54cb89286548812a9505416249.png?w=500&auto=format",

@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "overbank.eth"
 }

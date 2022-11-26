@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "edo2022",
   "imageUrl": "https://i.seadn.io/gcs/files/c86b329ab506dc0ede91de046e08026d.gif?w=500&auto=format",

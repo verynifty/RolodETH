@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "vaults"
+    "vaults",
+    "contract",
+    "proxy"
   ],
   "name": "yearn: yvBOOST Vault",
   "erc20_symbol": "YVBOOST",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15152/thumb/yvBOOST.png?1619978216"
+  "imageURL": "https://assets.coingecko.com/coins/images/15152/thumb/yvBOOST.png?1619978216",
+  "proxy": "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e"
 }
