@@ -3,5 +3,6 @@
     "snapshot-voter-noxbeyond",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "teezo.eth"
 }

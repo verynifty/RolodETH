@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "otherworlds.ai",
   "imageUrl": "https://i.seadn.io/gcs/files/a4dce96045e16fa90e2a8a8fc39895cf.gif?w=500&auto=format",

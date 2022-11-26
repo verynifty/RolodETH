@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "10KTF Kagami",
   "imageUrl": "https://i.seadn.io/gcs/files/dda686cdd3af487ead16a8974c69d316.png?w=500&auto=format",
-  "description": "Kagami tokens are the key to holding a physical piece of the 10KTF story. Designed and crafted with care by Wagmi-san. Reflect on all we won and lost together. \n\nKagami tokens must be burned and redeemed by November 2, 2022 at 3:00 PM PT. Expired tokens cannot be redeemed."
+  "description": "Kagami tokens are the key to holding a physical piece of the 10KTF story. Designed and crafted with care by Wagmi-san. Reflect on all we won and lost together. \n\nKagami tokens must be burned and redeemed by November 2, 2022 at 3:00 PM PT. Expired tokens cannot be redeemed.",
+  "proxy": "0xaa972d5337afb2d45a1f4d16509c6a2e6f007d65"
 }

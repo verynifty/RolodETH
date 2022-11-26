@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "从一开始.eth"
 }

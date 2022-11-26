@@ -1,6 +1,8 @@
 {
   "tags": [
-    "art-blocks"
+    "art-blocks",
+    "contract",
+    "erc721"
   ],
   "name": "Art Blocks: Old BLOCKS Token"
 }

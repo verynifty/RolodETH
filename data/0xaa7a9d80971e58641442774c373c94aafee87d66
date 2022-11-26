@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "gitcoin-grantee",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tokenbrice.eth"
 }

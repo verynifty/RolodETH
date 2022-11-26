@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Beings Official",
   "imageUrl": "https://i.seadn.io/gcs/files/68131c697c33dc45692dff3139eb5ce2.jpg?w=500&auto=format",

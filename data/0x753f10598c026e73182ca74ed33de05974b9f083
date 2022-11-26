@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Champions Ascension - Pets of Massina",
   "imageUrl": "https://i.seadn.io/gcs/files/4c7c67b9714044fdb03e1bed80dd75cb.png?w=500&auto=format",

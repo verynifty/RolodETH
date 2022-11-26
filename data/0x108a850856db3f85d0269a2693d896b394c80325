@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "THORWallet DEX",
   "erc20_symbol": "TGT",

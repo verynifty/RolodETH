@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "kirillko19.eth"
 }

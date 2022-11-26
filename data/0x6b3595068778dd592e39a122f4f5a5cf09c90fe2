@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "sushiswap"
+    "sushiswap",
+    "contract"
   ],
   "name": "SushiToken",
   "erc20_symbol": "SUSHI",

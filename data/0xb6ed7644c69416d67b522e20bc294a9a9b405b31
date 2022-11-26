@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "0xBitcoin",
   "erc20_symbol": "0xBTC",

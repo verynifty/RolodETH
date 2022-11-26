@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Teh Golden One",
   "erc20_symbol": "GOLD1",

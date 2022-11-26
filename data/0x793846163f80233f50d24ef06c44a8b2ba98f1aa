@@ -4,5 +4,6 @@
     "moonbird-minter",
     "coolcat-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "oblob.eth"
 }

@@ -2,7 +2,8 @@
   "tags": [
     "staking",
     "sushiswap",
-    "yield-farming"
+    "yield-farming",
+    "contract"
   ],
   "name": "SushiSwap: MasterChef LP Staking Pool"
 }

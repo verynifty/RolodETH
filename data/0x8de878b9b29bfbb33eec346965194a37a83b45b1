@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The F8 Club",
   "imageUrl": "https://i.seadn.io/gcs/files/ac132914a574da5029e7009585514406.gif?w=500&auto=format",

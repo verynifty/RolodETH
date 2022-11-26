@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bad Cubs",
   "imageUrl": "https://i.seadn.io/gcs/files/bc66513b882af232afd6cd0871582f02.gif?w=500&auto=format",

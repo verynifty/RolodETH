@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "7sClub Official",
   "imageUrl": "https://i.seadn.io/gcs/files/bd1ed94a9dab6637df87e4408f04ace0.gif?w=500&auto=format",
