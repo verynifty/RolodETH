@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kamiyo",
   "imageUrl": "https://i.seadn.io/gcs/files/615e6ffd55d27ec3ed637eb6ac772f28.jpg?w=500&auto=format",

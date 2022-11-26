@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "50 Years of Atari",
   "imageUrl": "https://i.seadn.io/gcs/files/e463e47af86531d7e950cfbeba12836f.png?w=500&auto=format",

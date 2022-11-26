@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Genuine Undead",
   "imageUrl": "https://i.seadn.io/gcs/files/1eb8d685d4e404c9b1177dfe14c2c9e0.png?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BOSO TOKYO GENESIS",
   "imageUrl": "https://i.seadn.io/gcs/files/44e4e972ec7f8d22af01b0ba2c168b9a.jpg?w=500&auto=format",

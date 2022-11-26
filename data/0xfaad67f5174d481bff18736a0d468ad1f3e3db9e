@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SnipeSea",
   "imageUrl": "https://i.seadn.io/gae/aUczg1XD6stc21u9uxnB0TJMSIghsxh5eLfIE6_phybVbkENcdiqcp9gxM6aXSJNzCxRkvGloeLBJ92aEbznhbR14FA72p6rxTLTrXA?w=500&auto=format",
