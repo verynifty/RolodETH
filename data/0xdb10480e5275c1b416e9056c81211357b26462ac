@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "sunzhine.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ribbon-finance"
+    "ribbon-finance",
+    "contract"
   ],
   "name": "Ribbon Finance: RBN Token",
   "erc20_symbol": "RBN",

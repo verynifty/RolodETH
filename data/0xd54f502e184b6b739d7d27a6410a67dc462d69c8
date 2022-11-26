@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "dYdX: L2 Perpetual Smart Contract"
+  "name": "dYdX: L2 Perpetual Smart Contract",
+  "proxy": "0x2c0df87e073755139101b35c0a51e065291cc2d3"
 }

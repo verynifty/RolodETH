@@ -2,10 +2,13 @@
   "tags": [
     "erc20",
     "alameda-research",
-    "defiance-capital"
+    "defiance-capital",
+    "contract",
+    "proxy"
   ],
   "name": "InsurAce Protocol: INSUR Token",
   "erc20_symbol": "INSUR",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14226/thumb/insur.png?1615124622"
+  "imageURL": "https://assets.coingecko.com/coins/images/14226/thumb/insur.png?1615124622",
+  "proxy": "0x61ed1411c3f8f0bd0d7058544cc7035e9d4fabbc"
 }

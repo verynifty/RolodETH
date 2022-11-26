@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bruh Pills",
   "imageUrl": "https://i.seadn.io/gcs/files/601bc9bcacccb4bfc3e35f8b829d5f22.gif?w=500&auto=format",

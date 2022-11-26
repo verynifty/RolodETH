@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Agoras  Currency of Tau",
   "erc20_symbol": "AGRS",

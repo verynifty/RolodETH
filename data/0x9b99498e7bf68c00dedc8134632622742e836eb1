@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ghostie - First Ghosties",
   "imageUrl": "https://i.seadn.io/gcs/files/c73d061f7ce4a792d8207b346a9692b6.jpg?w=500&auto=format",

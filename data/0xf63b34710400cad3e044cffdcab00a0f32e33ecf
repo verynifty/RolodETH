@@ -1,7 +1,10 @@
 {
   "tags": [
     "aave-v2",
-    "aave"
+    "aave",
+    "contract",
+    "proxy"
   ],
-  "name": "Aave: WETH Variable Debt V2"
+  "name": "Aave: WETH Variable Debt V2",
+  "proxy": "0xddde1fa049209bc24b69d5fa316a56efec918d79"
 }
