@@ -16,5 +16,6 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "3people.eth"
 }

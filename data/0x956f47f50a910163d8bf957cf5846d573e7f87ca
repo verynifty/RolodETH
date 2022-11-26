@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "fei-protocol"
+    "fei-protocol",
+    "contract"
   ],
   "name": "Fei Protocol: FEI Token",
   "erc20_symbol": "FEI",

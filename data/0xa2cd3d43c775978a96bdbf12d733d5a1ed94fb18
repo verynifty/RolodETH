@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "chain"
+    "chain",
+    "contract"
   ],
   "name": "Chain: XCN Token",
   "erc20_symbol": "XCN",

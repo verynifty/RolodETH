@@ -3,5 +3,6 @@
     "clonex-minter",
     "goblin-town-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "vault.mikegee.eth"
 }

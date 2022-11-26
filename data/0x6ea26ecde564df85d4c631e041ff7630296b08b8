@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Super Space Defenders",
   "imageUrl": "https://i.seadn.io/gcs/files/ecd8893491ac82c38a6e349675b1c853.png?w=500&auto=format",

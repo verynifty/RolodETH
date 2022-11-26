@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "polychain-monsters"
+    "polychain-monsters",
+    "contract"
   ],
   "name": "Polychain Monsters: PMON Token",
   "erc20_symbol": "PMON",

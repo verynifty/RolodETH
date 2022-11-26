@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EVERGIRL Generative",
   "imageUrl": "https://i.seadn.io/gcs/files/79682030a63c58166d21dde1fe831411.gif?w=500&auto=format",

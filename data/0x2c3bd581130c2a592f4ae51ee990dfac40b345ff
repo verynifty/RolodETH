@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Talisman Paper of Yama",
   "imageUrl": "https://i.seadn.io/gcs/files/ef3cc150b2816845b115896e5c93d19e.png?w=500&auto=format",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "SpaceChain  ERC 20 ",
   "erc20_symbol": "SPC",

@@ -1,7 +1,10 @@
 {
   "tags": [
     "bridge",
-    "starknet"
+    "starknet",
+    "contract",
+    "proxy"
   ],
-  "name": "StarkNet: USDC Bridge"
+  "name": "StarkNet: USDC Bridge",
+  "proxy": "0x56e233d613743297cdd27fafc5c1f5c1dc2a381b"
 }

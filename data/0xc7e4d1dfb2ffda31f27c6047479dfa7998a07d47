@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Aopanda Party",
   "imageUrl": "https://i.seadn.io/gcs/files/a44dcb92b2224fe3daccb6d310a785a3.gif?w=500&auto=format",

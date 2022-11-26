@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote"
-  ]
+  ],
+  "ens": "sherlock-jack.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Epik Prime",
   "erc20_symbol": "EPIK",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17907/thumb/EPIK_Prime_LOGO.jpg?1630738458"
+  "imageURL": "https://assets.coingecko.com/coins/images/17907/thumb/EPIK_Prime_LOGO.jpg?1630738458",
+  "proxy": "0x924d3b979a2c91730561fbe559547225dc70497d"
 }

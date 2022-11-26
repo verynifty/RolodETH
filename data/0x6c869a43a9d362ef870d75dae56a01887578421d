@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Homa Gang - Valentine",
   "imageUrl": "https://i.seadn.io/gcs/files/32f21f52e01d6fde7944b4c22d52e2f8.jpg?w=500&auto=format",

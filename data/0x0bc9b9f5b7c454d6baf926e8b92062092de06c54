@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Meta Labs Secret Agents",
   "imageUrl": "https://i.seadn.io/gcs/files/a2aaa9f4db0e2ab985279e9cb3663fef.jpg?w=500&auto=format",

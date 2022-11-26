@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "10KTF Stockroom",
   "imageUrl": "https://i.seadn.io/gcs/files/cd1043190fc2ee3677ee2d99dc0fe59d.png?w=500&auto=format",
-  "description": "10KTF Stockroom is a collection of the finest Tools and Materials held by the esteemed customers of 10KTF for use in future endeavors.\r\n\r\nVisit 10ktf.com for more details."
+  "description": "10KTF Stockroom is a collection of the finest Tools and Materials held by the esteemed customers of 10KTF for use in future endeavors.\r\n\r\nVisit 10ktf.com for more details.",
+  "proxy": "0xde54e4744b3ecab13913ee592c88a6d555adc841"
 }

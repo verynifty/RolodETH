@@ -7,5 +7,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
     "opensea-user"
-  ]
+  ],
+  "ens": "aavedao.eth"
 }

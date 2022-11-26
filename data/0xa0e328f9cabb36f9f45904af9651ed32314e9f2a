@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "avshek01.eth"
 }

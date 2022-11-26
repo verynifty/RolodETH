@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Jenny DAO V1",
   "erc20_symbol": "UJENNY",

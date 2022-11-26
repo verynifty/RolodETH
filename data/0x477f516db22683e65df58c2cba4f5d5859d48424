@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SOULS",
   "imageUrl": "https://i.seadn.io/gcs/files/227ce2e6a2b90bb397940eb67237801e.gif?w=500&auto=format",

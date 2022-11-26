@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "loot-minter",
     "snapshot-voter-banklessvault"
-  ]
+  ],
+  "ens": "0xlucas.eth"
 }

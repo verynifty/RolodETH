@@ -3,5 +3,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shapeshiftdao"
-  ]
+  ],
+  "ens": "orcndwarf.eth"
 }

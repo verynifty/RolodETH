@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Froggy Friends Official",
   "imageUrl": "https://i.seadn.io/gcs/files/873387ebe12fb991600935f1c116989e.png?w=500&auto=format",
