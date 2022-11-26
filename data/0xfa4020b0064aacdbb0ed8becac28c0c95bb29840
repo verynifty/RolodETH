@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "TrapMonkie",
   "imageUrl": "https://i.seadn.io/gcs/files/2569c7b21ce11d5dc57226a64b6adeb5.gif?w=500&auto=format",

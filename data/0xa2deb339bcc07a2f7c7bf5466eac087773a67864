@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "0xdream.eth"
 }

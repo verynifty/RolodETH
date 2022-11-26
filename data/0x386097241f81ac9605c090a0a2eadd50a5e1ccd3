@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KOLO Music Official",
   "imageUrl": "https://i.seadn.io/gcs/files/1e141707d8c7bb42ff583c5f84cb8f18.png?w=500&auto=format",

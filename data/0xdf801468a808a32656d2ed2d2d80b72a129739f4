@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Somnium Space CUBEs",
   "erc20_symbol": "CUBE",

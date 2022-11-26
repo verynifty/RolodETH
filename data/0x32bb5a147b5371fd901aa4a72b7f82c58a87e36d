@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bit Bears by Berachain",
   "imageUrl": "https://i.seadn.io/gcs/files/dbd7cb32c48e836afee0f28acdf0cc5d.jpg?w=500&auto=format",

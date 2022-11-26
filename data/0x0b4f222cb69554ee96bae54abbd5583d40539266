@@ -7,5 +7,6 @@
     "mayc-minter",
     "snapshot-voter-brightmoments",
     "opensea-user"
-  ]
+  ],
+  "ens": "jordanspi.eth"
 }

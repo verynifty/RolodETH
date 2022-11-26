@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DeBox Guardians Eagle",
   "imageUrl": "https://i.seadn.io/gcs/files/fb64e7ea65072b9659aaced146688414.png?w=500&auto=format",

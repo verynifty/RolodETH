@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "RektWolf",
   "imageUrl": "https://i.seadn.io/gcs/files/432dc8c59e369c6ebe4bbf43ff7239b1.png?w=500&auto=format",

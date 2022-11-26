@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Instadapp ETH",
   "erc20_symbol": "IETH",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25822/thumb/iETH_100x100.png?1654055637"
+  "imageURL": "https://assets.coingecko.com/coins/images/25822/thumb/iETH_100x100.png?1654055637",
+  "proxy": "0x79a043f68547dff57f4f5f30115d76bf01e8fdfc"
 }

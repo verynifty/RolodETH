@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sacrificed TOMO",
   "imageUrl": "https://i.seadn.io/gcs/files/e6090dae30ca89347c922827357c0200.png?w=500&auto=format",

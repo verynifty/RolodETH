@@ -1,6 +1,7 @@
 {
   "tags": [
-    "reflexer-finance"
+    "reflexer-finance",
+    "contract"
   ],
   "name": "Reflexer: Oracle Relayer"
 }

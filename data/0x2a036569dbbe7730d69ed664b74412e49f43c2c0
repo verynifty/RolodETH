@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "STEPN Shoeboxes",
   "imageUrl": "https://i.postimg.cc/mgfGgjNh/0x42b696ccc023f45b8b1c0429693b7126d0a10433720c6cd6134228c17859ab44.png",

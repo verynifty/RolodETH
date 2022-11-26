@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Proof Of Memes   Ethereum",
   "erc20_symbol": "ETH20",

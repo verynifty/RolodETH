@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Figments of Place - by TJ Thorne",
   "imageUrl": "https://i.seadn.io/gae/-x8I4_R1kbg5jWxBLe3u9ToM1Kn0Dsb2QMZyI9QHVZ7jivN0j7SRkyrkHgGXoN9mI_LlsHEEhI3czAyRGOPwbjmsmjHofYgyafYSTg?w=500&auto=format",
   "externalUrl": "https://tjthornephotography.com",
   "twitterUsername": "tjthorne_photo",
-  "description": "This collection is minted on Manifold and has been moved to Foundation: https://foundation.app/collection/figments-of-place\n\nFigments of Place explores non-literal interactions with nature – by looking beyond the inherent and obvious beauty and by building relationships with the colors, textures, and forms I am able to explore my creativity in a more freeing, dreamlike, and experimental state.\n\nYou can learn more through this link: [Figments of Place](https://tjthornephotography.com/gallery/figments-of-place-nft)\n\nFigments of Place is minted on Manifold."
+  "description": "This collection is minted on Manifold and has been moved to Foundation: https://foundation.app/collection/figments-of-place\n\nFigments of Place explores non-literal interactions with nature – by looking beyond the inherent and obvious beauty and by building relationships with the colors, textures, and forms I am able to explore my creativity in a more freeing, dreamlike, and experimental state.\n\nYou can learn more through this link: [Figments of Place](https://tjthornephotography.com/gallery/figments-of-place-nft)\n\nFigments of Place is minted on Manifold.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

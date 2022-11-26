@@ -14,5 +14,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-people-dao"
-  ]
+  ],
+  "ens": "chinakungfu.eth"
 }

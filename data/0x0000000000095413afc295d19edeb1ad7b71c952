@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "tokenlon"
+    "tokenlon",
+    "contract"
   ],
   "name": "Tokenlon: LON Token",
   "erc20_symbol": "LON",

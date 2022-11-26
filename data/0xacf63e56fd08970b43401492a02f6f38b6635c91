@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kanpai Pandas",
   "imageUrl": "https://i.seadn.io/gcs/files/9638148e7c1ff24f9a26b99a5eaedc0c.gif?w=500&auto=format",

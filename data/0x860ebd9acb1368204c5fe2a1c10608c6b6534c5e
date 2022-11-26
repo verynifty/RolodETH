@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Enigmatic Box",
   "imageUrl": "https://i.seadn.io/gcs/files/08294b095758f38b7f0f456ddbbbfd2d.png?w=500&auto=format",

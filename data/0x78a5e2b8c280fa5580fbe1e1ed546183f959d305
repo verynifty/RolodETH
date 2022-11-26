@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "AlphaSharks NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/a391f9fadaa95305a3d859bcfb21fb92.gif?w=500&auto=format",

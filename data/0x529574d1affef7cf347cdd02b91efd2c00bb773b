@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "grumpls",
   "imageUrl": "https://i.seadn.io/gcs/files/fd56933758da19f84c5f9de73fe0108c.webp?w=500&auto=format",

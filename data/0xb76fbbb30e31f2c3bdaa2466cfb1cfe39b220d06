@@ -2,11 +2,13 @@
   "tags": [
     "nft",
     "opensea-verified",
-    "contract"
+    "contract",
+    "proxy"
   ],
   "name": "Wolf Game - Wool Pouch",
   "imageUrl": "https://i.seadn.io/gae/WbsvgftKvXTeSKmE2C9L6_bVY5Y015WBj0wjcaG7mP3IEy7tX6S6xO63wX1WxvsUuLj4akqHqPHXzq5fj69GPnViZbaLUOQ5N_NJXZE?w=500&auto=format",
   "externalUrl": "https://wolf.game/",
   "twitterUsername": "wolfdotgame",
-  "description": "Each WOOL Pouch unlocks the WOOL inside to the owner over time. To claim the unlocked WOOL inside of your Pouch, visit: https://wolf.game/pouches **View the other official collections:**\n\n- Wolves & Sheep: https://opensea.io/collection/wolf-game\n- Land: https://opensea.io/collection/wolf-game-land\n- Farmers: https://opensea.io/collection/wolf-game-farmer\n\nFull-feature game coming in 2022: https://twitter.com/wolfdotgame/status/1462641223005614087\n\n- Discord: https://www.discord.gg/wolfgame\n- Twitter: https://www.twitter.com/wolfdotgame\n\n*WOOL has no other functionality other than within the Wolf Game ecosystem, and it cannot be purchased from The Wolf Game Developers. The Wolf Game Developers do not provide or intend to provide a secondary marketplace for WOOL.*"
+  "description": "Each WOOL Pouch unlocks the WOOL inside to the owner over time. To claim the unlocked WOOL inside of your Pouch, visit: https://wolf.game/pouches **View the other official collections:**\n\n- Wolves & Sheep: https://opensea.io/collection/wolf-game\n- Land: https://opensea.io/collection/wolf-game-land\n- Farmers: https://opensea.io/collection/wolf-game-farmer\n\nFull-feature game coming in 2022: https://twitter.com/wolfdotgame/status/1462641223005614087\n\n- Discord: https://www.discord.gg/wolfgame\n- Twitter: https://www.twitter.com/wolfdotgame\n\n*WOOL has no other functionality other than within the Wolf Game ecosystem, and it cannot be purchased from The Wolf Game Developers. The Wolf Game Developers do not provide or intend to provide a secondary marketplace for WOOL.*",
+  "proxy": "0x425d27fae9b47e18278b746675002bca8d94e2f0"
 }

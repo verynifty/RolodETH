@@ -4,5 +4,6 @@
     "meebit-minter",
     "snapshot-voter-genesisdaosafe",
     "opensea-user"
-  ]
+  ],
+  "ens": "misix.eth"
 }
