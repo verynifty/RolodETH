@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "trusttoken"
+    "trusttoken",
+    "contract",
+    "proxy"
   ],
   "name": "TrueUSD: TUSD Token",
   "erc20_symbol": "TUSD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3449/thumb/tusd.png?1618395665"
+  "imageURL": "https://assets.coingecko.com/coins/images/3449/thumb/tusd.png?1618395665",
+  "proxy": "0xd8d59c59ab40b880b54c969920e8d9172182ad7b"
 }

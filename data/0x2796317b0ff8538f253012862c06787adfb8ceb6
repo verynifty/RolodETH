@@ -1,7 +1,10 @@
 {
   "tags": [
     "bridge",
-    "synapse"
+    "synapse",
+    "contract",
+    "proxy"
   ],
-  "name": "Synapse: Bridge"
+  "name": "Synapse: Bridge",
+  "proxy": "0x31fe393815822edacbd81c2262467402199efd0d"
 }

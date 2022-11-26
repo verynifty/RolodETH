@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "lukso-blockchain"
+    "lukso-blockchain",
+    "contract"
   ],
   "name": "LUKSO: LYXe Token",
   "erc20_symbol": "LYXE",

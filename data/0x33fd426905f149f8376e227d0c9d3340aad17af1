@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "The Memes by 6529",
   "imageUrl": "https://i.seadn.io/gcs/files/8573c42207ea4d7dc1bb6ed5c0b01243.jpg?w=500&auto=format",
   "externalUrl": "https://6529.io/collections/the-memes/",
   "twitterUsername": "6529er",
-  "description": "The Memes Collection is focused on the fight for the open metaverse (decentralization, community, self-sovereignty) and spreading this message to many people, many wallets.\r\n\r\nIt is a collection that is meant to be open and accessible. Edition sizes will generally be large and inexpensive, to spread the word and to avoid gas wars.\r\n\r\nWe will try to have a good time along the way, make some fun art, do great collabs and just generally have a good time.\r\n\r\nFor more information visit https://6529.io/collections/the-memes/"
+  "description": "The Memes Collection is focused on the fight for the open metaverse (decentralization, community, self-sovereignty) and spreading this message to many people, many wallets.\r\n\r\nIt is a collection that is meant to be open and accessible. Edition sizes will generally be large and inexpensive, to spread the word and to avoid gas wars.\r\n\r\nWe will try to have a good time along the way, make some fun art, do great collabs and just generally have a good time.\r\n\r\nFor more information visit https://6529.io/collections/the-memes/",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

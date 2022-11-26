@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Phoenixes by Habit Nest",
   "imageUrl": "https://i.seadn.io/gcs/files/85c0f27dcaddd12390f67b72509ef1dd.jpg?w=500&auto=format",

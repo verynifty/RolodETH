@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nightmare Imp's Treat Boxes",
   "imageUrl": "https://i.seadn.io/gcs/files/7c016d20f18c0a77f5deb5d38ad7dbd3.png?w=500&auto=format",

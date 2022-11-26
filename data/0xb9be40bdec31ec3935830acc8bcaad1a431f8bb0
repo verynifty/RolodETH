@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-paraswap-dao"
-  ]
+  ],
+  "ens": "litizenw.eth"
 }

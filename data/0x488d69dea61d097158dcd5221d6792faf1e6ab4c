@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ninja Anniversary Girls",
   "imageUrl": "https://i.seadn.io/gcs/files/57f2a8f22ff4d0f0799ca5eb2ceeaabf.png?w=500&auto=format",

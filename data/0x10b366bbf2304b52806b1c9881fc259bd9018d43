@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Eggz By Soakverse",
   "imageUrl": "https://i.seadn.io/gcs/files/60fe1a36534d447b45edbc28d0c8f830.png?w=500&auto=format",

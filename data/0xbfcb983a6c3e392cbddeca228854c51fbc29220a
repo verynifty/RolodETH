@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dogface Army - OG Battalion",
   "imageUrl": "https://i.seadn.io/gcs/files/a886f2c1c5b86c1b216121abd9926ec6.png?w=500&auto=format",

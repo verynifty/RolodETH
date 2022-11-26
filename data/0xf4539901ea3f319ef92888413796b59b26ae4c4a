@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gray Boys Mutants",
   "imageUrl": "https://i.seadn.io/gcs/files/60d834a4f979db419a7460981d7c4366.png?w=500&auto=format",

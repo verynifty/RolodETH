@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Voyager Bowls",
   "imageUrl": "https://i.seadn.io/gcs/files/b317ec181518b1e5025b3a1707ea0d6d.png?w=500&auto=format",

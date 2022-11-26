@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "gemini"
+    "gemini",
+    "contract"
   ],
   "name": "Geminidollar",
   "erc20_symbol": "GUSD",

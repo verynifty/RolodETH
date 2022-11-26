@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MixVerse-MixPass",
   "imageUrl": "https://i.seadn.io/gcs/files/55656bdfd803ad1fdb0d4215763ba3c8.jpg?w=500&auto=format",

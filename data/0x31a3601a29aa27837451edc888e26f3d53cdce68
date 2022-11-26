@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mighty Llama Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/e5a5fee8de15abecba519f8574220ba0.png?w=500&auto=format",

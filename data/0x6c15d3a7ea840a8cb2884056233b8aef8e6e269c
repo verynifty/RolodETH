@@ -3,5 +3,6 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "onehotlumpia.eth"
 }

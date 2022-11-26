@@ -1,6 +1,7 @@
 {
   "tags": [
-    "dex"
+    "dex",
+    "contract"
   ],
   "name": "Curve.fi: DAI/USDC/USDT Pool"
 }

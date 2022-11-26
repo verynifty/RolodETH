@@ -6,5 +6,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-dirtxyz",
     "opensea-user"
-  ]
+  ],
+  "ens": "dame.eth"
 }

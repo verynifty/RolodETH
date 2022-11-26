@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lacoste UNDW3: Genesis Pass",
   "imageUrl": "https://i.seadn.io/gcs/files/9028ba6634893a794a263c7e9145bdbc.jpg?w=500&auto=format",

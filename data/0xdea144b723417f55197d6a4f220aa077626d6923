@@ -10,5 +10,6 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tank33.eth"
 }

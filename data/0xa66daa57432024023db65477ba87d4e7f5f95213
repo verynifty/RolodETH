@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "huobi"
+    "huobi",
+    "contract"
   ],
   "name": "Huobi Pool Token",
   "erc20_symbol": "HPT",

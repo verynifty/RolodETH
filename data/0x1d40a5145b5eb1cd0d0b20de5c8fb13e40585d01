@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Frenetik Void",
   "imageUrl": "https://i.seadn.io/gcs/files/d3011ce4def4a01a53d5f6ba940368f5.png?w=500&auto=format",

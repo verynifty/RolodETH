@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Dead Ringers: Edition by Dmitri Cherniak",
   "imageUrl": "https://i.seadn.io/gae/i6lyteTBnifwxhLwneBs4ZaBlC9bSyhMTdrsAy2UzmzoXnLKLc68n1YonWk5_zJbKLt1RGGQFEo3ceVsvHDNG9h4ZPn_ia7Vbz4q?w=500&auto=format",
   "externalUrl": "https://arweave.net/4MkJ36F0KNddbSSCU-kYjsLn7C00Erpno3qnsUp7slU",
   "twitterUsername": "dmitricherniak",
-  "description": "Every day in January 2022 I generated a new output from an algorithm, generated a random wallet address, and sent the work to that address. On the final day, January 31st, all the previous Dead Ringers were placed in a 5 by 6 grid and minted to a generated address.\r\n\r\nIt was almost guaranteed none of the wallets that received Dead Ringers would ever be accessible given there are 16 to power of 40 available addresses. I hoped it would help observers appreciate the vastness of the address space and the underlying security it provides to the network used to distribute the work.\r\n\r\nThe Dead Ringers: Edition flips that notion on its head. Now an edition of January 31, 2022, colloquially known as the Dead Ringers grid, is available for every address if they want one. An edition size capped at 16 to the power of 40."
+  "description": "Every day in January 2022 I generated a new output from an algorithm, generated a random wallet address, and sent the work to that address. On the final day, January 31st, all the previous Dead Ringers were placed in a 5 by 6 grid and minted to a generated address.\r\n\r\nIt was almost guaranteed none of the wallets that received Dead Ringers would ever be accessible given there are 16 to power of 40 available addresses. I hoped it would help observers appreciate the vastness of the address space and the underlying security it provides to the network used to distribute the work.\r\n\r\nThe Dead Ringers: Edition flips that notion on its head. Now an edition of January 31, 2022, colloquially known as the Dead Ringers grid, is available for every address if they want one. An edition size capped at 16 to the power of 40.",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bear-Friends",
   "imageUrl": "https://i.seadn.io/gcs/files/a066ae829804d34796b09f8de09721f9.jpg?w=500&auto=format",
