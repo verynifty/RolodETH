@@ -1,6 +1,7 @@
 {
   "tags": [
-    "curve-fi"
+    "curve-fi",
+    "contract"
   ],
   "name": "Curve.fi: Token Minter"
 }

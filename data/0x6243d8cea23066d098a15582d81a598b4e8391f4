@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "reflexer-finance"
+    "reflexer-finance",
+    "contract"
   ],
   "name": "Reflexer: FLX Token",
   "erc20_symbol": "FLX",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "vEmpire DDAO",
   "erc20_symbol": "VEMP",

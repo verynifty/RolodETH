@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "ampleforth"
+    "ampleforth",
+    "contract",
+    "proxy"
   ],
   "name": "Ampleforth",
   "erc20_symbol": "AMPL",
   "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"
+  "imageURL": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250",
+  "proxy": "0xd0e3f82ab04b983c05263cf3bf52481fbaa435b1"
 }

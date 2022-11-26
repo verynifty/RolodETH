@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "dforce"
+    "dforce",
+    "contract"
   ],
   "name": "dForcePlatformToken",
   "erc20_symbol": "DF",

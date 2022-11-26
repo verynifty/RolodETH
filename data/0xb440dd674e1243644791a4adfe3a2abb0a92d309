@@ -1,7 +1,8 @@
 {
   "tags": [
     "proxy-contract",
-    "synthetix"
+    "synthetix",
+    "contract"
   ],
   "name": "Synthetix: Proxy Fee Pool"
 }

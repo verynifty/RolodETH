@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaDrips.XYZ",
   "imageUrl": "https://i.seadn.io/gcs/files/a4ffc356b1293ea036d6bf869a0c59b4.gif?w=500&auto=format",

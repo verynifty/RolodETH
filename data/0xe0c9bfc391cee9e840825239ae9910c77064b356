@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SUBJECTS World",
   "imageUrl": "https://i.seadn.io/gcs/files/d800d29b38ea065fc85bd2aa00aef59c.png?w=500&auto=format",

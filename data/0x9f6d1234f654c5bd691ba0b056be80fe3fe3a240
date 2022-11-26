@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NFT OCS Collection #1 Drifting Home",
   "imageUrl": "https://i.seadn.io/gcs/files/f8bc83c80d6d06665f3d9a90f61f38f2.png?w=500&auto=format",

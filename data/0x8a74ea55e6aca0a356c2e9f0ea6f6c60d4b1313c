@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "VOXVOT GENESIS",
   "imageUrl": "https://i.seadn.io/gcs/files/c550a13efe560d9dd608ce4041f09971.gif?w=500&auto=format",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "tokenlon"
+    "tokenlon",
+    "contract"
   ],
   "name": "TheTokenizedBitcoin",
   "erc20_symbol": "imBTC",

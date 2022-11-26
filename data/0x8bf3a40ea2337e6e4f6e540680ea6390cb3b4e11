@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Highrise LAND",
   "imageUrl": "https://i.seadn.io/gae/IPiZld6NXrQMElWruORf3UDF1z6QtsCx_qRRwIgq_zCy1WQEJJzVgmXoQ9RvqVmxj-cQ6EUDPauSPaKTZvcqlogWMg5M8GKy8S0c9w?w=500&auto=format",
   "externalUrl": "http://highrise.game",
   "discordUrl": "https://discord.gg/hcc",
   "twitterUsername": "HighriseApp",
-  "description": "The official Highrise LAND of the Highrise World.\r\n\r\nView Highrise LAND on https://highrise.game/land"
+  "description": "The official Highrise LAND of the Highrise World.\r\n\r\nView Highrise LAND on https://highrise.game/land",
+  "proxy": "0xddefc6c454cbeac6bbe3dfaa5700d4f506ebf14e"
 }

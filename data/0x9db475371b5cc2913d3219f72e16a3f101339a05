@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BlockBar",
   "imageUrl": "https://i.seadn.io/gcs/files/51d29ac72cc28c9b67b224065d7f34ce.png?w=500&auto=format",

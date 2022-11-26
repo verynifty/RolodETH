@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "World of Alidia",
   "imageUrl": "https://i.seadn.io/gcs/files/42b994e121418729d32cee031fb754da.png?w=500&auto=format",

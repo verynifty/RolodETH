@@ -1,7 +1,8 @@
 {
   "tags": [
     "maker",
-    "reflexer-finance"
+    "reflexer-finance",
+    "contract"
   ],
   "name": "Maker: Proxy Registry"
 }

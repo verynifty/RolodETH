@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Akropolis: AKRO Token",
   "erc20_symbol": "AKRO",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3328/thumb/Akropolis.png?1547037929"
+  "imageURL": "https://assets.coingecko.com/coins/images/3328/thumb/Akropolis.png?1547037929",
+  "proxy": "0x108388a5b0eb47629138250b6361924813a2acd6"
 }

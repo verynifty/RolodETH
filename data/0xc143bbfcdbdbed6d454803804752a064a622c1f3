@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Async Blueprints",
   "imageUrl": "https://i.seadn.io/gcs/files/d6fb878fdeebeff1518276539a2a8356.png?w=500&auto=format",
   "externalUrl": "http://async.art/blueprints",
   "discordUrl": "https://discord.gg/async",
   "twitterUsername": "AsyncArt",
-  "description": "Explore limited editions of generative and provably random art collections made with Blueprints on Async Canvas."
+  "description": "Explore limited editions of generative and provably random art collections made with Blueprints on Async Canvas.",
+  "proxy": "0x59573dccbdcf66e8f2df6ed8b4e388b374ba278f"
 }

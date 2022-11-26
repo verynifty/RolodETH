@@ -7,5 +7,6 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "hashigo.eth"
 }

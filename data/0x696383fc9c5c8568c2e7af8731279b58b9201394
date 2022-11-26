@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SubwayRats",
   "imageUrl": "https://i.seadn.io/gcs/files/d8217cc34fb75ed3acc0bc6a0aff7092.gif?w=500&auto=format",

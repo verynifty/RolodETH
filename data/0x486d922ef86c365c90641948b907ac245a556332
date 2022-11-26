@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Strange Connections NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/50c7e978d4cb70f5cbe162014a80f0b8.jpg?w=500&auto=format",

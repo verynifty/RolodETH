@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Tidal Finance",
   "erc20_symbol": "TIDAL",

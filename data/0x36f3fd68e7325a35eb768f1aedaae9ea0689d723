@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "empty-set-dollar"
+    "empty-set-dollar",
+    "contract"
   ],
   "name": "Empty Set Dollar: ESD Token",
   "erc20_symbol": "ESD",

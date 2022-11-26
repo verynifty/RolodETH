@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Toonies SC",
   "imageUrl": "https://i.seadn.io/gcs/files/57000ec8b27fdd3d3a33eb780c490166.jpg?w=500&auto=format",

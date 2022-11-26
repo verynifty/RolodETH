@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chaos Clownz Official Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/ad899f90c6c496110f8f419c9ff202d9.gif?w=500&auto=format",

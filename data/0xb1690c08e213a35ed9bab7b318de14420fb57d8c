@@ -1,7 +1,8 @@
 {
   "tags": [
     "auction",
-    "cryptokitties"
+    "cryptokitties",
+    "contract"
   ],
   "name": "CryptoKitties: Sales Auction"
 }

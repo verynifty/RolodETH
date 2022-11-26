@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PG: JIRAVERSE",
   "imageUrl": "https://i.seadn.io/gcs/files/ef11bb634e6b633affb35ef133ac9928.png?w=500&auto=format",

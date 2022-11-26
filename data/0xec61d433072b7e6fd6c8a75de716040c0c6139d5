@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SAYC Labs (MPs)",
   "imageUrl": "https://i.seadn.io/gae/ciRo4qb7OElxf3BRpqQHdbXRGLH6GlXYKWNyZlqiG4QpnwgzGf7RVYlSqA5ggVNVZYvk6kMQVyg-DlfGoHevMxslafZyH3c6Ckeqnw?w=500&auto=format",
   "externalUrl": "http://SmartApeYC.com",
   "discordUrl": "https://discord.gg/JdthDCANHw",
   "twitterUsername": "SmartApeYC",
-  "description": "SAYC Labs is a collection of 3x NFTs, built on the Eth Blockchain with IRL utilities.\n\nMint Pass: Free Mint Ticket / Gold Pass: Gold Free Mint Ticket / RS Pass: Revenue Share --> 1 RS Pass = 0.10% of our Total Revenue (Mint funds, trading, Collabs...)."
+  "description": "SAYC Labs is a collection of 3x NFTs, built on the Eth Blockchain with IRL utilities.\n\nMint Pass: Free Mint Ticket / Gold Pass: Gold Free Mint Ticket / RS Pass: Revenue Share --> 1 RS Pass = 0.10% of our Total Revenue (Mint funds, trading, Collabs...).",
+  "proxy": "0x3e6ee864f850f5e5a98bc950b68e181cf4010f23"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Children of Ukiyo",
   "imageUrl": "https://i.seadn.io/gcs/files/00eabf165474c6b5c8d2d87c7ca96488.jpg?w=500&auto=format",
   "externalUrl": "https://childrenofukiyo.com",
   "discordUrl": "https://discord.gg/children-of-ukiyo",
   "twitterUsername": "childrenofukiyo",
-  "description": "Children of Ukiyo is a lore-driven, multi-cultural, anime inspired project aiming to push the boundaries of collective IP & brand development through innovate web3 technology and a creative tight-knit community. \n\nEach NFT is a character with the potential to forge its own story or to climb the ranks within the canon lore through various interactive experiences.\n\nThe story is taking shape through short stories, books, webcomics, and eventually through games, events, animations, and metaverses experiments.\n\nOwning a Children of Ukiyo NFT, gives you access to the CoU community, Upcoming Sanctuary Platform, future drops, weekly raffles, exclusive experiences & more. \n\nBecome part of the story\n\n*Holder Ratio / Circulating Supply is higher than shown on OS since we have approximately 1.5k NFTs not yet in circulation. (Held within Community Vault for rewards, holder claims, marketing, etc.)"
+  "description": "Children of Ukiyo is a lore-driven, multi-cultural, anime inspired project aiming to push the boundaries of collective IP & brand development through innovate web3 technology and a creative tight-knit community. \n\nEach NFT is a character with the potential to forge its own story or to climb the ranks within the canon lore through various interactive experiences.\n\nThe story is taking shape through short stories, books, webcomics, and eventually through games, events, animations, and metaverses experiments.\n\nOwning a Children of Ukiyo NFT, gives you access to the CoU community, Upcoming Sanctuary Platform, future drops, weekly raffles, exclusive experiences & more. \n\nBecome part of the story\n\n*Holder Ratio / Circulating Supply is higher than shown on OS since we have approximately 1.5k NFTs not yet in circulation. (Held within Community Vault for rewards, holder claims, marketing, etc.)",
+  "proxy": "0x33a38ffaabea69212c6c2a5488bd437598218fb4"
 }

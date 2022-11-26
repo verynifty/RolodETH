@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sidus NFT Heroes",
   "imageUrl": "https://i.seadn.io/gcs/files/2bf5887ac6251c2ec43c046de9266e9e.png?w=500&auto=format",

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Marlin",
   "erc20_symbol": "POND",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451"
+  "imageURL": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
+  "proxy": "0x7c3eeb458732ccd34b0339edb34f1e340929290a"
 }

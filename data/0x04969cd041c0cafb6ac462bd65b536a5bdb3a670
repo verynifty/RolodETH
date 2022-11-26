@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Wrapped ECOMI",
   "erc20_symbol": "WOMI",

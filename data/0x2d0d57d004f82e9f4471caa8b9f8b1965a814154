@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PAYC Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/24ed399dc3e5430b39a1db656f68c67c.gif?w=500&auto=format",

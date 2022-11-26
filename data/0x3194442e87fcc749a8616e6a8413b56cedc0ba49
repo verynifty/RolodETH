@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "yyds08010513.eth"
 }

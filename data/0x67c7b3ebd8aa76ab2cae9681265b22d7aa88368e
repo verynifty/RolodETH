@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NFT Scoring",
   "imageUrl": "https://i.seadn.io/gae/YFyHMCTa_cdbebnuIogZc-6XRKbvQuROI4UfSs7q9TTqtsWdGq_qeZgGjjC8Q1gGqEhiSvWLXY2PhgBDtg7QnKAK3uASEBB0IwH9qA?w=500&auto=format",

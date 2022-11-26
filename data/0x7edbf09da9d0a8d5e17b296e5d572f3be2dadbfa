@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Definitive Doom",
   "imageUrl": "https://i.seadn.io/gcs/files/f320ad76af41b4378222155e8630e1d5.png?w=500&auto=format",
-  "description": "The Definitive Doomscroller Collection"
+  "description": "The Definitive Doomscroller Collection",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

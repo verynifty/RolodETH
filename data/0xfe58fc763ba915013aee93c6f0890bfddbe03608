@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Beep Boop Botz",
   "imageUrl": "https://i.seadn.io/gcs/files/8ca80caf79f66aec9302f392e259bdad.jpg?w=500&auto=format",

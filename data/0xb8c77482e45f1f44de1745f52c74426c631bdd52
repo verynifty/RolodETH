@@ -1,6 +1,8 @@
 {
   "tags": [
-    "binance"
+    "binance",
+    "contract",
+    "erc20"
   ],
   "name": "Binance: BNB Token"
 }

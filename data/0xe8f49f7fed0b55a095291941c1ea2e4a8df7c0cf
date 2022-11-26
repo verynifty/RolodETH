@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "rigamy.eth"
 }

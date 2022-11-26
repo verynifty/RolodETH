@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CNP Jobs",
   "imageUrl": "https://i.seadn.io/gcs/files/1d956dc53da90f8a9a3feb3bffc51c66.gif?w=500&auto=format",

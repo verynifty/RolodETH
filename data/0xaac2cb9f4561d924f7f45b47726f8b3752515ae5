@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Toysterz",
   "imageUrl": "https://i.seadn.io/gcs/files/48b849d969b07e53245d4106661459d5.gif?w=500&auto=format",

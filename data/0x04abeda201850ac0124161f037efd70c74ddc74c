@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "nest-protocol"
+    "nest-protocol",
+    "contract"
   ],
   "name": "NEST Protocol: NEST Token",
   "erc20_symbol": "NEST",

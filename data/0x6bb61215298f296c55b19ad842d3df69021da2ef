@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Drops Ownership Power",
   "erc20_symbol": "DOP",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Project Atama Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/df805816bf6d37abdbf63169c79e2556.png?w=500&auto=format",

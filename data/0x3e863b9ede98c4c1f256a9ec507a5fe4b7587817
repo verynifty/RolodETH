@@ -3,5 +3,6 @@
     "moonbird-minter",
     "clonex-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "nekomui.eth"
 }

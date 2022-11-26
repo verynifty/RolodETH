@@ -9,5 +9,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "becomeone.eth"
 }
