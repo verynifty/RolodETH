@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SoonBirds",
   "imageUrl": "https://i.seadn.io/gcs/files/c1f2ffa31990e97ff7beacf482ab7040.gif?w=500&auto=format",

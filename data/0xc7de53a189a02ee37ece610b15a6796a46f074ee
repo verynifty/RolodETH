@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Titanforge",
   "imageUrl": "https://i.seadn.io/gcs/files/43c03055c9444d117f4dd31c8e12036d.jpg?w=500&auto=format",

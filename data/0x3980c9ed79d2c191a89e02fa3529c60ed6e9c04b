@@ -1,7 +1,10 @@
 {
   "tags": [
     "bridge",
-    "metis-andromeda"
+    "metis-andromeda",
+    "contract",
+    "proxy"
   ],
-  "name": "Metis Andromeda: Bridge"
+  "name": "Metis Andromeda: Bridge",
+  "proxy": "0xa0cfe8af2ab5c9232714647702dbacf862ea4798"
 }

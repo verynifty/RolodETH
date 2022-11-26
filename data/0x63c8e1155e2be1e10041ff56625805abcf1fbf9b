@@ -5,5 +5,6 @@
     "cyber-kong-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "jkiz.eth"
 }

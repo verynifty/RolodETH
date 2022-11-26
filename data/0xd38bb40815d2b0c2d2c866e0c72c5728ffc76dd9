@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Symbiosis Finance",
   "erc20_symbol": "SIS",

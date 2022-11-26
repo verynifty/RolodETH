@@ -1,9 +1,12 @@
 {
   "tags": [
     "trusttoken",
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "TrueAUD",
   "erc20_symbol": "TAUD",
-  "erc20_decimals": 18
+  "erc20_decimals": 18,
+  "proxy": "0xc40750744f075fdc4a0a4c75b7af9380bc59befb"
 }

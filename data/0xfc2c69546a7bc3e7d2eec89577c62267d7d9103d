@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Beastroid",
   "imageUrl": "https://i.seadn.io/gcs/files/246519d648b9bb855c080ed86e90892b.jpg?w=500&auto=format",

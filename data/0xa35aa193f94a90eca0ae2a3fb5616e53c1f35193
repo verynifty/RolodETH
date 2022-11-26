@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "marimo.life",
   "imageUrl": "https://i.seadn.io/gcs/files/c192e3a6cd31b239cd75dc250e8b3e43.png?w=500&auto=format",

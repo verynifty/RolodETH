@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "xiaop1.eth"
 }

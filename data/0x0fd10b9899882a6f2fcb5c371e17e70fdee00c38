@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "pundi-x"
+    "pundi-x",
+    "contract",
+    "proxy"
   ],
   "name": "Pundi X: PUNDIX Token",
   "erc20_symbol": "PUNDIX",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1617085003"
+  "imageURL": "https://assets.coingecko.com/coins/images/14571/thumb/vDyefsXq_400x400.jpg?1617085003",
+  "proxy": "0x4daa3c4c0a253c1e6c6fcb0705e5c64d21cf9c59"
 }

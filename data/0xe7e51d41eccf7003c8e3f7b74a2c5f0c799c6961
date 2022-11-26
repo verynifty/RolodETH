@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "ceppo.eth"
 }

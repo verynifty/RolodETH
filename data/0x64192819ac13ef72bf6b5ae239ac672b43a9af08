@@ -1,7 +1,10 @@
 {
   "tags": [
     "axie-infinity",
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "Axie Infinity: Ronin Bridge V2"
+  "name": "Axie Infinity: Ronin Bridge V2",
+  "proxy": "0x71356e37e0368bd10bfdbf41dc052fe5fa24cd05"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mutant Doge(MDOG)",
   "imageUrl": "https://i.seadn.io/gcs/files/be55859d6573c798263c48ba8de1ae99.png?w=500&auto=format",

@@ -1,7 +1,10 @@
 {
   "tags": [
     "proxy-contract",
-    "ren"
+    "ren",
+    "contract",
+    "proxy"
   ],
-  "name": "Ren: Darknode Registry Proxy"
+  "name": "Ren: Darknode Registry Proxy",
+  "proxy": "0x33b53a700de61b6be01d65a758b3635584bcf140"
 }

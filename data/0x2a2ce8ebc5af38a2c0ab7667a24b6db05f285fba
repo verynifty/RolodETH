@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "This Is Murica NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/2b1e8f6160501288122096ab70c3bda4.gif?w=500&auto=format",

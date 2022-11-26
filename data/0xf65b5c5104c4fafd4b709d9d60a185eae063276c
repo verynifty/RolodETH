@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Truebit Protocol",
   "erc20_symbol": "TRU",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15053/thumb/Truebit.png?1623296246"
+  "imageURL": "https://assets.coingecko.com/coins/images/15053/thumb/Truebit.png?1623296246",
+  "proxy": "0x18cedf1071ec25331130c82d7af71d393ccd4446"
 }

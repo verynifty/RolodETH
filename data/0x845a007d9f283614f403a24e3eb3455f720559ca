@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoNinja Partners",
   "imageUrl": "https://i.seadn.io/gcs/files/480895d442ddafddf9b316d3cb83e24f.gif?w=500&auto=format",

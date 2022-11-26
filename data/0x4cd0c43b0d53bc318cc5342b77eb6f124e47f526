@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "FreeRossDAO",
   "erc20_symbol": "FREE",

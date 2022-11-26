@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Myrai Starter Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/6fa9670aa0f830f518429b060645920a.png?w=500&auto=format",

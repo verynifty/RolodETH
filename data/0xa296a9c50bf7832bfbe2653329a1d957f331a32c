@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Unsoulz",
   "imageUrl": "https://i.seadn.io/gcs/files/9aa5195c67ab3ace5dbacc41744106fb.gif?w=500&auto=format",
   "discordUrl": "https://discord.gg/8DVDGsdexp",
   "twitterUsername": "troutxyz",
-  "description": "666 demonic Unsoulz escaped the reaper chambers of hell. Screaming ,glitching, thirsty for your eternal soul. Beware of the darkness coming for you. Feeding on your darkest thoughts! Generative Collection completely CC0."
+  "description": "666 demonic Unsoulz escaped the reaper chambers of hell. Screaming ,glitching, thirsty for your eternal soul. Beware of the darkness coming for you. Feeding on your darkest thoughts! Generative Collection completely CC0.",
+  "proxy": "0xea690f45047f6be5e513d35b44933999866c5aa6"
 }

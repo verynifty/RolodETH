@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Celephais: Dreamers",
   "imageUrl": "https://i.seadn.io/gcs/files/a3d72691e105f115714e10d8a1aac893.png?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "AI Birds by Computer",
   "imageUrl": "https://i.seadn.io/gcs/files/369f2bdef7def8601cd1b44f2d2cbbcb.png?w=500&auto=format",

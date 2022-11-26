@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ftx"
+    "ftx",
+    "contract"
   ],
   "name": "FTX: 3X Long Ethereum Token",
   "erc20_symbol": "ETHBULL",

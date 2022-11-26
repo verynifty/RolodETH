@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EtherPOAP OG",
   "imageUrl": "https://i.seadn.io/gcs/files/df0f30a038f5d408e5af4aa7ecaadc06.gif?w=500&auto=format",

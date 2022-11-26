@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "HOKAGO: Deployer"
+  "name": "HOKAGO: Deployer",
+  "ens": "hokago.eth"
 }

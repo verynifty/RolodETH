@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Etheruko Genesis Official",
   "imageUrl": "https://i.seadn.io/gcs/files/b7d38977e2ee4d1eb10449d1b3ab5f5d.png?w=500&auto=format",

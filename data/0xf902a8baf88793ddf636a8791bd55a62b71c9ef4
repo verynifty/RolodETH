@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Zombie Apepe YC",
   "imageUrl": "https://i.seadn.io/gcs/files/f6181f44c41dcc6b6a0e0fee5940b584.png?w=500&auto=format",

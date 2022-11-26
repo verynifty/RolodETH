@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "High Lights Official",
   "imageUrl": "https://i.seadn.io/gcs/files/a3e169218cc625a83667ecf34a2881cd.gif?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Terrapin Universe Heroes Card Pack",
   "imageUrl": "https://i.seadn.io/gcs/files/cbb7d16e0c738e13019cd35b3a1fc8ae.png?w=500&auto=format",

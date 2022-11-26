@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "swipe-io"
+    "swipe-io",
+    "contract"
   ],
   "name": "Swipe: SXP Token",
   "erc20_symbol": "SXP",

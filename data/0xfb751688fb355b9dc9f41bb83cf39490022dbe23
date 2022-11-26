@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bankrupt FTX Yacht Club",
   "imageUrl": "https://i.seadn.io/gcs/files/92803db6bafb118d9711280f2675f079.png?w=500&auto=format",

@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "proxy-contract",
-    "synthetix"
+    "synthetix",
+    "contract"
   ],
   "name": "SynthsUSD",
   "erc20_symbol": "sUSD",

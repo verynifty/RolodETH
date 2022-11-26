@@ -6,5 +6,6 @@
     "snapshot-voter-sushigov",
     "sudoswap-user"
   ],
-  "name": "Gitcoin Grants: TensorTrade"
+  "name": "Gitcoin Grants: TensorTrade",
+  "ens": "brypto.eth"
 }

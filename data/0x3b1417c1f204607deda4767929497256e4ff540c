@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "WAGMI United",
   "imageUrl": "https://i.seadn.io/gcs/files/a6d48bd7c88f6de97084e9c483d7a72f.jpg?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WEDOGE",
   "imageUrl": "https://i.seadn.io/gcs/files/aa23accd7d01973ac3635fafde321040.gif?w=500&auto=format",

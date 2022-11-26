@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "UNDEAD VAMPS",
   "imageUrl": "https://i.seadn.io/gcs/files/a153ee74f2f2d5b60527f96c0c49c336.jpg?w=500&auto=format",

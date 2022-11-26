@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Millie$",
   "imageUrl": "https://i.seadn.io/gcs/files/77a8059b143ad2e3ef2a3aeb566a2610.png?w=500&auto=format",

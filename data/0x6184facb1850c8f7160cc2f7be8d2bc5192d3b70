@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Space Addicts",
   "imageUrl": "https://i.seadn.io/gcs/files/3fa94d550e8c85f9e8e4efc48c5a74ee.png?w=500&auto=format",

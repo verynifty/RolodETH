@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "ConstitutionDAO: PEOPLE Token",
   "erc20_symbol": "PEOPLE",

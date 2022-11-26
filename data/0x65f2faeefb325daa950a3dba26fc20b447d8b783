@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Snuggle Buddies Unleashed",
   "imageUrl": "https://i.seadn.io/gcs/files/01b8042d2ba974617197ffa956e95457.jpg?w=500&auto=format",

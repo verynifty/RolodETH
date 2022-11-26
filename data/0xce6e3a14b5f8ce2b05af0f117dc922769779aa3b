@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MEGAMI_NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/cd9eea1b2d6cfc8f8de4ab92fbd01e42.png?w=500&auto=format",

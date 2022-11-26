@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Coinbase Wrapped Staked ETH",
   "erc20_symbol": "CBETH",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066"
+  "imageURL": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066",
+  "proxy": "0x31724ca0c982a31fbb5c57f4217ab585271fc9a5"
 }

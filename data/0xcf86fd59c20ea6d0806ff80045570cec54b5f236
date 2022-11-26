@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Acid Apes Society",
   "imageUrl": "https://i.seadn.io/gcs/files/e8a08245a69fb518c1a22578d8fdf329.gif?w=500&auto=format",

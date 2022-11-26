@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Maya Spirits",
   "imageUrl": "https://openseauserdata.com/files/6425bfb4f4119b5054b18cc408c1ff5d.svg",

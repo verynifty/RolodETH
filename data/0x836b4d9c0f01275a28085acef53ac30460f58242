@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CNP Rookies",
   "imageUrl": "https://i.seadn.io/gcs/files/8e7edd735c5c1e426f7d89d6b1d8309d.gif?w=500&auto=format",

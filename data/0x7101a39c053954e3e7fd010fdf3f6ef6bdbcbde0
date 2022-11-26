@@ -3,5 +3,6 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "rabbits.eth"
 }

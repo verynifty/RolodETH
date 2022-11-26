@@ -1,6 +1,7 @@
 {
   "tags": [
-    "synapse"
+    "synapse",
+    "contract"
   ],
   "name": "Synapse: MiniChef"
 }

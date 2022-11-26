@@ -1,7 +1,8 @@
 {
   "tags": [
     "finance",
-    "sablier"
+    "sablier",
+    "contract"
   ],
   "name": "Sablier v1.0: Proxy"
 }

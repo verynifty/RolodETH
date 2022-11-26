@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "wormhole"
+    "wormhole",
+    "contract",
+    "proxy"
   ],
   "name": "Wormhole: SOL Token",
   "erc20_symbol": "SOL",
   "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316"
+  "imageURL": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
+  "proxy": "0x0fd04a68d3c3a692d6fa30384d1a87ef93554ee6"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "District0xNetworkToken",
   "erc20_symbol": "DNT",

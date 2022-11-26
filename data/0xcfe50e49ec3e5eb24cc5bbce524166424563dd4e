@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Very long CNP",
   "imageUrl": "https://i.seadn.io/gcs/files/3149bd7a45edd513c5b6b73c95953e71.png?w=500&auto=format",

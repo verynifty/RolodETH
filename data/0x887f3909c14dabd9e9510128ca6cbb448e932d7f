@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chillennials",
   "imageUrl": "https://i.seadn.io/gcs/files/f16ce3c98da127c0d5106409925a68b5.png?w=500&auto=format",

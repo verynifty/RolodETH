@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "rezi88.eth"
 }

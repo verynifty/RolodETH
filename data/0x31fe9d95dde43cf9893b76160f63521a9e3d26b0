@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pirate Nation - Founder's Pirates",
   "imageUrl": "https://i.seadn.io/gcs/files/c9602a68bb6b664a961b7aad56f01fe0.gif?w=500&auto=format",

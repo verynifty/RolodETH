@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "superrare"
+    "superrare",
+    "contract",
+    "proxy"
   ],
   "name": "SuperRare: RARE Token",
   "erc20_symbol": "RARE",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534"
+  "imageURL": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
+  "proxy": "0x31acaaea0529894e7c3a5c70d3f9ee6d7804684f"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ftx"
+    "ftx",
+    "contract"
   ],
   "name": "3XShortBitcoinToken",
   "erc20_symbol": "BEAR",

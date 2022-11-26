@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ZuckBots",
   "imageUrl": "https://i.seadn.io/gcs/files/30dbf8fa65488229a85595309635f8c9.png?w=500&auto=format",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "liquity"
+    "liquity",
+    "contract"
   ],
   "name": "Liquity LUSD: LUSD Token",
   "erc20_symbol": "LUSD",

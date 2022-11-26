@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mochi Mo",
   "imageUrl": "https://i.seadn.io/gcs/files/93bbadd4b0d8cf5018948b9401b7a4e6.png?w=500&auto=format",

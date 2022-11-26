@@ -1,7 +1,8 @@
 {
   "tags": [
     "rocket-pool",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "RocketPool",
   "erc20_symbol": "RPL",

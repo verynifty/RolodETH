@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lions Den Poker Club Official",
   "imageUrl": "https://i.seadn.io/gcs/files/aeab01c16e18c7e23f229014448a7516.png?w=500&auto=format",

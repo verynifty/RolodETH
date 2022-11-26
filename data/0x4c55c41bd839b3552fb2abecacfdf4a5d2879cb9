@@ -9,5 +9,6 @@
     "sudoswap-user",
     "snapshot-voter-loot-dao",
     "snapshot-voter-nation3"
-  ]
+  ],
+  "ens": "pipilu.eth"
 }

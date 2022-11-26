@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "shapeshift"
+    "shapeshift",
+    "contract"
   ],
   "name": "FOX",
   "erc20_symbol": "FOX",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "LeoStudio VIP",
   "imageUrl": "https://i.seadn.io/gcs/files/54e6e045fa8f956e191730d55a9dd21d.png?w=500&auto=format",

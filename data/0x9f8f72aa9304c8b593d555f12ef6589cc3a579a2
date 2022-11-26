@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "maker"
+    "maker",
+    "contract"
   ],
   "name": "MakerDAO",
   "erc20_symbol": "MKR",

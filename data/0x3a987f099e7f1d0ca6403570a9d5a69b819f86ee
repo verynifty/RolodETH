@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Official Skulourful",
   "imageUrl": "https://i.seadn.io/gcs/files/3eb3997c48177a50aaf3bc58a67d05d0.png?w=500&auto=format",

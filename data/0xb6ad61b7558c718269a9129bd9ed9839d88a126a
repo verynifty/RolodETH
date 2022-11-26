@@ -4,5 +4,6 @@
     "hashmask-minter",
     "clonex-minter",
     "wow-minter"
-  ]
+  ],
+  "ens": "nftryan.eth"
 }

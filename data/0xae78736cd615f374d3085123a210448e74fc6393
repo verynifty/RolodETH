@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Rocket Pool ETH",
   "erc20_symbol": "RETH",

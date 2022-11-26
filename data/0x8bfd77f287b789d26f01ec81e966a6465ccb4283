@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kurt the Roadie",
   "imageUrl": "https://i.seadn.io/gcs/files/761fafa5d0d0c4cf4d209daa0e5fcf9f.gif?w=500&auto=format",

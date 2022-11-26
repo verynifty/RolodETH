@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KPR",
   "imageUrl": "https://i.seadn.io/gcs/files/7374bcc1521d964418b18c4478862686.jpg?w=500&auto=format",

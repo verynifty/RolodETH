@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "hop-protocol"
+    "hop-protocol",
+    "contract"
   ],
   "name": "Hop: HOP Token",
   "erc20_symbol": "HOP",

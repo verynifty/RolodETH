@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Tellor",
   "erc20_symbol": "TRB",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686"
+  "imageURL": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
+  "proxy": "0xd3b9a1dcabd16c482785fd4265cb4580b84cded7"
 }

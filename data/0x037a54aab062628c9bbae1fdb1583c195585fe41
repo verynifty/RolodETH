@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "lcx-ag"
+    "lcx-ag",
+    "contract"
   ],
   "name": "LCX AG: LCX Token",
   "erc20_symbol": "LCX",

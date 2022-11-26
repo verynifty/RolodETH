@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KawaiiKokoro",
   "imageUrl": "https://i.seadn.io/gcs/files/d89bc37ed25814743ee5a54787035e47.png?w=500&auto=format",

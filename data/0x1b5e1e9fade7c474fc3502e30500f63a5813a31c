@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bored Karma Club",
   "imageUrl": "https://i.seadn.io/gcs/files/e0b3f3f605aee926d2a56e07f95b3729.png?w=500&auto=format",

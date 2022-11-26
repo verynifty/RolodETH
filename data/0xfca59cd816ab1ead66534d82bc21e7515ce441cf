@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "rarible"
+    "rarible",
+    "contract"
   ],
   "name": "Rarible: RARI Token 1",
   "erc20_symbol": "RARI",

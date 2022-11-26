@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-jpeg’d",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ofwgkta.eth"
 }

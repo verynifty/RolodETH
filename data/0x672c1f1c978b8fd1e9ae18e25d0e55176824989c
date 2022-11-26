@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SpaceBoysNFT",
   "imageUrl": "https://i.seadn.io/gcs/files/f23ca5ca9320c94e39f6b34b1dd3fb49.gif?w=500&auto=format",

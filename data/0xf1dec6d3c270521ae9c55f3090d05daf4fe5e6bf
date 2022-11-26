@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Professor NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/3b356a7065af486f063d20faddd44792.png?w=500&auto=format",

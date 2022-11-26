@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gossamer Seed",
   "imageUrl": "https://i.seadn.io/gcs/files/01ca010d770cfb5a3da1b0e4d143a816.png?w=500&auto=format",

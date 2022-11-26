@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "contract-deployer"
+    "contract-deployer",
+    "contract"
   ],
   "name": "Shardus: ULT Token",
   "erc20_symbol": "ULT",

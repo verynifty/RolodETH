@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "MightyNet Genesis Pass",
   "imageUrl": "https://i.seadn.io/gae/pwNoVCXG3IObHYyrN8osopG6ItihJlIufYwUNOZFwz373LOD84I2jF-xMUz238Up_PiikRSMob7bBzQs0sjqBupCO0fmQ9A6AbkJ5Q?w=500&auto=format",
   "externalUrl": "https://mightynet.xyz",
   "discordUrl": "https://discord.gg/w4BnGRHxS3",
   "twitterUsername": "JoinMightyNet",
-  "description": "Web3 gaming's 1337 cohort. Holding a MightyNet Genesis Pass gets you exclusive front-row access to the MightyNet, where Mighty Action Heroes and more are being built. Builder, gamer, or community leader, we’re all here to create the future of web3 gaming, together."
+  "description": "Web3 gaming's 1337 cohort. Holding a MightyNet Genesis Pass gets you exclusive front-row access to the MightyNet, where Mighty Action Heroes and more are being built. Builder, gamer, or community leader, we’re all here to create the future of web3 gaming, together.",
+  "proxy": "0x4181ba6c8f63a7c58c603c321159a7e64c9ee90c"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "augur"
+    "augur",
+    "contract"
   ],
   "name": "Reputation",
   "erc20_symbol": "REPv2",

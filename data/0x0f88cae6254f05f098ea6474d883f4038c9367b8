@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kawakami Generation Zero",
   "imageUrl": "https://i.seadn.io/gcs/files/9135ed4f19d26bf33a9586498ae48923.png?w=500&auto=format",

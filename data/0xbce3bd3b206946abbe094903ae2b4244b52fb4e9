@@ -8,5 +8,6 @@
     "meebit-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bibdieu.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "EthereumMax",
   "erc20_symbol": "EMAX",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15540/thumb/EMAX-Coin-Final2000x.png?1639402630"
+  "imageURL": "https://assets.coingecko.com/coins/images/15540/thumb/EMAX-Coin-Final2000x.png?1639402630",
+  "proxy": "0x4358293b7019eb2488a62a70e6f1f344ecffc57d"
 }

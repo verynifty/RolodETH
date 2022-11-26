@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Babies By Coolman",
   "imageUrl": "https://i.seadn.io/gcs/files/08dc8948027d33d38a434c79d4e88634.jpg?w=500&auto=format",

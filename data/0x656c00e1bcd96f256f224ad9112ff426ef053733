@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Efinity",
   "erc20_symbol": "EFI",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16558/thumb/efi-200px_%281%29.png?1624439132"
+  "imageURL": "https://assets.coingecko.com/coins/images/16558/thumb/efi-200px_%281%29.png?1624439132",
+  "proxy": "0x4ad0cc4bfa295ecd75ce133cdda89cb09380f185"
 }

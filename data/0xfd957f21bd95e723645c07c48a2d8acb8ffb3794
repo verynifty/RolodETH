@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Ethereum Meta",
   "erc20_symbol": "ETHM",
