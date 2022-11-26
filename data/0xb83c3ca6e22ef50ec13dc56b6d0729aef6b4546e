@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "VOXVOT_BlindVox",
   "imageUrl": "https://i.seadn.io/gcs/files/22c18d140578f512fe0c2f4bb8d15e42.gif?w=500&auto=format",

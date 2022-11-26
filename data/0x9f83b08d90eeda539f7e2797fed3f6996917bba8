@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KINGSHIP",
   "imageUrl": "https://i.seadn.io/gcs/files/7a8b4eb666266e7bcbc2678349d3f1bc.gif?w=500&auto=format",

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "XSGD",
   "erc20_symbol": "XSGD",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813"
+  "imageURL": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
+  "proxy": "0x2e21613c4eed4a5af1e9223edcfc8640138da7fb"
 }

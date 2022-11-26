@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Gold Fever Native Gold",
   "erc20_symbol": "NGL",

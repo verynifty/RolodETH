@@ -10,5 +10,6 @@
     "snapshot-voter-ilv",
     "snapshot-voter-cakevote",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "m2e.eth"
 }

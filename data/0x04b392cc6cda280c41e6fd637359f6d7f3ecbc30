@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WAFUKU GEN",
   "imageUrl": "https://i.seadn.io/gcs/files/51cc433516833993eed5e04a5b751972.gif?w=500&auto=format",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "furucombo"
+    "furucombo",
+    "contract"
   ],
   "name": "Furucombo: COMBO Token",
   "erc20_symbol": "COMBO",

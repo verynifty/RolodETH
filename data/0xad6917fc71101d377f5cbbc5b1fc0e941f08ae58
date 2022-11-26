@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gossamer Academy",
   "imageUrl": "https://i.seadn.io/gcs/files/837e5b215da8e99d1083a41f298582a3.png?w=500&auto=format",

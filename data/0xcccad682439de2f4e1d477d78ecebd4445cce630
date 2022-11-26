@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CRGM Access Cards",
   "imageUrl": "https://i.seadn.io/gcs/files/2865928877c27488a2177195f22bcf1d.gif?w=500&auto=format",

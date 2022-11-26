@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Spellfire",
   "erc20_symbol": "SPELLFIRE",

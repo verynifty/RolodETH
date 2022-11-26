@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "bitfinex"
+    "bitfinex",
+    "contract"
   ],
   "name": "Bitfinex: LEO Token",
   "erc20_symbol": "LEO",

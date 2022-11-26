@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-via-exchange",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "marutsya.eth"
 }

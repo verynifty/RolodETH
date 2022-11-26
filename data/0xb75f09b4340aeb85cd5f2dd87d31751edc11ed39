@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Genesis Box",
   "imageUrl": "https://i.seadn.io/gcs/files/f4d45dbfa3027e116714b786da95c9bd.png?w=500&auto=format",

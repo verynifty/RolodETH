@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-stgdao",
     "opensea-user"
-  ]
+  ],
+  "ens": "woozblock.eth"
 }

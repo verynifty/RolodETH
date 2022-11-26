@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Tether Gold",
   "erc20_symbol": "XAUT",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/10481/thumb/Tether_Gold.png?1668148656"
+  "imageURL": "https://assets.coingecko.com/coins/images/10481/thumb/Tether_Gold.png?1668148656",
+  "proxy": "0xd131ef0fc4ae1af2e1ca3641a8e542731e3b36b4"
 }

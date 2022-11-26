@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "MoedaLoyaltyPoints",
   "erc20_symbol": "MDA",

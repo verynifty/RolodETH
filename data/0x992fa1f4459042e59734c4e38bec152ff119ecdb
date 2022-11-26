@@ -4,5 +4,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ubica.eth"
 }

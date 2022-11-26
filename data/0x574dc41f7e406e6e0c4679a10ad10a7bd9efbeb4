@@ -2,5 +2,6 @@
   "tags": [
     "bayc-minter",
     "coolcat-minter"
-  ]
+  ],
+  "ens": "memeteme.eth"
 }

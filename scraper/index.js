@@ -130,7 +130,7 @@ RoloScraper.prototype.scrapeBlocks = async function (rolodeth, fromBlock, toBloc
     let promises = []
     for (const address of addresses) {
         promises.push(this.scrapeAddress(rolodeth, address))
-        await sleep(150)
+        await sleep(50)
     }
     console.log("PROMISE BEFORE")
     await Promise.all(promises);

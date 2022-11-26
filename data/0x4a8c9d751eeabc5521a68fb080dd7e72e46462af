@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Arcade Land",
   "imageUrl": "https://i.seadn.io/gcs/files/ebe8353e1af3ffd0fd4e93d0ff80919e.png?w=500&auto=format",

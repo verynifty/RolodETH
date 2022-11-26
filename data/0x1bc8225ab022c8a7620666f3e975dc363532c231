@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "0ayoob.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "bridge",
-    "multichain"
+    "multichain",
+    "contract"
   ],
   "name": "Multichain: Router V3"
 }

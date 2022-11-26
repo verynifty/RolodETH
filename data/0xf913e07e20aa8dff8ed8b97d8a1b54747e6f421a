@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-wolfguildvote",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "filthmerchant.eth"
 }

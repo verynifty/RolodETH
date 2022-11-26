@@ -12,5 +12,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "abrarsaifi.eth"
 }

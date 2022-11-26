@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "dappnode"
+    "dappnode",
+    "contract"
   ],
   "name": "DAppNode: NODE Token",
   "erc20_symbol": "NODE",

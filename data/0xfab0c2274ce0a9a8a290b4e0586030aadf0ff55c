@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Black Dust - Takrut",
   "imageUrl": "https://i.seadn.io/gcs/files/83680aaddda843ad7dd86f819a4a256c.gif?w=500&auto=format",
   "externalUrl": "https://blackdustnft.com/",
   "discordUrl": "https://discord.gg/blackdust",
   "twitterUsername": "BlackDustNFT",
-  "description": "300 years after the Great Mech War left the world on the verge of collapse, a group of misfit mercenaries embarks on an odyssey to restore life to a dying world.\n\nThe wasteland is haunted by the **Black Dust** - a mysterious swarm capable of stealing the souls of those it comes into contact with and trapping them in mechs known as 'Raksos' and the lesser 'Asura', which leave nothing but destruction and death in their path...\n\nBut there is hope!\n\nThe **'Takrut'**, an amulet offering protection from the Dust, even if only for a moment. Though not always reliable, some have even found ways to modify these amulets and rumors say a legendary Takrut is waiting to be discovered deep in the quarantine zone...\n\nDo you have what it takes to find the legendary artifact?\n\n[WEBSITE](https://blackdustnft.com)  |  [DISCORD](https://discord.gg/blackdust)  |  [TWITTER](https://twitter.com/BlackDustNFT)"
+  "description": "300 years after the Great Mech War left the world on the verge of collapse, a group of misfit mercenaries embarks on an odyssey to restore life to a dying world.\n\nThe wasteland is haunted by the **Black Dust** - a mysterious swarm capable of stealing the souls of those it comes into contact with and trapping them in mechs known as 'Raksos' and the lesser 'Asura', which leave nothing but destruction and death in their path...\n\nBut there is hope!\n\nThe **'Takrut'**, an amulet offering protection from the Dust, even if only for a moment. Though not always reliable, some have even found ways to modify these amulets and rumors say a legendary Takrut is waiting to be discovered deep in the quarantine zone...\n\nDo you have what it takes to find the legendary artifact?\n\n[WEBSITE](https://blackdustnft.com)  |  [DISCORD](https://discord.gg/blackdust)  |  [TWITTER](https://twitter.com/BlackDustNFT)",
+  "proxy": "0xbdf6edbe467b96b002cf06388c8c0a28016a1d3e"
 }

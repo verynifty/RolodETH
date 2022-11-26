@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CF: The Echo",
   "imageUrl": "https://i.seadn.io/gcs/files/27cdf98b8a02d2693ed753cf0a1bdde8.gif?w=500&auto=format",

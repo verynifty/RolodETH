@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dissected Frens",
   "imageUrl": "https://i.seadn.io/gcs/files/1a9324f9293579d57ba51678b57e1f1c.gif?w=500&auto=format",

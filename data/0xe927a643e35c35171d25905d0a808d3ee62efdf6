@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Anonymous NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/0b83922d5f4bd8ff008e4ad42934d104.jpg?w=500&auto=format",

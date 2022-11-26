@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0xcrv.eth"
 }

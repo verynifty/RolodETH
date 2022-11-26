@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Cratos: Deployer"
+  "name": "Cratos: Deployer",
+  "ens": "cratos.eth"
 }

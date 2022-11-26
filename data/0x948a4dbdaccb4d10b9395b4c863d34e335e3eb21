@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "fallasleep.eth"
 }

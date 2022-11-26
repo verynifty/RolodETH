@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ODENPETS",
   "imageUrl": "https://i.seadn.io/gcs/files/6c7b6d055d007df2ccecc4e916f5d950.gif?w=500&auto=format",

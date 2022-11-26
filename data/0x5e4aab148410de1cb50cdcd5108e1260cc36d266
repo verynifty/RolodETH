@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bad Bears",
   "imageUrl": "https://i.seadn.io/gcs/files/bacf15dcbc1da11d53e18550afbe46e8.gif?w=500&auto=format",

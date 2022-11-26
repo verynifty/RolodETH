@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NSM FUSION",
   "imageUrl": "https://i.seadn.io/gcs/files/50c8554d76e0849635d82f526915f66b.png?w=500&auto=format"

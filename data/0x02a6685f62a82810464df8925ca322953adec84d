@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Deltanauts Alpha Silver",
   "imageUrl": "https://i.seadn.io/gcs/files/6d0136af44c9f6a660d7eeb9d79c3678.jpg?w=500&auto=format",
