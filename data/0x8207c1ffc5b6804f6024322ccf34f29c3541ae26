@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "origin-protocol"
+    "origin-protocol",
+    "contract"
   ],
   "name": "OriginToken",
   "erc20_symbol": "OGN",

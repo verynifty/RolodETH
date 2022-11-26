@@ -1,6 +1,9 @@
 {
   "tags": [
-    "ribbon-finance"
+    "ribbon-finance",
+    "contract",
+    "proxy"
   ],
-  "name": "Ribbon Finance: stETH Covered Call Vault"
+  "name": "Ribbon Finance: stETH Covered Call Vault",
+  "proxy": "0x24ab80935f568e8032253bef349ca3b6097e24c6"
 }

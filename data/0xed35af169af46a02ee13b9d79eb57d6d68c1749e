@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "ECOMI",
   "erc20_symbol": "OMI",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886"
+  "imageURL": "https://assets.coingecko.com/coins/images/4428/thumb/ECOMI.png?1557928886",
+  "proxy": "0xbe1b2dfb095c59da22df63df4bc8f92e11a2f620"
 }

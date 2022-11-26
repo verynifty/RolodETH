@@ -1,6 +1,7 @@
 {
   "tags": [
-    "lido"
+    "lido",
+    "contract"
   ],
   "name": "Lido: Curve Liquidity Farming Pool Contract"
 }

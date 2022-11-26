@@ -1,7 +1,10 @@
 {
   "tags": [
     "bridge",
-    "loopring"
+    "loopring",
+    "contract",
+    "proxy"
   ],
-  "name": "Loopring: Exchange v2"
+  "name": "Loopring: Exchange v2",
+  "proxy": "0x26d8ba776a067c5928841985bce342f75bae7e82"
 }

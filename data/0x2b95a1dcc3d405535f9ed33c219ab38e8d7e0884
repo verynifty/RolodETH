@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Aladdin cvxCRV",
   "erc20_symbol": "ACRV",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25395/thumb/Sv06cFHS_400x400.jpg?1651707422"
+  "imageURL": "https://assets.coingecko.com/coins/images/25395/thumb/Sv06cFHS_400x400.jpg?1651707422",
+  "proxy": "0x160d6e417be17e21712f004b87872a30799cb78f"
 }

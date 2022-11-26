@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Hyakki-Official",
   "imageUrl": "https://i.seadn.io/gcs/files/cd916c4b5bf59f09983c9081ff95fbfb.png?w=500&auto=format",

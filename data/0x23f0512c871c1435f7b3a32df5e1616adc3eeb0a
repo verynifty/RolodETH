@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WCAPES Mundial",
   "imageUrl": "https://i.seadn.io/gcs/files/f7d41abffa6180379c58c7f62f993d13.png?w=500&auto=format",

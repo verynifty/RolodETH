@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "Wormhole: Portal Token Bridge"
+  "name": "Wormhole: Portal Token Bridge",
+  "proxy": "0x299b4f6066d231521d11fae8331fb1a4fe794f58"
 }

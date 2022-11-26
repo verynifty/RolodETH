@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Castaways - Treasure Chests",
   "imageUrl": "https://i.seadn.io/gcs/files/dd17f00a945166b8e79e7309d939a304.jpg?w=500&auto=format",

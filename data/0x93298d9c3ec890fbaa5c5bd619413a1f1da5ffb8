@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Ledger x Killer Acid, Deadfellaz Infected S2",
   "imageUrl": "https://i.seadn.io/gcs/files/701922f7fef6e80259d334e2f776a82a.jpg?w=500&auto=format",
   "twitterUsername": "Ledger",
-  "description": "On October 31, 2022, Ledger gifted 10,000 editions of our Deadfellaz Infected Season 2 collaboration with artist Killer Acid to [ L ] Market Genesis Pass holders."
+  "description": "On October 31, 2022, Ledger gifted 10,000 editions of our Deadfellaz Infected Season 2 collaboration with artist Killer Acid to [ L ] Market Genesis Pass holders.",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

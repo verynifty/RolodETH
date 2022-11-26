@@ -8,8 +8,8 @@ const rpcs = [
 const scraper = new Scraper("http://localhost:3000");
 
 (async () => {
-    let latestBlock = await scraper.provider.getBlockNumber();
+    let latestBlock = await scraper.provider.getBlockNumber() - 4000;
     console.log(latestBlock)
-    await scraper.scrapeBlocks(RolodETH, latestBlock - 30, latestBlock)
+    await scraper.scrapeBlocks(RolodETH, latestBlock - 40, latestBlock)
 
 })();

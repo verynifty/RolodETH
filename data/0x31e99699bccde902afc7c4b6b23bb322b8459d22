@@ -6,5 +6,6 @@
     "mayc-minter",
     "snapshot-voter-rarible",
     "opensea-user"
-  ]
+  ],
+  "ens": "greekdx.eth"
 }
