@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-pushdao",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

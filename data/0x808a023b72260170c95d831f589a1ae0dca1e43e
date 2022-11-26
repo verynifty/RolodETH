@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-balancer",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aavegotchi"
   ]
 }

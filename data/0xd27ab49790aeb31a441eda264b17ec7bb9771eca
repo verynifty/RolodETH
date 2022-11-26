@@ -4,6 +4,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

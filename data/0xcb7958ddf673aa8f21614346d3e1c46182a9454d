@@ -10,6 +10,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-mail3"
   ]
 }

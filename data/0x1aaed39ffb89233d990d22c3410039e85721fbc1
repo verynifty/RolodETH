@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "snapshot-voter-avcdao"
+    "snapshot-voter-avcdao",
+    "snapshot-voter-mail3"
   ]
 }

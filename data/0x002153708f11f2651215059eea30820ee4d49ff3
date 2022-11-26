@@ -3,7 +3,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "meytab.eth"
 }

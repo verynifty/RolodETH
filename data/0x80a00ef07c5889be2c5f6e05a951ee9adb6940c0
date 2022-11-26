@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sushigov",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-nftfinance"
   ]
 }

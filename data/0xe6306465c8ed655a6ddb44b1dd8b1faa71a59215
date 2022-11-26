@@ -4,6 +4,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

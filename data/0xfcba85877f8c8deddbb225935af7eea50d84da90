@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-pushdao"
+    "snapshot-voter-pushdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx"
   ]
 }

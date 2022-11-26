@@ -5,6 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

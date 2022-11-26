@@ -5,6 +5,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-officialoceandao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-kwenta"
   ]
 }

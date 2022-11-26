@@ -6,6 +6,7 @@
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

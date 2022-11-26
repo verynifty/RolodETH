@@ -11,6 +11,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

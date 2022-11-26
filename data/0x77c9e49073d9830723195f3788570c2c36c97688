@@ -11,6 +11,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

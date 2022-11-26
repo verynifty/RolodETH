@@ -3,6 +3,8 @@
     "snapshot-voter-8848labs",
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-gmx"
   ]
 }

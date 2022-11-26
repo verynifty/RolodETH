@@ -13,6 +13,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-opcollective",
     "snapshot-voter-jbdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mavxyz"
   ]
 }

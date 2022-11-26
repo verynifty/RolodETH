@@ -10,6 +10,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zerozero",
     "snapshot-voter-sismo",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mail3"
   ]
 }

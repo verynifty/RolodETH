@@ -8,6 +8,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

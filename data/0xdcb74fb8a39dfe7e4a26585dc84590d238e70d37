@@ -4,6 +4,7 @@
     "snapshot-voter-vote-hopr",
     "snapshot-voter-stgdao",
     "snapshot-voter-safe",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

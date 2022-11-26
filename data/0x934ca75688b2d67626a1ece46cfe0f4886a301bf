@@ -6,6 +6,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-qidao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-mail3"
   ]
 }

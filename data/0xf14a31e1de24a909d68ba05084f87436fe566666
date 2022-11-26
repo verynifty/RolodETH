@@ -4,6 +4,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

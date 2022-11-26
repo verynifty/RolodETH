@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-people-dao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

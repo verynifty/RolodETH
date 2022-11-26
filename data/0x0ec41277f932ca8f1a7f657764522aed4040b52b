@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

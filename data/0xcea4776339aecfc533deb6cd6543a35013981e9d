@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

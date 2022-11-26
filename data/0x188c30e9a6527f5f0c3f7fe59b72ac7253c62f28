@@ -12,6 +12,8 @@
     "snapshot-voter-yearn",
     "snapshot-voter-rarible",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-loot-dao",
+    "snapshot-voter-cvx"
   ]
 }

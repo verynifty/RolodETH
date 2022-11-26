@@ -4,6 +4,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gearbox",
     "snapshot-voter-opcollective",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

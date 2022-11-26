@@ -10,6 +10,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-balancer",
+    "snapshot-voter-mail3"
   ]
 }

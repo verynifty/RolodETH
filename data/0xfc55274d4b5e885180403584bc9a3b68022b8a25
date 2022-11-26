@@ -11,6 +11,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

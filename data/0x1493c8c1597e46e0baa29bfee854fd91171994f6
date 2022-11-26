@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-cakevote",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

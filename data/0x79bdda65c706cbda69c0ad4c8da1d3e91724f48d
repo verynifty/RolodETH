@@ -14,6 +14,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-sismo",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3"
   ]
 }

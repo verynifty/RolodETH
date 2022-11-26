@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

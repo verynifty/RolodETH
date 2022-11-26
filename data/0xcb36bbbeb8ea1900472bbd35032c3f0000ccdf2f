@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

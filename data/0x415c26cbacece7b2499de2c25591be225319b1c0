@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ]
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-breederdao-admin",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

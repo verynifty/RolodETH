@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-cakevote",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-remix-dao"
   ]
 }

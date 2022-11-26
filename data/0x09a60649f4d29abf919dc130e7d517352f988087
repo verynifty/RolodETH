@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
-    "snapshot-voter-index-coop"
+    "snapshot-voter-index-coop",
+    "snapshot-voter-kwenta"
   ]
 }

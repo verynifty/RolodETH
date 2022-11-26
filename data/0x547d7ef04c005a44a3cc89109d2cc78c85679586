@@ -9,6 +9,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cow",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

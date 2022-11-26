@@ -6,6 +6,8 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-stgdao",
     "snapshot-voter-badgerdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-beefydao"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-mail3"
   ]
 }

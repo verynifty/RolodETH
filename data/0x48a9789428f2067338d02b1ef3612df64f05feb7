@@ -16,6 +16,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-banklessvault",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ybaby"
   ]
 }

@@ -7,6 +7,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-mavxyz"
   ]
 }

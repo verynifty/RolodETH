@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-dydxgov",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

@@ -16,6 +16,7 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

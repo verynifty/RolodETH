@@ -1,7 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-apecoin"
   ],
   "ens": "thejvb.eth"
 }

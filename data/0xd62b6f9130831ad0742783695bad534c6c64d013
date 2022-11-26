@@ -8,6 +8,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-dydxgov",
     "opensea-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-mavxyz"
   ]
 }

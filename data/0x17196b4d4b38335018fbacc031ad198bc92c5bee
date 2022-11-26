@@ -8,6 +8,8 @@
     "snapshot-voter-derify",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

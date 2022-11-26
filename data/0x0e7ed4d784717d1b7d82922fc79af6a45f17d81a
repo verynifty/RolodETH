@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ]
 }

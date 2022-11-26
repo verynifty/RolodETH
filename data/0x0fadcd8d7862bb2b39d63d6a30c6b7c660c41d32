@@ -4,6 +4,7 @@
     "snapshot-voter-decentralgames",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-bestfork",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-spookyswap"
   ]
 }

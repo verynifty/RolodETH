@@ -3,6 +3,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
     "snapshot-voter-hakka",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

@@ -3,6 +3,7 @@
     "meebit-minter",
     "snapshot-voter-bullsontheblock",
     "snapshot-voter-apecoin",
-    "snapshot-voter-sharkdao"
+    "snapshot-voter-sharkdao",
+    "snapshot-voter-meebitsdao"
   ]
 }

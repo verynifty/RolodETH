@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-mail3"
   ]
 }

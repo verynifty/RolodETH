@@ -4,6 +4,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-people-dao"
   ]
 }

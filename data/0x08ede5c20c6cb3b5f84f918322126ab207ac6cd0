@@ -10,6 +10,9 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-mail3",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx"
   ]
 }

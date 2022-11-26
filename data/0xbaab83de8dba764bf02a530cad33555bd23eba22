@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-dydxgov",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

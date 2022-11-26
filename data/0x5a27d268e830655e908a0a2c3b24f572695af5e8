@@ -5,6 +5,7 @@
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-gearbox",
     "snapshot-voter-pooltogether",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

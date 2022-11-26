@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ]
 }

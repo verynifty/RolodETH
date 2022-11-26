@@ -5,6 +5,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-metabrewsociety"
   ]
 }

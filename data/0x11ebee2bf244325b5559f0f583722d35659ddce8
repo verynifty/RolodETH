@@ -4,6 +4,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
     "snapshot-voter-gro-xyz",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-shapeshiftdao"
   ]
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-hop",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

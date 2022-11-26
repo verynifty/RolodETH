@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-mail3"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-hakka",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-lido-snapshot",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

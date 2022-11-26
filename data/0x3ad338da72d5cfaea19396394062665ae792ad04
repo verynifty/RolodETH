@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-uniswap",
     "snapshot-voter-zerozero",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-aave"
   ]
 }

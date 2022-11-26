@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

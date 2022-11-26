@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

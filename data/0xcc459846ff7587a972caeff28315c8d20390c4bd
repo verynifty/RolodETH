@@ -12,6 +12,11 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

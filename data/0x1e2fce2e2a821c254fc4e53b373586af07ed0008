@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-stgdao"
   ]
 }

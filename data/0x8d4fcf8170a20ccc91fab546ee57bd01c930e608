@@ -15,6 +15,7 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-jbdao",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

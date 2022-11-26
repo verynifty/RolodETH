@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-hop",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-aave",
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

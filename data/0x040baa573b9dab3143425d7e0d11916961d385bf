@@ -4,6 +4,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-moonpotdotcom",
+    "snapshot-voter-mail3"
   ]
 }

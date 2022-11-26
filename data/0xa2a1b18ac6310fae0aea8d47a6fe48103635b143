@@ -5,6 +5,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

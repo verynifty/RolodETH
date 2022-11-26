@@ -3,6 +3,7 @@
     "moonbird-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-mail3"
   ]
 }

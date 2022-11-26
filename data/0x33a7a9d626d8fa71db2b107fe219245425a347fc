@@ -6,6 +6,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-nftfinance",
     "snapshot-voter-ens",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

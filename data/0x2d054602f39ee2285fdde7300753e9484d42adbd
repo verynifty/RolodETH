@@ -13,6 +13,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-mail3"
   ]
 }

@@ -21,6 +21,8 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-badgerdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-beets"
   ]
 }

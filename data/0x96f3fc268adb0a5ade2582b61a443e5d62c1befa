@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

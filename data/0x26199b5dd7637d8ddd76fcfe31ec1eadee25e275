@@ -8,6 +8,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
     "snapshot-voter-cakevote",
-    "snapshot-voter-wumingqi"
+    "snapshot-voter-wumingqi",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-stgdao"
   ]
 }

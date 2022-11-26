@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-tomoondao",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-mail3"
   ]
 }

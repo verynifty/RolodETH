@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-zksync-dao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-mail3"
   ]
 }

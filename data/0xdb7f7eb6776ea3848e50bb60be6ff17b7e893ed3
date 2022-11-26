@@ -5,6 +5,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-dydxgov",
     "opensea-user",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ]
 }

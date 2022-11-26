@@ -4,6 +4,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-ens",
     "snapshot-voter-opcollective",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

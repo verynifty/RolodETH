@@ -3,6 +3,8 @@
     "snapshot-voter-hop",
     "snapshot-voter-hakka",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mail3"
   ]
 }

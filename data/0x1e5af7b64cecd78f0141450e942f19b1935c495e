@@ -11,6 +11,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

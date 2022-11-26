@@ -6,6 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

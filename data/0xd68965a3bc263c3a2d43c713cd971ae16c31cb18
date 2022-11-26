@@ -11,6 +11,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-qidao",
     "snapshot-voter-gal",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

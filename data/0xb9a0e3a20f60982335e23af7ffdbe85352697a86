@@ -3,6 +3,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

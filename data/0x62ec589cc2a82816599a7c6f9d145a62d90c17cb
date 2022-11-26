@@ -4,6 +4,7 @@
     "snapshot-voter-vote-hopr",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-ctcswap",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-stgdao"
   ]
 }

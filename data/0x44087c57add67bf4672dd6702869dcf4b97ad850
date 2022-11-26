@@ -12,6 +12,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-morpho",
+    "snapshot-voter-mail3"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mavxyz"
   ]
 }

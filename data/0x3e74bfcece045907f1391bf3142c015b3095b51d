@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-qidao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-aave"
   ]
 }

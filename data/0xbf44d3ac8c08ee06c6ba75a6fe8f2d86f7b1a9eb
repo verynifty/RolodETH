@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao"
   ]
 }

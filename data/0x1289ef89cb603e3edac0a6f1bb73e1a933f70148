@@ -6,6 +6,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

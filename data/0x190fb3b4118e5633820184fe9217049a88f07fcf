@@ -9,6 +9,9 @@
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-balancer",
+    "snapshot-voter-mail3"
   ]
 }

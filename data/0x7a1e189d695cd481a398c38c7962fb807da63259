@@ -4,6 +4,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-derify",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

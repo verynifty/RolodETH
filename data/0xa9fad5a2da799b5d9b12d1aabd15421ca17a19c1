@@ -3,6 +3,8 @@
     "snapshot-voter-polydoge",
     "snapshot-voter-bestfork",
     "snapshot-voter-xborg",
-    "snapshot-voter-ilv"
+    "snapshot-voter-ilv",
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-moonpotdotcom"
   ]
 }

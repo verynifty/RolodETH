@@ -3,6 +3,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-nftfinance",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

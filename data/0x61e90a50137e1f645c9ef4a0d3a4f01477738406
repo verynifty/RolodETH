@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "League of Kingdoms",
   "erc20_symbol": "LOKA",

@@ -2,6 +2,7 @@
   "tags": [
     "hashmask-minter",
     "otherdeed-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

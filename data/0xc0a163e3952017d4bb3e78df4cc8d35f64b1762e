@@ -3,6 +3,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-mail3"
   ]
 }

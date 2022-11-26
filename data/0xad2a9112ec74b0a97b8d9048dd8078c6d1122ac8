@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cow",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

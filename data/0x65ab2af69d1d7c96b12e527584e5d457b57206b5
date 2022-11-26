@@ -10,6 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

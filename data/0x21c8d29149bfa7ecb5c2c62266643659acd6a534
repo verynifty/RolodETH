@@ -5,6 +5,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

@@ -5,6 +5,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gitcoindao"
   ]
 }

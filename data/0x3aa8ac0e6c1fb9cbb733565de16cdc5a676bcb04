@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-balancer",
     "snapshot-voter-floordao",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-ilv"
   ]
 }

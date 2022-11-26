@@ -4,6 +4,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

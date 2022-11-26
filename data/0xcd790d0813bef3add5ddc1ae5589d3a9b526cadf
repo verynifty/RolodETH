@@ -10,6 +10,11 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-balancer",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

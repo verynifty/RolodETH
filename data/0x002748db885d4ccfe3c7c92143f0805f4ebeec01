@@ -9,6 +9,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-qidao",
     "snapshot-voter-aave",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-uniswap"
   ]
 }

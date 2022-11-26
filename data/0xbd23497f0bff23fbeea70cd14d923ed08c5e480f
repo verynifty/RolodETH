@@ -6,6 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-xiaowukong",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

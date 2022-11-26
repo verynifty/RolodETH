@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-etherscoredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-pistachiodao",
+    "snapshot-voter-mail3"
   ]
 }

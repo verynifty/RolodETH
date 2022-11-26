@@ -18,6 +18,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-hop",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

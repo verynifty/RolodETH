@@ -11,6 +11,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

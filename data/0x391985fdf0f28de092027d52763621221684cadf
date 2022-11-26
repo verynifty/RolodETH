@@ -4,6 +4,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-comp-vote",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz"
   ]
 }

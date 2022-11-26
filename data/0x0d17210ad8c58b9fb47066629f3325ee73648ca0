@@ -5,6 +5,8 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-people-dao"
   ]
 }

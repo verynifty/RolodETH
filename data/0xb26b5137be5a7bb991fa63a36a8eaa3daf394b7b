@@ -13,6 +13,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-piedao",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-poh",
+    "snapshot-voter-mail3"
   ]
 }

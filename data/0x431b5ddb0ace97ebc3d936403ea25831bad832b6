@@ -8,6 +8,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-bestfork",
     "snapshot-voter-qidao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

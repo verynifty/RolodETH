@@ -5,6 +5,9 @@
     "snapshot-voter-gal",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-mail3"
   ]
 }

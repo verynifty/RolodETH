@@ -3,6 +3,7 @@
     "snapshot-voter-tetu",
     "snapshot-voter-tetubal",
     "snapshot-voter-redactedcartel",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-balancer"
   ]
 }

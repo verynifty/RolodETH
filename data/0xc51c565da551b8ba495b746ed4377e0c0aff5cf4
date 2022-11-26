@@ -9,6 +9,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-derify",
     "snapshot-voter-gal",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

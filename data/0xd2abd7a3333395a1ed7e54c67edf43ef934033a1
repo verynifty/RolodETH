@@ -6,6 +6,8 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

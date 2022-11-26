@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-balancer"
   ]
 }

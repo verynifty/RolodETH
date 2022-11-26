@@ -4,6 +4,8 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3",
+    "snapshot-voter-jbdao"
   ]
 }

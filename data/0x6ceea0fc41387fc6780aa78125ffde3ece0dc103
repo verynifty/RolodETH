@@ -5,6 +5,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aave",
+    "snapshot-voter-alpacafinance"
   ]
 }

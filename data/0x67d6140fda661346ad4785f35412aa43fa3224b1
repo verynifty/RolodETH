@@ -11,6 +11,7 @@
     "snapshot-voter-unlock-protocol",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-balancer"
   ]
 }

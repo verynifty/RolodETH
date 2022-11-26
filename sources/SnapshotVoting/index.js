@@ -4,7 +4,7 @@ function SnapshotVoting() {
     this.name = "SnapshotVoting_" + Date.now();
 }
 
-SnapshotVoting.prototype.spaceToName = function(spaceName) {
+SnapshotVoting.prototype.spaceToName = function (spaceName) {
     if (spaceName == "jntaoli.eth") {
         return "zkSync DAO"
     }
@@ -32,8 +32,12 @@ SnapshotVoting.prototype.addTo = async function (RolodETH) {
                 }
               }
             `
-            }
-    
+            },
+                {
+                    headers: {
+                        'accept-encoding': '*',
+                    }
+                }
             );
             let votes = resp.data.data.messages;
             for (const vote of votes) {
@@ -46,8 +50,9 @@ SnapshotVoting.prototype.addTo = async function (RolodETH) {
             }
         } catch (error) {
             console.log("ERROR")
+            console.log(error)
         }
-       
+
     }
 
 }

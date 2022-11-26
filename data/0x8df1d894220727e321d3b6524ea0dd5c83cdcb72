@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zhulindong"
+    "snapshot-voter-zhulindong",
+    "snapshot-voter-aave"
   ]
 }

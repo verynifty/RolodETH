@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

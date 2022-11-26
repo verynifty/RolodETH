@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-speraxdao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

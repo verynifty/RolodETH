@@ -5,6 +5,7 @@
     "snapshot-voter-botto",
     "snapshot-voter-olympusdao",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ilv"
   ]
 }

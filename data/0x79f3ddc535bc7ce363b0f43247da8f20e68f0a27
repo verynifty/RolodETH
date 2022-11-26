@@ -4,6 +4,9 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

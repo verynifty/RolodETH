@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-lxdao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-friendswithbenefits"
   ]
 }

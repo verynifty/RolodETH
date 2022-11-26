@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-safe",
     "snapshot-voter-apecoin",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ]
 }

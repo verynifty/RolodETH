@@ -3,6 +3,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-mail3"
   ]
 }

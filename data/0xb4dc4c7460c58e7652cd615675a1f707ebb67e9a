@@ -12,6 +12,7 @@
     "snapshot-voter-piedao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-8848labs"
+    "snapshot-voter-8848labs",
+    "snapshot-voter-mail3"
   ]
 }

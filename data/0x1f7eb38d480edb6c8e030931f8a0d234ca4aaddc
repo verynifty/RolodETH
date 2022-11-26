@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-yokaiswap",
     "sudoswap-user",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

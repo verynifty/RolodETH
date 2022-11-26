@@ -11,6 +11,9 @@
     "snapshot-voter-rook",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-doremifasollasi",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-53231323",
+    "snapshot-voter-mail3"
   ]
 }

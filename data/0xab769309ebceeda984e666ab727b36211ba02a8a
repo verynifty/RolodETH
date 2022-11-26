@@ -6,6 +6,9 @@
     "snapshot-voter-daoge",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-baebaecafe"
+    "snapshot-voter-baebaecafe",
+    "snapshot-voter-gal",
+    "snapshot-voter-balancer",
+    "snapshot-voter-comp-vote"
   ]
 }

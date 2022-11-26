@@ -4,7 +4,8 @@
     "snapshot-voter-love0323",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "love0323.eth"
 }

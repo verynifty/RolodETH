@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

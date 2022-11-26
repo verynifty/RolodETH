@@ -10,6 +10,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

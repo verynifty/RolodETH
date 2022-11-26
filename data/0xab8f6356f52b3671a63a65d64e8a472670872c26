@@ -4,6 +4,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

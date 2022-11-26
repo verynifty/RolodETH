@@ -6,6 +6,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-opcollective",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

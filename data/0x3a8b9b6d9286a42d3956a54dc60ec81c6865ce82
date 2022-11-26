@@ -5,6 +5,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-alpacafinance"
   ]
 }

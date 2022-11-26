@@ -5,6 +5,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-blockhubdao"
+    "snapshot-voter-blockhubdao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "0xalex0.eth"
 }

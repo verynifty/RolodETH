@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mavxyz"
   ]
 }

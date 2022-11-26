@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

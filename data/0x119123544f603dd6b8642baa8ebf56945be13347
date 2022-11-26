@@ -4,6 +4,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

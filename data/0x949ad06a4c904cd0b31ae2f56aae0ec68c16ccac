@@ -18,6 +18,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-beefydao",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3",
+    "snapshot-voter-via-exchange"
   ]
 }

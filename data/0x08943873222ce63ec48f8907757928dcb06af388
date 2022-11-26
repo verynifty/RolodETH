@@ -3,6 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-breederdao-admin",
     "snapshot-voter-cakevote",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx",
+    "snapshot-voter-alpacafinance"
   ]
 }

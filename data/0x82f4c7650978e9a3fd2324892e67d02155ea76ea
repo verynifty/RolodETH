@@ -3,6 +3,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-uniswap"
   ]
 }

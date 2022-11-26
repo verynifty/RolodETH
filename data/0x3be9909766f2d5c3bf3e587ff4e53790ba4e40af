@@ -9,6 +9,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-nation3"
+    "snapshot-voter-nation3",
+    "snapshot-voter-mail3"
   ]
 }

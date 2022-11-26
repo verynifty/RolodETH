@@ -5,6 +5,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gitcoindao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

@@ -7,6 +7,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

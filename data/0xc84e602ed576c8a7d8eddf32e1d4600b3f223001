@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-aave",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

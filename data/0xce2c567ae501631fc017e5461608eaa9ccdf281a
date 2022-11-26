@@ -7,6 +7,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-mail3"
   ]
 }

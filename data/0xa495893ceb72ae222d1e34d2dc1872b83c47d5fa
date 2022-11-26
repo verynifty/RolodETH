@@ -6,6 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

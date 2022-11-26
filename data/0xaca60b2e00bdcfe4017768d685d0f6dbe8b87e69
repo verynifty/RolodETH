@@ -4,6 +4,8 @@
     "snapshot-voter-huwacoin",
     "snapshot-voter-dydxgov",
     "snapshot-voter-zksync-dao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

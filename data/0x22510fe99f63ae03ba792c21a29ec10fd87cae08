@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aurafinance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-kwenta"
   ]
 }

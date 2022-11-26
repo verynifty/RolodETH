@@ -9,6 +9,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-via-exchange"
   ]
 }

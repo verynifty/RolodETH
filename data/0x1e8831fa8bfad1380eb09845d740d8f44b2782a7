@@ -11,6 +11,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer",
+    "snapshot-voter-mail3"
   ]
 }

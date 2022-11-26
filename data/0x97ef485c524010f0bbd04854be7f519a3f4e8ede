@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

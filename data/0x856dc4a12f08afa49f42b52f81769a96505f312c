@@ -10,6 +10,10 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-floordao"
+    "snapshot-voter-floordao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-balancer",
+    "snapshot-voter-mail3"
   ]
 }

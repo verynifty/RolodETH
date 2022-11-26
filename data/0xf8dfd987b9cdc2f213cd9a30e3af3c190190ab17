@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-dudulab"
+    "snapshot-voter-dudulab",
+    "snapshot-voter-mail3"
   ]
 }

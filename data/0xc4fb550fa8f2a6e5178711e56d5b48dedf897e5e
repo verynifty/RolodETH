@@ -7,6 +7,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-comp-vote",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

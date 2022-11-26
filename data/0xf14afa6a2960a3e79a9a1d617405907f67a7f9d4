@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "snapshot-voter-floordao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-squiggledao"
   ]
 }

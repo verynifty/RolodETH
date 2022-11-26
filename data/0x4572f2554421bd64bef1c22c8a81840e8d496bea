@@ -1,7 +1,8 @@
 {
   "tags": [
     "airswap",
-    "dex"
+    "dex",
+    "contract"
   ],
   "name": "AirSwap"
 }

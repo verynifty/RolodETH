@@ -13,6 +13,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
     "snapshot-voter-dfi",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-balancer"
   ]
 }

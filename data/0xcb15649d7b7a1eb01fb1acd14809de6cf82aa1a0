@@ -11,6 +11,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-balancer",
+    "snapshot-voter-mail3"
   ]
 }

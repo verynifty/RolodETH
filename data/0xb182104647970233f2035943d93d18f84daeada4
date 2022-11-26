@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

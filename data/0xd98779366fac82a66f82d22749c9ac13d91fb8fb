@@ -3,6 +3,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-squiggledaotreasurysquad",
-    "snapshot-voter-gmdao"
+    "snapshot-voter-gmdao",
+    "snapshot-voter-squiggledao"
   ]
 }

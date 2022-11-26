@@ -6,7 +6,12 @@
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-alchemixstakers",
     "opensea-user",
-    "snapshot-voter-floordao"
+    "snapshot-voter-floordao",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-balancer",
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-neworderdao-xyz"
   ],
   "ens": "invictus369.eth"
 }

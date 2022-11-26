@@ -4,6 +4,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-badgerdao",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-lido-snapshot"
   ]
 }

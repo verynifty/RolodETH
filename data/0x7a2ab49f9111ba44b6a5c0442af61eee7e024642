@@ -4,7 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-ens",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-uniswap"
   ],
   "ens": "lvmh88.eth"
 }

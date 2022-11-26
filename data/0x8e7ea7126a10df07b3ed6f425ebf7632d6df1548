@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

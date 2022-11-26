@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

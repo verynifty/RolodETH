@@ -6,6 +6,8 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-bitdao"
+    "snapshot-voter-bitdao",
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-neworderdao-xyz"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-badgerdao",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

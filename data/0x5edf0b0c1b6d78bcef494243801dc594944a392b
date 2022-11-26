@@ -12,6 +12,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

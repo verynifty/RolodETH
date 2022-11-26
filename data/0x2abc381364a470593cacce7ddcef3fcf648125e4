@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

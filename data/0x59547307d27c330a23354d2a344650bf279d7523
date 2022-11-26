@@ -3,6 +3,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "opensea-user",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ]
 }

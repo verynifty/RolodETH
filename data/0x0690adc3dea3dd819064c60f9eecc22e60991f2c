@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

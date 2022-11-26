@@ -6,6 +6,10 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-subdaonetwork",
+    "snapshot-voter-mail3",
+    "snapshot-voter-etherscoredao"
   ]
 }

@@ -3,7 +3,10 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-perp-temp-check",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-pistachiodao"
   ],
   "ens": "litizenw.eth"
 }

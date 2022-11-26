@@ -4,6 +4,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

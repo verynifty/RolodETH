@@ -8,6 +8,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-wumingqi",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

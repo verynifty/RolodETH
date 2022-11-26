@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mavxyz"
   ]
 }

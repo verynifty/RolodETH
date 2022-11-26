@@ -5,6 +5,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-sharkdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-morpho"
   ]
 }

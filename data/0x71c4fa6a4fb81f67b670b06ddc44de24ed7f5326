@@ -5,6 +5,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-brightmoments",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-noundles-vote"
   ]
 }

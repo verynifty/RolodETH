@@ -8,6 +8,10 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mail3"
   ]
 }

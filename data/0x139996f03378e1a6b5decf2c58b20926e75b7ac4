@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "snapshot-voter-uniswap",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

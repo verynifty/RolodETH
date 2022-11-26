@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
   ]
 }

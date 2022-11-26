@@ -8,6 +8,11 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-gal",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-mail3",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,6 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-goldfinch",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

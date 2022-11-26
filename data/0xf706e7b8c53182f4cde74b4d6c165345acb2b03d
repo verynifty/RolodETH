@@ -5,6 +5,9 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

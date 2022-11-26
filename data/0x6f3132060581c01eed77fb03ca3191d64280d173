@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-miguelrare",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ]
 }

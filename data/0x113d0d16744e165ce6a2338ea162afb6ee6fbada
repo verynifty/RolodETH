@@ -6,6 +6,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-ens",
     "snapshot-voter-aave",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-uniswap"
   ]
 }

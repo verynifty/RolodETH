@@ -13,6 +13,9 @@
     "snapshot-voter-krap",
     "snapshot-voter-gnosis",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-cakevote"
   ]
 }

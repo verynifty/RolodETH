@@ -10,6 +10,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-poh",
+    "snapshot-voter-mail3"
   ]
 }

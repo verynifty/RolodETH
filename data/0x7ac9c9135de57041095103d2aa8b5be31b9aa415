@@ -6,6 +6,7 @@
     "snapshot-voter-supported",
     "snapshot-voter-alchemixstakers",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

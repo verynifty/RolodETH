@@ -5,6 +5,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-sdbal",
     "snapshot-voter-balancer",
-    "snapshot-voter-sdangle"
+    "snapshot-voter-sdangle",
+    "snapshot-voter-sdfxs"
   ]
 }

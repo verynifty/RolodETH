@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-uniswap"
   ]
 }

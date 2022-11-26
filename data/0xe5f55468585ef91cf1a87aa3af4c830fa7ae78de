@@ -5,6 +5,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-mail3"
   ]
 }

@@ -8,6 +8,11 @@
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-xole"
+    "snapshot-voter-xole",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-manvinder",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx",
+    "snapshot-voter-alpacafinance"
   ]
 }

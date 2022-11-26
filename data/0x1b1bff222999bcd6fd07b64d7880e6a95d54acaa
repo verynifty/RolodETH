@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "LAYC",
   "imageUrl": "https://i.seadn.io/gcs/files/3d1f199e672d68a33f442a53153b7377.jpg?w=500&auto=format",

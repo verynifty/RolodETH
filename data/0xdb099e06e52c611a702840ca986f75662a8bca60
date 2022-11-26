@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-polygon-goodghosting",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

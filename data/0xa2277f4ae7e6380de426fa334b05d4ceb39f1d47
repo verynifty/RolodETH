@@ -4,6 +4,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-safe",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

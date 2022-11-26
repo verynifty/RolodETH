@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mail3"
   ]
 }

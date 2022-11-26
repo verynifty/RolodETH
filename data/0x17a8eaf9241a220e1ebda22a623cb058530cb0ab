@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-yokaiswap",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-stgdao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-shapeshiftdao"
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-mail3"
   ]
 }

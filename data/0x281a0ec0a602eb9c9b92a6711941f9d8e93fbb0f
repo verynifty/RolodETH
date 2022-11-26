@@ -9,6 +9,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

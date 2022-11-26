@@ -11,6 +11,9 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

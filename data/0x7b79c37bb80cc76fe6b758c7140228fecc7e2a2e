@@ -4,6 +4,8 @@
     "snapshot-voter-jpeg’d",
     "snapshot-voter-stakewise",
     "snapshot-voter-index-coop",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

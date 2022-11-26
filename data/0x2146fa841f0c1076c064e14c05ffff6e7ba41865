@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

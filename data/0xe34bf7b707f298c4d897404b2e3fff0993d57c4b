@@ -6,6 +6,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-mail3"
   ]
 }

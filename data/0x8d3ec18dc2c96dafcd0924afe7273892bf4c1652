@@ -5,6 +5,10 @@
     "snapshot-voter-gal",
     "snapshot-voter-beefydao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-8848labs"
+    "snapshot-voter-8848labs",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

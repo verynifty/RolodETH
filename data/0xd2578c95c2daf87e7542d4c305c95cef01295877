@@ -6,6 +6,9 @@
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ]
 }

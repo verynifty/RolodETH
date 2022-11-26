@@ -3,6 +3,9 @@
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
     "snapshot-voter-etherscoredao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ]
 }

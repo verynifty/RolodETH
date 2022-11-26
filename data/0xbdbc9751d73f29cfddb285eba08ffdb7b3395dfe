@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

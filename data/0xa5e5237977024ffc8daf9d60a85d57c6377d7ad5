@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gearbox",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

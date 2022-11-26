@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
-    "snapshot-voter-darumadao"
+    "snapshot-voter-darumadao",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

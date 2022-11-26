@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

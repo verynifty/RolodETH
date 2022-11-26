@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-zksync-dao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ]
 }

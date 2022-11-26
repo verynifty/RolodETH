@@ -5,6 +5,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

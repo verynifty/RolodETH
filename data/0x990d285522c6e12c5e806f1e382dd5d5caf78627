@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-gmx",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz"
   ]
 }

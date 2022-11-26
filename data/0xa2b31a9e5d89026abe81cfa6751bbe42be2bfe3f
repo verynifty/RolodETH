@@ -5,6 +5,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz"
   ]
 }

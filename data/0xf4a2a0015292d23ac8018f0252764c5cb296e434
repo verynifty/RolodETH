@@ -5,6 +5,10 @@
     "snapshot-voter-gal",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-etherscoredao"
   ]
 }

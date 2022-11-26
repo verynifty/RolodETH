@@ -3,7 +3,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "ztn3tourney1.eth"
 }

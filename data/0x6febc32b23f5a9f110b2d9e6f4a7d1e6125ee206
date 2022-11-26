@@ -7,6 +7,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-aave"
   ]
 }

@@ -12,6 +12,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-dforcenet",
     "snapshot-voter-gnosis",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "snapshot-voter-spookyswap"
   ]
 }

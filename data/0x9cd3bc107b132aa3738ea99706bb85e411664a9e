@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

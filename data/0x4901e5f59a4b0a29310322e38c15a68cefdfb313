@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-aave"
   ]
 }

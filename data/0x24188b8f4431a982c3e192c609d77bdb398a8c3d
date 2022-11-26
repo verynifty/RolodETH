@@ -1,7 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ],
   "ens": "vlad98v.eth"
 }

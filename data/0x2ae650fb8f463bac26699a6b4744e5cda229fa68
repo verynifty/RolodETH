@@ -5,6 +5,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
     "snapshot-voter-hop",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

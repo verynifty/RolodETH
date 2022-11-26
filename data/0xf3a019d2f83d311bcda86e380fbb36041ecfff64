@@ -3,6 +3,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

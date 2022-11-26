@@ -8,6 +8,9 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

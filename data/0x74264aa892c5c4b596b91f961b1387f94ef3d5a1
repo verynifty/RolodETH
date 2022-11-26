@@ -16,6 +16,7 @@
     "snapshot-voter-bancornetwork",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-doremifasollasi"
+    "snapshot-voter-doremifasollasi",
+    "snapshot-voter-mail3"
   ]
 }

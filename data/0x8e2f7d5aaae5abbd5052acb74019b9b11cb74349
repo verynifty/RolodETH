@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aurafinance",
     "snapshot-voter-gearbox",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gro-xyz"
   ]
 }

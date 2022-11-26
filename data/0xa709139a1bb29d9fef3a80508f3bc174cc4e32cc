@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-qidao",
-    "snapshot-voter-1inch"
+    "snapshot-voter-1inch",
+    "snapshot-voter-cakevote"
   ]
 }

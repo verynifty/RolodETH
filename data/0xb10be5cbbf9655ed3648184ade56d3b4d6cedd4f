@@ -7,7 +7,8 @@
     "snapshot-voter-decentralgames",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "ultrasoundclone.eth"
 }

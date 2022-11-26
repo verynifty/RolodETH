@@ -6,6 +6,8 @@
     "snapshot-voter-hakka",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-morpho"
   ]
 }

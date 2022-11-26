@@ -9,6 +9,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
     "snapshot-voter-aave",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-aave",
     "snapshot-voter-safe",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-uniswap"
   ]
 }

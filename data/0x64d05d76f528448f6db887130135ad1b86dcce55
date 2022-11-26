@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-shellprotocol",
     "snapshot-voter-spookyswap",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

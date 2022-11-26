@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-hakka",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

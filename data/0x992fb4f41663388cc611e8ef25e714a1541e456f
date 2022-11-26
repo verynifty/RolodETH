@@ -9,6 +9,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-beefydao",
     "sudoswap-user",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

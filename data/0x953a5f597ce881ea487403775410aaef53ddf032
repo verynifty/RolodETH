@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

@@ -15,6 +15,7 @@
     "snapshot-voter-beefydao",
     "snapshot-voter-rei-network",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-nftfinance",
     "snapshot-voter-nation3",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

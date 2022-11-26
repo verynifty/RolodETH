@@ -7,6 +7,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-ilv"
+    "snapshot-voter-ilv",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-mail3"
   ]
 }

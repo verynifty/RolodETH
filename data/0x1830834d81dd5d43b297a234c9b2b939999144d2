@@ -8,6 +8,8 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-safe",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

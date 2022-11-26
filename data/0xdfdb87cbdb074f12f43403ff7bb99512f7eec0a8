@@ -4,6 +4,9 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-balancer",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

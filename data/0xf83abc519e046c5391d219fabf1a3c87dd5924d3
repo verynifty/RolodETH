@@ -8,6 +8,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-etherscoredao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

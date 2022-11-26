@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-cow",
     "snapshot-voter-aave",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

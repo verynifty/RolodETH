@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

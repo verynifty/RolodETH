@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gnosis",
     "snapshot-voter-lido-snapshot",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave"
   ]
 }

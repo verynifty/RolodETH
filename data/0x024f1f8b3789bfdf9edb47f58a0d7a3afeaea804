@@ -6,6 +6,7 @@
     "hashmask-minter",
     "meebit-minter",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-noundles-vote"
   ]
 }

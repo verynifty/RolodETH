@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-hakka",
     "snapshot-voter-vote-perp",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

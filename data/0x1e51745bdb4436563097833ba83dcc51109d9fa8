@@ -4,6 +4,7 @@
     "snapshot-voter-cvx",
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-cakevote"
   ]
 }

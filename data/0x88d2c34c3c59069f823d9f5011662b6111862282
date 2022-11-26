@@ -11,6 +11,8 @@
     "snapshot-voter-etherscoredao",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

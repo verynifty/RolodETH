@@ -6,6 +6,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-people-dao"
   ]
 }

@@ -7,6 +7,9 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

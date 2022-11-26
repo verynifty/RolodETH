@@ -3,6 +3,9 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-apecoin",
     "snapshot-voter-stgdao",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

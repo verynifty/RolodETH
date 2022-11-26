@@ -12,6 +12,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-swaprsnapshot",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-mail3"
   ]
 }

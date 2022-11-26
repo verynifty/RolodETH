@@ -5,6 +5,7 @@
     "snapshot-voter-mutantsdao",
     "snapshot-voter-gmx",
     "snapshot-voter-thelanddaoprop",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gal"
   ]
 }

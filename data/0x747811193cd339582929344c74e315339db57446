@@ -8,6 +8,10 @@
     "snapshot-voter-opcollective",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

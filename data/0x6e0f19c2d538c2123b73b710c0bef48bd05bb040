@@ -7,6 +7,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-balancer",
     "snapshot-voter-gitcoindao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

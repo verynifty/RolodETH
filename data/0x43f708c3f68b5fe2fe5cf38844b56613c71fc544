@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-safe",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz"
   ]
 }

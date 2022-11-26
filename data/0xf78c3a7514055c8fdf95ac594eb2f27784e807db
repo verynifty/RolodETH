@@ -6,6 +6,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz"
   ]
 }

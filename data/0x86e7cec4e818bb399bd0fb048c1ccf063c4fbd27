@@ -9,6 +9,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-treasuredao",
     "snapshot-voter-pancake",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

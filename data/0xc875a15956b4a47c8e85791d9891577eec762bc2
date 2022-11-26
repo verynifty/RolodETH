@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gal"
   ]
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
   ]
 }

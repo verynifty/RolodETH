@@ -4,6 +4,7 @@
     "snapshot-voter-mimo",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
   ]
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

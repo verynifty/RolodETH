@@ -9,6 +9,10 @@
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-0xgov"
+    "snapshot-voter-0xgov",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

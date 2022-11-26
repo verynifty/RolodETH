@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

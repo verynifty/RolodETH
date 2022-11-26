@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Laeeb Inu ERC",
   "erc20_symbol": "LAEEB",

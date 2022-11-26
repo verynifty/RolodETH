@@ -13,6 +13,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-mail3"
   ]
 }

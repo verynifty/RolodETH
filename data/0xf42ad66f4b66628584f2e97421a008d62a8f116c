@@ -8,6 +8,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-people-dao",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

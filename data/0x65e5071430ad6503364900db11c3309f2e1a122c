@@ -4,7 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ],
   "ens": "globstake.eth"
 }

@@ -11,6 +11,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-mail3"
   ]
 }

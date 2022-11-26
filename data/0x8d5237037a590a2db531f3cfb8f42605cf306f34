@@ -4,6 +4,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-banklessvault",
     "snapshot-voter-gnosis",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-apecoin"
   ]
 }

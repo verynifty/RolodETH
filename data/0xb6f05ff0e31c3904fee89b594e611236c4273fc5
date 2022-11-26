@@ -5,6 +5,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-treasuredao",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

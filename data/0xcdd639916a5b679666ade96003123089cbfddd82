@@ -8,6 +8,7 @@
     "snapshot-voter-derify",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3"
   ]
 }

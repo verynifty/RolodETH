@@ -7,6 +7,10 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-apecoin",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

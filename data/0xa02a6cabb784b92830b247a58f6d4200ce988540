@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

@@ -14,6 +14,10 @@
     "snapshot-voter-dfkvote",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-xole",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-tcgverse",
+    "snapshot-voter-mail3"
   ]
 }

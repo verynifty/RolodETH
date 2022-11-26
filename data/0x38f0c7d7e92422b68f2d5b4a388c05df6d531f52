@@ -8,6 +8,10 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave",
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

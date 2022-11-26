@@ -5,6 +5,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gojjs",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

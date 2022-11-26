@@ -8,6 +8,9 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

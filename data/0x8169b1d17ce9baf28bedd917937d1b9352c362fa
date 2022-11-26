@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
     "snapshot-voter-zksync-dao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

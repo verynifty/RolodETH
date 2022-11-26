@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz"
   ]
 }

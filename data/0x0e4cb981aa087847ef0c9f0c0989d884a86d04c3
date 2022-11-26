@@ -9,6 +9,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-hop",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mail3"
   ]
 }

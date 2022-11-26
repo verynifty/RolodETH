@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-yam",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "snapshot-voter-mavxyz"
   ]
 }

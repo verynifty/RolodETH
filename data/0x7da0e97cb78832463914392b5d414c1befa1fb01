@@ -12,6 +12,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-zerozero",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

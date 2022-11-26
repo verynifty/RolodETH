@@ -12,6 +12,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-etherscoredao",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ]
 }

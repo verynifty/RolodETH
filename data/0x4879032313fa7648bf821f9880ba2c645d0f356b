@@ -10,6 +10,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-manvinder",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

@@ -8,6 +8,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

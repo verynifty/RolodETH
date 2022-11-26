@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

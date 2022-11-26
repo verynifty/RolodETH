@@ -12,6 +12,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
     "snapshot-voter-dydxgov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

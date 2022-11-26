@@ -8,6 +8,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
     "snapshot-voter-speraxdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-aave"
   ]
 }

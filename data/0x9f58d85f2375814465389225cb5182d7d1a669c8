@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-unicomzj",
+    "snapshot-voter-uniswap"
   ]
 }

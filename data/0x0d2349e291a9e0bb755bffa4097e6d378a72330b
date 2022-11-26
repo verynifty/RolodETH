@@ -5,6 +5,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-qidao"
   ]
 }

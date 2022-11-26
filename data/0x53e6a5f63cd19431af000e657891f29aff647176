@@ -8,6 +8,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gal",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-zhulindong",
+    "snapshot-voter-mail3"
   ]
 }

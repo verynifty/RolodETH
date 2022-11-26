@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-mail3"
   ]
 }

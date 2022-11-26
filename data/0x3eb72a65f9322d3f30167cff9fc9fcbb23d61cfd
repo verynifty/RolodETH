@@ -8,6 +8,11 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-mail3"
   ]
 }

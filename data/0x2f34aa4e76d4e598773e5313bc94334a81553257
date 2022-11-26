@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-8848labs"
+    "snapshot-voter-8848labs",
+    "snapshot-voter-via-exchange"
   ]
 }

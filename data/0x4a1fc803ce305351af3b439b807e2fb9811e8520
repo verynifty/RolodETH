@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-aave",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx",
+    "snapshot-voter-mail3"
   ]
 }

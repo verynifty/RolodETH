@@ -4,6 +4,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mail3"
   ]
 }

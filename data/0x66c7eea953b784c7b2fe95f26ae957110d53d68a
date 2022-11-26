@@ -3,6 +3,7 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-aave",
     "snapshot-voter-daocity",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-gmx"
   ]
 }

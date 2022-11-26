@@ -10,6 +10,8 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
     "snapshot-voter-ens",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-ffdao"
   ]
 }

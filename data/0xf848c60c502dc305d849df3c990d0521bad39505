@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-mail3"
   ]
 }

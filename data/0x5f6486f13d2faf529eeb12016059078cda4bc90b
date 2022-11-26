@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kwenta"
   ]
 }

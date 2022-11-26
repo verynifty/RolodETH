@@ -1,5 +1,8 @@
 {
   "tags": [
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }
