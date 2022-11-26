@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Sneaky's Internet Friends Genesis Pass",
   "imageUrl": "https://i.seadn.io/gae/LDomdof_a_KlWP3kP1bHjs-gKmr2rHJUPJmhRQcCf25KXUx8Y_yQGCwC4jL7Wf6N4IaYn7XUpAcKsVqL_kTJtH69zt-h1ZDl8F2Q?w=500&auto=format",
   "externalUrl": "https://discord.gg/sneakysinternetfriends",
   "discordUrl": "https://discord.gg/sneakysinternetfriends",
   "twitterUsername": "SneakyninjaNFTs",
-  "description": "100% of the secondary royalties from trades will go to charity & to contributing artists. Charities chosen to receive donations will be chosen in conjunction with the community. Placeholder NFT that will be transformed into a custom 1/1 PFP based on the art & artist you choose to work with, when you choose to do so."
+  "description": "100% of the secondary royalties from trades will go to charity & to contributing artists. Charities chosen to receive donations will be chosen in conjunction with the community. Placeholder NFT that will be transformed into a custom 1/1 PFP based on the art & artist you choose to work with, when you choose to do so.",
+  "proxy": "0x8f115dc3ef4fdfb21ecc3c637649b5bc4508f89e"
 }

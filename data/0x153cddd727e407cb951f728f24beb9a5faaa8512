@@ -1,6 +1,7 @@
 {
   "tags": [
-    "loopring"
+    "loopring",
+    "contract"
   ],
   "name": "Loopring: Attestation"
 }

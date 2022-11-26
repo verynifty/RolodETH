@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "bitdao"
+    "bitdao",
+    "contract"
   ],
   "name": "BitDAO: BIT Token",
   "erc20_symbol": "BIT",

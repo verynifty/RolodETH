@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "basic-attention-token"
+    "basic-attention-token",
+    "contract"
   ],
   "name": "BasicAttentionToken",
   "erc20_symbol": "BAT",

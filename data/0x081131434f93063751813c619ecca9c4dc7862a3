@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Mines of Dalarnia",
   "erc20_symbol": "DAR",

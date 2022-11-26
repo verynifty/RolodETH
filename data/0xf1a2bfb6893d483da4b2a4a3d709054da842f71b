@@ -3,5 +3,6 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "vinhos.eth"
 }

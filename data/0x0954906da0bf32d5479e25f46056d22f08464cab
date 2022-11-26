@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "index-coop"
+    "index-coop",
+    "contract"
   ],
   "name": "Index Coop: INDEX Token",
   "erc20_symbol": "INDEX",

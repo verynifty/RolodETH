@@ -1,6 +1,7 @@
 {
   "tags": [
-    "across-protocol"
+    "across-protocol",
+    "contract"
   ],
   "name": "Across Protocol: Hub Pool V2"
 }

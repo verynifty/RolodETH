@@ -8,5 +8,6 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "gowengoing.eth"
 }

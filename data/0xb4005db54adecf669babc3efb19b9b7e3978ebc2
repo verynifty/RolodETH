@@ -4,5 +4,6 @@
     "sudoswap-user",
     "opensea-user"
   ],
-  "name": "Regulars: Deployer"
+  "name": "Regulars: Deployer",
+  "ens": "p0pps.eth"
 }

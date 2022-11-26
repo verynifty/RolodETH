@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Blockchain Monster Hunt",
   "erc20_symbol": "BCMC",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19045/thumb/bcmc-coin-200x200.png?1641398990"
+  "imageURL": "https://assets.coingecko.com/coins/images/19045/thumb/bcmc-coin-200x200.png?1641398990",
+  "proxy": "0xb27e4c5d4dbbdeb7659193245e3dfe35850ad161"
 }

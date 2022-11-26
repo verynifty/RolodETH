@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Platinum Primates - Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/3702490183ae6798a52b6d5025b7a93a.gif?w=500&auto=format",

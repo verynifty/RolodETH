@@ -1,6 +1,7 @@
 {
   "tags": [
-    "cryptokitties"
+    "cryptokitties",
+    "contract"
   ],
   "name": "CryptoKitties: Core"
 }

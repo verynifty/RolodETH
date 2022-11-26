@@ -3,5 +3,6 @@
     "moonbird-minter",
     "hashmask-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ilikebananas.eth"
 }

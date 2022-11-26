@@ -20,7 +20,9 @@ RoloScraper.prototype.getAddressesInBlocks = async function (fromBlock, toBlock)
     for (const b of blocks) {
         for (const t of b.transactions) {
             addresses[t.from] = true;
-            addresses[t.to] = true;
+            if (t.to != null) {
+                addresses[t.to] = true;
+            }
         }
     }
     return Object.keys(addresses);

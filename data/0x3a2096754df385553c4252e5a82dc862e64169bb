@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Possessed",
   "imageUrl": "https://i.seadn.io/gcs/files/b8cb4bad1a4999e56d2aef4f8baa17e9.gif?w=500&auto=format",

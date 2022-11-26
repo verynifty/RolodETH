@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mutant GodHatesNFTees",
   "imageUrl": "https://i.seadn.io/gcs/files/fe5ba0c65b976fffc2e1efdd4d23268e.png?w=500&auto=format",

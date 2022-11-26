@@ -1,6 +1,8 @@
 {
   "tags": [
-    "shiba-inu"
+    "shiba-inu",
+    "contract",
+    "erc20"
   ],
   "name": "Shiba Inu: xSHIB Token"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "BoringDAO  OLD ",
   "erc20_symbol": "BOR",

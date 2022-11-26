@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kryptoria - Alpha Citizens",
   "imageUrl": "https://i.seadn.io/gcs/files/92adf99b24af2c19b978ec199b7ed613.gif?w=500&auto=format",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "band"
+    "band",
+    "contract"
   ],
   "name": "Band Protocol: BAND Token",
   "erc20_symbol": "BAND",

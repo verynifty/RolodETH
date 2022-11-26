@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "721 Ether Plant",
   "imageUrl": "https://i.seadn.io/gcs/files/a38eb3a6f9126a2573148ce2f6ad141e.png?w=500&auto=format",
