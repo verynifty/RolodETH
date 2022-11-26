@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "NFTerrarium Pixie Dust",
   "imageUrl": "https://i.seadn.io/gcs/files/fe7f2cee3bcc1c2226a2d8cfe63fe018.png?w=500&auto=format",

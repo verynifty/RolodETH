@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "idex"
+    "idex",
+    "contract"
   ],
   "name": "IDEX Token",
   "erc20_symbol": "IDEX",
