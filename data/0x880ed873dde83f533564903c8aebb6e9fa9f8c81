@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ONEWORDBRICK",
   "imageUrl": "https://i.seadn.io/gcs/files/6a0ca3f98e207e03dcad31606be9796d.jpg?w=500&auto=format",

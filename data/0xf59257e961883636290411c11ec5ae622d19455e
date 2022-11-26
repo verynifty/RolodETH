@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "FloorDAO",
   "erc20_symbol": "FLOOR",

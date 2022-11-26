@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "meebit-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "blackkettle.eth"
 }

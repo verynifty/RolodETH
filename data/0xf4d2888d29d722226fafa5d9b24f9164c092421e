@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "looksrare"
+    "looksrare",
+    "contract"
   ],
   "name": "LooksRare: LOOKS Token",
   "erc20_symbol": "LOOKS",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "NAEMO GENESIS",
   "imageUrl": "https://i.seadn.io/gcs/files/37f5fc68e1292cc02ab923602dc7d3a7.gif?w=500&auto=format",

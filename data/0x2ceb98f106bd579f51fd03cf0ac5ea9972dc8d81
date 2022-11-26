@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ChronoCatzCC",
   "imageUrl": "https://i.seadn.io/gcs/files/d4f34e6bf7c2993e37392fd8ad16e987.png?w=500&auto=format",

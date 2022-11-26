@@ -1,6 +1,7 @@
 {
   "tags": [
-    "stablecoin"
+    "stablecoin",
+    "contract"
   ],
   "name": "Beanstalk: Beanstalk Protocol"
 }

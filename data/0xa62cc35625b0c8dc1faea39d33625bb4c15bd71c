@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "StormX",
   "erc20_symbol": "STMX",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1603113002"
+  "imageURL": "https://assets.coingecko.com/coins/images/1369/thumb/StormX.png?1603113002",
+  "proxy": "0x720c369fc5578facf15c21034a127b9b13fb3641"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pudgy Rods",
   "imageUrl": "https://i.seadn.io/gcs/files/866691c691d0426769120db411b57e86.png?w=500&auto=format",

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Friendship Bracelets by Alexis André",
   "imageUrl": "https://i.seadn.io/gcs/files/01de134db029be955aa892ea066c085f.png?w=500&auto=format",

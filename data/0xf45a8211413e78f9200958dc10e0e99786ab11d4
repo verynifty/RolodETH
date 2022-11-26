@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Entangled by Tezumie",
   "imageUrl": "https://i.seadn.io/gcs/files/9681f12c4229215e59291c3a9b49840c.png?w=500&auto=format",
   "externalUrl": "https://256art.com/project/15",
-  "description": "Entangled is a generative scene made up of geometric shapes and various natural fauna. Combining basic geometry and organic shapes creates a unique composition which both provides a naturalistic scene, along with the recognizable features of generative art. Art is fully on chain."
+  "description": "Entangled is a generative scene made up of geometric shapes and various natural fauna. Combining basic geometry and organic shapes creates a unique composition which both provides a naturalistic scene, along with the recognizable features of generative art. Art is fully on chain.",
+  "proxy": "0x8cb738e7448a0aea7f3df2bfcdef834ee56b101b"
 }

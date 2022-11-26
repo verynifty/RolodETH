@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "maker"
+    "maker",
+    "contract"
   ],
   "name": "Sai Stablecoin",
   "erc20_symbol": "SAI",

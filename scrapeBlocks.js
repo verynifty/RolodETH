@@ -10,6 +10,6 @@ const scraper = new Scraper("http://localhost:3000");
 (async () => {
     let latestBlock = await scraper.provider.getBlockNumber();
     console.log(latestBlock)
-    await scraper.scrapeBlocks(RolodETH, latestBlock - 10, latestBlock)
+    await scraper.scrapeBlocks(RolodETH, latestBlock - 30, latestBlock)
 
 })();

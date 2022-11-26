@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaZoo Games Beasties",
   "imageUrl": "https://i.seadn.io/gcs/files/24551d135f011ae4ef4a07e556c3570f.png?w=500&auto=format",

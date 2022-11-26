@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Inhabitants: Generative Identities (MetaHero)",
   "imageUrl": "https://i.seadn.io/gcs/files/273aea7e405f51fb0da17ab7fd568f18.png?w=500&auto=format",
