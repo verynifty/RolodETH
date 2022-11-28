@@ -3,6 +3,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gal"
   ]
 }

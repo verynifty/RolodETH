@@ -2,6 +2,7 @@
   "tags": [
     "hashmask-minter",
     "meebit-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-fingerprints"
   ]
 }
