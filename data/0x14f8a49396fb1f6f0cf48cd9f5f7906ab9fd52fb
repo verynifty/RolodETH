@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

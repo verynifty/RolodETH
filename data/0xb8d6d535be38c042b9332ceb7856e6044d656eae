@@ -9,6 +9,7 @@
     "snapshot-voter-arbitrumtools",
     "snapshot-voter-arbitrumweb3",
     "snapshot-voter-koba777",
-    "snapshot-voter-vapornodes"
+    "snapshot-voter-vapornodes",
+    "snapshot-voter-stgdao"
   ]
 }

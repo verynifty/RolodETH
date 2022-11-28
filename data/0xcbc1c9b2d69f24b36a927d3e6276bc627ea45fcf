@@ -3,6 +3,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-derify",
     "snapshot-voter-oneordina2",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-stgdao"
   ]
 }

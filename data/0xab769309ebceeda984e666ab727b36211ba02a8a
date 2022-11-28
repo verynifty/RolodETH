@@ -9,6 +9,8 @@
     "snapshot-voter-baebaecafe",
     "snapshot-voter-gal",
     "snapshot-voter-balancer",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-mail3",
+    "snapshot-voter-stgdao"
   ]
 }

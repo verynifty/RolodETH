@@ -19,6 +19,8 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-dongdo",
+    "snapshot-voter-ybaby"
   ]
 }

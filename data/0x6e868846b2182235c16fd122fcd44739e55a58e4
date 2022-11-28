@@ -3,6 +3,7 @@
     "snapshot-voter-beets",
     "snapshot-voter-gmx",
     "snapshot-voter-beefydao",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-stgdao"
   ]
 }

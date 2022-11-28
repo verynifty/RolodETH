@@ -4,6 +4,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave"
   ]
 }

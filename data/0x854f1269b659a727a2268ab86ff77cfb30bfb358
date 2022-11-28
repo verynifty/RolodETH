@@ -11,7 +11,8 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-balancer",
     "snapshot-voter-redactedcartel",
-    "snapshot-voter-neworderdao-xyz"
+    "snapshot-voter-neworderdao-xyz",
+    "snapshot-voter-stgdao"
   ],
   "ens": "invictus369.eth"
 }

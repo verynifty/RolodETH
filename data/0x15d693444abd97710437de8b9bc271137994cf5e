@@ -13,6 +13,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

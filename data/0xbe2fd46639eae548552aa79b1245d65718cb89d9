@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-anglegovernance",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

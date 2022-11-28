@@ -13,6 +13,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

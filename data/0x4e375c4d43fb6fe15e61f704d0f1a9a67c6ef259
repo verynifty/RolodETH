@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3",
+    "snapshot-voter-stgdao"
   ]
 }

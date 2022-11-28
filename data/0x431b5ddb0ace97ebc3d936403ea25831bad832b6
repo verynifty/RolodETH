@@ -9,6 +9,9 @@
     "snapshot-voter-bestfork",
     "snapshot-voter-qidao",
     "snapshot-voter-cakevote",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-balancer",
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-spookyswap"
   ]
 }

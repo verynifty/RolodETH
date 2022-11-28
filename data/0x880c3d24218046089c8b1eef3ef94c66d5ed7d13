@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-etherscoredao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-perp-temp-check"
   ]
 }

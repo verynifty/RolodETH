@@ -8,6 +8,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

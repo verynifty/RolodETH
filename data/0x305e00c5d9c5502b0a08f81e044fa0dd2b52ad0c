@@ -10,6 +10,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-subdaonetwork",
     "snapshot-voter-mail3",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-kwenta"
+    "snapshot-voter-kwenta",
+    "snapshot-voter-hashflowdao"
   ]
 }

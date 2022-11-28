@@ -5,6 +5,7 @@
     "meebit-minter",
     "mayc-minter",
     "snapshot-voter-foundersdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-meebitsdao"
   ]
 }

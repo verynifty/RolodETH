@@ -4,6 +4,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-uniswap",
     "opensea-user",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

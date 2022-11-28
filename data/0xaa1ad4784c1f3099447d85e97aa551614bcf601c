@@ -4,6 +4,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-elfi",
     "snapshot-voter-ens",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gal"
   ]
 }

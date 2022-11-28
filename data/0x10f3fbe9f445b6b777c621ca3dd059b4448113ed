@@ -5,6 +5,7 @@
     "snapshot-voter-53231323",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

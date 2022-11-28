@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-zerozero",
     "snapshot-voter-jbdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal"
   ]
 }

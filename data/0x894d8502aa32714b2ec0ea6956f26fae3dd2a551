@@ -3,6 +3,7 @@
     "loot-minter",
     "snapshot-voter-cakevote",
     "snapshot-voter-gearbox",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao"
   ]
 }

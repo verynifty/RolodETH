@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "snapshot-voter-qidao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hashflowdao"
   ]
 }

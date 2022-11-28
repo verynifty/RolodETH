@@ -3,6 +3,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zerozero",
     "snapshot-voter-sismo",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aavegotchi"
   ]
 }

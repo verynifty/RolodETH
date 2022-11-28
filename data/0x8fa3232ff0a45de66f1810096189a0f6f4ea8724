@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-mavxyz"
   ]
 }

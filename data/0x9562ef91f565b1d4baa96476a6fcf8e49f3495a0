@@ -10,6 +10,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-mavxyz"
   ]
 }

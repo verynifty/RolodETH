@@ -3,6 +3,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gal"
   ]
 }

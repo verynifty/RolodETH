@@ -14,7 +14,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "active01.eth"
 }

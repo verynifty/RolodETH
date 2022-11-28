@@ -13,6 +13,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-gnosis",
     "snapshot-voter-safe",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-ybaby"
   ]
 }

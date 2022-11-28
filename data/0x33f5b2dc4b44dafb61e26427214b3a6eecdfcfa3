@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -11,6 +11,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-hashflowdao"
   ]
 }

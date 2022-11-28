@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-dropsdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-mail3"
   ]
 }

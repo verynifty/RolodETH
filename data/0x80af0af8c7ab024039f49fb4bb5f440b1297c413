@@ -6,7 +6,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "aavedao.eth"
 }

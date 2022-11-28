@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-piedao",
     "snapshot-voter-bestfork",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-ybaby"
   ]
 }

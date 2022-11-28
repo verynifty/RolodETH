@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gal"
   ]
 }

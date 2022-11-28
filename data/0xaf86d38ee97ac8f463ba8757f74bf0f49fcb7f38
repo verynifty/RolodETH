@@ -7,6 +7,7 @@
     "snapshot-voter-691800",
     "snapshot-voter-arbitrumtools",
     "snapshot-voter-arbitrumweb3",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-zksnap"
   ]
 }

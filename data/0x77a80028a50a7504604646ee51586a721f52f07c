@@ -1,7 +1,11 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ],
   "name": "Sybil Delegate: yuancj"
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-apecoin",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

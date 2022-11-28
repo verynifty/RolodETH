@@ -15,6 +15,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-kwenta",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-ybaby"
   ]
 }
