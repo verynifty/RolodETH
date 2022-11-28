@@ -5,6 +5,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gal"
   ]
 }

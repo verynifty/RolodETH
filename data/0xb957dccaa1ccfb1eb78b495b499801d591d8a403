@@ -9,6 +9,7 @@
     "snapshot-voter-sdbal",
     "snapshot-voter-dfx",
     "snapshot-voter-pitchdeployer",
-    "snapshot-voter-sdangle"
+    "snapshot-voter-sdangle",
+    "snapshot-voter-stgdao"
   ]
 }

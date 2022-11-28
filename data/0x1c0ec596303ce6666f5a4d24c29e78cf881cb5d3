@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-goldfinch",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

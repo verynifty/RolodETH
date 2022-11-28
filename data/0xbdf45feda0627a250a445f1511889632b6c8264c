@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-mail3"
   ]
 }

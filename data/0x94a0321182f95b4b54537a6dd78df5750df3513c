@@ -5,6 +5,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-ilv"
   ]
 }

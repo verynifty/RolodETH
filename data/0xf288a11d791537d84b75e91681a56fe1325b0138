@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-opcollective",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave"
   ]
 }

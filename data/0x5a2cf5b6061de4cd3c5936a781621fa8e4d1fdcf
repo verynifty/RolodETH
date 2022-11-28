@@ -6,6 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-lido-snapshot",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-aave"
   ]
 }

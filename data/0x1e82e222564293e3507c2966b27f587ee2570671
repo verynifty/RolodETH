@@ -4,6 +4,7 @@
     "azuki-minter",
     "moonbird-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao"
   ]
 }

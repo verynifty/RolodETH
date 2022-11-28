@@ -3,6 +3,7 @@
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-venus-xvs"
+    "snapshot-voter-venus-xvs",
+    "snapshot-voter-gal"
   ]
 }

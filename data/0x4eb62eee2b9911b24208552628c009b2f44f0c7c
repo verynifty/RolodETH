@@ -3,6 +3,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
   ]
 }

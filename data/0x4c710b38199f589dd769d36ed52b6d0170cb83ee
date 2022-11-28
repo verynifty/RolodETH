@@ -12,6 +12,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gal"
   ],
   "ens": "vlad98v.eth"
 }

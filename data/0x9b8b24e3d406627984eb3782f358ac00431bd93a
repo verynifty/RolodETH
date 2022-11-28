@@ -5,6 +5,7 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-remix-dao"
   ]
 }
