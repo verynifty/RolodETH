@@ -1,6 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-53231323"
+    "snapshot-voter-53231323",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }
