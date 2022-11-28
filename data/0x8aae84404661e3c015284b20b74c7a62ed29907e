@@ -8,6 +8,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-hashflowdao"
   ]
 }

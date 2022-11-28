@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "opensea-user",
-    "snapshot-voter-planckcatdao"
+    "snapshot-voter-planckcatdao",
+    "snapshot-voter-hashflowdao"
   ]
 }

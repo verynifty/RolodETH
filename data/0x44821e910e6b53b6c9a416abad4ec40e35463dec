@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-safe",
-    "snapshot-voter-dfkvote"
+    "snapshot-voter-dfkvote",
+    "snapshot-voter-hashflowdao"
   ]
 }

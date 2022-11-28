@@ -4,6 +4,7 @@
     "sudoswap-user",
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gal"
   ]
 }

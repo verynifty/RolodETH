@@ -4,6 +4,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-mail3"
   ]
 }

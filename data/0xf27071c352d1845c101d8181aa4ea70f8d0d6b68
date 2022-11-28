@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-cakevote",
     "snapshot-voter-toyes",
-    "snapshot-voter-optimismio"
+    "snapshot-voter-optimismio",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-stgdao"
   ]
 }

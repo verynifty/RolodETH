@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-cakevote"
   ]
 }

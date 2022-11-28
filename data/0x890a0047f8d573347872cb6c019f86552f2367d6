@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

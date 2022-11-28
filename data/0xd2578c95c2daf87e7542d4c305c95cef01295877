@@ -9,6 +9,7 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hashflowdao"
   ]
 }

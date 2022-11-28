@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-hashflowdao"
   ]
 }

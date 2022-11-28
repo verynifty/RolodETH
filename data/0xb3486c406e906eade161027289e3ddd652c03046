@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-safe"
+    "snapshot-voter-safe",
+    "snapshot-voter-gal"
   ]
 }

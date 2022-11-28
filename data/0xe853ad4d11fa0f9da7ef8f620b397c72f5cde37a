@@ -3,7 +3,8 @@
     "take-action",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gal"
   ],
   "name": "Multichain Hack Alert 3299"
 }

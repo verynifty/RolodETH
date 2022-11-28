@@ -11,6 +11,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-gnosis",
     "snapshot-voter-sismo",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

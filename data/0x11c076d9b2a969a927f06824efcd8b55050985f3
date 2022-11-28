@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mavxyz"
   ]
 }

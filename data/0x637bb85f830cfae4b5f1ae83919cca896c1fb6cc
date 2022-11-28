@@ -8,6 +8,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave"
   ]
 }

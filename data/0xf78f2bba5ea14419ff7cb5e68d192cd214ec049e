@@ -10,6 +10,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-hashflowdao"
   ]
 }

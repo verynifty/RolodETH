@@ -5,6 +5,7 @@
     "doodle-minter",
     "hashmask-minter",
     "otherdeed-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao"
   ]
 }

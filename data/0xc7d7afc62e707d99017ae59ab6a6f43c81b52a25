@@ -2,7 +2,9 @@
   "tags": [
     "take-action",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-53231323"
   ],
   "name": "Multichain Hack Alert 2816"
 }

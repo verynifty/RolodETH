@@ -4,6 +4,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gro-xyz",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hashflowdao"
   ]
 }

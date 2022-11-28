@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-ctcswap",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-ens",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-small-grants"
   ]
 }

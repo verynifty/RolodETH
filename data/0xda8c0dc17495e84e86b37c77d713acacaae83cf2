@@ -8,6 +8,7 @@
     "snapshot-voter-vestafinance",
     "snapshot-voter-sismo",
     "snapshot-voter-nation3",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-stgdao"
   ]
 }

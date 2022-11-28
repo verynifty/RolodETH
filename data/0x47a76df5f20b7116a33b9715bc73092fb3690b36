@@ -12,6 +12,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-daoge",
     "snapshot-voter-stgdao",
-    "snapshot-voter-snapshot-dcl"
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-hashflowdao"
   ]
 }

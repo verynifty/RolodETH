@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "contract-deployer",
     "snapshot-voter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ybaby"
   ]
 }

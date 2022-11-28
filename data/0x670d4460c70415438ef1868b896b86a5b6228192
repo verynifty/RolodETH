@@ -10,6 +10,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
     "opensea-user",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-hashflowdao"
   ]
 }

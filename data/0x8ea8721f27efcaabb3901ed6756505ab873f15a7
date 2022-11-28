@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-aavegotchi",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gotchivault"
   ]
 }
