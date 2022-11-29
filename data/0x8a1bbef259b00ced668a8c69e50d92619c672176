@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Habbo Avatars",
   "imageUrl": "https://i.seadn.io/gae/DL0wRno1hjuLgSuHKXrCobkRIswiN7C6daCJJUt-jl5t2kF8Lp-R4w6bgma9aNNGcttljZgCAZqXE8or3XiXNwYwjCeMVCrDLtPz41U?w=500&auto=format",
   "externalUrl": "https://nft.habbo.com/",
   "discordUrl": "https://discord.gg/habbo-nft",
   "twitterUsername": "HabboNFT",
-  "description": "Habbo Avatars is the first official NFT collection for Habbo made by Sulake. It consists of 11,600 unique, automatically generated, pixelated avatars that are manually curated by the Habbo art team. The avatars are NFTs and exist on the Ethereum blockchain.\n\nOwnership of an avatar will include ownership of a room in the upcoming, fully web3 version of Habbo Hotel: Habbo X.\n\nHabbo Portraits can be found here: https://opensea.io/collection/habbo-portraits. Portraits minting is closed."
+  "description": "Habbo Avatars is the first official NFT collection for Habbo made by Sulake. It consists of 11,600 unique, automatically generated, pixelated avatars that are manually curated by the Habbo art team. The avatars are NFTs and exist on the Ethereum blockchain.\n\nOwnership of an avatar will include ownership of a room in the upcoming, fully web3 version of Habbo Hotel: Habbo X.\n\nHabbo Portraits can be found here: https://opensea.io/collection/habbo-portraits. Portraits minting is closed.",
+  "erc721_symbol": "HABBO"
 }

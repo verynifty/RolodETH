@@ -3,7 +3,7 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "TS",
+  "erc20_symbol": "AS",
   "erc20_decimals": 18,
-  "name": "Titanium Shares"
+  "name": "Adamant Shares"
 }

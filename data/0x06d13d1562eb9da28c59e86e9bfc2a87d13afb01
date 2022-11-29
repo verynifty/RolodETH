@@ -4,5 +4,6 @@
     "moonbird-minter",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "zk-outcome.eth"
 }
