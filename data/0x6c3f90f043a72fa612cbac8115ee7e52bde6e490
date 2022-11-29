@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "LP 3pool Curve",
   "erc20_symbol": "3CRV",

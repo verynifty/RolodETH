@@ -41,7 +41,8 @@ RolodETH.prototype.cleanTag = function(tag) {
     return tag;
 }
 
-RolodETH.prototype.addProperty = async function (address, propertyName, value) {
+RolodETH.prototype.addProperty = async function (address, propertyName, value, overwrite = true) {
+    console.log(address, propertyName, value)
     if (value == null || value == "") {
         return;
     }
@@ -54,8 +55,10 @@ RolodETH.prototype.addProperty = async function (address, propertyName, value) {
         obj[propertyName] = value;
         this.kfs[nAddress] = obj;
     } else {
-        existing[propertyName] = value;
-        this.kfs[nAddress] = existing;
+        if (existing[propertyName] == null || overwrite) {
+            existing[propertyName] = value;
+            this.kfs[nAddress] = existing;
+        }
     }
 
 }
