@@ -14,5 +14,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-ybaby"
-  ]
+  ],
+  "ens": "zkman.eth"
 }

@@ -2,5 +2,6 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "0001111100000.eth"
 }
