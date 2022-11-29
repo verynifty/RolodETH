@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/0281bf1a2a8b54e1231a84d9b1d0fdf2.png?w=500&auto=format",
   "externalUrl": "https://www.adidas.com/metaverse",
   "twitterUsername": "indigo_herz",
-  "description": "Unveiling the genesis collection of adidas Virtual Gear. An eclectic mix of impossible silhouettes, tying together past and future, virtual and physical, communities and creators, culture and identity.\n\nRepresenting our first NFT collection of wearables, a new, interoperable product category “Virtual Gear”, accelerates our collective drive towards strengthening web3, and the adidas community-based, member-first, open metaverse pledge."
+  "description": "Unveiling the genesis collection of adidas Virtual Gear. An eclectic mix of impossible silhouettes, tying together past and future, virtual and physical, communities and creators, culture and identity.\n\nRepresenting our first NFT collection of wearables, a new, interoperable product category “Virtual Gear”, accelerates our collective drive towards strengthening web3, and the adidas community-based, member-first, open metaverse pledge.",
+  "erc721_symbol": "AVG"
 }

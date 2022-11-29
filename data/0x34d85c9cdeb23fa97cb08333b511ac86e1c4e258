@@ -10,5 +10,6 @@
   "externalUrl": "https://otherside.xyz",
   "discordUrl": "https://discord.gg/the-otherside",
   "twitterUsername": "othersidemeta",
-  "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams."
+  "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
+  "erc721_symbol": "OTHR"
 }

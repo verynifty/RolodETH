@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "Amm0x",
+  "erc20_decimals": 18,
+  "name": "Amm0x Token"
+}

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Yolo Dice",
   "imageUrl": "https://i.seadn.io/gae/MW0s2MCMjP2wFwvQo2TZb7xzAQQ6MIitpZvqUp1CqBohYNfYFiN-DSXvcQwJtMzKcINevLrb0c_Rmik-ojFGdpF_V4sn0VcyFlLV7g?w=500&auto=format",
   "externalUrl": "https://yolodice.xyz",
   "discordUrl": "https://discord.gg/88qyU9HPrv",
   "twitterUsername": "YoloDiceNFT",
-  "description": "Welcome to the great online game."
+  "description": "Welcome to the great online game.",
+  "erc721_symbol": "DICE"
 }

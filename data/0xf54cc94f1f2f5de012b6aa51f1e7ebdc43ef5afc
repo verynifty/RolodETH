@@ -10,5 +10,6 @@
   "externalUrl": "http://nanopass.io",
   "discordUrl": "https://discord.gg/nanoversehq",
   "twitterUsername": "nanoverseHQ",
-  "description": "//.5,555 virtual plots in the Nanoverse that also double as an early access token\n\n//.NANOPASSES give users one BLACK BOX a week in perpetuity"
+  "description": "//.5,555 virtual plots in the Nanoverse that also double as an early access token\n\n//.NANOPASSES give users one BLACK BOX a week in perpetuity",
+  "erc721_symbol": "NP"
 }

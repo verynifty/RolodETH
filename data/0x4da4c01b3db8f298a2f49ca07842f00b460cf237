@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Blue Banana Serum",
   "imageUrl": "https://i.seadn.io/gae/ZNmjrndjggTx1Jki8MxGaIbwV-1sW8i5Rm7obW_7_-Crm4JuYRAdkHLds1dfW9DGxwtMIg3EccY0ann8H4tW8iSKV93dsDJrBoqf?w=500&auto=format",
   "externalUrl": "https://www.alphakongsclub.com/",
   "discordUrl": "https://discord.gg/invite/alphakongsclub",
-  "description": "Get the mighty Blue Banana Serum to claim the Omega Kong in May. \n\nAn Exclusive Club of 8,888 Alpha Kongs, made by the lead visual artists behind Star Wars, Game of Thrones, Harry Potter, Pokémon and more.\n\nEarn daily yield and play games in a unique ecosystem that combines P2E, DeFi and NFTs.\n\nEnter the AKC ecosystem now. 🌐\n\nhttps://alphakongsclub.com/ecosystem\n\nActual owner count (12th April 2022) : 5200"
+  "description": "Get the mighty Blue Banana Serum to claim the Omega Kong in May. \n\nAn Exclusive Club of 8,888 Alpha Kongs, made by the lead visual artists behind Star Wars, Game of Thrones, Harry Potter, Pokémon and more.\n\nEarn daily yield and play games in a unique ecosystem that combines P2E, DeFi and NFTs.\n\nEnter the AKC ecosystem now. 🌐\n\nhttps://alphakongsclub.com/ecosystem\n\nActual owner count (12th April 2022) : 5200",
+  "erc721_symbol": "BBS"
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "natasta.eth"
 }

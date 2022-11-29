@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "Shibtoro",
+  "erc20_decimals": 9,
+  "name": "Shibtoro"
 }

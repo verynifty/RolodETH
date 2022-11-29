@@ -7,5 +7,6 @@
     "pudgy-pinguin-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xryan.eth"
 }

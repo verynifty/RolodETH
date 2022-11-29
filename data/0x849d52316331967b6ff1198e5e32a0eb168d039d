@@ -1,7 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "maker-vault-owner"
+    "maker-vault-owner",
+    "contract",
+    "proxy"
   ],
-  "name": "Gnosis: Active Treasury Management"
+  "name": "Gnosis: Active Treasury Management",
+  "proxy": "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
 }

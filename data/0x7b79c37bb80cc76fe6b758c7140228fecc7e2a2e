@@ -7,5 +7,6 @@
     "snapshot-voter-piedao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "rtree.eth"
 }

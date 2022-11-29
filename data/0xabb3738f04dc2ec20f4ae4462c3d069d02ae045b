@@ -10,5 +10,6 @@
   "externalUrl": "https://knownorigin.io",
   "discordUrl": "https://discord.gg/yqgnNyZ",
   "twitterUsername": "KnownOrigin_io",
-  "description": "Discover rare digital art and collect NFTs. \r\n\r\nSince Apr. 2018."
+  "description": "Discover rare digital art and collect NFTs. \r\n\r\nSince Apr. 2018.",
+  "erc721_symbol": "KODA"
 }

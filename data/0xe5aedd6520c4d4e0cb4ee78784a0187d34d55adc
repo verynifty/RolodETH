@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "herofang.eth"
 }

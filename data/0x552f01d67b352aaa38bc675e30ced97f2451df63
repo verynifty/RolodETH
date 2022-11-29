@@ -3,5 +3,6 @@
     "hashmask-minter",
     "meebit-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "gcan.eth"
 }

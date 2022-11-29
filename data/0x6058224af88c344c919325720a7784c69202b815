@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/3ea30328d3c8adfb074df6e25b4de188.png?w=500&auto=format",
   "externalUrl": "https://www.bearmarketbullies.io/",
   "discordUrl": "https://discord.gg/NDn43Kp779",
-  "description": "All Bear Market Bullies need a place to sleep during a down market. Caves are necessary to hibernate (stake) in order to receive future rewards and claims. It will also be the only way to receive future Bullies."
+  "description": "All Bear Market Bullies need a place to sleep during a down market. Caves are necessary to hibernate (stake) in order to receive future rewards and claims. It will also be the only way to receive future Bullies.",
+  "erc721_symbol": "CVS"
 }

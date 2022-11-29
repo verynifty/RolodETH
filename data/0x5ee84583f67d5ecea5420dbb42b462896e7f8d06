@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "PLSB",
+  "erc20_decimals": 12,
+  "name": "PulseBitcoin"
 }

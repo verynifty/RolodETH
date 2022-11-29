@@ -10,5 +10,6 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "hifox.eth"
 }

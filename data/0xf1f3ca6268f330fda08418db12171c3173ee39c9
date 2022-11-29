@@ -10,5 +10,6 @@
   "externalUrl": "http://zapper.fi",
   "discordUrl": "https://discord.gg/h6CGbuN",
   "twitterUsername": "zapper_fi",
-  "description": "This season builds on the success of Season 1 with an introduction to Zapperverse Lore and exciting new mechanisms including rarity levels, crafting, and Volts."
+  "description": "This season builds on the success of Season 1 with an introduction to Zapperverse Lore and exciting new mechanisms including rarity levels, crafting, and Volts.",
+  "erc721_symbol": "ZPR NFT"
 }

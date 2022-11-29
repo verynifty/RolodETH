@@ -4,5 +4,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "fuckgit.eth"
 }

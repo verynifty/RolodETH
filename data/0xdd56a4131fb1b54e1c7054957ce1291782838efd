@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Infernals NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/7d49cf26d64ec8491465679198c3b893.png?w=500&auto=format",
   "externalUrl": "https://linktr.ee/infernals",
   "discordUrl": "https://discord.gg/p3FyqWZeCH",
   "twitterUsername": "NFTInfernals",
-  "description": "We are apes. We are outlaws. We are 24x24px. We are free to mint. We are The Infernals.\n\nFrom a widely recognized but anonymous artist comes a collection of beautiful, true 24x24px avatars for your social media presences. The Infernals collection is made up of 4995 generative avatars and 5 Legendary 1/1s."
+  "description": "We are apes. We are outlaws. We are 24x24px. We are free to mint. We are The Infernals.\n\nFrom a widely recognized but anonymous artist comes a collection of beautiful, true 24x24px avatars for your social media presences. The Infernals collection is made up of 4995 generative avatars and 5 Legendary 1/1s.",
+  "erc721_symbol": "INFERNAL"
 }

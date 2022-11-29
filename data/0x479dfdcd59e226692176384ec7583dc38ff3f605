@@ -8,5 +8,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "kuzza.eth"
 }

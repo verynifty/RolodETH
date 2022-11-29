@@ -8,5 +8,6 @@
     "erc1155"
   ],
   "name": "OS Shared Storefront Collection",
-  "imageUrl": "https://openseauserdata.com/files/860b94bee079e3864d04849383d2b4d1.bin"
+  "imageUrl": "https://openseauserdata.com/files/860b94bee079e3864d04849383d2b4d1.bin",
+  "erc721_symbol": "OPENSTORE"
 }

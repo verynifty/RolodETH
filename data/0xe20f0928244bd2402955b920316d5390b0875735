@@ -7,5 +7,6 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "siaweb3.eth"
 }

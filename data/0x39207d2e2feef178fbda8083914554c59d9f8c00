@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "MultiPlanetary Inus",
   "erc20_symbol": "INUS",

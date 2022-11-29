@@ -1,6 +1,7 @@
 {
   "tags": [
-    "unicrypt"
+    "unicrypt",
+    "contract"
   ],
   "name": "Unicrypt : Token Vesting"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Plague NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/4577987a5ca45ca5118b2e31559ee4d1.jpg?w=500&auto=format",
   "externalUrl": "https://www.plaguenft.com/",
   "discordUrl": "https://discord.gg/7dXtP3hPzs",
   "twitterUsername": "ThePlagueNFT",
-  "description": "Almost 80% Staked | Nearly 4,000 Unique Holders | Join The Plague!\n\n“If you refuse to let them go, I will plague your whole country with frogs.”\n\nThe Frogs are Plaguing the NFT Space to fight for:\n\nThe decentralization of communication.\nThe decentralization of information.\nThe decentralization of money.\nThe decentralization of influence.\nThe decentralization of power.\nUltimately, the decentralization of opportunity."
+  "description": "Almost 80% Staked | Nearly 4,000 Unique Holders | Join The Plague!\n\n“If you refuse to let them go, I will plague your whole country with frogs.”\n\nThe Frogs are Plaguing the NFT Space to fight for:\n\nThe decentralization of communication.\nThe decentralization of information.\nThe decentralization of money.\nThe decentralization of influence.\nThe decentralization of power.\nUltimately, the decentralization of opportunity.",
+  "erc721_symbol": "FROG"
 }

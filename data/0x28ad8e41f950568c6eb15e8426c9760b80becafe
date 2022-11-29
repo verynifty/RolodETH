@@ -6,5 +6,6 @@
     "snapshot-voter-elfi",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "js974lin.eth"
 }

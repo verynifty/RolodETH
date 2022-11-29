@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Fire Card",
   "imageUrl": "https://openseauserdata.com/files/3f0abd0da94c843680256efd74d70e34.svg",
   "externalUrl": "https://www.joinfire.xyz/?utm_source=opensea",
   "discordUrl": "https://discord.gg/2ev3XajzFx",
   "twitterUsername": "_joinfire",
-  "description": "Our friend lost his Ape, so we built a tool that shows you a preview of what will enter and exit your wallet, before you sign a transaction.\n\nDownload it [here](https://chrome.google.com/webstore/detail/fire/kglcipoddmbniebnibibkghfijekllbl), mint an NFT, and actually know what you are signing before you ape into a project."
+  "description": "Our friend lost his Ape, so we built a tool that shows you a preview of what will enter and exit your wallet, before you sign a transaction.\n\nDownload it [here](https://chrome.google.com/webstore/detail/fire/kglcipoddmbniebnibibkghfijekllbl), mint an NFT, and actually know what you are signing before you ape into a project.",
+  "erc721_symbol": "FIRE"
 }

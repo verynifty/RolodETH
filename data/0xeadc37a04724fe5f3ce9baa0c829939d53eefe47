@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "plast73.eth"
 }

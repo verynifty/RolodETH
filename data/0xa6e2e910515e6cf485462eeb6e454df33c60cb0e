@@ -4,5 +4,6 @@
     "meebit-minter",
     "clonex-minter",
     "maker-vault-owner"
-  ]
+  ],
+  "ens": "nakamotosatoshi.eth"
 }

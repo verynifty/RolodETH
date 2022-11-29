@@ -10,5 +10,6 @@
   "externalUrl": "https://poobnft.com/",
   "discordUrl": "https://discord.gg/poobs",
   "twitterUsername": "poobsnft",
-  "description": "creativity goes a long way, but poobs can go further. Unlock the greatest utility known to man... your mind.  🖍"
+  "description": "creativity goes a long way, but poobs can go further. Unlock the greatest utility known to man... your mind.  🖍",
+  "erc721_symbol": "poobsnft"
 }

@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "li6668.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "orchid"
+    "orchid",
+    "contract"
   ],
   "name": "Orchid",
   "erc20_symbol": "OXT",

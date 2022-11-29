@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "tBONE",
+  "erc20_decimals": 18,
+  "name": "tBone Staked Bone ShibaSwap"
 }

@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/d8952ba88532e51cccd5d683ecb2d723.png?w=500&auto=format",
   "externalUrl": "https://ensmaxis.com",
   "twitterUsername": "ENSMaxisNFT",
-  "description": "**NO ROYALTIES COLLECTION!**\nENS Maxis is the first NFT collection that gives the diverse communities of ENS Domain holders a way to represent their love through their PFP and be a part of history.\nENS Maxis makes representing the Ethereum Naming Service personable and distinguishable. Sure some ENS domain names get a bit of notoriety here and there, but that's not the message the culture is here to convey. The ENS community is here to stay; we are more than just text-based domain PFPs. So, ENS Maxis was born."
+  "description": "**NO ROYALTIES COLLECTION!**\nENS Maxis is the first NFT collection that gives the diverse communities of ENS Domain holders a way to represent their love through their PFP and be a part of history.\nENS Maxis makes representing the Ethereum Naming Service personable and distinguishable. Sure some ENS domain names get a bit of notoriety here and there, but that's not the message the culture is here to convey. The ENS community is here to stay; we are more than just text-based domain PFPs. So, ENS Maxis was born.",
+  "erc721_symbol": "ENSMAXIS"
 }

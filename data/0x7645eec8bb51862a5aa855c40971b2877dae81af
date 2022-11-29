@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "LONDON GIFT by POB",
   "imageUrl": "https://i.seadn.io/gae/vLhzyu6MRPDr7NjDTA3l5F45iuI5yE0qOWuMJg_rNAfCtLXQUz2P5wEoW5xiUfpXrerEMcPDFE3Ze86ofnNP6vY3taCHKbSOPxvVmw?w=500&auto=format",
   "externalUrl": "https://london.pob.studio",
   "discordUrl": "https://discord.gg/pob",
   "twitterUsername": "LondonDAO",
-  "description": "Gifts for the bold minters of 15.59 GWEI. Each gift purchased with $LONDON, a social currency bonded to gas price. [london.pob.studio](https://london.pob.studio/)"
+  "description": "Gifts for the bold minters of 15.59 GWEI. Each gift purchased with $LONDON, a social currency bonded to gas price. [london.pob.studio](https://london.pob.studio/)",
+  "erc721_symbol": "GIFT"
 }

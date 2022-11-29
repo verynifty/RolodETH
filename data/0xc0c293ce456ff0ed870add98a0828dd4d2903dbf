@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "aura-finance"
+    "aura-finance",
+    "contract"
   ],
   "name": "Aura: AURA Token",
   "erc20_symbol": "AURA",
