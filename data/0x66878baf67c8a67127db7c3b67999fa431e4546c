@@ -6,6 +6,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective",
     "snapshot-voter-safe",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox"
   ]
 }

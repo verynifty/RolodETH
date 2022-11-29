@@ -9,6 +9,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gnosis",
     "snapshot-voter-gearbox",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

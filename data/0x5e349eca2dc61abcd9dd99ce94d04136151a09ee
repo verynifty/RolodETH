@@ -4,6 +4,7 @@
     "art-goblers-minter",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-opcollective",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gitcoingov"
   ]
 }

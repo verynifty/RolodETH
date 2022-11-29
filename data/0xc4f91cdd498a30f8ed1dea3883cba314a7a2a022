@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -9,6 +9,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-comp-vote",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-aave"
   ]
 }

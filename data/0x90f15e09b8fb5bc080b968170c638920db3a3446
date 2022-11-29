@@ -10,7 +10,8 @@
     "snapshot-voter-beanstalkdao",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-neworderdao-xyz"
+    "snapshot-voter-neworderdao-xyz",
+    "snapshot-voter-stgdao"
   ],
   "ens": "0x6851.eth"
 }

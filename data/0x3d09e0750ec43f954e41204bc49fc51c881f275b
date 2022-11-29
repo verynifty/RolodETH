@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-cakevote",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-sismo"
   ]
 }

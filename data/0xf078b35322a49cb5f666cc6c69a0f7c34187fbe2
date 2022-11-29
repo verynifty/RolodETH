@@ -7,6 +7,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
     "snapshot-voter-apecoin",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-ybaby"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "alptugyaman.eth"
 }

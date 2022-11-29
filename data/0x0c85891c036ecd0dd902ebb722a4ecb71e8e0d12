@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "snapshot-voter-yam",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

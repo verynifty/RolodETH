@@ -5,11 +5,11 @@ const rpcs = [
     
   ]
 
-const scraper = new Scraper("http://localhost:3000");
+const scraper = new Scraper("https://eth-mainnet.g.alchemy.com/v2/YViRFlzFSftOMSgTV6oTNTOcDH3EnD2a");
 
 (async () => {
     let latestBlock = await scraper.provider.getBlockNumber();
     console.log(latestBlock)
-    await scraper.scrapeBlocks(RolodETH, latestBlock - 100, latestBlock)
+    await scraper.scrapeBlocks(RolodETH, latestBlock - 2, latestBlock)
 
 })();

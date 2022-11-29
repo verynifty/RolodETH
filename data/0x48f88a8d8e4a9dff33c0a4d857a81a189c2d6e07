@@ -7,6 +7,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-1inch",
     "snapshot-voter-uniswap",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gal"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-gearbox",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave"
   ]
 }

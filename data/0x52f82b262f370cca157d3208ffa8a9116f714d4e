@@ -1,6 +1,7 @@
 {
   "tags": [
     "azuki-minter",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-aave"
   ]
 }

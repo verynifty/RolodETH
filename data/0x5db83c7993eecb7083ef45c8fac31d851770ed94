@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-people-dao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-nftfinance"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-yearn",
     "snapshot-voter-sushigov",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hatdao",
+    "snapshot-voter-gearbox"
   ]
 }

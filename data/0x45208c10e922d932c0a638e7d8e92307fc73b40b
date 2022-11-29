@@ -9,6 +9,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gal"
   ]
 }

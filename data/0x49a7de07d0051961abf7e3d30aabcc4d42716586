@@ -11,6 +11,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-sismo"
   ]
 }

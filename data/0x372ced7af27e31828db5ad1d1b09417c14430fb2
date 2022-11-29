@@ -4,7 +4,8 @@
     "otherdeed-minter",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-astarprince"
   ],
   "ens": "fuckwar.eth"
 }

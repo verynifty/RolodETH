@@ -15,6 +15,7 @@
     "snapshot-voter-rugcommunity",
     "sudoswap-user",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap"
   ]
 }

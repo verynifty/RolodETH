@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mini KOYE",
   "imageUrl": "https://i.seadn.io/gcs/files/afe3e8b8d0e478d9ca7618fefa10490e.png?w=500&auto=format",

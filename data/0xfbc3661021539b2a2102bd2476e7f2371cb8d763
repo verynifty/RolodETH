@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alpha Mutants - First Class",
   "imageUrl": "https://i.seadn.io/gcs/files/c8ba7ca3fe5f4cfe476eb94a853d3d0e.png?w=500&auto=format",

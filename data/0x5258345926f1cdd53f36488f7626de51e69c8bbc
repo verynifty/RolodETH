@@ -4,6 +4,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-mail3"
   ]
 }

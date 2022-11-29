@@ -8,5 +8,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "cryptoaura.eth"
 }

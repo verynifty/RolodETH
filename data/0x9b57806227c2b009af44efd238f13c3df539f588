@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-safe",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-sismo"
   ]
 }

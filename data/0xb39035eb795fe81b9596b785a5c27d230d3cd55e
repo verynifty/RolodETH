@@ -6,6 +6,7 @@
     "snapshot-voter-bestfork",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ]
 }

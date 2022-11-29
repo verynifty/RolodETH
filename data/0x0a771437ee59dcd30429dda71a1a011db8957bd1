@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox"
   ]
 }

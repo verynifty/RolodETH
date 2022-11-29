@@ -7,6 +7,7 @@
     "snapshot-voter-1inch",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-olympusdao"
   ]
 }

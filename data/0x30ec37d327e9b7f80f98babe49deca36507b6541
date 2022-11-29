@@ -2,6 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-sismo",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave",
+    "snapshot-voter-gearbox"
   ]
 }

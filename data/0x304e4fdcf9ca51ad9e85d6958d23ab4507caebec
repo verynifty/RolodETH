@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-stgdao"
   ],
   "ens": "ethyu.eth"
 }

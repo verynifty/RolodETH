@@ -5,6 +5,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-paraswap-dao",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo"
   ]
 }

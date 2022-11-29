@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aavegotchi"
   ]
 }

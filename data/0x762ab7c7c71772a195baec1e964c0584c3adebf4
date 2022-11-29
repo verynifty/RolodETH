@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
-    "snapshot-voter-leverageinu"
+    "snapshot-voter-leverageinu",
+    "snapshot-voter-mail3",
+    "snapshot-voter-stgdao"
   ]
 }

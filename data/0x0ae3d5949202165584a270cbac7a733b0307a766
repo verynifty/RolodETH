@@ -6,6 +6,7 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gearbox"
   ]
 }

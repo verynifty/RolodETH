@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NIJI NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/c0ade667365718bf32df83b1dbd8a332.jpg?w=500&auto=format",

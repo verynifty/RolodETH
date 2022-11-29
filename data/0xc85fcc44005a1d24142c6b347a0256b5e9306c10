@@ -11,6 +11,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-sismo",
+    "snapshot-voter-gearbox"
   ]
 }
