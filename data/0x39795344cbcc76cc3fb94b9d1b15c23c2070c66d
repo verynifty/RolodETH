@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Seigniorage Shares",
   "erc20_symbol": "SHARE",
   "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/12306/thumb/logo_%281%29.png?1607658707"
+  "imageURL": "https://assets.coingecko.com/coins/images/12306/thumb/logo_%281%29.png?1607658707",
+  "proxy": "0x7922e1f87883b739a315b52ecad22e611abbd847"
 }

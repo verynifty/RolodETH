@@ -2,6 +2,9 @@ const { ethers } = require("ethers");
 const { SuperProvider } = require("ethers-super-provider")
 const proxyDetection = require('evm-proxy-detection');
 const AbiFunctions = require("abi-decode-functions");
+const ERC20ABI = require('../abis/ERC20.json')
+const ERC721ABI = require('../abis/ERC721.json');
+const RolodETH = require("../RolodETH");
 function RoloScraper(rpcUrl) {
     if (Array.isArray(rpcUrl)) {
         this.provider = new SuperProvider(rpcUrl.map((url) => new ethers.providers.JsonRpcProvider(url)))
@@ -104,7 +107,22 @@ RoloScraper.prototype.scrapeAddress = async function (rolodeth, address) {
         rolodeth.addTag(address, "contract");
         let detected = await this.detectERC(address, code);
         for (const tag of detected) {
-            rolodeth.addTag(address, tag);
+            try {
+                if (tag == "erc20") {
+                    let contract = new ethers.Contract(address, ERC20ABI, this.provider);
+                    let symbol = await contract.symbol()
+                    let name = await contract.name()
+                    let decimals = await contract.decimals()
+
+                    RolodETH.addProperty(address, "erc20_symbol", symbol);
+                    RolodETH.addProperty(address, "erc20_decimals", decimals)
+                    RolodETH.addProperty(address, "name", name)
+                }
+                rolodeth.addTag(address, tag);
+            } catch (error) {
+                
+            }
+           
         }
         console.log(detected)
         let provider = this.provider

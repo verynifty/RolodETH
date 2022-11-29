@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yearn",
     "snapshot-voter-swerve"
-  ]
+  ],
+  "ens": "cryptid.eth"
 }

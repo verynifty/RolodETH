@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Playcent: PCNT Token",
   "erc20_symbol": "PCNT",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14335/thumb/1_B5bFcgBld5poUj_c-_K1Jw.png?1615444831"
+  "imageURL": "https://assets.coingecko.com/coins/images/14335/thumb/1_B5bFcgBld5poUj_c-_K1Jw.png?1615444831",
+  "proxy": "0x45b337e8f0f36e8d69c0d1242efead64d1f31972"
 }

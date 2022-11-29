@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mutant Ape Militia",
   "imageUrl": "https://i.seadn.io/gcs/files/16ba69f58b6e933e5a42c5c705d37492.jpg?w=500&auto=format",

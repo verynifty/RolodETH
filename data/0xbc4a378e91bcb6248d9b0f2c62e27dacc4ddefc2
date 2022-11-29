@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "liusjhd.eth"
 }
