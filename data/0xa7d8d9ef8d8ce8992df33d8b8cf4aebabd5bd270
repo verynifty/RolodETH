@@ -4,5 +4,6 @@
     "contract",
     "erc721"
   ],
-  "name": "Art Blocks: BLOCKS Token"
+  "name": "Art Blocks: BLOCKS Token",
+  "erc721_symbol": "BLOCKS"
 }

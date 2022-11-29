@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Weirdos: Battle Royale",
   "imageUrl": "https://i.seadn.io/gae/8sddAN9FeHQp2THQjaYoLQvjogaYEDxNpqwWXwU3hdmU3eEol9xR3Bp7LB1Lq-lF4CrwX02ZaGpSYSi4_Q_VPdJlvRrQFmZ78L8sjg?w=500&auto=format",
   "externalUrl": "https://theweirdos.com/",
   "twitterUsername": "TheWeirdosNFT",
-  "description": "The Weirdos: Battle Royale is a collection of 9272 Weirdos. Two groups at war, divided into 7 factions each. Your Clone Weirdo serves as your key to the Weirdoverse, and not to some kind of cult."
+  "description": "The Weirdos: Battle Royale is a collection of 9272 Weirdos. Two groups at war, divided into 7 factions each. Your Clone Weirdo serves as your key to the Weirdoverse, and not to some kind of cult.",
+  "erc721_symbol": "WEIRDO"
 }

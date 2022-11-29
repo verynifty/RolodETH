@@ -114,17 +114,17 @@ RoloScraper.prototype.scrapeAddress = async function (rolodeth, address) {
                     let name = await contract.name()
                     let decimals = await contract.decimals()
 
-                    rolodETH.addProperty(address, "erc20_symbol", symbol, false);
-                    rolodETH.addProperty(address, "erc20_decimals", decimals, false)
-                    rolodETH.addProperty(address, "name", name, false)
+                    rolodeth.addProperty(address, "erc20_symbol", symbol, false);
+                    rolodeth.addProperty(address, "erc20_decimals", decimals, false)
+                    rolodeth.addProperty(address, "name", name, false)
                 } else if (tag == "erc721" || tag == "erc1155") {
-                    let contract = new ethers.Contract(address, ERC721, this.provider);
+                    let contract = new ethers.Contract(address, ERC721ABI, this.provider);
                     try {
                         // Support is optional
                         let name = await contract.name();
                         let symbol = await contract.symbol()
-                        rolodETH.addProperty(address, "erc721_symbol", symbol, false);
-                        rolodETH.addProperty(address, "name", name, false)
+                        rolodeth.addProperty(address, "erc721_symbol", symbol, false);
+                        rolodeth.addProperty(address, "name", name, false)
                     } catch (error) {
                         
                     }

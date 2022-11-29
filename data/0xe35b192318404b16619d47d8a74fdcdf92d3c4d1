@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "plankzen.eth"
 }

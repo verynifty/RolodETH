@@ -16,5 +16,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-ens",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "poomink.eth"
 }

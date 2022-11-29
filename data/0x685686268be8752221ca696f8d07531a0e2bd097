@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "STAPLEVERSE - HOOD SQUAD - PHASE 2 of 3",
   "imageUrl": "https://i.seadn.io/gae/JnnMQtzi-YZWz-u6ED3O20FGPg5C6ePCuERRtHAkVSomWrPga23r9FgYaXfheutSD5lc9bE2elyTLI71iMjHvVZuK_5mv-TQIaLY1A?w=500&auto=format",
   "externalUrl": "https://esp.stapleverse.xyz/",
   "discordUrl": "https://discord.gg/stapleverse",
   "twitterUsername": "stapleverse",
-  "description": "The HOOD SQUAD is one of three NFTs released in STAPLEVERSE Chapter One: EMPIRE STAPLE PIGEONZ. The number of PIGEONZ is determined by the number of FEED that is TOSSED, with a potential collection size of 6,000 unique PIGEONZ.\n\nAre you ready to catch a PIGEON?\n\nSee whats happening in the POOP GANG: https://opensea.io/collection/stapleverse-poop-gang\nCheck out the FEED CLAN: https://opensea.io/collection/stapleverse-feed-clan"
+  "description": "The HOOD SQUAD is one of three NFTs released in STAPLEVERSE Chapter One: EMPIRE STAPLE PIGEONZ. The number of PIGEONZ is determined by the number of FEED that is TOSSED, with a potential collection size of 6,000 unique PIGEONZ.\n\nAre you ready to catch a PIGEON?\n\nSee whats happening in the POOP GANG: https://opensea.io/collection/stapleverse-poop-gang\nCheck out the FEED CLAN: https://opensea.io/collection/stapleverse-feed-clan",
+  "proxy": "0x4c6785d1364864e56d6255722b23305b4b5894d2"
 }

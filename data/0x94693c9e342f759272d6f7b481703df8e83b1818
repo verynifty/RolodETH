@@ -10,5 +10,6 @@
   "externalUrl": "https://castaways.com",
   "discordUrl": "https://discord.gg/castaways",
   "twitterUsername": "castaways_gg",
-  "description": "The third NFT collection for Castaways by Branch.\r\n\r\nAirdropped on November 15th to the top 10,000 active players in the Castaways seas, treasure chests will be burnable upon the launch of the Homestead Update for prizes ranging from NFTs from our past collections, in-game items, and more!"
+  "description": "The third NFT collection for Castaways by Branch.\r\n\r\nAirdropped on November 15th to the top 10,000 active players in the Castaways seas, treasure chests will be burnable upon the launch of the Homestead Update for prizes ranging from NFTs from our past collections, in-game items, and more!",
+  "erc721_symbol": "TC"
 }
