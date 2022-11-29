@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Apocalyptic Ape Labs",
   "imageUrl": "https://i.seadn.io/gae/0XGxAWQd9ooOYTyLT-3nI3PXKfSbeu0Qd7r_KS9VV6aeVpbLPLxblsr0TjAVacQslkwtDzrenJX5IncVYz34q7PAk01BvYZoJ2Qc8-Q?w=500&auto=format",
   "externalUrl": "https://apocalypticapes.com/",
   "discordUrl": "https://discord.gg/apes",
   "twitterUsername": "Fityeth",
-  "description": "\nAlso Available: [Apocalyptic Apes](https://opensea.io/collection/apocalyptic-apes) & [Apocalyptic Queen Apes](https://opensea.io/collection/queenapes) \n\nApocalyptic Juices give unique utility to our holders by introducing revolutionary breeding functionality. 1 x Juice for every AAPE, with random assignment and reveal. Juices allow breeding and other future utility. \n\n Banana juice: Breeds one clean Baby AApe. Apocalyptic Juice: Breeds one Mutant Baby AApe. Krypto Juice: Breeds 2, 3 or 4 Baby AApes. Tonic 22: Can breed more than once. Baby AApes have Rare traits. Genesis AApe gains warrior traits. IRL custom merch rewards & meetup."
+  "description": "\nAlso Available: [Apocalyptic Apes](https://opensea.io/collection/apocalyptic-apes) & [Apocalyptic Queen Apes](https://opensea.io/collection/queenapes) \n\nApocalyptic Juices give unique utility to our holders by introducing revolutionary breeding functionality. 1 x Juice for every AAPE, with random assignment and reveal. Juices allow breeding and other future utility. \n\n Banana juice: Breeds one clean Baby AApe. Apocalyptic Juice: Breeds one Mutant Baby AApe. Krypto Juice: Breeds 2, 3 or 4 Baby AApes. Tonic 22: Can breed more than once. Baby AApes have Rare traits. Genesis AApe gains warrior traits. IRL custom merch rewards & meetup.",
+  "erc721_symbol": "AAJUICE"
 }

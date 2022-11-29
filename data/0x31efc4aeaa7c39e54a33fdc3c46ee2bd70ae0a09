@@ -1,7 +1,8 @@
 {
   "tags": [
     "bridge",
-    "dex"
+    "dex",
+    "contract"
   ],
   "name": "xPollinate: Transaction Manager"
 }

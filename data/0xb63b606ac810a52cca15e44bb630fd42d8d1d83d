@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "crypto-com"
+    "crypto-com",
+    "contract"
   ],
   "name": "Cryptocom",
   "erc20_symbol": "MCO",

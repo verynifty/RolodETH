@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "alchemist-coin"
+    "alchemist-coin",
+    "contract"
   ],
   "name": "Alchemist Coin: MIST Token",
   "erc20_symbol": "MIST",

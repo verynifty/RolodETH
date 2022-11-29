@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Thunderbirds International Rescue Club (FAB)",
   "imageUrl": "https://i.seadn.io/gcs/files/20ee8692081c08048a12853e050cab41.gif?w=500&auto=format",
   "externalUrl": "https://www.thunderbirdsclub.com/",
   "discordUrl": "https://discord.gg/thunderbirdsclub",
   "twitterUsername": "ThunderbirdsIRC",
-  "description": "**Thunderbirds: International Rescue Club**  is your ticket to the latest Web3 and Metaverse experience from Reality+ and ITV Studios. Take part in “Rescue Missions” that have a real-life impact on the charity. Use your personal randomly generated voxel character in The Sandbox as your avatar, and benefit from season 4 avatar holders' rewards in The Sandbox, along with so much more to come. Join the community and watch, as **Thunderbirds Are Go!** for a new generation!"
+  "description": "**Thunderbirds: International Rescue Club**  is your ticket to the latest Web3 and Metaverse experience from Reality+ and ITV Studios. Take part in “Rescue Missions” that have a real-life impact on the charity. Use your personal randomly generated voxel character in The Sandbox as your avatar, and benefit from season 4 avatar holders' rewards in The Sandbox, along with so much more to come. Join the community and watch, as **Thunderbirds Are Go!** for a new generation!",
+  "erc721_symbol": "FAB"
 }

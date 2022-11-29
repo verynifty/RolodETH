@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "krashor.eth"
 }

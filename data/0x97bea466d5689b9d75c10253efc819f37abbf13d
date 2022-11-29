@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Divine Anarchy - Spirit Animals",
   "imageUrl": "https://i.seadn.io/gcs/files/bc8a1e53fa64edafc94b665a62ab5631.png?w=500&auto=format",
   "externalUrl": "https://www.divineanarchy.com/",
   "discordUrl": "https://discord.gg/divineanarchy",
   "twitterUsername": "divineanarchy",
-  "description": "From Divine Anarchy comes the Official Spirit Animals Collection!\r\n\r\n\r\nThe Spirit Animal Collection consists of over 2,510 unique NFTS that will assist you on your quests and more within the world of Divine Anarchy. This collection comes with numerous traits and animals to choose from with Bears, Dragons, Horses, Stags, Tigers, Toads, Wolves, and our most legendary of all the SHINIGAMI! \r\n\r\n\r\nOriginal Collection: https://opensea.io/collection/divineanarchy\r\n\r\nWasteland Collection: https://opensea.io/collection/da-wasteland"
+  "description": "From Divine Anarchy comes the Official Spirit Animals Collection!\r\n\r\n\r\nThe Spirit Animal Collection consists of over 2,510 unique NFTS that will assist you on your quests and more within the world of Divine Anarchy. This collection comes with numerous traits and animals to choose from with Bears, Dragons, Horses, Stags, Tigers, Toads, Wolves, and our most legendary of all the SHINIGAMI! \r\n\r\n\r\nOriginal Collection: https://opensea.io/collection/divineanarchy\r\n\r\nWasteland Collection: https://opensea.io/collection/da-wasteland",
+  "erc721_symbol": "DAS"
 }

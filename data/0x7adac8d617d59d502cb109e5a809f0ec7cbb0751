@@ -3,5 +3,6 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-aavegotchi"
-  ]
+  ],
+  "ens": "cortezs.eth"
 }

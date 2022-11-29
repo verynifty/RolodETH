@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lumens by Vibes + Logic",
   "imageUrl": "https://i.seadn.io/gcs/files/821c443bba3796d343cae4a5b2698666.png?w=500&auto=format",
   "externalUrl": "https://lumens.vibesandlogic.com/",
   "discordUrl": "https://discord.gg/invite/lumensnft",
   "twitterUsername": "LumensNFT",
-  "description": "It is said the Lumens have healing powers. That they can bring new life to music with cinematic color and mesmerizing light, and immerse you in a better state of mind through a new visual dimension of sound.\r\n\r\nEach Lumen is your access pass to Vibes + Logic’s underground web3 music experiences—cinematic visuals, metaverse prototypes, smart-home beta integrations, and PSD2NFT builder/importer utility.\r\n\r\nVisit [lumens.vibesandlogic.com](https://lumens.vibesandlogic.com) for more details."
+  "description": "It is said the Lumens have healing powers. That they can bring new life to music with cinematic color and mesmerizing light, and immerse you in a better state of mind through a new visual dimension of sound.\r\n\r\nEach Lumen is your access pass to Vibes + Logic’s underground web3 music experiences—cinematic visuals, metaverse prototypes, smart-home beta integrations, and PSD2NFT builder/importer utility.\r\n\r\nVisit [lumens.vibesandlogic.com](https://lumens.vibesandlogic.com) for more details.",
+  "erc721_symbol": "LUMEN"
 }

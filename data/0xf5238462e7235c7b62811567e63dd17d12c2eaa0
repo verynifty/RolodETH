@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "cache-gold"
+    "cache-gold",
+    "contract"
   ],
   "name": "CACHEGold",
   "erc20_symbol": "CGT",

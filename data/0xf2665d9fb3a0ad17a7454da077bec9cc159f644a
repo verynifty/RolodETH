@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chibi Lolita Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/758fd9dab26fb2ce707720c9139fbca1.gif?w=500&auto=format",
   "externalUrl": "https://www.flowerlolita.io/",
   "discordUrl": "https://discord.gg/flowerlolita",
   "twitterUsername": "flowerlolitanft",
-  "description": "Welcome to Chibi Lolita, a collection of 12,222 generated NFTs on the Ethereum blockchain.\n\nChibi Lolita is Japan's first donation-based free mint NFT project.\nCreator Fees 10% will be donated to environmental and educational organizations."
+  "description": "Welcome to Chibi Lolita, a collection of 12,222 generated NFTs on the Ethereum blockchain.\n\nChibi Lolita is Japan's first donation-based free mint NFT project.\nCreator Fees 10% will be donated to environmental and educational organizations.",
+  "erc721_symbol": "CHIBILOLITA"
 }

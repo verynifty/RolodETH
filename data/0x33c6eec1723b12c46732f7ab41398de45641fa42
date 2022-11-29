@@ -10,5 +10,6 @@
   "externalUrl": "https://market.ledger.com/",
   "discordUrl": "https://discord.gg/Ledger",
   "twitterUsername": "Ledger",
-  "description": "[ Ledger ] Market is the most secure platform for artists and brands to release their NFTs, where Ledger customers can securely connect through Ledger Live and clear sign their transactions. For first access to exclusive collaborations, and Ledger hardware, software and services, become a [ Ledger ] Market Pass holder.\n\n\n[ L ] Market’s brand mark is a generative font with over two billion unique variations. It speaks to: 1) the massive awareness generative art and PFP projects have brought to blockchain technology, and 2) the advanced cryptography built into Ledger and [ Ledger ] Market’s DNA."
+  "description": "[ Ledger ] Market is the most secure platform for artists and brands to release their NFTs, where Ledger customers can securely connect through Ledger Live and clear sign their transactions. For first access to exclusive collaborations, and Ledger hardware, software and services, become a [ Ledger ] Market Pass holder.\n\n\n[ L ] Market’s brand mark is a generative font with over two billion unique variations. It speaks to: 1) the massive awareness generative art and PFP projects have brought to blockchain technology, and 2) the advanced cryptography built into Ledger and [ Ledger ] Market’s DNA.",
+  "erc721_symbol": "LMP"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CNPStudents",
   "imageUrl": "https://i.seadn.io/gcs/files/a9889a6d338f0848fd53756864bcc8b2.png?w=500&auto=format",
   "externalUrl": "https://web3youth.xyz/cnps/",
   "twitterUsername": "Web3Youth",
-  "description": "This NFT collection is fan art of CNP by YouthWeb3Lab Students\n\nCryptoNinja Partners Students (CNPS) is a 6,000 piece collection of CNP characters in various student forms.\n\nStudents can become a CNPS holder and interact with the students! Adults, relive your school days and have some fun!\n\nWeb site https://web3youth.xyz/cnps/"
+  "description": "This NFT collection is fan art of CNP by YouthWeb3Lab Students\n\nCryptoNinja Partners Students (CNPS) is a 6,000 piece collection of CNP characters in various student forms.\n\nStudents can become a CNPS holder and interact with the students! Adults, relive your school days and have some fun!\n\nWeb site https://web3youth.xyz/cnps/",
+  "erc721_symbol": "CNPS"
 }

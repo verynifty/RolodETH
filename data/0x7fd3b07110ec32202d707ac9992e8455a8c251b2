@@ -4,5 +4,6 @@
     "snapshot-voter-8848labs",
     "snapshot-voter-gmx",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "theegor.eth"
 }

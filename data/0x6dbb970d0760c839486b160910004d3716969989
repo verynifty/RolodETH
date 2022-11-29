@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "NNS: NFT Name Service",
   "imageUrl": "https://i.seadn.io/gcs/files/b2abbc6875bff2f162d086734fc2bdb8.png?w=500&auto=format",
   "externalUrl": "https://nft.space/",
   "discordUrl": "https://discord.gg/twitterscan",
-  "description": "NNS Has NFT Brand registered under U.S. Intellectual Property Protection and protected by law. Any request for the classification please contact @nftnameservice"
+  "description": "NNS Has NFT Brand registered under U.S. Intellectual Property Protection and protected by law. Any request for the classification please contact @nftnameservice",
+  "proxy": "0x6d816a0f50d45c9b6cac5c0248fdfef5481ba6f8"
 }

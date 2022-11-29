@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Fight Back Apes x Atari Attributes",
   "imageUrl": "https://i.seadn.io/gcs/files/08761ae1246b34cab6b6b2e227de2d71.png?w=500&auto=format",
   "externalUrl": "https://fightbackapes.daz3d.com/",
   "discordUrl": "https://discord.gg/invite/Daz3d",
-  "description": "The apes have been oppressed for too long, and now they’re fighting back! Fight Back Apes is a community-driven NFT comeback project created to “fight back” against one of the most historic rug pulls in NFT history: Evolved Apes. Don’t miss this exclusive presale chance to secure an Atari attribute for your Fight Back Ape avatar.  Each NFT held October 21, 2022 will be airdropped a mint pass for FBA. A collection by Daz 3D."
+  "description": "The apes have been oppressed for too long, and now they’re fighting back! Fight Back Apes is a community-driven NFT comeback project created to “fight back” against one of the most historic rug pulls in NFT history: Evolved Apes. Don’t miss this exclusive presale chance to secure an Atari attribute for your Fight Back Ape avatar.  Each NFT held October 21, 2022 will be airdropped a mint pass for FBA. A collection by Daz 3D.",
+  "proxy": "0xe8dd2ff0212f86d3197b4afdc6dac6ac47eb10ac"
 }

@@ -13,5 +13,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-spookyswap"
-  ]
+  ],
+  "ens": "crypto-enthusiast.eth"
 }

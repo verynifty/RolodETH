@@ -2,5 +2,6 @@
   "tags": [
     "azuki-minter",
     "hashmask-minter"
-  ]
+  ],
+  "ens": "mbrzy.eth"
 }

@@ -4,5 +4,7 @@
     "contract",
     "erc20"
   ],
-  "name": "Binance: BNB Token"
+  "name": "Binance: BNB Token",
+  "erc20_symbol": "BNB",
+  "erc20_decimals": 18
 }

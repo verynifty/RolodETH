@@ -8,5 +8,6 @@
   "name": "Meebits",
   "imageUrl": "https://i.seadn.io/gae/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0?w=500&auto=format",
   "discordUrl": "https://discord.com/invite/meebits",
-  "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain."
+  "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.",
+  "erc721_symbol": "⚇"
 }

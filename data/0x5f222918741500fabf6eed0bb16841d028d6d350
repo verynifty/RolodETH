@@ -6,5 +6,6 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "marcizadepompadur.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Gutter Merch Vault",
   "imageUrl": "https://i.seadn.io/gcs/files/c30760f1e0f7ad269b3f36f4c3c12c6d.gif?w=500&auto=format",
   "externalUrl": "https://guttercatgang.com/",
   "discordUrl": "https://discord.gg/guttercatgang",
-  "description": "Gutter Merch Vault is a collection of digi-physi merchandise created by the Gutter Cat Gang."
+  "description": "Gutter Merch Vault is a collection of digi-physi merchandise created by the Gutter Cat Gang.",
+  "proxy": "0xa664700c3964ad7b23b74ddabebe1525a29f0e92"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://www.10kworldcup.com/",
   "discordUrl": "https://discord.gg/10KWorldCup",
   "twitterUsername": "10KWorldCup",
-  "description": "10K World Cup is the first Social Game NFT collection for Sports fans all over the world. 200+ BAYC Captains have joined to cheer for their favorite teams.\n\nEvery NFT has its own nationality, pick & support your Nation by HOLDing & SHOWing your NFTs on Social platform."
+  "description": "10K World Cup is the first Social Game NFT collection for Sports fans all over the world. 200+ BAYC Captains have joined to cheer for their favorite teams.\n\nEvery NFT has its own nationality, pick & support your Nation by HOLDing & SHOWing your NFTs on Social platform.",
+  "erc721_symbol": "10K World Cup"
 }

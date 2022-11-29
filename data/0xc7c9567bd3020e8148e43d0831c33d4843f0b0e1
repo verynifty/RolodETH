@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bud Light N3XT Collection",
   "imageUrl": "https://i.seadn.io/gae/KXy3MNmLJCq8Ded4nrlkcrC3cLCitr_jaKsN6_YyrGp8SxS9z30Qgw96oE46b91qLv5piulQz31lJhkQNQ56eGWZYtvGIeyqwI6DOg?w=500&auto=format",
   "externalUrl": "https://www.budlight.com/nft/",
   "discordUrl": "https://discord.gg/budlight",
   "twitterUsername": "budlight",
-  "description": "Introducing our first ever NFT drop – the Bud Light N3XT Collection. This collection is comprised of 12,722 generative tokens that celebrate innovation, community and the next generation of creators. Each NFT combines a two-part background with an icon that represents beer, culture, gaming, music, and entertainment.\r\n\r\nThis NFT is your key to the world of Bud Light NEXT, for all 21+ holders. Terms and Conditions apply. This includes exclusive voting rights on specific brand decisions. Craft a piece of history and decide on what's next.\r\n\r\nPlease HODL responsibly.\r\n\r\nAlways Enjoy Responsibly. © 2022 Anheuser-Busch InBev BUD LIGHT ® BEER, St. Louis, MO.\r\n\r\nTerms and Conditions: https://www.ab-inbev.com/nftterms/"
+  "description": "Introducing our first ever NFT drop – the Bud Light N3XT Collection. This collection is comprised of 12,722 generative tokens that celebrate innovation, community and the next generation of creators. Each NFT combines a two-part background with an icon that represents beer, culture, gaming, music, and entertainment.\r\n\r\nThis NFT is your key to the world of Bud Light NEXT, for all 21+ holders. Terms and Conditions apply. This includes exclusive voting rights on specific brand decisions. Craft a piece of history and decide on what's next.\r\n\r\nPlease HODL responsibly.\r\n\r\nAlways Enjoy Responsibly. © 2022 Anheuser-Busch InBev BUD LIGHT ® BEER, St. Louis, MO.\r\n\r\nTerms and Conditions: https://www.ab-inbev.com/nftterms/",
+  "erc721_symbol": "BUDLIGHTN3XT"
 }

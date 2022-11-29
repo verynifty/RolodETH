@@ -2,5 +2,7 @@
   "tags": [
     "contract",
     "erc721"
-  ]
+  ],
+  "erc721_symbol": "sFROG",
+  "name": "The Plague Staked"
 }

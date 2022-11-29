@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "vqdat7592.eth"
 }

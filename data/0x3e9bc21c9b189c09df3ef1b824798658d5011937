@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Linear Finance: LINA Token",
   "erc20_symbol": "LINA",

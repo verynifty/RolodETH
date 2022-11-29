@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/b940c3677c95a3f49a25023cbe70b796.png?w=500&auto=format",
   "externalUrl": "http://area54.io",
   "twitterUsername": "Area54Club",
-  "description": "Each of Ron English’s Area54 card packs contain 4 unique alien trading cards."
+  "description": "Each of Ron English’s Area54 card packs contain 4 unique alien trading cards.",
+  "erc721_symbol": "AP"
 }

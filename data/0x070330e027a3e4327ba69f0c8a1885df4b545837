@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-sismo",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "unicorrnmorris.eth"
 }

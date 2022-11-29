@@ -4,5 +4,6 @@
     "clonex-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "proportion.eth"
 }

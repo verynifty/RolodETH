@@ -3,5 +3,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "1HODLCLUB: Deployer"
+  "name": "1HODLCLUB: Deployer",
+  "ens": "1hodlclub.eth"
 }

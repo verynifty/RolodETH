@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "MorpheusInfrastructureToken",
   "erc20_symbol": "MITX",

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Yield App",
   "erc20_symbol": "YLD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13365/thumb/Google_Play_Store_Icon.png?1657012535"
+  "imageURL": "https://assets.coingecko.com/coins/images/13365/thumb/Google_Play_Store_Icon.png?1657012535",
+  "proxy": "0x3459de17141dee94b12ee5816ff9650c0a99b371"
 }

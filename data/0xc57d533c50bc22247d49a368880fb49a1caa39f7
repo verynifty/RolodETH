@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "PowerTrade Fuel",
   "erc20_symbol": "PTF",

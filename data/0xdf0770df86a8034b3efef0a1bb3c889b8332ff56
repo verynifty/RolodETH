@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "S*USDC",
+  "erc20_decimals": 6,
+  "name": "USD Coin-LP"
 }

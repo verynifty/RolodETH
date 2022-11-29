@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NounishCNP",
   "imageUrl": "https://i.seadn.io/gcs/files/1081cbfb30efec56051a8180b66757ca.gif?w=500&auto=format",
   "externalUrl": "https://twitter.com/nounishcnp",
-  "description": "NounishCNP is a 3,333-piece collection starring CryptoNinja sub-characters.   \nThis is a fan art project of CNP and Nouns by NounsDAOJAPAN members.\n\nOriginal Collections  \nCryptoNinja Partners　: https://opensea.io/collection/cryptoninjapartners  \nNouns　 : https://nouns.wtf  \n\n\\* NounishCNP introduces [ContractAllowList](https://github.com/masataka-eth/ContractAllowList) (only contracts on the list are allowed to execute setApprovalForAll) for anti-scam.  \nCurrently allowed marketplaces: Opensea, Rarible, LooksRare, X2X2, Blur, sudoswap"
+  "description": "NounishCNP is a 3,333-piece collection starring CryptoNinja sub-characters.   \nThis is a fan art project of CNP and Nouns by NounsDAOJAPAN members.\n\nOriginal Collections  \nCryptoNinja Partners　: https://opensea.io/collection/cryptoninjapartners  \nNouns　 : https://nouns.wtf  \n\n\\* NounishCNP introduces [ContractAllowList](https://github.com/masataka-eth/ContractAllowList) (only contracts on the list are allowed to execute setApprovalForAll) for anti-scam.  \nCurrently allowed marketplaces: Opensea, Rarible, LooksRare, X2X2, Blur, sudoswap",
+  "erc721_symbol": "NCNP"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MeoWomen-official",
   "imageUrl": "https://i.seadn.io/gae/SN3sv70593g-GyTpbIbKz7hU-KjTDnw2TJbhqf42BSR210Q2Eg1hSh570f5PAyGnypwH4Bsp9Ch1gj-F293Qi15-_n47BdGR7GHaagc?w=500&auto=format",
   "externalUrl": "http://meowomen.com",
   "discordUrl": "https://discord.gg/meowomen",
   "twitterUsername": "meowomen_nft",
-  "description": "MeoWomen is a women-led project which aims to build a platform, a platform which focus on tools and utilities to help the creators and makers to strive in the NFT space. \n\nWith the vision to disrupt the space, feminine figure is used to carries the messages  - breaking gender stereotypes for which \"builders and makers\" are mostly represented by male figures. \n\nHolders of MeoWomen NFT is the entrance to All-In-One NFT Analytic Platform, Meowish, and other NFT tools.\n\nhttp://meowomen.com"
+  "description": "MeoWomen is a women-led project which aims to build a platform, a platform which focus on tools and utilities to help the creators and makers to strive in the NFT space. \n\nWith the vision to disrupt the space, feminine figure is used to carries the messages  - breaking gender stereotypes for which \"builders and makers\" are mostly represented by male figures. \n\nHolders of MeoWomen NFT is the entrance to All-In-One NFT Analytic Platform, Meowish, and other NFT tools.\n\nhttp://meowomen.com",
+  "erc721_symbol": "MWM"
 }

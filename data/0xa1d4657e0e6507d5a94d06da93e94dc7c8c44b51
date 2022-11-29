@@ -10,5 +10,6 @@
   "externalUrl": "https://webb.game",
   "discordUrl": "https://discord.gg/worldwidewebb",
   "twitterUsername": "Worldwide_WEB3",
-  "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects. The game uses NFTs for in-game avatars, pets, lands, [NFT Items](https://opensea.io/collection/worldwidewebbitems)\n, and quests. Deployed with a build-first mentality by a group of crypto-native game developers, artists, coders, and marketers; rapidly pushing out new technologies and applications."
+  "description": "Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects. The game uses NFTs for in-game avatars, pets, lands, [NFT Items](https://opensea.io/collection/worldwidewebbitems)\n, and quests. Deployed with a build-first mentality by a group of crypto-native game developers, artists, coders, and marketers; rapidly pushing out new technologies and applications.",
+  "erc721_symbol": "WEBBLAND"
 }

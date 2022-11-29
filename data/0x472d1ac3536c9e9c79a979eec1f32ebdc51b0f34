@@ -3,5 +3,6 @@
     "snapshot-voter-koba777",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "regum.eth"
 }

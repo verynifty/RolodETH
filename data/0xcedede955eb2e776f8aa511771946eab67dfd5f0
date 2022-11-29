@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "It Was Always The Eyes by Tibout Shaik",
   "imageUrl": "https://i.seadn.io/gcs/files/4c33a1ce003843180c0357e210b0196e.gif?w=500&auto=format",
   "externalUrl": "https://256art.com/project/14",
   "discordUrl": "https://discord.gg/avPZxhPzYr",
   "twitterUsername": "Mint256ART",
-  "description": "It Was Always The Eyes is a series conveying the message of silent understanding. When you meet a person who’s been through a lot, I think quite often you can see the sentiment of their past in their eyes. Most of us protect ourselves by wearing a “mask” (some do so more strongly than others), but the eyes of a person barely ever deceive. It Was Always The Eyes, strips away that mask and focuses fully on just the eyes. Even in a deceptively simple art piece, the result is quite powerful. Somehow allowing a lot of emotions to come crashing through. Art is fully on chain."
+  "description": "It Was Always The Eyes is a series conveying the message of silent understanding. When you meet a person who’s been through a lot, I think quite often you can see the sentiment of their past in their eyes. Most of us protect ourselves by wearing a “mask” (some do so more strongly than others), but the eyes of a person barely ever deceive. It Was Always The Eyes, strips away that mask and focuses fully on just the eyes. Even in a deceptively simple art piece, the result is quite powerful. Somehow allowing a lot of emotions to come crashing through. Art is fully on chain.",
+  "proxy": "0x8cb738e7448a0aea7f3df2bfcdef834ee56b101b"
 }

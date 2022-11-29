@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "BestFriend Official",
   "imageUrl": "https://i.seadn.io/gcs/files/4c81e521ec35fe6bddabf979f9910d54.png?w=500&auto=format",
   "externalUrl": "http://bestfriendnft.com",
   "discordUrl": "https://discord.gg/BestFriend",
   "twitterUsername": "BestFriend",
-  "description": "Welcome to the BestFriend metaverse--where dreams turn into realities. A collection of 6,500 unique BestFriend NFTs with a goal to bring light to depression—to make a meaningful impact on web2, web3, and beyond. Your BestFriend is your digital identity. Represent the brand and community, just like how your Bestfriend NFT will represent you."
+  "description": "Welcome to the BestFriend metaverse--where dreams turn into realities. A collection of 6,500 unique BestFriend NFTs with a goal to bring light to depression—to make a meaningful impact on web2, web3, and beyond. Your BestFriend is your digital identity. Represent the brand and community, just like how your Bestfriend NFT will represent you.",
+  "proxy": "0xc2fd0a38e98ffa55baf121244da67077fc953fce"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "http://Mlagents.io",
   "discordUrl": "https://discord.gg/metalabsagency",
   "twitterUsername": "metalabs_agency",
-  "description": "META LABS NFT is your key to the world of Web3. We are here to accomplish what others cannot, and go where others haven’t dared to go. Becoming an MLAgent is the path into blockchain mastery, exclusivity, and opportunity. No matter your background, experience or walk of life, as an MLAgent you will come out on top in this new world.\n\nYour security clearance as an MLAgent grants you high level access to the metaverse, monthly reflections, whitelist entries for blue chip NFT projects, daily giveaways, custom computers, weekly AMA’s with the founders, and even education with NFT development experts."
+  "description": "META LABS NFT is your key to the world of Web3. We are here to accomplish what others cannot, and go where others haven’t dared to go. Becoming an MLAgent is the path into blockchain mastery, exclusivity, and opportunity. No matter your background, experience or walk of life, as an MLAgent you will come out on top in this new world.\n\nYour security clearance as an MLAgent grants you high level access to the metaverse, monthly reflections, whitelist entries for blue chip NFT projects, daily giveaways, custom computers, weekly AMA’s with the founders, and even education with NFT development experts.",
+  "erc721_symbol": "MLA1"
 }

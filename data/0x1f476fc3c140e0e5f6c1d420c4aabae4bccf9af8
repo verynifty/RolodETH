@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BFB",
+  "erc20_decimals": 8,
+  "name": "BlockFile Bankruptcy"
+}

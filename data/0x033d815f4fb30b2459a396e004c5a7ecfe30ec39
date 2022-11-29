@@ -11,5 +11,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yam",
     "opensea-user"
-  ]
+  ],
+  "ens": "ansor.eth"
 }

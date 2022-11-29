@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Multi Chain Capital",
   "erc20_symbol": "MCC",

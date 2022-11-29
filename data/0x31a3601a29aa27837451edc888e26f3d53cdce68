@@ -10,5 +10,6 @@
   "externalUrl": "https://www.mightyllamanft.com/",
   "discordUrl": "https://discord.gg/mightyllamanft",
   "twitterUsername": "mightyllama_nft",
-  "description": "Mighty Llama is a 3D animation and a 3D Gaming startup. Our long-term mission is to push new boundaries in the NFT gaming industry, by creating innovative, fun and secure game experiences."
+  "description": "Mighty Llama is a 3D animation and a 3D Gaming startup. Our long-term mission is to push new boundaries in the NFT gaming industry, by creating innovative, fun and secure game experiences.",
+  "erc721_symbol": "MGHT"
 }

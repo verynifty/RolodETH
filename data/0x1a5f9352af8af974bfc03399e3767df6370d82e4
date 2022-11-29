@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "OWL",
+  "erc20_decimals": 18,
+  "name": "OWL Token",
+  "proxy": "0x60fbbd1fb0076971e8060631b5dd895f55ad5ab7"
+}

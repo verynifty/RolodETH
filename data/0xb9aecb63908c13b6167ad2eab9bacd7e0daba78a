@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Probably Nothing Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/0cf43fd7388bbf6771b00b812ea90028.jpg?w=500&auto=format",
   "externalUrl": "http://probablynothing.io",
   "discordUrl": "https://discord.gg/probably-nothing",
   "twitterUsername": "probablynothing",
-  "description": "Probably Nothing is a web3 culture studio. A brand that, at its core, is a home to the degens, the artists, the creators, the weird kids. A place for the young and loud counterculture to push the boundaries of the new internet forward.\n\nProbably Nothing embodies the creative melting pot of web3 bringing together a global community that feels local. With projects including clothing, a record label, art and collectibles, Probably Nothing has established itself as a unique identity in the space with collaborations that defy conventional thinking."
+  "description": "Probably Nothing is a web3 culture studio. A brand that, at its core, is a home to the degens, the artists, the creators, the weird kids. A place for the young and loud counterculture to push the boundaries of the new internet forward.\n\nProbably Nothing embodies the creative melting pot of web3 bringing together a global community that feels local. With projects including clothing, a record label, art and collectibles, Probably Nothing has established itself as a unique identity in the space with collaborations that defy conventional thinking.",
+  "erc721_symbol": "PN"
 }

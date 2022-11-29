@@ -10,5 +10,6 @@
   "externalUrl": "http://www.rplanetnft.xyz",
   "discordUrl": "https://discord.gg/s59WPXuwH2",
   "twitterUsername": "RPlanetNFT",
-  "description": "R Planet is a reality that mirrors our own. Where powers, gfts, talents, and culture fuse to create the world we wanted. Here, actions matter. The dreamers, the builders, and the enthusiasts are celebrated –– creating a more impactful, decentralized future. R Planet Genesis NFTs grant holders access to the R Planet ecosystem — connecting utility & financial opportunity with purpose & IRL impact."
+  "description": "R Planet is a reality that mirrors our own. Where powers, gfts, talents, and culture fuse to create the world we wanted. Here, actions matter. The dreamers, the builders, and the enthusiasts are celebrated –– creating a more impactful, decentralized future. R Planet Genesis NFTs grant holders access to the R Planet ecosystem — connecting utility & financial opportunity with purpose & IRL impact.",
+  "erc721_symbol": "RPlanet"
 }

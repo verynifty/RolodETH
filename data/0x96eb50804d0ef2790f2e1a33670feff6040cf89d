@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "SX",
+  "erc20_decimals": 18,
+  "name": "SX Token"
+}

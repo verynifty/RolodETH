@@ -10,5 +10,6 @@
   "externalUrl": "https://www.vivid.limited",
   "discordUrl": "https://discord.gg/vividcojp",
   "twitterUsername": "VividLimited",
-  "description": "A new kind of collaboration. A community vision of something beautiful. Art, fashion, and story: https://vivid.limited"
+  "description": "A new kind of collaboration. A community vision of something beautiful. Art, fashion, and story: https://vivid.limited",
+  "erc721_symbol": "VIVID"
 }

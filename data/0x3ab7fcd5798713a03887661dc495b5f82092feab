@@ -4,5 +4,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "alm2c.eth"
 }

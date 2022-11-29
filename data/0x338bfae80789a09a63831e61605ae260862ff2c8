@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
     "opensea-user"
-  ]
+  ],
+  "ens": "apens.eth"
 }

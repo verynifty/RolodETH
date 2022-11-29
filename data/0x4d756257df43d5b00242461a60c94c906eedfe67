@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MoreOrLess",
-  "imageUrl": "https://i.seadn.io/gae/2a7u_WaRed-UPsmWgfRDl91oR3qnKLczKeqPqU8139guVj0zT9Tk3VqyJXpnt_BI0Xy6MdeIY1NT-2n2lPf0Q8sb6CUMLbxEjooKUA?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gae/2a7u_WaRed-UPsmWgfRDl91oR3qnKLczKeqPqU8139guVj0zT9Tk3VqyJXpnt_BI0Xy6MdeIY1NT-2n2lPf0Q8sb6CUMLbxEjooKUA?w=500&auto=format",
+  "erc721_symbol": "MORL"
 }

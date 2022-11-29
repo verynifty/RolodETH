@@ -10,5 +10,6 @@
   "externalUrl": "http://collectvox.com",
   "discordUrl": "https://discord.gg/nBWrrGPYpy",
   "twitterUsername": "gogalagames",
-  "description": "Meet VOX, the adorable collectible series from Gala.\nOwn, play and earn rewards with your unique ERC721 avatar."
+  "description": "Meet VOX, the adorable collectible series from Gala.\nOwn, play and earn rewards with your unique ERC721 avatar.",
+  "erc721_symbol": "VOX"
 }

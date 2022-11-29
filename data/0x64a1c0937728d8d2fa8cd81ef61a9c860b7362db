@@ -10,5 +10,6 @@
   "externalUrl": "http://killabears.com",
   "discordUrl": "https://discord.gg/fdmWqgaytj",
   "twitterUsername": "killabearsnft",
-  "description": "KILLABITS is the pixel companion collection to the KILLABEARS.  A collection of 3,333 thoughtfully designed NFTs on the Ethereum Blockchain.\n\n**Download all your assets (pfp, video, gif and more) in our [Dashboard](https://www.killabears.com/dashboard)**\n\nhttps://www.youtube.com/watch?v=25-AKHgXGDg"
+  "description": "KILLABITS is the pixel companion collection to the KILLABEARS.  A collection of 3,333 thoughtfully designed NFTs on the Ethereum Blockchain.\n\n**Download all your assets (pfp, video, gif and more) in our [Dashboard](https://www.killabears.com/dashboard)**\n\nhttps://www.youtube.com/watch?v=25-AKHgXGDg",
+  "erc721_symbol": "KILLABITS"
 }

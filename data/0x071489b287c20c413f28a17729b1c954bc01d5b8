@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "meebit-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "pjb.eth"
 }

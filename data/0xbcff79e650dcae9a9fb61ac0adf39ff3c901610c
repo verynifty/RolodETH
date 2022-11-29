@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "xyzid.eth"
 }

@@ -3,5 +3,6 @@
     "moonbird-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "jsupply.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Random Ravers GG",
   "imageUrl": "https://i.seadn.io/gcs/files/77f73256061aa11852aa35edd3249b5b.jpg?w=500&auto=format",
   "externalUrl": "https://www.randomravers.com/",
   "discordUrl": "https://discord.gg/randomraversgg",
   "twitterUsername": "randomraversgg",
-  "description": "5,000 Random Ravers to UNTZ for eternity. Each Raver is your entry into the UNTZ. No promises, RAVE or GRAVE. UNTZ. UNTZ. UNTZ. \n\nTHE UNTZ MACHINE IS ALMOST READY. \n\nUNTZ UNTZ UNTZ.\n"
+  "description": "5,000 Random Ravers to UNTZ for eternity. Each Raver is your entry into the UNTZ. No promises, RAVE or GRAVE. UNTZ. UNTZ. UNTZ. \n\nTHE UNTZ MACHINE IS ALMOST READY. \n\nUNTZ UNTZ UNTZ.\n",
+  "erc721_symbol": "RAVERSGG"
 }

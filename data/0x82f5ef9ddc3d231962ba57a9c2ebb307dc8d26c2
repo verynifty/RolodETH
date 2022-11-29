@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dippies",
   "imageUrl": "https://i.seadn.io/gae/ltLmL2_T4KKONimcbknNYs3SeQoKLCKgE429Y39zSMIpvEIy8PW8xXMnztPCehNCktTGhJAsKIzksM070xfmhFhsIyrs0U05N50q?w=500&auto=format",
   "externalUrl": "https://www.dippies.io/",
   "discordUrl": "https://discord.gg/dippies",
   "twitterUsername": "DippiesNFT",
-  "description": "Funk, meet web 3. A collection of 8,888 unique digital hippies that are building the new free world before our eyes."
+  "description": "Funk, meet web 3. A collection of 8,888 unique digital hippies that are building the new free world before our eyes.",
+  "erc721_symbol": "DIPPIES"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Ludena Protocol",
   "erc20_symbol": "LDN",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13372/thumb/LudenaProtocol_symbol_200x200.png?1607999831"
+  "imageURL": "https://assets.coingecko.com/coins/images/13372/thumb/LudenaProtocol_symbol_200x200.png?1607999831",
+  "proxy": "0x2cac9d4e3cda26fef7c58b9a658c5ab106740c67"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://genesis.xana.net",
   "discordUrl": "https://discord.gg/xana",
   "twitterUsername": "XANAMetaverse",
-  "description": "Your metaverse AI partner. The first-ever original a personalized AI NFT collection of XANA."
+  "description": "Your metaverse AI partner. The first-ever original a personalized AI NFT collection of XANA.",
+  "erc721_symbol": "XGS"
 }

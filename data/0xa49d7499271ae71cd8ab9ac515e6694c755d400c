@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Mute",
   "erc20_symbol": "MUTE",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1617618967"
+  "imageURL": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1617618967",
+  "proxy": "0x11feecebd15487af970b5d24ebbf18fa4d062692"
 }

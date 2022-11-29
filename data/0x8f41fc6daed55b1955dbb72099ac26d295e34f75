@@ -10,5 +10,6 @@
   "externalUrl": "https://www.bruhpills.com/",
   "discordUrl": "https://discord.gg/bruhpills",
   "twitterUsername": "pills_bruh",
-  "description": "Bruh Pills is an experimental NFT collection with the goal to create the Bruh Miniverse - a place for community members to fool around and hang out playing games."
+  "description": "Bruh Pills is an experimental NFT collection with the goal to create the Bruh Miniverse - a place for community members to fool around and hang out playing games.",
+  "erc721_symbol": "BRUH"
 }

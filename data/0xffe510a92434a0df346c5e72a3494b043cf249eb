@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "LUX BIO EXCHANGE COIN",
   "erc20_symbol": "LBXC",

@@ -10,5 +10,6 @@
   "externalUrl": "https://bananataskforceape.com",
   "discordUrl": "https://discord.gg/BananaTFA",
   "twitterUsername": "BananaTFA",
-  "description": "Banana Task Force Ape is a collection of 8000 civilized apes still in the Jungle on the Ethereum blockchain. Hand drawn by Marvel Artist Fabrice Sapolsky and developed by Blip Studios LLC.\r\n\r\nHolder count is not accurate due to staking. Currently 40% is locked away amongst the community in our staking contract: [Stake](https://www.bananataskforceape.com/jungle)\r\n\r\nMint is now live: [Mint](https://www.bananataskforceape.com/mint)"
+  "description": "Banana Task Force Ape is a collection of 8000 civilized apes still in the Jungle on the Ethereum blockchain. Hand drawn by Marvel Artist Fabrice Sapolsky and developed by Blip Studios LLC.\r\n\r\nHolder count is not accurate due to staking. Currently 40% is locked away amongst the community in our staking contract: [Stake](https://www.bananataskforceape.com/jungle)\r\n\r\nMint is now live: [Mint](https://www.bananataskforceape.com/mint)",
+  "erc721_symbol": "BTFA"
 }

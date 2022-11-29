@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "STUDIO ZOMI Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/b080774cdb519a66802a1f835877e627.jpg?w=500&auto=format",
   "externalUrl": "http://StudioZomi.com",
   "discordUrl": "https://discord.gg/StudioZomi",
   "twitterUsername": "StudioZomi",
-  "description": "🌈 🌨  Studio Zomi is the banner-size art collection of Zomi’s Verse-leap Journey, co-created by Natsuki and virtual artist personality \"Zomi\", the genesis collection of Fantasy World “ELVINIA” that's being built around our lovely Multi-Verse Traveler Zomi. Empowered by Anonymice 🌨 🌈"
+  "description": "🌈 🌨  Studio Zomi is the banner-size art collection of Zomi’s Verse-leap Journey, co-created by Natsuki and virtual artist personality \"Zomi\", the genesis collection of Fantasy World “ELVINIA” that's being built around our lovely Multi-Verse Traveler Zomi. Empowered by Anonymice 🌨 🌈",
+  "erc721_symbol": "ZOMI"
 }

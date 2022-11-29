@@ -7,5 +7,6 @@
     "mayc-minter",
     "snapshot-voter-sushigov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "hisdudeness.eth"
 }

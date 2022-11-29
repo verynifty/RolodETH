@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "116114.eth"
 }

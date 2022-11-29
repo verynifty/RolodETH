@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Wu Tiger Clan",
   "imageUrl": "https://i.seadn.io/gae/HVOmQBdF_py3aN3qvdq5bmUB5lrGTsqLj9E8eAOMc8yuvSJCPUOS88aZN_gOSJtEXw5vottvomf46lb8hY9h9-RIH2bjIJCxCxwOXw?w=500&auto=format",
   "externalUrl": "http://nft.coinbase.com/drops/wu-tiger-clan",
   "twitterUsername": "WuTigerClan",
-  "description": "Method Man presents Wu Tiger Clan.  Minting NOW on nft.coinbase.com/drops/wu-tiger-clan\nDiscord is by invite only."
+  "description": "Method Man presents Wu Tiger Clan.  Minting NOW on nft.coinbase.com/drops/wu-tiger-clan\nDiscord is by invite only.",
+  "proxy": "0xf86de7d2d982948e5179c39e5ff1b91434eb9f96"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "unibright"
+    "unibright",
+    "contract"
   ],
   "name": "Unibright",
   "erc20_symbol": "UBT",

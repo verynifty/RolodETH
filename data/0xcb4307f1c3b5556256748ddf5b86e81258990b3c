@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "T-O-S The Other Side",
   "imageUrl": "https://i.seadn.io/gcs/files/25b9d607aeca8b8312b38a5b544816a6.gif?w=500&auto=format",
   "externalUrl": "http://t-o-s.io",
   "discordUrl": "https://discord.gg/theothersidenft",
   "twitterUsername": "theothersideNFT",
-  "description": "8888 Moonwalkers were each randomly generated from over 300 mystical traits. \n\nEach Moonwalker generates $MOONZ, the T-O-S utility token, that goes towards bigger ventures and increasing rewards for the community.\n\nT-O-S strives to exponentially build its brand and prominence in the Web3 space through partnerships with established Web2 fashion/art brands.\n\nThe only way to stay on the moon is together, as a community. Come on over to The Other Side."
+  "description": "8888 Moonwalkers were each randomly generated from over 300 mystical traits. \n\nEach Moonwalker generates $MOONZ, the T-O-S utility token, that goes towards bigger ventures and increasing rewards for the community.\n\nT-O-S strives to exponentially build its brand and prominence in the Web3 space through partnerships with established Web2 fashion/art brands.\n\nThe only way to stay on the moon is together, as a community. Come on over to The Other Side.",
+  "erc721_symbol": "TOS"
 }

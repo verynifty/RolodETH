@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "opensea-user"
-  ]
+  ],
+  "ens": "massif02.eth"
 }

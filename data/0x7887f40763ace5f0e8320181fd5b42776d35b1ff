@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "HAKI NFT",
   "imageUrl": "https://i.seadn.io/gae/Cq1G1NVYtecZKoHdzDt9xkYliJPpkoDniUAEIodD_WFfhaykPpyxrMxggWcIdfqrSx8xajwxT5UYehZNwNPI5l8s5xeLC88xmhi8oQ?w=500&auto=format",
   "externalUrl": "https://hakinft.io/",
   "discordUrl": "https://discord.gg/theshrine",
   "twitterUsername": "HakiNFT",
-  "description": "A collection of 5,000 unique HAKIs built to go beyond the digital space that will unlock numerous benefits for our community, starting with our streetwear, NFT airdrops, live events, holders utility and much more as we progress through our journey! Visit the official site for more details.\r\n\r\n**[Official Site](https://hakinft.io/) | [Official Contract](https://etherscan.io/address/0x7887f40763aCe5f0e8320181FD5B42776D35B1FF)**"
+  "description": "A collection of 5,000 unique HAKIs built to go beyond the digital space that will unlock numerous benefits for our community, starting with our streetwear, NFT airdrops, live events, holders utility and much more as we progress through our journey! Visit the official site for more details.\r\n\r\n**[Official Site](https://hakinft.io/) | [Official Contract](https://etherscan.io/address/0x7887f40763aCe5f0e8320181FD5B42776D35B1FF)**",
+  "erc721_symbol": "HAKI"
 }

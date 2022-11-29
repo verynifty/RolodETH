@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mogies",
   "imageUrl": "https://i.seadn.io/gcs/files/918f7152a15da40d5b2196bceffc0a08.gif?w=500&auto=format",
   "externalUrl": "https://my.mogulproductions.com/platform/mogie",
   "discordUrl": "https://discord.gg/MogulProductions",
   "twitterUsername": "mogulofficial_",
-  "description": "Mogies by Mogul Productions are 1923 original, handcrafted CGI NFTs inspired by the last 100 years of Hollywood icons - made in partnership with the animators of the Simpsons! These are the characters of entertainment in the Metaverse & Mogieland - plus they will play a key role in the Mogies animated TV series"
+  "description": "Mogies by Mogul Productions are 1923 original, handcrafted CGI NFTs inspired by the last 100 years of Hollywood icons - made in partnership with the animators of the Simpsons! These are the characters of entertainment in the Metaverse & Mogieland - plus they will play a key role in the Mogies animated TV series",
+  "erc721_symbol": "MOGIES"
 }

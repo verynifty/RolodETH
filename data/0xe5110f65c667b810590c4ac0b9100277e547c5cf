@@ -6,5 +6,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "popper.eth"
 }

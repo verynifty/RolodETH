@@ -6,5 +6,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-uniswap",
     "snapshot-voter-ens"
-  ]
+  ],
+  "ens": "jazzist.eth"
 }

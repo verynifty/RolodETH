@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nimrodz",
   "imageUrl": "https://i.seadn.io/gae/lRF77cDqj0WBtiwcoBTaMkPvJSZm5aKrRUhvwmUNjYx8psDok5U6089N48g7QJgkzmnuB13I3e2z60FKY350qgT_XPYgbkTdqw2QWA?w=500&auto=format",
   "externalUrl": "https://www.nimrodz.io/",
   "twitterUsername": "nimrodzNFT",
-  "description": "nimNIMNIMnimnimnimnimNIMnimnimnimNIMNIMnimNIMnimnimnim"
+  "description": "nimNIMNIMnimnimnimnimNIMnimnimnimNIMNIMnimNIMnimnimnim",
+  "erc721_symbol": "NIMS"
 }

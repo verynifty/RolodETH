@@ -6,5 +6,6 @@
     "autoglyph-minter",
     "meebit-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "tweetypie.eth"
 }

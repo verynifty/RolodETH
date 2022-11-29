@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaSamurai - OFFICIAL",
   "imageUrl": "https://i.seadn.io/gcs/files/b42343e71793cac101d24b025961a844.jpg?w=500&auto=format",
   "externalUrl": "https://www.metasamurai.world/",
   "discordUrl": "https://discord.gg/1block",
   "twitterUsername": "1block_official",
-  "description": "|◤ From Tokyo, Japan ◢| MetaSamurai is a collection of 3,333 3DCG figures from Tokyo.That have been created over time, one by one, with high quality rather than using a mechanical method, and also providing uniformity.\nhttps://www.metasamurai.world/\n\nMetaSamurai holders will receive membership access to exclusive drops, collaborations, and unique experiences.\nCommunity is at the forefront of our foundation and each MetaSamurai NFT unlocks entry to the 1BLOCK Ecosystem and future projects."
+  "description": "|◤ From Tokyo, Japan ◢| MetaSamurai is a collection of 3,333 3DCG figures from Tokyo.That have been created over time, one by one, with high quality rather than using a mechanical method, and also providing uniformity.\nhttps://www.metasamurai.world/\n\nMetaSamurai holders will receive membership access to exclusive drops, collaborations, and unique experiences.\nCommunity is at the forefront of our foundation and each MetaSamurai NFT unlocks entry to the 1BLOCK Ecosystem and future projects.",
+  "erc721_symbol": "MS"
 }

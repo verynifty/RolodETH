@@ -10,5 +10,6 @@
   "externalUrl": "https://cyberbrokers.io/",
   "discordUrl": "https://discord.gg/cyberbrokers",
   "twitterUsername": "CyberBrokers_",
-  "description": "CyberBrokers is a first-of-its-kind art collectibles ecosystem centered around 10,001 unique and on-chain CyberBroker NFTs."
+  "description": "CyberBrokers is a first-of-its-kind art collectibles ecosystem centered around 10,001 unique and on-chain CyberBroker NFTs.",
+  "erc721_symbol": "CYBERBROKERS"
 }

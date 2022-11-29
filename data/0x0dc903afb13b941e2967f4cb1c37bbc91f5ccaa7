@@ -4,5 +4,6 @@
     "mayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "jp888.eth"
 }

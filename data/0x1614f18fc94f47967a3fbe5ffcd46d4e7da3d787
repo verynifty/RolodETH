@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "PAID Network",
   "erc20_symbol": "PAID",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13761/thumb/512.png?1648630881"
+  "imageURL": "https://assets.coingecko.com/coins/images/13761/thumb/512.png?1648630881",
+  "proxy": "0x3159810dd4d4d96961f3f04737d53650b6550690"
 }

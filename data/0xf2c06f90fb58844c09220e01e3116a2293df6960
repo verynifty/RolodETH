@@ -4,5 +4,6 @@
     "mayc-minter",
     "sudoswap-user",
     "snapshot-voter-tableland-rigs"
-  ]
+  ],
+  "ens": "sungjae.eth"
 }

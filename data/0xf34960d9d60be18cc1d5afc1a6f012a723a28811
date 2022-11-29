@@ -1,6 +1,10 @@
 {
   "tags": [
-    "kucoin"
+    "kucoin",
+    "contract",
+    "erc20"
   ],
-  "name": "KuCoin: KCS Token"
+  "name": "KuCoin: KCS Token",
+  "erc20_symbol": "KCS",
+  "erc20_decimals": 6
 }

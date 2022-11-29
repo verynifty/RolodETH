@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cryptoon Goonz",
   "imageUrl": "https://i.seadn.io/gae/IxHixGmp59Aheq1hwIWlXjBRgma95Jp9OmD_21wcxjr1n-1F7HqIDyD5Dc5bXgezWSgqEKkkZhylC8cCTPm9MO8EvSqHpbiCCk3x32o?w=500&auto=format",
   "externalUrl": "http://www.cryptoongoonz.com",
   "discordUrl": "https://discord.gg/cryptoongoonz",
   "twitterUsername": "Cryptoon_Goonz",
-  "description": "The Cryptoon Goonz collection consists of 6,969 generative rubber hose style characters, made up of hundreds of unique traits which not only change the look of a  single Goon, but completely change the form a Goon will take. Whether it's a wolf, cat, or ape/marshmallow hybrid, every variety of a Cryptoon Goon is decked out in pop culture, hip-hop, and streetwear references. We have a strong focus on quality art & community. Join us to be a part of our journey building something special.\n\nThe Portal has opened. [Explore our new world](https://opensea.io/collection/cryptoongoonz-portal)\n\n[Claim your Goonz PFP](https://app.cryptoongoonz.com/pictureday)\n\nOur other collections:\n\n[Cryptoon Goonz Originals](https://opensea.io/collection/cryptoongoonz-originals)\n\n[Cryptoon Goonz Sketches](https://opensea.io/collection/cryptoongoonz-sketches)"
+  "description": "The Cryptoon Goonz collection consists of 6,969 generative rubber hose style characters, made up of hundreds of unique traits which not only change the look of a  single Goon, but completely change the form a Goon will take. Whether it's a wolf, cat, or ape/marshmallow hybrid, every variety of a Cryptoon Goon is decked out in pop culture, hip-hop, and streetwear references. We have a strong focus on quality art & community. Join us to be a part of our journey building something special.\n\nThe Portal has opened. [Explore our new world](https://opensea.io/collection/cryptoongoonz-portal)\n\n[Claim your Goonz PFP](https://app.cryptoongoonz.com/pictureday)\n\nOur other collections:\n\n[Cryptoon Goonz Originals](https://opensea.io/collection/cryptoongoonz-originals)\n\n[Cryptoon Goonz Sketches](https://opensea.io/collection/cryptoongoonz-sketches)",
+  "erc721_symbol": "CG"
 }

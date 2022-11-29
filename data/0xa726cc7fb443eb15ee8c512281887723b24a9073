@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "norop.eth"
 }

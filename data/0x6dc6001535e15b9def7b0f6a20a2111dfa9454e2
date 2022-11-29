@@ -10,5 +10,6 @@
   "externalUrl": "https://inhabitantsuniverse.com/",
   "discordUrl": "https://discord.gg/pixelvault",
   "twitterUsername": "inhabitants_",
-  "description": "Identities are a collection of pulse-impacted people native to the Inhabitants Universe. Generative Identities (max supply of 9678) can be minted at any time by redeeming a MintPass #1."
+  "description": "Identities are a collection of pulse-impacted people native to the Inhabitants Universe. Generative Identities (max supply of 9678) can be minted at any time by redeeming a MintPass #1.",
+  "erc721_symbol": "HERO"
 }

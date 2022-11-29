@@ -10,5 +10,6 @@
   "externalUrl": "https://makersplace.com",
   "discordUrl": "https://discord.gg/makersplace",
   "twitterUsername": "makersplaceco/",
-  "description": "On MakersPlace, users can create, discover, sell, and collect truly unique and authentic digital art. The team is passionate about the way blockchain technology is transforming our understanding of digital ownership and champions creativity in the growing crypto art community. Trade all MakersPlace NFTs right here on OpenSea."
+  "description": "On MakersPlace, users can create, discover, sell, and collect truly unique and authentic digital art. The team is passionate about the way blockchain technology is transforming our understanding of digital ownership and champions creativity in the growing crypto art community. Trade all MakersPlace NFTs right here on OpenSea.",
+  "erc721_symbol": "MAKERS"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "TOS",
+  "erc20_decimals": 8,
+  "name": "Tale of Shiba"
+}

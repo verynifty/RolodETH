@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "OXY",
+  "erc20_decimals": 6,
+  "name": "Oxygen Ecosystem Token"
 }

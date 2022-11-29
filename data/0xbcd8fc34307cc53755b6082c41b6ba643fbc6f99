@@ -10,5 +10,6 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "daoao.eth"
 }

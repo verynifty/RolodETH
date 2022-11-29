@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-hop",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "forrency.eth"
 }

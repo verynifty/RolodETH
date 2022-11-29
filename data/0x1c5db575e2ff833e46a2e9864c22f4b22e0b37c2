@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "ren"
+    "ren",
+    "contract",
+    "proxy"
   ],
   "name": "Ren: renZEC Token",
   "erc20_symbol": "RENZEC",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/11564/thumb/Zcash.jpg?1628072865"
+  "imageURL": "https://assets.coingecko.com/coins/images/11564/thumb/Zcash.jpg?1628072865",
+  "proxy": "0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80"
 }

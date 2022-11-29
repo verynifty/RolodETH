@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "loot-minter",
     "clonex-minter"
-  ]
+  ],
+  "ens": "durbino.eth"
 }

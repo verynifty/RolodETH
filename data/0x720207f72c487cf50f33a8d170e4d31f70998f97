@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "AVATAR",
+  "erc20_decimals": 18,
+  "name": "Avatar 2.0"
+}

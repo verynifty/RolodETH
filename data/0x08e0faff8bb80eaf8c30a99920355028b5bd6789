@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "RIC",
+  "erc20_decimals": 8,
+  "name": "AURIcoin"
 }

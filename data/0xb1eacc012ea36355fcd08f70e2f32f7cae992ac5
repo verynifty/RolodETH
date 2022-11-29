@@ -8,5 +8,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "viktorswag.eth"
 }
