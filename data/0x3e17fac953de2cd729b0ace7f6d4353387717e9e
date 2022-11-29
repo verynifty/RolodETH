@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "sudoswap-user",
     "snapshot-voter-ilv"
-  ]
+  ],
+  "ens": "blockomoco.eth"
 }

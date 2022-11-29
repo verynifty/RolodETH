@@ -117,12 +117,23 @@ RoloScraper.prototype.scrapeAddress = async function (rolodeth, address) {
                     RolodETH.addProperty(address, "erc20_symbol", symbol);
                     RolodETH.addProperty(address, "erc20_decimals", decimals)
                     RolodETH.addProperty(address, "name", name)
+                } else if (tag == "erc721" || tag == "erc1155") {
+                    let contract = new ethers.Contract(address, ERC721, this.provider);
+                    try {
+                        // Support is optional
+                        let name = await contract.name();
+                        let symbol = await contract.symbol()
+                        RolodETH.addProperty(address, "erc721_symbol", symbol);
+                        RolodETH.addProperty(address, "name", name)
+                    } catch (error) {
+
+                    }
                 }
                 rolodeth.addTag(address, tag);
             } catch (error) {
-                
+
             }
-           
+
         }
         console.log(detected)
         let provider = this.provider
