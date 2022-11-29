@@ -1,6 +1,7 @@
 {
   "tags": [
-    "wrapped-bitcoin"
+    "wrapped-bitcoin",
+    "contract"
   ],
   "name": "Wrapped BTC: Factory"
 }

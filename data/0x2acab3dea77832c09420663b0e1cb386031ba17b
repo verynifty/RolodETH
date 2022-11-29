@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Deadfellaz",
   "imageUrl": "https://i.seadn.io/gae/seJEwLWJP3RAXrxboeG11qbc_MYrxwVrsxGH0s0qxvF68hefOjf5qrPSKkIknUTYzfvinOUPWbYBdM8VEtGEE980Qv2ti_GGd86OWQ?w=500&auto=format",
   "externalUrl": "https://deadfellaz.io",
   "discordUrl": "https://discord.gg/deadfellaz",
   "twitterUsername": "Deadfellaz",
-  "description": "10,000 undead NFTs on the Ethereum blockchain. Join the horde.\r\n\r\nAdditional official collections:\r\n\r\n[Deadfellaz Infected S2](https://opensea.io/collection/df-infected-s2) | [Halloween S1](https://opensea.io/collection/deadfellaz-infected-s1) | [Nifty Gateway Betty Pop Horror](https://opensea.io/collection/betty-pop-horror-by-deadfellaz) | [Deadfrenz Lab Access Pass](https://opensea.io/collection/deadfrenz-lab-access-pass) | [Deadfrenz Collection](https://opensea.io/collection/deadfrenz-collection)"
+  "description": "10,000 undead NFTs on the Ethereum blockchain. Join the horde.\r\n\r\nAdditional official collections:\r\n\r\n[Deadfellaz Infected S2](https://opensea.io/collection/df-infected-s2) | [Halloween S1](https://opensea.io/collection/deadfellaz-infected-s1) | [Nifty Gateway Betty Pop Horror](https://opensea.io/collection/betty-pop-horror-by-deadfellaz) | [Deadfrenz Lab Access Pass](https://opensea.io/collection/deadfrenz-lab-access-pass) | [Deadfrenz Collection](https://opensea.io/collection/deadfrenz-collection)",
+  "erc721_symbol": "DEADFELLAZ"
 }

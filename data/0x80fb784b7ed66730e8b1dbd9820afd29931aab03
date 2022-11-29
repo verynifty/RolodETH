@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "aave"
+    "aave",
+    "contract"
   ],
   "name": "ETHLend",
   "erc20_symbol": "LEND",

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Band Bears",
   "imageUrl": "https://i.seadn.io/gcs/files/ddb7e76485b7a78c6911d02c7e5040e2.jpg?w=500&auto=format",
   "externalUrl": "http://bongbears.com",
   "discordUrl": "https://discord.gg/bongbears",
   "twitterUsername": "itsdevbear",
-  "description": "1175 ooga booga banda beras jamming out on the chain"
+  "description": "1175 ooga booga banda beras jamming out on the chain",
+  "erc721_symbol": "BANDB"
 }

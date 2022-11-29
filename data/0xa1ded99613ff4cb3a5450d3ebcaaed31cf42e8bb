@@ -9,5 +9,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "tyelf.eth"
 }

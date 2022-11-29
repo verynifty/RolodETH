@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "liuyazhou.eth"
 }

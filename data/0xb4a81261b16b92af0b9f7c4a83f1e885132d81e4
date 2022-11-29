@@ -4,5 +4,7 @@
     "contract",
     "erc20"
   ],
-  "name": "Shiba Inu: xSHIB Token"
+  "name": "Shiba Inu: xSHIB Token",
+  "erc20_symbol": "xSHIB",
+  "erc20_decimals": 18
 }

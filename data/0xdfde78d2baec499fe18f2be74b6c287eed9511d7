@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BrainDrops",
   "imageUrl": "https://i.seadn.io/gae/U7CaccqE3lrtwrT9uZNrEtrnmwwBtX5ytA4lKPWKv26_rJ4hxgt3SDQyjG1Clz2ORAMK3LWeMWhfTbVEQYw_YerRGcNd2ogqvq7ajA?w=500&auto=format",
   "externalUrl": "https://braindrops.cloud/",
   "discordUrl": "https://discord.gg/BnRgFBhKKz",
   "twitterUsername": "braindrops_art",
-  "description": "A platform for AI-generated art. \r\n\r\nhttps://braindrops.cloud/"
+  "description": "A platform for AI-generated art. \r\n\r\nhttps://braindrops.cloud/",
+  "erc721_symbol": "BRAIN"
 }

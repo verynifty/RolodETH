@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Wrapped NCG",
   "erc20_symbol": "WNCG",

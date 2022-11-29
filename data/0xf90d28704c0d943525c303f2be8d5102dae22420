@@ -3,5 +3,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
     "opensea-user"
-  ]
+  ],
+  "ens": "floppo.eth"
 }

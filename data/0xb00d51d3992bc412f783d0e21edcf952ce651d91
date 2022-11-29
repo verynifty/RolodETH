@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "huangnanlv.eth"
 }

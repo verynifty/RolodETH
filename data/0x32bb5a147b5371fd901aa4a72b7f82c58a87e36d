@@ -10,5 +10,6 @@
   "externalUrl": "http://berachain.com",
   "discordUrl": "https://discord.gg/berachain",
   "twitterUsername": "berachain",
-  "description": "2355 Bit Bears ready to build on Berachain"
+  "description": "2355 Bit Bears ready to build on Berachain",
+  "erc721_symbol": "BITB"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract"
   ],
   "name": "Near: Rainbow Bridge"
 }

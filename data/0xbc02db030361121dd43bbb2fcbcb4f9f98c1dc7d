@@ -3,5 +3,6 @@
     "snapshot-voter",
     "snapshot-voter-rarible",
     "snapshot-voter-snapshot-dcl"
-  ]
+  ],
+  "ens": "jasonx.eth"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "vetal.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-cow",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "sm1th.eth"
 }

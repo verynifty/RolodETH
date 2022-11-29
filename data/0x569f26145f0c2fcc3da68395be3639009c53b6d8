@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "A.N.I.M.O",
   "imageUrl": "https://i.seadn.io/gae/229yymdpJAwjlwJfQOlRbh_uoDLnMaYsTk8pxnwSq8Ygz2fQ3dWCh7IXWs1jviyfHycW7jH9R3AcNK_Hn0Z7NFfoNayiUsu4brwrBTk?w=500&auto=format",
   "externalUrl": "https://animo.art",
   "discordUrl": "https://discord.gg/animo",
   "twitterUsername": "AnimoNFT",
-  "description": "Autonomous Nuggets In Mechs, Ok?\r\n\r\nThis NFT will serve as a Battle Pass in ANIMO STARS ARENA, a free to play top-down shooter. Holders earn exclusive rewards during each season, from new pilots to new paint themes (on a separate collection) for your mech. Join the battle today!"
+  "description": "Autonomous Nuggets In Mechs, Ok?\r\n\r\nThis NFT will serve as a Battle Pass in ANIMO STARS ARENA, a free to play top-down shooter. Holders earn exclusive rewards during each season, from new pilots to new paint themes (on a separate collection) for your mech. Join the battle today!",
+  "erc721_symbol": "ANIMO"
 }

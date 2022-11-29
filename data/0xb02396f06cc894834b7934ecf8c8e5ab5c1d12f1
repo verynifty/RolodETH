@@ -1,6 +1,7 @@
 {
   "tags": [
-    "orchid"
+    "orchid",
+    "contract"
   ],
   "name": "Orchid: Nanopayment"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "kishibe.eth"
 }

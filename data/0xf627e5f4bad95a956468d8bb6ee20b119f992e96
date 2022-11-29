@@ -4,5 +4,6 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-daocity",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "reply-with-your-ens.eth"
 }

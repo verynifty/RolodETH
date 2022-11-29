@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sougen Genesis Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/9e4fd42ee2d1a59eba5681ff1cd07881.png?w=500&auto=format",
   "externalUrl": "https://genesis.sougen.co/",
   "discordUrl": "https://discord.gg/sougen",
   "twitterUsername": "sougenco",
-  "description": "A genesis NFT collection of 8888 detailed-oriented 3D NFTs backed by the most advanced Web Metaverse ecosystem.\r\n\r\nEach NFT comes with its avatar version in the Sougen Metaverse https://alpha.sougen.co"
+  "description": "A genesis NFT collection of 8888 detailed-oriented 3D NFTs backed by the most advanced Web Metaverse ecosystem.\r\n\r\nEach NFT comes with its avatar version in the Sougen Metaverse https://alpha.sougen.co",
+  "erc721_symbol": "SGC"
 }

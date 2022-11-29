@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Casino Cubs",
   "imageUrl": "https://i.seadn.io/gae/DLKtn8mNj9FuA9lpsUD-l6mxDdJhZRGBMCpxYHjtikXDmSARFaCnhqp3APwTJ6ByNOTQvqEX27ve1ZlQMa2mz2Wrp37fkYjo9LJZ?w=500&auto=format",
   "externalUrl": "https://roaringroccstars.io/",
   "discordUrl": "https://discord.gg/roaring",
   "twitterUsername": "RoaringRoccstar",
-  "description": "Casino Cubs is a star studded NFT collection at building a metaverse and crypto casino.\n\nOur artwork is done by Carlos Dattoli, a famous NFT artist who has worked with big studios including Marvel, D.C., Star Wars and others."
+  "description": "Casino Cubs is a star studded NFT collection at building a metaverse and crypto casino.\n\nOur artwork is done by Carlos Dattoli, a famous NFT artist who has worked with big studios including Marvel, D.C., Star Wars and others.",
+  "erc721_symbol": "ROARROCC"
 }

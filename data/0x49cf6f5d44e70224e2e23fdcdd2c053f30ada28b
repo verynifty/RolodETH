@@ -10,5 +10,6 @@
   "externalUrl": "http://www.rtfkt.com",
   "discordUrl": "https://discord.gg/RTFKT",
   "twitterUsername": "RTFKTstudios",
-  "description": "🧬 CLONE X 🧬\r\n\r\n20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸"
+  "description": "🧬 CLONE X 🧬\r\n\r\n20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸",
+  "erc721_symbol": "CloneX"
 }

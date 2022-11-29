@@ -7,5 +7,6 @@
   ],
   "name": "mfers",
   "imageUrl": "https://i.seadn.io/gae/J2iIgy5_gmA8IS6sXGKGZeFVZwhldQylk7w7fLepTE9S7ICPCn_dlo8kypX8Ju0N6wvLVOKsbP_7bNGd8cpKmWhFQmqMXOC8q2sOdqw?w=500&auto=format",
-  "description": "mfers are generated entirely from hand drawings by sartoshi. this project is in the public domain; feel free to use mfers any way you want.\n\nunofficial mfers discord is [here](https://t.co/k18FPgnBy7)\n\nbackstory on mfers is [here](https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU)"
+  "description": "mfers are generated entirely from hand drawings by sartoshi. this project is in the public domain; feel free to use mfers any way you want.\n\nunofficial mfers discord is [here](https://t.co/k18FPgnBy7)\n\nbackstory on mfers is [here](https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU)",
+  "erc721_symbol": "MFER"
 }

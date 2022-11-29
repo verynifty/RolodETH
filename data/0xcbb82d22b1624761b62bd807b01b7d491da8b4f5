@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "jayyi13.eth"
 }

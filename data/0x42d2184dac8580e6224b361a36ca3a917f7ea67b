@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-curve",
     "opensea-user"
-  ]
+  ],
+  "ens": "detoxjuice.eth"
 }
