@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "kiavash.eth"
 }

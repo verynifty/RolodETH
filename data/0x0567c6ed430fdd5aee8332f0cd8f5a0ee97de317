@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-banklessvault",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ]
 }

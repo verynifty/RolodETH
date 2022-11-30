@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-jpeg’d",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao"
   ],
   "ens": "0x73l.eth"
 }

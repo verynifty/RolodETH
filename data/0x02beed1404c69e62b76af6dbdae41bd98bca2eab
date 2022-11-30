@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "posersnft",
   "imageUrl": "https://i.seadn.io/gcs/files/97e67ca9caf34e08286a6481924cea8f.png?w=500&auto=format",
   "externalUrl": "https://posers.app",
   "discordUrl": "https://discord.gg/KeesDeEGKj",
   "twitterUsername": "PoSers_NFT",
-  "description": "**The first onchain PFP on POS**\n\nYou can customize your poser in our [Poser Customizer Tool](https://posers.app/my)\n\nPOSers are the first onchain PFP collection minted since the Ethereum Network transitioned from Proof of Work to Proof of Stake.\n\n[Medium article](https://medium.com/@poserscollection/posers-dfc4e8db50f2)\n\nPOSers are 5000 fancy dudes living on the blockchain. They're cool, they're diverse, they're pixelated, they're ONCHAIN! Who are you - Human, Ape, Vampire, or Alien?"
+  "description": "**The first onchain PFP on POS**\n\nYou can customize your poser in our [Poser Customizer Tool](https://posers.app/my)\n\nPOSers are the first onchain PFP collection minted since the Ethereum Network transitioned from Proof of Work to Proof of Stake.\n\n[Medium article](https://medium.com/@poserscollection/posers-dfc4e8db50f2)\n\nPOSers are 5000 fancy dudes living on the blockchain. They're cool, they're diverse, they're pixelated, they're ONCHAIN! Who are you - Human, Ape, Vampire, or Alien?",
+  "erc721_symbol": "pos"
 }

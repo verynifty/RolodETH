@@ -11,5 +11,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sushigov",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "colinwong.eth"
 }

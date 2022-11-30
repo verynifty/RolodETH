@@ -4,5 +4,6 @@
     "sudoswap-user",
     "snapshot-voter-balancer",
     "snapshot-voter-aurafinance"
-  ]
+  ],
+  "ens": "0xMaki.eth"
 }

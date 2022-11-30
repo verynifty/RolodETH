@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alphablocks NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/e185466102d5e32cf3a12ba72bdc0443.jpg?w=500&auto=format",
   "externalUrl": "http://www.alphablocksnft.com",
   "discordUrl": "https://discord.gg/alphablocksnft",
   "twitterUsername": "AlphaBlocksNFT",
-  "description": "AlphaBlocks is an exclusive project with 555 supply that gives you access to a Node, Tool, tons of valuable WLs and a Game, for free."
+  "description": "AlphaBlocks is an exclusive project with 555 supply that gives you access to a Node, Tool, tons of valuable WLs and a Game, for free.",
+  "erc721_symbol": "AB"
 }

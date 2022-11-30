@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "contract",
+    "erc721"
+  ],
+  "erc721_symbol": "MKT2",
+  "name": "MakersTokenV2"
+}

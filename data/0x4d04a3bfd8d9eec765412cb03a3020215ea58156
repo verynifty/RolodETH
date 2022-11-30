@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-hashflowdao"
   ]
 }

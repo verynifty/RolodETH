@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-cakevote",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ],
   "ens": "molodost.eth"
 }

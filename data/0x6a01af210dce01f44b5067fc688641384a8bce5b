@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ethhasbottomed.eth"
 }

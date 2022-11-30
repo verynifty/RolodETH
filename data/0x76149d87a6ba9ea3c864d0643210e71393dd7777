@@ -5,6 +5,7 @@
     "art-goblers-minter",
     "snapshot-voter-sushigov",
     "snapshot-voter-pickle",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

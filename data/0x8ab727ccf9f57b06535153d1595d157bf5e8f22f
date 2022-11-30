@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Proof of CNCPTS",
   "imageUrl": "https://i.seadn.io/gae/wuAlC6zQrUHij2fgvsEhS96Oq2L4oKj0P3a0siAlVkFD4i1_S-RxI9W3qJ0jATFswWuzSmsRTMVrdaiYTCaLIn0Lfcbetj5cIou22eg?w=500&auto=format",
   "externalUrl": "http://cncpts.com",
   "discordUrl": "https://discord.gg/cncpts",
   "twitterUsername": "cncptsxyz",
-  "description": "Concepts announces our first NFT project - “Proof of CNCPTS.” It's a community membership NFT that bridges the possibilities of future visions with current culture. “Proof of CNCPTS” is no ordinary NFT drop. In fact, for those holding ownership the NFT in their wallets will be able to unlock exclusive apparel, collaborations, and, in-person events. And that’s just the beginning."
+  "description": "Concepts announces our first NFT project - “Proof of CNCPTS.” It's a community membership NFT that bridges the possibilities of future visions with current culture. “Proof of CNCPTS” is no ordinary NFT drop. In fact, for those holding ownership the NFT in their wallets will be able to unlock exclusive apparel, collaborations, and, in-person events. And that’s just the beginning.",
+  "erc721_symbol": "PoC"
 }

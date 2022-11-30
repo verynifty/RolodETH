@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-cow",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "sm1th.eth"
 }

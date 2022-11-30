@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-cvx",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-pitchdeployer"
   ]
 }

@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-interfacedao"
   ],
   "ens": "rubac.eth"
 }

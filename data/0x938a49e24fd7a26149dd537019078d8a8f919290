@@ -11,6 +11,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-nftfinance"
   ]
 }

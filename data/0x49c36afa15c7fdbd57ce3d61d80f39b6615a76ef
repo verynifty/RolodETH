@@ -2,5 +2,7 @@
   "tags": [
     "contract",
     "erc721"
-  ]
+  ],
+  "erc721_symbol": "INVSBLE3D",
+  "name": "Invisible Friends 3D"
 }

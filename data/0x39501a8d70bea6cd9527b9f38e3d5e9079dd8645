@@ -7,6 +7,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-alchemixstakers"
   ]
 }

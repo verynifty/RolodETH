@@ -6,6 +6,8 @@
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox"
   ]
 }

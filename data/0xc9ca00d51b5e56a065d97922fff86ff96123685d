@@ -5,6 +5,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-qatardev",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

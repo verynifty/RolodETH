@@ -5,5 +5,6 @@
     "snapshot-voter-daoge",
     "snapshot-voter-sismo",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "charlesgu.eth"
 }

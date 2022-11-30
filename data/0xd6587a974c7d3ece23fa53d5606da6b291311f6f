@@ -5,6 +5,7 @@
     "snapshot-voter-cvx",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-beets",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

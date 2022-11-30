@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Blue Patagonia",
   "imageUrl": "https://i.seadn.io/gcs/files/18e50d01d04cc1ccd8f22e81f4aa6873.jpg?w=500&auto=format",
-  "description": "''Somnambulism'' and '' See You On The Other Side''\r\nDropped on Nifty Gateway, August 7th 2022.\r\nhttps://www.niftygateway.com/collections/cath-simard"
+  "description": "''Somnambulism'' and '' See You On The Other Side''\r\nDropped on Nifty Gateway, August 7th 2022.\r\nhttps://www.niftygateway.com/collections/cath-simard",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

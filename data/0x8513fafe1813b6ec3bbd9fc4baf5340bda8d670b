@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "goblin-town-minter",
     "art-goblers-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-dustclub"
   ]
 }

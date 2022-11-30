@@ -5,6 +5,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-frax",
     "snapshot-voter-gmx",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao"
   ]
 }

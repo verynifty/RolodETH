@@ -10,5 +10,6 @@
   "externalUrl": "https://www.bosotokyo.com/",
   "discordUrl": "https://discord.gg/boso-tokyo",
   "twitterUsername": "BosoTokyo",
-  "description": "🚨For staked NFTs, a transaction error will occur when attempting to purchase. If an error occurs, please consider purchasing a different BŌSŌ TOKYO NFT.\r\n\r\nA statement from Tokyo. Built to ignite your identity in the Web3 cosmos. \r\n電上電下唯我独尊┣¨┣¨┣¨"
+  "description": "🚨For staked NFTs, a transaction error will occur when attempting to purchase. If an error occurs, please consider purchasing a different BŌSŌ TOKYO NFT.\r\n\r\nA statement from Tokyo. Built to ignite your identity in the Web3 cosmos. \r\n電上電下唯我独尊┣¨┣¨┣¨",
+  "erc721_symbol": "BOSOTOKEN"
 }

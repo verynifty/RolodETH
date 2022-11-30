@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nuclear Nerds of the Accidental Apocalypse",
   "imageUrl": "https://i.seadn.io/gcs/files/4976d4c9fbc38dc9baade763bb030afa.png?w=500&auto=format",
   "externalUrl": "http://www.nuclearnerds.io",
   "discordUrl": "https://discord.gg/kDrzQwvtsX",
   "twitterUsername": "nuclearnerds",
-  "description": "Nuclear Nerds of the Accidental Apocalypse is not just a simple collection of 8,999 male and female NFTs, it is a jumping-off point for a narrative story world that will be told through a series of future drops and unique mechanics."
+  "description": "Nuclear Nerds of the Accidental Apocalypse is not just a simple collection of 8,999 male and female NFTs, it is a jumping-off point for a narrative story world that will be told through a series of future drops and unique mechanics.",
+  "erc721_symbol": "Nuclear Nerds"
 }

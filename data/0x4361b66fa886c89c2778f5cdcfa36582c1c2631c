@@ -5,6 +5,7 @@
     "snapshot-voter-sismo",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-gearbox"
   ]
 }

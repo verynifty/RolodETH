@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "State of Mind - G3mpHFYbvA",
   "imageUrl": "https://i.seadn.io/gae/WwjzyL42PqD450EwUSZwjDhQV5RaK6J7spkg_GzKVCnmJ6YbBbPZObSge2aGSPudT6AEPjlAJTXx-sHXdinvo30iL5R2KCywzmhlAUU?w=500&auto=format",
-  "description": "Tools for collective imagination."
+  "description": "Tools for collective imagination.",
+  "proxy": "0xe87a68de82204bfa63e4d626d4c5194481cf3b59"
 }

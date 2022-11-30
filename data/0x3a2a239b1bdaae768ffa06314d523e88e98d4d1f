@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "CZX",
+  "erc20_decimals": 18,
+  "name": "utter innocence"
 }

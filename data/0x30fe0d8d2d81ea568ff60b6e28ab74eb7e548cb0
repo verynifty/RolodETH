@@ -1,5 +1,7 @@
 {
   "tags": [
-    "sybil-delegate"
+    "sybil-delegate",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Heroes NFT Collection",
   "imageUrl": "https://i.seadn.io/gae/T0vLxu37Xmhv1tfdskwTR2FnXDd-Jn-lHzeCLHX15gUmfb3PzCEKyuR_lZ-8h_Y6-JWZXECgrcK60Ty7tHIA-xqdBgfiAiZZxa2Hjw?w=500&auto=format",
   "externalUrl": "https://market.theheroes.app/",
   "discordUrl": "https://discord.gg/7sE2se2Z62",
   "twitterUsername": "MerlintheBlue1",
-  "description": "A prophecy foretold...\r\n3,333 heroes would come forth to fight for the soul of humankind against an abhorrent evil.\r\n\r\nHeroes are dynamically created on-chain. Traits and stats are stored in the smart contract and can be accessed by other smart contracts. The on-chain data can be used to create anything you can imagine.\r\n\r\nHero art falls under the CC0 license, which means you can do anything you'd like with your heroes."
+  "description": "A prophecy foretold...\r\n3,333 heroes would come forth to fight for the soul of humankind against an abhorrent evil.\r\n\r\nHeroes are dynamically created on-chain. Traits and stats are stored in the smart contract and can be accessed by other smart contracts. The on-chain data can be used to create anything you can imagine.\r\n\r\nHero art falls under the CC0 license, which means you can do anything you'd like with your heroes.",
+  "erc721_symbol": "HERO"
 }

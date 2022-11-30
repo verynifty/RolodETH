@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Big Brain Kids V2",
   "imageUrl": "https://i.seadn.io/gae/FLCN4UqvNkx24htsLQU2qcZnf5sJSrdnR3RjbhmtalgtN3fC3C1oijzAuVgGgQyucEFN4a8tLxgYlph4GxY6ZemggtQVgnwiOpTu6w?w=500&auto=format",
   "externalUrl": "http://bigbrainkids.io",
   "discordUrl": "https://discord.gg/bigbrainkidsnft",
-  "description": "Big Brain Kids V2 is an ethereum-based NFT project which comprises 5,000 NFT's of common and rare traits from the Genesis BBK. The project aims to bring \"NFT to reality\" to a whole new level where we provide 3D figure solutions for our holders. This covers ANY NFT within their collection. An NFT and whitelist marketplace is also within the scope of this project. The team is doxxed and committed to building with their partners and community. \nLong term plans include a \"play-and-earn\" and \"play-to-whitelist\" mechanics."
+  "description": "Big Brain Kids V2 is an ethereum-based NFT project which comprises 5,000 NFT's of common and rare traits from the Genesis BBK. The project aims to bring \"NFT to reality\" to a whole new level where we provide 3D figure solutions for our holders. This covers ANY NFT within their collection. An NFT and whitelist marketplace is also within the scope of this project. The team is doxxed and committed to building with their partners and community. \nLong term plans include a \"play-and-earn\" and \"play-to-whitelist\" mechanics.",
+  "erc721_symbol": "BBKv2"
 }

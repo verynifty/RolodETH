@@ -10,5 +10,6 @@
   "externalUrl": "https://corntown.wtf",
   "discordUrl": "https://discord.gg/corntown",
   "twitterUsername": "corntownwtf",
-  "description": "Plant your corns at https://planting.wtf , generate KRUNs\n\nCorn has been here way before BTC and cryptocurrencies...imagine what a corn NFT can do...\n\nPlanting, cropping & harvesting rewards...all without leaving your wallet, all on chain. \n\nCorn is destined to grow, whats going to be the first reward? "
+  "description": "Plant your corns at https://planting.wtf , generate KRUNs\n\nCorn has been here way before BTC and cryptocurrencies...imagine what a corn NFT can do...\n\nPlanting, cropping & harvesting rewards...all without leaving your wallet, all on chain. \n\nCorn is destined to grow, whats going to be the first reward? ",
+  "erc721_symbol": "CORN"
 }

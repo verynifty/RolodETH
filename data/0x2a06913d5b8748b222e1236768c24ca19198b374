@@ -23,6 +23,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-spookyswap",
-    "snapshot-voter-beets"
+    "snapshot-voter-beets",
+    "snapshot-voter-stgdao"
   ]
 }

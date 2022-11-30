@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Allstarz Official",
   "imageUrl": "https://i.seadn.io/gcs/files/371ce3099c48d7f0a541bb05c112410e.png?w=500&auto=format",
   "externalUrl": "https://allstarz.world/",
   "discordUrl": "https://discord.gg/allstarz",
   "twitterUsername": "allstarz_nft",
-  "description": "10k Avant PFPs ☆ Minting at [ALLSTARZ.WORLD](https://allstarz.world/) •◌•◌•★•◌•◌•"
+  "description": "10k Avant PFPs ☆ Minting at [ALLSTARZ.WORLD](https://allstarz.world/) •◌•◌•★•◌•◌•",
+  "erc721_symbol": "ALLSTAR"
 }

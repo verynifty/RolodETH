@@ -8,5 +8,6 @@
     "snapshot-voter-qidao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "smlventures.eth"
 }

@@ -4,7 +4,9 @@
     "hashmask-minter",
     "gitcoin-grantee",
     "top-degen",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-gearbox"
   ],
   "name": "Defiprime : Donate"
 }

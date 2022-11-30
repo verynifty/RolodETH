@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kong Club Official",
   "imageUrl": "https://i.seadn.io/gcs/files/78b1f15ac92ef8bdeb2ad1b947ee981b.png?w=500&auto=format",
   "externalUrl": "https://kong-club.com",
   "discordUrl": "https://discord.gg/KxCWDjFbm7",
   "twitterUsername": "KongClubNFT",
-  "description": "Welcome to Kong Club!\n\nKong Club was founded in 2021 with a group of dedicated, ambitious and community focused people looking to make an impact on the world. After months of work behind the scenes we launched our first collection for free the 12 February 2022 and started the journey we all are in together. \n\nEveryone got a chance to join our community through a free mint with the limit of one per wallet. We gave everyone the opportunity to join our community regardless of their financial situation without sacrificing the quality. \n\nWe are now moving towards the next steps together and focusing on the “virtual world”. The internet has opened many doors, but it’s now time to write the next chapters in the WEB3 era. \n\nJoin the KONG family and be part of the journey to the next step. We are stronger together and with the right mindset everything is possible..\n\n[Website](https://kongclub.xyz/)"
+  "description": "Welcome to Kong Club!\n\nKong Club was founded in 2021 with a group of dedicated, ambitious and community focused people looking to make an impact on the world. After months of work behind the scenes we launched our first collection for free the 12 February 2022 and started the journey we all are in together. \n\nEveryone got a chance to join our community through a free mint with the limit of one per wallet. We gave everyone the opportunity to join our community regardless of their financial situation without sacrificing the quality. \n\nWe are now moving towards the next steps together and focusing on the “virtual world”. The internet has opened many doors, but it’s now time to write the next chapters in the WEB3 era. \n\nJoin the KONG family and be part of the journey to the next step. We are stronger together and with the right mindset everything is possible..\n\n[Website](https://kongclub.xyz/)",
+  "erc721_symbol": "KC"
 }

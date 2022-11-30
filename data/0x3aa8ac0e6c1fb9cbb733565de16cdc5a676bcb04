@@ -4,6 +4,7 @@
     "snapshot-voter-floordao",
     "snapshot-voter-aurafinance",
     "snapshot-voter-beefydao",
-    "snapshot-voter-ilv"
+    "snapshot-voter-ilv",
+    "snapshot-voter-fiatdao"
   ]
 }

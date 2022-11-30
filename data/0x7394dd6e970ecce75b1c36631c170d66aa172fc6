@@ -5,6 +5,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo"
   ]
 }

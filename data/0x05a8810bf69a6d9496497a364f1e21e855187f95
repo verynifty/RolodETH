@@ -5,6 +5,7 @@
     "snapshot-voter-freerossdao",
     "snapshot-voter-xuzhiyong",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-nftx"
   ]
 }

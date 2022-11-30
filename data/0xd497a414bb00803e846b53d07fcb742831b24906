@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tigerbob NFT Genesis Collection",
   "imageUrl": "https://i.seadn.io/gae/cubm_f9cWTpxnO2kIUe1xzbAWnAaEc4Pn2AwFDEIUFTqSxwslnQm9Tx6wiDQu-lViJ6AkfQeZk6zo-gZJkldhl4sYlq1SqxONsUtGA?w=500&auto=format",
   "externalUrl": "https://tigerbob.io",
   "discordUrl": "https://discord.gg/tigerbob",
   "twitterUsername": "tigerbob_global",
-  "description": "Tigerbob is a web2 and web3 brand based on handmade tiger designs by Gossamer Rozen.\n\nTigerbob NFT, the official Tigerbob genesis NFT collection, is a collection of 1,000 handmade pixel tigers heads. Gossamer has made each tigerbob in the collection by hand from over 1,000 traits.\n\nThe brand's signature tiger, known as Tigerbob, is one of Gossamer's first tattoo designs in 2019, and has been iterated as tattoos, illustrations, and sculptures since that time. The goal of the Tigerbob NFT project is to present and solidify the Tigerbob brand within Gossamer Rozen's collection of work, and to fund future artistic endeavors. The Tigerbob brand brings together supporters and art enthusiasts of Gossamer's work under a singular image and label.\n\nTigerbob NFT is all rights reserved. You do NOT have permission to create commercial-use derivatives or remix the art in any way. Please see https://tigerbob.io/terms for full details."
+  "description": "Tigerbob is a web2 and web3 brand based on handmade tiger designs by Gossamer Rozen.\n\nTigerbob NFT, the official Tigerbob genesis NFT collection, is a collection of 1,000 handmade pixel tigers heads. Gossamer has made each tigerbob in the collection by hand from over 1,000 traits.\n\nThe brand's signature tiger, known as Tigerbob, is one of Gossamer's first tattoo designs in 2019, and has been iterated as tattoos, illustrations, and sculptures since that time. The goal of the Tigerbob NFT project is to present and solidify the Tigerbob brand within Gossamer Rozen's collection of work, and to fund future artistic endeavors. The Tigerbob brand brings together supporters and art enthusiasts of Gossamer's work under a singular image and label.\n\nTigerbob NFT is all rights reserved. You do NOT have permission to create commercial-use derivatives or remix the art in any way. Please see https://tigerbob.io/terms for full details.",
+  "erc721_symbol": "TGRBOB"
 }

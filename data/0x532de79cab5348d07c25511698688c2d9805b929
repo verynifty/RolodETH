@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "boredassgoblins",
   "imageUrl": "https://i.seadn.io/gae/_aGEv4qZuGOsSyiaOWsg8suTiSdbRYIIvcBWxtx0PMc0PejgbfxMosmoH_2tpxm_bs_oIb8dTpIT9sr0-yv599HF4KJfdzA7PSVwuQ?w=500&auto=format",
   "externalUrl": "https://boredassgoblins.wtf/",
   "twitterUsername": "boredassgoblins",
-  "description": "gob bhao GU gu guh bored ghub ghu bAAAAAAAAA bhrod guh huooob"
+  "description": "gob bhao GU gu guh bored ghub ghu bAAAAAAAAA bhrod guh huooob",
+  "erc721_symbol": "BAG"
 }

@@ -5,7 +5,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-elfi",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ],
   "ens": "js974lin.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Astro Cars",
   "imageUrl": "https://i.seadn.io/gcs/files/ab69b62c63921185317b18f8e9588b28.png?w=500&auto=format",
   "externalUrl": "https://www.nitroleague.com/",
   "discordUrl": "https://discord.gg/nitroleague",
   "twitterUsername": "nitroleaguegame",
-  "description": "Extraterrestrial collection with redefined cars from the Earth's heritage with the technology of the Ancients. Straight from the assembly lines of Nitro League, these cars are blended with various performance components & rarities. Each car is unique!"
+  "description": "Extraterrestrial collection with redefined cars from the Earth's heritage with the technology of the Ancients. Straight from the assembly lines of Nitro League, these cars are blended with various performance components & rarities. Each car is unique!",
+  "erc721_symbol": "NLAC"
 }

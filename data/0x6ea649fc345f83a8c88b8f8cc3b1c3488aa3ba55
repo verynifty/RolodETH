@@ -4,6 +4,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-safe",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gearbox"
   ]
 }

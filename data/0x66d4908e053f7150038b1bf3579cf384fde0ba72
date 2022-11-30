@@ -3,5 +3,6 @@
     "snapshot-voter-fancydao",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "wallet1of99.eth"
 }

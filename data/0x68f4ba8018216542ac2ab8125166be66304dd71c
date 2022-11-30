@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dolce&Gabbana: DGFamily Glass Box",
   "imageUrl": "https://i.seadn.io/gae/uOiahvaerslhCXrVH1PMniPwfM234NrZNU5Vl_1ihQ6iH-PNz6Q3ZGaNzubMaLIFXLtRBSOfXNFefOIteSoOSp5oo5wirQqv320?w=500&auto=format",
   "externalUrl": "https://drops.unxd.com/dgfamily/",
   "discordUrl": "https://discord.gg/unxd",
   "twitterUsername": "dolcegabbana",
-  "description": "DGFamily Glass Boxes are redeemed for a tiered DGFamily Box during an on-chain reveal accessible in the coming weeks on UNXD.\r\n\r\nDGFamily Boxes are the key to unlock access to the Dolce&Gabbana NFT universe – a world of digital, physical, and experiential benefits straight from the quintessentially Italian luxury brand, exclusively in partnership with UNXD. \r\n\r\nFor more details, visit the [collection on UNXD](https://unxd.com/drops/dgfamily-glass-box/live)  and view the announcement on [Twitter](https://twitter.com/dolcegabbana/status/1495774561320767491)"
+  "description": "DGFamily Glass Boxes are redeemed for a tiered DGFamily Box during an on-chain reveal accessible in the coming weeks on UNXD.\r\n\r\nDGFamily Boxes are the key to unlock access to the Dolce&Gabbana NFT universe – a world of digital, physical, and experiential benefits straight from the quintessentially Italian luxury brand, exclusively in partnership with UNXD. \r\n\r\nFor more details, visit the [collection on UNXD](https://unxd.com/drops/dgfamily-glass-box/live)  and view the announcement on [Twitter](https://twitter.com/dolcegabbana/status/1495774561320767491)",
+  "erc721_symbol": "DGGLASS"
 }

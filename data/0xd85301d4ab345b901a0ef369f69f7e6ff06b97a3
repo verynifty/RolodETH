@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "DCMC",
+  "erc20_decimals": 12,
+  "name": "DCMC"
 }

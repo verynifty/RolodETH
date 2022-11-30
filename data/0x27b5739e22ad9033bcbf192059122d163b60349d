@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Staked Yearn CRV Vault",
   "erc20_symbol": "ST-YCRV",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27623/thumb/styearncrv_32.png?1664885292"
+  "imageURL": "https://assets.coingecko.com/coins/images/27623/thumb/styearncrv_32.png?1664885292",
+  "proxy": "0x9c13e225ae007731caa49fd17a41379ab1a489f4"
 }

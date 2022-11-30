@@ -7,5 +7,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-nftfinance",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "vicuatao.eth"
 }

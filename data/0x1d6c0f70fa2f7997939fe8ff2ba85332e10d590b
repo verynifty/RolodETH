@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BOMB Evolution",
   "imageUrl": "https://i.seadn.io/gcs/files/75e121c0f53b0279559eca793911757b.png?w=500&auto=format",
   "externalUrl": "https://www.bombevolution.com/",
   "discordUrl": "https://discord.gg/BvupcKPx",
-  "description": "At Peg Hub we’re on a mission to become the largest & safest crypto staking platform in the world. We’ve been trend setters in DeFi for almost two years, kicking off Tomb Fork season with our Bomb Money protocol. Since then we’ve continued to find innovative ways to create wealth for our investors and don’t plan to slow down any time soon! Owning a BOMB Evolution NFT is your way to support our journey, as well as get exclusive access to all upcoming Peg Hub ecosystem launches!\n\nWith multiple rare and legendary features across the collection, everyone who mints a Bomb Evolution NFT has a shot to own something truly unique! Will you get the quad-legendary?\n\nMint your BOMB Evolution NFT at [BE Minting dApp](https://www.bombevolution.com)!"
+  "description": "At Peg Hub we’re on a mission to become the largest & safest crypto staking platform in the world. We’ve been trend setters in DeFi for almost two years, kicking off Tomb Fork season with our Bomb Money protocol. Since then we’ve continued to find innovative ways to create wealth for our investors and don’t plan to slow down any time soon! Owning a BOMB Evolution NFT is your way to support our journey, as well as get exclusive access to all upcoming Peg Hub ecosystem launches!\n\nWith multiple rare and legendary features across the collection, everyone who mints a Bomb Evolution NFT has a shot to own something truly unique! Will you get the quad-legendary?\n\nMint your BOMB Evolution NFT at [BE Minting dApp](https://www.bombevolution.com)!",
+  "erc721_symbol": "BE"
 }

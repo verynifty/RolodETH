@@ -5,5 +5,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "oculusman.eth"
 }

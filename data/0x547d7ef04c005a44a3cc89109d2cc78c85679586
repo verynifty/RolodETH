@@ -10,6 +10,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cow",
     "snapshot-voter-opcollective",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

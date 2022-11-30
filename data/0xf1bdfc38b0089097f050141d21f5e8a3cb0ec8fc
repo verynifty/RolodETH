@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoTitVags",
   "imageUrl": "https://i.seadn.io/gae/N92jwTnkt-UrGsKus0Ok0-j3w3fCD1YDw6BHDBMy2G4u_xqFXqwuBQTn8FUEC1FpTpmemJXFuOBggmeltPvpxzdDYo5bRUZsCOfwcQ?w=500&auto=format",
   "externalUrl": "http://cryptotitvags.wtf",
   "discordUrl": "https://discord.gg/StZpssBjER",
   "twitterUsername": "CryptoTitVags",
-  "description": "CryptoTitVags represent the next devolution in the state of art as NFTs. This drop features 4200 randomly generated CryptoTitVags."
+  "description": "CryptoTitVags represent the next devolution in the state of art as NFTs. This drop features 4200 randomly generated CryptoTitVags.",
+  "erc721_symbol": "CTV"
 }

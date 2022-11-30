@@ -8,5 +8,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gro-xyz"
-  ]
+  ],
+  "ens": "cryptobanditz.eth"
 }

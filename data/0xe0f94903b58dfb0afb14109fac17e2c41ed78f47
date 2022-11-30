@@ -3,5 +3,6 @@
     "coolcat-minter",
     "hashmask-minter",
     "wow-minter"
-  ]
+  ],
+  "ens": "humach.eth"
 }

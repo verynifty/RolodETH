@@ -3,7 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao"
   ],
   "ens": "ubica.eth"
 }

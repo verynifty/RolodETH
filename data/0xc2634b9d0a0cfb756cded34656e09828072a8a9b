@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gnosis",
     "snapshot-voter-aave",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-alchemixstakers"
   ]
 }

@@ -6,7 +6,8 @@
     "snapshot-voter-elfi",
     "snapshot-voter-eulerdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-kwenta"
   ],
   "ens": "hashigo.eth"
 }

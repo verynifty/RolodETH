@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PIXELATED by Sammy Arriaga",
   "imageUrl": "https://i.seadn.io/gcs/files/f6b06b47e45f0e900ef9a33a939c810c.jpg?w=500&auto=format",
   "externalUrl": "https://sammynft.com",
   "discordUrl": "https://discord.gg/4tBXcCN6pg",
   "twitterUsername": "SammyArriaga",
-  "description": "Collection of 4K PFP/Music NFT's by web3 singer-songwriter Sammy Arriaga. Pixel art designed by Chloe Zorn (@darknutrient on Twitter)\n\n\"PIXELATED\" by Sammy Arriaga is a song about digital love and appreciated someones beauty, pixel for pixel. The collection includes...\n\n- 12 Unique Versions of the song \"Pixelated\" by Sammy Arriaga. Each version ranging from common to legendary! Along with two 1/1 versions as well.\n- IP Rights for the NFT art.\n- Over 150+ Unique Traits.\n- Best community around!\n\nBe part of Music NFT history and get PIXELATED!!!\n\npixelated.love"
+  "description": "Collection of 4K PFP/Music NFT's by web3 singer-songwriter Sammy Arriaga. Pixel art designed by Chloe Zorn (@darknutrient on Twitter)\n\n\"PIXELATED\" by Sammy Arriaga is a song about digital love and appreciated someones beauty, pixel for pixel. The collection includes...\n\n- 12 Unique Versions of the song \"Pixelated\" by Sammy Arriaga. Each version ranging from common to legendary! Along with two 1/1 versions as well.\n- IP Rights for the NFT art.\n- Over 150+ Unique Traits.\n- Best community around!\n\nBe part of Music NFT history and get PIXELATED!!!\n\npixelated.love",
+  "erc721_symbol": "PXLD"
 }

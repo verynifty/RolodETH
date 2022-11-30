@@ -10,5 +10,6 @@
   "externalUrl": "https://quirkies.io/",
   "discordUrl": "https://discord.gg/WhVu9eHrgC",
   "twitterUsername": "quirkiesnft",
-  "description": "5,000 Quirkies brought into the metaverse to celebrate everyone's quirks'"
+  "description": "5,000 Quirkies brought into the metaverse to celebrate everyone's quirks'",
+  "erc721_symbol": "QRKS"
 }

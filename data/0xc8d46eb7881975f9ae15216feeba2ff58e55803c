@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "clonex-minter",
-    "snapshot-voter"
+    "snapshot-voter",
+    "snapshot-voter-gearbox"
   ]
 }

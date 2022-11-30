@@ -5,7 +5,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-astarprince"
+    "snapshot-voter-astarprince",
+    "snapshot-voter-stgdao"
   ],
   "ens": "fuckwar.eth"
 }

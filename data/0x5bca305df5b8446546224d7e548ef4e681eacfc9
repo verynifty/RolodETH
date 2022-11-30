@@ -11,6 +11,8 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-tokenlon",
+    "snapshot-voter-mainnet-ssvnetwork"
   ]
 }

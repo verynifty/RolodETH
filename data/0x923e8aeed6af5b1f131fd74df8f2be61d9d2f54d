@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Skallz",
   "imageUrl": "https://i.seadn.io/gae/XhPYJ02tV9KwvXQ-1792AwXb9zg1o_b7_SCLqS_1IDG6zxiPi48dDuxaIr-dyxyvS8yZUkzjp90T_M6gXhmJg9HQpFlEtxZzcFia4FA?w=500&auto=format",
   "twitterUsername": "SkallzNFT",
-  "description": "888 Skallz on the Ethereum Blockchain. No roadmap. Just dope pixel art. SOLD OUT! Join our alpha group: https://discord.gg/kCXSx3ctnJ"
+  "description": "888 Skallz on the Ethereum Blockchain. No roadmap. Just dope pixel art. SOLD OUT! Join our alpha group: https://discord.gg/kCXSx3ctnJ",
+  "erc721_symbol": "SKALLZ"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
     "snapshot-voter-swerve",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

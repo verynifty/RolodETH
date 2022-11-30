@@ -1,6 +1,7 @@
 {
   "tags": [
     "azuki-minter",
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-interfacedao"
   ]
 }

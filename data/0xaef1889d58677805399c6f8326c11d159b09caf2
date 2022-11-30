@@ -6,6 +6,7 @@
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-gnosis",
     "snapshot-voter-cow",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-derify"
   ]
 }

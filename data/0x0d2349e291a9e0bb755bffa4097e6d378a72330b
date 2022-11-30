@@ -8,5 +8,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-qidao"
-  ]
+  ],
+  "ens": "danielthegreat.eth"
 }

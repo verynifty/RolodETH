@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tokyo Rebels",
   "imageUrl": "https://i.seadn.io/gcs/files/6f83da0246724ec03ddb52cc32cd7ea4.jpg?w=500&auto=format",
   "externalUrl": "https://tokyorebels.io",
   "discordUrl": "https://discord.gg/tokyorebels",
   "twitterUsername": "TheTokyoRebels",
-  "description": "**Tokyo Rebels** is composed of 10,000 animated NFTs. Each one will serve as a key to build, converse and grow within the universe.\nLeft to pick up the pieces of our past we call upon you, citizens, to forge whatever future is left for us.\n\n[tokyorebels.io](https://www.tokyorebels.io)"
+  "description": "**Tokyo Rebels** is composed of 10,000 animated NFTs. Each one will serve as a key to build, converse and grow within the universe.\nLeft to pick up the pieces of our past we call upon you, citizens, to forge whatever future is left for us.\n\n[tokyorebels.io](https://www.tokyorebels.io)",
+  "erc721_symbol": "REBEL"
 }

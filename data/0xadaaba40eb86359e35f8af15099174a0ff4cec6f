@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-interfacedao"
   ]
 }

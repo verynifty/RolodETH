@@ -10,6 +10,7 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-gearbox"
   ]
 }

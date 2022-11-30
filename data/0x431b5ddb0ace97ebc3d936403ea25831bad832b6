@@ -12,7 +12,9 @@
     "snapshot-voter-mail3",
     "snapshot-voter-balancer",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-vapornodes"
   ],
   "ens": "crypto-enthusiast.eth"
 }

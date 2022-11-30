@@ -16,7 +16,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-sismo"
   ],
   "name": "Evmos: Deployer"
 }

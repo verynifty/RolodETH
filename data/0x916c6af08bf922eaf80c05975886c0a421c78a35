@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Steady Stack Titans Official",
   "imageUrl": "https://i.seadn.io/gcs/files/769f963ce4029e4b5b4edc8df80a4663.gif?w=500&auto=format",
   "discordUrl": "https://discord.gg/invite/steadystack",
   "twitterUsername": "SteadyStackNFT",
-  "description": "A Collection of 2125 Investors, Traders, VCs, Web3 Experts & Entrepreneurs. Driven by Leadership-Driven & Community-Led building to curate wealth creation based utility, resources & exclusive opportunities for Titans.\n\nSteady Stack Titans are the Investor Illuminati . Pioneering the New Meta.\n\nFirst NFT to create Multiple Revenue Streams Beyond Royalties (B2B & B2C) to sustain longevity regardless of market conditions; creating roots of tangible utility across the space.\n\nPaths to wealth generation & upwards mobility at all levels.\n\n\nCheck #List-of-Utilities in Discord. Too much to list..."
+  "description": "A Collection of 2125 Investors, Traders, VCs, Web3 Experts & Entrepreneurs. Driven by Leadership-Driven & Community-Led building to curate wealth creation based utility, resources & exclusive opportunities for Titans.\n\nSteady Stack Titans are the Investor Illuminati . Pioneering the New Meta.\n\nFirst NFT to create Multiple Revenue Streams Beyond Royalties (B2B & B2C) to sustain longevity regardless of market conditions; creating roots of tangible utility across the space.\n\nPaths to wealth generation & upwards mobility at all levels.\n\n\nCheck #List-of-Utilities in Discord. Too much to list...",
+  "erc721_symbol": "SSTITN"
 }

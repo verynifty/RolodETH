@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Anonymice",
   "imageUrl": "https://i.seadn.io/gae/UdYrqTAU9h9tXf5WqUH8NyKYf_bRK6mBEdJMwQeejU3UbbUrD8rhsw5BlmPY2HdAYnjqJsAqpZgxhXXUDAE4kz5Q7UO8M__xBKrL?w=500&auto=format",
   "externalUrl": "https://www.anonymice.com",
   "discordUrl": "https://discord.gg/anonymice",
   "twitterUsername": "AnonymiceNFT",
-  "description": "**CC0. No IPFS. No APIs. Just code**. Fully on-chain, generative NFT. \n\n10,000 Anonymice have been minted. 6,450 have been burned, only 3550 remain. Unique holders 1418 (May 29. 2022) (40% unique holder distribution)\n\n  2 Anonymice were used to breed and create the [Anonymice Babies](https://opensea.io/collection/anonymice-babies) collection in the first on chain breeding event.   \n\nAnonymice Babies are in the process of Evolving, you can buy DNAchips [here](https://opensea.io/collection/anonymice-evolutions).\n\nCheeth can no longer be obtained through staking. 12.3M cheeth has been claimed so far out of a maximum of 21M. To check if the cheeth has been claimed for any mouse check [here](https://anonymice.com/cheeth ).\n\n[Cheeth uniswap dashboard](https://tinyurl.com/3k8zhce5  )\n\nJoin the discord to learn more!"
+  "description": "**CC0. No IPFS. No APIs. Just code**. Fully on-chain, generative NFT. \n\n10,000 Anonymice have been minted. 6,450 have been burned, only 3550 remain. Unique holders 1418 (May 29. 2022) (40% unique holder distribution)\n\n  2 Anonymice were used to breed and create the [Anonymice Babies](https://opensea.io/collection/anonymice-babies) collection in the first on chain breeding event.   \n\nAnonymice Babies are in the process of Evolving, you can buy DNAchips [here](https://opensea.io/collection/anonymice-evolutions).\n\nCheeth can no longer be obtained through staking. 12.3M cheeth has been claimed so far out of a maximum of 21M. To check if the cheeth has been claimed for any mouse check [here](https://anonymice.com/cheeth ).\n\n[Cheeth uniswap dashboard](https://tinyurl.com/3k8zhce5  )\n\nJoin the discord to learn more!",
+  "erc721_symbol": "MICE"
 }

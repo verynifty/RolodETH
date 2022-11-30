@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-elfi",
     "snapshot-voter-banklessvault",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

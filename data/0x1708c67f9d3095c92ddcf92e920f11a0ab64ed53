@@ -14,6 +14,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-8848labs",
     "snapshot-voter-pancake",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-derify"
   ]
 }

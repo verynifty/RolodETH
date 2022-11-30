@@ -7,6 +7,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap",
-    "snapshot-voter-qqgame"
+    "snapshot-voter-qqgame",
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-sismo"
   ]
 }

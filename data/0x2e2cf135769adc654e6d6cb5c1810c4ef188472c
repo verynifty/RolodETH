@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-nftfinance",
     "snapshot-voter-opcollective",
-    "snapshot-voter-8848labs"
+    "snapshot-voter-8848labs",
+    "snapshot-voter-mail3"
   ]
 }

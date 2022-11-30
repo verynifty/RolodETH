@@ -7,6 +7,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gearbox"
   ]
 }

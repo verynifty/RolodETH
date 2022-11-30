@@ -10,5 +10,6 @@
   "externalUrl": "http://foxfam.io",
   "discordUrl": "https://discord.gg/foxfam",
   "twitterUsername": "foxfamnft",
-  "description": "Fox Fam is a collection of generative characters, designed by Yum Yum Studio. The foxes are created from a set of lovingly handcrafted attributes giving each one their own unique character. We have released 10,000 foxes into the wild for you to own!"
+  "description": "Fox Fam is a collection of generative characters, designed by Yum Yum Studio. The foxes are created from a set of lovingly handcrafted attributes giving each one their own unique character. We have released 10,000 foxes into the wild for you to own!",
+  "erc721_symbol": "FOXFAM"
 }

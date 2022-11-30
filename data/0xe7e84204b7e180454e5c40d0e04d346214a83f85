@@ -4,5 +4,6 @@
     "meebit-minter",
     "wow-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "harper.eth"
 }

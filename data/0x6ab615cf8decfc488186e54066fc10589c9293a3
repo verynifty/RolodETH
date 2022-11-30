@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-curve",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "WPT Investing Corp",
   "erc20_symbol": "WPT",

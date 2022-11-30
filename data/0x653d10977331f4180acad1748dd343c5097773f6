@@ -3,5 +3,6 @@
     "moonbird-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "ftt22.eth"
 }

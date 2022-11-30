@@ -3,5 +3,6 @@
     "moonbird-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "valent.eth"
 }

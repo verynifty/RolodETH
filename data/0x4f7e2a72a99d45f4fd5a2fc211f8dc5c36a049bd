@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Girlies NFT",
   "imageUrl": "https://i.seadn.io/gae/GfPAPMX_Nl_hj-i0kC57QItUJu2_YmorVZpjyY5GB7n14Z_VxAs6fEszWbAD0zIgVb1mdA24UVzwjfQJX5gQAm2CqJnbyUCwmAsHtw?w=500&auto=format",
   "externalUrl": "https://girlies.art",
   "discordUrl": "https://discord.gg/kwzYCXuzfe",
   "twitterUsername": "GirliesNFT",
-  "description": "Girlies NFT is a collection created and illustrated by 14 y/o artist [Valeria](https://twitter.com/Valeria_NFT). Over 300 hand-drawn traits. We support women and children in the NFT space. Visit [girlies.art](https://girlies.art) to learn more.\n\n[Female Art Fund](https://opensea.io/Girlies_NFT_Female_Fund) | [Children's Art Fund](https://opensea.io/GirliesNFT_Children_Fund) | [Valeria's 1/1 NFTs](https://opensea.io/collection/special-edition-girlies) | [Girlies Honoraries](https://opensea.io/collection/girlies-honoraries) | [Girlies for Good](https://opensea.io/collection/girlies-for-good) | \n[Special Edition](https://opensea.io/collection/special-edition-girlies-airdrop)\n\nERC-721 token hosted on IPFS. Visit our website to read our NFT license."
+  "description": "Girlies NFT is a collection created and illustrated by 14 y/o artist [Valeria](https://twitter.com/Valeria_NFT). Over 300 hand-drawn traits. We support women and children in the NFT space. Visit [girlies.art](https://girlies.art) to learn more.\n\n[Female Art Fund](https://opensea.io/Girlies_NFT_Female_Fund) | [Children's Art Fund](https://opensea.io/GirliesNFT_Children_Fund) | [Valeria's 1/1 NFTs](https://opensea.io/collection/special-edition-girlies) | [Girlies Honoraries](https://opensea.io/collection/girlies-honoraries) | [Girlies for Good](https://opensea.io/collection/girlies-for-good) | \n[Special Edition](https://opensea.io/collection/special-edition-girlies-airdrop)\n\nERC-721 token hosted on IPFS. Visit our website to read our NFT license.",
+  "erc721_symbol": "GRLS"
 }

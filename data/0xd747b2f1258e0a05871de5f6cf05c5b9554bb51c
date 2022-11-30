@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-sismo"
   ]
 }

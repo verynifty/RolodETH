@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hashflowdao"
   ]
 }

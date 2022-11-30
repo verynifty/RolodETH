@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "\"MOAR\" by Joan Cornella",
   "imageUrl": "https://i.seadn.io/gae/Jy5vdUGruehtLi7sEc_fFzPnWKgkCAy4nUQBv81AhUzUXew-cY2OwwsEjCkQS-2YsLQbP9A7BYlyrFpK2Ux8Xqo83p8sYXct71K8?w=500&auto=format",
   "externalUrl": "https://joancornella.fwenclub.com/",
   "discordUrl": "https://discord.gg/fwenclub",
   "twitterUsername": "fwenclub",
-  "description": "** MOAR by Joan Cornellà ** is an unusual mansion in the metaverse proudly presented by FWENCLUB, where 5,555 creatures with their souls minted with the ERC721 blockchain as NFTs. Each of these \"peacefully-living-together\" humans, cyborgs or even zombies, is unique, hand-drawn by Spanish artist Joan Cornellà using over 200 unique attributes. You may even find shops, games, virtual exhibitions … and MOAR!"
+  "description": "** MOAR by Joan Cornellà ** is an unusual mansion in the metaverse proudly presented by FWENCLUB, where 5,555 creatures with their souls minted with the ERC721 blockchain as NFTs. Each of these \"peacefully-living-together\" humans, cyborgs or even zombies, is unique, hand-drawn by Spanish artist Joan Cornellà using over 200 unique attributes. You may even find shops, games, virtual exhibitions … and MOAR!",
+  "erc721_symbol": "MOAR"
 }

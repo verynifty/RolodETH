@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bionic Outlier Tribe",
   "imageUrl": "https://i.seadn.io/gae/sgmvgsmgYIlhv0nLDJgk0Yc-RqzzFGQMihfk_gdLdpmJtZK_GKzMczbGdm2rHJFW5L-OB0unaYeaFzF_rzfkUlyF_5a3EkxppwW4Xg?w=500&auto=format",
   "externalUrl": "https://bionicoutliertribe.com/",
   "discordUrl": "https://discord.gg/7eTqwxn6nW",
   "twitterUsername": "botnfts",
-  "description": "A collection of 10,000 where your token initiates you into the fight for survival or supremacy. Welcome to the Scavenge Lands…"
+  "description": "A collection of 10,000 where your token initiates you into the fight for survival or supremacy. Welcome to the Scavenge Lands…",
+  "erc721_symbol": "BOT"
 }

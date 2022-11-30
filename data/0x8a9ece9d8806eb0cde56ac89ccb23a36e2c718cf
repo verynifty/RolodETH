@@ -10,5 +10,6 @@
   "externalUrl": "http://humansofthemetaverse.com",
   "discordUrl": "https://discord.gg/humansmetaverse",
   "twitterUsername": "HumansMetaverse",
-  "description": "A collection of 6500 Humans are building the most innovative City inside of the Metaverse: [the MetaCity](https://opensea.io/collection/metacityrealestate).\n\nConnected through Art, Business Models and passion for innovation, the MetaCity is the place where we turn dreams into reality."
+  "description": "A collection of 6500 Humans are building the most innovative City inside of the Metaverse: [the MetaCity](https://opensea.io/collection/metacityrealestate).\n\nConnected through Art, Business Models and passion for innovation, the MetaCity is the place where we turn dreams into reality.",
+  "erc721_symbol": "HOTM"
 }

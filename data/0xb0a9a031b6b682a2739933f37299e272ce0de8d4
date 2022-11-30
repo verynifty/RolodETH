@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "0x699996.eth"
 }

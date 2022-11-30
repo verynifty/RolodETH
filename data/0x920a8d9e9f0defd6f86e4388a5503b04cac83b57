@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Deadfrenz Collection",
   "imageUrl": "https://i.seadn.io/gae/d2JT6DRWuuNfOEaMebDoCM3tUh-OBk6zfLUfNb9lwJ3dSGJQolGxQSStM_c4fn4p2eirPcDQ8aQEqC6La7UpBh9uyFXzKh36BUcF?w=500&auto=format",
   "externalUrl": "https://www.deadfellaz.io",
   "discordUrl": "https://discord.gg/deadfellaz",
-  "description": "Deadfrenz is a collection of 13,000 unique NFTs brought to you by Deadfellaz as a companion project, complimenting the original collections with both aesthetics and utility, with a special focus on gaming. Deadfrenz is made up of 13 species, each with their own array of traits and variance. As in the original collections, rarity is statistical and secret traits are not always listed, but discovered.\r\n\r\nYou can still mint Deadfrenz via [Deadfrenz Lab Access Pass](https://opensea.io/collection/deadfrenz-lab-access-pass)"
+  "description": "Deadfrenz is a collection of 13,000 unique NFTs brought to you by Deadfellaz as a companion project, complimenting the original collections with both aesthetics and utility, with a special focus on gaming. Deadfrenz is made up of 13 species, each with their own array of traits and variance. As in the original collections, rarity is statistical and secret traits are not always listed, but discovered.\r\n\r\nYou can still mint Deadfrenz via [Deadfrenz Lab Access Pass](https://opensea.io/collection/deadfrenz-lab-access-pass)",
+  "erc721_symbol": "DEADFRENZ"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bored Ricks Wubba Club official",
   "imageUrl": "https://i.seadn.io/gcs/files/073be605bc995e25fb3af6c9750ce489.png?w=500&auto=format",
-  "description": "10 000 Ricks ready to invade the otherside 🛸\n\nEach Bored Ricks WC matches a Bored Ape YC 1/1 \n\nWubba Lubba Dub Dub 🤘🏻\n"
+  "description": "10 000 Ricks ready to invade the otherside 🛸\n\nEach Bored Ricks WC matches a Bored Ape YC 1/1 \n\nWubba Lubba Dub Dub 🤘🏻\n",
+  "erc721_symbol": "BRWC"
 }

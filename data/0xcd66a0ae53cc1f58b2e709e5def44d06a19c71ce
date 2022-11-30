@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-streamr",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ]
 }

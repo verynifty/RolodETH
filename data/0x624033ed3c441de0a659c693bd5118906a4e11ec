@@ -4,7 +4,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "mraw8888.eth"
 }

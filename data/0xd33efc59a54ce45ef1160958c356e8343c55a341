@@ -9,6 +9,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

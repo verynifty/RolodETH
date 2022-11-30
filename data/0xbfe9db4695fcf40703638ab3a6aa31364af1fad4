@@ -4,6 +4,7 @@
     "goblin-town-minter",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

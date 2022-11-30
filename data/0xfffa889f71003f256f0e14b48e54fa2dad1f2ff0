@@ -13,7 +13,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "zkman.eth"
 }

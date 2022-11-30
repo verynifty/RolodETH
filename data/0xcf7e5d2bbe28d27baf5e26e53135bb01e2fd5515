@@ -5,6 +5,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-loot-dao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox"
   ]
 }

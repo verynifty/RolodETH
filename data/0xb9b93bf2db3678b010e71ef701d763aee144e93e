@@ -16,6 +16,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-qqgame",
     "snapshot-voter-gmx",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-kleros",
+    "snapshot-voter-agavedao"
   ]
 }

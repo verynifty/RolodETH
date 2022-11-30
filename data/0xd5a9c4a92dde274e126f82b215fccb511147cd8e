@@ -7,5 +7,6 @@
     "meebit-minter",
     "wow-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "0x541nt.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kryptoria - Land",
   "imageUrl": "https://i.seadn.io/gcs/files/92adf99b24af2c19b978ec199b7ed613.gif?w=500&auto=format",
   "externalUrl": "https://kryptoria.io/",
   "discordUrl": "https://discord.gg/kryptoria",
   "twitterUsername": "Kryptoria",
-  "description": "Kryptoria is a VC backed, immersive map-based blockchain game. Set in our Unity built world, holders will be able to dynamically update all traits on their Alpha Citizen post mint offering not only individual customisation but on-going commercial opportunities.\n\nOwners of Kryptoria’s Land will, when combined with an Alpha Citizen, have a daily resource yield.\n\nLand is your ticket to creating and owning identity within Kryptoria. A pass to our gamified metaverse. The foundation of our next generation.\n\nKryptoria Alpha Citizens: https://opensea.io/collection/kryptoria-alphacitizens\n\nKryptoria Weapons: https://opensea.io/collection/kryptoriaweapons"
+  "description": "Kryptoria is a VC backed, immersive map-based blockchain game. Set in our Unity built world, holders will be able to dynamically update all traits on their Alpha Citizen post mint offering not only individual customisation but on-going commercial opportunities.\n\nOwners of Kryptoria’s Land will, when combined with an Alpha Citizen, have a daily resource yield.\n\nLand is your ticket to creating and owning identity within Kryptoria. A pass to our gamified metaverse. The foundation of our next generation.\n\nKryptoria Alpha Citizens: https://opensea.io/collection/kryptoria-alphacitizens\n\nKryptoria Weapons: https://opensea.io/collection/kryptoriaweapons",
+  "erc721_symbol": "KRYPTORIA"
 }

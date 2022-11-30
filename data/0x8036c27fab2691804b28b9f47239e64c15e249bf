@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-sismo"
   ]
 }

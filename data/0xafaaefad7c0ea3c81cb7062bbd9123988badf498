@@ -10,6 +10,7 @@
     "snapshot-voter-opcollective",
     "opensea-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

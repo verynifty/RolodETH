@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Life's A Joke NFT Official",
   "imageUrl": "https://i.seadn.io/gae/yTjNV3i6D4sHKpO1YTug5Qc4PMzHLC_UO8LndEnF5uhXmcqw6Y9A2BEgaqgC81wkab-4nIlYU0S1r7h_XKJjN9uGG7hrkSGmvUmtYA?w=500&auto=format",
   "discordUrl": "https://discord.gg/lifesajoke",
   "twitterUsername": "LifesAJoke_NFT",
-  "description": "This project is all about you & your NFT journey 🤡\n\nPerks of Ownership:\nBy owning a Life's A Joke NFT you own the underlying artwork and all of its Intellectual Property. \nOwnership and IP Rights are detailed here: https://ipfs.io/ipfs/bafybeiez27e56bvez2v5igxu2j6jmwxdhvua4tc46t6hvlhevdqqdw3cl4\n\nPhase 2. Soon… (It’s gonna be fun! 🤫🤡 -clown laugh-)"
+  "description": "This project is all about you & your NFT journey 🤡\n\nPerks of Ownership:\nBy owning a Life's A Joke NFT you own the underlying artwork and all of its Intellectual Property. \nOwnership and IP Rights are detailed here: https://ipfs.io/ipfs/bafybeiez27e56bvez2v5igxu2j6jmwxdhvua4tc46t6hvlhevdqqdw3cl4\n\nPhase 2. Soon… (It’s gonna be fun! 🤫🤡 -clown laugh-)",
+  "erc721_symbol": "LAJ"
 }

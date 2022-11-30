@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "snapshot-voter-theidols"
+    "snapshot-voter-theidols",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-gearbox"
   ]
 }

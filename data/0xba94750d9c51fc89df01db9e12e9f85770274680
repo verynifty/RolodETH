@@ -2,7 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-balancer",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-116114"
   ],
   "ens": "116114.eth"
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

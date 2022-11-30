@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Floki Inu: Old - FLOKI Token"
+  "name": "Floki Inu: Old - FLOKI Token",
+  "erc20_symbol": "FLOKI",
+  "erc20_decimals": 9
 }

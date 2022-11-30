@@ -19,6 +19,8 @@
     "snapshot-voter-hop",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-ybaby"
   ]
 }

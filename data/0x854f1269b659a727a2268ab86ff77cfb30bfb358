@@ -12,7 +12,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-redactedcartel",
     "snapshot-voter-neworderdao-xyz",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox"
   ],
   "ens": "invictus369.eth"
 }

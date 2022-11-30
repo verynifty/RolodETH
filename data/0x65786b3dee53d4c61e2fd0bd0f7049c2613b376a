@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-camb0t"
+    "snapshot-voter-camb0t",
+    "snapshot-voter-stgdao"
   ]
 }

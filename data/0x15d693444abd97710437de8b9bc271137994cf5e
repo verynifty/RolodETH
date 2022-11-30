@@ -14,6 +14,8 @@
     "snapshot-voter-lido-snapshot",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3"
   ]
 }

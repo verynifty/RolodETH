@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-pooltogether",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

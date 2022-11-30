@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wumbo Pass",
   "imageUrl": "https://i.seadn.io/gcs/files/a7446e79f6760a30448de61c972bbdcc.jpg?w=500&auto=format",
   "externalUrl": "http://wumbolabs.com",
   "discordUrl": "https://discord.gg/wumbolabs",
   "twitterUsername": "WumboLabs",
-  "description": "A private community of Wumbologists - top traders, builders, and collectors in the NFT space. \n\nDiscord bots, tools, and exclusive access to drops via our friends & partners."
+  "description": "A private community of Wumbologists - top traders, builders, and collectors in the NFT space. \n\nDiscord bots, tools, and exclusive access to drops via our friends & partners.",
+  "erc721_symbol": "WUMBO"
 }

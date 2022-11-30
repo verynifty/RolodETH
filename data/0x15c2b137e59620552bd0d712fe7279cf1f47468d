@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Glue Factory Show",
   "imageUrl": "https://i.seadn.io/gae/SiP-0JD-lUe6auBBnVwCVVy2FMGXhdq7ikMh0X1qo9AtE55wOoEp_Z4JJ-RWAUpvLL7BjIk8XkPjeJdW9FkcQtNvULNspDa3uOlhAQ?w=500&auto=format",
   "externalUrl": "https://gluefactoryshow.com/",
   "discordUrl": "https://discord.gg/qxtuHf2WT8",
   "twitterUsername": "GlueFactoryShow",
-  "description": "Move over avatars, we're making equine stars! For too long the real stories of the most majestic creatures on four legs have been ignored. This provocative generative art project spotlights the existential dread of our equine friends and will generate the dark comedy series ‘The Glue Factory’ starring the NFT collectibles, written and voiced by some of the biggest names in TV comedy."
+  "description": "Move over avatars, we're making equine stars! For too long the real stories of the most majestic creatures on four legs have been ignored. This provocative generative art project spotlights the existential dread of our equine friends and will generate the dark comedy series ‘The Glue Factory’ starring the NFT collectibles, written and voiced by some of the biggest names in TV comedy.",
+  "erc721_symbol": "GFS"
 }

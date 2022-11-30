@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-dudulab",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ],
   "ens": "ww941019.eth"
 }

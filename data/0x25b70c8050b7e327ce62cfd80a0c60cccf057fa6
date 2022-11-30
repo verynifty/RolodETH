@@ -3,5 +3,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-aurafinance",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "zen-dragon.eth"
 }

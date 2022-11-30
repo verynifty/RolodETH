@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Nippy & Frens Founders Pass",
   "imageUrl": "https://i.seadn.io/gae/yK8YOPTN5gmVIpS6PtnZCIjnwHJ1ByA2bkONzFRhOhfgawN_tLYLdadvAR1rOglf5KlcQo4hoKHEcQg-IWdsKxX6fBom96DW_Vww_g?w=500&auto=format",
   "externalUrl": "https://meetnippy.com",
   "discordUrl": "https://discord.gg/meetnippy",
   "twitterUsername": "meetnippy",
-  "description": "We're not just a toy company. We're not just a game company. We're dedicated to teaching kids about web3 — specifically blockchain and cryptocurrencies. We know you want to learn about web3, and we have the answer! Our range of games, interactive stories, and educational content will keep your kids entertained for hours, while they learn valuable skills like math, programming, finance, and more. Our brand features memorable characters who invite children into our world of web3 with familiarity. With beautiful illustrations and in-depth stories, Nippy is sure to delight both parents and children alike!"
+  "description": "We're not just a toy company. We're not just a game company. We're dedicated to teaching kids about web3 — specifically blockchain and cryptocurrencies. We know you want to learn about web3, and we have the answer! Our range of games, interactive stories, and educational content will keep your kids entertained for hours, while they learn valuable skills like math, programming, finance, and more. Our brand features memorable characters who invite children into our world of web3 with familiarity. With beautiful illustrations and in-depth stories, Nippy is sure to delight both parents and children alike!",
+  "proxy": "0xff3b2524f0ba31fdea8de0506f82978c3ce8ffe6"
 }

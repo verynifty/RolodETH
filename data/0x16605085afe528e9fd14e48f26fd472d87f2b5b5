@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "RTKN",
+  "erc20_decimals": 8,
+  "name": "Rightner Token"
+}

@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gearbox"
   ]
 }

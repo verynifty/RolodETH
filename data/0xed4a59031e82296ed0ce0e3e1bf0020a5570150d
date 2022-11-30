@@ -9,6 +9,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-tokenlon"
   ]
 }

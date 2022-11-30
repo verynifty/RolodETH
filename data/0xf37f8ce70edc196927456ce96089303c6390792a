@@ -3,6 +3,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao"
   ]
 }

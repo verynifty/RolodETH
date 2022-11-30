@@ -3,6 +3,7 @@
     "loot-minter",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gitcoingov"
   ]
 }

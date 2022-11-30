@@ -6,6 +6,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-top8888",
     "snapshot-voter-hop",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-stgdao"
   ]
 }

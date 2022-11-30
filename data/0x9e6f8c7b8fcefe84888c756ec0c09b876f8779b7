@@ -6,6 +6,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

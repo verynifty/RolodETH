@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ],
   "ens": "xxxccc.eth"
 }

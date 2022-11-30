@@ -5,6 +5,7 @@
     "snapshot-voter-floordao",
     "snapshot-voter-olympusdao",
     "snapshot-voter-redactedcartel",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

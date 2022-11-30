@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MoonRabbits",
   "imageUrl": "https://i.seadn.io/gcs/files/57b6dd15a3eb1434b671aeadce2e344d.jpg?w=500&auto=format",
   "externalUrl": "http://www.moonrabbits.art",
   "twitterUsername": "0xMoonRabbits",
-  "description": "𝘁𝗵𝗲 𝘀𝘁𝗼𝗿𝘆 𝗼𝗳 𝗠𝗼𝗼𝗻𝗥𝗮𝗯𝗯𝗶𝘁𝘀 𝘀𝘁𝗮𝗿𝘁𝗲𝗱.𝗙𝗿𝗲𝗲𝗺𝗶𝗻𝘁.𝗡𝗼 𝗥𝗼𝗮𝗱𝗺𝗮𝗽.𝗡𝗼 𝗗𝗶𝘀𝗰𝗼𝗿𝗱.𝗖𝗖𝟬"
+  "description": "𝘁𝗵𝗲 𝘀𝘁𝗼𝗿𝘆 𝗼𝗳 𝗠𝗼𝗼𝗻𝗥𝗮𝗯𝗯𝗶𝘁𝘀 𝘀𝘁𝗮𝗿𝘁𝗲𝗱.𝗙𝗿𝗲𝗲𝗺𝗶𝗻𝘁.𝗡𝗼 𝗥𝗼𝗮𝗱𝗺𝗮𝗽.𝗡𝗼 𝗗𝗶𝘀𝗰𝗼𝗿𝗱.𝗖𝗖𝟬",
+  "erc721_symbol": "MOONRABBIT"
 }

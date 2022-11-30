@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Candy Digital",
   "imageUrl": "https://i.seadn.io/gae/SwIlyjjg51ox7Xs6llIioZi2CixlNVFqa2ld23609CYLW7599HZxL3WQMJh0nLDQlYB20kISsEGhgz3MtcqB4uUHdkhB67buYOczAQ?w=500&auto=format",
   "externalUrl": "https://www.candy.com/",
   "discordUrl": "https://discord.gg/6dVf3W8Z",
   "twitterUsername": "CandyDigital",
-  "description": "Welcome to Candy! Shop our world-class NFTs here on OpenSea or at mlb.candy.com.\n\nCandy is Major League Baseball’s official NFT ecosystem where fans and collectors will be able to purchase, trade, and share officially licensed NFTs to deepen their love of the sport. Candy’s mission is to develop next-generation sports and culture digital assets, providing authentic objects and experiences that deepen fan engagement and connect people to their passions."
+  "description": "Welcome to Candy! Shop our world-class NFTs here on OpenSea or at mlb.candy.com.\n\nCandy is Major League Baseball’s official NFT ecosystem where fans and collectors will be able to purchase, trade, and share officially licensed NFTs to deepen their love of the sport. Candy’s mission is to develop next-generation sports and culture digital assets, providing authentic objects and experiences that deepen fan engagement and connect people to their passions.",
+  "proxy": "0x868c021c591bca787a7b105441a57d3a5aa9f0a3"
 }

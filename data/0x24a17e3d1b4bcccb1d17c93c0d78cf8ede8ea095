@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "massif02.eth"
 }

@@ -3,5 +3,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "Sound.xyz: Deployer 11"
+  "name": "Sound.xyz: Deployer 11",
+  "ens": "dotmusic.eth"
 }

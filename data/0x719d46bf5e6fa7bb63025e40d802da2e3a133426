@@ -4,6 +4,7 @@
     "pudgy-pinguin-minter",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gearbox"
   ]
 }

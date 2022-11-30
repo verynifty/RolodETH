@@ -16,6 +16,7 @@
     "opensea-user",
     "snapshot-voter-stgdao",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-sismo"
   ]
 }

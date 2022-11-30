@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Cardstack",
   "erc20_symbol": "CARD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3247/thumb/cardstack.png?1547037769"
+  "imageURL": "https://assets.coingecko.com/coins/images/3247/thumb/cardstack.png?1547037769",
+  "proxy": "0x48ec5680eb030356ff12ad82be1433a6992fffe7"
 }

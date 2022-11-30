@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Weather Report Intl.",
   "imageUrl": "https://i.seadn.io/gae/gqRyan-Fk3-zGCfxJxgnaAOVrHdCoEcDlEwDgLt1AvcLZHSLouo6JUduTfZPs3RL82g9aQWKsk34Qp0R31ySOK2aa0224IhBEMHG?w=500&auto=format",
   "externalUrl": "http://weathereport.io",
   "discordUrl": "https://discord.gg/weathereport",
   "twitterUsername": "WeatheReportNFT",
-  "description": "10,000 Generative Friends Ready For All Conditions. Rain or Shine, We’re Here. ⛈ ⛈ ⛈"
+  "description": "10,000 Generative Friends Ready For All Conditions. Rain or Shine, We’re Here. ⛈ ⛈ ⛈",
+  "erc721_symbol": "WR"
 }

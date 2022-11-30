@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-yearn",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aavegotchi"
   ],
   "ens": "gbuckley.eth"
 }

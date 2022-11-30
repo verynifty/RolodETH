@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-ens",
     "snapshot-voter-gmx",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-sismo"
   ]
 }

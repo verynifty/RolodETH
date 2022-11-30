@@ -10,6 +10,7 @@
     "sudoswap-user",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-sismo"
   ]
 }

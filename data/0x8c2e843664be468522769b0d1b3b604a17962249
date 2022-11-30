@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-jpeg’d",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

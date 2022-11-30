@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-people-dao",
     "sudoswap-user",
-    "snapshot-voter-nftfinance"
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-tokenlon"
   ]
 }

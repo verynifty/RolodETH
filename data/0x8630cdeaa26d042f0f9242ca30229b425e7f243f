@@ -10,5 +10,6 @@
   "externalUrl": "http://claylings.io",
   "discordUrl": "https://discord.gg/Claylings",
   "twitterUsername": "ClaylingsNFT",
-  "description": "Claylings is a 4,040 edition generative art project, which draws its aesthetic from the likes of Chicken Run, Wallace & Gromit and Neverhood, calling back to '90s nostalgia.\n\nBridging NFTs to animated series. \nBuilding the web3 entertainment brand of tomorrow, with clay. 📺"
+  "description": "Claylings is a 4,040 edition generative art project, which draws its aesthetic from the likes of Chicken Run, Wallace & Gromit and Neverhood, calling back to '90s nostalgia.\n\nBridging NFTs to animated series. \nBuilding the web3 entertainment brand of tomorrow, with clay. 📺",
+  "erc721_symbol": "CLAYS"
 }

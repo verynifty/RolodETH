@@ -4,5 +4,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "emilio7.eth"
 }

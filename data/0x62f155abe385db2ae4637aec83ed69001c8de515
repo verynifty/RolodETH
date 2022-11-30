@@ -6,6 +6,7 @@
     "snapshot-voter-53231323",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-mail3"
   ]
 }

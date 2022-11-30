@@ -11,6 +11,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-comp-vote",
     "snapshot-voter-mail3",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo"
   ]
 }

@@ -3,5 +3,6 @@
     "doodle-minter",
     "cryptoadz-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "unharmed.eth"
 }

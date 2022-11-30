@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "World of Women Galaxy",
   "imageUrl": "https://i.seadn.io/gae/hP4JJhiY5yXu1mCvNycTke2O_xbtgIFfkLTjfT7C9TNKinkGpP2COikt7cwn0xqzoATRNC21wsiwy_Fe-MQ3PPTgRjkbbCfJf__L?w=500&auto=format",
   "externalUrl": "https://worldofwomen.art/wow-galaxy",
   "discordUrl": "https://discord.gg/worldofwomen",
   "twitterUsername": "worldofwomennft",
-  "description": "Welcome to the second collection of World of Women!\r\nCreated and Illustrated by Yam Karkai (@ykarkai)\r\n\r\nBecause we are working to make the world a better place, for present and future generations, we are extending our mission to a new dimension.\r\nBut where do these WoW Galaxy come from?\r\nThey are simply WoWs from our first collection, who traveled through a portal to join the Galaxy. They not only experienced unexpected transformations, but also increased in numbers!\r\n\r\nThere are 22,222 of them now, as powerful and diverse as ever and they call themselves WoW Galaxy! Let’s all unite and continue our mission to make the equitable future we all dreamt of back on Earth."
+  "description": "Welcome to the second collection of World of Women!\r\nCreated and Illustrated by Yam Karkai (@ykarkai)\r\n\r\nBecause we are working to make the world a better place, for present and future generations, we are extending our mission to a new dimension.\r\nBut where do these WoW Galaxy come from?\r\nThey are simply WoWs from our first collection, who traveled through a portal to join the Galaxy. They not only experienced unexpected transformations, but also increased in numbers!\r\n\r\nThere are 22,222 of them now, as powerful and diverse as ever and they call themselves WoW Galaxy! Let’s all unite and continue our mission to make the equitable future we all dreamt of back on Earth.",
+  "erc721_symbol": "WOWG"
 }

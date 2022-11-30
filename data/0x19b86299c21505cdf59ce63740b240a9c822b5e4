@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DEGEN TOONZ COLLECTION",
   "imageUrl": "https://i.seadn.io/gae/bLRdXEC6KIRmFAWBAgppvqeYQUVojbsGzIJJGfyH-WWF57iqOOlZu-1I0v0GYyrG8C-p-sVjpCMOZMFw0oVExilWzJTDbOfLeKhl1w?w=500&auto=format",
   "externalUrl": "https://degentoonz.io",
   "discordUrl": "https://discord.gg/degentoonz",
   "twitterUsername": "DegenToonz",
-  "description": "8888 degenerate TOONZ that double as a membership to an exclusive metaverse community with the power to build it from the ground up.\n\n**Official Links**\n\n[DegenToonz.io](https://www.DegenToonz.io) --\n[Twitter](https://www.Twitter.com/DegenToonz) --\n[Discord](https://www.Discord.gg/Degentoonz) --\n[Detonated Toonz](https://opensea.io/collection/detonated-toonz) --\n[GM GN Industries](https://opensea.io/collection/gm-gn-industries) --\n[Minters Reward Card](https://opensea.io/collection/degen-toonz-minter-rewards) --\n[Rolling Toonz](https://opensea.io/collection/rolling-toonz)"
+  "description": "8888 degenerate TOONZ that double as a membership to an exclusive metaverse community with the power to build it from the ground up.\n\n**Official Links**\n\n[DegenToonz.io](https://www.DegenToonz.io) --\n[Twitter](https://www.Twitter.com/DegenToonz) --\n[Discord](https://www.Discord.gg/Degentoonz) --\n[Detonated Toonz](https://opensea.io/collection/detonated-toonz) --\n[GM GN Industries](https://opensea.io/collection/gm-gn-industries) --\n[Minters Reward Card](https://opensea.io/collection/degen-toonz-minter-rewards) --\n[Rolling Toonz](https://opensea.io/collection/rolling-toonz)",
+  "erc721_symbol": "TOONZ"
 }

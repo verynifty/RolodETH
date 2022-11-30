@@ -13,6 +13,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-jbdao",
     "sudoswap-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-sismo"
   ]
 }

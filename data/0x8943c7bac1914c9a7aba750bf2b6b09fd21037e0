@@ -10,5 +10,6 @@
   "externalUrl": "http://lazylionsnft.com",
   "discordUrl": "https://discord.gg/LazyLionsNFT",
   "twitterUsername": "LazyLionsNFT",
-  "description": "Lazy Lions is the NFT community for 👑s.\n\nWhy do they give us so many words for this description? We’re lazy.\n\nLinks: [Website](https://lazylionsnft.com) - [Lazy Cubs](https://opensea.io/collection/lazy-cubs-) - [Lazy Lions Bungalows](https://opensea.io/collection/lazy-lions-bungalows) - [Lazy Drinks](https://opensea.io/collection/lazy-drinks-)"
+  "description": "Lazy Lions is the NFT community for 👑s.\n\nWhy do they give us so many words for this description? We’re lazy.\n\nLinks: [Website](https://lazylionsnft.com) - [Lazy Cubs](https://opensea.io/collection/lazy-cubs-) - [Lazy Lions Bungalows](https://opensea.io/collection/lazy-lions-bungalows) - [Lazy Drinks](https://opensea.io/collection/lazy-drinks-)",
+  "erc721_symbol": "LION"
 }

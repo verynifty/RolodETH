@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DEEPOBJECTS.ai - Collection 001",
   "imageUrl": "https://i.seadn.io/gcs/files/7788d0b3c388db65d3f50472f4ddc209.gif?w=500&auto=format",
   "externalUrl": "https://deepobjects.ai",
   "twitterUsername": "DeepObjects",
-  "description": "Welcome to DEEPOBJECTS - A design experiment to create the first decentralized design studio. \n\nYour H.U.E. Access Pass will grant you the ability to curate + customize your sneaker, and participate in our collective design studio. \n\nOur journey from idea to object begins 10/10."
+  "description": "Welcome to DEEPOBJECTS - A design experiment to create the first decentralized design studio. \n\nYour H.U.E. Access Pass will grant you the ability to curate + customize your sneaker, and participate in our collective design studio. \n\nOur journey from idea to object begins 10/10.",
+  "erc721_symbol": "DOS"
 }

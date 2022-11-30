@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-eulerdao",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

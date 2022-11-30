@@ -10,5 +10,6 @@
   "externalUrl": "https://www.los-muertos.io/",
   "discordUrl": "https://discord.gg/losmuertos",
   "twitterUsername": "los_muertosNFT",
-  "description": "53%+ unique owners. Opensea \"unique owners\" count is inaccurate due to staking in **The Graveyard**.\n\nLos Muertos is a 10,000-piece collection which gives you exclusive access to The Graveyard. The Graveyard provides members with priority access to **Clutched**, exclusive drops, experiences and much more!\n\n**Clutched.io is the web3 platform which lets gamers play top-titles like Warzone, Fortnite, Valorant, PUBG (and more) for prizes including crypto and NFTs. BETA now live.**"
+  "description": "53%+ unique owners. Opensea \"unique owners\" count is inaccurate due to staking in **The Graveyard**.\n\nLos Muertos is a 10,000-piece collection which gives you exclusive access to The Graveyard. The Graveyard provides members with priority access to **Clutched**, exclusive drops, experiences and much more!\n\n**Clutched.io is the web3 platform which lets gamers play top-titles like Warzone, Fortnite, Valorant, PUBG (and more) for prizes including crypto and NFTs. BETA now live.**",
+  "erc721_symbol": "LOSMUERTOS"
 }

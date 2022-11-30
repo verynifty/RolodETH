@@ -10,5 +10,6 @@
   "externalUrl": "https://twitter.com/lvcidia",
   "discordUrl": "https://discord.gg/lvcidia",
   "twitterUsername": "lvcidia",
-  "description": "Not your typical PFP project, Fvck_Avatars are 3D collectibles that have inherent utilities in the ecosystem Fvckrender is building."
+  "description": "Not your typical PFP project, Fvck_Avatars are 3D collectibles that have inherent utilities in the ecosystem Fvckrender is building.",
+  "erc721_symbol": "FVCK_AVATAR//"
 }

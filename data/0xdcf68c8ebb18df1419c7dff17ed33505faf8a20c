@@ -10,5 +10,6 @@
   "externalUrl": "https://angrycat.io/",
   "discordUrl": "https://discord.gg/angrycat",
   "twitterUsername": "angrycat_nft",
-  "description": "Angry cat is a cultural identity. A clean collection of 10,000 different cats to build an interesting brand and cat-city."
+  "description": "Angry cat is a cultural identity. A clean collection of 10,000 different cats to build an interesting brand and cat-city.",
+  "erc721_symbol": "Angry Cat"
 }

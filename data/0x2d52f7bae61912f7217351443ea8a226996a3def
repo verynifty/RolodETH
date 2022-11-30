@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-baovotes",
     "snapshot-voter-gmdao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-stgdao"
   ]
 }

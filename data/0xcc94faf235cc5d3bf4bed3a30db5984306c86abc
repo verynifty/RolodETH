@@ -1,6 +1,10 @@
 {
   "tags": [
-    "redacted-cartel"
+    "redacted-cartel",
+    "contract",
+    "erc20"
   ],
-  "name": "Redacted Cartel: xBTRFLY"
+  "name": "Redacted Cartel: xBTRFLY",
+  "erc20_symbol": "xBTRFLY",
+  "erc20_decimals": 9
 }

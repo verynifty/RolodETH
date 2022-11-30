@@ -10,6 +10,9 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-mail3",
     "snapshot-voter-gmx",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-tecommons",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -10,5 +10,6 @@
   "externalUrl": "http://nyolings.io",
   "discordUrl": "https://discord.gg/nyolings",
   "twitterUsername": "Nyolings",
-  "description": "Nyolings is a collection of 7777 cute and loveable characters exploring the world on the Ethereum blockchain."
+  "description": "Nyolings is a collection of 7777 cute and loveable characters exploring the world on the Ethereum blockchain.",
+  "erc721_symbol": "NYOLINGS"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://cryptocannabisclub.com",
   "discordUrl": "https://discord.gg/cryptocannaclub",
   "twitterUsername": "CryptoCannaClub",
-  "description": "The Crypto Cannabis Club is the premier hub for crypto enthusiasts and cannabis connoisseurs on the blockchain. A collection of 10,000 NFTokers chilling in the metaverse: membership to the Crypto Cannabis Club confers exclusive real-world and on-chain benefits and is reserved only to the owners of the NFTokers NFT collection."
+  "description": "The Crypto Cannabis Club is the premier hub for crypto enthusiasts and cannabis connoisseurs on the blockchain. A collection of 10,000 NFTokers chilling in the metaverse: membership to the Crypto Cannabis Club confers exclusive real-world and on-chain benefits and is reserved only to the owners of the NFTokers NFT collection.",
+  "erc721_symbol": "CCC"
 }

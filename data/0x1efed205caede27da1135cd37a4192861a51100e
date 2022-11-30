@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-ybaby"
   ]
 }

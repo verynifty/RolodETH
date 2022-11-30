@@ -4,6 +4,7 @@
     "snapshot-voter-opcollective",
     "opensea-user",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gearbox"
   ]
 }

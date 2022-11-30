@@ -6,6 +6,8 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }
