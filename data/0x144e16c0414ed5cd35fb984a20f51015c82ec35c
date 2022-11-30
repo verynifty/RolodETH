@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap"
   ]
 }

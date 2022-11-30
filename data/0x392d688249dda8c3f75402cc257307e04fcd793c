@@ -4,5 +4,6 @@
     "pudgy-pinguin-minter",
     "clonex-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "unknownwallet.eth"
 }

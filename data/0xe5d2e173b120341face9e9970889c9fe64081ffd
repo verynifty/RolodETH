@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Bluejay",
   "erc20_symbol": "BLU",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28085/thumb/Bluejay.png?1667444163"
+  "imageURL": "https://assets.coingecko.com/coins/images/28085/thumb/Bluejay.png?1667444163",
+  "proxy": "0x8a86226f383c830e0fd91b88d5ea7fbba3de876d"
 }

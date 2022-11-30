@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Official Surreals",
   "imageUrl": "https://i.seadn.io/gae/5TNn5wVTyXOPVbC_BaCdHGYahiptP84lpb3F_nTdeXL8hFx5rdxwlj-cOPjZ3pq_WLbLxHErSyu0uDV8ybgQFZJMLOgRPUdkNUX-Aw?w=500&auto=format",
   "externalUrl": "https://surreals.io",
   "discordUrl": "https://discord.gg/jPWvxt775g",
   "twitterUsername": "SurrealsNFT",
-  "description": "The Surreals are a collection of 10,000 hand-painted portraits with a surreal, vintage naturalist aesthetic.\n\nVisit our website https://www.surreals.io / \n\nJoin our Discord: https://discord.gg/surreals\n\nFind The Surreals on https://rarity.tools/official-surreals\n\n"
+  "description": "The Surreals are a collection of 10,000 hand-painted portraits with a surreal, vintage naturalist aesthetic.\n\nVisit our website https://www.surreals.io / \n\nJoin our Discord: https://discord.gg/surreals\n\nFind The Surreals on https://rarity.tools/official-surreals\n\n",
+  "erc721_symbol": "SRLS"
 }

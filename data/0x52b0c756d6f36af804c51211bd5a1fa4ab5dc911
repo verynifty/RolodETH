@@ -6,6 +6,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

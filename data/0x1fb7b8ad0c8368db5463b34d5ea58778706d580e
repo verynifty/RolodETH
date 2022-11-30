@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PIXELBAES",
   "imageUrl": "https://i.seadn.io/gcs/files/af4925b3559973ff408b2cb0c8518ae7.gif?w=500&auto=format",
   "externalUrl": "https://baecafe.xyz",
   "discordUrl": "https://discord.gg/baecafe",
   "twitterUsername": "baebaecafe",
-  "description": "10,000 PIXELBAES on ETH.  This is a mashup using over 200 traits from BaeCafe seasons 1 and 2.  These Baes are eligible for staking rewards and have voting power.  "
+  "description": "10,000 PIXELBAES on ETH.  This is a mashup using over 200 traits from BaeCafe seasons 1 and 2.  These Baes are eligible for staking rewards and have voting power.  ",
+  "erc721_symbol": "PXBAE"
 }

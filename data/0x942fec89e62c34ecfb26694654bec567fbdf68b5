@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-10kvote",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-superversedao"
   ],
   "ens": "5489.eth"
 }

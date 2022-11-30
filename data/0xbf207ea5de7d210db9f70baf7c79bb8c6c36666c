@@ -5,6 +5,11 @@
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ]
 }

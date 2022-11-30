@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-hop",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "0xlian.eth"
 }

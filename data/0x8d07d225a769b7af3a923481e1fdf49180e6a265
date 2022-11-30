@@ -12,7 +12,8 @@
     "snapshot-voter-curve",
     "snapshot-voter-aave",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-index-coop"
   ],
   "name": "Sybil Delegate: MonetSupply"
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gitcoindao",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-sismo"
   ]
 }

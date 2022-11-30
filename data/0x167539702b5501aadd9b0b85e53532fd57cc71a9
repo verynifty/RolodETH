@@ -4,7 +4,8 @@
     "bayc-minter",
     "hashmask-minter",
     "contract-deployer",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-paragonscouncil"
   ],
   "name": "Paragons DAO: Deployer"
 }

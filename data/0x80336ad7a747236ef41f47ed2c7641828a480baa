@@ -10,5 +10,6 @@
   "externalUrl": "https://www.chimpers.xyz/",
   "discordUrl": "https://discord.gg/chimpers",
   "twitterUsername": "ChimpersNFT",
-  "description": "Chimpers are a collection of 5,555 generative NFT pixel characters created by @TimpersHD. Chimpers are your digital identity for the Chimpverse and your passport to adventure. !CHIMP\n\nStake your Chimpers in the DOJO and get them training.\nhttps://opensea.io/collection/chimperstraining"
+  "description": "Chimpers are a collection of 5,555 generative NFT pixel characters created by @TimpersHD. Chimpers are your digital identity for the Chimpverse and your passport to adventure. !CHIMP\n\nStake your Chimpers in the DOJO and get them training.\nhttps://opensea.io/collection/chimperstraining",
+  "erc721_symbol": "CHIMP"
 }

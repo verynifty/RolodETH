@@ -1,6 +1,7 @@
 {
   "tags": [
-    "liquity"
+    "liquity",
+    "contract"
   ],
   "name": "Liquity: Borrower Operations"
 }

@@ -8,7 +8,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-sismo"
   ],
   "ens": "45826.eth"
 }

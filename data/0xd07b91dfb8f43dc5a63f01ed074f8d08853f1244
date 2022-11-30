@@ -3,6 +3,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-eulerdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

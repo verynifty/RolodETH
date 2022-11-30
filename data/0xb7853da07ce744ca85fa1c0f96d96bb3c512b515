@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-sismo"
   ]
 }

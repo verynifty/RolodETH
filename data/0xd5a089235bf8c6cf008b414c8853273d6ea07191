@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "duoergun.eth"
 }

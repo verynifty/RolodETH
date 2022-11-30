@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Super G.rilla Official",
   "imageUrl": "https://i.seadn.io/gcs/files/26e70276c6d1118716829f9a0a1c660c.png?w=500&auto=format",
   "externalUrl": "https://www.metakongz-mutant.com/",
-  "description": "Grrrrr... Grrrrr.... It killed Ethereum world! The ecosystem of 5,000 SUPER G.RILLA will be more 'Super Unusual' than you expected! The metaverse, a whimsical imagination created by the best developer in Korea and the Kongz team comes real!"
+  "description": "Grrrrr... Grrrrr.... It killed Ethereum world! The ecosystem of 5,000 SUPER G.RILLA will be more 'Super Unusual' than you expected! The metaverse, a whimsical imagination created by the best developer in Korea and the Kongz team comes real!",
+  "erc721_symbol": "SG"
 }

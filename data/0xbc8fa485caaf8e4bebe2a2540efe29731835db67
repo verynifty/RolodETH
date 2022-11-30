@@ -8,6 +8,7 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-uniswap"
   ]
 }

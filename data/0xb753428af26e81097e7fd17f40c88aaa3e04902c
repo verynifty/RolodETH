@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "saffron-finance"
+    "saffron-finance",
+    "contract"
   ],
   "name": "Saffron: SFI Token",
   "erc20_symbol": "SFI",

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "God Hates NFTees",
   "imageUrl": "https://i.seadn.io/gcs/files/b919222095cba00715d8013637e527d3.gif?w=500&auto=format",
   "externalUrl": "https://godhatesnftees.com/",
   "discordUrl": "https://discord.gg/godhatesnfteesclub",
   "twitterUsername": "GodHatesNFTees",
-  "description": "Because the best way to hate a collective is to join it. If you’ve not 4channer spirit, don’t buy this shit. CC0\n\nAll info you need here: https://godhatesnftees.com"
+  "description": "Because the best way to hate a collective is to join it. If you’ve not 4channer spirit, don’t buy this shit. CC0\n\nAll info you need here: https://godhatesnftees.com",
+  "erc721_symbol": "GHN"
 }

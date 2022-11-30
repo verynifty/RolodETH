@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Foundation (FND)",
   "imageUrl": "https://i.seadn.io/gae/L87ncqbX2fgXIiy3bzsBZo7-HEtt7V9XVGXzfxoF-Z-DZR_qC65uIdCzdx_3jJWfIaKn4RNCvjo3RYoYHIXFE-Cq_eMHDvw8IFx0-y0?w=500&auto=format",
   "externalUrl": "https://foundation.app/",
   "discordUrl": "https://discord.gg/AQ3VtFh",
   "twitterUsername": "withFND",
-  "description": "Foundation is building the new creative economy. Create, explore & collect digital art NFTs."
+  "description": "Foundation is building the new creative economy. Create, explore & collect digital art NFTs.",
+  "proxy": "0xe7c29cba93ef8017c7824dd0f25923c38d08065c"
 }

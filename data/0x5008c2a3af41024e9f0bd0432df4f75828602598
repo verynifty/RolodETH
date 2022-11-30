@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Infamous - Clearance Passes",
   "imageUrl": "https://i.seadn.io/gcs/files/ad509bd6fb10b3f256481d1c0b297cf9.jpg?w=500&auto=format",
   "externalUrl": "https://linktr.ee/infamousltd",
   "discordUrl": "https://discord.gg/infamoushq",
   "twitterUsername": "Infamous_ltd",
-  "description": "Behold the Infamous Security Clearance passes, created by THE S.T.A.T.E. The S.T.A.T.E is an all knowing and all seeing agency. Upon activating a clearance pass, one gains access to an agent identity. Once you join THE S.T.A.T.E and become an agent, there is no going back... \n\nReveal Site: https://reveal.infamousltd.io/\nInfamous Agents: https://opensea.io/collection/infamous-official\n\nWe are the UNKNOWN. We are the UNSPOKEN. We are the INFAMOUS."
+  "description": "Behold the Infamous Security Clearance passes, created by THE S.T.A.T.E. The S.T.A.T.E is an all knowing and all seeing agency. Upon activating a clearance pass, one gains access to an agent identity. Once you join THE S.T.A.T.E and become an agent, there is no going back... \n\nReveal Site: https://reveal.infamousltd.io/\nInfamous Agents: https://opensea.io/collection/infamous-official\n\nWe are the UNKNOWN. We are the UNSPOKEN. We are the INFAMOUS.",
+  "erc721_symbol": "INFM"
 }

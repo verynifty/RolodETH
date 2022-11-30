@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "BEPRO Network",
   "erc20_symbol": "BEPRO",

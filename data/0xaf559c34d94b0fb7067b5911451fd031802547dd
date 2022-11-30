@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ayahuasca Cats",
   "imageUrl": "https://i.seadn.io/gcs/files/d2120fc6f625b5b5ba68bbcd07d29d08.png?w=500&auto=format",
   "externalUrl": "https://www.ayahuascacats.io/",
   "twitterUsername": "AyahuascaCats",
-  "description": "\"Today's the day! I'll finally have my first Ayahuasca ceremony. I can't wait to see visions of our species and our ancestors!\" Magnolia exclaims excitedly.\n\nKnight smiles, wiping away a tear. \"Magnolia... oh, how you've grown up. I wish you a good ceremony. May you see the beautiful and annihilating Truth.\"\n\n\"I can't wait,\" mutters Magnolia as she closes her eyes and lifts the vial of Ayahuasca brew to her mouth. \"Let's see what the 7,777 Ayahuasca Cats look like...\""
+  "description": "\"Today's the day! I'll finally have my first Ayahuasca ceremony. I can't wait to see visions of our species and our ancestors!\" Magnolia exclaims excitedly.\n\nKnight smiles, wiping away a tear. \"Magnolia... oh, how you've grown up. I wish you a good ceremony. May you see the beautiful and annihilating Truth.\"\n\n\"I can't wait,\" mutters Magnolia as she closes her eyes and lifts the vial of Ayahuasca brew to her mouth. \"Let's see what the 7,777 Ayahuasca Cats look like...\"",
+  "erc721_symbol": "AYACATS"
 }

@@ -3,6 +3,7 @@
     "bayc-minter",
     "hashmask-minter",
     "meebit-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aavegotchi"
   ]
 }

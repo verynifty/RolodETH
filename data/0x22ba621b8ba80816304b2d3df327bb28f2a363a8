@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "cryptoc0rn.eth"
 }

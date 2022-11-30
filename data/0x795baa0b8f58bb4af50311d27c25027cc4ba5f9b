@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Atsui",
   "imageUrl": "https://i.seadn.io/gcs/files/5ed5a222279625ea5e867e4c6ad94d87.png?w=500&auto=format",
   "externalUrl": "https://atsui.io/",
   "discordUrl": "https://discord.gg/joinatsui",
   "twitterUsername": "AtsuiNFT",
-  "description": "Description: Atsui is an NFT collection of 5175 survivors, acting as an introduction to the entertainment brand that is being built in the web3 space. The introduction happens through the eyes of a protagonist called Phoebe Sun, whose personal diary is depicting the lore surrounding one of the key events in the ATSUI universe: the Shattering.\n\nMission: To facilitate healthy growth of web3 space through the reach of our entertainment brand into existing traditional forms of entertainment and invest into web3 education to unlock further innovation within the community.\n\nUtility Pillars: Education x Entertainment x Community"
+  "description": "Description: Atsui is an NFT collection of 5175 survivors, acting as an introduction to the entertainment brand that is being built in the web3 space. The introduction happens through the eyes of a protagonist called Phoebe Sun, whose personal diary is depicting the lore surrounding one of the key events in the ATSUI universe: the Shattering.\n\nMission: To facilitate healthy growth of web3 space through the reach of our entertainment brand into existing traditional forms of entertainment and invest into web3 education to unlock further innovation within the community.\n\nUtility Pillars: Education x Entertainment x Community",
+  "proxy": "0x48a36342f3b530a8ada5b276be020d8440ccb4fa"
 }

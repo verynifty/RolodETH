@@ -3,5 +3,6 @@
     "moonbird-minter",
     "meebit-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "dapppunk.eth"
 }

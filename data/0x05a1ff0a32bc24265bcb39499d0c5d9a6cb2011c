@@ -4,6 +4,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-cow",
     "snapshot-voter-swerve",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "snapshot-voter-gnars"
   ]
 }

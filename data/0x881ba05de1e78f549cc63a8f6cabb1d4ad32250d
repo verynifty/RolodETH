@@ -1,9 +1,11 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "00 Token",
   "erc20_symbol": "00",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27742/thumb/200x200.png?1665623317"
+  "imageURL": "https://assets.coingecko.com/coins/images/27742/thumb/200x200.png?1665623317",
+  "ens": "zerozero.eth"
 }

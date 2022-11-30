@@ -4,6 +4,7 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-sismo"
   ]
 }

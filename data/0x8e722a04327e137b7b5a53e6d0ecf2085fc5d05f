@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-8848labs",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-alchemixstakers"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "pr4nke.eth"
 }

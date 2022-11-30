@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Official Space Cadets",
   "imageUrl": "https://i.seadn.io/gae/rzi41GaszPrbR3ASToHoJorG-hg0YM2cvvqUFJA_FkIeO128J8Nam9qhE-M_4gZQGE8rAb9FNPlc_KdZFscHr-8PRNyS3r1lijRsuIc?w=500&auto=format",
   "externalUrl": "https://spacecadetsnft.com",
   "discordUrl": "https://discord.gg/spacecadetsnft",
   "twitterUsername": "SpaceCadetsNFT",
-  "description": "A Rewarding & Revolutionary Collection of Mutated Astronaut NFTS."
+  "description": "A Rewarding & Revolutionary Collection of Mutated Astronaut NFTS.",
+  "erc721_symbol": "SCAD"
 }

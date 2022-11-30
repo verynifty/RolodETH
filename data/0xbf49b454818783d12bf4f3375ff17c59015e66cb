@@ -5,6 +5,7 @@
     "snapshot-voter-grantsdao",
     "snapshot-voter-gov-dhedge",
     "opensea-user",
-    "snapshot-voter-kwenta"
+    "snapshot-voter-kwenta",
+    "snapshot-voter-sonnefi"
   ]
 }

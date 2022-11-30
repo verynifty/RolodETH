@@ -1,7 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-sismo",
+    "snapshot-voter-stgdao"
   ],
   "ens": "dmatvey.eth"
 }

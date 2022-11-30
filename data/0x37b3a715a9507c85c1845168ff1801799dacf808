@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-alchemixstakers",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-alchemixedopinions"
   ]
 }

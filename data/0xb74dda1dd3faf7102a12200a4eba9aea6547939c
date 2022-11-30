@@ -10,5 +10,6 @@
   "externalUrl": "https://www.bearmarketbullies.io/",
   "discordUrl": "https://discord.gg/NDn43Kp779",
   "twitterUsername": "BearMrktBullies",
-  "description": "Markets are a battlefield, and these bears take no bull. Join our Discord or follow us on Twitter to find out more about us!"
+  "description": "Markets are a battlefield, and these bears take no bull. Join our Discord or follow us on Twitter to find out more about us!",
+  "erc721_symbol": "BMB"
 }

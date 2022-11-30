@@ -4,6 +4,7 @@
     "snapshot-voter-apwine",
     "snapshot-voter-synthereum",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gearbox"
   ]
 }

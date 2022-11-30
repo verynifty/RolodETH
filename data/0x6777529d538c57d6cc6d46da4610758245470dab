@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "sybil-delegate",
     "snapshot-voter-aavegotchi",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ],
   "name": "Sybil Delegate: AlvaroCabreraO1"
 }

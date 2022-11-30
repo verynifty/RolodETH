@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-sismo"
   ]
 }

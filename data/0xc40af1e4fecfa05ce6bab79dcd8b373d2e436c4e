@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Hokkaidu Inu: Old HOKK Token"
+  "name": "Hokkaidu Inu: Old HOKK Token",
+  "erc20_symbol": "HOKK",
+  "erc20_decimals": 9
 }

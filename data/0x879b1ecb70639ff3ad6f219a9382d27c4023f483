@@ -4,6 +4,7 @@
     "clonex-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-ethermondao"
   ]
 }

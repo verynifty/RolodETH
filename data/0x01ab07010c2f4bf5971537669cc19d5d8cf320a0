@@ -3,6 +3,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-saddlefinance",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-gearbox"
   ]
 }

@@ -6,5 +6,6 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ecomalpha.eth"
 }

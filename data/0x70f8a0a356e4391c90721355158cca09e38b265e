@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "czmeta.eth"
 }

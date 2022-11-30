@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "nexus-mutual"
+    "nexus-mutual",
+    "contract"
   ],
   "name": "Nexus Mutual: NXM Token",
   "erc20_symbol": "NXM",

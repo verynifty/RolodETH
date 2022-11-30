@@ -6,5 +6,6 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "dededen.eth"
 }

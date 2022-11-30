@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Be VEE - Summer Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/882796f5802095000f74dd4d1874e2f4.png?w=500&auto=format",
   "externalUrl": "https://bevee.club",
   "twitterUsername": "BeVEENFT",
-  "description": "A handpicked collection of 10,000 NFTs created by artist Ramdaram.\nYou can participate in a journey of nostalgia as a way to be true to yourself.\nVEE yourself and see you at the pool party."
+  "description": "A handpicked collection of 10,000 NFTs created by artist Ramdaram.\nYou can participate in a journey of nostalgia as a way to be true to yourself.\nVEE yourself and see you at the pool party.",
+  "erc721_symbol": "Summer"
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-derify",
     "snapshot-voter-gal",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

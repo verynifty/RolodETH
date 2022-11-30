@@ -4,7 +4,8 @@
     "sybil-delegate",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap"
   ],
   "name": "Sybil Delegate: Yinz1020"
 }

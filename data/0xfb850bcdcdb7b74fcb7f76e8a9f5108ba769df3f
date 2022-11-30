@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract-deployer",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-stgdao"
   ],
   "name": "Gamba Kitties Club: Deployer"
 }

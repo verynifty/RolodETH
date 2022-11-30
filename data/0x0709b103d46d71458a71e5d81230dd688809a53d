@@ -4,5 +4,6 @@
     "bayc-minter",
     "cryptoadz-minter",
     "snapshot-voter-pickle"
-  ]
+  ],
+  "ens": "digitaldill.eth"
 }

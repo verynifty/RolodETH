@@ -3,7 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-sismo"
   ],
   "ens": "vetal.eth"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://everai.xyz",
   "discordUrl": "https://discord.gg/everai",
   "twitterUsername": "TheEverai",
-  "description": "Everai is a brand of Heroes. Our mission is to build a long-lasting metaverse brand. Built for the people, with the people. Everai holders will be granted exclusive access to drops, experiences, and much more. \r\n\r\nAs the first hero of the Everai Universe, Duo has over 7,777 unique skins drawn from the different missions and challenges he faced throughout his life. \r\n\r\nReady to join the crew? Visit our [website](https://everai.xyz) for more info."
+  "description": "Everai is a brand of Heroes. Our mission is to build a long-lasting metaverse brand. Built for the people, with the people. Everai holders will be granted exclusive access to drops, experiences, and much more. \r\n\r\nAs the first hero of the Everai Universe, Duo has over 7,777 unique skins drawn from the different missions and challenges he faced throughout his life. \r\n\r\nReady to join the crew? Visit our [website](https://everai.xyz) for more info.",
+  "erc721_symbol": "EveraiDuo"
 }

@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Inuyasha: Old Inuyasha Token"
+  "name": "Inuyasha: Old Inuyasha Token",
+  "erc20_symbol": "Inuyasha",
+  "erc20_decimals": 18
 }

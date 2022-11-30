@@ -5,6 +5,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-uniswap",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gearbox"
   ]
 }

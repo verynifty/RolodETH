@@ -4,5 +4,6 @@
     "goblin-town-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "jlieberman.eth"
 }

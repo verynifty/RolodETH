@@ -4,6 +4,7 @@
     "clonex-minter",
     "snapshot-voter-decentralgames",
     "snapshot-voter-snapshot-dcl",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ethermondao"
   ]
 }

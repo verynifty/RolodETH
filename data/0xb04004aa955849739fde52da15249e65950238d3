@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "FREE MINT Editions X Tylersjourney",
   "imageUrl": "https://i.seadn.io/gae/YCYZwYUWaQeKzinxay9PmzFATrJA76OImqVRQPCW7VPhZmc-qT3LgSOQvJPOMqCi0G86tIgV5ofCwtrTFpH2cpVy8_4crh15gTcydw?w=500&auto=format",
   "externalUrl": "https://app.manifold.xyz/c/daredevil",
   "discordUrl": "https://discord.gg/FUbYqV6jTs",
   "twitterUsername": "Tylersjourney_",
-  "description": "FREE MINT - https://app.manifold.xyz/c/daredevil DAREDEVIL SCENE TWO by Tylersjourney Award Winning Photographer featured by The National Geographic.\n\nFREE MINT $1 0.001\n\nFuture BURN mechanisms -- HOLD 10 'Future Dream' to BURN later on and 11 of 'DAREDEVIL' to have Scene 3 Airdropped to you FREE!"
+  "description": "FREE MINT - https://app.manifold.xyz/c/daredevil DAREDEVIL SCENE TWO by Tylersjourney Award Winning Photographer featured by The National Geographic.\n\nFREE MINT $1 0.001\n\nFuture BURN mechanisms -- HOLD 10 'Future Dream' to BURN later on and 11 of 'DAREDEVIL' to have Scene 3 Airdropped to you FREE!",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

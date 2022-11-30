@@ -4,5 +4,6 @@
     "hashmask-minter",
     "snapshot-voter-yearn",
     "opensea-user"
-  ]
+  ],
+  "ens": "gbuckley.eth"
 }

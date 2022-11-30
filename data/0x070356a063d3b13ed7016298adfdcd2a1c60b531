@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-derify"
   ]
 }

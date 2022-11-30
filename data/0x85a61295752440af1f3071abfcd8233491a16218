@@ -12,5 +12,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "massif01.eth"
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-krausehouse",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo"
   ],
   "ens": "threrkreod.eth"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "http://StonerApeClub.org",
   "discordUrl": "https://discord.gg/sac",
   "twitterUsername": "Stxners",
-  "description": "38% Staked! (Owner count isn't correctly displayed on OpenSea due to staking)\n\nStoner Ape Club is a private collection of 6,666 stoned apes NFTs -- unique digital collectibles, stored as ERC-721 tokens on the Ethereum blockchain\n\nWith hundreds of hand-drawn elements, each NFT is unique and comes with a membership to an exclusive club of successful investors.\n\nJoin a determined ever-growing group of individuals, building a chill community for Stoners with multiple benefits and utilities for holders"
+  "description": "38% Staked! (Owner count isn't correctly displayed on OpenSea due to staking)\n\nStoner Ape Club is a private collection of 6,666 stoned apes NFTs -- unique digital collectibles, stored as ERC-721 tokens on the Ethereum blockchain\n\nWith hundreds of hand-drawn elements, each NFT is unique and comes with a membership to an exclusive club of successful investors.\n\nJoin a determined ever-growing group of individuals, building a chill community for Stoners with multiple benefits and utilities for holders",
+  "erc721_symbol": "SAC"
 }

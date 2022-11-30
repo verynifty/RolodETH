@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-genart-dao",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ]
 }

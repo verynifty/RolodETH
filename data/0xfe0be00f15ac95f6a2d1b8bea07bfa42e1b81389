@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wasteland Cactus Crew",
   "imageUrl": "https://i.seadn.io/gae/vob4sFw7u5W5HaQHl8Lc-QBoaiPHiTXl5PNLb82e0BWUPRYWvPicZ4Q9r-5vDFKLw6fvAEE-HKufokzgmAnjx_L8bhFor9i4ZXm02wA?w=500&auto=format",
   "externalUrl": "https://wlcc.io",
   "discordUrl": "https://discord.gg/wlcc",
   "twitterUsername": "WLCCNFT",
-  "description": "Notice: The current holder count is not correct because OpenSea isn't showing the Staked WLCC as unique Holders.\n\nThe year is 3021, humanity has fled Earth after a global nuclear meltdown. However, even in this atomic desert, Mother Nature has found a way to survive. Deep in the blockchain Wastelands, radiation has given rise to a new species, 5,000 survivors, Earth’s new rulers...the Wasteland Cactus Crew."
+  "description": "Notice: The current holder count is not correct because OpenSea isn't showing the Staked WLCC as unique Holders.\n\nThe year is 3021, humanity has fled Earth after a global nuclear meltdown. However, even in this atomic desert, Mother Nature has found a way to survive. Deep in the blockchain Wastelands, radiation has given rise to a new species, 5,000 survivors, Earth’s new rulers...the Wasteland Cactus Crew.",
+  "erc721_symbol": "WLCC"
 }

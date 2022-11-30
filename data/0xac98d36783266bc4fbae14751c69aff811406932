@@ -3,7 +3,8 @@
     "take-action",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "name": "Multichain Hack Alert 1125"
 }

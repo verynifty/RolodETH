@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "radicle"
+    "radicle",
+    "contract"
   ],
   "name": "Radicle: RAD Token",
   "erc20_symbol": "RAD",

@@ -3,5 +3,6 @@
     "contract-deployer",
     "opensea"
   ],
-  "name": "OpenSea: Wallet"
+  "name": "OpenSea: Wallet",
+  "ens": "opensea.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "VOX Collectibles: The Walking Dead",
   "imageUrl": "https://i.seadn.io/gae/OWylmgHIgVkHzd1J0NztnmyKFTeEW6TqAK0mQ4pmYcBZeEMA0pxAGBdhIdM6sxGCKMHjfLlyJJ62dOYVp1olP7N2XYOZk5AphXKahA?w=500&auto=format",
   "externalUrl": "http://collectvox.com",
   "discordUrl": "https://discord.gg/gogalagames",
   "twitterUsername": "GoGalaGames",
-  "description": "Meet VOX, the adorable collectible series from Gala. Own, play and earn rewards with your unique ERC721 avatar.\n\nLearn more at [CollectVOX.com](https://www.collectvox.com)"
+  "description": "Meet VOX, the adorable collectible series from Gala. Own, play and earn rewards with your unique ERC721 avatar.\n\nLearn more at [CollectVOX.com](https://www.collectvox.com)",
+  "erc721_symbol": "VOX"
 }
