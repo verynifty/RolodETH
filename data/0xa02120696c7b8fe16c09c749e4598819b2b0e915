@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "wirex"
+    "wirex",
+    "contract"
   ],
   "name": "Wirex: WXT Token",
   "erc20_symbol": "WXT",

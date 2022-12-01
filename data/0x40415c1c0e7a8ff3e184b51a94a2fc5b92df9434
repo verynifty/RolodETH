@@ -3,5 +3,6 @@
     "azuki-minter",
     "clonex-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "dancube.eth"
 }

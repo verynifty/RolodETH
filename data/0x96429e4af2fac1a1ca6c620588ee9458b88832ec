@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Crypto Country Club",
   "imageUrl": "https://i.seadn.io/gae/lfq-QP3YX_PcT65bfj9zqb5WRe-6-b9Crm_6a11jRb8hsQEaLY2L4LnnELdyGOFqNHAs_FUJuzsHTHxko09BJrSUd_yjZjtlrxyiDkw?w=500&auto=format",
   "externalUrl": "https://cryptocountryclub.io",
   "discordUrl": "https://discord.gg/ZPeXRZ7BKD",
   "twitterUsername": "CryptoCC_NFT",
-  "description": "Welcome to Crypto Country Club – Home of good vibes and long drives! \n\nOur Founding Member NFT’s are randomly generated using carefully curated traits with heavy inspiration from the crypto and golf industries. Hop into the 19th hole in our discord and hang out!\n\n🏌️‍♂️ https://discord.gg/quHTKGHKSA 🏌️‍♂️ \n\nSwing easy!"
+  "description": "Welcome to Crypto Country Club – Home of good vibes and long drives! \n\nOur Founding Member NFT’s are randomly generated using carefully curated traits with heavy inspiration from the crypto and golf industries. Hop into the 19th hole in our discord and hang out!\n\n🏌️‍♂️ https://discord.gg/quHTKGHKSA 🏌️‍♂️ \n\nSwing easy!",
+  "erc721_symbol": "CCC"
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-ilv"
-  ]
+  ],
+  "ens": "darkspac3.eth"
 }

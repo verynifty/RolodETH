@@ -4,5 +4,6 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-redactedcartel"
-  ]
+  ],
+  "ens": "volador.eth"
 }

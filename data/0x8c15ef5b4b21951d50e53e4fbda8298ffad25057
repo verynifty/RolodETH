@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "pundi-x"
+    "pundi-x",
+    "contract"
   ],
   "name": "Function X Token",
   "erc20_symbol": "FX",

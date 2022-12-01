@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "aura50COW-50WETH-vault",
+  "erc20_decimals": 18,
+  "name": "50COW-50WETH BPT Aura Deposit Vault"
+}

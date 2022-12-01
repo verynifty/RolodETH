@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "AURA",
+  "erc20_decimals": 18,
+  "name": "AURA"
+}

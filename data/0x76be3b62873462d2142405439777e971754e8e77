@@ -10,5 +10,6 @@
   "externalUrl": "http://www.parallel.life",
   "discordUrl": "https://discord.gg/paralleltcg",
   "twitterUsername": "ParallelTCG",
-  "description": "Sci-fi collectable card game with NFTs."
+  "description": "Sci-fi collectable card game with NFTs.",
+  "erc721_symbol": "LL"
 }

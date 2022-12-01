@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dennis Rodman's Barbershop",
   "imageUrl": "https://i.seadn.io/gae/XAh3ZBdFDIOiXmaDbUjypz-VvXwNIB-lmXrcO7acxQyFXXNWSmDIslQsx7OPQOCnTtEchox65W1skJv16zkC2ugBNbDptTsfkQJxrnY?w=500&auto=format",
   "externalUrl": "https://www.rodmansbarbershop.com/",
   "discordUrl": "https://discord.gg/tUkKHTCCMD",
   "twitterUsername": "RodmansShop",
-  "description": "Welcome to the official collection page for Dennis Rodman's Barbershop. "
+  "description": "Welcome to the official collection page for Dennis Rodman's Barbershop. ",
+  "erc721_symbol": "DRB"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Creaturez",
   "imageUrl": "https://i.seadn.io/gcs/files/3b4f766052552d4b639b7381c27666f1.jpg?w=500&auto=format",
   "externalUrl": "https://thecreaturez.xyz/",
   "twitterUsername": "TheCreaturezNFT",
-  "description": "999 Creaturez The Creaturez is a limited supply of all 1/1s. "
+  "description": "999 Creaturez The Creaturez is a limited supply of all 1/1s. ",
+  "erc721_symbol": "999"
 }

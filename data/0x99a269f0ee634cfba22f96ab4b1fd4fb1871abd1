@@ -3,5 +3,6 @@
     "snapshot-voter-cvx",
     "snapshot-voter-aurafinance",
     "snapshot-voter-cyphertrust"
-  ]
+  ],
+  "ens": "liberatorium.eth"
 }
