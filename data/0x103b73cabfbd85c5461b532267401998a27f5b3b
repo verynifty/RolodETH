@@ -4,5 +4,6 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "hommy.eth"
 }

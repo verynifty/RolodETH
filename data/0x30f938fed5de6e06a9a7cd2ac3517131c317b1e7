@@ -2,7 +2,8 @@
   "tags": [
     "bridge",
     "donate",
-    "giveth-io"
+    "giveth-io",
+    "contract"
   ],
   "name": "Giveth: Trace Bridge"
 }

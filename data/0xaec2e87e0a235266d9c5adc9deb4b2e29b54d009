@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "SingularDTV",
   "erc20_symbol": "SNGLS",

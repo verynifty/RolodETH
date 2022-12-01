@@ -1,6 +1,7 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "Synthetix: Legacy Proxy SNX"
 }

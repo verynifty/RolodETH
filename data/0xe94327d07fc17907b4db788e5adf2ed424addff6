@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Augur: Old Token 2"
+  "name": "Augur: Old Token 2",
+  "erc20_symbol": "REP",
+  "erc20_decimals": 18
 }

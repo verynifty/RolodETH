@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-bullsontheblock",
     "opensea-user"
-  ]
+  ],
+  "ens": "nfdegen.eth"
 }

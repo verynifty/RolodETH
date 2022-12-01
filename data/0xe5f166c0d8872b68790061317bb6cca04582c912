@@ -1,7 +1,8 @@
 {
   "tags": [
     "old-contract",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "TEFOOD",
   "erc20_symbol": "TFD",

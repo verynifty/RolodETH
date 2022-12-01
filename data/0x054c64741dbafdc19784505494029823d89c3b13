@@ -1,6 +1,10 @@
 {
   "tags": [
-    "atomsolutions"
+    "atomsolutions",
+    "contract",
+    "erc20"
   ],
-  "name": "AtomSolutions: XET Token"
+  "name": "AtomSolutions: XET Token",
+  "erc20_symbol": "XET",
+  "erc20_decimals": 8
 }

@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "BaaSid: Old BAAS Token"
+  "name": "BaaSid: Old BAAS Token",
+  "erc20_symbol": "BAAS",
+  "erc20_decimals": 18
 }

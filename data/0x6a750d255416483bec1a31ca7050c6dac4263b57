@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "MaxiMine: Old Token"
+  "name": "MaxiMine: Old Token",
+  "erc20_symbol": "MXM",
+  "erc20_decimals": 18
 }

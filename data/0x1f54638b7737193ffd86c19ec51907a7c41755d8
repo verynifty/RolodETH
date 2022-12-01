@@ -1,7 +1,8 @@
 {
   "tags": [
     "closure",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "SolaToken",
   "erc20_symbol": "SOL",

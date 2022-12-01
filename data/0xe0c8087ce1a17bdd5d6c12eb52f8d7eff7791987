@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "Linfinity: Old Token",
   "erc20_symbol": "LFC",

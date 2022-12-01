@@ -4,5 +4,6 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-balancer",
     "snapshot-voter-yam"
-  ]
+  ],
+  "ens": "vaporingmonk.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "airswap",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "AirSwap: Legacy"
 }

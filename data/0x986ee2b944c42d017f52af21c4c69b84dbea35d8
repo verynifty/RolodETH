@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "bitmart"
+    "bitmart",
+    "contract"
   ],
   "name": "BitMartToken",
   "erc20_symbol": "BMX",
