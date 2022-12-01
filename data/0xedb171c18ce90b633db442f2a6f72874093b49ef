@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Wrapped Ampleforth",
   "erc20_symbol": "WAMPL",

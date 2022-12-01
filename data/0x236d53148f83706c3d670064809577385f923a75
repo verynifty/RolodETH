@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Siberian Husky",
   "erc20_symbol": "SHUSKY",

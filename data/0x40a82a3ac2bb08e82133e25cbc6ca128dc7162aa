@@ -7,5 +7,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "landmars.eth"
 }

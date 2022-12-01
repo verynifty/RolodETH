@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "avril15 season two",
   "imageUrl": "https://i.seadn.io/gcs/files/5cef90879cefb71481b573190c81e8e5.jpg?w=500&auto=format",
   "externalUrl": "https://www.avril15.com",
   "discordUrl": "https://discord.gg/avril15",
   "twitterUsername": "avril15NFT",
-  "description": "avril15 is a collection of hand drawn NFTs, every avril15 is unique. Each element is drawn in brush and ink, then scanned and coloured digitally. Born too late to explore earth and too early to explore the universe, she makes her mark upon the metaverse."
+  "description": "avril15 is a collection of hand drawn NFTs, every avril15 is unique. Each element is drawn in brush and ink, then scanned and coloured digitally. Born too late to explore earth and too early to explore the universe, she makes her mark upon the metaverse.",
+  "erc721_symbol": "AVRIL15_S2"
 }

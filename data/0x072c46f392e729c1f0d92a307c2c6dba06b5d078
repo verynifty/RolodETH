@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "SNOGE",
+  "erc20_decimals": 9,
+  "name": "Snoop Doge"
+}

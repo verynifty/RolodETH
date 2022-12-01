@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "GODLY LEGION",
   "imageUrl": "https://i.seadn.io/gcs/files/1b05abc72f91f62b13539df4f8ccbe52.jpg?w=500&auto=format",
   "externalUrl": "https://www.godlylegion.xyz/",
   "discordUrl": "https://discord.gg/godlylegion",
   "twitterUsername": "legiongodlynft",
-  "description": "Ascendam super altitudinem nubium, ero similis Altissimo. Tu autem ad inferos deduceris. Ad ima laci."
+  "description": "Ascendam super altitudinem nubium, ero similis Altissimo. Tu autem ad inferos deduceris. Ad ima laci.",
+  "erc721_symbol": "LEGION"
 }

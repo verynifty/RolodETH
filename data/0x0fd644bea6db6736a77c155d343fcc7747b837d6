@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Drop Bears Official",
   "imageUrl": "https://i.seadn.io/gae/_EHjX9thMGP1Ju-ZPfQeC76YbJgbm2_XzRUOyaMqWm1tiOyaP4zfBTHsruWRUcu6xiuIVrPj9NfMRalnq-2udKWJTB4gAonCOIOM?w=500&auto=format",
   "externalUrl": "https://www.dropbears.io/",
   "discordUrl": "https://discord.gg/PeC8VUNFgp",
   "twitterUsername": "DropBearsio",
-  "description": "Drop Bears are a collection of generative art on the ethereum blockchain, founded by Australians with a fresh sense of humour. These Drop Bears serve as a membership to an exclusive community including member only perks, collaborations, future drops and special utilities."
+  "description": "Drop Bears are a collection of generative art on the ethereum blockchain, founded by Australians with a fresh sense of humour. These Drop Bears serve as a membership to an exclusive community including member only perks, collaborations, future drops and special utilities.",
+  "erc721_symbol": "DBS"
 }

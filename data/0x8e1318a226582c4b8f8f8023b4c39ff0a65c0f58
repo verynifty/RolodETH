@@ -6,5 +6,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "meta66.eth"
 }

@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "sunrain222.eth"
 }

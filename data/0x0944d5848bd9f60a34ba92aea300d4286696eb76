@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Palette",
   "erc20_symbol": "PLT",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22153/thumb/262aoVTp_400x400.jpg?1640940192"
+  "imageURL": "https://assets.coingecko.com/coins/images/22153/thumb/262aoVTp_400x400.jpg?1640940192",
+  "proxy": "0x6f1d6306494498c445ca0523dbc8ac1d57593be1"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The NFT League",
   "imageUrl": "https://i.seadn.io/gcs/files/726632f65fc5a8c7fb9c7382071a1a35.png?w=500&auto=format",
   "externalUrl": "http://thenftleague.io",
   "discordUrl": "https://discord.gg/Scym5RuEFy",
-  "twitterUsername": "TheNFTLeague"
+  "twitterUsername": "TheNFTLeague",
+  "erc721_symbol": "TNL"
 }

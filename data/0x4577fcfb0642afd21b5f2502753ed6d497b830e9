@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "White Hearts 1.0",
   "imageUrl": "https://i.seadn.io/gcs/files/c4d815fa2c9d370bbb25bbcb7accd5c3.png?w=500&auto=format",
   "externalUrl": "https://www.whitehearts.xyz",
   "discordUrl": "https://discord.gg/mezzanotte",
   "twitterUsername": "WhiteHeartsNFT",
-  "description": "White Hearts 🤍 is a collection of 2,500 unique NFTs illustrated by Merukuro and released by Mezzanotte."
+  "description": "White Hearts 🤍 is a collection of 2,500 unique NFTs illustrated by Merukuro and released by Mezzanotte.",
+  "erc721_symbol": "WHHE"
 }

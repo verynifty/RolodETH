@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-leagueoflils",
     "opensea-user"
-  ]
+  ],
+  "ens": "thepencil.eth"
 }

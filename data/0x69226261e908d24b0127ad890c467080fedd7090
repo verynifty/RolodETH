@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EVO Bots",
   "imageUrl": "https://i.seadn.io/gcs/files/666371c4b402f6759722ffab113d732d.png?w=500&auto=format",
   "externalUrl": "https://www.cryptocave.club",
   "discordUrl": "https://discord.gg/cryptocaveclub",
-  "description": "The first expansion to the Crypto Cave Club. EVO BOTS is a collection of 2,500 robots of destruction.\n\nCrypto Cave Club Genesis Collection: \nhttps://opensea.io/collection/cryptocaveclub"
+  "description": "The first expansion to the Crypto Cave Club. EVO BOTS is a collection of 2,500 robots of destruction.\n\nCrypto Cave Club Genesis Collection: \nhttps://opensea.io/collection/cryptocaveclub",
+  "erc721_symbol": "EVO"
 }

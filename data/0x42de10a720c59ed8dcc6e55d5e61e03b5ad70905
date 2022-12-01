@@ -4,5 +4,6 @@
     "loot-minter",
     "cryptoadz-minter",
     "art-goblers-minter"
-  ]
+  ],
+  "ens": "sad.eth"
 }

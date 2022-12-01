@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "snapshot-voter-botto",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "spaceace.eth"
 }
