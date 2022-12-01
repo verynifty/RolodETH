@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dour Fits",
   "imageUrl": "https://i.seadn.io/gcs/files/97bdb00a0064c96bb024d4683f096a80.gif?w=500&auto=format",
   "externalUrl": "http://dourdarcels.io",
   "discordUrl": "https://discord.gg/dourdarcels",
   "twitterUsername": "DourDarcelsNFT",
-  "description": "Dour Fits is a collection of 10,000 unique NFTs from the world of Dour Darcels. Each NFT is a PFP that can also be used in the similarly titled fashion game 'Dour Fits'. Dour Fits NFTs live on the Ethereum blockchain and enable access to the Dour Darcels community. \n\nhttps://dourdarcels.io/\n\nhttps://dourfits.io/"
+  "description": "Dour Fits is a collection of 10,000 unique NFTs from the world of Dour Darcels. Each NFT is a PFP that can also be used in the similarly titled fashion game 'Dour Fits'. Dour Fits NFTs live on the Ethereum blockchain and enable access to the Dour Darcels community. \n\nhttps://dourdarcels.io/\n\nhttps://dourfits.io/",
+  "erc721_symbol": "DARCELDF"
 }

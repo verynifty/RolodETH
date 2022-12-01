@@ -3,5 +3,6 @@
     "clonex-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kennedybaird.eth"
 }

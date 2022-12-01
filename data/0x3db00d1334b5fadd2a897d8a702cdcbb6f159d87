@@ -8,5 +8,6 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "bitpush.eth"
 }

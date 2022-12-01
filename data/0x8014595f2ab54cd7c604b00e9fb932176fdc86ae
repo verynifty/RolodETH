@@ -1,6 +1,7 @@
 {
   "tags": [
-    "convex-finance"
+    "convex-finance",
+    "contract"
   ],
   "name": "Convex Finance: CRV Depositor"
 }

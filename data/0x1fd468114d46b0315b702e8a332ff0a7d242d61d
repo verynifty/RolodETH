@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "MiningverseNFT Official",
   "imageUrl": "https://i.seadn.io/gcs/files/14e1f5fcf5ef2a64d67914edbf3fb3d5.jpg?w=500&auto=format",
   "externalUrl": "https://miningversenft.com/",
   "discordUrl": "https://discord.gg/miningverse",
   "twitterUsername": "MiningverseNFT",
-  "description": "Miningverse is a universe composed of five tribes. We have a total of 10,000 NFTs which contains 1000 Genesis NFTs and 9000 common NFTs. \r\n\r\nMiningverse is a Metaverse brand supported by physical mining industry, with NFT brand culture and blockchain virtual mining game as the core of our brand development. While developing our brand IP, mining revenue can be visualized through the blockchain-based gaming and the physical mining revenue will be returned to the community users. \r\n\r\nEnter [miningversenft.com](https://miningversenft.com) for more information."
+  "description": "Miningverse is a universe composed of five tribes. We have a total of 10,000 NFTs which contains 1000 Genesis NFTs and 9000 common NFTs. \r\n\r\nMiningverse is a Metaverse brand supported by physical mining industry, with NFT brand culture and blockchain virtual mining game as the core of our brand development. While developing our brand IP, mining revenue can be visualized through the blockchain-based gaming and the physical mining revenue will be returned to the community users. \r\n\r\nEnter [miningversenft.com](https://miningversenft.com) for more information.",
+  "proxy": "0xdc1450dcda2cdce416a8d43b709247bbb125b183"
 }

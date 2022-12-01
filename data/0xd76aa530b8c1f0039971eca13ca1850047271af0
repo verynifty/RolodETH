@@ -6,5 +6,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "0xhyperion.eth"
 }

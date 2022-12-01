@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-sushigov",
     "opensea-user"
-  ]
+  ],
+  "ens": "gege.eth"
 }

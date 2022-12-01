@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Hyundai Metamobility - MobED",
   "imageUrl": "https://i.seadn.io/gae/vmtO6CgutZFdEuc3r5PZEnvYXOFCHpj8mZV0TqhoS6f74mQjZGLvJVLArp_C-1vuYylrkcmh8JH2dgzzgAYyRraL5MZYS80JWAuugA?w=500&auto=format",
   "externalUrl": "https://hyundai-nft.com/",
   "discordUrl": "https://discord.gg/hyundai-nft",
   "twitterUsername": "Hyundai_NFT",
-  "description": "10,000 MobEDs compose the first Metamobility NFT collection of Hyundai Motor Company. Each MobED NFT has an unique design and rarity, unveiled as generative art."
+  "description": "10,000 MobEDs compose the first Metamobility NFT collection of Hyundai Motor Company. Each MobED NFT has an unique design and rarity, unveiled as generative art.",
+  "erc721_symbol": "HMM"
 }

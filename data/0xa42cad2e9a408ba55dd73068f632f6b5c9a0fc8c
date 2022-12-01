@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lost Pixels For N",
   "imageUrl": "https://i.seadn.io/gae/uZV9gTqvUE3_ESsgv-A-x0xYMUhasyLbVmRYoVHU1TEGmk5T8Dx2o2wAYhT0RyBy58yLVehqSomIjk0vERBnDKJf3XIp11ySckTT6e4?w=500&auto=format",
   "externalUrl": "https://lostpixels.quest/",
-  "description": "3333 generative pixel art NFTs with multiple meaning for N Project Community"
+  "description": "3333 generative pixel art NFTs with multiple meaning for N Project Community",
+  "erc721_symbol": "LPXN"
 }

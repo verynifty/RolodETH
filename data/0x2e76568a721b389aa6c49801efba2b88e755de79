@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Beep Boop Exo Suit",
   "imageUrl": "https://i.seadn.io/gcs/files/528929465c013a1ee130eaa229f99063.gif?w=500&auto=format",
   "externalUrl": "http://www.beepboopbotz.io",
   "twitterUsername": "BeepBoopBotz",
-  "description": "The Exo Suits\nProtect your favorite botz with the armor that will enhance them on the day of battle. Say hello to the new and improved BB EXO Pro. Next-gen, all environment capable battle-suits. Beep Boop Industries Advanced Warfare Division. Each suit can protect one bot during the rise of the machines. With limited supplies, the exo suits will become more valuable as the game progresses."
+  "description": "The Exo Suits\nProtect your favorite botz with the armor that will enhance them on the day of battle. Say hello to the new and improved BB EXO Pro. Next-gen, all environment capable battle-suits. Beep Boop Industries Advanced Warfare Division. Each suit can protect one bot during the rise of the machines. With limited supplies, the exo suits will become more valuable as the game progresses.",
+  "erc721_symbol": "BB9000"
 }

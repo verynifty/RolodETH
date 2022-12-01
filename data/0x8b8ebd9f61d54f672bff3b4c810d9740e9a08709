@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ELYM",
+  "erc20_decimals": 18,
+  "name": "Elysiumworld Token"
+}

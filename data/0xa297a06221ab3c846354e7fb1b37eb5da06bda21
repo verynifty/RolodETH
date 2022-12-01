@@ -16,5 +16,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "maocheng.eth"
 }

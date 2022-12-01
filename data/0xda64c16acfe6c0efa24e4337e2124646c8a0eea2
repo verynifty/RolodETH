@@ -3,5 +3,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "imba1337.eth"
 }

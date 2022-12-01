@@ -4,5 +4,6 @@
     "loot-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "worm.eth"
 }

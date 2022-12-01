@@ -4,5 +4,6 @@
     "cryptoadz-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "xfl2023.eth"
 }

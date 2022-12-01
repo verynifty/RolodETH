@@ -3,5 +3,6 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter"
-  ]
+  ],
+  "ens": "sashaku.eth"
 }

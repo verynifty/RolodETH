@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Wizard Pass Official",
   "imageUrl": "https://i.seadn.io/gcs/files/829c49ae2e4d75dd421ab877dc4f6e23.gif?w=500&auto=format",

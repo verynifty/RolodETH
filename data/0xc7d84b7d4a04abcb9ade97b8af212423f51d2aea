@@ -10,5 +10,6 @@
   "externalUrl": "http://gemma.art",
   "discordUrl": "https://discord.gg/SJ9eXDV5QS",
   "twitterUsername": "Gemma_NFT",
-  "description": "[GEMMA](https://gemma.art) (The Generative Electronic Museum of Metaverse Art) is a comprehensive generative art collection by [Tristan Eaton](https://tristaneaton.com/). Combining Eaton’s stunning portraiture and layered collage, each piece carries its own unique personality and identity."
+  "description": "[GEMMA](https://gemma.art) (The Generative Electronic Museum of Metaverse Art) is a comprehensive generative art collection by [Tristan Eaton](https://tristaneaton.com/). Combining Eaton’s stunning portraiture and layered collage, each piece carries its own unique personality and identity.",
+  "erc721_symbol": "GEMMA"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "THE TOKS",
   "imageUrl": "https://i.seadn.io/gcs/files/9c4bd282fb76cc4c26584547d0f843be.png?w=500&auto=format",
   "externalUrl": "http://www.toksnft.com",
   "discordUrl": "https://discord.gg/toks",
   "twitterUsername": "THETOKSNFT",
-  "description": "Just another pfp to look at on your phone."
+  "description": "Just another pfp to look at on your phone.",
+  "erc721_symbol": "TOKS"
 }

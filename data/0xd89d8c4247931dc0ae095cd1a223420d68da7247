@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-hakka",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "tossapol88.eth"
 }

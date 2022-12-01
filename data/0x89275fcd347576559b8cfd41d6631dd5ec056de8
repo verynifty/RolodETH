@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alivacious",
   "imageUrl": "https://i.seadn.io/gae/BGSzIjOPRuK29QM-Hf8mHjqpjyhg3Q0e913k_DGPgH7mdX5lnfkj8_obpa_WMlD7LSFavFVkHUO3UHQCVc4njLxuYDPNdljXqvBvJJ4?w=500&auto=format",
   "externalUrl": "https://www.alivaciousmint.io/",
   "discordUrl": "https://discord.gg/EDysfGDhAp",
   "twitterUsername": "alivacious",
-  "description": "Rudy Wilson, traditionally a gallery artist out of LA and NYC, has entered the metaverse with a collection of 5,000 NFTs inspired by sensory, nostalgic, and outdoor experiences."
+  "description": "Rudy Wilson, traditionally a gallery artist out of LA and NYC, has entered the metaverse with a collection of 5,000 NFTs inspired by sensory, nostalgic, and outdoor experiences.",
+  "erc721_symbol": "RUDY"
 }

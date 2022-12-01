@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-lxdao",
     "snapshot-voter-1inch"
-  ]
+  ],
+  "ens": "100000000.eth"
 }

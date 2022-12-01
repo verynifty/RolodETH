@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "BlockHorses: Deployer"
+  "name": "BlockHorses: Deployer",
+  "ens": "abcoathup.eth"
 }

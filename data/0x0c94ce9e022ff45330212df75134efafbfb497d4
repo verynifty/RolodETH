@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CrudeBorne Jelly Babies",
   "imageUrl": "https://i.seadn.io/gcs/files/897c8851895b6acd5a6ebb754857506b.jpg?w=500&auto=format",
   "externalUrl": "https://crudeborne.wtf",
   "twitterUsername": "crudeborne",
-  "description": "Would you like a jelly baby?"
+  "description": "Would you like a jelly baby?",
+  "erc721_symbol": "CB.JELLY"
 }

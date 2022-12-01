@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ASM AIFA Genesis",
   "imageUrl": "https://i.seadn.io/gae/1zBGv7flcBW0Kh8lRdJlZxmiP6F7hPel2XHVFGJDytrz4IBveQPR7B6DSrGMSkxCw1LErUWYVAOPUIvgVDaUOzEcaoEpx9BOpOE98NE?w=500&auto=format",
   "externalUrl": "https://aifa.football",
   "discordUrl": "https://discord.gg/invite/4jSWquAq4j",
   "twitterUsername": "altstatemachine",
-  "description": "The world’s first Non-Fungible Intelligence premiere by Altered State Machine.\r\n\r\n10,000 unique Genesis Boxes; with 1 unique Artificial Intelligence ASM Brain 🧠 and 4 unique AIFA All-Stars in each box.\r\n\r\nArtificial Intelligence Football Association (AIFA) is a decentralised Play-To-Earn game. Starring the genesis of intelligent NFTs, or… NFIs.\r\n\r\nAt the Great Unboxing, your All-Stars will emerge with random attributes. You’ll have a limited one-time power to reconfigure each one! Break open your box and create your team, to your vision.\r\n\r\nThe ASM Genesis Brain 🧠 contained in every box will be part of a platform for the creation and training of A.I. Agents, owned and traded as NFTs."
+  "description": "The world’s first Non-Fungible Intelligence premiere by Altered State Machine.\r\n\r\n10,000 unique Genesis Boxes; with 1 unique Artificial Intelligence ASM Brain 🧠 and 4 unique AIFA All-Stars in each box.\r\n\r\nArtificial Intelligence Football Association (AIFA) is a decentralised Play-To-Earn game. Starring the genesis of intelligent NFTs, or… NFIs.\r\n\r\nAt the Great Unboxing, your All-Stars will emerge with random attributes. You’ll have a limited one-time power to reconfigure each one! Break open your box and create your team, to your vision.\r\n\r\nThe ASM Genesis Brain 🧠 contained in every box will be part of a platform for the creation and training of A.I. Agents, owned and traded as NFTs.",
+  "erc721_symbol": "AIFABOX"
 }

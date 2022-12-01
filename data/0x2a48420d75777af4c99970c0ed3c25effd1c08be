@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The MV3 Universe",
   "imageUrl": "https://i.seadn.io/gae/_4dMHkytDJlc3h85kgXGBQppopP_x0BPc4DOIR_R8UEC9ScttoQ7AjAx3Dksv6TNwV_C3ZkjNutYhXsbC4_fuaMgRmtMlBl0DmtaoZk?w=500&auto=format",
   "externalUrl": "https://www.mv3hq.com",
   "discordUrl": "https://discord.gg/mv3",
   "twitterUsername": "mv3nft",
-  "description": "The MV3 Universe is a collection of 6,500 characters spanning 5 unique factions within the world of Eluna City. MV3 is the next great franchise - where holders get to participate directly in the upside of the IP.\r\n\r\nVisit https://www.mv3.io for more details."
+  "description": "The MV3 Universe is a collection of 6,500 characters spanning 5 unique factions within the world of Eluna City. MV3 is the next great franchise - where holders get to participate directly in the upside of the IP.\r\n\r\nVisit https://www.mv3.io for more details.",
+  "erc721_symbol": "MV3NFT"
 }

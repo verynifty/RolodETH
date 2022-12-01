@@ -10,5 +10,6 @@
   "externalUrl": "https://3landersnft.com/",
   "discordUrl": "https://discord.gg/3landers",
   "twitterUsername": "3landersNFT",
-  "description": "3Landers is a collectible NFT project centered around community, adventure, and collaboration. Each 3Lander resides on the Ethereum blockchain as a unique, non-fungible token (NFT) made up out of a unique combination of traits and underlying “DNAs”. Holding a 3Landers NFT makes you a 3Lander – a member of a world and community that serves to build meaningful long-term connection through collaboration, adventure, building, creating, and dreaming! \n\n[3L-Biomes](https://opensea.io/collection/3l-biomes)\n\n[3Land Inventory](https://opensea.io/collection/3land-inventory)\n\n[3Land World OG Collection](https://opensea.io/collection/3landworld)"
+  "description": "3Landers is a collectible NFT project centered around community, adventure, and collaboration. Each 3Lander resides on the Ethereum blockchain as a unique, non-fungible token (NFT) made up out of a unique combination of traits and underlying “DNAs”. Holding a 3Landers NFT makes you a 3Lander – a member of a world and community that serves to build meaningful long-term connection through collaboration, adventure, building, creating, and dreaming! \n\n[3L-Biomes](https://opensea.io/collection/3l-biomes)\n\n[3Land Inventory](https://opensea.io/collection/3land-inventory)\n\n[3Land World OG Collection](https://opensea.io/collection/3landworld)",
+  "erc721_symbol": "3L"
 }

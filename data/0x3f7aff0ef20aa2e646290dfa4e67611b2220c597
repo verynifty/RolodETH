@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "Volt Inu: Old VOLT Token",
   "erc20_symbol": "VOLT",

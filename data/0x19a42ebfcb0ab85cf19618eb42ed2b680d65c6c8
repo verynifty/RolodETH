@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Vexx",
   "imageUrl": "https://i.seadn.io/gae/EN8cGgIWUIaaYVwjTreVQu0wvHNeedcFe-4IUGMqfpnhUKstMfO-YpOLtX7DeKCWC4a4dKOnQ3E-EcFCeipEAIKyjxMVPJ8r7oHqOiI?w=500&auto=format",
   "twitterUsername": "vexx_art",
-  "description": "Vexx is one of the most recognized visual artists of his generation. A self-taught creative working out of Belgium, he started his signature doodle style at 16 years old. Now at 22, he has an Instagram following of 840K, with over 2.9M subscribers on YouTube. His clients include Porsche, Puma, Converse, Samsung, RedBull, Amazon Prime, AJ Tracey, Stormzy and he has been featured in Complex, NTWRK, and the cover of Time Out NY’s expose on NYC Street art."
+  "description": "Vexx is one of the most recognized visual artists of his generation. A self-taught creative working out of Belgium, he started his signature doodle style at 16 years old. Now at 22, he has an Instagram following of 840K, with over 2.9M subscribers on YouTube. His clients include Porsche, Puma, Converse, Samsung, RedBull, Amazon Prime, AJ Tracey, Stormzy and he has been featured in Complex, NTWRK, and the cover of Time Out NY’s expose on NYC Street art.",
+  "erc721_symbol": "DOODLESVOLOPENEDITIONBYVEXX"
 }

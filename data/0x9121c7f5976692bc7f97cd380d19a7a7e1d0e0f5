@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ugly Muck Yacht Club",
   "imageUrl": "https://i.seadn.io/gcs/files/561f5e1e6707a678ad1c7978c3da5b87.jpg?w=500&auto=format",
   "externalUrl": "http://uglymuckyachtclub.com/",
   "discordUrl": "https://discord.gg/invite/rdZKKmXC",
   "twitterUsername": "MuckClub",
-  "description": "“Abandoned by our father” \n\nUgly Muck Yacht Club is a community controlled, 10k collection of Ugly + memeable PFPs, granting you a membership to the ugly side. New social links are up! "
+  "description": "“Abandoned by our father” \n\nUgly Muck Yacht Club is a community controlled, 10k collection of Ugly + memeable PFPs, granting you a membership to the ugly side. New social links are up! ",
+  "erc721_symbol": "UMYC"
 }

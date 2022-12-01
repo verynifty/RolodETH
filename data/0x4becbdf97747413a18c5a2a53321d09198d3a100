@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Okay Bears Yacht Club",
   "imageUrl": "https://i.seadn.io/gcs/files/4aa7eb6f648a43b35573422130312514.png?w=500&auto=format",
   "externalUrl": "https://obyclabs.com",
   "discordUrl": "https://discord.gg/obyc",
   "twitterUsername": "OkayBearsYC",
-  "description": "L2 Lab Item Mint is LIVE: https://mint.obyclabs.com\n\nOkay Bears Yacht Club by OBYC Labs is a collection of 7,777 NFTS across the Ethereum Blockchain, generated from over 167 hand-drawn traits, inspired by two iconic NFT collections: Bored Ape Yacht Club and Okay Bears, making us a unique collection. Every member gets full IP rights while your bear also acts as a digital collectible, and a membership card. Led by a collection of members chosen by the community, serving as the Core Team, Moderators, and Council. We plan to bring innovation, utility, and benefits to our holders. We are bored, but we are okay. Bear-ish.\n\nOBYC Hazmat Division Lab Items: https://opensea.io/collection/obyc-hazmat-division\n\nOfficial Website: https://obyclabs.com\n\nOfficial Discord: https://discord.gg/obyc \n\nOfficial Twitter: https://twitter.com/OkayBearsYC"
+  "description": "L2 Lab Item Mint is LIVE: https://mint.obyclabs.com\n\nOkay Bears Yacht Club by OBYC Labs is a collection of 7,777 NFTS across the Ethereum Blockchain, generated from over 167 hand-drawn traits, inspired by two iconic NFT collections: Bored Ape Yacht Club and Okay Bears, making us a unique collection. Every member gets full IP rights while your bear also acts as a digital collectible, and a membership card. Led by a collection of members chosen by the community, serving as the Core Team, Moderators, and Council. We plan to bring innovation, utility, and benefits to our holders. We are bored, but we are okay. Bear-ish.\n\nOBYC Hazmat Division Lab Items: https://opensea.io/collection/obyc-hazmat-division\n\nOfficial Website: https://obyclabs.com\n\nOfficial Discord: https://discord.gg/obyc \n\nOfficial Twitter: https://twitter.com/OkayBearsYC",
+  "erc721_symbol": "OBYC"
 }

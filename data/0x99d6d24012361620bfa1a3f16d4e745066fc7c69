@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "zs666.eth"
 }

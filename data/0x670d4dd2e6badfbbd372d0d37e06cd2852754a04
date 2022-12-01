@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nina's Super Cool World",
   "imageUrl": "https://i.seadn.io/gcs/files/8d9f9dc8ed913e52052301f0d59515e8.png?w=500&auto=format",
   "externalUrl": "http://thegoda.io",
   "discordUrl": "https://discord.gg/thegoda",
   "twitterUsername": "TheGoda_io",
-  "description": "Nina Chanel’s Super Cool World is a collection of 5,080 NFTs (non-fungible tokens) that are made up of hundreds of traits designed by Nina Chanel Abney that reflect her frenetic collage-like approach to visual media.\n\nSuper Cool World is a generative PFP-based project created as an alternative way to interact with fans and collectors. Nina Chanel Abney has completely embraced NFT as a new medium and is interested in the endless potential and capabilities of NFTs that allow for a much deeper engagement with one’s community.\n\nNina Chanel Abney is a world renowned fine artist so the opportunity to collect pieces of her work is the main project utility.  However, each Super Cool World NFT is a unique piece of artwork that doubles as an invitation to participate in the evolution of Nina Chanel Abney’s career. \n\nEnter into Nina’s “Super Cool World” and join her on her journey filled with fun and spontaneity. Legal: https://thegoda.io/super_cool_world/nina_ownership.pdf"
+  "description": "Nina Chanel’s Super Cool World is a collection of 5,080 NFTs (non-fungible tokens) that are made up of hundreds of traits designed by Nina Chanel Abney that reflect her frenetic collage-like approach to visual media.\n\nSuper Cool World is a generative PFP-based project created as an alternative way to interact with fans and collectors. Nina Chanel Abney has completely embraced NFT as a new medium and is interested in the endless potential and capabilities of NFTs that allow for a much deeper engagement with one’s community.\n\nNina Chanel Abney is a world renowned fine artist so the opportunity to collect pieces of her work is the main project utility.  However, each Super Cool World NFT is a unique piece of artwork that doubles as an invitation to participate in the evolution of Nina Chanel Abney’s career. \n\nEnter into Nina’s “Super Cool World” and join her on her journey filled with fun and spontaneity. Legal: https://thegoda.io/super_cool_world/nina_ownership.pdf",
+  "erc721_symbol": "COOL"
 }

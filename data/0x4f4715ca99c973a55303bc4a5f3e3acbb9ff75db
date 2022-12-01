@@ -3,5 +3,6 @@
     "meebit-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "rbp.eth"
 }

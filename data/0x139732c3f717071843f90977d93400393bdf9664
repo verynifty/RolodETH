@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MPL Official",
   "imageUrl": "https://i.seadn.io/gae/p-xelF1DUHVKq1B7qMLxiUExpYY8yOAKTozR4rx2WUioY-kmxSwDhvFAK6UccaRnVsmQYbycQ1t0sSSY2tlCQyL2PVSB057DYSi0Cg?w=500&auto=format",
   "externalUrl": "http://martianpremierleague.com",
   "discordUrl": "https://discord.gg/martianpremierleague",
   "twitterUsername": "MartianPLeague",
-  "description": "The Martian Premier League is a collection of 10,000 unique human and Martian characters living on the Ethereum blockchain. These characters are your route into the Martian Premier League game: a ‘football manager’ style game where holders can train, trade and compete in the MPL league. Over time there will be further application for these genesis characters outside of the first MPL game. Visit www.martianpremierleague.com for more details and t&cs."
+  "description": "The Martian Premier League is a collection of 10,000 unique human and Martian characters living on the Ethereum blockchain. These characters are your route into the Martian Premier League game: a ‘football manager’ style game where holders can train, trade and compete in the MPL league. Over time there will be further application for these genesis characters outside of the first MPL game. Visit www.martianpremierleague.com for more details and t&cs.",
+  "erc721_symbol": "MPL"
 }

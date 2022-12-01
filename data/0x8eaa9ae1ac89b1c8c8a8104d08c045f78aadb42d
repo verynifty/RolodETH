@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Tableland Rigs",
   "imageUrl": "https://i.seadn.io/gae/fRQ56w4Ec63znwSqC2P_cAlJlhiMsknUsMuBKl8mVBwzTO4ZTOvr-xKehuRG43Lr74gg4pexbbaFQS6YULw9PHoywSl93TorJrOG?w=500&auto=format",
   "externalUrl": "https://tableland.xyz/rigs",
   "discordUrl": "https://discord.gg/dc8EBEhGbg",
   "twitterUsername": "tableland__",
-  "description": "Rigs is a generative collection built from 1,074 handcrafted works of art for the builders and creatives of cyberspace. Rigs are built on the Tableland protocol, a decentralized read, write, and own database for relational, composable data—powered by smart contracts and SQL on EVM chains like Ethereum. Rigs are your ticket to rewards for builders, creatives, ambassadors, and believers in Tableland."
+  "description": "Rigs is a generative collection built from 1,074 handcrafted works of art for the builders and creatives of cyberspace. Rigs are built on the Tableland protocol, a decentralized read, write, and own database for relational, composable data—powered by smart contracts and SQL on EVM chains like Ethereum. Rigs are your ticket to rewards for builders, creatives, ambassadors, and believers in Tableland.",
+  "proxy": "0xc68579e377ea0a503a0f19ec02c0f9fdce5ed8dc"
 }

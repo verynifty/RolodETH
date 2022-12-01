@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Porkers",
   "imageUrl": "https://i.seadn.io/gcs/files/4fda48c3049f3967515df22a9f7fab73.jpg?w=500&auto=format",
   "externalUrl": "https://linktr.ee/porkers",
   "twitterUsername": "PorkersLOL",
-  "description": "10,000 Porkers living in Ethereum through the bad times and the good times. Walking on the journey to redemption."
+  "description": "10,000 Porkers living in Ethereum through the bad times and the good times. Walking on the journey to redemption.",
+  "proxy": "0x1bc2697f2efac144e7422c4827ba95e9b8369b77"
 }

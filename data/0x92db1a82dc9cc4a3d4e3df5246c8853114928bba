@@ -4,5 +4,6 @@
     "snapshot-voter-pooltogether",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "llll.eth"
 }

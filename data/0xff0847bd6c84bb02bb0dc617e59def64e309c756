@@ -3,5 +3,6 @@
     "snapshot-voter-thevisiondao",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "battlesloth.eth"
 }

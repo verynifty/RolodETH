@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "One Night in August",
   "imageUrl": "https://i.seadn.io/gcs/files/fbbfeb45d5d54c707a223b9db4abc7af.jpg?w=500&auto=format",
   "externalUrl": "http://postwook.com",
   "discordUrl": "https://discord.gg/3U5Ne8RB69",
   "twitterUsername": "POSTWOOK",
-  "description": "One Night in August is a collection containing three phases that encapsulate different stages of a healing journey. This collection tells a story of where I've been, the emotions I've processed, and my reflections on growth and change. Art has been a massive tool in my emotional regulation over the years, and I truly believe art is therapeutic. If interested, take time to read each description of this collection to better tell my story with emotional turmoils, taking action, and reflection. At the minimum, this is a collection of cool art for you to enjoy. \n\nPhase One tells the story of rising and unruly emotions. \nPhase Two illustrates the process of healing. \nPhase Three is all about the reflection – it’s the art made from the metaphorical emotional summit. \n\nRedeemables: Collecting one (1) piece from each phase before October 1, 2022 will result in holders receiving a new, airdropped 1/1. These pieces are categorized as the 'Legendary Phase' of this collection. "
+  "description": "One Night in August is a collection containing three phases that encapsulate different stages of a healing journey. This collection tells a story of where I've been, the emotions I've processed, and my reflections on growth and change. Art has been a massive tool in my emotional regulation over the years, and I truly believe art is therapeutic. If interested, take time to read each description of this collection to better tell my story with emotional turmoils, taking action, and reflection. At the minimum, this is a collection of cool art for you to enjoy. \n\nPhase One tells the story of rising and unruly emotions. \nPhase Two illustrates the process of healing. \nPhase Three is all about the reflection – it’s the art made from the metaphorical emotional summit. \n\nRedeemables: Collecting one (1) piece from each phase before October 1, 2022 will result in holders receiving a new, airdropped 1/1. These pieces are categorized as the 'Legendary Phase' of this collection. ",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

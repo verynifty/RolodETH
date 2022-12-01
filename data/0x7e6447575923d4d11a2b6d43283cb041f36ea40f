@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "mhero.eth"
 }

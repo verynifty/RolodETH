@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EVERYBODYS",
   "imageUrl": "https://i.seadn.io/gcs/files/df62e92d2b4838c4ea2338dbc72e182b.png?w=500&auto=format",
   "externalUrl": "https://www.everybodys.io/",
   "discordUrl": "https://discord.gg/everybodys",
   "twitterUsername": "EverybodysFun",
-  "description": "Everybodys are 10,000 original characters by artist Sean Solomon. Eventually, Everybodys will be animations, physical products, stories and more. In fact, Everybodys are planning to take over the world (in a fun way). These characters will start as static profile pictures, but they are designed with animation in mind. This means holders have the potential to see these characters skate, jump, wave, and maybe even fall in love..."
+  "description": "Everybodys are 10,000 original characters by artist Sean Solomon. Eventually, Everybodys will be animations, physical products, stories and more. In fact, Everybodys are planning to take over the world (in a fun way). These characters will start as static profile pictures, but they are designed with animation in mind. This means holders have the potential to see these characters skate, jump, wave, and maybe even fall in love...",
+  "erc721_symbol": "EVERY"
 }

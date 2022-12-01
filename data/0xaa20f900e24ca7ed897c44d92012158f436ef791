@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Eponym by ART AI",
   "imageUrl": "https://i.seadn.io/gae/t_sksGcTOymNMnf-b0B7Qr_4lMc9BdvDcphLFyN78iNXBb30VcVViwo1_xnW09z3n9hRL30SqyN4MkcsN1bb4PRiiTV7GBIsRwSwZaw?w=500&auto=format",
   "externalUrl": "https://eponym.art-ai.com/",
   "discordUrl": "https://discord.gg/eponym",
   "twitterUsername": "EpoLabs",
-  "description": "For Second Generation Eponyms:\nhttps://opensea.io/collection/eponym-gen2\n\nEponym is a state-of-the-art generative algorithm that produces fine, abstract art, in under 1 minute, using an innovative text-to-image generator. Any word or phrase, can be transformed into a beautiful 1/1 art piece, forever etched onto the Ethereum blockchain as the visual representation of your phrase. The program was developed over the last 2 years by the world’s best generative art engineers."
+  "description": "For Second Generation Eponyms:\nhttps://opensea.io/collection/eponym-gen2\n\nEponym is a state-of-the-art generative algorithm that produces fine, abstract art, in under 1 minute, using an innovative text-to-image generator. Any word or phrase, can be transformed into a beautiful 1/1 art piece, forever etched onto the Ethereum blockchain as the visual representation of your phrase. The program was developed over the last 2 years by the world’s best generative art engineers.",
+  "erc721_symbol": "ARTAI"
 }

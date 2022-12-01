@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-gearbox",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bayc1333.eth"
 }

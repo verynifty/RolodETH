@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "\"I'm Spottie\" Vinyl Record Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/d6dc451fb5f8be855217d7b3632e4806.gif?w=500&auto=format",
   "externalUrl": "http://spottiewifi.io",
   "discordUrl": "https://discord.gg/6HWmhugB3W",
   "twitterUsername": "SpottieWiFi",
-  "description": "Spottie WiFi is the best (only) CryptoPunk rapper alive. In August 2021, he disrupted the music industry by selling 2000 \"I'm Spottie\" NFT albums in 60 seconds. The \"I'm Spottie\" collection is regarded as one of the most successful and innovative music NFT projects in history, and a vinyl record was pressed for each of the 2000 album NFTs. The collection includes 33 songs, each with unique artwork and varying rarity traits - and \"I'm Spottie\" token holders receive a limited copyright license so they can actually monetize the music. \n\nSearch by token ID to see if any given NFT still has an unclaimed vinyl record available: https://spottiewifi.myshopify.com/products/im-spottie-vinyl-record\n\nLearn more at https://www.SpottieWiFi.io"
+  "description": "Spottie WiFi is the best (only) CryptoPunk rapper alive. In August 2021, he disrupted the music industry by selling 2000 \"I'm Spottie\" NFT albums in 60 seconds. The \"I'm Spottie\" collection is regarded as one of the most successful and innovative music NFT projects in history, and a vinyl record was pressed for each of the 2000 album NFTs. The collection includes 33 songs, each with unique artwork and varying rarity traits - and \"I'm Spottie\" token holders receive a limited copyright license so they can actually monetize the music. \n\nSearch by token ID to see if any given NFT still has an unclaimed vinyl record available: https://spottiewifi.myshopify.com/products/im-spottie-vinyl-record\n\nLearn more at https://www.SpottieWiFi.io",
+  "erc721_symbol": "SPOTTIE"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Forgotten Runes Warriors Guild",
   "imageUrl": "https://i.seadn.io/gae/q1MtHAoWMZWLYE-7On4Az1JrliltRSbR-nZNoPXYslrJnJi1E0EJvEhQ6tarAPVUIjPtpZEgGB7tlFa1ItUSHOBhd4OtOj6fih2cpZw?w=500&auto=format",
   "externalUrl": "https://forgottenrunes.com",
   "discordUrl": "https://discord.gg/forgottenrunes",
   "twitterUsername": "forgottenrunes",
-  "description": "Forgotten Runes Warriors Guild\r\n\r\n[Sister Collections](https://opensea.io/collection/forgottenrunes)"
+  "description": "Forgotten Runes Warriors Guild\r\n\r\n[Sister Collections](https://opensea.io/collection/forgottenrunes)",
+  "erc721_symbol": "WARRIORS"
 }

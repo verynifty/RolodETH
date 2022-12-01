@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "hakutheshiba.eth"
 }

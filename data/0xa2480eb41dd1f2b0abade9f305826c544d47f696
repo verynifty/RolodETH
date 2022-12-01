@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Infinity Frogs NFT",
   "imageUrl": "https://i.seadn.io/gae/5tHPLRm3oJiR0xNSIuBvZthmH2bOC81QC2AE6N6tnV1xBzqV8h2QQDJb6IErqEiUp4CEUlUOvcxjB3NDKAajCocluKd577H1u2LU3es?w=500&auto=format",
   "externalUrl": "https://infinityfrogs.com/",
   "discordUrl": "https://discord.gg/Gghf7WZRCQ",
   "twitterUsername": "GigaverseLabs",
-  "description": "Infinity Frogs are the first NFT to bridge ETH and ICP.\r\n\r\nWe want to bridge two blockchains: Ethereum and Internet Computer. Infinity Frogs are the first to make the leap. Let’s jump together into the gas-free future where each NFT can live on any blockchain! Brave holders will be rewarded in our metaverse."
+  "description": "Infinity Frogs are the first NFT to bridge ETH and ICP.\r\n\r\nWe want to bridge two blockchains: Ethereum and Internet Computer. Infinity Frogs are the first to make the leap. Let’s jump together into the gas-free future where each NFT can live on any blockchain! Brave holders will be rewarded in our metaverse.",
+  "erc721_symbol": "IFROGS"
 }

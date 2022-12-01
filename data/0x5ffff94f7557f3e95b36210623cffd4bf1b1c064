@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "sinasharifi.eth"
 }

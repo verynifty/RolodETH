@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "weexist.eth"
 }

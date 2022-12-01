@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "DEGO",
+  "erc20_decimals": 18,
+  "name": "dego.finance"
 }

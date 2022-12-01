@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Realy NFT V2",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=0ec8513ce74fa5a26d61a4abf7958b7639259444e2241ee3973a642db582cd71803562a91516267c9d9cb34983b412cf26e2d2209e1826238143ac33d2255991e2110819d99304d8190c9cb4b7cbd7f64048397af756837885024088151a50f8"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=0ec8513ce74fa5a26d61a4abf7958b7639259444e2241ee3973a642db582cd71803562a91516267c9d9cb34983b412cf26e2d2209e1826238143ac33d2255991e2110819d99304d8190c9cb4b7cbd7f64048397af756837885024088151a50f8",
+  "erc721_symbol": "Realy"
 }

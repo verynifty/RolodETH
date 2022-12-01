@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ethereans Official",
   "imageUrl": "https://i.seadn.io/gae/mYqaYBoCY7t72FDJqu9hurblYHMdvPVYDZRwX7g-4mEv8oADf5OhKngiRneGZFb5WV4097O58l6J8PpMjInNtqS3hZ_2nrVG3r_q?w=500&auto=format",
   "externalUrl": "https://ethereans.xyz/",
   "discordUrl": "https://discord.gg/s9nnumbBKF",
   "twitterUsername": "theEthereans",
-  "description": "The Ethereans are an army of 11,000 soldiers that came from Planet Crypto, Created by The Chaos Duo in collaboration with PaisanoDAO.\nWe envision a future with animations, gaming, and more.\n\n[Etherean Empire Official Links](https://linktr.ee/theEthereans)\n\n"
+  "description": "The Ethereans are an army of 11,000 soldiers that came from Planet Crypto, Created by The Chaos Duo in collaboration with PaisanoDAO.\nWe envision a future with animations, gaming, and more.\n\n[Etherean Empire Official Links](https://linktr.ee/theEthereans)\n\n",
+  "erc721_symbol": "ETHRS"
 }

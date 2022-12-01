@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Maximalists",
   "imageUrl": "https://i.seadn.io/gcs/files/b543e212bf7b4c9549e45288a01e6172.jpg?w=500&auto=format",
   "externalUrl": "https://maximalists.io/",
   "discordUrl": "https://discord.gg/maximalist",
   "twitterUsername": "Maximalist_NFT",
-  "description": "Maximalists is a collection of 9,976 crypto-maximalists ready to conquer The Maxi City. By Zeiqh\r\n\r\nThe goal of Maximalists is to be a 100% community driven project while providing it's holders with benefits \r\nthrough their crypto journey."
+  "description": "Maximalists is a collection of 9,976 crypto-maximalists ready to conquer The Maxi City. By Zeiqh\r\n\r\nThe goal of Maximalists is to be a 100% community driven project while providing it's holders with benefits \r\nthrough their crypto journey.",
+  "erc721_symbol": "MAXI"
 }

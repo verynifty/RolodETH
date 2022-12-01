@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WATCH ID",
   "imageUrl": "https://i.seadn.io/gcs/files/289b7d0cd9082ccaef6750afb4009466.png?w=500&auto=format",
   "externalUrl": "https://missingfrontier.com",
   "discordUrl": "https://discord.gg/thewatch",
-  "description": "Lifetime Battlepass for Frontier Game https://opensea.io/collection/frontiergame"
+  "description": "Lifetime Battlepass for Frontier Game https://opensea.io/collection/frontiergame",
+  "erc721_symbol": "PFP"
 }
