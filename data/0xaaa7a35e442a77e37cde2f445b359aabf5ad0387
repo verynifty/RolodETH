@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "STM LOCKED",
   "imageUrl": "https://i.seadn.io/gcs/files/0303d12a13c8145fba2e809ab1c477a0.jpg?w=500&auto=format",
   "externalUrl": "https://streetmachine.club/",
   "twitterUsername": "STMachineNFT",
-  "description": "See revealed characters here:  https://opensea.io/collection/streetmachinegenesis\nPlease upgrade your characters from the old contract: \nhttps://opensea.io/collection/streetmachine-v2 (upgrade portal https://streetmachineunlock.club)\n\nWelcome to the Streets! Each box you see here contains a potential character that you can help develop in our IP universe. Choose your box. Pick your player. Who will you be in this brave new world?"
+  "description": "See revealed characters here:  https://opensea.io/collection/streetmachinegenesis\nPlease upgrade your characters from the old contract: \nhttps://opensea.io/collection/streetmachine-v2 (upgrade portal https://streetmachineunlock.club)\n\nWelcome to the Streets! Each box you see here contains a potential character that you can help develop in our IP universe. Choose your box. Pick your player. Who will you be in this brave new world?",
+  "erc721_symbol": "SM"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "fifa2029.eth"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-8848labs"
-  ]
+  ],
+  "ens": "bananapopo.eth"
 }

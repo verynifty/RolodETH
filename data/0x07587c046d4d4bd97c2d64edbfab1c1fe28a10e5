@@ -4,5 +4,6 @@
     "clonex-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "arrky.eth"
 }

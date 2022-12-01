@@ -1,7 +1,10 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
-  "name": "KyberSwap v2 NFT Positions Manager V2"
+  "name": "KyberSwap v2 NFT Positions Manager V2",
+  "erc721_symbol": "KS2-NPM"
 }

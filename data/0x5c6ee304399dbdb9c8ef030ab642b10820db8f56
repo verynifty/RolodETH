@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Balancer 80 BAL 20 WETH",
   "erc20_symbol": "B-80BAL-20WETH",

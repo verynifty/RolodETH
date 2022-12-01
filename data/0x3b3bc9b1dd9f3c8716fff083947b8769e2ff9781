@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Arabian Camels",
   "imageUrl": "https://i.seadn.io/gae/TGMPFCWhKi4wC8k93MqvquFZAJwec6SM0FxtKZOfhY38GMBU-1PLaTw6vYklUnjKYO8Va5cJ8NQBf0EPcZO_Rfgw2IPXxjcSXiKBKQ?w=500&auto=format",
   "externalUrl": "http://arabiancamels.io/",
   "discordUrl": "https://discord.gg/bcY9thmKy4",
   "twitterUsername": "ArabianCamels",
-  "description": "The Antara Universe NFT Collection is a collection of Ancient Arabian warrior inspired NFTs that enable enthusiasts to be a part of something big.\r\n\r\nThe Arabian Camel NFTs are the first of this collection to be released. The Arabian Camels is a collection of 12,012 uniquely generated digital collectibles living on the Ethereum blockchain. \r\n\r\nEach Camel is programmatically generated from over 180 assets with 7 traits, such as expressions, accessories and headgear etc. \r\n\r\nSeveral future perks and incentives will be unlocked by our beloved community as our projects mature.  \"Copyright belongs to the owner.\""
+  "description": "The Antara Universe NFT Collection is a collection of Ancient Arabian warrior inspired NFTs that enable enthusiasts to be a part of something big.\r\n\r\nThe Arabian Camel NFTs are the first of this collection to be released. The Arabian Camels is a collection of 12,012 uniquely generated digital collectibles living on the Ethereum blockchain. \r\n\r\nEach Camel is programmatically generated from over 180 assets with 7 traits, such as expressions, accessories and headgear etc. \r\n\r\nSeveral future perks and incentives will be unlocked by our beloved community as our projects mature.  \"Copyright belongs to the owner.\"",
+  "erc721_symbol": "CAMELS"
 }

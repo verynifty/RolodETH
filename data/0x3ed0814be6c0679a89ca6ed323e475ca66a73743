@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NFF Presents: Oscar Haley And The Great Beyond",
   "imageUrl": "https://i.seadn.io/gcs/files/ed11eb04e6467349bb7fa9dc7a148b43.gif?w=500&auto=format",
   "externalUrl": "https://www.haleybrothers.io/",
   "discordUrl": "https://discord.gg/nonfungiblefilms",
   "twitterUsername": "HaleyBrosNFT",
-  "description": "Oscar Haley and The Great Beyond; A story which follows our heroes: Oscar, Alex, Stella and Xeeba through extraordinary adventures across The Great Beyond and Web3. This character driven collection is destined for film, an animated series, books, games, metaverse and so much more."
+  "description": "Oscar Haley and The Great Beyond; A story which follows our heroes: Oscar, Alex, Stella and Xeeba through extraordinary adventures across The Great Beyond and Web3. This character driven collection is destined for film, an animated series, books, games, metaverse and so much more.",
+  "erc721_symbol": "NFFOH"
 }

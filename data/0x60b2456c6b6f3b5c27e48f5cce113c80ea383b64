@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Look Labs - 420 Gen1 Buds",
   "imageUrl": "https://i.seadn.io/gae/DleKM3poz_NuUTc0IBg0HavXu_F_su0ztzGyHEPG57wJMVojJF91Ll2J8K9gSaR6ut70aTh2nVFm_ObsQw7-VyEovQAvwO-GIArctA?w=500&auto=format",
-  "externalUrl": "https://www.420.game/"
+  "externalUrl": "https://www.420.game/",
+  "erc721_symbol": "BUDS"
 }

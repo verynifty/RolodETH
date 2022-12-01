@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Kong Land Citizen",
   "imageUrl": "https://i.seadn.io/gcs/files/6a34d007096d2220f269f3ede0e907ee.png?w=500&auto=format",
   "externalUrl": "http://kong.land",
   "discordUrl": "https://discord.gg/dypeg4JfTX",
   "twitterUsername": "Kongiscash",
-  "description": "Join KONG Land by acquiring $CITIZEN. $CITIZEN holders govern KONG Land through proposals and voting."
+  "description": "Join KONG Land by acquiring $CITIZEN. $CITIZEN holders govern KONG Land through proposals and voting.",
+  "proxy": "0x237b1fa22ff2fbba9ac3f5f09ffc7cceb20f599b"
 }

@@ -1,7 +1,10 @@
 {
   "tags": [
     "nexus-mutual",
-    "staking"
+    "staking",
+    "contract",
+    "proxy"
   ],
-  "name": "Nexus Mutual: Pooled Staking Proxy"
+  "name": "Nexus Mutual: Pooled Staking Proxy",
+  "proxy": "0xcafea26dbaa52585c4bd454dc460c83681355a3c"
 }

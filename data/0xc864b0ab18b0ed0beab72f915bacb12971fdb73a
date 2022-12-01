@@ -4,5 +4,6 @@
     "bayc-minter",
     "coolcat-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bonetv.eth"
 }

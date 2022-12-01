@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Gather: GTH Token",
   "erc20_symbol": "GTH",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12458/thumb/Gather-Logo-Working-File.png?1599981686"
+  "imageURL": "https://assets.coingecko.com/coins/images/12458/thumb/Gather-Logo-Working-File.png?1599981686",
+  "proxy": "0x9ccb8055452ca97f836b736cb438b8de83e54c35"
 }

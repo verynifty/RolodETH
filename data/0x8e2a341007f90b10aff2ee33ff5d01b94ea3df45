@@ -8,5 +8,6 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "haider13.eth"
 }

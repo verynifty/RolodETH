@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Art Blocks x Pace",
-  "imageUrl": "https://i.seadn.io/gcs/files/970d1538edc6efb83c4f335b6f77583b.png?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gcs/files/970d1538edc6efb83c4f335b6f77583b.png?w=500&auto=format",
+  "erc721_symbol": "ABXPACE"
 }

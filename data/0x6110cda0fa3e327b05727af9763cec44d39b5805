@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "hauspets",
-  "imageUrl": "https://i.seadn.io/gae/zpKxF7wrAetDo0eNmeWlX3r-deBq5jvXnWnBcMiIz4z1bYk6Meza_tcTuDwNiYtpZaN8bj_TQO8qzcTAw1W6HAELns6bvHXgYi-X7w?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gae/zpKxF7wrAetDo0eNmeWlX3r-deBq5jvXnWnBcMiIz4z1bYk6Meza_tcTuDwNiYtpZaN8bj_TQO8qzcTAw1W6HAELns6bvHXgYi-X7w?w=500&auto=format",
+  "erc721_symbol": "PETS"
 }

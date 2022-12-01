@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Bonded dAMM",
   "erc20_symbol": "BDAMM",

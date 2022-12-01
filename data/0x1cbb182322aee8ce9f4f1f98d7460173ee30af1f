@@ -10,5 +10,6 @@
   "externalUrl": "https://polymorphs.universe.xyz/",
   "discordUrl": "https://discord.gg/nfu",
   "twitterUsername": "universe_xyz",
-  "description": "The Polymorphs are a collection of morphing NFTs, with 11 available base skins and 200+ traits. The Polymorph’s DNA can be scrambled by its owner, which can change the Polymorph’s outfit and wearable items."
+  "description": "The Polymorphs are a collection of morphing NFTs, with 11 available base skins and 200+ traits. The Polymorph’s DNA can be scrambled by its owner, which can change the Polymorph’s outfit and wearable items.",
+  "erc721_symbol": "MORPH"
 }

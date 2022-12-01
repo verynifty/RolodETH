@@ -6,5 +6,6 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-via-exchange",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "omvruss.eth"
 }

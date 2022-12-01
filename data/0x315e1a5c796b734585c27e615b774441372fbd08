@@ -8,5 +8,6 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-aave",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "blockceo.eth"
 }

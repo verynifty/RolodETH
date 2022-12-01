@@ -5,5 +5,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "608913.eth"
 }

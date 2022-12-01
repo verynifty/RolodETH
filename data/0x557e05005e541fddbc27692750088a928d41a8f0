@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EXE Radiance by EXEVerse",
   "imageUrl": "https://i.seadn.io/gcs/files/62fbd384c26f099fb5d3c73c32dd8d33.jpg?w=500&auto=format",
   "externalUrl": "https://exeverse.io",
   "discordUrl": "https://discord.gg/exeverse",
   "twitterUsername": "EXEVerseIO",
-  "description": "** EXE Genesis Main Collection WL Giveaway is OPEN**\n\n**EXE Radiance is a NFT sub-collection by EXEVerse.** \n\nWith unprecedented utilities tied closely with EXEVerse Shop - EXEVerse's Community-Owned Marketplace, EXE Radiance provides holders with:\n\n*   • Up to 50% discounts at [exeverse.shop](https://exeverse.shop)\n*   • Weekly Raffle in Discord to Win Free Premium Merchandise\n*   • Plus exclusive benefits in the EXEVerse Ecosystem\n\nVisit [exeverse.io](https://exeverse.io) for more details.\n\n"
+  "description": "** EXE Genesis Main Collection WL Giveaway is OPEN**\n\n**EXE Radiance is a NFT sub-collection by EXEVerse.** \n\nWith unprecedented utilities tied closely with EXEVerse Shop - EXEVerse's Community-Owned Marketplace, EXE Radiance provides holders with:\n\n*   • Up to 50% discounts at [exeverse.shop](https://exeverse.shop)\n*   • Weekly Raffle in Discord to Win Free Premium Merchandise\n*   • Plus exclusive benefits in the EXEVerse Ecosystem\n\nVisit [exeverse.io](https://exeverse.io) for more details.\n\n",
+  "erc721_symbol": "EXERAD"
 }

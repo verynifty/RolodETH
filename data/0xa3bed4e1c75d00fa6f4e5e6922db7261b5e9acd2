@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "mstable"
+    "mstable",
+    "contract"
   ],
   "name": "mStable: MTA Token",
   "erc20_symbol": "MTA",

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "LP Yearn CRV Vault",
   "erc20_symbol": "LP-YCRV",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27624/thumb/yearncrvlp_32.png?1664885596"
+  "imageURL": "https://assets.coingecko.com/coins/images/27624/thumb/yearncrvlp_32.png?1664885596",
+  "proxy": "0x9c13e225ae007731caa49fd17a41379ab1a489f4"
 }

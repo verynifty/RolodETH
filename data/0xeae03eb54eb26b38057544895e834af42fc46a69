@@ -3,5 +3,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-kwenta"
-  ]
+  ],
+  "ens": "bidur.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-remix-dao",
     "sudoswap-user",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "theyellowdemon.eth"
 }

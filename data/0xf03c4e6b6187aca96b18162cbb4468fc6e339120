@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Master Cats NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/2f8ccdb0fc761b64a35632ed0ef80664.png?w=500&auto=format",
   "externalUrl": "https://mastercatsnft.io",
   "discordUrl": "https://discord.gg/mastercatsnft",
   "twitterUsername": "MasterCatsNFT",
-  "description": "Inspired by the Nine Lives Lounge and the LaMelo Master Challenge.\n\nThe Master Cats are a collection of 9,000 Cats sporting cool furs, nine lives, and one mission: HODL. Overtime, the Master Cats collection will evolve and feature 9 different art styles by 9 different artists per NFT. On top of gaining access to exclusive drops, special experiences, and unlockable rewards, Master Cats holders will have the ability to vote on the different art styles and artists, dictating the evolution of the collection. \n\nMaster the bear, ride the bull. #JoinTheHODL🍸"
+  "description": "Inspired by the Nine Lives Lounge and the LaMelo Master Challenge.\n\nThe Master Cats are a collection of 9,000 Cats sporting cool furs, nine lives, and one mission: HODL. Overtime, the Master Cats collection will evolve and feature 9 different art styles by 9 different artists per NFT. On top of gaining access to exclusive drops, special experiences, and unlockable rewards, Master Cats holders will have the ability to vote on the different art styles and artists, dictating the evolution of the collection. \n\nMaster the bear, ride the bull. #JoinTheHODL🍸",
+  "erc721_symbol": "MASTER"
 }

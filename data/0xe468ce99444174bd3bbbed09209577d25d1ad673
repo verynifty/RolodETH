@@ -1,6 +1,7 @@
 {
   "tags": [
-    "zora"
+    "zora",
+    "contract"
   ],
   "name": "Zora: Auction House"
 }

@@ -17,5 +17,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "blokslabs.eth"
 }

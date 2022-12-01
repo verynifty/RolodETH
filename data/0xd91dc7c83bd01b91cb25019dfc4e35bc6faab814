@@ -3,5 +3,6 @@
     "azuki-minter",
     "otherdeed-minter",
     "snapshot-voter-interfacedao"
-  ]
+  ],
+  "ens": "valent1ne.eth"
 }
