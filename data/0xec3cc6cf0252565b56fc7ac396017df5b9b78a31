@@ -1,7 +1,8 @@
 {
   "tags": [
     "bridge",
-    "loopring"
+    "loopring",
+    "contract"
   ],
   "name": "Loopring: Exchange v2 Fast Withdrawal"
 }

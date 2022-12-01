@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "AK Ultra",
   "imageUrl": "https://i.seadn.io/gcs/files/502e8da2017b0bd2298d02dcd32b0e8f.gif?w=500&auto=format",
   "externalUrl": "http://teensonacid.com",
   "discordUrl": "https://discord.gg/acidverse",
   "twitterUsername": "ACIDVERSE_NFT",
-  "description": "AstroKid Ultra is the offical pfp & digital collectible created by Teens On Acid  for The Acidverse, co-founded by T.O.A. & Cosmic Friend. Each AKUltra serves as your ticket to the upcoming partnerships and benefits that The Acidverse has to offer and your place in the Acidverse community."
+  "description": "AstroKid Ultra is the offical pfp & digital collectible created by Teens On Acid  for The Acidverse, co-founded by T.O.A. & Cosmic Friend. Each AKUltra serves as your ticket to the upcoming partnerships and benefits that The Acidverse has to offer and your place in the Acidverse community.",
+  "erc721_symbol": "AKUTOA"
 }

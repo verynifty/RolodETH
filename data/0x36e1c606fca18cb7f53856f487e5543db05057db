@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MHM Official",
   "imageUrl": "https://i.seadn.io/gae/gFn990MHRAUY_-PVuaeZzJkEIeJfMZeKywvlZkO6mOEAm-nF-VwNmqoApyVik-JUmOJB_QmsqObd4qdA8LVA-Y7w2RBP1LDyxmvkBw?w=500&auto=format",
   "externalUrl": "https://metahousemafia.io",
   "discordUrl": "https://discord.gg/metahousemafia",
   "twitterUsername": "metahousemafia",
-  "description": "Meta House Mafia is an exclusive member organization of 5,000 unique Mafia NFTs who live on the Ethereum Blockchain. Each Mafiosi allows its owner to vote for initiatives & experiences paid for by the Meta House Mafia Community Treasury, and earns a percent of revenue from the Metaverse."
+  "description": "Meta House Mafia is an exclusive member organization of 5,000 unique Mafia NFTs who live on the Ethereum Blockchain. Each Mafiosi allows its owner to vote for initiatives & experiences paid for by the Meta House Mafia Community Treasury, and earns a percent of revenue from the Metaverse.",
+  "erc721_symbol": "MHM"
 }

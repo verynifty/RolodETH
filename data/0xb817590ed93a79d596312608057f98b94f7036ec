@@ -10,5 +10,6 @@
   "externalUrl": "https://chippysworld.io/",
   "discordUrl": "https://discord.gg/D2rbzCQc8E",
   "twitterUsername": "ChippysWorld",
-  "description": "Chippy's World is a collection of 2,500 Chippys focused around storytelling, community, and positive vibes by Zain Gaziani\n\nTo learn all about Chippy's World: https://medium.com/@chippysworldnft/chippys-world-everything-you-need-to-know-31a80e50cb1c"
+  "description": "Chippy's World is a collection of 2,500 Chippys focused around storytelling, community, and positive vibes by Zain Gaziani\n\nTo learn all about Chippy's World: https://medium.com/@chippysworldnft/chippys-world-everything-you-need-to-know-31a80e50cb1c",
+  "erc721_symbol": "CHIP"
 }

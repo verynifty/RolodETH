@@ -1,6 +1,7 @@
 {
   "tags": [
-    "curve-fi"
+    "curve-fi",
+    "contract"
   ],
   "name": "Curve.fi: sUSD v2 Deposit"
 }

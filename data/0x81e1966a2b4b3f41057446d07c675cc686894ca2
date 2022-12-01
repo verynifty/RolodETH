@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cangster - Genesis Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/d4ba4ba161160cc5e9f072d24b0aa27a.png?w=500&auto=format",
   "externalUrl": "https://www.cangsters.com/",
   "discordUrl": "https://discord.gg/cangster",
   "twitterUsername": "CangstersNFT",
-  "description": "Cangster is the coolest WEB3 gang longing for the game-changing IRL experiences. As a WEB3 extension of the globally renowned animation series Canimals, Cangster is an exclusive collection of 10,000 real-life experience-enabled PFPs on the Ethereum blockchain, created by the Canne-winning artist Calvin with 619 unique properties, also known as the father of Pucca. Each Cangsters is your private admission to the Caniverse, where meaningful journey awaits. You can expect special drops, global brand collaboration, private events, animation, and access to be part of building physical IRL-based infrastructure for WEB3 entrepreneurs and creators."
+  "description": "Cangster is the coolest WEB3 gang longing for the game-changing IRL experiences. As a WEB3 extension of the globally renowned animation series Canimals, Cangster is an exclusive collection of 10,000 real-life experience-enabled PFPs on the Ethereum blockchain, created by the Canne-winning artist Calvin with 619 unique properties, also known as the father of Pucca. Each Cangsters is your private admission to the Caniverse, where meaningful journey awaits. You can expect special drops, global brand collaboration, private events, animation, and access to be part of building physical IRL-based infrastructure for WEB3 entrepreneurs and creators.",
+  "erc721_symbol": "CANG"
 }

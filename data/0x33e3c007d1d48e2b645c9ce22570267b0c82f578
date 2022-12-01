@@ -3,5 +3,6 @@
     "bayc-minter",
     "azuki-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "jiva.eth"
 }

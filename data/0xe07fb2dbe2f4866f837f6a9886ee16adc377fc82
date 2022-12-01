@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SeaMutants",
   "imageUrl": "https://i.seadn.io/gcs/files/24d84d828a0ee0200d8c9874a76eb477.gif?w=500&auto=format",
   "externalUrl": "https://www.pirateapes.wtf/",
   "discordUrl": "https://discord.gg/invite/pirateapes",
-  "description": "[OG collection](https://opensea.io/collection/pirate-apes) | [Rum Club](https://opensea.io/collection/piraterumclub)\n\nOne evening our boatswain returned to the ship with a suspicious batch of rum. Soon the crew lay on the ship's decks, writhing and coughing up a strange emerald liquid... before long the grizzled crew and their companions were transformed into awful creatures. Some were forever undead, others mangled and mutated, some looked like beasts from the sea. All had an unquenchable thirst for grog..."
+  "description": "[OG collection](https://opensea.io/collection/pirate-apes) | [Rum Club](https://opensea.io/collection/piraterumclub)\n\nOne evening our boatswain returned to the ship with a suspicious batch of rum. Soon the crew lay on the ship's decks, writhing and coughing up a strange emerald liquid... before long the grizzled crew and their companions were transformed into awful creatures. Some were forever undead, others mangled and mutated, some looked like beasts from the sea. All had an unquenchable thirst for grog...",
+  "proxy": "0xaeb60740bac57e2fb2702dae081c79cd4dba694d"
 }

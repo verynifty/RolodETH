@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Voice",
   "erc20_symbol": "VOICE",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12926/thumb/OjCQtdL.png?1614780024"
+  "imageURL": "https://assets.coingecko.com/coins/images/12926/thumb/OjCQtdL.png?1614780024",
+  "proxy": "0x889d9a1d55de5009a3b3c42f1e66f392e12a9b97"
 }

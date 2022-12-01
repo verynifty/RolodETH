@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-mail3",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "toy2r.eth"
 }

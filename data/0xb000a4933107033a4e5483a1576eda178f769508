@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Citizens of Tajigen",
   "imageUrl": "https://i.seadn.io/gcs/files/2a54ad31273d7fb1b525e12fe1928432.png?w=500&auto=format",
   "externalUrl": "https://www.tajigen.xyz",
   "discordUrl": "https://discord.gg/tajigen",
   "twitterUsername": "0xTajigen",
-  "description": "The Citizens of Tajigen are an underground network of anonymous netrunners: artists, athletes, hackers, scientists and soldiers, who work to fulfill a common goal: to bring back decentralization and free the people trapped in the new world order.\r\n\r\nRepresenting yourself digitally as a Citizen of Tajigen says much about you and your beliefs. It is a knowing look, a tip of the hat, a secret handshake that says: we're here to build the best future possible. \r\n\r\nTajigen holders are able to enter The Shelter: an exclusive hub of founders, builders, designers and developers at the forefront of web3 & DeFi, and access future experiences outlined in our concept map.\r\n\r\nWe are the creators of TinyERC721, a hyper gas-optimized NFT contract.\r\n\r\nVisit [tajigen.xyz](https://www.tajigen.xyz) to find out more."
+  "description": "The Citizens of Tajigen are an underground network of anonymous netrunners: artists, athletes, hackers, scientists and soldiers, who work to fulfill a common goal: to bring back decentralization and free the people trapped in the new world order.\r\n\r\nRepresenting yourself digitally as a Citizen of Tajigen says much about you and your beliefs. It is a knowing look, a tip of the hat, a secret handshake that says: we're here to build the best future possible. \r\n\r\nTajigen holders are able to enter The Shelter: an exclusive hub of founders, builders, designers and developers at the forefront of web3 & DeFi, and access future experiences outlined in our concept map.\r\n\r\nWe are the creators of TinyERC721, a hyper gas-optimized NFT contract.\r\n\r\nVisit [tajigen.xyz](https://www.tajigen.xyz) to find out more.",
+  "erc721_symbol": "TAJIGEN"
 }

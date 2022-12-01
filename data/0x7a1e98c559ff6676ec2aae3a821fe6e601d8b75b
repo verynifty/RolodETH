@@ -10,5 +10,6 @@
   "externalUrl": "http://fridaybeers.io",
   "discordUrl": "https://discord.gg/fridaybeers",
   "twitterUsername": "FridayBeersNFT",
-  "description": "**[Friday Beers NFT](https://fridaybeers.io)** is a collection of 5,555 unique avatars based on the 15 core characters of the Friday Beers lore. The characters are brought to life by acclaimed artist Mike Manor and will live on the Ethereum blockchain.\n\nThese digital assets double as your exclusive access to all the perks that come with joining the undisputed Kings and Queens of the weekend."
+  "description": "**[Friday Beers NFT](https://fridaybeers.io)** is a collection of 5,555 unique avatars based on the 15 core characters of the Friday Beers lore. The characters are brought to life by acclaimed artist Mike Manor and will live on the Ethereum blockchain.\n\nThese digital assets double as your exclusive access to all the perks that come with joining the undisputed Kings and Queens of the weekend.",
+  "erc721_symbol": "FB"
 }

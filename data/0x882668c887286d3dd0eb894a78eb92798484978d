@@ -10,5 +10,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "kaitokiddo.eth"
 }

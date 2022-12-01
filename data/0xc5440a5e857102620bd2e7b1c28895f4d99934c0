@@ -3,5 +3,6 @@
     "moonbird-minter",
     "pudgy-pinguin-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "chaddy.eth"
 }

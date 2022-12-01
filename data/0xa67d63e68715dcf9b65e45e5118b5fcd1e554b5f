@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pepsi Mic Drop",
   "imageUrl": "https://i.seadn.io/gae/FFdqBWESVvcbuDddU32Y0ke99NYvjNEJiIvuc9T7nqV1_Z3_uDUVmj2bJqY07toaq2twkv5l-3ml2avuF17pzB9ib3dXFojcDlHZXN0?w=500&auto=format",
   "externalUrl": "https://micdrop.pepsi.com/",
   "twitterUsername": "Pepsi",
-  "description": "The Pepsi Mic Drop genesis NFT is a generative-style collection of unique NFTs that live on the Ethereum blockchain. A nod to the year Pepsi was born, each of our 1,893 genesis tokens are created using nearly 50 unique attributes across 6 categories, including microphones, stages, accessories, and more.\r\n\r\nPepsi and music have been intertwined for decades, and our genesis NFT collection pays homage to our love of pop stars and musical legends while setting the stage for what’s to come in the world of Pepsi NFTs. This will be a Mic Drop of epic proportions!"
+  "description": "The Pepsi Mic Drop genesis NFT is a generative-style collection of unique NFTs that live on the Ethereum blockchain. A nod to the year Pepsi was born, each of our 1,893 genesis tokens are created using nearly 50 unique attributes across 6 categories, including microphones, stages, accessories, and more.\r\n\r\nPepsi and music have been intertwined for decades, and our genesis NFT collection pays homage to our love of pop stars and musical legends while setting the stage for what’s to come in the world of Pepsi NFTs. This will be a Mic Drop of epic proportions!",
+  "erc721_symbol": "PEPSIMICDROP"
 }

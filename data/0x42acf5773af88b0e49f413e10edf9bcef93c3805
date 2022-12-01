@@ -6,5 +6,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "marinade.eth"
 }

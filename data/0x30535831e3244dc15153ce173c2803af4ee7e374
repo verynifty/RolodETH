@@ -7,5 +7,6 @@
   ],
   "name": "Splat by Devotion",
   "imageUrl": "https://i.seadn.io/gcs/files/b2cf9e41096ff901efb6b735ef5e6c69.png?w=500&auto=format",
-  "externalUrl": "http://mydevotion.xyz"
+  "externalUrl": "http://mydevotion.xyz",
+  "erc721_symbol": "SPLAT"
 }

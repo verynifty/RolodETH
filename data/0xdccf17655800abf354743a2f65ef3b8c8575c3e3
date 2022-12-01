@@ -4,5 +4,6 @@
     "moonbird-minter",
     "clonex-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "bucnft.eth"
 }

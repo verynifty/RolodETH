@@ -1,5 +1,7 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "proxy"
+  ],
+  "proxy": "0x4f7903ae97f1ad3665093417007d06e83b43c00c"
 }

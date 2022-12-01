@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Blinkless Official",
   "imageUrl": "https://i.seadn.io/gae/w4NT_jpfIbhQzFlXsfcBrzfixzqN92limbqzbGjTRDncI3ZKCpfhc31zh2BBIgRxoEwLVEEfiLZjShqYWh_1vRlapvnJnktdcz_IhQ?w=500&auto=format",
   "externalUrl": "https://www.theblinkless.com",
   "discordUrl": "https://discord.gg/vdUEBrsyXx",
   "twitterUsername": "theblinkless",
-  "description": "The Blinkless are aliens from a planet called New Cornea who have intercepted the airwaves from earth and imitate us based on their perception of our media. We are creating a book and animated series based on the concept.\n\nAll tokens were originally given out for free and each holder owns the IP for the Blinkless they possess. The Blinkless NFTs are automatically enrolled in our ETH rewards program and rewards are claimable from our website.\n\n"
+  "description": "The Blinkless are aliens from a planet called New Cornea who have intercepted the airwaves from earth and imitate us based on their perception of our media. We are creating a book and animated series based on the concept.\n\nAll tokens were originally given out for free and each holder owns the IP for the Blinkless they possess. The Blinkless NFTs are automatically enrolled in our ETH rewards program and rewards are claimable from our website.\n\n",
+  "erc721_symbol": "BLNK"
 }

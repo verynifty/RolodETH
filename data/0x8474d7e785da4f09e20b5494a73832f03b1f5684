@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "116868.eth"
 }

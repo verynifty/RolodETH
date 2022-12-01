@@ -1,6 +1,9 @@
 {
   "tags": [
-    "mstable"
+    "mstable",
+    "contract",
+    "proxy"
   ],
-  "name": "mStable: mUSD Savings Vault"
+  "name": "mStable: mUSD Savings Vault",
+  "proxy": "0x0addca57a3a4de31cf9d5e779e26d383dc012055"
 }

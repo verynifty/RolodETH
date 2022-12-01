@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "pizzacat.eth"
 }

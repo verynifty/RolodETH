@@ -10,5 +10,6 @@
   "externalUrl": "http://notokay.art",
   "discordUrl": "https://discord.gg/notokaybears",
   "twitterUsername": "Not_OkayBears",
-  "description": "An NFT project for mental health awareness. 10k collection on the Ethereum blockchain. It’s okay to not be okay. Visit https://NotOkay.art"
+  "description": "An NFT project for mental health awareness. 10k collection on the Ethereum blockchain. It’s okay to not be okay. Visit https://NotOkay.art",
+  "erc721_symbol": "NOB"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://deekaykwon.com/letswalk",
   "discordUrl": "https://discord.gg/deekayverse",
   "twitterUsername": "deekaymotion",
-  "description": "First ever 'Walking' NFT collection\nLetsWalk guide: \nhttps://deekaykwon.com/letswalk\n\n#LetsWalk is an ongoing project by animator DeeKay Kwon\nHis goal is to make a total of 100 walk cycles.\nJoin his journey and collect your favorite character walk! :)\nEditions:  1~30"
+  "description": "First ever 'Walking' NFT collection\nLetsWalk guide: \nhttps://deekaykwon.com/letswalk\n\n#LetsWalk is an ongoing project by animator DeeKay Kwon\nHis goal is to make a total of 100 walk cycles.\nJoin his journey and collect your favorite character walk! :)\nEditions:  1~30",
+  "erc721_symbol": "#LetsWalk"
 }

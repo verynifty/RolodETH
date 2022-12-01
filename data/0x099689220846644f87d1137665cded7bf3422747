@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Robotos",
   "imageUrl": "https://i.seadn.io/gae/hZ1VzS0uyt-jA8C13rTHMSxQHlr1qdTHSzHqxhBlEn9V107ANj8dtzWFnD0q9oQZ6Hs-XcN4eOFl3KF7qS4V9ApQHMipGkG33yLvDw?w=500&auto=format",
   "externalUrl": "https://www.robotos.art",
   "discordUrl": "https://discord.gg/robotos",
   "twitterUsername": "robotosNFT",
-  "description": "Robotos is a collection of algorithmically generated droid characters designed by [Pablo Stanley](https://twitter.com/pablostanley)\r\n\r\n**Other Official Robotos Collections**\r\n\r\n[Robopets](https://opensea.io/collection/robopets)\r\n\r\n[Robotos Originals](https://opensea.io/collection/robotos-originals)\r\n\r\n[Emojibotos](https://opensea.io/collection/emojibotos)\r\n\r\n[Robotos Genesis](https://opensea.io/collection/robotos-genesis)"
+  "description": "Robotos is a collection of algorithmically generated droid characters designed by [Pablo Stanley](https://twitter.com/pablostanley)\r\n\r\n**Other Official Robotos Collections**\r\n\r\n[Robopets](https://opensea.io/collection/robopets)\r\n\r\n[Robotos Originals](https://opensea.io/collection/robotos-originals)\r\n\r\n[Emojibotos](https://opensea.io/collection/emojibotos)\r\n\r\n[Robotos Genesis](https://opensea.io/collection/robotos-genesis)",
+  "erc721_symbol": "ROBO"
 }

@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "nazzkung.eth"
 }

@@ -3,5 +3,6 @@
     "doodle-minter",
     "loot-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "jjjeric.eth"
 }

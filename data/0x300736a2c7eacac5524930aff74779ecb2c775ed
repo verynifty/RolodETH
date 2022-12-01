@@ -8,5 +8,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "dadjudicator.eth"
 }

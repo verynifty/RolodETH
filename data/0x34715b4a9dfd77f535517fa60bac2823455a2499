@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "VAPES - Official",
   "imageUrl": "https://i.seadn.io/gcs/files/7857d9d3accb8b59532b67a56ec93cbe.gif?w=500&auto=format",
   "externalUrl": "https://www.vapesnft.io/",
   "discordUrl": "https://discord.gg/vapes",
   "twitterUsername": "VapesNFT",
-  "description": "A Collection of Animated VAPES inspired by BAYC and Invisible Friends."
+  "description": "A Collection of Animated VAPES inspired by BAYC and Invisible Friends.",
+  "proxy": "0xea690f45047f6be5e513d35b44933999866c5aa6"
 }

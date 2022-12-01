@@ -8,5 +8,6 @@
     "snapshot-voter-humandao",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xc0de.eth"
 }

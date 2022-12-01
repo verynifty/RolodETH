@@ -10,5 +10,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
     "snapshot-voter-qidao"
-  ]
+  ],
+  "ens": "kryos.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sugar Skullz by Pandaverse",
   "imageUrl": "https://i.seadn.io/gae/6kO1QFWfRMAqLlXu3gqf37QvGUfwyUSVFbvc7HHofjut1q1AEXNVaqnQsuR2Posv1xe6GAE0hAlXQeqCxifvQtnpnMV58A_jTymD?w=500&auto=format",
   "externalUrl": "http://sugarskullz.io",
   "discordUrl": "https://discord.gg/pandaverse",
-  "description": "THE NEXT EVOLUTION IN THE PANDAVERSE IS HERE.\nFrom the same minds that built the Phat Pandaz Genesis Collection and a $500M recreational cannabis empire comes the Sugar Skullz."
+  "description": "THE NEXT EVOLUTION IN THE PANDAVERSE IS HERE.\nFrom the same minds that built the Phat Pandaz Genesis Collection and a $500M recreational cannabis empire comes the Sugar Skullz.",
+  "erc721_symbol": "SKULLZ"
 }

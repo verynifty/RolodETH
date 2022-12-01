@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "uglyduckwtf",
   "imageUrl": "https://i.seadn.io/gcs/files/efa4dd9337ae6cbb4e7b7983643024ed.png?w=500&auto=format",
   "externalUrl": "https://uglyduck.wtf/",
   "discordUrl": "https://discord.gg/uglyduckwtf",
   "twitterUsername": "Uglyduckwtf",
-  "description": "Welcome to the ducking party, you motherquacker!🐣\n\nUglyDuck is a collection of 9999 unique and ugly ducks, hand-drawn by worldwide famous graffiti artists! Started without roadmap, was free to mint and is on the ETH blockchain. 100% community driven project with its DAO platform which is already in beta-testing. 👀\n\nRoadmap quacking revealed on discord. P2E Game, Staking mechanism called Nesting and much more already available. Duckxciting things coming up. Come quack with us! Quack, Quack! WTF ⁉️\n"
+  "description": "Welcome to the ducking party, you motherquacker!🐣\n\nUglyDuck is a collection of 9999 unique and ugly ducks, hand-drawn by worldwide famous graffiti artists! Started without roadmap, was free to mint and is on the ETH blockchain. 100% community driven project with its DAO platform which is already in beta-testing. 👀\n\nRoadmap quacking revealed on discord. P2E Game, Staking mechanism called Nesting and much more already available. Duckxciting things coming up. Come quack with us! Quack, Quack! WTF ⁉️\n",
+  "erc721_symbol": "UglyDuck"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-qidao"
-  ]
+  ],
+  "ens": "huugin.eth"
 }

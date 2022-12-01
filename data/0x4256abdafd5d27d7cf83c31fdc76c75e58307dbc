@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Fxck Face Hero",
   "imageUrl": "https://i.seadn.io/gcs/files/bfd4533318e3aa29a4f694384db3527e.png?w=500&auto=format",
   "externalUrl": "https://www.fxckface.com/",
   "twitterUsername": "FxckFaceNft",
-  "description": "A collection of 3,456 built with utility PFPs. This NFT Startup project is centered around Creativity, Collaboration, Art and Brand. [ ARTIVERSE ] FFH will have exclusive access to the private membership V.O.C project and additional benefits the longer you hold them."
+  "description": "A collection of 3,456 built with utility PFPs. This NFT Startup project is centered around Creativity, Collaboration, Art and Brand. [ ARTIVERSE ] FFH will have exclusive access to the private membership V.O.C project and additional benefits the longer you hold them.",
+  "erc721_symbol": "FXCKHERO"
 }

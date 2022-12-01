@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "CityDAO Parcel-0",
   "imageUrl": "https://i.seadn.io/gae/wm5iWQH3517P3wlKL24LY2Q2VpF6dpNaSr8XRiUmA3LiZEpz7dJblNnNGCj7fRl7Af8J49S1jR7r_BsSqQxS3GcDZmuorRWxaLqK?w=500&auto=format",
   "externalUrl": "https://parcel-0.citydao.io/",
-  "description": "Located an hour north of Cody, Wyoming, Parcel 0 is CityDAO's first experiment in DAO-governed land on-chain. Explore: https://parcel-0.citydao.io/"
+  "description": "Located an hour north of Cody, Wyoming, Parcel 0 is CityDAO's first experiment in DAO-governed land on-chain. Explore: https://parcel-0.citydao.io/",
+  "proxy": "0x0f91d3c7e3a976044f79bf3fac701580bd590bde"
 }

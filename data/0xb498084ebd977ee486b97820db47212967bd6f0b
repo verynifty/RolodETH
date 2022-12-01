@@ -6,5 +6,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-safe",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "junkboy.eth"
 }

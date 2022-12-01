@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "BOOBA - TN",
   "imageUrl": "https://i.seadn.io/gae/QiSLW3uZG2YSTEiLg8Kx8hQRthaUrs-arMzeLWWB6WWFEmHbmEokPOY4ijy2u-cM7EuBR77dTBDT4X05bUjuEhLAUH7gFrP4fT1DcQ?w=500&auto=format",
   "externalUrl": "https://nft.booba.store",
-  "description": "5 cartes animées, contenant chacune une séquence d’images du clip de TN, sont en vente chacune à 5 000 exemplaires. Tu peux en acheter une ou plusieurs. Une fois la vente fermée, elles te donneront accès au clip de TN (réalisé par Biscuit Studio) en exclusivité. Ta carte te donnera non seulement accès au clip, mais elle est également la promesse d’autres exclusivités à l’avenir."
+  "description": "5 cartes animées, contenant chacune une séquence d’images du clip de TN, sont en vente chacune à 5 000 exemplaires. Tu peux en acheter une ou plusieurs. Une fois la vente fermée, elles te donneront accès au clip de TN (réalisé par Biscuit Studio) en exclusivité. Ta carte te donnera non seulement accès au clip, mais elle est également la promesse d’autres exclusivités à l’avenir.",
+  "erc721_symbol": "B2O_TN"
 }

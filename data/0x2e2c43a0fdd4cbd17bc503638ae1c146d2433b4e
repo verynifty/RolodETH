@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BTB",
+  "erc20_decimals": 18,
+  "name": "Bit Bucket"
+}

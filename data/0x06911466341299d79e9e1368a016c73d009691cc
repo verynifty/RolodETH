@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "FEWOCiOUS x FewoWorld: Paint",
   "imageUrl": "https://i.seadn.io/gae/bfpxZRxKsuxzNPpjwjAzADl16wxQfjSzQbQ4PMCnuWnNL5CQ-yvKqXQrG4mZeB63yY4UH9KA_lvN-GFGRSN8oqqMy7LdG3R_XL_c?w=500&auto=format",
   "externalUrl": "http://fewoworld.io",
   "discordUrl": "https://discord.gg/wfHtcz5Pm5",
   "twitterUsername": "fewocious",
-  "description": "Welcome to FewoWorld, a universe created by FEWOCiOUS and the Web3 community. FewoWorld is the first generative art project from the mind of FEWOCiOUS. Unlike anything he has created before."
+  "description": "Welcome to FewoWorld, a universe created by FEWOCiOUS and the Web3 community. FewoWorld is the first generative art project from the mind of FEWOCiOUS. Unlike anything he has created before.",
+  "erc721_symbol": "Paint"
 }

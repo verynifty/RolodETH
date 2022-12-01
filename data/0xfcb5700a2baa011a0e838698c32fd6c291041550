@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "ChAOS by ChAOS & COUTURE",
   "imageUrl": "https://i.seadn.io/gcs/files/3b5ab199d085fdb118ceed3ed2ff7a27.png?w=500&auto=format",
   "externalUrl": "http://danataylor.io",
-  "description": "Chaos & Couture is a tell-all by Dana Taylor of over a decade worth of stories, challenges, and triumphs as a model in the highest spheres of the fashion industry. Her art is a testament of truth, self-exploration & personal growth. With a unique sense of creativity, Dana has taken her darkest hour and made a shining beacon of light. This collection is an inspiration to believe that you can be more than one thing in this life."
+  "description": "Chaos & Couture is a tell-all by Dana Taylor of over a decade worth of stories, challenges, and triumphs as a model in the highest spheres of the fashion industry. Her art is a testament of truth, self-exploration & personal growth. With a unique sense of creativity, Dana has taken her darkest hour and made a shining beacon of light. This collection is an inspiration to believe that you can be more than one thing in this life.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

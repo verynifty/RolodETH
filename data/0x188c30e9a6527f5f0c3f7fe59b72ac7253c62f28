@@ -15,5 +15,6 @@
     "opensea-user",
     "snapshot-voter-loot-dao",
     "snapshot-voter-cvx"
-  ]
+  ],
+  "ens": "cryptoetc.eth"
 }

@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "opensea-user"
-  ]
+  ],
+  "ens": "samslav.eth"
 }

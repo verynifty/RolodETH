@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "LTO",
+  "erc20_decimals": 8,
+  "name": "LTO Network Token"
+}

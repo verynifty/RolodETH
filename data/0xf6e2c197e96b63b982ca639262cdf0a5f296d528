@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Apes Of Space",
   "imageUrl": "https://i.seadn.io/gae/3lAq-kWugOuLeA7s60AxkOih3hw28bQY5xAMryINacbwh2jshGwd49pNwpwq_j1fl00fH1w386HDhJlAZ4uLPvl7yD1xBwLPNCKRuQ?w=500&auto=format",
   "externalUrl": "https://apesofspace.com",
   "discordUrl": "https://discord.gg/rRrnHCQsvn",
   "twitterUsername": "ApesofSpace_nft",
-  "description": "The Sandbox Premium Partner. Apes of Space are exploring their new home inside metaverse! \nApes of Space VX is an NFT ticket that provides access for players to explore unique game experiences. Earn $SAND tokens and other exclusive rewards!\n\n**Collection of 10,000 Apes of Space NFTs. **\n\n**Lady Apes: https://bit.ly/3mE6yFP**\n\n**Roadmap 2.0 - The Journey Into The Metaverse**\n\n**Our New The Sandbox Metaverse Home: https://bit.ly/3heQWp9**"
+  "description": "The Sandbox Premium Partner. Apes of Space are exploring their new home inside metaverse! \nApes of Space VX is an NFT ticket that provides access for players to explore unique game experiences. Earn $SAND tokens and other exclusive rewards!\n\n**Collection of 10,000 Apes of Space NFTs. **\n\n**Lady Apes: https://bit.ly/3mE6yFP**\n\n**Roadmap 2.0 - The Journey Into The Metaverse**\n\n**Our New The Sandbox Metaverse Home: https://bit.ly/3heQWp9**",
+  "erc721_symbol": "AOS"
 }

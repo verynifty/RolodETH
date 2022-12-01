@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "nedao.eth"
 }

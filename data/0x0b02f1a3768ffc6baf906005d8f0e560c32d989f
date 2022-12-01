@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-hop",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "manirezvani.eth"
 }

@@ -4,5 +4,6 @@
     "loot-minter",
     "otherdeed-minter",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "metasailor.eth"
 }

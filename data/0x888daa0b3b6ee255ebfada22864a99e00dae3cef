@@ -10,5 +10,6 @@
   "externalUrl": "https://leostudio.io",
   "discordUrl": "https://discord.gg/leostudio",
   "twitterUsername": "LeoStudio_LS",
-  "description": "Leo Studio - TradingView Long Short Signal and Perpetual Swap. Special NFT free mint Supply: 2222.  \nWebsite：https://leostudio.io/  \nDiscord：https://discord.gg/leostudio  \nTwitter：https://twitter.com/LeoStudio_LS  "
+  "description": "Leo Studio - TradingView Long Short Signal and Perpetual Swap. Special NFT free mint Supply: 2222.  \nWebsite：https://leostudio.io/  \nDiscord：https://discord.gg/leostudio  \nTwitter：https://twitter.com/LeoStudio_LS  ",
+  "erc721_symbol": "LSVIP"
 }

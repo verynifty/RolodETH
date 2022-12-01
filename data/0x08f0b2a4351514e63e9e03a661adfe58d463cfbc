@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Project URS",
   "imageUrl": "https://i.seadn.io/gae/Ddt7IduokA4JAx1J6albWjg4MSA0a5VADpQho8B-hlaRFX_EgvaztzU7IVcbMCnSWmWzm1YfEwxViUKeI9kmrGM6_a9AXuSZ1nUwAw?w=500&auto=format",
   "externalUrl": "https://ursproject.io/",
   "discordUrl": "https://discord.gg/VAdz4psVUS",
   "twitterUsername": "TheProjectURS",
-  "description": "The URS Project is a revolutionary 3d animated collection of 10K avatars that live on the Ethereum blockchain, created by a team of elite and world class Korean artists. In 2130, while humanity was forced underground, URS (Underground Robogenetic Survivalists) were created to access the warpgates which connected to the earth’s scorched surface and gather essential supplies. Each URS is a high quality 3d animated video while also serving as an entry into a community and roadmap that includes free mints for holders, merchandise, metaverse items and games, and more. https://opensea.io/collection/urscompanions"
+  "description": "The URS Project is a revolutionary 3d animated collection of 10K avatars that live on the Ethereum blockchain, created by a team of elite and world class Korean artists. In 2130, while humanity was forced underground, URS (Underground Robogenetic Survivalists) were created to access the warpgates which connected to the earth’s scorched surface and gather essential supplies. Each URS is a high quality 3d animated video while also serving as an entry into a community and roadmap that includes free mints for holders, merchandise, metaverse items and games, and more. https://opensea.io/collection/urscompanions",
+  "erc721_symbol": "URS"
 }
