@@ -10,5 +10,6 @@
   "externalUrl": "http://roguesociety.io",
   "discordUrl": "https://discord.gg/CEpcFAsKp9",
   "twitterUsername": "roguesocietynft",
-  "description": "Rogue Society Bot is a collection of 15,777 unique Rogue Bot NFTs— unique digital collectibles living on the Ethereum blockchain. Your Rogue Bot doubles as your Rogue Society membership card, and grants access to members-only benefits and experiences. Future perks can be unlocked by the community through roadmap activation. Visit www.roguesociety.io for more details."
+  "description": "Rogue Society Bot is a collection of 15,777 unique Rogue Bot NFTs— unique digital collectibles living on the Ethereum blockchain. Your Rogue Bot doubles as your Rogue Society membership card, and grants access to members-only benefits and experiences. Future perks can be unlocked by the community through roadmap activation. Visit www.roguesociety.io for more details.",
+  "erc721_symbol": "RSB"
 }

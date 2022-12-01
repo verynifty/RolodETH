@@ -15,7 +15,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-0xgov",
     "snapshot-voter-jbdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-tokenlon"
   ],
   "ens": "3people.eth"
 }

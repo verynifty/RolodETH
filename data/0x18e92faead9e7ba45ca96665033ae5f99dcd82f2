@@ -3,6 +3,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

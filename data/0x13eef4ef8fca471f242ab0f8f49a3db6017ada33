@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-goopsnapshot",
     "sudoswap-user",
-    "snapshot-voter-wizdao"
+    "snapshot-voter-wizdao",
+    "snapshot-voter-gnars"
   ]
 }

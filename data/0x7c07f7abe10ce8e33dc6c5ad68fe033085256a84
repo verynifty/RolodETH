@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Interest Compounding ETH Index",
   "erc20_symbol": "ICETH",

@@ -12,7 +12,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-people-dao"
   ],
   "ens": "nianqingren.eth"
 }

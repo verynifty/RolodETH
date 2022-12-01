@@ -6,6 +6,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-tokenworld",
-    "snapshot-voter-yoroi"
+    "snapshot-voter-yoroi",
+    "snapshot-voter-uniswap"
   ]
 }

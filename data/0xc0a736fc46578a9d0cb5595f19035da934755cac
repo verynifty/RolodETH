@@ -4,7 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "huzub.eth"
 }

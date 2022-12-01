@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ],
   "ens": "js974lin.eth"
 }

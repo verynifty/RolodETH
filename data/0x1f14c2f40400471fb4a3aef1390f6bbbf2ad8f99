@@ -4,6 +4,7 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-krausehouse",
     "snapshot-voter-banklessvault",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-shapeshiftdao"
   ]
 }

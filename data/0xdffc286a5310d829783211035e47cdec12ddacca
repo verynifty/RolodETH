@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "VOX Souls",
   "imageUrl": "https://i.seadn.io/gcs/files/3ec6454824c11e9d3ba5328f1d279fce.gif?w=500&auto=format",
   "externalUrl": "http://collectvox.com/",
   "discordUrl": "https://discord.gg/gogalagames",
   "twitterUsername": "GoGalaGames",
-  "description": "Every VOX can have a Soul, which changes your stat gain and impacts your adventures in-game.\r\n\r\nLearn more at [souls.collectvox.com](https://souls.collectvox.com/)"
+  "description": "Every VOX can have a Soul, which changes your stat gain and impacts your adventures in-game.\r\n\r\nLearn more at [souls.collectvox.com](https://souls.collectvox.com/)",
+  "erc721_symbol": "VXSL"
 }

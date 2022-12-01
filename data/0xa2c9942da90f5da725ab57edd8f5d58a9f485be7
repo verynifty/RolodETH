@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ],
   "ens": "ipond.eth"
 }

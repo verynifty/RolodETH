@@ -4,7 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "pterosaur.eth"
 }

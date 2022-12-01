@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

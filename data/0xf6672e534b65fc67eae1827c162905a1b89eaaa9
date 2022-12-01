@@ -6,6 +6,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
     "snapshot-voter-gal",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ]
 }

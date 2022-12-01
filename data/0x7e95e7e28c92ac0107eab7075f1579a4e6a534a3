@@ -4,7 +4,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ],
   "ens": "china52.eth"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-therandomdao",
     "snapshot-voter-leagueoflils",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

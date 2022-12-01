@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-benddao",
     "opensea-user",
-    "snapshot-voter-mainnet-ssvnetwork"
+    "snapshot-voter-mainnet-ssvnetwork",
+    "snapshot-voter-uniswap"
   ]
 }

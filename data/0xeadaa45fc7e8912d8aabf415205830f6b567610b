@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-paraswap-dao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-interfacedao"
   ],
   "ens": "zebrozavr.eth"
 }

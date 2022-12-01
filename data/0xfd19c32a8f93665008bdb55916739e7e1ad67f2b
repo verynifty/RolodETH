@@ -2,12 +2,14 @@
   "tags": [
     "nft",
     "opensea-verified",
-    "contract"
+    "contract",
+    "erc721"
   ],
   "name": "NFTinit Founders",
   "imageUrl": "https://i.seadn.io/gae/3Jgi4pgH2HvLwvCdOcAti9OsdNSF9oNTLcUuH0VftJO2QTZYC-lK1VTvXfzuoPCzLxt6g0rUpaV65EOuFfyz2Gso0jZRq6XUr7VcuA?w=500&auto=format",
   "externalUrl": "https://nftinit.com/",
   "discordUrl": "https://discord.gg/NFTinit",
   "twitterUsername": "NFTinitcom",
-  "description": "NFTinit is all-in-one software to search and snipe glorious NFT world opportunities with a committed community.\n\n**NFTinit Founders Membership Privileges**\n\n✅ Unlimited access to NFTinit.com features\n\n✅ Exclusive access on NFTinit Discord with active NFT trading community\n\n✅ Early Beta access to all incoming features\n\n✅ Smart bidding, Trait-based bidding, Private Key bidding and much more\n\n✅ Auto-purchase according to the inputs you set. (max price, max rarity or specific trait)\n\n✅ Sound alerts and/or Auto Metamask popup for listings matching your criteria\n\n✅ Gas presetting, buy NFTs directly from the website\n\n✅ Get instant notifications for the floor, sales count, gas and volume changes\n\n✅ Easily visualize the profitability of assets \n\n✅ Utilize advanced data visualization for historical and current data \n\n✅ View rarity rankings and percentiles for 1000+ collections directly on OpenSea\n\n✅ 4 different calculation methods (Trait Normalization x Trait Count)"
+  "description": "NFTinit is all-in-one software to search and snipe glorious NFT world opportunities with a committed community.\n\n**NFTinit Founders Membership Privileges**\n\n✅ Unlimited access to NFTinit.com features\n\n✅ Exclusive access on NFTinit Discord with active NFT trading community\n\n✅ Early Beta access to all incoming features\n\n✅ Smart bidding, Trait-based bidding, Private Key bidding and much more\n\n✅ Auto-purchase according to the inputs you set. (max price, max rarity or specific trait)\n\n✅ Sound alerts and/or Auto Metamask popup for listings matching your criteria\n\n✅ Gas presetting, buy NFTs directly from the website\n\n✅ Get instant notifications for the floor, sales count, gas and volume changes\n\n✅ Easily visualize the profitability of assets \n\n✅ Utilize advanced data visualization for historical and current data \n\n✅ View rarity rankings and percentiles for 1000+ collections directly on OpenSea\n\n✅ 4 different calculation methods (Trait Normalization x Trait Count)",
+  "erc721_symbol": "INIT"
 }

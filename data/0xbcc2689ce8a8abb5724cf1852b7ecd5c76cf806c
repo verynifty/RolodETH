@@ -4,7 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "chenxiaomao.eth"
 }

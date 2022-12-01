@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ],
   "ens": "eha99.eth"
 }

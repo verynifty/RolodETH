@@ -12,7 +12,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-toniya"
   ],
   "ens": "202110.eth"
 }

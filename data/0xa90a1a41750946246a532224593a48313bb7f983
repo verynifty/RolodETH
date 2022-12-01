@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-theidols",
     "snapshot-voter-banklessvault",
     "opensea-user"
-  ]
+  ],
+  "ens": "secretlaboratory.eth"
 }

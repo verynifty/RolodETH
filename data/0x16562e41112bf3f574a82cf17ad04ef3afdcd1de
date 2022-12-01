@@ -12,6 +12,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-daoge",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

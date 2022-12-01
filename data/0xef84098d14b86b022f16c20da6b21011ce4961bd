@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ],
   "ens": "yorko.eth"
 }

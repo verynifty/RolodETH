@@ -4,6 +4,7 @@
     "snapshot-voter-sushigov",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-gearbox"
   ]
 }

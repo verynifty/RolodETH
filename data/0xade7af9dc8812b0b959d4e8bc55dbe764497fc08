@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "ens": "longjunjie.eth"
 }

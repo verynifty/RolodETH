@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-0xgov"
+    "snapshot-voter-0xgov",
+    "snapshot-voter-tokenlon"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-opcollective",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

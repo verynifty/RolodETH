@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "0010 Editions",
   "imageUrl": "https://i.seadn.io/gae/u8_ZYhLYxQWdIWu5ZH39dKm0Rf-xh2h_vS_LYw7zUodP60RkzzpPOxo2Cfuzck6wltvNYqjQg229XuHaObjTMmVRp7cZy6M9TIle?w=500&auto=format",
   "twitterUsername": "dhjs_0010",
-  "description": "Editions by 0010"
+  "description": "Editions by 0010",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

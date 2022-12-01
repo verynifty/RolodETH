@@ -3,6 +3,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap"
   ]
 }

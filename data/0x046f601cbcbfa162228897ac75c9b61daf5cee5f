@@ -4,6 +4,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

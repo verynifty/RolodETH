@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-etherscoredao",
     "sudoswap-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "ens": "metabigdata.eth"
 }

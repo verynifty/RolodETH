@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Good Morning Cafe",
   "imageUrl": "https://i.seadn.io/gcs/files/c60d7f1ef1dc07e54269cc1645662c36.png?w=500&auto=format",
   "externalUrl": "http://gmcafe.io",
   "discordUrl": "https://discord.gg/gmcafe",
   "twitterUsername": "gmcafeNFT",
-  "description": "**Chillest café in the metaverse. Succulent vibes. Art. Cowffee. Cowmmooonity.**\n\nThere will be **333 hand-drawn Highland Cows** in this Good Morning Café 'Genesis' Collection. Each Moo in the Herd is lovingly created by Ben Colefax. \n\n💖 **299** Cows were hand-drawn and distributed to Patrons of the Café directly.  \n💖 **33** have been reserved for 'Custom Request’ Moos.  \n💖 **11** Custom Cows Remain. Use #support via Discord to request.  \n💖 **Phase 2** is brewing. \n\nIf you have not migrated your cow from the [original collection](https://opensea.io/collection/goodmorningcafe-old), please head to https://gmcafe.io/migrate !\n\n**Join the GMCafé community on [Twitter](https://twitter.com/gmcafeNFT) + [Discord](https://discord.gg/gmcafe) for updates.**\n\n[Ben's Twitter](https://twitter.com/bencolefax) | [Ben's IG](https://instagram.com/bencolefax)"
+  "description": "**Chillest café in the metaverse. Succulent vibes. Art. Cowffee. Cowmmooonity.**\n\nThere will be **333 hand-drawn Highland Cows** in this Good Morning Café 'Genesis' Collection. Each Moo in the Herd is lovingly created by Ben Colefax. \n\n💖 **299** Cows were hand-drawn and distributed to Patrons of the Café directly.  \n💖 **33** have been reserved for 'Custom Request’ Moos.  \n💖 **11** Custom Cows Remain. Use #support via Discord to request.  \n💖 **Phase 2** is brewing. \n\nIf you have not migrated your cow from the [original collection](https://opensea.io/collection/goodmorningcafe-old), please head to https://gmcafe.io/migrate !\n\n**Join the GMCafé community on [Twitter](https://twitter.com/gmcafeNFT) + [Discord](https://discord.gg/gmcafe) for updates.**\n\n[Ben's Twitter](https://twitter.com/bencolefax) | [Ben's IG](https://instagram.com/bencolefax)",
+  "erc721_symbol": "GMOO"
 }

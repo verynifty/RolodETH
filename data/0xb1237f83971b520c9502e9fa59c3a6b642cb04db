@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-peopleross",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

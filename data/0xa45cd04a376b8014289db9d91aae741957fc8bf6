@@ -4,7 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-qidao"
   ],
   "ens": "jnrzth.eth"
 }

@@ -9,7 +9,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "buzin.eth"
 }

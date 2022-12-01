@@ -4,7 +4,8 @@
     "opensea-user",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "hi168.eth"
 }

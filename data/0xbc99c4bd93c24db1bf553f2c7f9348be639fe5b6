@@ -7,6 +7,7 @@
     "snapshot-voter-krausehouse",
     "snapshot-voter-o3dao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

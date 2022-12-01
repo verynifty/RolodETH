@@ -8,7 +8,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-jpeg’d"
   ],
   "ens": "babacoin.eth"
 }

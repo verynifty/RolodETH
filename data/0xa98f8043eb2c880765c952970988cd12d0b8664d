@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-dforcenet",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hashflowdao"
   ]
 }

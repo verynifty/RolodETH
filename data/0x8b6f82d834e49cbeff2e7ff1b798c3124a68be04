@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-safe",
     "snapshot-voter-sismo",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

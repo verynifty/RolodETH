@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "ens": "nbblockchain.eth"
 }

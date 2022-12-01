@@ -3,6 +3,7 @@
     "snapshot-voter-beets",
     "snapshot-voter-xtarot",
     "snapshot-voter-stgdao",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "snapshot-voter-qidao"
   ]
 }

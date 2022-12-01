@@ -10,6 +10,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-poh",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-derify"
   ]
 }

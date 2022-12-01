@@ -6,6 +6,8 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

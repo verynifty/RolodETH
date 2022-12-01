@@ -6,7 +6,8 @@
     "otherdeed-minter",
     "snapshot-voter-aavegotchi",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gearbox"
   ],
   "ens": "a7111a.eth"
 }

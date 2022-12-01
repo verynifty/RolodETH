@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-xole",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

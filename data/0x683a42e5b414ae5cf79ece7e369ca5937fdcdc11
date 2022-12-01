@@ -4,5 +4,6 @@
     "hashmask-minter",
     "meebit-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "daffyduck.eth"
 }

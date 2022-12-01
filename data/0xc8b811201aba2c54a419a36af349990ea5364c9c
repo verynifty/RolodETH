@@ -3,5 +3,6 @@
     "moonbird-minter",
     "pudgy-pinguin-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "edd88.eth"
 }

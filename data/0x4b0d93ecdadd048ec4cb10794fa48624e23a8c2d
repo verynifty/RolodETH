@@ -9,7 +9,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ],
   "ens": "shuqirui.eth"
 }

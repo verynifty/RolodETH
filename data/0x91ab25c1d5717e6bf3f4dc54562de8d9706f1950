@@ -7,6 +7,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-8848labs",
     "snapshot-voter-eth58",
-    "snapshot-voter-theflatcoin"
+    "snapshot-voter-theflatcoin",
+    "snapshot-voter-uniswap"
   ]
 }

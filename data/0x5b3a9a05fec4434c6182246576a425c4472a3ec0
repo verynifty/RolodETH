@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

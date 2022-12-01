@@ -6,6 +6,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-ens",
     "snapshot-voter-sismo",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-pooltogether"
   ]
 }

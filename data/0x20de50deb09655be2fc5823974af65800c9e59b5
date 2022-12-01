@@ -7,5 +7,6 @@
     "snapshot-voter-yam",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "daydaybtc.eth"
 }

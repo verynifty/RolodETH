@@ -4,6 +4,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-toniya",
+    "snapshot-voter-uniswap"
   ]
 }

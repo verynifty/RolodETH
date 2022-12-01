@@ -7,5 +7,6 @@
     "clonex-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "chefdavenyc.eth"
 }

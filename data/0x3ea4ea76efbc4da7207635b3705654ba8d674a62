@@ -6,7 +6,8 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-stgdao",
     "opensea-user",
-    "snapshot-voter-ilv"
+    "snapshot-voter-ilv",
+    "snapshot-voter-fiatdao"
   ],
   "ens": "darkspac3.eth"
 }

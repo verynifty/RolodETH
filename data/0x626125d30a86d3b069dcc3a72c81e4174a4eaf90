@@ -1,7 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "helloone.eth"
 }

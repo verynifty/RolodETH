@@ -15,6 +15,7 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-people-dao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-alchemixstakers"
   ]
 }

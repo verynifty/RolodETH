@@ -3,5 +3,6 @@
     "coolcat-minter",
     "wow-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "sendwx.eth"
 }

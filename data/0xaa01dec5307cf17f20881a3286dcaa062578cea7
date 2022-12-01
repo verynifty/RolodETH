@@ -6,6 +6,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gearbox",
     "snapshot-voter-dorg",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-polywrap"
   ]
 }

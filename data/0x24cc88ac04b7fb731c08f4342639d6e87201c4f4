@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "dota2wings.eth"
 }

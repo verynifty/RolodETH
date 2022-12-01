@@ -3,6 +3,7 @@
     "snapshot-voter-skyverseofficial",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

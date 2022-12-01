@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-safe",
     "snapshot-voter-sismo",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-uniswap"
   ]
 }

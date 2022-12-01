@@ -6,6 +6,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

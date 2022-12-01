@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-nftfinance",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap"
   ]
 }

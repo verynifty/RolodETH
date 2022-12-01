@@ -1,6 +1,7 @@
 {
   "tags": [
-    "layer-2"
+    "layer-2",
+    "contract"
   ],
   "name": "DeversiFi: Committee"
 }

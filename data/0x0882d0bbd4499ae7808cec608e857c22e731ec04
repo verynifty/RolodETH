@@ -7,6 +7,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-mail3",
     "snapshot-voter-beefydao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ]
 }

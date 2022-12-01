@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "azuki-minter",
     "otherdeed-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "985.eth"
 }

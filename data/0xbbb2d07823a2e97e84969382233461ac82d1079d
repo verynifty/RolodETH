@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "xieqiong510.eth"
 }

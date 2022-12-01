@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-uniswap"
+  ],
   "ens": "0x66055.eth"
 }

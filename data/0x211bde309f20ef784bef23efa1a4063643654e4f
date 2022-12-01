@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "greyh.eth"
 }

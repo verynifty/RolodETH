@@ -3,6 +3,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

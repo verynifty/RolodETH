@@ -9,7 +9,8 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-mail3",
     "snapshot-voter-gal",
-    "snapshot-voter-0xmetamask"
+    "snapshot-voter-0xmetamask",
+    "snapshot-voter-uniswap"
   ],
   "ens": "520361.eth"
 }

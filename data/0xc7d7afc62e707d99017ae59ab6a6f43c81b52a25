@@ -4,7 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-53231323"
+    "snapshot-voter-53231323",
+    "snapshot-voter-uniswap"
   ],
   "name": "Multichain Hack Alert 2816"
 }
