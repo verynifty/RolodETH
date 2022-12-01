@@ -2,5 +2,6 @@
   "tags": [
     "goblin-town-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "0x7e5.eth"
 }

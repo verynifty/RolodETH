@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "PopBot",
   "imageUrl": "https://i.seadn.io/gae/QoNwEp4MOdANHROB3BMmPWgeLqaUCqgfMQ0EnCUN9Qr0OkPjTwcuHfa-AEb6waRX16r3YNLm4J7C2IpEDfwDmbASS8iKjXjV1Xhj9w?w=500&auto=format",
   "twitterUsername": "mumbot",
-  "description": "Collaborations of artists Pop Wonder x MUMBOT!"
+  "description": "Collaborations of artists Pop Wonder x MUMBOT!",
+  "proxy": "0x5ae82ecddaa36072c2b8ee4107e8e82af6aa2498"
 }

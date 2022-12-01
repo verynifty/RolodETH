@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "8liens NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/7c8d2909d2d0b9860e64921c36a1321a.gif?w=500&auto=format",
   "externalUrl": "http://8liens.xyz",
   "discordUrl": "https://discord.gg/8liens",
   "twitterUsername": "8liensNFT",
-  "description": "8liens have been spawned by the Ethereals for travel to other dimensions. Their main purpose is exploration and discovery. There are six different sub-species that are genderless. They also can possess various !vibes and traits."
+  "description": "8liens have been spawned by the Ethereals for travel to other dimensions. Their main purpose is exploration and discovery. There are six different sub-species that are genderless. They also can possess various !vibes and traits.",
+  "erc721_symbol": "8LIENS"
 }

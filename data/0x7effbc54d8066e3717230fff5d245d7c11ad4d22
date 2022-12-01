@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Polys.art",
   "imageUrl": "https://i.seadn.io/gae/R7XzizY0CUwDJ9i10H3KQm9BcW5KPZ2CCTFdxiqKXKyKT7IXbGdZSYg3FQGowgq2SCeVQUqOIyPEuYR5FDXr5ki60vD97vqQ-Bv5?w=500&auto=format",
   "externalUrl": "https://polys.art",
   "discordUrl": "https://discord.gg/2k8PxqPN9p",
   "twitterUsername": "polysart",
-  "description": "polys.art resulted from a search for the highest beauty with the fewest bits\r\n\r\nour art uses only up to 70 regular polygons placed on a canvas, which is very low data, but surprisingly is able to create some really interesting images\r\n\r\nwe're 100% stored and rendered on-chain\r\n\r\nmore info about our thoughts on the present and future of on-chain art can be read here:\r\ntinyurl.com/polys-art"
+  "description": "polys.art resulted from a search for the highest beauty with the fewest bits\r\n\r\nour art uses only up to 70 regular polygons placed on a canvas, which is very low data, but surprisingly is able to create some really interesting images\r\n\r\nwe're 100% stored and rendered on-chain\r\n\r\nmore info about our thoughts on the present and future of on-chain art can be read here:\r\ntinyurl.com/polys-art",
+  "erc721_symbol": "POLY"
 }

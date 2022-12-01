@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NOT RENGA",
   "imageUrl": "https://i.seadn.io/gcs/files/47cdd1b4ec69775dfc20db2c553ba199.gif?w=500&auto=format",
   "externalUrl": "http://notrenga.xyz/",
   "twitterUsername": "NotRenga",
-  "description": "NOT RENGA Dirty Robot is a genius. 150+ traits."
+  "description": "NOT RENGA Dirty Robot is a genius. 150+ traits.",
+  "erc721_symbol": "NOTRENGA"
 }

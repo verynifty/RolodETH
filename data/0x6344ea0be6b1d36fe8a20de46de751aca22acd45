@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Lost In Transit",
   "imageUrl": "https://i.seadn.io/gae/gmcELSMolw702qsobnJVHOgarZdzq2N2E8sCyesFi0LK-k6YDDY3Xj4_RSzNzWFsNXrIj1g-yW5fjLHpkIax7iSZCY2GjD9aPIrJoFY?w=500&auto=format",
   "externalUrl": "http://linktr.ee/Mikeschmidt_eth",
   "discordUrl": "https://discord.gg/MikeSchmidt#0887",
   "twitterUsername": "MikeSchmidt_eth",
-  "description": "This is my legacy project - A decade of moments in the art of observing human beings commuting on The Staten Island Ferry\n\nI find the journey via boat across the New York harbor to be a meditative break from the chaos of a hustling city.\n\nUpon boarding, the vibration of the ferry’s engine is felt. You can hear the sound of the water slapping against the stern of the vessel as it departs. Walking along the deck, gazing past the horizon of the vast ocean can be calm and humbling. \n\nWhat I’m finding through making these photographs is that I am not the only one lost in myself. These portraits are no more an outward look at others as they are an inward look at my own psyche\n\n//\n\nI will be dropping 20 Images at a time and will only release the next batch of 20 upon sell out \n\nThere will be 5 rounds total equaling 100 images in the final collection\n\n//\n\nI was granted the award \"SONY Emerging Photographer of the Year\" and have been featured in Photo District News and CNN for this project\n\n"
+  "description": "This is my legacy project - A decade of moments in the art of observing human beings commuting on The Staten Island Ferry\n\nI find the journey via boat across the New York harbor to be a meditative break from the chaos of a hustling city.\n\nUpon boarding, the vibration of the ferry’s engine is felt. You can hear the sound of the water slapping against the stern of the vessel as it departs. Walking along the deck, gazing past the horizon of the vast ocean can be calm and humbling. \n\nWhat I’m finding through making these photographs is that I am not the only one lost in myself. These portraits are no more an outward look at others as they are an inward look at my own psyche\n\n//\n\nI will be dropping 20 Images at a time and will only release the next batch of 20 upon sell out \n\nThere will be 5 rounds total equaling 100 images in the final collection\n\n//\n\nI was granted the award \"SONY Emerging Photographer of the Year\" and have been featured in Photo District News and CNN for this project\n\n",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

@@ -5,5 +5,6 @@
     "snapshot-voter-poh",
     "snapshot-voter-gal",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "amancaya.eth"
 }

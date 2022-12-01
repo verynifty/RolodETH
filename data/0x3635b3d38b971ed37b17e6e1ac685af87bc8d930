@@ -7,5 +7,6 @@
     "pudgy-pinguin-minter",
     "goblin-town-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tophatcat.eth"
 }

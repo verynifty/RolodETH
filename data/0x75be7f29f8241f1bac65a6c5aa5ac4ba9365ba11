@@ -8,5 +8,6 @@
     "snapshot-voter-etherscoredao",
     "sudoswap-user",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "metaversedata.eth"
 }

@@ -8,5 +8,6 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "futuremade.eth"
 }

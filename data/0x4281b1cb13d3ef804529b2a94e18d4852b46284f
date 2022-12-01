@@ -2,11 +2,13 @@
   "tags": [
     "nft",
     "opensea-verified",
-    "contract"
+    "contract",
+    "proxy"
   ],
   "name": "0xTHULU Relic of Membership: Augmented",
   "imageUrl": "https://i.seadn.io/gcs/files/9675946fbeb509237f2a49952d7baf53.gif?w=500&auto=format",
   "externalUrl": "http://0xTHULU.io",
   "discordUrl": "https://discord.gg/0xthulu",
-  "description": "0xTHULU is a mysterious order of industry pros leveraging over 100 years of Hollywood studio resources and relationships to show the world what a decentralized Web3 production house can be: for its members and for the world."
+  "description": "0xTHULU is a mysterious order of industry pros leveraging over 100 years of Hollywood studio resources and relationships to show the world what a decentralized Web3 production house can be: for its members and for the world.",
+  "proxy": "0xc07ed53254ae3317c2f2e0796bdaf395c2df472b"
 }

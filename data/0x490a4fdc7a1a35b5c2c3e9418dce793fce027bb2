@@ -4,5 +4,6 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "sandymeows.eth"
 }

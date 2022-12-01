@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "pSTAKE Staked ATOM",
   "erc20_symbol": "STKATOM",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/18484/thumb/stkATOM_-_128px.png?1634978065"
+  "imageURL": "https://assets.coingecko.com/coins/images/18484/thumb/stkATOM_-_128px.png?1634978065",
+  "proxy": "0xffe646c91788628221b03825eb21c7c8b9311e0f"
 }

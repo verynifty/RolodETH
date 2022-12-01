@@ -24,5 +24,6 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "jt603.eth"
 }

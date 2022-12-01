@@ -17,5 +17,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-truefigov"
-  ]
+  ],
+  "ens": "haoxiao.eth"
 }

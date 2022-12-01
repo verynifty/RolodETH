@@ -6,5 +6,6 @@
     "snapshot-voter-cvx",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-frax"
-  ]
+  ],
+  "ens": "dowjonez.eth"
 }

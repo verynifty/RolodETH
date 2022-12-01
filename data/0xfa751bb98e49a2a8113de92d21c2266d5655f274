@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "blklavas",
   "imageUrl": "https://i.seadn.io/gcs/files/9437d3d7440ad2927abfc23a7d6d0dec.png?w=500&auto=format",
   "externalUrl": "http://blklavas.com",
   "twitterUsername": "blklavas",
-  "description": "welcome to gang gang. we are 5090 blklavas, a 26x26 pixel CC0 art project. blklavas are dynamic and comes with upgrades, active community members will be rewarded. \n[twitter](https://twitter.com/blklavas) | [discord](https://t.co/eiWcoLvJWJ) | [website](https://blklavas.com) | "
+  "description": "welcome to gang gang. we are 5090 blklavas, a 26x26 pixel CC0 art project. blklavas are dynamic and comes with upgrades, active community members will be rewarded. \n[twitter](https://twitter.com/blklavas) | [discord](https://t.co/eiWcoLvJWJ) | [website](https://blklavas.com) | ",
+  "proxy": "0x8c738fa9edcf22f605ba20f2f8b20a0c30da2bfb"
 }
