@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "deprecated"
+    "deprecated",
+    "contract"
   ],
   "name": "DigixDAO",
   "erc20_symbol": "DGD",

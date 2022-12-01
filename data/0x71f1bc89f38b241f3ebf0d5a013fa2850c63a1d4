@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Zloadr: Old Token"
+  "name": "Zloadr: Old Token",
+  "erc20_symbol": "ZDR",
+  "erc20_decimals": 8
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://thelonglost.io",
   "discordUrl": "https://discord.gg/longlost",
   "twitterUsername": "LongLostNFT",
-  "description": "[LONG LOST WEBSITE](https://thelonglost.io) | [LONG LOST TWITTER](https://twitter.com/LongLostNFT)\r\n\r\nLong Lost is a 10,000 piece genesis collection from the '5th Dimension Collective.'"
+  "description": "[LONG LOST WEBSITE](https://thelonglost.io) | [LONG LOST TWITTER](https://twitter.com/LongLostNFT)\r\n\r\nLong Lost is a 10,000 piece genesis collection from the '5th Dimension Collective.'",
+  "erc721_symbol": "LOST"
 }

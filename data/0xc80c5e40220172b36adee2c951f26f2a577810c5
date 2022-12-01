@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Bankera: Old BNK Token"
+  "name": "Bankera: Old BNK Token",
+  "erc20_symbol": "BNK",
+  "erc20_decimals": 8
 }

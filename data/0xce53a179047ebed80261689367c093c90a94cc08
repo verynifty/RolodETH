@@ -1,6 +1,10 @@
 {
   "tags": [
-    "token-sale"
+    "token-sale",
+    "contract",
+    "erc20"
   ],
-  "name": "EtherDelta: Token Sale"
+  "name": "EtherDelta: Token Sale",
+  "erc20_symbol": "EDT",
+  "erc20_decimals": 8
 }

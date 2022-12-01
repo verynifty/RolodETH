@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Open Chain: Old Token"
+  "name": "Open Chain: Old Token",
+  "erc20_symbol": "OPEN",
+  "erc20_decimals": 8
 }

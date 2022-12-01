@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Cardstack: Old Token"
+  "name": "Cardstack: Old Token",
+  "erc20_symbol": "CARD",
+  "erc20_decimals": 18
 }

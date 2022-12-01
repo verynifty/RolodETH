@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "bzx"
+    "bzx",
+    "contract"
   ],
   "name": "bZx Protocol Token",
   "erc20_symbol": "BZRX",

@@ -5,5 +5,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-poh"
-  ]
+  ],
+  "ens": "bixue.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Galaxy-Eggs",
   "imageUrl": "https://i.seadn.io/gae/Wh65MMSs8_7Wz2RD8f_e2AUiyK9vGMOZ-2Za--wGAmzInoZYsqg6Gtj1XKUo4U9UWeerngBIQ82Zx6j5XReyd3jTJ39VuxtrmcIQpA?w=500&auto=format",
   "externalUrl": "https://www.galaxy-eggs.com/",
   "discordUrl": "https://discord.gg/galaxy-eggs",
   "twitterUsername": "galaxy_eggs",
-  "description": "Galaxy Warriors Official Link - https://opensea.io/collection/galaxy-warriors-9999\n\n(art)ificial is an art studio that explores the boundaries of technology and art. Our first project is Galaxy Eggs - a generative collection of 9,999 Eggs of the metaverse that live on the Ethereum Blockchain. Our Art Director, Gal Barkan, has been creating futuristic and sci-fi art for the past 20 years - this collection is the culmination of a lifetime of work on one hand, and the beginning of a new chapter in taking part in the creation of the metaverse. For more info about (art)ificial and Galaxy Eggs, visit - https://www.galaxy-eggs.com/"
+  "description": "Galaxy Warriors Official Link - https://opensea.io/collection/galaxy-warriors-9999\n\n(art)ificial is an art studio that explores the boundaries of technology and art. Our first project is Galaxy Eggs - a generative collection of 9,999 Eggs of the metaverse that live on the Ethereum Blockchain. Our Art Director, Gal Barkan, has been creating futuristic and sci-fi art for the past 20 years - this collection is the culmination of a lifetime of work on one hand, and the beginning of a new chapter in taking part in the creation of the metaverse. For more info about (art)ificial and Galaxy Eggs, visit - https://www.galaxy-eggs.com/",
+  "erc721_symbol": "GLXY"
 }

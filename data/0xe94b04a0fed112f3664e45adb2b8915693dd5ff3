@@ -1,7 +1,8 @@
 {
   "tags": [
     "bittrex",
-    "exchange"
+    "exchange",
+    "contract"
   ],
   "name": "Bittrex 2"
 }

@@ -4,5 +4,6 @@
     "wow-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "bentobot.eth"
 }

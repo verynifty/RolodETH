@@ -1,7 +1,11 @@
 {
   "tags": [
     "old-contract",
-    "pundi-x"
+    "pundi-x",
+    "contract",
+    "erc20"
   ],
-  "name": "Pundi X: Old Token"
+  "name": "Pundi X: Old Token",
+  "erc20_symbol": "PXS",
+  "erc20_decimals": 18
 }

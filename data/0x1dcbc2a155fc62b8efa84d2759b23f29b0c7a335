@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Merry Modz",
   "imageUrl": "https://i.seadn.io/gae/L-UIThdr6MN0S6Q69P163SLSpmHMqBc_oL7Bbz3ytCqWbbkDpLMfa43tNAxpOiiocy99oS2h5UO2sKvKka_yEeM66NEIA_vaPvWZdg?w=500&auto=format",
   "externalUrl": "https://merrymodz.io",
   "discordUrl": "https://discord.gg/TkFb9ydExT",
   "twitterUsername": "Merrymodz_io",
-  "description": "Merry Modz is a narrative-driven, Christmas-themed 10k generative NFT project based on a story by Impact Theory Studios and legendary artist HerreraBox."
+  "description": "Merry Modz is a narrative-driven, Christmas-themed 10k generative NFT project based on a story by Impact Theory Studios and legendary artist HerreraBox.",
+  "erc721_symbol": "MM"
 }

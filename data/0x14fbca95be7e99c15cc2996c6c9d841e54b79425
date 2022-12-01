@@ -1,7 +1,8 @@
 {
   "tags": [
     "maker",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "OasisDex: Old Contract 1"
 }

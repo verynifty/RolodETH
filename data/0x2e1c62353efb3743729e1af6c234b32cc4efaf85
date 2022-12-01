@@ -8,5 +8,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "itachi0x.eth"
 }

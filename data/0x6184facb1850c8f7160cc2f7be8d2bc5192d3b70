@@ -10,5 +10,6 @@
   "externalUrl": "http://spaceaddicts.io",
   "discordUrl": "https://discord.gg/8MZMv2Q4nd",
   "twitterUsername": "SpaceAddictsNFT",
-  "description": "Space Addicts is a character driven NFT project set in a retro space universe. Pizza is the chosen method of survival in a galaxy that eats and sleeps conflict. Rival pizza factions, low Fuel Cells and short fuses, What could possibly go wrong?"
+  "description": "Space Addicts is a character driven NFT project set in a retro space universe. Pizza is the chosen method of survival in a galaxy that eats and sleeps conflict. Rival pizza factions, low Fuel Cells and short fuses, What could possibly go wrong?",
+  "erc721_symbol": "ZA"
 }

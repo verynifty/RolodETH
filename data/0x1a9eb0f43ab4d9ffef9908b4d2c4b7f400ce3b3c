@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BITO",
+  "erc20_decimals": 8,
+  "name": "BITO Coin"
+}

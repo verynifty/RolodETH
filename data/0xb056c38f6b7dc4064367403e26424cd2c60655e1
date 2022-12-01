@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "CEEKVRToken",
   "erc20_symbol": "CEEK",

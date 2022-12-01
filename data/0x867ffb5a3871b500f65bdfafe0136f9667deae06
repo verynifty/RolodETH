@@ -1,7 +1,8 @@
 {
   "tags": [
     "marketplace",
-    "otc"
+    "otc",
+    "contract"
   ],
   "name": "LocalEthereum 1"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "bloom"
+    "bloom",
+    "contract"
   ],
   "name": "Bloom",
   "erc20_symbol": "BLT",

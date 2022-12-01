@@ -3,5 +3,6 @@
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "prachyabank.eth"
 }

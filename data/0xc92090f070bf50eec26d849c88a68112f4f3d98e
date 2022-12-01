@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KaijuFrenz: Genesis",
   "imageUrl": "https://i.seadn.io/gae/kr5CqWpg695jAdSWNwCDQJiD9B2gjQCMwZ_vBVkCN6Qn5u018VbecnMPNuIhRO4MKrMUgyaTsLiJcX3rk8DRYDaHsQ7U2cZ8qZPcBFw?w=500&auto=format",
   "externalUrl": "https://kaijufrenz.com/",
   "twitterUsername": "KaijuFrenz",
-  "description": "Frenz to the Kingz. KaijuFrenz is a 6,666 collection of algorithmically generated Kaijus rampaging across the metaverse. Join us on this rampage and !roar."
+  "description": "Frenz to the Kingz. KaijuFrenz is a 6,666 collection of algorithmically generated Kaijus rampaging across the metaverse. Join us on this rampage and !roar.",
+  "erc721_symbol": "KAIJUFRENZ"
 }

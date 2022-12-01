@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "website-down"
+    "website-down",
+    "contract"
   ],
   "name": "BitCoinRed",
   "erc20_symbol": "BTCR",

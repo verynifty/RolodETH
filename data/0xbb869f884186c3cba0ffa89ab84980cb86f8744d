@@ -10,5 +10,6 @@
   "externalUrl": "https://queenskings.hackatao.com/",
   "discordUrl": "https://discord.gg/hackatao",
   "twitterUsername": "Hackatao",
-  "description": "Queens+Kings overthrow hierarchies in contemporary art and re-mint your CryptoRealm:\r\nCreated by Hackatao and NFT Studios, supported by Sotheby’s\r\n\r\n6,900 Queens+Kings: interchangeable NFT traits, randomly allocated and algorithmically generated. The avatars can then be hacked by the collectors, customized, disassembled and assembled on the [dedicated website](http://queenskings.hackatao.com) builder. \r\nYou can find other traits here: https://opensea.io/collection/queenskings-traits\r\nIn the cryptoverse, a non-hierarchical community is in charge, traditional roles of the art world are subverted.  Hack the Royals, let the Self-Crowning begin."
+  "description": "Queens+Kings overthrow hierarchies in contemporary art and re-mint your CryptoRealm:\r\nCreated by Hackatao and NFT Studios, supported by Sotheby’s\r\n\r\n6,900 Queens+Kings: interchangeable NFT traits, randomly allocated and algorithmically generated. The avatars can then be hacked by the collectors, customized, disassembled and assembled on the [dedicated website](http://queenskings.hackatao.com) builder. \r\nYou can find other traits here: https://opensea.io/collection/queenskings-traits\r\nIn the cryptoverse, a non-hierarchical community is in charge, traditional roles of the art world are subverted.  Hack the Royals, let the Self-Crowning begin.",
+  "erc721_symbol": "Q+KA"
 }

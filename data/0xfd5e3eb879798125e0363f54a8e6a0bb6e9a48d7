@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mood Flippers",
   "imageUrl": "https://i.seadn.io/gcs/files/627c062b72dcdfdec2f52bd88523ba47.jpg?w=500&auto=format",
   "externalUrl": "https://moodflippers.com/",
   "twitterUsername": "MoodRollers",
-  "description": "5.000 randomly generated, unique, animated, flipping characters on the Ethereum blockchain."
+  "description": "5.000 randomly generated, unique, animated, flipping characters on the Ethereum blockchain.",
+  "erc721_symbol": "MOODFLIPPERS"
 }

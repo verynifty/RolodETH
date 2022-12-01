@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Wilder Moto Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/91ba43665fc5d64da1bdd037b4031867.png?w=500&auto=format",
   "externalUrl": "https://app.wilderworld.com/market/moto.genesis",
   "discordUrl": "https://discord.gg/wilderworld",
   "twitterUsername": "WilderWorld",
-  "description": "6,396 Wilder Motos all originating from Frank’s secret garage. Based on blueprints from FBR, the Motos materialized into our dimension for the Wilders to hit the roads of Wiami. Here they will explore the expanding city, race with their friends, and go on adventures far into the new wilderness of the metaverse. \n\n[Moto Trailer](https://www.youtube.com/watch?v=qZ-lt7zewMs)\n\n[Follow our Twitter](https://twitter.com/WilderWorld)\n\n[Wilder World OpenSea](https://opensea.io/collection/wilderworld)\n\n[All other Links](https://t.co/XT1tAZTBuO)"
+  "description": "6,396 Wilder Motos all originating from Frank’s secret garage. Based on blueprints from FBR, the Motos materialized into our dimension for the Wilders to hit the roads of Wiami. Here they will explore the expanding city, race with their friends, and go on adventures far into the new wilderness of the metaverse. \n\n[Moto Trailer](https://www.youtube.com/watch?v=qZ-lt7zewMs)\n\n[Follow our Twitter](https://twitter.com/WilderWorld)\n\n[Wilder World OpenSea](https://opensea.io/collection/wilderworld)\n\n[All other Links](https://t.co/XT1tAZTBuO)",
+  "proxy": "0x7c98fdbbe7c2b8503a049bcd8e6303a47ef4fbcd"
 }

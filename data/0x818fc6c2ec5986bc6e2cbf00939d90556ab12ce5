@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Kin: Old Token"
+  "name": "Kin: Old Token",
+  "erc20_symbol": "KIN",
+  "erc20_decimals": 18
 }

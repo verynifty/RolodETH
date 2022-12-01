@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bonevault.eth"
 }

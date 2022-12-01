@@ -10,5 +10,6 @@
   "externalUrl": "https://livesofasuna.com",
   "discordUrl": "https://discord.gg/livesofasuna",
   "twitterUsername": "LivesOfAsuna",
-  "description": "Glimpse into 10,000 unique lives lived by Asuna through this collection of hand-drawn, anime-inspired NFTs by Zumi and Hagglefish."
+  "description": "Glimpse into 10,000 unique lives lived by Asuna through this collection of hand-drawn, anime-inspired NFTs by Zumi and Hagglefish.",
+  "erc721_symbol": "LOA"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Regulars",
   "imageUrl": "https://i.seadn.io/gae/2ZAcXeq5pWS-3bXAM3x-opC8bK4qOyu2S5612zgVCHQWgl2KLyySKpHsiqrJu3nlZWrF-KOici-ZSkUNKpu1nS-SWryli9XLDsxKsmM?w=500&auto=format",
   "externalUrl": "https://regular.world",
   "discordUrl": "https://discord.gg/regulars-nft",
   "twitterUsername": "Regulars_NFT",
-  "description": "Learn -> https://regular.world       Earn -> https://opensea.io/collection/regular-jobs "
+  "description": "Learn -> https://regular.world       Earn -> https://opensea.io/collection/regular-jobs ",
+  "proxy": "0xc1ff360c1e8296012db2969d1ba6e1bf3069b33e"
 }

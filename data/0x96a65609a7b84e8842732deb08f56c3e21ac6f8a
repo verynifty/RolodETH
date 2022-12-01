@@ -1,7 +1,8 @@
 {
   "tags": [
     "flagged-by-sec",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Centra",
   "erc20_symbol": "CTR",

@@ -1,7 +1,8 @@
 {
   "tags": [
     "website-down",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "ATMChain",
   "erc20_symbol": "ATM",

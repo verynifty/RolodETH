@@ -3,5 +3,6 @@
     "bayc-minter",
     "wow-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "rammy.eth"
 }

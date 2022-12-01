@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Yuan Chain Coin",
   "erc20_symbol": "YCC",

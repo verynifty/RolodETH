@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "BuddaBearsOfficial",
   "imageUrl": "https://i.seadn.io/gcs/files/4ac24fb467bebee1e0c0c7235eefcf60.png?w=500&auto=format",
   "externalUrl": "https://www.buddabearsnft.com/",
   "discordUrl": "https://discord.gg/buddabearsnft",
   "twitterUsername": "BuddaBearsNFT",
-  "description": "Budda Bears released as a FREE MINT for those who enjoy Budda, Music, Good Vibez, Festivals, Concerts, In-store Discounts, IRL Events/meetups, Celebrity Appearances/meetups, and Much More. Stay Tuned! #MOREBUDDA https://www.buddabearsnft.com/ "
+  "description": "Budda Bears released as a FREE MINT for those who enjoy Budda, Music, Good Vibez, Festivals, Concerts, In-store Discounts, IRL Events/meetups, Celebrity Appearances/meetups, and Much More. Stay Tuned! #MOREBUDDA https://www.buddabearsnft.com/ ",
+  "proxy": "0x19574cc6e4a681a8c68ee2b901c8a4933d366068"
 }

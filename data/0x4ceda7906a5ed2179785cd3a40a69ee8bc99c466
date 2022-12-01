@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "AION: Old Token"
+  "name": "AION: Old Token",
+  "erc20_symbol": "AION",
+  "erc20_decimals": 8
 }

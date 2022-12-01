@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sureiya Flames",
   "imageUrl": "https://i.seadn.io/gcs/files/8052eeef169b2899745f6425260e8dc5.png?w=500&auto=format",
   "externalUrl": "http://sureiya.io",
   "twitterUsername": "SureiyaNFT",
-  "description": "The Guardians had no other choice but to call on 222 of the strongest mortal souls, those that had been training in Purgatory, to help defend their realm. A task force of warriors, healers and mages were recruited in the valiant effort to fend off the evil that had infiltrated Purgatory and tainted its lands. To aid them in battle, the mortals were given access to the full arsenal of mystical artifacts that were made in the Great Forge of Waters. You await your turn for battle at the fire. Only you can Extinguish your external flame."
+  "description": "The Guardians had no other choice but to call on 222 of the strongest mortal souls, those that had been training in Purgatory, to help defend their realm. A task force of warriors, healers and mages were recruited in the valiant effort to fend off the evil that had infiltrated Purgatory and tainted its lands. To aid them in battle, the mortals were given access to the full arsenal of mystical artifacts that were made in the Great Forge of Waters. You await your turn for battle at the fire. Only you can Extinguish your external flame.",
+  "erc721_symbol": "SUF"
 }

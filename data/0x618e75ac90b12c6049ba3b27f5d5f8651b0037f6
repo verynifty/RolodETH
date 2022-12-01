@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "liquid"
+    "liquid",
+    "contract"
   ],
   "name": "QASH",
   "erc20_symbol": "QASH",

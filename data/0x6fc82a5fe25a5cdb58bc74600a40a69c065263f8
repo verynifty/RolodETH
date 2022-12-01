@@ -2,7 +2,8 @@
   "tags": [
     "exchange",
     "fiat-gateway",
-    "gemini"
+    "gemini",
+    "contract"
   ],
   "name": "Gemini 2"
 }

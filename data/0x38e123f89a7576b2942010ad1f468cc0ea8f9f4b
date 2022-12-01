@@ -3,5 +3,6 @@
     "bayc-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "nonserviam.eth"
 }

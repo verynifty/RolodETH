@@ -5,5 +5,6 @@
     "gitcoin-grantee",
     "opensea-user"
   ],
-  "name": "Gitcoin Grants: Uniswap"
+  "name": "Gitcoin Grants: Uniswap",
+  "ens": "hayden.eth"
 }

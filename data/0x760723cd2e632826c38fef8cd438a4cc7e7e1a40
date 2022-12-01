@@ -1,6 +1,9 @@
 {
   "tags": [
-    "arbitrum"
+    "arbitrum",
+    "contract",
+    "proxy"
   ],
-  "name": "Arbitrum: Outbox 3"
+  "name": "Arbitrum: Outbox 3",
+  "proxy": "0x360861b7b245c968128f0a53d281adb1df760711"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ASTOR",
+  "erc20_decimals": 3,
+  "name": "astorgame"
+}

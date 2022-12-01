@@ -1,7 +1,8 @@
 {
   "tags": [
     "cobinhood",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "CobinhoodToken",
   "erc20_symbol": "COB",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "0x-ecosystem"
+    "0x-ecosystem",
+    "contract"
   ],
   "name": "0x: Exchange v1"
 }

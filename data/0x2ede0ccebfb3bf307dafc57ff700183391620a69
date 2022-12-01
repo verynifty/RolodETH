@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "promesx.eth"
 }

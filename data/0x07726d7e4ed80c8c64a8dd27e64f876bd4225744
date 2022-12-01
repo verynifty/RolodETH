@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-ybaby",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "gyunikuchan.eth"
 }

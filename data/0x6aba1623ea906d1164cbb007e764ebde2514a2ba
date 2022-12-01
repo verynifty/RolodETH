@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "AAA",
+  "erc20_decimals": 10,
+  "name": "App Alliance Association"
+}

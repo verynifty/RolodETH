@@ -1,7 +1,8 @@
 {
   "tags": [
     "old-contract",
-    "website-down"
+    "website-down",
+    "contract"
   ],
   "name": "Ether.Camp: Price Feed"
 }

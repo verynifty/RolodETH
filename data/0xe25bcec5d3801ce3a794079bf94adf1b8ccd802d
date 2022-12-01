@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "MatrixAINetwork",
   "erc20_symbol": "MAN",

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Lil Chimps - Official",
   "imageUrl": "https://i.seadn.io/gcs/files/c27dc82cb7b80da2b74ff7e52fbf23d7.jpg?w=500&auto=format",
   "externalUrl": "https://lilchimps.com/",
   "discordUrl": "https://discord.gg/lilchimps",
   "twitterUsername": "ChimpsNFT",
-  "description": "We’re here, we’re degen, and we just don’t give a f*ck 🖕 Lil Chimps are here to keep the bear market entertaining, so stay tuned for surprises 🐒\n[Website](https://lilchimps.com/) | [Twitter](https://twitter.com/chimpsnft) | [Discord](https://discord.gg/g8f5BvVz5x)"
+  "description": "We’re here, we’re degen, and we just don’t give a f*ck 🖕 Lil Chimps are here to keep the bear market entertaining, so stay tuned for surprises 🐒\n[Website](https://lilchimps.com/) | [Twitter](https://twitter.com/chimpsnft) | [Discord](https://discord.gg/g8f5BvVz5x)",
+  "proxy": "0x29d1ab5f6bab57708a1935df104d985f4611dad6"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://skulourful.com",
   "discordUrl": "https://discord.gg/skulourful",
   "twitterUsername": "skulourful",
-  "description": "Skulourful is a 6,666 supply collection on the Ethereum blockchain. The project is founded by HATCH, which is the moniker of London-based artist & illustrator Dave Smith. Alongside Hatch is a team of WEB3 pioneers that are focused on creating the best possible experience for holders, delivering quality lore, highlighting incredible artwork, and having incredible utility for the project moving forward."
+  "description": "Skulourful is a 6,666 supply collection on the Ethereum blockchain. The project is founded by HATCH, which is the moniker of London-based artist & illustrator Dave Smith. Alongside Hatch is a team of WEB3 pioneers that are focused on creating the best possible experience for holders, delivering quality lore, highlighting incredible artwork, and having incredible utility for the project moving forward.",
+  "erc721_symbol": "SKUL"
 }

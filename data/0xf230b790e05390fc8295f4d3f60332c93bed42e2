@@ -2,7 +2,8 @@
   "tags": [
     "old-contract",
     "tron",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "TronLabToken",
   "erc20_symbol": "TRX",
