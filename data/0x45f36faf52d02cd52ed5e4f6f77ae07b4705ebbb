@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

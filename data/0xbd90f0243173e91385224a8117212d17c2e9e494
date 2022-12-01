@@ -9,7 +9,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-mavxyz",
     "snapshot-voter-xole",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "nekotarou.eth"
 }

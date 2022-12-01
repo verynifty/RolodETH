@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-apwine",
     "snapshot-voter-synthereum",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-qidao"
   ]
 }

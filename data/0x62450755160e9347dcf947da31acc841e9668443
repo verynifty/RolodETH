@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BLZ",
+  "erc20_decimals": 18,
+  "name": "Iscariot"
+}

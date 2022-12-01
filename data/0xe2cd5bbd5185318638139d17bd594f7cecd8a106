@@ -4,6 +4,7 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-morpho",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

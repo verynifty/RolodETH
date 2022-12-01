@@ -5,7 +5,8 @@
     "snapshot-voter-cow",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "name": "Multichain Hack Alert 2847",
   "ens": "ayuayu.eth"

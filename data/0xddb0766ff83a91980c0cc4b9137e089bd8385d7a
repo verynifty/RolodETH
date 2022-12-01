@@ -6,6 +6,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-uniswap"
   ]
 }

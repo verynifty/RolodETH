@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

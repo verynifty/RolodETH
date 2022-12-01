@@ -4,6 +4,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-vote-hopr",
     "snapshot-voter-beets",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-vote-airswap"
   ]
 }

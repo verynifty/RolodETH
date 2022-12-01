@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "micchi.eth"
 }

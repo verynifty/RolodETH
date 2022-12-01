@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "BLOCK E",
   "erc20_symbol": "BLOCK-E",

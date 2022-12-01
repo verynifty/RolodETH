@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-uniswap"
   ]
 }

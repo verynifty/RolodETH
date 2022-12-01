@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

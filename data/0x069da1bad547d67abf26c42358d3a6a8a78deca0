@@ -1,7 +1,8 @@
 {
   "tags": [
     "clonex-minter",
-    "snapshot-voter-gnars"
+    "snapshot-voter-gnars",
+    "snapshot-voter-snapshot-dcl"
   ],
   "ens": "geffenz.eth"
 }

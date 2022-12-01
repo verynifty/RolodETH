@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "alicedream.eth"
 }

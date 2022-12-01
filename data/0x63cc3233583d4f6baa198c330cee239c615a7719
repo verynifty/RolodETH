@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-mavxyz",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-uniswap"
   ]
 }

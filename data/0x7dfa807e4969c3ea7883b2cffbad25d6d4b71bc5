@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "dnex8.eth"
 }

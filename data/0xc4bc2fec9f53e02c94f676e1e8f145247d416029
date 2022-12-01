@@ -7,6 +7,7 @@
     "snapshot-voter-safe",
     "sudoswap-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ]
 }

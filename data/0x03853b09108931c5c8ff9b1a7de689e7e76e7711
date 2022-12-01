@@ -8,6 +8,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

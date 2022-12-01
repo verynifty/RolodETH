@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

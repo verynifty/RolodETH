@@ -2,7 +2,8 @@
   "tags": [
     "moonbird-minter",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "pondmoonboi.eth"
 }

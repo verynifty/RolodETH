@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-vote-airswap"
+  ],
   "ens": "qwert.eth"
 }

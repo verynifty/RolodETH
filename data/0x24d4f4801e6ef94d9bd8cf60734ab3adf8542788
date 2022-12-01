@@ -4,6 +4,7 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-uniswap"
   ]
 }

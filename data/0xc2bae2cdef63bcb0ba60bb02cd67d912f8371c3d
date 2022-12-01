@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SuperCreators - Gen Z",
   "imageUrl": "https://i.seadn.io/gcs/files/b63af718647d2e24bd3ba78b94c278ba.gif?w=500&auto=format",
   "externalUrl": "https://www.supercreators.io",
   "discordUrl": "https://discord.gg/womenunite-x-supercreator",
   "twitterUsername": "SuperCreatorNFT",
-  "description": "The SuperCreators projects is the first of its kind project that aims to make spirituality available to everyone in the metaverse. They are pioneering across this constantly changing virtual land in attempt to unite both the ethereal and material to have abundance in both areas.\r\n\r\nThe SuperCreators - Gen Z are a collection of 5,555 unique digital collectibles living on the Ethereum blockchain. The SuperCreators - Gen Z are spawned from their SuperCreators parents, the SuperCreators Origins, and carry on the mission of bridging the gap between the metaphysical and physical. \r\n\r\nYour SuperCreators - Gen Z doubles as your Virtual Creators Land membership card, and grants access to members-only benefits, the first of which is access to the Super Creator Academy, a 24 hour virtual knowledge center.\r\n\r\nThe SuperCreators Collections are brought to you by Iamverse an organisation dedicated to helping people achieve the full spectrum of abundance through education."
+  "description": "The SuperCreators projects is the first of its kind project that aims to make spirituality available to everyone in the metaverse. They are pioneering across this constantly changing virtual land in attempt to unite both the ethereal and material to have abundance in both areas.\r\n\r\nThe SuperCreators - Gen Z are a collection of 5,555 unique digital collectibles living on the Ethereum blockchain. The SuperCreators - Gen Z are spawned from their SuperCreators parents, the SuperCreators Origins, and carry on the mission of bridging the gap between the metaphysical and physical. \r\n\r\nYour SuperCreators - Gen Z doubles as your Virtual Creators Land membership card, and grants access to members-only benefits, the first of which is access to the Super Creator Academy, a 24 hour virtual knowledge center.\r\n\r\nThe SuperCreators Collections are brought to you by Iamverse an organisation dedicated to helping people achieve the full spectrum of abundance through education.",
+  "erc721_symbol": "SCGENZ"
 }

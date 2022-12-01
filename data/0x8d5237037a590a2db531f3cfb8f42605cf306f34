@@ -5,6 +5,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-shapeshiftdao"
   ]
 }

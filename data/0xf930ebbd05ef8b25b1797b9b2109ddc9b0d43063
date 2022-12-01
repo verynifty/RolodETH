@@ -3,6 +3,7 @@
     "snapshot-voter-sdcrv",
     "snapshot-voter-sdbal",
     "snapshot-voter-sdfxs",
-    "snapshot-voter-sdangle"
+    "snapshot-voter-sdangle",
+    "snapshot-voter-alchemixstakers"
   ]
 }

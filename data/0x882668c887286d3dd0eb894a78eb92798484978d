@@ -9,7 +9,8 @@
     "opensea-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "kaitokiddo.eth"
 }
