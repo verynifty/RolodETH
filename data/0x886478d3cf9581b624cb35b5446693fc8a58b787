@@ -8,5 +8,6 @@
     "art-goblers-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "zeneca.eth"
 }

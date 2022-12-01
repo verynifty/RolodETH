@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Nickelodeon NFTs (ETH)",
   "imageUrl": "https://i.seadn.io/gcs/files/14300f780a017ba9573caf5a012cc0e9.gif?w=500&auto=format",
   "externalUrl": "https://nickelodeon.xyz/marketplace",
   "discordUrl": "https://discord.gg/recur",
   "twitterUsername": "nickelodeon_nft",
-  "description": "The Splat Factory is back—this time with a twist! 12 characters from *Invader Zim* and *AAAHH!!! Real Monsters* will join *Rugrats* and *Hey Arnold!* characters in the official Nickelodeon collection. \n\n**Starting November 8th at 2pm ET**, it’ll be time for you to collect a new set of 12 classic characters in the upcoming public sale on Nickelodeon.xyz. [Register now](https://nickelodeon.xyz/signup/) to be ready. Collect multiple characters to earn enough slime so you can redeem a highly coveted *Invader Zim* and *AAAHH!!! Real Monsters* mashup character.\n\n---\n\n[Nickelodeon NFTs (MATIC) OpenSea Collection](https://opensea.io/collection/nickelodeon-polygon)\n\n[Nickelodeon.xyz Marketplace](https://nickelodeon.xyz/marketplace)\n\nTo open a sealed Nickelodeon TV pack, you'll need to [send it to your RECUR account](https://nickelodeon.xyz/signup) first."
+  "description": "The Splat Factory is back—this time with a twist! 12 characters from *Invader Zim* and *AAAHH!!! Real Monsters* will join *Rugrats* and *Hey Arnold!* characters in the official Nickelodeon collection. \n\n**Starting November 8th at 2pm ET**, it’ll be time for you to collect a new set of 12 classic characters in the upcoming public sale on Nickelodeon.xyz. [Register now](https://nickelodeon.xyz/signup/) to be ready. Collect multiple characters to earn enough slime so you can redeem a highly coveted *Invader Zim* and *AAAHH!!! Real Monsters* mashup character.\n\n---\n\n[Nickelodeon NFTs (MATIC) OpenSea Collection](https://opensea.io/collection/nickelodeon-polygon)\n\n[Nickelodeon.xyz Marketplace](https://nickelodeon.xyz/marketplace)\n\nTo open a sealed Nickelodeon TV pack, you'll need to [send it to your RECUR account](https://nickelodeon.xyz/signup) first.",
+  "proxy": "0x1c229e5eb7041930e5ca8690897d32845ada75c8"
 }

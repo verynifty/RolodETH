@@ -10,5 +10,6 @@
   "externalUrl": "https://thesevensofficial.com/",
   "discordUrl": "https://discord.gg/777-thesevens-777",
   "twitterUsername": "thesevens_7",
-  "description": "The Sevens is a collection of 7000 algorithmically generated pieces of art with references from pop culture, anime, games, memes and movies."
+  "description": "The Sevens is a collection of 7000 algorithmically generated pieces of art with references from pop culture, anime, games, memes and movies.",
+  "erc721_symbol": "SEVENS"
 }

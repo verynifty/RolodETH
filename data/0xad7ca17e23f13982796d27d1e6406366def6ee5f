@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "rHEGIC2",
   "erc20_symbol": "RHEGIC2",

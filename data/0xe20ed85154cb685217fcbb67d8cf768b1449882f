@@ -6,5 +6,6 @@
     "snapshot-voter-sushigov",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "haodi.eth"
 }

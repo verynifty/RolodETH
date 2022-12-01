@@ -4,5 +4,6 @@
     "mayc-minter",
     "snapshot-voter-treasuredao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "pog.eth"
 }

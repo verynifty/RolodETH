@@ -10,5 +10,6 @@
     "clonex-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0x00d29.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Nuco Cloud",
   "erc20_symbol": "NCDT",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8932/thumb/nucloud_logo.png?1650524741"
+  "imageURL": "https://assets.coingecko.com/coins/images/8932/thumb/nucloud_logo.png?1650524741",
+  "proxy": "0xc6e32e585dbff0c023cbf9fa3fe3014ad7d230d2"
 }

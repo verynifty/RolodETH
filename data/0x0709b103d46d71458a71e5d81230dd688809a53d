@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "bayc-minter",
     "cryptoadz-minter",
-    "snapshot-voter-pickle"
+    "snapshot-voter-pickle",
+    "snapshot-voter-gearbox"
   ],
   "ens": "digitaldill.eth"
 }

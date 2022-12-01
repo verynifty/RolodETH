@@ -3,5 +3,6 @@
     "azuki-minter",
     "doodle-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "jonzzy.eth"
 }

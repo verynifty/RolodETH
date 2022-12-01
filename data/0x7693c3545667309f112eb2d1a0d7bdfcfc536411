@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "loot-minter",
     "cryptoadz-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox"
   ]
 }

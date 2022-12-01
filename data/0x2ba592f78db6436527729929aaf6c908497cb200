@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "cream-finance"
+    "cream-finance",
+    "contract"
   ],
   "name": "Cream.Finance: CREAM Token",
   "erc20_symbol": "CREAM",

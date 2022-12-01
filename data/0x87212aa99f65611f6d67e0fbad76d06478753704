@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BADDIES -  Adventure | War | Conquest",
   "imageUrl": "https://i.seadn.io/gcs/files/313ed8da85a970e77f70b491c4e3d3b1.png?w=500&auto=format",
   "externalUrl": "http://eth.badaliens.io",
   "discordUrl": "https://discord.gg/badaliens",
   "twitterUsername": "BAD__nfts",
-  "description": "**MINTING NOW** | **BADDIES** is a 2D collection of 10,000 BAD Aliens ready for mischief & mayhem. \n\nThe BADDIES are aggressive little boogers made up of over 180 wild off-the-wall traits which can be changed and added to as the roadmap progresses."
+  "description": "**MINTING NOW** | **BADDIES** is a 2D collection of 10,000 BAD Aliens ready for mischief & mayhem. \n\nThe BADDIES are aggressive little boogers made up of over 180 wild off-the-wall traits which can be changed and added to as the roadmap progresses.",
+  "erc721_symbol": "BAD"
 }

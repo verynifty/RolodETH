@@ -4,6 +4,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox"
   ]
 }

@@ -3,5 +3,6 @@
     "azuki-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "joeb.eth"
 }

@@ -8,5 +8,6 @@
     "opensea-user",
     "snapshot-voter-planckcatdao",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "rxbox.eth"
 }

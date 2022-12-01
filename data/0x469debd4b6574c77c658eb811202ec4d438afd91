@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Top Frogs Genesis",
   "imageUrl": "https://i.seadn.io/gae/wuT6ydvB92F4RycmmWJFQBe0whiJB5J5kl1rS1fMkNSH-8U7USBRQiN2vhcfDwO40MJZIXtyKw6xU_jBAJEqItrw3pT6GhqRbNFXjvI?w=500&auto=format",
   "externalUrl": "https://topfrogs.io",
   "discordUrl": "https://discord.gg/mXpXK677JA",
   "twitterUsername": "TopFrogsNFT",
-  "description": "Top Frogs Genesis is a collection of 500 unique frogs that are digital collectibles living on the Ethereum blockchain, distributed under the CC0 license. Visit [topfrogs.io](https://topfrogs.io) for more details."
+  "description": "Top Frogs Genesis is a collection of 500 unique frogs that are digital collectibles living on the Ethereum blockchain, distributed under the CC0 license. Visit [topfrogs.io](https://topfrogs.io) for more details.",
+  "erc721_symbol": "TF"
 }

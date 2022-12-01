@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "3L3Phants Official",
   "imageUrl": "https://i.seadn.io/gcs/files/71dfb6cacb894a713d91f493917fa1b5.png?w=500&auto=format",
   "externalUrl": "http://3l3phants.io",
   "discordUrl": "https://discord.gg/3L3phantsnft",
   "twitterUsername": "3L3NFT",
-  "description": "3L3Phants NFT is a collection of 7,777 Elephants stampeding on the Ethereum blockchain. From the mind of Ic3cream and designed by World Renowned Artist Tornado Toad. Join the Herd today!"
+  "description": "3L3Phants NFT is a collection of 7,777 Elephants stampeding on the Ethereum blockchain. From the mind of Ic3cream and designed by World Renowned Artist Tornado Toad. Join the Herd today!",
+  "erc721_symbol": "ELENFT"
 }

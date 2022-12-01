@@ -5,6 +5,7 @@
     "clonex-minter",
     "snapshot-voter-cvx",
     "snapshot-voter-yearn",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox"
   ]
 }

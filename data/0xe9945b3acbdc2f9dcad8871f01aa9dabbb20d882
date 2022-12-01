@@ -5,6 +5,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-banklessvault",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-aurafinance"
   ]
 }

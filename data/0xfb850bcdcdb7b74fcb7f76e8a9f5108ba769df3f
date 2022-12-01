@@ -4,5 +4,6 @@
     "opensea-user",
     "snapshot-voter-stgdao"
   ],
-  "name": "Gamba Kitties Club: Deployer"
+  "name": "Gamba Kitties Club: Deployer",
+  "ens": "ecrianza.eth"
 }

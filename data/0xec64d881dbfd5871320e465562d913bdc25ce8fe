@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Chimpsons Official",
   "imageUrl": "https://i.seadn.io/gcs/files/2fcc60cfe712bf9d62a1f521e8f952ad.jpg?w=500&auto=format",
   "externalUrl": "https://thechimpsons.xyz/",
   "discordUrl": "https://discord.gg/Qn2jpdahcK",
   "twitterUsername": "The_Chimpsons",
-  "description": "The Chimpsons, is a generative art collection of 7000 chimps randomly generated with traits inspired by animals from The Simpsons and other PFP projects. We are working alongside numerous childhood cancer charities to aide in the fight against all types of cancers."
+  "description": "The Chimpsons, is a generative art collection of 7000 chimps randomly generated with traits inspired by animals from The Simpsons and other PFP projects. We are working alongside numerous childhood cancer charities to aide in the fight against all types of cancers.",
+  "erc721_symbol": "CHIMPSONS"
 }

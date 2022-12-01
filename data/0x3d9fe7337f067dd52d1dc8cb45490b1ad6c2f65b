@@ -4,5 +4,6 @@
     "bayc-minter",
     "doodle-minter",
     "meebit-minter"
-  ]
+  ],
+  "ens": "dojer.eth"
 }

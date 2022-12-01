@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Clementines Nightmare",
   "imageUrl": "https://i.seadn.io/gae/rb3CzNFCXwT3kzh9pxKVnMMegerJAWTblo9A1aQi2ZZeB2Bm9K8-xhdRSrdHktvLMHCTxwAGvdVFsIo7pTwpE4erRNg50sX4_3EWTKo?w=500&auto=format",
   "externalUrl": "https://clementinesnightmare.io",
   "discordUrl": "https://discord.gg/clementinesnightmare",
   "twitterUsername": "ClementinesGame",
-  "description": "Welcome to Clementine’s Nightmare! Clementine’s universe takes a one-of-a-kind turn for the worse when her world is invaded by nightmarish creatures from other realms of reality. Her town, and the people she once knew are all gone, having become twisted by darkness. But just when all hope seems lost, powerful forces of the light arrive from across existence to give Clementine and her friends a uniquely thrilling second chance."
+  "description": "Welcome to Clementine’s Nightmare! Clementine’s universe takes a one-of-a-kind turn for the worse when her world is invaded by nightmarish creatures from other realms of reality. Her town, and the people she once knew are all gone, having become twisted by darkness. But just when all hope seems lost, powerful forces of the light arrive from across existence to give Clementine and her friends a uniquely thrilling second chance.",
+  "erc721_symbol": "CLEM"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "merge123.eth"
 }

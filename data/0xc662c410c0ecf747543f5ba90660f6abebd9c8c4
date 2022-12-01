@@ -1,6 +1,9 @@
 {
   "tags": [
-    "starknet"
+    "starknet",
+    "contract",
+    "proxy"
   ],
-  "name": "StarkNet: Core Contract"
+  "name": "StarkNet: Core Contract",
+  "proxy": "0xe267213b0749bb94c575f6170812c887330d9ce3"
 }

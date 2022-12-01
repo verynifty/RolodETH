@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Zipcy's Secret",
   "imageUrl": "https://i.seadn.io/gae/bKOvSwQRcisxxA6NZ-W1DR4Dn1fTpGJqhNfUsQApXlsfSBkRxvmw0K3eNq4b5nF7Lg1I--ADyYXhLGvCBTBwr8isbM6wDOyGvsZRFA?w=500&auto=format",
   "externalUrl": "https://supernormal.art",
   "discordUrl": "https://discord.gg/supernormal",
   "twitterUsername": "zipcy8888",
-  "description": "**[Official Links](https://solo.to/supernormal) | [SuperNormal Genesis](https://buy.zipcy.io/) | [Official Website](http://supernormal.art/) **\n\n_\"A thought-provoking, authentic, and detailed exploration into the nuances of what it means to be extraordinary.\"_\n\nThe daily lives of ZIPCY, the things ZIPCY loves, and daily lives of women ZIPCY loves.\n\nDrawn by **[Zipcy](https://www.instagram.com/zipcy/)**.\nBacked by world-class team from **Coinbase, Microsoft, Linkedin, Snapchat, IBM, BlackBerry**"
+  "description": "**[Official Links](https://solo.to/supernormal) | [SuperNormal Genesis](https://buy.zipcy.io/) | [Official Website](http://supernormal.art/) **\n\n_\"A thought-provoking, authentic, and detailed exploration into the nuances of what it means to be extraordinary.\"_\n\nThe daily lives of ZIPCY, the things ZIPCY loves, and daily lives of women ZIPCY loves.\n\nDrawn by **[Zipcy](https://www.instagram.com/zipcy/)**.\nBacked by world-class team from **Coinbase, Microsoft, Linkedin, Snapchat, IBM, BlackBerry**",
+  "erc721_symbol": "ZS"
 }

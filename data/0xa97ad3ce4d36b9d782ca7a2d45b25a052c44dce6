@@ -10,5 +10,6 @@
   "externalUrl": "https://flur.gg/",
   "discordUrl": "https://discord.gg/flur",
   "twitterUsername": "FlurAlpha",
-  "description": "Exclusive alpha and calls at https://discord.gg/flur, verify as a holder if you own the nft\n\nNo difference between light and dark passes for now.\n\n5+ for inner circle, 10+ for whale status"
+  "description": "Exclusive alpha and calls at https://discord.gg/flur, verify as a holder if you own the nft\n\nNo difference between light and dark passes for now.\n\n5+ for inner circle, 10+ for whale status",
+  "erc721_symbol": "Flur Alpha Pass"
 }

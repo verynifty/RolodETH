@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "KILLATRAITS",
   "imageUrl": "https://i.seadn.io/gcs/files/5f53b70107b1dee543d270c916e42122.jpg?w=500&auto=format",

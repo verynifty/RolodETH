@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "9999 Luftballons",
   "imageUrl": "https://i.seadn.io/gae/8-CDtJtKOyGvLArR-l-8zFewRY6aB-oWgFnlSGHFn-c29EeFtj5su_aOtY9ECGfi6l4XjRHMCfX28OAvXtFIgZLQg9jgqaa22uHd?w=500&auto=format",
   "externalUrl": "https://9999luftballons.io",
   "discordUrl": "https://discord.gg/9999Luftballons",
   "twitterUsername": "9999Luftballons",
-  "description": "9999 hand drawn luftballons, wafting over the wall. An experimental airdrop community with a contract that supports token splitting. Earn Luft by owning Luftballons which is spendable on airdropped NFTs. CC0 & Freemint."
+  "description": "9999 hand drawn luftballons, wafting over the wall. An experimental airdrop community with a contract that supports token splitting. Earn Luft by owning Luftballons which is spendable on airdropped NFTs. CC0 & Freemint.",
+  "erc721_symbol": "LUFTBALLONS"
 }

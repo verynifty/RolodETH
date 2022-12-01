@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Senior Citizen Degen Club",
   "imageUrl": "https://i.seadn.io/gcs/files/10c226893af1cbc8c03c744e091271ce.png?w=500&auto=format",
   "externalUrl": "https://seniorcitizendegen.club/",
   "discordUrl": "https://discord.gg/NuJrCVmK",
   "twitterUsername": "SCDegenClub",
-  "description": "When you reach the point of retirement and your kids are finally out of the house you will come to realize that your degen selves were just hiding under the surface and you are ready to party again. \n\nCome join the Senior Citizens Degen Club for endless entertainment and good vibes without a care in the world."
+  "description": "When you reach the point of retirement and your kids are finally out of the house you will come to realize that your degen selves were just hiding under the surface and you are ready to party again. \n\nCome join the Senior Citizens Degen Club for endless entertainment and good vibes without a care in the world.",
+  "erc721_symbol": "SCDC"
 }

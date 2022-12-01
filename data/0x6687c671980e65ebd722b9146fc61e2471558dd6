@@ -4,6 +4,7 @@
     "snapshot-voter",
     "snapshot-voter-elfork",
     "snapshot-voter-poh",
-    "snapshot-voter-kleros"
+    "snapshot-voter-kleros",
+    "snapshot-voter-gearbox"
   ]
 }

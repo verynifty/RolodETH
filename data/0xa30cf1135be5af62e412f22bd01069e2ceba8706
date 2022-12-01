@@ -10,5 +10,6 @@
   "externalUrl": "https://humankind.art/",
   "discordUrl": "https://discord.gg/humankind",
   "twitterUsername": "humankindArt",
-  "description": "Every adventure starts with a good lunchbox."
+  "description": "Every adventure starts with a good lunchbox.",
+  "erc721_symbol": "LNCH"
 }

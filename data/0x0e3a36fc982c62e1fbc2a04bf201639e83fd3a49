@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Fluffy Fucks GENESIS",
   "imageUrl": "https://i.seadn.io/gcs/files/63d628e8e5c233bef9ea4cd61ec04e4a.gif?w=500&auto=format",
   "externalUrl": "http://fluffyfucks.com/",
   "discordUrl": "https://discord.gg/fluffyfucks",
   "twitterUsername": "RealFluffyFucks",
-  "description": "Fluffy Fucks is a fully free mint project focusing on animal charity. We have p2e ETH Discord games, staking with ETH payout, monthly free mint, and a no-bullshit approach to the space. Fucks so fluffy it's hard not to grab more. Adopt a Fuck today."
+  "description": "Fluffy Fucks is a fully free mint project focusing on animal charity. We have p2e ETH Discord games, staking with ETH payout, monthly free mint, and a no-bullshit approach to the space. Fucks so fluffy it's hard not to grab more. Adopt a Fuck today.",
+  "erc721_symbol": "FFXv2"
 }

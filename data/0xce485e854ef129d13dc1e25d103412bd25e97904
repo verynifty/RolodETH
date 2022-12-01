@@ -4,5 +4,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "gvargs.eth"
 }

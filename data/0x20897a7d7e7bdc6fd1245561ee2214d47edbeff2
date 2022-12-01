@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pooltogether",
     "snapshot-voter-uniswap",
-    "snapshot-voter-truefigov"
+    "snapshot-voter-truefigov",
+    "snapshot-voter-optimus-dao"
   ]
 }

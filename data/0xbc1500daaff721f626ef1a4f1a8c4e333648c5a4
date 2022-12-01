@@ -11,6 +11,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-popcorn-snapshot",
     "snapshot-voter-opcollective",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -2,5 +2,7 @@
   "tags": [
     "contract",
     "erc1155"
-  ]
+  ],
+  "erc721_symbol": "Goat Pass",
+  "name": "DeluxeGoat Mint Pass"
 }

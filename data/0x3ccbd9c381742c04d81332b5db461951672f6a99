@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Always Tired Official",
   "imageUrl": "https://i.seadn.io/gcs/files/4893902168eebfbb550dfc0e46e9d45b.png?w=500&auto=format",
   "externalUrl": "https://alwaystirednfts.xyz/",
   "discordUrl": "https://discord.gg/alwaystirednfts",
   "twitterUsername": "alwaystirednfts",
-  "description": "Always Tired is a collection of 7777 tired buddies who try to get through the daily grind and help those who are more than just tired! #MECFS"
+  "description": "Always Tired is a collection of 7777 tired buddies who try to get through the daily grind and help those who are more than just tired! #MECFS",
+  "erc721_symbol": "ALWT"
 }

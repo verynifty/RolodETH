@@ -4,5 +4,6 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "longjunjie.eth"
 }

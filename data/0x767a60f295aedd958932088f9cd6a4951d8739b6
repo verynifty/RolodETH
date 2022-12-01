@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-dydxgov",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gearbox"
   ]
 }

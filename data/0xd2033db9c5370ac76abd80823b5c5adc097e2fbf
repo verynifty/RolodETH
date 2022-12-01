@@ -12,6 +12,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-mavxyz"
   ]
 }

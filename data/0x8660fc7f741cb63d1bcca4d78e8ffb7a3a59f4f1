@@ -4,5 +4,6 @@
     "coolcat-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "hospitablebird.eth"
 }

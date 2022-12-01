@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "GINU",
+  "erc20_decimals": 9,
+  "name": "GiveWell Inu"
 }

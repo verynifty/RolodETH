@@ -4,5 +4,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "thebido.eth"
 }

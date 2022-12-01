@@ -9,5 +9,6 @@
     "mayc-minter",
     "sudoswap-user",
     "snapshot-voter-cvx"
-  ]
+  ],
+  "ens": "solom.eth"
 }

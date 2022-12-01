@@ -3,5 +3,6 @@
     "azuki-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "jerrable.eth"
 }

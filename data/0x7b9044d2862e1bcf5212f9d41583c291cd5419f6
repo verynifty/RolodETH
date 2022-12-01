@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gearbox"
   ],
   "ens": "jojoli08.eth"
 }

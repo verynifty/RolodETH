@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "omgkirby",
   "imageUrl": "https://i.seadn.io/gae/1eU6c5LPrrLUJ519FF31B-7fqmv-9Nosj9Jyyfv8V2Xv0HiwD0ZX7HiU6oSQ4HujsH2JsaGLHl0I6xWlSmSAisri8Bq_r0qaRWNl6A?w=500&auto=format",
   "externalUrl": "https://omgkirby.notables.co",
   "discordUrl": "https://discord.gg/omgkirby",
   "twitterUsername": "omgkirbyDAO",
-  "description": "Generative, hand-drawn drop of 5000 omgkirby PFPs that serve as a new entry point into the omgkirby DAO. Each artwork will enable its owner to embody individual avatars as their artistic identities in the metaverse. kirby holders will receive priority access for all upcoming generative drops with coveted musicians and artists."
+  "description": "Generative, hand-drawn drop of 5000 omgkirby PFPs that serve as a new entry point into the omgkirby DAO. Each artwork will enable its owner to embody individual avatars as their artistic identities in the metaverse. kirby holders will receive priority access for all upcoming generative drops with coveted musicians and artists.",
+  "erc721_symbol": "OMG"
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-pantherprotocol",
     "snapshot-voter-piedao",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ]
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pumples",
   "imageUrl": "https://i.seadn.io/gcs/files/25c4ffef870d569e7a08b6f062179d22.jpg?w=500&auto=format",
   "externalUrl": "https://pumples.app",
   "twitterUsername": "pumplesNFT",
-  "description": "Coming to a pumpkin patch near you •ᴗ•\n"
+  "description": "Coming to a pumpkin patch near you •ᴗ•\n",
+  "erc721_symbol": "PUMPLES"
 }

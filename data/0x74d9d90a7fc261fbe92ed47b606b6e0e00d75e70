@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mad Mouse Circus Troupe",
   "imageUrl": "https://i.seadn.io/gae/ojmzY1HRht0N4HPUrLl550tq0AB_V0__hOYJNngPE53PuqlBNZsmLD0hmQBiIPp5Hu2eZM4zvIerXtf510uqf3A4uYEX3Sl_ovnMgQ?w=500&auto=format",
   "externalUrl": "https://madmousecircus.io/",
   "discordUrl": "https://discord.gg/madmousecircus",
   "twitterUsername": "MadMouseCircus",
-  "description": "[Genesis Collection](https://opensea.io/collection/madmousecircus-genesis)\n1059 Holder count 4274/5000 86% Staked as of 01/06 \n\n5000 Mad Mouse Circus Troupe NFTs native to the Ethereum blockchain. Each newly created NFT begins at Level 1 and is assigned one of the following roles: Clown, Juggler, Magician, Trainer, or Performer. Mad Mouse Circus Troupe NFT holders will be able to take part in the levelling system to evolve their NFTs from Level 1 to Level 3.\n\nBy staking a Mad Mouse Circus NFT, holders will be able to earn GOUDA token. GOUDA is used for mechanics, such as the level-up system and is used to feed the GOUDA slot-machine (auctions & raffles of various NFT Collections using GOUDA).\n\nJoin our troupe! https://madmousecircus.io/"
+  "description": "[Genesis Collection](https://opensea.io/collection/madmousecircus-genesis)\n1059 Holder count 4274/5000 86% Staked as of 01/06 \n\n5000 Mad Mouse Circus Troupe NFTs native to the Ethereum blockchain. Each newly created NFT begins at Level 1 and is assigned one of the following roles: Clown, Juggler, Magician, Trainer, or Performer. Mad Mouse Circus Troupe NFT holders will be able to take part in the levelling system to evolve their NFTs from Level 1 to Level 3.\n\nBy staking a Mad Mouse Circus NFT, holders will be able to earn GOUDA token. GOUDA is used for mechanics, such as the level-up system and is used to feed the GOUDA slot-machine (auctions & raffles of various NFT Collections using GOUDA).\n\nJoin our troupe! https://madmousecircus.io/",
+  "erc721_symbol": "MMC"
 }

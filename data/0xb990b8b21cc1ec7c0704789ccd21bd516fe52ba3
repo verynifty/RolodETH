@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-gearbox",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "lunaparkowner.eth"
 }

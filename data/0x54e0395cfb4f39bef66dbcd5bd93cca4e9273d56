@@ -2,11 +2,14 @@
   "tags": [
     "alchemist-coin",
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alchemist Crucible v1",
   "imageUrl": "https://i.seadn.io/gae/kSVzgBImWBQd2gbHALj3ZqvsZ4mRglk8Rlv9I3K0iza5goeq7W3KZ9MeG2jGwGRgqak3qugzY7XXEK0kG04QygoIML8yv7GAqM-6?w=500&auto=format",
   "externalUrl": "http://crucible.wtf",
   "discordUrl": "https://discord.gg/alchemist",
-  "twitterUsername": "CrucibleNFT"
+  "twitterUsername": "CrucibleNFT",
+  "erc721_symbol": "CRUCIBLE-V1"
 }

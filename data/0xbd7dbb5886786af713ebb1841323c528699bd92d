@@ -13,5 +13,6 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "202110.eth"
 }

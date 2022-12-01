@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "moyamoya.eth"
 }

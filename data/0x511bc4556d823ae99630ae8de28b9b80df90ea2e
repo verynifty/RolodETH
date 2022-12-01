@@ -1,6 +1,7 @@
 {
   "tags": [
-    "livepeer"
+    "livepeer",
+    "contract"
   ],
   "name": "Livepeer: Proxy Bonding Manager"
 }

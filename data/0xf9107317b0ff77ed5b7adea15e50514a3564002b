@@ -11,5 +11,6 @@
     "snapshot-voter-planckcatdao",
     "snapshot-voter-swaprsnapshot",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "darkbluechain.eth"
 }

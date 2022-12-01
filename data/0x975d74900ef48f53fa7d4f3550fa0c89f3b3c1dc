@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "wgmis",
   "imageUrl": "https://i.seadn.io/gcs/files/8c0ddbb72f2c23a894218174c8272b72.gif?w=500&auto=format",
   "externalUrl": "http://wgmis.com",
   "discordUrl": "https://discord.gg/wgmis",
   "twitterUsername": "wgmis",
-  "description": "frenly cc0 froggos by desultor. no rules, no roadmap, just right\r\n\r\nwgmis is an artist-led sloppy 8k kiss on the cheek of the cryptoart community. these froggos are trashy, pixely and chuck full of heart\r\n\r\njoin us fren! https://wgmis.com"
+  "description": "frenly cc0 froggos by desultor. no rules, no roadmap, just right\r\n\r\nwgmis is an artist-led sloppy 8k kiss on the cheek of the cryptoart community. these froggos are trashy, pixely and chuck full of heart\r\n\r\njoin us fren! https://wgmis.com",
+  "erc721_symbol": "WGMIS"
 }

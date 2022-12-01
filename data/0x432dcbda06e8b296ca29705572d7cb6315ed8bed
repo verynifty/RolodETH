@@ -11,5 +11,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-pickle",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0xnigiri.eth"
 }

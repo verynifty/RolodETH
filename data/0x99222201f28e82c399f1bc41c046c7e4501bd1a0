@@ -3,5 +3,6 @@
     "art-goblers-minter",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "crash.eth"
 }

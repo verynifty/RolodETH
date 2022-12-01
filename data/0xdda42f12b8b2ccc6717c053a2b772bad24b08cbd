@@ -6,5 +6,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "drewbeefy.eth"
 }

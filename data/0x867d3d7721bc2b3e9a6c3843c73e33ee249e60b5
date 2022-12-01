@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-elfi",
     "snapshot-voter-uniswap",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-alchemixstakers"
   ]
 }

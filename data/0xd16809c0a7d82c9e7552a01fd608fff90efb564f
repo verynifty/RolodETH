@@ -10,5 +10,6 @@
   "externalUrl": "https://deca.art/rcs",
   "discordUrl": "https://discord.gg/3x6QHrjj5V",
   "twitterUsername": "XCOPYART",
-  "description": "An art experiment by XCOPY and Deca."
+  "description": "An art experiment by XCOPY and Deca.",
+  "erc721_symbol": "RCS"
 }

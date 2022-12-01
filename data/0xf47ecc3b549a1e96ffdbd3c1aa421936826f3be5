@@ -2,5 +2,7 @@
   "tags": [
     "contract",
     "erc721"
-  ]
+  ],
+  "erc721_symbol": "1973",
+  "name": "The 1973s Collection"
 }

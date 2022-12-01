@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Flower Girls",
   "imageUrl": "https://i.seadn.io/gae/WRbEGpYOKWEEt7BoyCvq_XOfG4393JCzIyzdJwlgjh5sFOP3hP34BQ2Y-TW88qVntN4CSX-sEsBo3ryPDDwQTceQBwNyxLTBlrCG1w?w=500&auto=format",
   "externalUrl": "https://www.flowergirlsnft.com/",
   "discordUrl": "https://discord.gg/flowergirls",
   "twitterUsername": "FlowerGirlsNFT",
-  "description": "[Website](https://www.flowergirlsnft.com/) | [Special Editions](https://opensea.io/collection/the-flower-girls-special) | [Drawing Inspirations](https://opensea.io/collection/drawing-inspirations) | [Seed Purses](https://opensea.io/collection/flower-girls-seed-purses) | [Children's Art Fund](https://opensea.io/flowergirlsartfund) | [Coinbase](https://nft.coinbase.com/collection/ethereum/0x2efa07cac3395599db83035d196f2a0e7263f766) | [Nifty Gateway](https://niftygateway.com/marketplace?collectible=0x2efa07cac3395599db83035d196f2a0e7263f766)\n  \n10,000 unique Flower Girls by **Varvara Alay**, generated from over 950 hand-drawn elements and stored as ERC-721 tokens on the Ethereum Blockchain.\n  \n⟶ 20% of Primary & Secondary profits donated to a range of Children’s charities  \n⟶ 5% of Primary & Secondary profits used to collect Children’s NFT Art\n  \nPlease visit our **[Website](https://www.flowergirlsnft.com/)** for the full Roadmap."
+  "description": "[Website](https://www.flowergirlsnft.com/) | [Special Editions](https://opensea.io/collection/the-flower-girls-special) | [Drawing Inspirations](https://opensea.io/collection/drawing-inspirations) | [Seed Purses](https://opensea.io/collection/flower-girls-seed-purses) | [Children's Art Fund](https://opensea.io/flowergirlsartfund) | [Coinbase](https://nft.coinbase.com/collection/ethereum/0x2efa07cac3395599db83035d196f2a0e7263f766) | [Nifty Gateway](https://niftygateway.com/marketplace?collectible=0x2efa07cac3395599db83035d196f2a0e7263f766)\n  \n10,000 unique Flower Girls by **Varvara Alay**, generated from over 950 hand-drawn elements and stored as ERC-721 tokens on the Ethereum Blockchain.\n  \n⟶ 20% of Primary & Secondary profits donated to a range of Children’s charities  \n⟶ 5% of Primary & Secondary profits used to collect Children’s NFT Art\n  \nPlease visit our **[Website](https://www.flowergirlsnft.com/)** for the full Roadmap.",
+  "erc721_symbol": "FLGS"
 }

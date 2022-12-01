@@ -5,6 +5,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mail3",
-    "snapshot-voter-gmx"
-  ]
+    "snapshot-voter-gmx",
+    "snapshot-voter-hashflowdao"
+  ],
+  "ens": "dexbest1.eth"
 }
