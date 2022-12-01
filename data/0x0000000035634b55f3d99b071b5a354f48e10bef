@@ -1,7 +1,8 @@
 {
   "tags": [
     "gem",
-    "marketplace"
+    "marketplace",
+    "contract"
   ],
   "name": "Gem: Single Contract Checkout 2"
 }

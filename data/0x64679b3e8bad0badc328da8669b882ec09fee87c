@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mafia Bears",
   "imageUrl": "https://i.seadn.io/gae/OnrrnVXpPAj9rBc8J35-pe9n4Cm0eGnpuPw0sB2tiHCDMG2lLpPyqX6UZ0Jjp8LcFR8QmqyCTPU3-ZIeYPqP38opnOtvM5-emj9F?w=500&auto=format",
   "externalUrl": "https://mafiabears.com",
   "discordUrl": "https://discord.gg/Zt4wqQPqfR",
   "twitterUsername": "MafiaBearsNFT",
-  "description": "MafiaBears is a collection of 9568 bears NFTs - unique digital colletibles living on the etherium blockchain. Each bear gives you a passive income of $HASH depending on its level. Future areas and perks can be unlocked by the community through roadmap activation."
+  "description": "MafiaBears is a collection of 9568 bears NFTs - unique digital colletibles living on the etherium blockchain. Each bear gives you a passive income of $HASH depending on its level. Future areas and perks can be unlocked by the community through roadmap activation.",
+  "erc721_symbol": "MB"
 }

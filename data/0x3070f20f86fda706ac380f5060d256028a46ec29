@@ -9,5 +9,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-yam",
     "opensea-user"
-  ]
+  ],
+  "ens": "citizen42.eth"
 }

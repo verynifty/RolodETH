@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "1inch-exchange",
-    "1inch"
+    "1inch",
+    "contract"
   ],
   "name": "1inch Network: CHI Token",
   "erc20_symbol": "CHI",

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SOURCE ONE",
   "imageUrl": "https://i.seadn.io/gae/vbT4RKw8pCmmJiywk5fWumBk-jYRndHwGyHd7jmnrKsOznEuW16r-qaQNk8UM_uHG3l79RmMptqgAh_lYo5-M13sx0qtHJIRG2bglQ?w=500&auto=format",
   "discordUrl": "https://discord.gg/sabet",
   "twitterUsername": "sabet",
-  "description": "The official account of Ali Sabet with artwork officially minted on the SABET contract."
+  "description": "The official account of Ali Sabet with artwork officially minted on the SABET contract.",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

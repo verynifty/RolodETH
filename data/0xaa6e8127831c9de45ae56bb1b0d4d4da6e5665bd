@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "index-coop"
+    "index-coop",
+    "contract"
   ],
   "name": "Index Coop: ETH 2x Flexible Leverage Index",
   "erc20_symbol": "ETH2X-FLI",

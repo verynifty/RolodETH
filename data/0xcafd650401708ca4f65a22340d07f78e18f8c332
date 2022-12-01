@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-sushigov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "06191.eth"
 }

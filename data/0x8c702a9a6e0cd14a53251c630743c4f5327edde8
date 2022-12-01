@@ -10,5 +10,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-banklessvault",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "calman.eth"
 }

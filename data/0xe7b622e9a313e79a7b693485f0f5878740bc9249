@@ -3,5 +3,6 @@
     "moonbird-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "phenomjones.eth"
 }

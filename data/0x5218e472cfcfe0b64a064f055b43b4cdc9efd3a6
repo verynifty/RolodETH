@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "reservelending",
-    "unfederalreserve"
+    "unfederalreserve",
+    "contract"
   ],
   "name": "UnFederalReserve: eRSDL Token",
   "erc20_symbol": "ERSDL",

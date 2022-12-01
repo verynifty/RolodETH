@@ -7,5 +7,6 @@
     "snapshot-voter-opcollective",
     "sudoswap-user",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "luckfairy.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SupDucksVX",
   "imageUrl": "https://i.seadn.io/gae/XTjLbRKq7w_yww3kFuFw13xuxvPB1dq4buWkFFSJIS8w6IWxUKrgp_YjuqKD8RPKnr_LBx58L93xVnrGp_tX8RmTdBwcKtj8gT0q3g?w=500&auto=format",
   "externalUrl": "http://supducks.com",
   "discordUrl": "https://discord.gg/supducks",
   "twitterUsername": "RealSupDucks",
-  "description": "Enter a New Dimension! SupDucks VX was launched May31st, 2022. SupDucks VX are voxelized re-creations of the OG SupDucks you know and love. With these new assets, holders will be able to begin their journey exploring voxel based metaverse platforms like Sandbox, Infinites Islands, etc. SupDucks VX is just the first step among many of creating more immersive experiences as the convergence between Web3 and the 'Verse unfolds\n\nStay up to date: \n**\n[Twitter](https://twitter.com/realsupducks) |\n[Discord](https://discord.gg/supducks) |\n[Youtube](https://www.youtube.com/channel/UCa-nNLetADH7iGdvqzIIqSg)**\n\n[MegaVolt Collections](https://opensea.io/MegaVoltCorp?tab=created_collections)**\n\nso grab your VX and join us for the ride. "
+  "description": "Enter a New Dimension! SupDucks VX was launched May31st, 2022. SupDucks VX are voxelized re-creations of the OG SupDucks you know and love. With these new assets, holders will be able to begin their journey exploring voxel based metaverse platforms like Sandbox, Infinites Islands, etc. SupDucks VX is just the first step among many of creating more immersive experiences as the convergence between Web3 and the 'Verse unfolds\n\nStay up to date: \n**\n[Twitter](https://twitter.com/realsupducks) |\n[Discord](https://discord.gg/supducks) |\n[Youtube](https://www.youtube.com/channel/UCa-nNLetADH7iGdvqzIIqSg)**\n\n[MegaVolt Collections](https://opensea.io/MegaVoltCorp?tab=created_collections)**\n\nso grab your VX and join us for the ride. ",
+  "proxy": "0xfab45dffef9ba36223b4f1c2c27357ff5b951a09"
 }

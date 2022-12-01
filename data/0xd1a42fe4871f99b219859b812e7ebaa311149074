@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "mostshinoda.eth"
 }

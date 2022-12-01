@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Clown Squad",
   "imageUrl": "https://i.seadn.io/gcs/files/1b5021739e502cdb6f3ee7972a5f5be0.jpg?w=500&auto=format",
   "externalUrl": "https://www.clownsquad.lol",
   "discordUrl": "https://discord.gg/clownsquad",
   "twitterUsername": "ClownSquadLOL",
-  "description": "Introducing The Clown Squad, a collection of 7,777 clowns, returning from exile, they're ready to wreak havoc and mayhem across the metaverse. "
+  "description": "Introducing The Clown Squad, a collection of 7,777 clowns, returning from exile, they're ready to wreak havoc and mayhem across the metaverse. ",
+  "erc721_symbol": "CS"
 }

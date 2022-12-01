@@ -1,7 +1,8 @@
 {
   "tags": [
     "staking",
-    "ygov-finance"
+    "ygov-finance",
+    "contract"
   ],
   "name": "Ygov.finance: Governance Staking"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metaverse Players (MVP)",
   "imageUrl": "https://i.seadn.io/gcs/files/e1f5247fbcfa05f980fddc8fea83a797.jpg?w=500&auto=format",
   "externalUrl": "https://www.houseoffirst.com",
   "discordUrl": "https://discord.gg/houseoffirst",
   "twitterUsername": "HouseofFirst",
-  "description": "Metaverse Players (MVPs) by the legendary Butcher Billy provides you access to an exclusive social community offering the highest levels of engagement, entertainment, and experiences. Each MVP will unlock access to the Metaverse Games Club, featuring a variety of social, casual, and competitive games designed to test your skills and talents. Inspired by the imagery and lore from Royal Society’s genesis works and co-launched in partnership with House of First, the MVP collection is filled with stories of mystery, espionage, conflict, and power. The collection features a unique Re-Roll Mechanic, IRL Events, Metaverse Experiences, Special Utility, Merchandise, and Full Commercial IP Rights!"
+  "description": "Metaverse Players (MVPs) by the legendary Butcher Billy provides you access to an exclusive social community offering the highest levels of engagement, entertainment, and experiences. Each MVP will unlock access to the Metaverse Games Club, featuring a variety of social, casual, and competitive games designed to test your skills and talents. Inspired by the imagery and lore from Royal Society’s genesis works and co-launched in partnership with House of First, the MVP collection is filled with stories of mystery, espionage, conflict, and power. The collection features a unique Re-Roll Mechanic, IRL Events, Metaverse Experiences, Special Utility, Merchandise, and Full Commercial IP Rights!",
+  "erc721_symbol": "MetaversePlayers"
 }

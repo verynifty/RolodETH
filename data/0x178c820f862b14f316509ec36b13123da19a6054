@@ -1,5 +1,9 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "EWTB",
+  "erc20_decimals": 18,
+  "name": "Energy Web Token Bridged"
 }

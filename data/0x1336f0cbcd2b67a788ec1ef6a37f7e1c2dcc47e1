@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "bei0335.eth"
 }

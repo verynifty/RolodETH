@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ether-cards"
+    "ether-cards",
+    "contract"
   ],
   "name": "Ether Cards: DUST Token",
   "erc20_symbol": "DUST",

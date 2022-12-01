@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bugatti Group Phygital Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/1a1a81e3874e1d6e4c953201d1443178.png?w=500&auto=format",
   "externalUrl": "http://bugatticollectionsnft.com",
   "discordUrl": "https://discord.gg/bugattigroup",
   "twitterUsername": "bugattigrp",
-  "description": "Bugatti Group company since 1940 enters the web 3 space with a Phygital x Mint pass collection that gives you exclusive access to the brands eco-system, visit our NFT website to view all utility benefits."
+  "description": "Bugatti Group company since 1940 enters the web 3 space with a Phygital x Mint pass collection that gives you exclusive access to the brands eco-system, visit our NFT website to view all utility benefits.",
+  "erc721_symbol": "BGPGC"
 }

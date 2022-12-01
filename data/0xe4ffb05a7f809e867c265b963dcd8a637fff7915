@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Loonies.wtf",
   "imageUrl": "https://i.seadn.io/gcs/files/0990f45b1b6958eda0b4c0cfe88038e1.gif?w=500&auto=format",
   "externalUrl": "http://mrbreeze.wtf/",
   "discordUrl": "https://discord.gg/Thef8club",
   "twitterUsername": "LooniesWTF",
-  "description": "Brand New Discord ahead of the games 👇🏽\n\n▪️[DISCORD](https://discord.gg/Sf6q4fQ4)\n\nReady to pop? But wait... these 10.000 unique hand drawn Loonies want to continue their journey to space.\nWill you help them fulfill their wish to reach the moon and beyond??\n\nHold on.... it...seems...like...they...are.......not..........aloooooneeeee"
+  "description": "Brand New Discord ahead of the games 👇🏽\n\n▪️[DISCORD](https://discord.gg/Sf6q4fQ4)\n\nReady to pop? But wait... these 10.000 unique hand drawn Loonies want to continue their journey to space.\nWill you help them fulfill their wish to reach the moon and beyond??\n\nHold on.... it...seems...like...they...are.......not..........aloooooneeeee",
+  "erc721_symbol": "LOONIES"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "mordantblack.eth"
 }

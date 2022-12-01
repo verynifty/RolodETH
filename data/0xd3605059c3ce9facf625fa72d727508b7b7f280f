@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "pablos.lol",
   "imageUrl": "https://i.seadn.io/gcs/files/19b5311789e083550450dd097810253e.gif?w=500&auto=format",
   "externalUrl": "https://pabloslol.net/",
   "discordUrl": "https://discord.gg/J9TURR5f3e",
   "twitterUsername": "PabloSunService",
-  "description": "ēงērฯthiຖງ ฯ໐น ¢คຖ i๓คງiຖē iŞ rēคl\n\nhttps://pabloslol.net/\n\nGENESIS"
+  "description": "ēงērฯthiຖງ ฯ໐น ¢คຖ i๓คງiຖē iŞ rēคl\n\nhttps://pabloslol.net/\n\nGENESIS",
+  "erc721_symbol": "Pablos"
 }

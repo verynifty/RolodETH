@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-solacefi",
     "snapshot-voter-jbdao",
-    "snapshot-voter-studiodao"
+    "snapshot-voter-studiodao",
+    "snapshot-voter-interfacedao"
   ]
 }

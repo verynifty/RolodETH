@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "flyinglady.eth"
 }

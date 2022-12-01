@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "AUTZ: Old AUTZ Token"
+  "name": "AUTZ: Old AUTZ Token",
+  "erc20_symbol": "AUTZ",
+  "erc20_decimals": 9
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Surf Punks NFT",
   "imageUrl": "https://i.seadn.io/gae/v0Mn791AjdBkIGFzSVXsgLEKzKp8C09niRdkYGCUK5ai9FLLq8Zm2nOjiasTMsxJinh244tbYE_iup2ZF0czmU_3JwcP-hU-94dDJQ?w=500&auto=format",
   "externalUrl": "http://surfpunks.io",
-  "description": "500 SurfPunks for the raddest surfers 🤙🏼"
+  "description": "500 SurfPunks for the raddest surfers 🤙🏼",
+  "erc721_symbol": "SURF"
 }

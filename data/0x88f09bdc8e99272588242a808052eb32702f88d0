@@ -5,5 +5,6 @@
     "clonex-minter",
     "art-goblers-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bluebean.eth"
 }

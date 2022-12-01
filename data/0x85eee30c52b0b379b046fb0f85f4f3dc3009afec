@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "keep"
+    "keep",
+    "contract"
   ],
   "name": "Keep: KEEP Token",
   "erc20_symbol": "KEEP",

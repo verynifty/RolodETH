@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The CuBeanz Temple",
   "imageUrl": "https://i.seadn.io/gcs/files/3d2cbe0ea0200a1f544923cc34375070.gif?w=500&auto=format",
   "externalUrl": "https://cubeanz.io/",
   "twitterUsername": "CuBeanz",
-  "description": "!YO\r\n**CuBeanz**  project is based on the [Koden legend](https://mirror.xyz/0xA15E6eC2c6003A4CAB69dE59BaFbd3Cbd5f40AB2/TXJc9b4v-UwjWYluwN1KSyhQh7cXYhXVsbeOR8LkwLA).\r\n\r\nA fair minded drop for every passionate individual. 武士道\r\n\r\nThe project is composed of 4,444 unique spirits. The 3 main values being enforced in the Temple refer to the Bushido Code : Respect, Honesty and Loyalty. ファミリ\r\n\r\nThe interfaces available on our [Website](https://cubeanz.io/) for the holders after the mint will be:\r\n\r\n- **Battle interface** \r\n- **Companion interface**\r\n\r\nWelcome to the CuBeanz Temple, may you be the chosen one...ポダワ"
+  "description": "!YO\r\n**CuBeanz**  project is based on the [Koden legend](https://mirror.xyz/0xA15E6eC2c6003A4CAB69dE59BaFbd3Cbd5f40AB2/TXJc9b4v-UwjWYluwN1KSyhQh7cXYhXVsbeOR8LkwLA).\r\n\r\nA fair minded drop for every passionate individual. 武士道\r\n\r\nThe project is composed of 4,444 unique spirits. The 3 main values being enforced in the Temple refer to the Bushido Code : Respect, Honesty and Loyalty. ファミリ\r\n\r\nThe interfaces available on our [Website](https://cubeanz.io/) for the holders after the mint will be:\r\n\r\n- **Battle interface** \r\n- **Companion interface**\r\n\r\nWelcome to the CuBeanz Temple, may you be the chosen one...ポダワ",
+  "erc721_symbol": "CBZ"
 }

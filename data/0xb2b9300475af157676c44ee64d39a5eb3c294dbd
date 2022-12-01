@@ -9,5 +9,6 @@
     "snapshot-voter-cow",
     "snapshot-voter-morpho",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "bunbun1211.eth"
 }

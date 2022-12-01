@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Universal Liquidity Union",
   "erc20_symbol": "ULU",

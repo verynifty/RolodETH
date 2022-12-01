@@ -3,5 +3,6 @@
     "snapshot-voter-sharkdao",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "stonec.eth"
 }

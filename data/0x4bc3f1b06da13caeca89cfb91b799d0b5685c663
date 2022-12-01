@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Divergents Official",
   "imageUrl": "https://i.seadn.io/gae/BYLZ1B3Q-1WddTMiqUr53XjdN_dEwLjZ8m_hdstIjxKA1CmK7EKZRGUiuo79H1H0qfJti7V2ovo46qJU3OzDOwBbJPPTsp5AeaS3?w=500&auto=format",
   "externalUrl": "https://thedivergents.io/",
   "discordUrl": "https://discord.gg/thedivergents",
   "twitterUsername": "DivergentsNFT",
-  "description": "New tribe of unique hand-drawn NFTs by artist Marek Ehrenberger making the world a better place. The Divergents a socially conscious NFT collection that brings artistic value to the NFT sphere and works towards a philanthropic purpose. Get to know more about The Divergents on our [website](http://thedivergents.io) and join our [community](http://discord.gg/thedivergents). \n\nHolders could claim a physical print signed by the artist or collect all 10 Divergent characters to claim the most precious NFT of them all - Guru."
+  "description": "New tribe of unique hand-drawn NFTs by artist Marek Ehrenberger making the world a better place. The Divergents a socially conscious NFT collection that brings artistic value to the NFT sphere and works towards a philanthropic purpose. Get to know more about The Divergents on our [website](http://thedivergents.io) and join our [community](http://discord.gg/thedivergents). \n\nHolders could claim a physical print signed by the artist or collect all 10 Divergent characters to claim the most precious NFT of them all - Guru.",
+  "erc721_symbol": "DVRG"
 }

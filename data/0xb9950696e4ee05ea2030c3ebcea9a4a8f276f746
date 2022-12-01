@@ -4,5 +4,6 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "wow-minter"
-  ]
+  ],
+  "ens": "yuggy.eth"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "mpass.eth"
 }

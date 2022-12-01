@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Heart Project",
   "imageUrl": "https://i.seadn.io/gae/Xgx0cYJjfcbZI1tNOwBwlvtrcDAIm8aAP6U5Hkf7khEKmt5L-i7FGoc83RXvW6pg-oTy4x6HKlbjCTioqbA_Yqq-LhBQe7TMDse7CQ?w=500&auto=format",
   "externalUrl": "http://heartnfts.io",
   "discordUrl": "https://discord.gg/heartnfts",
   "twitterUsername": "HeartNFTs",
-  "description": "The Heart Project is a community-run creative studio which enables passionate lovers of creativity to shape the art we interact with. 10,000 unique tokens on the Ethereum-based blockchain will serve as membership passes which grant access to creative contribution and shared ownership of our group creations. The Heart Project Creative Studio is designed to produce media with thousands of contributors on every project and grants ownership of our shared creations."
+  "description": "The Heart Project is a community-run creative studio which enables passionate lovers of creativity to shape the art we interact with. 10,000 unique tokens on the Ethereum-based blockchain will serve as membership passes which grant access to creative contribution and shared ownership of our group creations. The Heart Project Creative Studio is designed to produce media with thousands of contributors on every project and grants ownership of our shared creations.",
+  "erc721_symbol": "HEARTS"
 }

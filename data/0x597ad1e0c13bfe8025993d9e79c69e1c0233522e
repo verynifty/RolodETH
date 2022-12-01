@@ -1,7 +1,11 @@
 {
   "tags": [
     "vaults",
-    "yearn-finance"
+    "yearn-finance",
+    "contract",
+    "erc20"
   ],
-  "name": "yearn: yUSDC Vault"
+  "name": "yearn: yUSDC Vault",
+  "erc20_symbol": "yUSDC",
+  "erc20_decimals": 6
 }

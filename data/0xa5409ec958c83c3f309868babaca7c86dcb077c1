@@ -1,6 +1,7 @@
 {
   "tags": [
-    "opensea"
+    "opensea",
+    "contract"
   ],
   "name": "OpenSea: Registry"
 }

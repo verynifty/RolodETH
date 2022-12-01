@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "From Tube Tubies Out",
   "imageUrl": "https://i.seadn.io/gcs/files/0dcbaeb11fee21d5c445cc01978e90cd.gif?w=500&auto=format",
   "discordUrl": "https://discord.gg/fromtube",
   "twitterUsername": "0xFromtube",
-  "description": " "
+  "description": " ",
+  "erc721_symbol": "TUBE"
 }

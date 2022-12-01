@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Crookz by NIXON",
   "imageUrl": "https://i.seadn.io/gcs/files/8f993df4dbf60109506abd4e249c1cf4.jpg?w=500&auto=format",
   "externalUrl": "https://crookznft.io",
   "discordUrl": "https://discord.gg/crookz",
   "twitterUsername": "crookznft",
-  "description": "9,999 3D 4K post-$USD personalities living on the Ethereum blockchain.\n\n[WEBSITE](https://crookznft.io) | [CROOKZOMBIES](https://opensea.io/collection/crookzombies) | [BUY NUCLEAR SERUMS](https://opensea.io/collection/nixon-industries-nuclear-serums) | [DISCORD](https://discord.gg/crookz) | [TWITTER](https://twitter.com/crookznft)\n\n#CROOKZNATION"
+  "description": "9,999 3D 4K post-$USD personalities living on the Ethereum blockchain.\n\n[WEBSITE](https://crookznft.io) | [CROOKZOMBIES](https://opensea.io/collection/crookzombies) | [BUY NUCLEAR SERUMS](https://opensea.io/collection/nixon-industries-nuclear-serums) | [DISCORD](https://discord.gg/crookz) | [TWITTER](https://twitter.com/crookznft)\n\n#CROOKZNATION",
+  "proxy": "0x951d77b7ce4caa3e48c3c3bcd694e5a909006d4d"
 }

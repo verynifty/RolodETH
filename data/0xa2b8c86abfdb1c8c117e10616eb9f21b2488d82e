@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "vUNIv2ETHUSDC",
+  "erc20_decimals": 18,
+  "name": "Value Vaults: UNIv2ETHUSDC"
+}

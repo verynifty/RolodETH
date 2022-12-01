@@ -1,6 +1,7 @@
 {
   "tags": [
-    "radicle"
+    "radicle",
+    "contract"
   ],
   "name": "Radicle: Registrar"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "8X8 Protocol",
   "erc20_symbol": "EXE",

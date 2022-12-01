@@ -10,5 +10,6 @@
   "externalUrl": "http://www.grandpaapecountryclub.com/macc",
   "discordUrl": "https://discord.gg/gacc",
   "twitterUsername": "GrandpaApeCC",
-  "description": "The MUTANT GRANDPA Country Club is a collection of up to 10,000 Mutant Grandpas that can only be created by exposing an existing Grandpa Ape to a vial of MUTANT SERUM or by minting a Mutant Grandpa.\n\nThe OG Grandpa Ape Collection: https://opensea.io/collection/grandpaapecountryclub\n\nInspired by Mutant Ape Yacht Club. We are not affiliated with Mutant Ape Yacht Club."
+  "description": "The MUTANT GRANDPA Country Club is a collection of up to 10,000 Mutant Grandpas that can only be created by exposing an existing Grandpa Ape to a vial of MUTANT SERUM or by minting a Mutant Grandpa.\n\nThe OG Grandpa Ape Collection: https://opensea.io/collection/grandpaapecountryclub\n\nInspired by Mutant Ape Yacht Club. We are not affiliated with Mutant Ape Yacht Club.",
+  "erc721_symbol": "MACC"
 }

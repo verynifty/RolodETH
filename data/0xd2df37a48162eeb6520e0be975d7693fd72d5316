@@ -2,11 +2,13 @@
   "tags": [
     "nft",
     "opensea-verified",
-    "contract"
+    "contract",
+    "erc721"
   ],
   "name": "Mask of ZEE",
   "imageUrl": "https://i.seadn.io/gcs/files/a979100748bfd032e7f1f5327ccae6c2.jpg?w=500&auto=format",
   "externalUrl": "http://zee-verse.com",
   "discordUrl": "https://discord.gg/zeeverse",
-  "description": "Mask of ZEE NFTs represents the core community of Zeeverse. \nHolders receive confirmed airdrops and earn by playing Zeeverse. Many surprises down the roadmap await!"
+  "description": "Mask of ZEE NFTs represents the core community of Zeeverse. \nHolders receive confirmed airdrops and earn by playing Zeeverse. Many surprises down the roadmap await!",
+  "erc721_symbol": "MoZ"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Yes Ser",
   "imageUrl": "https://i.seadn.io/gcs/files/7d217df1ae43542ead3ef8150379e863.png?w=500&auto=format",
   "externalUrl": "http://yessernft.xyz",
   "twitterUsername": "yessernft",
-  "description": "Welcome Ser"
+  "description": "Welcome Ser",
+  "erc721_symbol": "YESSER"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Metaverse HQ",
   "imageUrl": "https://i.seadn.io/gae/4FXmPB0L18lEZ2uhy7vU-N1Q2bVViZkpCS3wkZ76Vxco-lEyAJ9Du2PQAqRMDQECmzBsqkc6vLR5GozH7kjrXr8yZtWj4n7xZs0o8g?w=500&auto=format",
   "externalUrl": "https://www.mvhq.io/",
   "discordUrl": "https://discord.gg/mvhq",
   "twitterUsername": "Metaverse_HQ",
-  "description": "Metaverse HQ (MVHQ) is an exclusive tokenized community of the most prolific NFT Investors, Builders, and Creators in the Web3 space. Our primary focus is to stay at the forefront of technology and innovation by cultivating the best talent, products, and education through our community. \n\nOur annual membership offers access to our community of Web3 experts, advanced guides, market research, interviews, and analysis, private access to IRL and metaverse events, Allowlist opportunities with the top NFT launches, and exclusive access to MVHQ activations, strategic partnerships, and products.\n\nWe guide our members through the sea of information that is the Web3 space and provide you with the tools, network, strategy, and information necessary to make profitable decisions.\n\nOwning a \"Metaverse HQ Key\" will grant you access to our community and all our exclusive member benefits through the current year.\n\nWebsite: https://www.mvhq.io/\nAll platforms: https://linkin.bio/metaversehq\n "
+  "description": "Metaverse HQ (MVHQ) is an exclusive tokenized community of the most prolific NFT Investors, Builders, and Creators in the Web3 space. Our primary focus is to stay at the forefront of technology and innovation by cultivating the best talent, products, and education through our community. \n\nOur annual membership offers access to our community of Web3 experts, advanced guides, market research, interviews, and analysis, private access to IRL and metaverse events, Allowlist opportunities with the top NFT launches, and exclusive access to MVHQ activations, strategic partnerships, and products.\n\nWe guide our members through the sea of information that is the Web3 space and provide you with the tools, network, strategy, and information necessary to make profitable decisions.\n\nOwning a \"Metaverse HQ Key\" will grant you access to our community and all our exclusive member benefits through the current year.\n\nWebsite: https://www.mvhq.io/\nAll platforms: https://linkin.bio/metaversehq\n ",
+  "proxy": "0xfa93cb43d943e2d4573d8d52317da334e5c2a5d6"
 }

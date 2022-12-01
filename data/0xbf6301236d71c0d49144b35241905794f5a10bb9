@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Feet And Eyes Guys",
   "imageUrl": "https://i.seadn.io/gcs/files/db9e6cff875bcf5a3ff5fe9e248020c5.png?w=500&auto=format",
   "externalUrl": "https://feetandeyesguys.io/",
   "discordUrl": "https://discord.gg/feetandeyesguys",
   "twitterUsername": "FeetAndEyesGuys",
-  "description": "They’ve got FEET, they’ve got EYES, they are 11,111 cartoon GUYS! FEET AND EYES GUYS is a collection of randomly generated NFTs hanging out on the Ethereum Blockchain. Founded by Caitlin Cronenberg. \n\nFEET AND EYES GUYS are the first NFT project to employ a Progressive Reveal strategy after mint. \n\nThe Paint Shoppe Access Token is now available to mint! It is a Soulbound Token, meaning it cannot be transferred, sold or burned. The The Paint Shoppe Access Token lets you into our Paint Shoppe which allows you to COLOR Feet And Eyes Guys!\n\nIf you see a collection on OpenSea selling these tokens, PLEASE report, it as fake, as there is only one way to purchase these Paint Shoppe Access Tokens, which is from the official project site:\n\nhttps://feetandeyesguys.io/paintshoppe/buy\n\nFEET on the ground, EYES on the moon!\n\nArt by Sam Gorrie and Das Frank\n\nOfficial rarity rankings: https://www.raraavis.app/feet-and-eyes-guys-tokens"
+  "description": "They’ve got FEET, they’ve got EYES, they are 11,111 cartoon GUYS! FEET AND EYES GUYS is a collection of randomly generated NFTs hanging out on the Ethereum Blockchain. Founded by Caitlin Cronenberg. \n\nFEET AND EYES GUYS are the first NFT project to employ a Progressive Reveal strategy after mint. \n\nThe Paint Shoppe Access Token is now available to mint! It is a Soulbound Token, meaning it cannot be transferred, sold or burned. The The Paint Shoppe Access Token lets you into our Paint Shoppe which allows you to COLOR Feet And Eyes Guys!\n\nIf you see a collection on OpenSea selling these tokens, PLEASE report, it as fake, as there is only one way to purchase these Paint Shoppe Access Tokens, which is from the official project site:\n\nhttps://feetandeyesguys.io/paintshoppe/buy\n\nFEET on the ground, EYES on the moon!\n\nArt by Sam Gorrie and Das Frank\n\nOfficial rarity rankings: https://www.raraavis.app/feet-and-eyes-guys-tokens",
+  "erc721_symbol": "FEG"
 }

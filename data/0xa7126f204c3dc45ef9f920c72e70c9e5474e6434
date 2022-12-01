@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "loveeachother.eth"
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-minerva"
+    "snapshot-voter-minerva",
+    "snapshot-voter-agavedao"
   ]
 }

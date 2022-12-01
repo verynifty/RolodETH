@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Flinch Characters",
   "imageUrl": "https://i.seadn.io/gcs/files/e066fd3acf7d9eefedb86e66596a3b2a.gif?w=500&auto=format",
   "externalUrl": "http://www.flinchthenft.com",
   "discordUrl": "https://discord.gg/dQY2CPv9E4",
   "twitterUsername": "FlinchNFT",
-  "description": "The crime franchise of the metaverse. Get a full cast of three (Mia, Doyle, James) to tell your story. \n\nCollect weapons, vehicles and bullets so you can accept a job.\n\nTake a hit out on others or join a gang.\n\nBased off the feature film Flinch. Art by Sveta Shubina."
+  "description": "The crime franchise of the metaverse. Get a full cast of three (Mia, Doyle, James) to tell your story. \n\nCollect weapons, vehicles and bullets so you can accept a job.\n\nTake a hit out on others or join a gang.\n\nBased off the feature film Flinch. Art by Sveta Shubina.",
+  "erc721_symbol": "FLNH"
 }

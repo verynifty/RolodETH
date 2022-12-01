@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Pika",
   "erc20_symbol": "PIKA",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14419/thumb/pika-logo-2022-nbg.png?1641971069"
+  "imageURL": "https://assets.coingecko.com/coins/images/14419/thumb/pika-logo-2022-nbg.png?1641971069",
+  "proxy": "0x3794f08ac1dc0317627847f9ead9c336066ff319"
 }

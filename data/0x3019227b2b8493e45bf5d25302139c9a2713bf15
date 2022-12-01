@@ -1,6 +1,7 @@
 {
   "tags": [
-    "rocket-pool"
+    "rocket-pool",
+    "contract"
   ],
   "name": "Rocket Pool: Staking"
 }

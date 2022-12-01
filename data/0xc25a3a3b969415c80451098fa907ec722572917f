@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "curve-fi"
+    "curve-fi",
+    "contract"
   ],
   "name": "Curve.fi: sCRV Token",
   "erc20_symbol": "SCURVE",

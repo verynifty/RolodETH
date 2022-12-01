@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "yam-finance"
+    "yam-finance",
+    "contract",
+    "proxy"
   ],
   "name": "Yam.Finance: YAM Token",
   "erc20_symbol": "YAM",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12530/thumb/YAM-icon.png?1600495536"
+  "imageURL": "https://assets.coingecko.com/coins/images/12530/thumb/YAM-icon.png?1600495536",
+  "proxy": "0x27c5736b49b89d4765d03734a0a51c461f09672d"
 }

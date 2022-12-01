@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Doggies (Snoop Dogg)",
   "imageUrl": "https://i.seadn.io/gae/ufumJQN9NwT0U5jh_suJP5cLRIjyE38hirVdBChQLe-ghnt1RomIARfxSNmR6fdMQC0OIgjVQHhhduUfcxiRVrfHpihrXSW-SU5J?w=500&auto=format",
   "externalUrl": "https://www.sandbox.game/en/snoopdogg/",
   "discordUrl": "https://discord.gg/vAe4zvY",
   "twitterUsername": "TheSnoopAvatars",
-  "description": "🐶 The Doggies - Snoop Dogg Avatars  🐶\r\n\r\n10,000 metaverse-ready Avatars, playable in The Sandbox. Each Doggy has been generated from over 150+ traits, curated by Snoop Dogg himself. Owning a Doggy provides access to a playable The Sandbox avatar, as well as access to future features inside the metaverse."
+  "description": "🐶 The Doggies - Snoop Dogg Avatars  🐶\r\n\r\n10,000 metaverse-ready Avatars, playable in The Sandbox. Each Doggy has been generated from over 150+ traits, curated by Snoop Dogg himself. Owning a Doggy provides access to a playable The Sandbox avatar, as well as access to future features inside the metaverse.",
+  "erc721_symbol": "TD"
 }

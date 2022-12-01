@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "Zild",
+  "erc20_decimals": 18,
+  "name": "Zild Finance Coin"
+}

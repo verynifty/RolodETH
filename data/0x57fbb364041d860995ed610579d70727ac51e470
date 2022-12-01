@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mad Rabbits Riot Club",
   "imageUrl": "https://i.seadn.io/gcs/files/24b79689bd4ae841b647d98c7338bb87.png?w=500&auto=format",
   "externalUrl": "https://madrabbits.io/",
   "discordUrl": "https://discord.gg/madrabbits",
   "twitterUsername": "MadRabbitsRC",
-  "description": "**IMPORTANT NOTE:** When purchasing a MRRC Rabbit NFT for participation in **Mad Rabbits: Gang Wars**, please visit the [**Official Gang Wars Website**]( https://gangwars.madrabbits.io/) and check the specific MRRC NFT's **Token ID** on the site's claim checker to ensure that the MRRC Rabbit hasn't yet been \"gangified.\"\n\n[**DeFi Society Studio**](https://twitter.com/defi_society) presents:\n\n**Mad Rabbits Riot Club** is a harrowing, yet exhilarating, saga into a raucous world of crypto intrigue, turf wars, and metaverse heists. Only 7,500 programmatically generated rabbits exist, and holders of each NFT will be able to participate in unique events that may continuously increase the rarity of their Mad Rabbit over time.\n\n[Official Site](https://madrabbits.io/) | [Official Contract](https://etherscan.io/address/0x57fbb364041d860995ed610579d70727ac51e470) | [Horror Show](https://opensea.io/collection/madrabbitshorrorshow) | [The Rabbit Fence](https://opensea.io/collection/the-rabbit-fence)"
+  "description": "**IMPORTANT NOTE:** When purchasing a MRRC Rabbit NFT for participation in **Mad Rabbits: Gang Wars**, please visit the [**Official Gang Wars Website**]( https://gangwars.madrabbits.io/) and check the specific MRRC NFT's **Token ID** on the site's claim checker to ensure that the MRRC Rabbit hasn't yet been \"gangified.\"\n\n[**DeFi Society Studio**](https://twitter.com/defi_society) presents:\n\n**Mad Rabbits Riot Club** is a harrowing, yet exhilarating, saga into a raucous world of crypto intrigue, turf wars, and metaverse heists. Only 7,500 programmatically generated rabbits exist, and holders of each NFT will be able to participate in unique events that may continuously increase the rarity of their Mad Rabbit over time.\n\n[Official Site](https://madrabbits.io/) | [Official Contract](https://etherscan.io/address/0x57fbb364041d860995ed610579d70727ac51e470) | [Horror Show](https://opensea.io/collection/madrabbitshorrorshow) | [The Rabbit Fence](https://opensea.io/collection/the-rabbit-fence)",
+  "erc721_symbol": "MRRC"
 }

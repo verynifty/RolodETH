@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DEGENERATE/REGENERATE",
   "imageUrl": "https://i.seadn.io/gae/NwKupgupe7JVDZkob6YkfGwZ8d9dhyhMAszTCslzjGyHS3CjNtGPYLnn7PTyuDhDw3fG0KyxPllSd-UEFkNjTfil4B9kBheE1v9MtA?w=500&auto=format",
   "externalUrl": "http://nft.obeygiant.com",
   "discordUrl": "https://discord.gg/obey",
   "twitterUsername": "obeygiant",
-  "description": "Degenerate/Regenerate is a 7,400 piece generative NFT art project by Shepard Fairey. Pulling from Fairey’s 32 year stencil, illustration, and fine art archive, this collection layers iconic images programmatically to create new, unique pieces of digital art.\n\n( http://nft.obeygiant.com https://discord.gg/obey )"
+  "description": "Degenerate/Regenerate is a 7,400 piece generative NFT art project by Shepard Fairey. Pulling from Fairey’s 32 year stencil, illustration, and fine art archive, this collection layers iconic images programmatically to create new, unique pieces of digital art.\n\n( http://nft.obeygiant.com https://discord.gg/obey )",
+  "erc721_symbol": "OBEYDG"
 }

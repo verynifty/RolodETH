@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Crypterium: Old CRPT Token"
+  "name": "Crypterium: Old CRPT Token",
+  "erc20_symbol": "CRPT",
+  "erc20_decimals": 18
 }

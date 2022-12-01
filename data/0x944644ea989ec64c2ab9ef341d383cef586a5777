@@ -1,7 +1,10 @@
 {
   "tags": [
     "dex",
-    "loopring"
+    "loopring",
+    "contract",
+    "proxy"
   ],
-  "name": "LoopringDEX: Beta 1"
+  "name": "LoopringDEX: Beta 1",
+  "proxy": "0x730ea81c982939931d7514cc3fbc22eaf7d372ec"
 }

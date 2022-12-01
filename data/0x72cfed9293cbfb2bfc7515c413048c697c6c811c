@@ -1,6 +1,7 @@
 {
   "tags": [
-    "yam-finance"
+    "yam-finance",
+    "contract"
   ],
   "name": "Yam.Finance: Migrator"
 }

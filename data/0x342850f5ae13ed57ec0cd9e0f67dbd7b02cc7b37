@@ -3,5 +3,6 @@
     "azuki-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kevybaby.eth"
 }

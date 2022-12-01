@@ -1,7 +1,8 @@
 {
   "tags": [
     "nest-protocol",
-    "oracle"
+    "oracle",
+    "contract"
   ],
   "name": "NEST Protocol: Oracle ETH/USDT"
 }

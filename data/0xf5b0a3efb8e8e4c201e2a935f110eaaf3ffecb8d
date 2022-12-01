@@ -1,6 +1,9 @@
 {
   "tags": [
-    "axie-infinity"
+    "axie-infinity",
+    "contract",
+    "erc721"
   ],
-  "name": "Axie Infinity: AXIE Token"
+  "name": "Axie Infinity: AXIE Token",
+  "erc721_symbol": "AXIE"
 }

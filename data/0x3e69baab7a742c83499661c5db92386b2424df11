@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Remarkable Women NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/cc31617d613053617f5194be0b0654a4.png?w=500&auto=format",
   "externalUrl": "https://houseoffirst.com",
   "discordUrl": "https://discord.gg/d4SCruyUUS",
   "twitterUsername": "HouseofFirst",
-  "description": "A colorful, empowering, and inclusive NFT collection curated and minted by House of First and award winning artist and illustrator Rachel Winter. The collection is a celebration of women inspired by self-expression, feminism, fashion, and cultural inclusion. Featuring bold and empowering messages in 15 languages including English, Chinese, French, Korean, Hindi, Arabic, Russian, German, Spanish, and Hebrew, these groundbreaking NFTs have global reach and worldwide appeal. \n \nDriven by purpose and supported by over 250 Remarkable Women Ambassadors, 10% of the drop proceeds will be donated to the Fund for Women’s Equality (FFWE) and 10% of the secondary sales received will be given to the Remarkable Women Impact Fund, a community driven fund to support causes that uplift women globally."
+  "description": "A colorful, empowering, and inclusive NFT collection curated and minted by House of First and award winning artist and illustrator Rachel Winter. The collection is a celebration of women inspired by self-expression, feminism, fashion, and cultural inclusion. Featuring bold and empowering messages in 15 languages including English, Chinese, French, Korean, Hindi, Arabic, Russian, German, Spanish, and Hebrew, these groundbreaking NFTs have global reach and worldwide appeal. \n \nDriven by purpose and supported by over 250 Remarkable Women Ambassadors, 10% of the drop proceeds will be donated to the Fund for Women’s Equality (FFWE) and 10% of the secondary sales received will be given to the Remarkable Women Impact Fund, a community driven fund to support causes that uplift women globally.",
+  "erc721_symbol": "RemarkableWomen"
 }

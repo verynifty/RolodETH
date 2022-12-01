@@ -1,7 +1,8 @@
 {
   "tags": [
     "curve-fi",
-    "yield-farming"
+    "yield-farming",
+    "contract"
   ],
   "name": "Curve.fi: sBTC Liquidity Gauge"
 }

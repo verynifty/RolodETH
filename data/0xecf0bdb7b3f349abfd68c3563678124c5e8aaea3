@@ -1,7 +1,8 @@
 {
   "tags": [
     "kyber-network",
-    "staking"
+    "staking",
+    "contract"
   ],
   "name": "Kyber: Staking"
 }

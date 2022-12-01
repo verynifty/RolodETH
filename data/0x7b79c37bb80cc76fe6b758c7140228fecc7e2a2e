@@ -6,7 +6,8 @@
     "snapshot-voter-index-coop",
     "snapshot-voter-piedao",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-jpgnftindex"
   ],
   "ens": "rtree.eth"
 }

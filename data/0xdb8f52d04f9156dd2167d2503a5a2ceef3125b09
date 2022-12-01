@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Soul Cafe Genesis",
   "imageUrl": "https://i.seadn.io/gae/MdsZUhHTeCH5SVZrv_heWAp0YC8yhIXsJLtL3YVa7j3dl0xUJW2R00UsM6I24EPPlc7fmxKSGHwCoKk6206Rkk4cJ_DqpZM1fvQz4g?w=500&auto=format",
   "externalUrl": "https://soulcafe.io/",
   "discordUrl": "https://discord.gg/KK2zqfppx9",
   "twitterUsername": "soulcafenft",
-  "description": "A Cafe for web3 frens"
+  "description": "A Cafe for web3 frens",
+  "erc721_symbol": "SC"
 }

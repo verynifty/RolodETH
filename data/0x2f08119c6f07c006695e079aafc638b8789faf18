@@ -1,6 +1,10 @@
 {
   "tags": [
-    "vaults"
+    "vaults",
+    "contract",
+    "erc20"
   ],
-  "name": "yearn: yUSDT Vault"
+  "name": "yearn: yUSDT Vault",
+  "erc20_symbol": "yUSDT",
+  "erc20_decimals": 6
 }

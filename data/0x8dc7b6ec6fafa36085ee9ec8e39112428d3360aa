@@ -10,5 +10,6 @@
   "externalUrl": "https://www.sneakerheads.xyz/",
   "discordUrl": "https://discord.gg/sneakerheads",
   "twitterUsername": "sneakerheadsoff",
-  "description": "Sneakerheads is a collection of 5000 unique NFTs designed by legendary artist and founder Ali Dawood. Over 40 meticulously designed 3D, hand-drawn base models with unrivaled levels of detail - capturing the look, feel, and style of a sneaker like never before.\r\n\r\nThis is the launchpad for a community and collaboration-based infrastructure that will redefine the world of street-culture in Web3.\r\n\r\nVIsit our official site : sneakerheads.xyz"
+  "description": "Sneakerheads is a collection of 5000 unique NFTs designed by legendary artist and founder Ali Dawood. Over 40 meticulously designed 3D, hand-drawn base models with unrivaled levels of detail - capturing the look, feel, and style of a sneaker like never before.\r\n\r\nThis is the launchpad for a community and collaboration-based infrastructure that will redefine the world of street-culture in Web3.\r\n\r\nVIsit our official site : sneakerheads.xyz",
+  "erc721_symbol": "SNKH"
 }

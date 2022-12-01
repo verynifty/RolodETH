@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The LP",
   "imageUrl": "https://i.seadn.io/gcs/files/c64095ecf61134ccc0dacbd1b055963f.png?w=500&auto=format",
   "externalUrl": "http://www.thelp.xyz",
   "discordUrl": "https://discord.gg/GNUHtbyFyB",
   "twitterUsername": "TheLPxyz",
-  "description": "See website for details. https://www.thelp.xyz\n\nAN EXPERIMENTAL APPROACH TO BOOTSTRAPPING NFT LIQUIDITY AND REWARDING HOLDERS\n\nThe LP uses a new model that includes trustless escrow, instant liquidity, and rewards for holders.\n\nWhen you mint an LP NFT your ETH and the NFT are held in escrow until a) 11 days have passed or b) the project sells out.\n\nIf the project does not sell out the experiment ends and you can withdraw your ETH.\n\nIf the project does sell out 1000 additional NFTs and half of the mint proceeds are added to an internal liquidity pool to enable instant buying and selling of The LP NFTs.\n\nEvery time a trade occurs in the pool a fee is taken (royalty). Half of fee is added back to the pool and the other half is distributed to holders of the LP NFTs.\n\nIn addition all external royalties from platforms like OpenSea are deposited back into the pool. \n\nAt it's core this is an automated market maker for individual NFT projects. "
+  "description": "See website for details. https://www.thelp.xyz\n\nAN EXPERIMENTAL APPROACH TO BOOTSTRAPPING NFT LIQUIDITY AND REWARDING HOLDERS\n\nThe LP uses a new model that includes trustless escrow, instant liquidity, and rewards for holders.\n\nWhen you mint an LP NFT your ETH and the NFT are held in escrow until a) 11 days have passed or b) the project sells out.\n\nIf the project does not sell out the experiment ends and you can withdraw your ETH.\n\nIf the project does sell out 1000 additional NFTs and half of the mint proceeds are added to an internal liquidity pool to enable instant buying and selling of The LP NFTs.\n\nEvery time a trade occurs in the pool a fee is taken (royalty). Half of fee is added back to the pool and the other half is distributed to holders of the LP NFTs.\n\nIn addition all external royalties from platforms like OpenSea are deposited back into the pool. \n\nAt it's core this is an automated market maker for individual NFT projects. ",
+  "erc721_symbol": "LP"
 }

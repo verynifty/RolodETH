@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "SLP",
+  "erc20_decimals": 18,
+  "name": "SushiSwap LP Token"
+}

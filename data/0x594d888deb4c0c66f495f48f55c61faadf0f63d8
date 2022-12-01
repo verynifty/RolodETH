@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tower of the Occult",
   "imageUrl": "https://i.seadn.io/gae/OwHIsA-KOP4nDDbR2t_3CfQyE1CH_tfJfZ4V6uCtfrA_rSQX-ZM_yCRjryUux8_dcnG6zVjLr7oZcikwmDW-_z0UrqsS8otc4RqD?w=500&auto=format",
   "externalUrl": "https://landoftheoccult.xyz/",
   "discordUrl": "https://discord.gg/jgsDBMxDZx",
   "twitterUsername": "OccultTower",
-  "description": "Almost 1300 burned, almost 1000 staked, and less than 300 listed for sale.\nhttps://discord.com/invite/toweroftheoccult (Community)\nhttps://twitter.com/OccultTower (Official)"
+  "description": "Almost 1300 burned, almost 1000 staked, and less than 300 listed for sale.\nhttps://discord.com/invite/toweroftheoccult (Community)\nhttps://twitter.com/OccultTower (Official)",
+  "erc721_symbol": "Occult"
 }

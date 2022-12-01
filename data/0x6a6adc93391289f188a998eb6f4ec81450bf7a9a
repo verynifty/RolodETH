@@ -2,5 +2,7 @@
   "tags": [
     "contract",
     "erc721"
-  ]
+  ],
+  "erc721_symbol": "hofa_dao",
+  "name": "hofa_dao"
 }

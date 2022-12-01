@@ -4,5 +4,6 @@
     "loot-minter",
     "goblin-town-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "hot.maffs.eth"
 }

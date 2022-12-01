@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "ZSC OG BETA",
   "imageUrl": "https://i.seadn.io/gcs/files/3a492aac63e7b49c899f1e032ed768f8.png?w=500&auto=format",
   "externalUrl": "http://zombiesocialclub.com",
   "discordUrl": "https://discord.gg/zombiesocialclub",
   "twitterUsername": "zscmetaverz",
-  "description": "The Zombie Social Club, or more commonly referred to as the ZSC is a UK led, Metaverse focused project that provides music, fashion, art, dance artists with a technology enabled metaverse to perform and grow their virtual and real world brand. Our main goal is to create an open world entertainment platform that'll provide numerous wealth generating opportunities for holders, artists and content creators.Every Zombie is made up from over 100+ traits giving a completely unique look that can be aesthetically upgraded in the metaverz through our store. In our official metaverz launch, you'll be able to select a ZSC NFT that you own to play, explore and attend various events, games, giveaways, festivals, AMA's and so much more.www.zscmetaverz.io"
+  "description": "The Zombie Social Club, or more commonly referred to as the ZSC is a UK led, Metaverse focused project that provides music, fashion, art, dance artists with a technology enabled metaverse to perform and grow their virtual and real world brand. Our main goal is to create an open world entertainment platform that'll provide numerous wealth generating opportunities for holders, artists and content creators.Every Zombie is made up from over 100+ traits giving a completely unique look that can be aesthetically upgraded in the metaverz through our store. In our official metaverz launch, you'll be able to select a ZSC NFT that you own to play, explore and attend various events, games, giveaways, festivals, AMA's and so much more.www.zscmetaverz.io",
+  "proxy": "0x0f33f61ef663ddd7961046bfc00a325f1e0e0ca1"
 }

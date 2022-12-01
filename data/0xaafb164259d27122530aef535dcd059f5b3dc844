@@ -3,5 +3,6 @@
     "bayc-minter",
     "doodle-minter",
     "goblin-town-minter"
-  ]
+  ],
+  "ens": "diamondcruiser.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Eggi Nswap",
   "imageUrl": "https://i.seadn.io/gcs/files/4656ef3da5e7234df86139a2ea3e7b38.png?w=500&auto=format",
   "externalUrl": "https://www.nswap.com/launch/2070080",
   "discordUrl": "https://discord.gg/nswap",
   "twitterUsername": "Nswapcom",
-  "description": "The Egg is not just an ordinary Egg! Join Eggi NFT, and become the first of its prestigious elite club of owners.\n\nEggi is a collection of eggs growing in the beginning of metaverse - a generative collection of unlimited supply of Eggs that live on the Ethereum Blockchain.\n\nAre we just eggs? This Eggi can be anything. With each purchase of an Eggi, you receive a pass into the metaverse. There are still many surprises to be revealed, and the drop will come faster than you think...Will you be the lucky one?"
+  "description": "The Egg is not just an ordinary Egg! Join Eggi NFT, and become the first of its prestigious elite club of owners.\n\nEggi is a collection of eggs growing in the beginning of metaverse - a generative collection of unlimited supply of Eggs that live on the Ethereum Blockchain.\n\nAre we just eggs? This Eggi can be anything. With each purchase of an Eggi, you receive a pass into the metaverse. There are still many surprises to be revealed, and the drop will come faster than you think...Will you be the lucky one?",
+  "erc721_symbol": "Eggi"
 }

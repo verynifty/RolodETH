@@ -21,5 +21,6 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-interfacedao"
-  ]
+  ],
+  "ens": "0x00eth.eth"
 }

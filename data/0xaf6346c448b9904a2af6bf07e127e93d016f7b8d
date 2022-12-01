@@ -3,5 +3,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-apecoin",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "42811.eth"
 }

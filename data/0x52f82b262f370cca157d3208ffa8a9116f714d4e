@@ -4,5 +4,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "ryanwang.eth"
 }

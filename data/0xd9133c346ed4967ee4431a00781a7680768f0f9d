@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Karmz",
   "imageUrl": "https://i.seadn.io/gcs/files/f1bb700f2214e32570ac74cef342ff46.png?w=500&auto=format",
   "externalUrl": "https://karmeleons.xyz",
   "discordUrl": "https://discord.gg/4E6P44KGgZ",
   "twitterUsername": "KarmeleonsNFT",
-  "description": "Every Karmeleon unlocks a free Karmz digital collectible. Get yours at https://karmeleons.xyz and join the krew!\n\nThe Karmeleons thought they were the only lifeforms left on Earth, until one day they sensed the same Karmic energy that allowed them to thrive come from an island off the coast of Karma City. There they discovered the Karmz! A similar but less refined species than themselves, they decided to begin mentoring the Karmz and working together to restore the planet."
+  "description": "Every Karmeleon unlocks a free Karmz digital collectible. Get yours at https://karmeleons.xyz and join the krew!\n\nThe Karmeleons thought they were the only lifeforms left on Earth, until one day they sensed the same Karmic energy that allowed them to thrive come from an island off the coast of Karma City. There they discovered the Karmz! A similar but less refined species than themselves, they decided to begin mentoring the Karmz and working together to restore the planet.",
+  "erc721_symbol": "KRMZ"
 }

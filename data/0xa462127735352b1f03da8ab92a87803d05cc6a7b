@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Radioactive Balut",
   "imageUrl": "https://i.seadn.io/gcs/files/c11e6e51b03238880b52344cf7f84b8c.png?w=500&auto=format",
   "externalUrl": "https://www.aswangtribe.com/",
   "discordUrl": "https://discord.gg/aswangtribe",
   "twitterUsername": "AswangTribe",
-  "description": "An Aswang Tribe relic.\n\nCAUTION: Do not eat!"
+  "description": "An Aswang Tribe relic.\n\nCAUTION: Do not eat!",
+  "erc721_symbol": "ASWANG"
 }

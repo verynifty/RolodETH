@@ -1,6 +1,10 @@
 {
   "tags": [
-    "vaults"
+    "vaults",
+    "contract",
+    "erc20"
   ],
-  "name": "yearn: yDAI Vault"
+  "name": "yearn: yDAI Vault",
+  "erc20_symbol": "yDAI",
+  "erc20_decimals": 18
 }
