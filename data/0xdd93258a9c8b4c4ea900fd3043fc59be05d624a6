@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metamaticians",
   "imageUrl": "https://i.seadn.io/gae/Eh54QIWPLXi2sacdTK0iU7WqNinye2Ll8r5YkGHNssa70sc7dMJW7qGs9Ju6IeYhrd-HzxTfRwwSKmfe_tJkBd5a4Iyf4C9E3y17IA?w=500&auto=format",
   "externalUrl": "https://defrag.fi/",
   "discordUrl": "https://discord.gg/defrag",
   "twitterUsername": "defragfinance",
-  "description": "Metamaticians are randomly generated and have 100% on-chain art and metadata. All of the minting proceeds are deposited into the DeFrag DAO Treasury and will be used to jumpstart the first NFT underwriting pool. Each Metamatician NFT has an attached ETH staked value in this underwriting pool which will accrue option premium fees in perpetuity. Learn more on our docs!"
+  "description": "Metamaticians are randomly generated and have 100% on-chain art and metadata. All of the minting proceeds are deposited into the DeFrag DAO Treasury and will be used to jumpstart the first NFT underwriting pool. Each Metamatician NFT has an attached ETH staked value in this underwriting pool which will accrue option premium fees in perpetuity. Learn more on our docs!",
+  "erc721_symbol": "METAMATH"
 }

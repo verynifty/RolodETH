@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Abominable Dragons",
   "imageUrl": "https://i.seadn.io/gcs/files/917440cffe8835af4ab7b6af4c77f16c.png?w=500&auto=format",
   "externalUrl": "http://www.mythofdragons.com",
   "twitterUsername": "Myth_of_Dragons",
-  "description": "One Hallowed Eve an army of hunters broke the long standing peace with dragonkind. With greed in their hearts they murdered and harvested these mythic creatures for their valuable resources. \n\nThe anguished spirits of the murdered dragons corrupted the eggs that they left behind. What hatched was no noble dragon, but an abomination.\n\nAbomination Dragons are a collection of 310 uniquely spooky dragon NFTs who's story will be told on http://mythofdragons.com. \n\nAbominable Dragons have gone through the purification process, and have resulted in the Dark Dragons below."
+  "description": "One Hallowed Eve an army of hunters broke the long standing peace with dragonkind. With greed in their hearts they murdered and harvested these mythic creatures for their valuable resources. \n\nThe anguished spirits of the murdered dragons corrupted the eggs that they left behind. What hatched was no noble dragon, but an abomination.\n\nAbomination Dragons are a collection of 310 uniquely spooky dragon NFTs who's story will be told on http://mythofdragons.com. \n\nAbominable Dragons have gone through the purification process, and have resulted in the Dark Dragons below.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

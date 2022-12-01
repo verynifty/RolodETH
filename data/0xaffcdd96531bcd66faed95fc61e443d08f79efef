@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Perth Mint Gold Token",
   "erc20_symbol": "PMGT",

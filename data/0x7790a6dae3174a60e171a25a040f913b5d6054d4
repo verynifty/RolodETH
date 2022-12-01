@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "MEDIC: Deployer"
+  "name": "MEDIC: Deployer",
+  "ens": "blockdaon.eth"
 }

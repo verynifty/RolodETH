@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Guest Artist Open Edition by Mad Rabbits Riot Club",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62cb1dd0327e6ecbd352d50463aa62c0d40fcf61639c9a51ad8598b6dc0d86b8e2f35857573768b602269432367ea4861d1c9aa877276c5c0caeb3a0388cf769e3b446ba2ffc387320cdfc56357752340811177cfe7e7f135991260756939af6cbd59d7652041c1693e99257574637902c"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62cb1dd0327e6ecbd352d50463aa62c0d40fcf61639c9a51ad8598b6dc0d86b8e2f35857573768b602269432367ea4861d1c9aa877276c5c0caeb3a0388cf769e3b446ba2ffc387320cdfc56357752340811177cfe7e7f135991260756939af6cbd59d7652041c1693e99257574637902c",
+  "erc721_symbol": "GUESTARTISTOPENEDITIONBYMADRABBITSRIOTCLUB"
 }

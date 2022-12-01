@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "001828.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "revain"
+    "revain",
+    "contract"
   ],
   "name": "Revain",
   "erc20_symbol": "REV",

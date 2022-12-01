@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Season 1 Breeding",
   "imageUrl": "https://i.seadn.io/gcs/files/3a84a7043247580bd11dd153efa40ada.png?w=500&auto=format",
   "externalUrl": "http://Www.mythofdragons.com",
   "twitterUsername": "Myth_of_Dragons",
-  "description": "This collection holds the Dragon Spawn from the first Myth of Dragons breeding season. These Dragons will all come with their own traits which can be tracked. The amount of Dragon Babies in this collection has been limited to 100."
+  "description": "This collection holds the Dragon Spawn from the first Myth of Dragons breeding season. These Dragons will all come with their own traits which can be tracked. The amount of Dragon Babies in this collection has been limited to 100.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

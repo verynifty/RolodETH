@@ -19,5 +19,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-gojjs",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "silverflow.eth"
 }

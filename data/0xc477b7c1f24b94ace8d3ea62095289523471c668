@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "doodle-minter"
-  ]
+  ],
+  "ens": "sucemabite.eth"
 }

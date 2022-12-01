@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Monaco Planet Yacht",
   "imageUrl": "https://i.seadn.io/gae/vJk7zt1ljD3bxJgwq4GLhuJmb9ewauGna8hC6NGJATzIE9aTtdYV57j7hgOV88F0KP1Dtuw8Z3ynFcldJOsr5gmFeRp7ja9ez3UJpw?w=500&auto=format",
   "externalUrl": "https://monaconft.io/",
   "discordUrl": "https://discord.gg/monacoplanet",
   "twitterUsername": "MonacoPlanet",
-  "description": "Monaco Planet, the next-generation SocialFi platform, issues 10,000 Yacht NFTs at Monaconft.io.  \n\nUnlike other avatar-based NFTs, Yacht NFTs are the first NFTs supported and empowered by a crypto native platform.  \n\nFor genesis users of Monaco SocialFi platform, NFT holders will be the initial beneficiaries of 'content-mining'. \n\nMonaco Planet functions as a true DAO, governed and owned by the community. \n \nLife is full of challenges but, for the citizens of the Planet Monaco metaverse, life is like a dream with your own private yacht to sail off into the sunset."
+  "description": "Monaco Planet, the next-generation SocialFi platform, issues 10,000 Yacht NFTs at Monaconft.io.  \n\nUnlike other avatar-based NFTs, Yacht NFTs are the first NFTs supported and empowered by a crypto native platform.  \n\nFor genesis users of Monaco SocialFi platform, NFT holders will be the initial beneficiaries of 'content-mining'. \n\nMonaco Planet functions as a true DAO, governed and owned by the community. \n \nLife is full of challenges but, for the citizens of the Planet Monaco metaverse, life is like a dream with your own private yacht to sail off into the sunset.",
+  "erc721_symbol": "MONA"
 }

@@ -7,5 +7,6 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "tshwangq.eth"
 }

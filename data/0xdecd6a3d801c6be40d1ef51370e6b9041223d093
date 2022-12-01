@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Autistic Adventures",
   "imageUrl": "https://i.seadn.io/gae/DXe64raKpYvRtCNU3uKhhtD9fKPLUPub7q1MwOvWpAdfRBwb44qD3Q7qZAOY5kZq1POwX4V8O9ZQFeKPxj1bxXyc0lCJQ87UCDr7VQ?w=500&auto=format",
   "externalUrl": "http://thebeecollab.com",
   "discordUrl": "https://discord.gg/thebeecollab",
   "twitterUsername": "TheBeeCollab",
-  "description": "**MINTING** https://thebeecollab.io\n\n\"We aren't anti-social... We're anti-low vibing energy, anti-fakeness, and anti-bullshit.\"\n\nWe are The Bee Collab and we are building an IRL Bee Apiary Live on stream, so that you can bee right there with us behind the scenes!\n\n1/3rd of the Bees worldwide are dying every year and we need more people involved to help make a difference, so that's why we are Saving the Bees with NFTs!\n\nWhen you mint from our NFT collection, we'll be going on an Adventure together to build a real world business, producing honey and renting out Beehives to Farmlands. The business will add liquidity to our $TWEFamily Token, which is how we'll pay out the royalties per Beehive!\n\nWhen you mint 5 of our NFTs, you'll have the option to put your Artwork on one of our IRL Beehives!"
+  "description": "**MINTING** https://thebeecollab.io\n\n\"We aren't anti-social... We're anti-low vibing energy, anti-fakeness, and anti-bullshit.\"\n\nWe are The Bee Collab and we are building an IRL Bee Apiary Live on stream, so that you can bee right there with us behind the scenes!\n\n1/3rd of the Bees worldwide are dying every year and we need more people involved to help make a difference, so that's why we are Saving the Bees with NFTs!\n\nWhen you mint from our NFT collection, we'll be going on an Adventure together to build a real world business, producing honey and renting out Beehives to Farmlands. The business will add liquidity to our $TWEFamily Token, which is how we'll pay out the royalties per Beehive!\n\nWhen you mint 5 of our NFTs, you'll have the option to put your Artwork on one of our IRL Beehives!",
+  "erc721_symbol": "AA"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "ethhome.eth"
 }

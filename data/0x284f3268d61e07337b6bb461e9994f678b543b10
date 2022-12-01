@@ -7,5 +7,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "20229413.eth"
 }

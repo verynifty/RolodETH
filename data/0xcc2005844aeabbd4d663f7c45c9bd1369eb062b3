@@ -16,5 +16,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "300120.eth"
 }

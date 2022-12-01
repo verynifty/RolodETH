@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaSniper",
   "imageUrl": "https://i.seadn.io/gae/S9kNnQbxBhX_3_fkS7CLQn8cCGIGb9gzW3hQzBXxqwIpi0cNpYla1-wR8iBAMVW_e99ap5rblDH4e_I97R59lEbB1WJhwVgXwqVBAys?w=500&auto=format",
   "externalUrl": "https://metasniper.app/",
   "discordUrl": "https://discord.gg/metasniper",
   "twitterUsername": "Metasniper_app",
-  "description": "Your all in one NFT toolbox helping you mint and snipe from the most desired collections. \nProviding the best automated ETH minting experience, an in-house rarity calculator, quick bulk listing bot, offer bot, whitelist toolbox, and more.\n\n__Supported Platforms:__ Windows, MacOS, and Linux\n\n__Renewal (A NFT Token is Required):__ 0.0888Ξ a month (30 days)\n\n**Disclaimer:** Refresh token metadata prior to purchase to ensure the expiration data is up-to-date!\n\nFind out more on our website: http://metasniper.app/\n\nDiscord: http://discord.gg/metasniper \n"
+  "description": "Your all in one NFT toolbox helping you mint and snipe from the most desired collections. \nProviding the best automated ETH minting experience, an in-house rarity calculator, quick bulk listing bot, offer bot, whitelist toolbox, and more.\n\n__Supported Platforms:__ Windows, MacOS, and Linux\n\n__Renewal (A NFT Token is Required):__ 0.0888Ξ a month (30 days)\n\n**Disclaimer:** Refresh token metadata prior to purchase to ensure the expiration data is up-to-date!\n\nFind out more on our website: http://metasniper.app/\n\nDiscord: http://discord.gg/metasniper \n",
+  "erc721_symbol": "MS"
 }

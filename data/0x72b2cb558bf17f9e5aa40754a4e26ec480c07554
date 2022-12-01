@@ -9,5 +9,6 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "babacoin.eth"
 }

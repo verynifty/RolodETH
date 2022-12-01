@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PLAYER ONE (1P)-MetaOasis",
   "imageUrl": "https://i.seadn.io/gcs/files/0ed7fdc3f8af3e1e62bec59b8d9a2364.jpg?w=500&auto=format",
   "externalUrl": "https://1p.metaoasis.cc",
   "discordUrl": "https://discord.gg/invite/metaoasis",
-  "description": "    PLAYER ONE（1P) NFT is the first genesis avatar NFT project released by the     Web3.0 game platform MetaOasis. Each 1P (Player One) takes \" Struggle for 1 UP \" as a life belief. \n     The 1P NFT is a collection of 10,000 beings on the Ethereum, including refundable NFTs for official-sale and nonrefundable NFTs for token staking awards. \n    Refundable or NOT?  Check here : \nhttps://1p.metaoasis.cc/mint?isQueryContentShow=true  \n    Know more: \nhttps://linktr.ee/MetaOasis"
+  "description": "    PLAYER ONE（1P) NFT is the first genesis avatar NFT project released by the     Web3.0 game platform MetaOasis. Each 1P (Player One) takes \" Struggle for 1 UP \" as a life belief. \n     The 1P NFT is a collection of 10,000 beings on the Ethereum, including refundable NFTs for official-sale and nonrefundable NFTs for token staking awards. \n    Refundable or NOT?  Check here : \nhttps://1p.metaoasis.cc/mint?isQueryContentShow=true  \n    Know more: \nhttps://linktr.ee/MetaOasis",
+  "erc721_symbol": "1P"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Goat Soup by Andy Milonakis",
   "imageUrl": "https://i.seadn.io/gae/2WRX4MaqZK6ERYSz0GHHRoViHpD8YKTBXDH3aJWMUj65VwCXGmmkDui4_nqkbud1fw6pJ_4Rxn1fEWGtwUB9_Nz8MH75Y_haBZlpxA?w=500&auto=format",
   "externalUrl": "http://goatsoup.com/",
   "discordUrl": "https://discord.gg/goatsoup",
   "twitterUsername": "goatsoupnft",
-  "description": "Goat Soup is a fully on-chain Genesis project by Andy Milonakis. The utility will Include access to Goat Soup NFT World, there will be mini games that let you earn WRLD. Free mints and airdrops, first one being the Goat Soup NFT song. IRL parties and events. WWW3 Integration...as more metaverse options present themselves, we will integrate with the best and most promising. Also Sandbox land purchased and test 3d voxels have been developed. \nCheck out [Discord](https://discord.gg/goatsoup)\nOr hit Andy up on [Twitter](https://twitter.com/andymilonakis)"
+  "description": "Goat Soup is a fully on-chain Genesis project by Andy Milonakis. The utility will Include access to Goat Soup NFT World, there will be mini games that let you earn WRLD. Free mints and airdrops, first one being the Goat Soup NFT song. IRL parties and events. WWW3 Integration...as more metaverse options present themselves, we will integrate with the best and most promising. Also Sandbox land purchased and test 3d voxels have been developed. \nCheck out [Discord](https://discord.gg/goatsoup)\nOr hit Andy up on [Twitter](https://twitter.com/andymilonakis)",
+  "erc721_symbol": "GSOUP"
 }

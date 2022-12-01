@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Zoracles: ZORA Token",
   "erc20_symbol": "ZORA",
   "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/13255/thumb/zora.png?1606747018"
+  "imageURL": "https://assets.coingecko.com/coins/images/13255/thumb/zora.png?1606747018",
+  "proxy": "0x2dcdc6b5a057130e1c68463eeb3dd8a586bcae77"
 }

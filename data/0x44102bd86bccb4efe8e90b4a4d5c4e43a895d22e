@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MutantAI",
   "imageUrl": "https://i.seadn.io/gcs/files/66f40c32c48b8a358c98cd4352983418.png?w=500&auto=format",
   "externalUrl": "http://cosmiccollective.xyz",
   "discordUrl": "https://discord.gg/cosmiccollective",
   "twitterUsername": "MutantAInft",
-  "description": "10,097 Ø₮ⱧɆⱤ₩ØⱤⱠĐⱠɎ ₥Ʉ₮₳₦₮₴. \n₩Ɇ ₳ⱤɆ ⱧɆⱤɆ. ⱤɆ₴ł₴₮₳₦₵Ɇ ł₴ ₣Ʉ₮łⱠɆ.\n\n*Supply reflects MutantAIs that have been burned."
+  "description": "10,097 Ø₮ⱧɆⱤ₩ØⱤⱠĐⱠɎ ₥Ʉ₮₳₦₮₴. \n₩Ɇ ₳ⱤɆ ⱧɆⱤɆ. ⱤɆ₴ł₴₮₳₦₵Ɇ ł₴ ₣Ʉ₮łⱠɆ.\n\n*Supply reflects MutantAIs that have been burned.",
+  "erc721_symbol": "MAIYC"
 }
