@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "old-contract",
-    "pundi-x"
+    "pundi-x",
+    "contract"
   ],
   "name": "PundiXToken",
   "erc20_symbol": "NPXS",

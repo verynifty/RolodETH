@@ -1,7 +1,8 @@
 {
   "tags": [
     "old-contract",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Merculet",
   "erc20_symbol": "MVP",

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Esports com",
   "erc20_symbol": "ERT",

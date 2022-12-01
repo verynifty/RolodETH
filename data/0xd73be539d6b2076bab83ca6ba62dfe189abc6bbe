@@ -1,7 +1,10 @@
 {
   "tags": [
     "blockchain-cuties",
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc721"
   ],
-  "name": "Blockchain Cuties: Old BC Token"
+  "name": "Blockchain Cuties: Old BC Token",
+  "erc721_symbol": "BC"
 }

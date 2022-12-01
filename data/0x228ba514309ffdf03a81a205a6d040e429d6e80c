@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "GlobalSocialChain",
   "erc20_symbol": "GSC",

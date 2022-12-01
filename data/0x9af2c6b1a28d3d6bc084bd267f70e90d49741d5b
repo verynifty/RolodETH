@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "AXP",
   "erc20_symbol": "AXP",

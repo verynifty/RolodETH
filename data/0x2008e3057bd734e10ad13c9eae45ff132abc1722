@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "old-contract"
+    "old-contract",
+    "contract"
   ],
   "name": "Zebi: Old Token",
   "erc20_symbol": "ZCO",

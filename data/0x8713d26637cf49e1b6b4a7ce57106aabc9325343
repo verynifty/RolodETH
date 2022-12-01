@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "ContentNeutralityNetwork",
   "erc20_symbol": "CNN",

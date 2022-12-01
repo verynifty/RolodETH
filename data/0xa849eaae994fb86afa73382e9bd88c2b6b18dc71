@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "MassVehicleLedgerToken",
   "erc20_symbol": "MVL",

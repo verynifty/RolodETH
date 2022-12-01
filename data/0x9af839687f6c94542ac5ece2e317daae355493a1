@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "hydro-protocol"
+    "hydro-protocol",
+    "contract"
   ],
   "name": "HydroProtocol",
   "erc20_symbol": "HOTHydro",

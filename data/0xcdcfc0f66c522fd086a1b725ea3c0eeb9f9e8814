@@ -2,7 +2,8 @@
   "tags": [
     "idex",
     "old-contract",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "AuroraDAO",
   "erc20_symbol": "AURA",

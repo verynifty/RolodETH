@@ -1,7 +1,8 @@
 {
   "tags": [
     "exchange",
-    "poloniex"
+    "poloniex",
+    "contract"
   ],
   "name": "Poloniex 2"
 }

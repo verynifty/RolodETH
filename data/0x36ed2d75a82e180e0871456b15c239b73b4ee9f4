@@ -6,5 +6,6 @@
     "meebit-minter",
     "cryptoadz-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "iamdikasso.eth"
 }
