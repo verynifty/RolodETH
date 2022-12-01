@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "TaleOf",
+  "erc20_decimals": 18,
+  "name": "Tale Of Satoshi"
+}

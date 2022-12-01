@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chum Chums NFT",
   "imageUrl": "https://i.seadn.io/gae/itxl9IQpTPNQLas3Heuzz30xiiUXfFpPj-znZVe6jPaNP-UZ94lAkt1OvQM4mp2gLv7Wgk5irzgqfYcz1nSzVde1zDqfoly492e2?w=500&auto=format",
   "externalUrl": "http://chumchums.io",
   "twitterUsername": "chumchumsnft",
-  "description": "[Special Editions](https://opensea.io/collection/chumchums-special)\n\nA collection of 5,700 cute NFTs bringing ‘chums’ together, putting a smile on everyone’s faces & evoking a sense of nostalgia through fun and friendly artwork."
+  "description": "[Special Editions](https://opensea.io/collection/chumchums-special)\n\nA collection of 5,700 cute NFTs bringing ‘chums’ together, putting a smile on everyone’s faces & evoking a sense of nostalgia through fun and friendly artwork.",
+  "erc721_symbol": "CHUMCHUMS"
 }

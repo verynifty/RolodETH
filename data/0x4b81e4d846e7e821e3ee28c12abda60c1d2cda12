@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Lost Bear by Fluff",
   "imageUrl": "https://i.seadn.io/gcs/files/6d39cb5dcd111c2e9978f95082f2408b.png?w=500&auto=format",
   "externalUrl": "https://fluffnft.com/",
   "discordUrl": "https://discord.gg/fluffnfts",
   "twitterUsername": "LostFluf",
-  "description": "These Bears are no longer lost, because they found you"
+  "description": "These Bears are no longer lost, because they found you",
+  "proxy": "0x1deea56b7673760649e42c20b3f6c19dc0800c80"
 }

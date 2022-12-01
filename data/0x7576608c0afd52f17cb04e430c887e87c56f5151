@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "contract",
+    "erc721"
+  ],
+  "erc721_symbol": "tetete",
+  "name": "test deploy for live network"
+}

@@ -15,5 +15,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "elwavo.eth"
 }

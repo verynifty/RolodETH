@@ -8,5 +8,6 @@
     "snapshot-voter-morpho",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "proumb.eth"
 }

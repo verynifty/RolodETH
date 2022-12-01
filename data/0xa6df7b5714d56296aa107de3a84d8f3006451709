@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "The Quadratic Necromancer",
   "imageUrl": "https://i.seadn.io/gae/WxbF5gipPzWw4rCtR18VG60MMSlntXdQahd0ahkMegmkU6cU9UmJMK-49RBLHIs7jnEzJaERRE6ZkozcBiD_OXtQDmxYjzWlOH0AmA?w=500&auto=format",
   "externalUrl": "https://www.protocolgemini.com/",
   "discordUrl": "https://discord.gg/UCZWDEUzBZ",
   "twitterUsername": "ProtocolGemini",
-  "description": "TQN is a revolutionary Augmented Reality NFT 2.0 Puzzle Game being developed by Protocol: Gemini\r\n\r\nThis cross-platform \"game\"  will blur the lines of the Metaverse with a suite of augmented reality tech.\r\n\r\nADDITIONAL VIP Benefits:\r\n\r\n-Access to the VIP channel\r\n-Access to the Beta of the mobile app \r\n-First Season of the TQN AR game\r\n-1 free Metagate mint per Key owned\r\n-And a free PFP when we do those. There is a preview of what they will look at in either announcements or the VIP channel, I’ll dig it up.\r\n- and any holder is prequalified for the presale for the tokens as long as they meet KYC standards."
+  "description": "TQN is a revolutionary Augmented Reality NFT 2.0 Puzzle Game being developed by Protocol: Gemini\r\n\r\nThis cross-platform \"game\"  will blur the lines of the Metaverse with a suite of augmented reality tech.\r\n\r\nADDITIONAL VIP Benefits:\r\n\r\n-Access to the VIP channel\r\n-Access to the Beta of the mobile app \r\n-First Season of the TQN AR game\r\n-1 free Metagate mint per Key owned\r\n-And a free PFP when we do those. There is a preview of what they will look at in either announcements or the VIP channel, I’ll dig it up.\r\n- and any holder is prequalified for the presale for the tokens as long as they meet KYC standards.",
+  "erc721_symbol": "TQN"
 }

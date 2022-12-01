@@ -2,10 +2,13 @@
   "tags": [
     "erc20",
     "aave-v2",
-    "aave"
+    "aave",
+    "contract",
+    "proxy"
   ],
   "name": "Aave: aWBTC Token V2",
   "erc20_symbol": "AWBTC",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1615528721"
+  "imageURL": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1615528721",
+  "proxy": "0xc2fcab14ec1f2dfa82a23c639c4770345085a50f"
 }

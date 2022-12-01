@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "ThunderCore",
   "erc20_symbol": "TT",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4375/thumb/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349"
+  "imageURL": "https://assets.coingecko.com/coins/images/4375/thumb/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349",
+  "proxy": "0xfd7ba6f4abedef54932dcafe245de5844bf35967"
 }

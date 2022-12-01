@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Quest (Sword & Shield)",
   "imageUrl": "https://i.seadn.io/gcs/files/bdc5f78441c8aec8764d1a4d72c38318.png?w=500&auto=format",
   "externalUrl": "https://quest.musedao.io",
   "discordUrl": "https://discord.gg/kfByfux",
   "twitterUsername": "NiftyMuseum",
-  "description": "Evolution based NFT Game experiment by the MUSE DAO, follow the quests and find hidden treasures.\nhttps://quest.musedao.io"
+  "description": "Evolution based NFT Game experiment by the MUSE DAO, follow the quests and find hidden treasures.\nhttps://quest.musedao.io",
+  "erc721_symbol": "QUEST"
 }

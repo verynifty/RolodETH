@@ -12,5 +12,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
     "snapshot-voter-balancer"
-  ]
+  ],
+  "ens": "gnizhaba.eth"
 }

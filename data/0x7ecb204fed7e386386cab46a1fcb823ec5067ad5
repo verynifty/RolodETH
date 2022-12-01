@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "FULL SEND METACARD NFT",
   "imageUrl": "https://i.seadn.io/gae/g0fd7h85fN47tCh78-6m9Qvq70glOhUkFbpzBu2zJsqSBeHUajCHclmgnkO6nXd0JS5vghkXtTfuSSbVQY5X7vHsic6p1SWQv6XBeA?w=500&auto=format",
   "externalUrl": "http://metacard.io",
   "discordUrl": "https://discord.gg/fullsendnft",
   "twitterUsername": "metacard",
-  "description": "Built on the Ethereum Blockchain with a limited supply of 10,000 NFTs, the FULL SEND METACARD will give you access to the FULL SEND & NELK Empire."
+  "description": "Built on the Ethereum Blockchain with a limited supply of 10,000 NFTs, the FULL SEND METACARD will give you access to the FULL SEND & NELK Empire.",
+  "erc721_symbol": "FSMC"
 }

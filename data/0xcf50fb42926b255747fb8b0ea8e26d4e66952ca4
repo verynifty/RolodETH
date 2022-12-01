@@ -4,5 +4,6 @@
     "hashmask-minter",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov"
-  ]
+  ],
+  "ens": "malie.eth"
 }

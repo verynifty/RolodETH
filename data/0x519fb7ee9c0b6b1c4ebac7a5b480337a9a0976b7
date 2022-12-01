@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bullieverse - Barbearians",
   "imageUrl": "https://i.seadn.io/gcs/files/c15b5027af892d38a5180ea79f46afbe.png?w=500&auto=format",
   "externalUrl": "https://bullieverse.com/",
-  "twitterUsername": "Bullieverse"
+  "twitterUsername": "Bullieverse",
+  "erc721_symbol": "BEAR"
 }

@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "B3L | Bridge 3 Labs",
   "imageUrl": "https://i.seadn.io/gcs/files/ad292bed64f82b7446baaf12c796c839.gif?w=500&auto=format",

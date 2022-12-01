@@ -6,5 +6,6 @@
     "coolcat-minter",
     "wow-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "theschiller.eth"
 }

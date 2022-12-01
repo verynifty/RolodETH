@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Torum: XTM Token",
   "erc20_symbol": "XTM",

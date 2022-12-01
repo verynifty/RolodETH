@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "AlphaDogs",
   "imageUrl": "https://i.seadn.io/gcs/files/4ef4a60496c335d66eba069423c0af90.png?w=500&auto=format",
   "externalUrl": "https://alphadogsnft.io/",
   "discordUrl": "https://discord.gg/alphadogsnft",
   "twitterUsername": "AlphaDogsNFT",
-  "description": "Real Owner Count: 1,165. 72% of Supply Staked (2,914)as of August 22\n\nCC0 Genesis Collection with Staking, Tokens and Genetic Breeding.\n"
+  "description": "Real Owner Count: 1,165. 72% of Supply Staked (2,914)as of August 22\n\nCC0 Genesis Collection with Staking, Tokens and Genetic Breeding.\n",
+  "erc721_symbol": "AD"
 }

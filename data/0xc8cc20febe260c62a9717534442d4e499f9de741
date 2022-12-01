@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Psychedelics Anonymous Component 3",
   "imageUrl": "https://i.seadn.io/gae/LZ1bjbdrHYI94v8lBP8vmocuOzl8YbBRXSZBogqHZAsPwCvL6BnxHLU42MwSHD5hWzF8hA4jP7v5NCPhd5y9NWJ_WcUhQaHiRDNjSQs?w=500&auto=format",
   "twitterUsername": "psychedelic_nft",
-  "description": "COMPONENT #3 IS THE THIRD COMPONENT REQUIRED TO PARTICIPATE IN THE PSYCHEDELICS ANONYMOUS MINI GAME EXPERIENCE.\n\nRewards include physical items, cryptocurrency, limited run merchandise, limited run wearables and more.\n\nIt includes:\n\n1 x required mini game access component.\n\nNOTE: The Component has a burning mechanism built into the contract"
+  "description": "COMPONENT #3 IS THE THIRD COMPONENT REQUIRED TO PARTICIPATE IN THE PSYCHEDELICS ANONYMOUS MINI GAME EXPERIENCE.\n\nRewards include physical items, cryptocurrency, limited run merchandise, limited run wearables and more.\n\nIt includes:\n\n1 x required mini game access component.\n\nNOTE: The Component has a burning mechanism built into the contract",
+  "erc721_symbol": "Component 3"
 }

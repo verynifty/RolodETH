@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Brkfst World",
   "imageUrl": "https://i.seadn.io/gae/Gd7qW93HN0cG6JzIXqb1tvct4dZLrFIy3HQNmY0ZhtwZfvIhfUN78R0Y6FT8xJXKsxTEyqO06WQU3KDCiH1TyF4bUpdpOkS7yskI_A?w=500&auto=format",
   "externalUrl": "https://brkfst.world",
   "discordUrl": "https://discord.gg/JTtQQu5QX8",
   "twitterUsername": "brkfstworldnft",
-  "description": "Brkfst World is a collection of 6969 very rare and carefully crafted brkfstsndwchs, served up by a few chefs in The Diner on the corner of a busy intersection in the metaverse. Grab a Brkfst Sndwch, pour some coffee, and share a !gm."
+  "description": "Brkfst World is a collection of 6969 very rare and carefully crafted brkfstsndwchs, served up by a few chefs in The Diner on the corner of a busy intersection in the metaverse. Grab a Brkfst Sndwch, pour some coffee, and share a !gm.",
+  "erc721_symbol": "BRKFST"
 }
