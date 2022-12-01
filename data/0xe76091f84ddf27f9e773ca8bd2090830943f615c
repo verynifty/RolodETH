@@ -8,5 +8,6 @@
     "art-goblers-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "laur.eth"
 }

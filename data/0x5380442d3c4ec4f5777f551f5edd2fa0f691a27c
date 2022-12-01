@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "UkraineDAO Flag NFT",
   "erc20_symbol": "LOVE",

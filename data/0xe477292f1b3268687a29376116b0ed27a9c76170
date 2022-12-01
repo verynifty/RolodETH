@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ico-wallets"
+    "ico-wallets",
+    "contract"
   ],
   "name": "HeroCoin",
   "erc20_symbol": "PLAY",

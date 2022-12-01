@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Merge AI",
   "imageUrl": "https://i.seadn.io/gcs/files/eb0e126335413bb888207b8812f55893.png?w=500&auto=format",
-  "description": "The Merge AI Art Gallery is a celebration of the upcoming Merge event. 4891 AI generated art pieces to represent the ETH all time high.\nFirst 896 free to represent the 2022 bottom.\nThe Art Gallery of the future."
+  "description": "The Merge AI Art Gallery is a celebration of the upcoming Merge event. 4891 AI generated art pieces to represent the ETH all time high.\nFirst 896 free to represent the 2022 bottom.\nThe Art Gallery of the future.",
+  "erc721_symbol": "MAI"
 }

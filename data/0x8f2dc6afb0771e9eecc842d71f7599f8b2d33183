@@ -4,5 +4,6 @@
     "azuki-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "thegodfarma.eth"
 }

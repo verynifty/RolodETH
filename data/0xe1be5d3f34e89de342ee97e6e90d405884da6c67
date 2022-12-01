@@ -1,7 +1,11 @@
 {
   "tags": [
     "old-contract",
-    "tron"
+    "tron",
+    "contract",
+    "erc20"
   ],
-  "name": "TRON: Old TRX Token 2"
+  "name": "TRON: Old TRX Token 2",
+  "erc20_symbol": "TRX",
+  "erc20_decimals": 6
 }

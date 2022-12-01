@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ETree",
+  "erc20_decimals": 18,
+  "name": "Ethereum Tree"
+}

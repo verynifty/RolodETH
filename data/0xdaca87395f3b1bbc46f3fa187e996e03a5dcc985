@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mandala Tokens",
   "imageUrl": "https://i.seadn.io/gae/bQLVPgv7HG-oIuu-vgQUlLNMffqG-0xefWZJ6tBMH8GB3D1BnQA78K7VpETLPbyfnZRi9ez-hUluBhsArJsjkU5e5dwZ1o1o39tCQA?w=500&auto=format",
   "externalUrl": "https://mandalas.eth.link",
   "twitterUsername": "wighawag",
-  "description": "There are millions of millions ... of Mandalas, all UNIQUE and fully generated on-chain. Pick the one you like :)"
+  "description": "There are millions of millions ... of Mandalas, all UNIQUE and fully generated on-chain. Pick the one you like :)",
+  "erc721_symbol": "MANDALA"
 }

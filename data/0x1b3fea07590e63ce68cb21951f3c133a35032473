@@ -4,5 +4,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "FOMOTown: Deployer"
+  "name": "FOMOTown: Deployer",
+  "ens": "whalegoddess.eth"
 }
