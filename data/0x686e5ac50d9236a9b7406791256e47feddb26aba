@@ -1,6 +1,7 @@
 {
   "tags": [
-    "metronome"
+    "metronome",
+    "contract"
   ],
   "name": "Metronome: Autonomous Converter"
 }

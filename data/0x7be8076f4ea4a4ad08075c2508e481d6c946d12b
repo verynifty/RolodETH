@@ -3,7 +3,8 @@
     "collectibles",
     "marketplace",
     "nft",
-    "opensea"
+    "opensea",
+    "contract"
   ],
   "name": "OpenSea: Wyvern Exchange v1"
 }

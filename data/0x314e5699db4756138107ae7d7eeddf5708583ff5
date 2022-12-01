@@ -4,5 +4,6 @@
     "hashmask-minter",
     "contract-deployer"
   ],
-  "name": "Chained Horse: Deployer"
+  "name": "Chained Horse: Deployer",
+  "ens": "moonie.eth"
 }

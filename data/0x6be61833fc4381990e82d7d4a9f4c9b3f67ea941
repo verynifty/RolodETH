@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "hotbit"
+    "hotbit",
+    "contract"
   ],
   "name": "Hotbit Token",
   "erc20_symbol": "HTB",

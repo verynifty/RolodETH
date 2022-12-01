@@ -1,7 +1,11 @@
 {
   "tags": [
     "coss-io",
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "COSS.io: Old Token 1"
+  "name": "COSS.io: Old Token 1",
+  "erc20_symbol": "COSS",
+  "erc20_decimals": 18
 }

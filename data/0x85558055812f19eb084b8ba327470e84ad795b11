@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Innovative Bioresearch: Old Token 1"
+  "name": "Innovative Bioresearch: Old Token 1",
+  "erc20_symbol": "INNBC",
+  "erc20_decimals": 8
 }

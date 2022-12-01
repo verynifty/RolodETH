@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "BeeKan   Beenews",
   "erc20_symbol": "BKBT",

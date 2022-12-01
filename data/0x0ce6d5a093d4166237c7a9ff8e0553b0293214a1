@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "website-down"
+    "website-down",
+    "contract"
   ],
   "name": "Decenturion Token",
   "erc20_symbol": "DCNT",

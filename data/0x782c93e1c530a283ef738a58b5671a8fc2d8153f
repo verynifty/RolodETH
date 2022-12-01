@@ -4,5 +4,6 @@
     "mayc-minter",
     "gitcoin-grantee",
     "snapshot-voter-coin"
-  ]
+  ],
+  "ens": "bitcoinlouie.eth"
 }

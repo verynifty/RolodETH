@@ -1,6 +1,7 @@
 {
   "tags": [
-    "augur"
+    "augur",
+    "contract"
   ],
   "name": "Augur: Delegator"
 }
