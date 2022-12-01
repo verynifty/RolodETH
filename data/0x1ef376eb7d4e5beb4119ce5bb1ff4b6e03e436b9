@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "elmacodelavega.eth"
 }

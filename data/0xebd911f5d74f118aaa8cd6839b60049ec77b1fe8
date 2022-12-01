@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nannda Spellbook of Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/a9f5d19d19fd48a79ab5b49200833cec.png?w=500&auto=format",
   "externalUrl": "https://www.nannda.xyz/",
   "twitterUsername": "nannda_xyz",
-  "description": "Holders of the Spellbook NFT can create a prophet NFT by summoning it.\nHolders of multiple prophet NFTs may also mint a new spellbook NFT by spending $NDT.\nSpellbook NFTs have multiple rarities, and the probability of a prophet NFT’s Class appearing varies depending on the rarity.\n\nWhite paper\nhttps://docs.nannda.xyz/nannda-white-paper/\n\nAbout Creator Fees\nhttps://docs.nannda.xyz/nannda-white-paper/nft/buying-and-selling-nft"
+  "description": "Holders of the Spellbook NFT can create a prophet NFT by summoning it.\nHolders of multiple prophet NFTs may also mint a new spellbook NFT by spending $NDT.\nSpellbook NFTs have multiple rarities, and the probability of a prophet NFT’s Class appearing varies depending on the rarity.\n\nWhite paper\nhttps://docs.nannda.xyz/nannda-white-paper/\n\nAbout Creator Fees\nhttps://docs.nannda.xyz/nannda-white-paper/nft/buying-and-selling-nft",
+  "erc721_symbol": "SPELLBOOK0"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "airdrop-distributor",
-    "bitpie"
+    "bitpie",
+    "contract"
   ],
   "name": "Bitpie: Batch Sender v2"
 }

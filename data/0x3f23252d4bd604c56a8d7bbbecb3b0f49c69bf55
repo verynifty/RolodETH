@@ -6,5 +6,6 @@
     "snapshot-voter-sushigov",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "chainxing.eth"
 }

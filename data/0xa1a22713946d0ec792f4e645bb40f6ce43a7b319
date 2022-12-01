@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "METASAMURAI: Deployer"
+  "name": "METASAMURAI: Deployer",
+  "ens": "1-block.eth"
 }

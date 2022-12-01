@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "aries77.eth"
 }

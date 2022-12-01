@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Wrapped XRP",
   "erc20_symbol": "WXRP",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664"
+  "imageURL": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664",
+  "proxy": "0x43c3983778ec88f0c383134e812c0c58a819add0"
 }

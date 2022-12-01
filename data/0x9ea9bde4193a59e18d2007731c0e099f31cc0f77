@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Internet Frens",
   "imageUrl": "https://i.seadn.io/gae/ixtiyzrNlrz52_OV7FnMQy1MpFuDQUeXao5tuAdvUF-mv0zi1ekEuaHUW-a-n8VUpCEQTZUihkPyVp5Pppj4NHQK0sUZ7OT2A6yWxNw?w=500&auto=format",
   "externalUrl": "https://www.internetfrens.io",
   "discordUrl": "https://discord.gg/T59RYHRYmb",
   "twitterUsername": "myinternetfrens",
-  "description": "10,000 frens united on the internet to defend against the dark web 3.0.\r\n\r\n\r\nWeb: https://internetfrens.io\r\n\r\nDiscord: https://discord.gg/WWMCjJrT3Y\r\n\r\n**Save a fren and join the community before the \"bad\" frens arrive!**"
+  "description": "10,000 frens united on the internet to defend against the dark web 3.0.\r\n\r\n\r\nWeb: https://internetfrens.io\r\n\r\nDiscord: https://discord.gg/WWMCjJrT3Y\r\n\r\n**Save a fren and join the community before the \"bad\" frens arrive!**",
+  "erc721_symbol": "IF"
 }

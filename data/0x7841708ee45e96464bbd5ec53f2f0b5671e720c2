@@ -4,5 +4,6 @@
     "sudoswap-user",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "bats314159.eth"
 }

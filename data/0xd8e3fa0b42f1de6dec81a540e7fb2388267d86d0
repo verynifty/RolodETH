@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Odd Dystrict - Zena",
   "imageUrl": "https://i.seadn.io/gcs/files/80089ab70f3133a10b17ce158cd80e59.png?w=500&auto=format",
   "externalUrl": "https://the-odd-dystrict.com/",
   "discordUrl": "https://discord.gg/theodddystrict",
   "twitterUsername": "TheOddDystrict",
-  "description": "**The Žena Dystrict is probably the most mysterious and confusing place of the known Oddyverse. It is a world of its own that shares the same space and runs parallel with another, it is often referred to more of an alternate dimension than a world.  It is a mystical place that a few beings have actually seen, but almost all have heard stories and myths about. Žena’s inherited a few powers from their ancestors but one they truly mastered was shapeshifting, though it is believed they stumbled onto this when entering into the Mirror Realm.**\n\n**[The Odd Dystrict Genesis Collection](https://opensea.io/collection/the-odd-dystrict-official)**"
+  "description": "**The Žena Dystrict is probably the most mysterious and confusing place of the known Oddyverse. It is a world of its own that shares the same space and runs parallel with another, it is often referred to more of an alternate dimension than a world.  It is a mystical place that a few beings have actually seen, but almost all have heard stories and myths about. Žena’s inherited a few powers from their ancestors but one they truly mastered was shapeshifting, though it is believed they stumbled onto this when entering into the Mirror Realm.**\n\n**[The Odd Dystrict Genesis Collection](https://opensea.io/collection/the-odd-dystrict-official)**",
+  "erc721_symbol": "TODPORTAL01"
 }

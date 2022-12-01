@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/369f2bdef7def8601cd1b44f2d2cbbcb.png?w=500&auto=format",
   "externalUrl": "https://app.aibirds.art/",
   "twitterUsername": "ComputerCrypto",
-  "description": "All 10,000 Moonbirds brought to life using AI.   Collectors will work to build the next AI collection together.   Voting for the next collection starts soon.  1 BIRD = 1 VOTE"
+  "description": "All 10,000 Moonbirds brought to life using AI.   Collectors will work to build the next AI collection together.   Voting for the next collection starts soon.  1 BIRD = 1 VOTE",
+  "erc721_symbol": "AIBIRDS"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BYOCraft",
   "imageUrl": "https://i.seadn.io/gae/loLaTLldopCn0--dDGt77s-5pRf9-s0LljgUgRszbCJpkW2ylJ4ZdElCkOxDWbMSylTPLttePH0Is3h7YbDbbnLCpFShkPeK1yGppw?w=500&auto=format",
   "externalUrl": "https://byopills.com",
   "discordUrl": "https://discord.gg/byopills",
-  "description": "BYOCraft by BYOPills."
+  "description": "BYOCraft by BYOPills.",
+  "erc721_symbol": "BYOCRAFT"
 }

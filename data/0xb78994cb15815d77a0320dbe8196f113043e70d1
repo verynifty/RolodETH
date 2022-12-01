@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "jofe.eth"
 }

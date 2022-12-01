@@ -3,5 +3,6 @@
     "moonbird-minter",
     "art-goblers-minter",
     "snapshot-voter-mintface"
-  ]
+  ],
+  "ens": "unclepennybags.eth"
 }

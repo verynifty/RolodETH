@@ -10,5 +10,6 @@
   "externalUrl": "http://mpunks.org",
   "discordUrl": "https://discord.gg/EVquaxg9WA",
   "twitterUsername": "mineable_nft",
-  "description": "a mineable NFT. randomly generated. difficulty increases as more get minted. stored 100% on-chain. not affiliated with larvalabs."
+  "description": "a mineable NFT. randomly generated. difficulty increases as more get minted. stored 100% on-chain. not affiliated with larvalabs.",
+  "erc721_symbol": "MPUNKS"
 }

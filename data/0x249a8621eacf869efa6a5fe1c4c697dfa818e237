@@ -6,5 +6,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "hoop123.eth"
 }

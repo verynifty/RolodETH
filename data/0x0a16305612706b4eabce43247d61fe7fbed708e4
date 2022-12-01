@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metropolis World Passport Official",
   "imageUrl": "https://i.seadn.io/gcs/files/fa8624c350bab4f07b79333c3b789201.png?w=500&auto=format",
   "externalUrl": "http://metropolisworld.io",
   "discordUrl": "https://discord.gg/metropolisworld",
   "twitterUsername": "metropolisworld",
-  "description": "https://metropolisworld.io\nEarth, Fire, Water, Air, Space, and Pixel! The Metropolis World Passport NFTs is your all-in-one Dynamic key to enter the ecosystem. Passports are the only way to enter property raffles, collect Metropolis World customizable avatars, access your gamer profile, earn soft clay currency, attend special events, level-up, and so much more!\nCity of Celeste Collection: https://opensea.io/collection/metropolis-world-city-of-celeste"
+  "description": "https://metropolisworld.io\nEarth, Fire, Water, Air, Space, and Pixel! The Metropolis World Passport NFTs is your all-in-one Dynamic key to enter the ecosystem. Passports are the only way to enter property raffles, collect Metropolis World customizable avatars, access your gamer profile, earn soft clay currency, attend special events, level-up, and so much more!\nCity of Celeste Collection: https://opensea.io/collection/metropolis-world-city-of-celeste",
+  "erc721_symbol": "METWA"
 }

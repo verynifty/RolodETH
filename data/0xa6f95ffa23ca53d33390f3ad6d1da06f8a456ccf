@@ -4,5 +4,6 @@
     "moonbird-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "boredrobot.eth"
 }

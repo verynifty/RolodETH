@@ -10,5 +10,6 @@
   "externalUrl": "http://traitsniper.com/",
   "discordUrl": "https://discord.gg/traitsniper",
   "twitterUsername": "trait_sniper",
-  "description": "A collection of 3,333 Lifetime Access Pass for Trait Sniper - The Ultimate NFT Trading Platform. Holders will have lifetime access to all must-have tools on Trait Sniper. Holders can have several perks such as: unlocking advanced features, access to partner projects’ whitelists and being a centrepiece of our tokenomic in the future.\n"
+  "description": "A collection of 3,333 Lifetime Access Pass for Trait Sniper - The Ultimate NFT Trading Platform. Holders will have lifetime access to all must-have tools on Trait Sniper. Holders can have several perks such as: unlocking advanced features, access to partner projects’ whitelists and being a centrepiece of our tokenomic in the future.\n",
+  "erc721_symbol": "TraitSniper"
 }

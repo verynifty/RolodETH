@@ -4,5 +4,6 @@
     "hashmask-minter",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "lvc.eth"
 }

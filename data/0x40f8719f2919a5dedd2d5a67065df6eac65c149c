@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Tombstone",
   "imageUrl": "https://i.seadn.io/gae/gqxe3j7WFJDA-6ckVLNMFPH3V4cWI8G5GD2fnUxV6g6-BN0irV_5fzLqrSSBWTVQqlf3zXxQp-q8yXgBSrTcrWUOMS-lxkP6mVNktA?w=500&auto=format",
   "externalUrl": "https://www.thedeadarmyskeletonklub.army/",
   "discordUrl": "https://discord.gg/theklub",
   "twitterUsername": "The_DASK",
-  "description": "*Some are hearing growling noises coming from the graveyard...*\n  \n[Claim your Tombstone](https://tombstone.jointheklub.io/)  \n[Raise the DAZK.](https://tombstone.jointheklub.io/)  \n[!hail to the Klub](https://tombstone.jointheklub.io/)  "
+  "description": "*Some are hearing growling noises coming from the graveyard...*\n  \n[Claim your Tombstone](https://tombstone.jointheklub.io/)  \n[Raise the DAZK.](https://tombstone.jointheklub.io/)  \n[!hail to the Klub](https://tombstone.jointheklub.io/)  ",
+  "erc721_symbol": "TOMB"
 }

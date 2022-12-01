@@ -4,5 +4,6 @@
     "clonex-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "satanhypes.eth"
 }

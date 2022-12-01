@@ -11,5 +11,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "stormg.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Fidu",
   "erc20_symbol": "FIDU",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25944/thumb/GFI-asset-icon.png?1654827482"
+  "imageURL": "https://assets.coingecko.com/coins/images/25944/thumb/GFI-asset-icon.png?1654827482",
+  "proxy": "0xf228bf1f8d11dc1555fc096a7ab6fcd238f1ed6b"
 }

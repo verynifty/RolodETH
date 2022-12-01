@@ -3,5 +3,6 @@
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-banklessvault",
     "snapshot-voter-gitcoindao"
-  ]
+  ],
+  "ens": "monkeyflower.eth"
 }

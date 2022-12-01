@@ -4,5 +4,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "Based Fish Mafia: Deployer"
+  "name": "Based Fish Mafia: Deployer",
+  "ens": "trialsleet.eth"
 }

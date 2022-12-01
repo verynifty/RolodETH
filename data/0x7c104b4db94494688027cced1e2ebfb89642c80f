@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Forgotten Runes Athenaeum",
   "imageUrl": "https://i.seadn.io/gcs/files/9d2bb6a397d071a6518c8d987aa519c9.png?w=500&auto=format",

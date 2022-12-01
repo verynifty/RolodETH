@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bones by Jarritos",
   "imageUrl": "https://i.seadn.io/gcs/files/26d741e8d2399adcee32dc05c965b4d6.png?w=500&auto=format",
   "externalUrl": "https://jarritos.com/nft/",
   "discordUrl": "https://discord.gg/jarritos",
   "twitterUsername": "Jarritos",
-  "description": "We invite you to join our familia with our Genesis NFT collection: Bones by Jarritos. Bones is a small collection of NFT skeletons, each with their own unique selection of traits inspired by our Mexican culture, our consumers around the world, fashion, art, lifestyle, and web3.\n\nHere at Jarritos culture is about community and we are \"Flavored by Culture.\" By joining the Bones familia you take one step closer to Jarritos and will be capable to receive utility that wasn't previously possible! The capabilities of utility are always growing and this is exactly why we decided to not follow the typical roadmap process and to serve our community best by making adjustments and adapting as the Web3 space develops. In short, we are planning special events, brand deals, exclusive partnerships and collaborations, limited edition drinks, swag, and so much more. \n\nAs web3 evolves so too will the opportunities for the community! Trust us, you aren’t going to want to miss this ride!"
+  "description": "We invite you to join our familia with our Genesis NFT collection: Bones by Jarritos. Bones is a small collection of NFT skeletons, each with their own unique selection of traits inspired by our Mexican culture, our consumers around the world, fashion, art, lifestyle, and web3.\n\nHere at Jarritos culture is about community and we are \"Flavored by Culture.\" By joining the Bones familia you take one step closer to Jarritos and will be capable to receive utility that wasn't previously possible! The capabilities of utility are always growing and this is exactly why we decided to not follow the typical roadmap process and to serve our community best by making adjustments and adapting as the Web3 space develops. In short, we are planning special events, brand deals, exclusive partnerships and collaborations, limited edition drinks, swag, and so much more. \n\nAs web3 evolves so too will the opportunities for the community! Trust us, you aren’t going to want to miss this ride!",
+  "erc721_symbol": "JARI"
 }

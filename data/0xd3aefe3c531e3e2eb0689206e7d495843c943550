@@ -3,5 +3,6 @@
     "doodle-minter",
     "coolcat-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "bba.eth"
 }

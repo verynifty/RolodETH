@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WanderVerse Official",
   "imageUrl": "https://i.seadn.io/gae/UEG7FzWMWUhkglis6FR81Vnbk0mt0GbwoNpTHwXcj-1bfI1VjlNxTB_aN_RmzystqpGuSo8ogh_KEsDFIYhQlcDuIot-oicoVB-j40o?w=500&auto=format",
   "externalUrl": "https://www.wanderverse.io/",
   "discordUrl": "https://discord.gg/wanderverse",
   "twitterUsername": "WanderVerseNFT",
-  "description": "WanderVerse is a Play-to-Earn MMORPG built on NFT Worlds. Slay bosses, level up your skills, collect XP and loot, form guilds with your friends, and more. You can sync changes you make to your progress in WanderVerse, so they reflect on your NFT."
+  "description": "WanderVerse is a Play-to-Earn MMORPG built on NFT Worlds. Slay bosses, level up your skills, collect XP and loot, form guilds with your friends, and more. You can sync changes you make to your progress in WanderVerse, so they reflect on your NFT.",
+  "erc721_symbol": "WV"
 }

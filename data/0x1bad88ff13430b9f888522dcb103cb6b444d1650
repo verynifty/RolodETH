@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Pride : Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/81947692568d13aedd417050690b0c11.png?w=500&auto=format",
   "externalUrl": "https://thepridegenesis.xyz/",
   "discordUrl": "https://discord.gg/234nTq6CE3",
   "twitterUsername": "THEPR1DENFT",
-  "description": "The Pride is a cc0 collection of 5,000 pixelated lions on the Ethereum Blockchain. These lions represent prestige, power & most importantly — fun. Will you rise to the occasion?"
+  "description": "The Pride is a cc0 collection of 5,000 pixelated lions on the Ethereum Blockchain. These lions represent prestige, power & most importantly — fun. Will you rise to the occasion?",
+  "erc721_symbol": "TPG"
 }

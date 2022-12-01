@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-sismo",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "ancient8.eth"
 }

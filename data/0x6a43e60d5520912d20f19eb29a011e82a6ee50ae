@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "meebit-minter",
     "wow-minter"
-  ]
+  ],
+  "ens": "sasis.eth"
 }

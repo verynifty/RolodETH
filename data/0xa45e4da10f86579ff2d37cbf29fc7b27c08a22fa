@@ -8,5 +8,6 @@
     "snapshot-voter-comp-vote",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "zhiihz.eth"
 }

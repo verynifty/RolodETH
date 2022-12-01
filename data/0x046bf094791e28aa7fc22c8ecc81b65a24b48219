@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "fdez.eth"
 }

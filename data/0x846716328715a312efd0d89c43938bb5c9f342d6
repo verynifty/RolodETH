@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "G.I. Toadz",
   "imageUrl": "https://i.seadn.io/gae/_GJViC1D1KhGoR1jywkPpmGpep6EAJTFYdCAu-5Dr-nLqwMdn9xOXbZHeQTkwUfG7BHlun2DuLb_n8GQvE9p8PjhPMNTMk17Y3fdOMo?w=500&auto=format",
   "externalUrl": "https://www.gitoadz.com/",
   "discordUrl": "https://discord.gg/GItoadz",
   "twitterUsername": "GIToadz",
-  "description": "G.I. TOADZ: The Return of Colonel Floorbin. \nCC0 Community Inspired Sequel of The Original CrypToadz by Gremplin. \n\nTeam: TheOG, Klee, SuperTightWoody, Loaf, PRGuitarman\n\nParticipating Artists: \n\nLead artist – PRGuitarman - https://twitter.com/PRguitarman \n\nGremplin - https://twitter.com/supergremplin\n\nSlowbro from Cryptodickbutts - https://twitter.com/CryptoDickbutts\n\nIWWON - https://twitter.com/iwwon_official\n\nJakNFT - https://twitter.com/jaknft\n\nLuckyCryptoCat - https://twitter.com/LuckyCryptoCats\n\nTurf - https://twitter.com/turfnft\n\nForgotten Runes - https://twitter.com/ElfJTrul\n\nGreg - https://twitter.com/greg16676935420\n\nGrelysian - https://twitter.com/grelysian\n\nAnas Abdin - https://twitter.com/AnasAbdin\n\nDavid Horvath - https://twitter.com/davidzhorvath\n\nPixelord - https://twitter.com/pixelord\n\nDoug Boneparth - https://twitter.com/dougboneparth\n\n\n\n\n"
+  "description": "G.I. TOADZ: The Return of Colonel Floorbin. \nCC0 Community Inspired Sequel of The Original CrypToadz by Gremplin. \n\nTeam: TheOG, Klee, SuperTightWoody, Loaf, PRGuitarman\n\nParticipating Artists: \n\nLead artist – PRGuitarman - https://twitter.com/PRguitarman \n\nGremplin - https://twitter.com/supergremplin\n\nSlowbro from Cryptodickbutts - https://twitter.com/CryptoDickbutts\n\nIWWON - https://twitter.com/iwwon_official\n\nJakNFT - https://twitter.com/jaknft\n\nLuckyCryptoCat - https://twitter.com/LuckyCryptoCats\n\nTurf - https://twitter.com/turfnft\n\nForgotten Runes - https://twitter.com/ElfJTrul\n\nGreg - https://twitter.com/greg16676935420\n\nGrelysian - https://twitter.com/grelysian\n\nAnas Abdin - https://twitter.com/AnasAbdin\n\nDavid Horvath - https://twitter.com/davidzhorvath\n\nPixelord - https://twitter.com/pixelord\n\nDoug Boneparth - https://twitter.com/dougboneparth\n\n\n\n\n",
+  "erc721_symbol": "GITOADZ"
 }

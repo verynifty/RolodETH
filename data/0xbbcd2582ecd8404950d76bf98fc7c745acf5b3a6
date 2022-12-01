@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-comp-vote",
     "snapshot-voter-zhiihz"
-  ]
+  ],
+  "ens": "iiste.eth"
 }
