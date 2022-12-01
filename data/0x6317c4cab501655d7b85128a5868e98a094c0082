@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "MonsterBuds Genesis",
   "imageUrl": "https://i.seadn.io/gae/N3MrEO_o6FsckfTIRBapeDxC9IyO2nw6us4D0LbUwqOKLA6m_jfT-HTnzg_GA8xyto7FaEGNGFpXVRrS5Gubtr4v48ts2Im7vIAyRQ?w=500&auto=format",
   "externalUrl": "https://monsterbuds.io",
   "discordUrl": "https://discord.gg/monsterbuds",
   "twitterUsername": "MonsterBudsNFT",
-  "description": "The MonsterBuds Genesis Collection consists of 10,420 Generation 1 MonsterBuds and 865 Puff Puff Passes. \n\nGeneration 1 MonsterBuds are the key to earning in our play-and-earn Smoke Sessions game and are the only MonsterBuds that will generate the $DANK token. \n\nThe Puff Puff Pass is our utility pass for the DankVerse, giving a number of premium benefits including NFT claims, software access, presale spots, and VIP access to exclusive events and giveaways. \n"
+  "description": "The MonsterBuds Genesis Collection consists of 10,420 Generation 1 MonsterBuds and 865 Puff Puff Passes. \n\nGeneration 1 MonsterBuds are the key to earning in our play-and-earn Smoke Sessions game and are the only MonsterBuds that will generate the $DANK token. \n\nThe Puff Puff Pass is our utility pass for the DankVerse, giving a number of premium benefits including NFT claims, software access, presale spots, and VIP access to exclusive events and giveaways. \n",
+  "proxy": "0x253d69e39ed065593b63d5760331c67b980f605b"
 }

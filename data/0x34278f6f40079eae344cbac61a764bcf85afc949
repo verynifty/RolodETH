@@ -1,6 +1,10 @@
 {
   "tags": [
-    "phish-hack"
+    "phish-hack",
+    "contract",
+    "erc20"
   ],
-  "name": "Fake_Phishing4953"
+  "name": "Fake_Phishing4953",
+  "erc20_symbol": "FF9.io",
+  "erc20_decimals": 18
 }

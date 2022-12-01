@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DigiDaigaku Dark Spirits",
   "imageUrl": "https://i.seadn.io/gcs/files/b8c21ab2db24f13a356e06a0c51f9ba1.png?w=500&auto=format",
   "twitterUsername": "DigiDaigaku",
-  "description": "This collection consists of the dark spirits of the Official DigiDaigaku Genesis Collection. Please follow us on Twitter: https://twitter.com/DigiDaigaku for instructions."
+  "description": "This collection consists of the dark spirits of the Official DigiDaigaku Genesis Collection. Please follow us on Twitter: https://twitter.com/DigiDaigaku for instructions.",
+  "erc721_symbol": "DIDSP"
 }

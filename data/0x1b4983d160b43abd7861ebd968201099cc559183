@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "mynumbercard.eth"
 }

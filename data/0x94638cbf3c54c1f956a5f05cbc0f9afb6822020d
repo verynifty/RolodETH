@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "inBetweeners by GianPiero",
   "imageUrl": "https://i.seadn.io/gae/MKEzQ2Ah4hI3iXWUy95-so2EyAvHC9PxbmBySaW94TgC3FulhqByJGgarrK5VxL1pTOzUWfVuGt_sFwVcakz47edlCuxcgtne1vAKg?w=500&auto=format",
   "externalUrl": "https://www.inbetweeners.io/",
   "discordUrl": "https://discord.gg/RccZFU2z3n",
   "twitterUsername": "inBetweenersNFT",
-  "description": "inBetweeners is a global crowdsourced community focused on spreading love and positivity across the metaverse. Access to the community is limited to 10,777 bear holders, each special in its own way.\n\nThe art is hand drawn by GianPiero, a world-renowned artist whose work has been sought after by Snoop Dog, Netflix, Levis, Bel Aire Rose, and more.\n\nFor inBetweeners, GianPiero has joined up with Justin Bieber to bring the NFTs to the world stage. Behind them, is a team of start-up operators, celebrities, and growth marketers to ensure the longevity of the community."
+  "description": "inBetweeners is a global crowdsourced community focused on spreading love and positivity across the metaverse. Access to the community is limited to 10,777 bear holders, each special in its own way.\n\nThe art is hand drawn by GianPiero, a world-renowned artist whose work has been sought after by Snoop Dog, Netflix, Levis, Bel Aire Rose, and more.\n\nFor inBetweeners, GianPiero has joined up with Justin Bieber to bring the NFTs to the world stage. Behind them, is a team of start-up operators, celebrities, and growth marketers to ensure the longevity of the community.",
+  "erc721_symbol": "IBNS"
 }

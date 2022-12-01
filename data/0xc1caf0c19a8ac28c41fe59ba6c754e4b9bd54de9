@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoSkulls",
   "imageUrl": "https://i.seadn.io/gae/mxXgfafTwxpLtvGStBGIX5G8W-AE-dfKTBh8E3h92cIKrXiIb8OmNP7hRA33wFGSDbut0MI84PQpnk3LGOe4hC2jkP-eEjejwYWK?w=500&auto=format",
   "externalUrl": "https://cryptoskulls.com",
   "discordUrl": "https://discord.gg/cryptoskulls",
   "twitterUsername": "Crypto_Skulls",
-  "description": "**CryptoSkulls** are 10,000 collectible ERC-721 Non-Fungible Tokens stored on Ethereum / Polygon blockchains.  Each CryptoSkull character is a unique pixel art image. OG NFT project from **2019**. Visit [cryptoskulls.com](https://cryptoskulls.com) for more details. Grab your color madness!"
+  "description": "**CryptoSkulls** are 10,000 collectible ERC-721 Non-Fungible Tokens stored on Ethereum / Polygon blockchains.  Each CryptoSkull character is a unique pixel art image. OG NFT project from **2019**. Visit [cryptoskulls.com](https://cryptoskulls.com) for more details. Grab your color madness!",
+  "erc721_symbol": "CryptoSkulls"
 }

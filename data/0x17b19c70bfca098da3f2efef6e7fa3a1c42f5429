@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "OnChainKevin",
   "imageUrl": "https://i.seadn.io/gae/SW4yzypv7kWP7p0zSIe-hGFb4DWT1mlWODW2hP2_-ikunl3opsFt6mgePCfHDNMZig7RjOK6kh1he7GmmSqhvvNuoMHD-FO1VyTgSg?w=500&auto=format",
   "externalUrl": "http://onchainkevin.com",
   "discordUrl": "https://discord.gg/5ksdbHk48X",
   "twitterUsername": "OnChainKevinNFT",
-  "description": "OnChainKevin is the access token for [Indelible Labs](https://indeliblelabs.io), the first no-code tool for creating on-chain NFT collections."
+  "description": "OnChainKevin is the access token for [Indelible Labs](https://indeliblelabs.io), the first no-code tool for creating on-chain NFT collections.",
+  "erc721_symbol": "DERP"
 }

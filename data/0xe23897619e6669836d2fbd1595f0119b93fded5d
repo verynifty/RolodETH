@@ -6,5 +6,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "orchis.eth"
 }

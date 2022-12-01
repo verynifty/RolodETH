@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-cvx",
     "opensea-user"
-  ]
+  ],
+  "ens": "urusalim.eth"
 }

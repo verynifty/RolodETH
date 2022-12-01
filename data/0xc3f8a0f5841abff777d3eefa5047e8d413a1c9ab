@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "merge.",
   "imageUrl": "https://i.seadn.io/gae/kkm2fXYCLfD-7hZbfb-g6xdOZiuzCJcSR5-sOAl4Dz0tBOw9hLdgeiayPeiyuEjnZ72OK091c0M7AthiBALQ5rqF7o51icWoskFF?w=500&auto=format",
-  "description": "Merge is a game of extinction."
+  "description": "Merge is a game of extinction.",
+  "erc721_symbol": "m"
 }

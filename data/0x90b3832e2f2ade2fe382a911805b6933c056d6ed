@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pooly - Supporter",
   "imageUrl": "https://i.seadn.io/gae/oqxFnjDNqZlSEuW5DPsfVKONqbMPeArnCAIlsZeGtCqtFusfPrtc79oZvM5hTRNP5h1bJ-pibxuC8xcZhIUoCYaZ6HmrAL7o30okJAQ?w=500&auto=format",
   "externalUrl": "https://mint.pooltogether.com",
   "twitterUsername": "PoolyNFT",
-  "description": "The cutest bird on the internet. 10,000 Poolys standing up for what they believe in with 9 unique signs. Can you collect them all? All Pooly holders go to heaven.\n\n[Mint](https://mint.pooltogether.com) • [Twitter](https://twitter.com/PoolyNFT)"
+  "description": "The cutest bird on the internet. 10,000 Poolys standing up for what they believe in with 9 unique signs. Can you collect them all? All Pooly holders go to heaven.\n\n[Mint](https://mint.pooltogether.com) • [Twitter](https://twitter.com/PoolyNFT)",
+  "erc721_symbol": "POOLY1"
 }

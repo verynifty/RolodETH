@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Dope Wars Paper",
   "erc20_symbol": "PAPER",

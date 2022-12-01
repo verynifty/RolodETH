@@ -1,6 +1,10 @@
 {
   "tags": [
-    "multichain"
+    "multichain",
+    "contract",
+    "erc20"
   ],
-  "name": "Multichain: anyUSDC Token"
+  "name": "Multichain: anyUSDC Token",
+  "erc20_symbol": "anyUSDC",
+  "erc20_decimals": 6
 }

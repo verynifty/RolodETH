@@ -10,5 +10,6 @@
   "externalUrl": "https://alphasharks.io",
   "discordUrl": "https://discord.gg/alphasharksofficial",
   "twitterUsername": "AlphaSharksNFT",
-  "description": "Alpha Sharks is an ecosystem of elite NFT holders that dominates the NFT game with the most advanced NFT sniping tools in the market. Building the most utilitarian Web3 brand, founders are aimed at bringing value for the whole NFT community together on their Shark Token economics."
+  "description": "Alpha Sharks is an ecosystem of elite NFT holders that dominates the NFT game with the most advanced NFT sniping tools in the market. Building the most utilitarian Web3 brand, founders are aimed at bringing value for the whole NFT community together on their Shark Token economics.",
+  "erc721_symbol": "ALPHASHARKS"
 }
