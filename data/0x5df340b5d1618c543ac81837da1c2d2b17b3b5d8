@@ -10,5 +10,6 @@
   "externalUrl": "http://www.billionaireclubnft.com/",
   "discordUrl": "https://discord.gg/billionaireclubnft",
   "twitterUsername": "billionclubnft",
-  "description": "The BILLIONAIRE CLUB is a private collection of 10 000 billionaire apes NFTs - unique digital collectibles.\nEarlier this year, a mysterious force coming from another galaxy summoned the most influential people on planet Earth to a secret party.\nAcquiring one of them will give you access to an ever-growing community of investors and entrepreneurs."
+  "description": "The BILLIONAIRE CLUB is a private collection of 10 000 billionaire apes NFTs - unique digital collectibles.\nEarlier this year, a mysterious force coming from another galaxy summoned the most influential people on planet Earth to a secret party.\nAcquiring one of them will give you access to an ever-growing community of investors and entrepreneurs.",
+  "erc721_symbol": "PABC"
 }

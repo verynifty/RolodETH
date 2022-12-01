@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-dydxgov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "sunnizy.eth"
 }

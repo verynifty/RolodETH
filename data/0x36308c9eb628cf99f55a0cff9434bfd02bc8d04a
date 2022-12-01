@@ -10,5 +10,6 @@
   "externalUrl": "http://thepalsuniverse.com",
   "discordUrl": "https://discord.gg/thepalsuniverse",
   "twitterUsername": "ThePalsUniverse",
-  "description": "The Pals are a collection of 4,444 1/1 hand-drawn NFTs by street artist Sean Webster. Yes, EVERY character in the collection is hand drawn by Sean, with generative traits added to match each Pal's unique style and personality. These happy little fellas reflect the raw creativity bouncing around inside us all and are here to help us channel our emotions into a positive creative outlet."
+  "description": "The Pals are a collection of 4,444 1/1 hand-drawn NFTs by street artist Sean Webster. Yes, EVERY character in the collection is hand drawn by Sean, with generative traits added to match each Pal's unique style and personality. These happy little fellas reflect the raw creativity bouncing around inside us all and are here to help us channel our emotions into a positive creative outlet.",
+  "erc721_symbol": "PALS"
 }

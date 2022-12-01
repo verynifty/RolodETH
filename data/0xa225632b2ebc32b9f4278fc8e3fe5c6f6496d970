@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DigiDaigaku Heroes",
   "imageUrl": "https://i.seadn.io/gcs/files/443e5a411eeb1fe03349e636fd4fa211.png?w=500&auto=format",
   "externalUrl": "https://digidaigaku.com/",
   "discordUrl": "https://discord.gg/hHxZVdBPRz",
-  "description": "DigiDaigaku Heroes is a collection of unique characters developed by Limit Break. Please visit our website https://digidaigaku.com for more information."
+  "description": "DigiDaigaku Heroes is a collection of unique characters developed by Limit Break. Please visit our website https://digidaigaku.com for more information.",
+  "erc721_symbol": "DIHE"
 }

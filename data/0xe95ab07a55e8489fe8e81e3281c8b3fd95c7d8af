@@ -12,5 +12,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "strp.eth"
 }

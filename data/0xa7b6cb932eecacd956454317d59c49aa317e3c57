@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Psychedelics Anonymous Component 2",
   "imageUrl": "https://i.seadn.io/gae/9VndAx-5SvVdamB8KvABGcw2bdXMdeyEYdhHJ22WMV98C2yS85SDT5rnBtT0zOxVjeJ6KBz2fXKXcYSIXeOc7aGiU4i0Rx9IwaMfO9o?w=500&auto=format",
   "externalUrl": "https://psychedelicsanonymous.com/",
   "discordUrl": "https://discord.gg/we-are-the-night",
   "twitterUsername": "psychedelic_nft",
-  "description": "COMPONENT #2 IS THE SECOND COMPONENT REQUIRED TO PARTICIPATE IN THE PSYCHEDELICS ANONYMOUS MINI GAME EXPERIENCE.\r\n\r\nRewards include physical items, cryptocurrency, limited run merchandise, limited run wearables and more.\r\n\r\nIt includes:\r\n\r\n1 x required mini game access component.\r\n\r\nNOTE: The Component has a burning mechanism built into the contract"
+  "description": "COMPONENT #2 IS THE SECOND COMPONENT REQUIRED TO PARTICIPATE IN THE PSYCHEDELICS ANONYMOUS MINI GAME EXPERIENCE.\r\n\r\nRewards include physical items, cryptocurrency, limited run merchandise, limited run wearables and more.\r\n\r\nIt includes:\r\n\r\n1 x required mini game access component.\r\n\r\nNOTE: The Component has a burning mechanism built into the contract",
+  "erc721_symbol": "PAC2"
 }

@@ -2,7 +2,8 @@
   "tags": [
     "kucoin",
     "old-contract",
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "KuCoin",
   "erc20_symbol": "KCS",

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Let There be Light by Alpine x Obvious",
   "imageUrl": "https://i.seadn.io/gcs/files/c1365ca495632bb14e9f3637288ee343.png?w=500&auto=format",
   "externalUrl": "https://exclusible.com/alpine-x-obvious/let-there-be-light/common",
   "twitterUsername": "Alpine_NFT",
-  "description": "’Let There Be Light’ is Alpine’s Genesis Collection built on three tiers of NFTs: Legendary, Ultra Rare and Common. Inspired by the A110 Sastruga Art Car, Alpine takes their collaboration with French Art Collective Obvious to the next level with an NFT Collection of AI-Generated artworks. "
+  "description": "’Let There Be Light’ is Alpine’s Genesis Collection built on three tiers of NFTs: Legendary, Ultra Rare and Common. Inspired by the A110 Sastruga Art Car, Alpine takes their collaboration with French Art Collective Obvious to the next level with an NFT Collection of AI-Generated artworks. ",
+  "erc721_symbol": "EXCLUSIBLE-ALPINE"
 }

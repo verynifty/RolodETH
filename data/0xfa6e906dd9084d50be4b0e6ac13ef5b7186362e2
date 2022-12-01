@@ -14,5 +14,6 @@
     "snapshot-voter-people-dao",
     "sudoswap-user",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "cybernow.eth"
 }

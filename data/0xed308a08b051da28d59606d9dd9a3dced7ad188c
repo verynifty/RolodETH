@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "opensea-user"
-  ]
+  ],
+  "ens": "tobebetter.eth"
 }

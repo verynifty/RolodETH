@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PSILO-Official",
   "imageUrl": "https://i.seadn.io/gae/vtkuk7EZ7xww7Y6ursZiVX9KAamI_L0qypmMB7rrMck7fXXzqnL8OxIZwNzd6WC7VBtgxGwtq5cNvsenJySIiLVZJZJaQHMseCu6iA?w=500&auto=format",
   "externalUrl": "http://enterpsilo.com",
   "discordUrl": "https://discord.gg/psilo",
-  "description": "PSILO is a Sci-Fi Multimedia Company that all starts with a Genesis collection of HD 3D avatars, consisting of 3 different species."
+  "description": "PSILO is a Sci-Fi Multimedia Company that all starts with a Genesis collection of HD 3D avatars, consisting of 3 different species.",
+  "erc721_symbol": "Psilo"
 }

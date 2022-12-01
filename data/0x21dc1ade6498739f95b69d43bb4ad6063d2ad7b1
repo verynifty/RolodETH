@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "bowse.eth"
 }

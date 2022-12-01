@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xbot1337.eth"
 }

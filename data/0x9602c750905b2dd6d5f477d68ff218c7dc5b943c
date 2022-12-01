@@ -8,5 +8,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "台灣共和國.eth"
 }

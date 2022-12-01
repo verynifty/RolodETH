@@ -5,5 +5,6 @@
     "art-goblers-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "ligaratus.eth"
 }

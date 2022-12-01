@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "FRAGZ",
+  "erc20_decimals": 18,
+  "name": "Ethereal Fragments",
+  "proxy": "0x56a2de8c6352bbe96004abafff154d28e437299c"
+}

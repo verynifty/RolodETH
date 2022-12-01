@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Astra DAO",
   "erc20_symbol": "ASTRA",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27255/thumb/astra200x200px_blue_%282%29.png?1663035884"
+  "imageURL": "https://assets.coingecko.com/coins/images/27255/thumb/astra200x200px_blue_%282%29.png?1663035884",
+  "proxy": "0x057b1fb91a5fccb6c4aefd0ec55f79ce60aa8e83"
 }

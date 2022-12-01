@@ -4,5 +4,6 @@
     "moonbird-minter",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "oscarrey.eth"
 }

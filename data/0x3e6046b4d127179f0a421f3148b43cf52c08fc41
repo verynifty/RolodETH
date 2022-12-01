@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "You by BFF",
   "imageUrl": "https://i.seadn.io/gae/xN0Abpk1755I8dMsCh0A2-3CBgpURNerqHOX96k8odPWZhy_RpQAGMqMKPxyP1OUl-fg4P9A596AnuuoAZ4H_d9_2XMxmU29adaV?w=500&auto=format",
   "externalUrl": "http://mybff.com",
-  "description": "BFF's inaugural NFT collection, You, celebrates the uniqueness of women and non-binary friends across our community and the world. In her renowned style, artist Jade Purple Brown brings vibrant color and dynamic expression to 10,000 unique pieces in the collection.\n\nEach NFT grants you access to a revolving list of perks, check here: https://mybff.com#perks"
+  "description": "BFF's inaugural NFT collection, You, celebrates the uniqueness of women and non-binary friends across our community and the world. In her renowned style, artist Jade Purple Brown brings vibrant color and dynamic expression to 10,000 unique pieces in the collection.\n\nEach NFT grants you access to a revolving list of perks, check here: https://mybff.com#perks",
+  "proxy": "0x477c17e53a5f5bc17a6fd54f94219713fda0f562"
 }

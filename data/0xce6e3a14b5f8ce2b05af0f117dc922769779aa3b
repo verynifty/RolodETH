@@ -10,5 +10,6 @@
   "externalUrl": "https://megami.io/",
   "discordUrl": "https://discord.gg/megami",
   "twitterUsername": "MEGAMINFT",
-  "description": "MEGAMI is an NFT project conceptualizing Naoki Saito's 1/1 quality as a collectible.\nYour own Megami, not for anyone else. The Megami of your choice will empower you.\nWhile you're looking for a Megami, you'll find that you're searching for yourself.\nIt's precisely a rediscovery of one's own value."
+  "description": "MEGAMI is an NFT project conceptualizing Naoki Saito's 1/1 quality as a collectible.\nYour own Megami, not for anyone else. The Megami of your choice will empower you.\nWhile you're looking for a Megami, you'll find that you're searching for yourself.\nIt's precisely a rediscovery of one's own value.",
+  "erc721_symbol": "MEGAMI"
 }

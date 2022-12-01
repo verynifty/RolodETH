@@ -3,5 +3,6 @@
     "loot-minter",
     "hashmask-minter",
     "snapshot-voter-lgcryptounicorns"
-  ]
+  ],
+  "ens": "nftdefiog.eth"
 }

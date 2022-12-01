@@ -9,5 +9,6 @@
     "otherdeed-minter",
     "snapshot-voter-sushigov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "barthazian.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dolce&Gabbana: DGFamily",
   "imageUrl": "https://i.seadn.io/gae/yMOYuqyur7qf5ll9vyrsJusjWF7bHv96Cz1ciKKjQrPjj-4b0ahdbcjk7xWtFdpfe54wYylYAA-4GoRJzZewU5EFgDRRsIXerjjOTw?w=500&auto=format",
   "externalUrl": "https://drops.unxd.com/dgfamily/",
   "discordUrl": "https://discord.gg/unxd",
   "twitterUsername": "dolcegabbana",
-  "description": "EXCLUSIVE ACCESS TO THE DOLCE&GABBANA NFT UNIVERSE. DGFamily Boxes are digital collectibles (NFTs) that also serve as tiered membership to the exclusive Dolce&Gabbana universe. DGFamily members receive exclusive digital, physical, and experiential privileges as Dolce&Gabbana pushes the boundaries of luxury and culture in the metaverse. DGFamily boxes are based on the classic Italian Carretto style, and crafted in three increasingly rarer tiers. DGFamily is an exclusive partnership between Dolce&Gabbana and UNXD."
+  "description": "EXCLUSIVE ACCESS TO THE DOLCE&GABBANA NFT UNIVERSE. DGFamily Boxes are digital collectibles (NFTs) that also serve as tiered membership to the exclusive Dolce&Gabbana universe. DGFamily members receive exclusive digital, physical, and experiential privileges as Dolce&Gabbana pushes the boundaries of luxury and culture in the metaverse. DGFamily boxes are based on the classic Italian Carretto style, and crafted in three increasingly rarer tiers. DGFamily is an exclusive partnership between Dolce&Gabbana and UNXD.",
+  "erc721_symbol": "DGFAM"
 }

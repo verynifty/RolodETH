@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "452900.eth"
 }

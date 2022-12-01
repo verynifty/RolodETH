@@ -4,5 +4,6 @@
     "contract-deployer",
     "gitcoin-grantee"
   ],
-  "name": "Forefront: Deployer"
+  "name": "Forefront: Deployer",
+  "ens": "jenil.eth"
 }

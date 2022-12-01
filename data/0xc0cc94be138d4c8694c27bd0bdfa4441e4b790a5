@@ -4,5 +4,6 @@
     "snapshot-voter-lido-snapshot",
     "sudoswap-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "0x3721.eth"
 }

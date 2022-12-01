@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "doodle-minter",
     "cyber-kong-minter"
-  ]
+  ],
+  "ens": "bootyclapper420.eth"
 }

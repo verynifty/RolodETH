@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Delectables by Foodmasku",
   "imageUrl": "https://i.seadn.io/gae/A6OntijlQFb4jrFZ4AxR9F3TaXqYyxR4dnvQNk45xVEY59d0FUZdlV5kdnNDwiU53mL4NHJZYeXFKzvyD_KpIKL65rz6uxi_AGMusZY?w=500&auto=format",
   "externalUrl": "https://foodmasku.com/",
   "twitterUsername": "foodmasku",
-  "description": "Delectables by [foodmasku](https://opensea.io/foodmasku) is the first generative photography project on the Ethereum blockchain. These generated food masks are unique pieces of collectible art."
+  "description": "Delectables by [foodmasku](https://opensea.io/foodmasku) is the first generative photography project on the Ethereum blockchain. These generated food masks are unique pieces of collectible art.",
+  "erc721_symbol": "FOOD"
 }

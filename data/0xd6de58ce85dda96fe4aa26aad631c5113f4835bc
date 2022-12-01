@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "richpanda.eth"
 }

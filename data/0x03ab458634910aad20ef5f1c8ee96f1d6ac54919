@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "reflexer-finance"
+    "reflexer-finance",
+    "contract"
   ],
   "name": "Reflexer: RAI Token",
   "erc20_symbol": "RAI",

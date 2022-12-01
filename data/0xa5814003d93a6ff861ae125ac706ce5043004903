@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Creepy Creams: Alpha Wave",
   "imageUrl": "https://i.seadn.io/gae/svggArKf9bdBTF1dJAGCH7xrMBzhZ4ANw8VotOcEmnG4uE70TXfJnX30xXsgbiFQ4aB-eno8dPwWQuJIwefSNuHduzaDoViYdvsD?w=500&auto=format",
   "externalUrl": "http://www.creepycreams.com",
   "discordUrl": "https://discord.gg/creepycreams",
   "twitterUsername": "creepycreams",
-  "description": "Genesis collection of 1500 hand-drawn, mutated ice-creams melting through the Blockchain. \n\nHolding an Alpha Wave grants you:\n\nAccess to NFT WORLDS play-to-earn games, \nAccess The Sandbox community hub\nPresale pass for all future collections\nStake to earn utility token $SCOOP and vote on acquisitions for The Freezer, \na metaverse land vault with shared ownership for all Alpha Wave & Mecha Melter holders.\n\n$SCOOP has no other functionality other than within the Creepy Creams ecosystem, and it cannot be purchased from Creepy Creams Developers. The Creepy Creams Developers do not provide or intend to provide a secondary marketplace for $SCOOP.\n\nCreepy Creams is a community-first, metaverse-first project with a fully-doxxed team and supports children's charities. Find out more and melt into the metaverse, use the links below.\n\nWebsite: https://creepycreams.com/\n\nDiscord: https://discord.gg/creepycreams\n\nThe Freezer: https://opensea.io/CC_Freezer\n"
+  "description": "Genesis collection of 1500 hand-drawn, mutated ice-creams melting through the Blockchain. \n\nHolding an Alpha Wave grants you:\n\nAccess to NFT WORLDS play-to-earn games, \nAccess The Sandbox community hub\nPresale pass for all future collections\nStake to earn utility token $SCOOP and vote on acquisitions for The Freezer, \na metaverse land vault with shared ownership for all Alpha Wave & Mecha Melter holders.\n\n$SCOOP has no other functionality other than within the Creepy Creams ecosystem, and it cannot be purchased from Creepy Creams Developers. The Creepy Creams Developers do not provide or intend to provide a secondary marketplace for $SCOOP.\n\nCreepy Creams is a community-first, metaverse-first project with a fully-doxxed team and supports children's charities. Find out more and melt into the metaverse, use the links below.\n\nWebsite: https://creepycreams.com/\n\nDiscord: https://discord.gg/creepycreams\n\nThe Freezer: https://opensea.io/CC_Freezer\n",
+  "erc721_symbol": "CC"
 }

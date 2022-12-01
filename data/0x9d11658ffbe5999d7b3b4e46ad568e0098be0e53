@@ -9,5 +9,6 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "daomeet.eth"
 }

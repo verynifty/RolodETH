@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Lofi Guy",
   "imageUrl": "https://i.seadn.io/gae/7F6aHCanXj34agmsLykMGVEWxQdt_Te0mWBjYkB2G6Nxf72JL-UNmjFkwrEsD_jSnjfj8iNT6u9cBTE9PIq73PHJC_MpJzuF3HCu?w=500&auto=format",
   "externalUrl": "http://lofiguynft.com/",
   "discordUrl": "https://discord.gg/vybevillage",
   "twitterUsername": "LofiGuyNFT",
-  "description": "Lofi Guy is an on going collectible art & music project by artist Cody A Banks and music producer L.Dre. It consists of unique animations of the Lofi Guy character perfectly synced with original lofi hip hop instrumentals. This is not a generative project. Each Lofi Guy is hand made with love by the creators.\n\nThe style changes but the signature head bop remains the same.\n\n[Lofi Guy Specials](https://opensea.io/collection/lofi-guy-specials) // [Lofi Littles](https://opensea.io/collection/lofi-littles)"
+  "description": "Lofi Guy is an on going collectible art & music project by artist Cody A Banks and music producer L.Dre. It consists of unique animations of the Lofi Guy character perfectly synced with original lofi hip hop instrumentals. This is not a generative project. Each Lofi Guy is hand made with love by the creators.\n\nThe style changes but the signature head bop remains the same.\n\n[Lofi Guy Specials](https://opensea.io/collection/lofi-guy-specials) // [Lofi Littles](https://opensea.io/collection/lofi-littles)",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

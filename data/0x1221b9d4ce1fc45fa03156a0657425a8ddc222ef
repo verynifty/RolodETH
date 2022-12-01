@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "PUL-LP",
+  "erc20_decimals": 18,
+  "name": "Pulsar-LP"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Miniverse Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/bb3afea8facf5ac1363c94f5286a0bda.jpg?w=500&auto=format",
   "externalUrl": "https://miniversenft.io/",
   "discordUrl": "https://discord.gg/miniverse",
-  "description": "🔮 Miniverse is a collection of 3D Animated SnowGlobes with LOFI vibe 🔮"
+  "description": "🔮 Miniverse is a collection of 3D Animated SnowGlobes with LOFI vibe 🔮",
+  "proxy": "0x6f60471d164736200236fd047dcb649730d63496"
 }

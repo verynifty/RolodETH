@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bao Society Official",
   "imageUrl": "https://i.seadn.io/gae/fhBaRhalkzcSE4a_wbse5qOfoWUFi6xMEoNveFRzs9K-JDfdw4rQ5P_7a2BLxbJtLTC9GUfjr6VOj1oQV8z9qshhB6FLsNrJrx5AT8E?w=500&auto=format",
   "externalUrl": "https://www.baosociety.com/",
   "discordUrl": "https://discord.gg/QkQndfcYkk",
   "twitterUsername": "BaoSociety",
-  "description": "38% Staked: 1503 (last updated 08/17/2022)\n\nHolder count on Opensea is incorrect due to staking contract\n\nStake or Hold & Earn $BAO: https://stake.baosociety.com/\n\nBao Society is the first exclusive Web3 membership platform for curated food & beverage experiences. Our genesis collection of 3,888 3D NFTs allows holders to experience all aspects of the food industry through virtual and IRL events, merch drops, future collections, all gated by a mobile app."
+  "description": "38% Staked: 1503 (last updated 08/17/2022)\n\nHolder count on Opensea is incorrect due to staking contract\n\nStake or Hold & Earn $BAO: https://stake.baosociety.com/\n\nBao Society is the first exclusive Web3 membership platform for curated food & beverage experiences. Our genesis collection of 3,888 3D NFTs allows holders to experience all aspects of the food industry through virtual and IRL events, merch drops, future collections, all gated by a mobile app.",
+  "erc721_symbol": "BAOSOC"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "HARSH",
+  "erc20_decimals": 18,
+  "name": "Noise"
+}

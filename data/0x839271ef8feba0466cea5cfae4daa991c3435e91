@@ -3,5 +3,6 @@
     "doodle-minter",
     "clonex-minter",
     "snapshot-voter-noundles-vote"
-  ]
+  ],
+  "ens": "ed-sama.eth"
 }

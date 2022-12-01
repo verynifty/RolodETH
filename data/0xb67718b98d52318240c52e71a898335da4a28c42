@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Innovative Bioresearch Coin",
   "erc20_symbol": "INNBC",

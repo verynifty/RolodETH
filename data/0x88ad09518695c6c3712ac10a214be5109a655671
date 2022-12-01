@@ -1,7 +1,10 @@
 {
   "tags": [
     "bridge",
-    "poa-network"
+    "poa-network",
+    "contract",
+    "proxy"
   ],
-  "name": "Gnosis Chain: Omni Bridge"
+  "name": "Gnosis Chain: Omni Bridge",
+  "proxy": "0x8eb3b7d8498a6716904577b2579e1c313d48e347"
 }

@@ -6,5 +6,6 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "aims4gains.eth"
 }

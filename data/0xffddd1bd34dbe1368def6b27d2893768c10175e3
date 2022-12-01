@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Woobirds",
   "imageUrl": "https://i.seadn.io/gcs/files/0f285e48c44ca74d7a00657e2b4aad86.png?w=500&auto=format",
   "externalUrl": "https://woobirds.xyz",
   "twitterUsername": "WoobirdsNFT",
-  "description": "Woobirds is a 10.000 NFT collection that turned each Moonbird into 3D (1/1)."
+  "description": "Woobirds is a 10.000 NFT collection that turned each Moonbird into 3D (1/1).",
+  "erc721_symbol": "WBRDS"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-aavegotchi",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "blonks.eth"
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-swaprsnapshot",
     "opensea-user"
-  ]
+  ],
+  "ens": "darkksilver.eth"
 }

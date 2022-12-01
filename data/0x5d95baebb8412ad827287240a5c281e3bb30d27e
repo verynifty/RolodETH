@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-jbdao"
-  ]
+  ],
+  "ens": "tankbottoms.eth"
 }

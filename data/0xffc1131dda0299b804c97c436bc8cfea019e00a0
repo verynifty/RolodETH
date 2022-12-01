@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Looki",
   "imageUrl": "https://i.seadn.io/gcs/files/4fd5f7865dbcf99cfdf1c498552765b5.jpg?w=500&auto=format",
   "externalUrl": "https://www.looki.games/",
   "discordUrl": "https://discord.gg/lookiavatar",
   "twitterUsername": "LookiAvatar",
-  "description": "https://www.looki.games/, the Galaxy Forger, is one of the oldest celestial creatures in existence. His will is responsible for the creation of countless stars, constellations, and planets, including Moon and Mars, or usm.world.\n\nTotal supply: ≤ 10k."
+  "description": "https://www.looki.games/, the Galaxy Forger, is one of the oldest celestial creatures in existence. His will is responsible for the creation of countless stars, constellations, and planets, including Moon and Mars, or usm.world.\n\nTotal supply: ≤ 10k.",
+  "erc721_symbol": "LOOKI"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DoDoFrens.xyz",
   "imageUrl": "https://i.seadn.io/gcs/files/d78e5aea1a9028a3f501d468049f98d4.jpg?w=500&auto=format",
   "externalUrl": "https://dodofrens.xyz",
   "twitterUsername": "DoDoFrens",
-  "description": "DoDoFrens is an NFT collection of 8000 diversed meerkats. A story and community-driven metaverse project. DoDoFrens and its community will shine through web3 and NFTs by telling a fantastic story of friendship & love & bravery, etc., through their incredible journey around the world."
+  "description": "DoDoFrens is an NFT collection of 8000 diversed meerkats. A story and community-driven metaverse project. DoDoFrens and its community will shine through web3 and NFTs by telling a fantastic story of friendship & love & bravery, etc., through their incredible journey around the world.",
+  "erc721_symbol": "DODO"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "starknetpay.eth"
 }

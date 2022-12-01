@@ -14,5 +14,6 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-beefydao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "scrszjzzq.eth"
 }

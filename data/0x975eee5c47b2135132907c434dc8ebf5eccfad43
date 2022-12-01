@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "14atom.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KATATONIK",
   "imageUrl": "https://i.seadn.io/gcs/files/6eb79c8b88dceea15c98300e4175fdb1.jpg?w=500&auto=format",
   "externalUrl": "https://katatonik.xyz",
   "discordUrl": "https://discord.gg/katatonik",
   "twitterUsername": "Katatonik_nft",
-  "description": "With a team led by two creative directors from Dreamworks, Katatonik's complex, unique NFTs come to life thanks to more than 100 top artists and developers. Katatonik by Serozense, is an exclusive collection of community-driven NFT collectibles crafted by the biggest minds in the tech and animation."
+  "description": "With a team led by two creative directors from Dreamworks, Katatonik's complex, unique NFTs come to life thanks to more than 100 top artists and developers. Katatonik by Serozense, is an exclusive collection of community-driven NFT collectibles crafted by the biggest minds in the tech and animation.",
+  "erc721_symbol": "KATS"
 }

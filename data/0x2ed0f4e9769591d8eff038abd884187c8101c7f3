@@ -17,5 +17,6 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "zukidao.eth"
 }

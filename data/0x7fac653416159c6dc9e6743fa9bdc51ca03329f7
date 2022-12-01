@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/55656bdfd803ad1fdb0d4215763ba3c8.jpg?w=500&auto=format",
   "externalUrl": "https://www.mixverse.com",
   "twitterUsername": "Mixverse_",
-  "description": "MixVerse is a truly-open metaverse featuring AR/VR Healthy ecosystem with balanced experiences and rewards - Utilizing NFT to incorporate contents and reward."
+  "description": "MixVerse is a truly-open metaverse featuring AR/VR Healthy ecosystem with balanced experiences and rewards - Utilizing NFT to incorporate contents and reward.",
+  "erc721_symbol": "Passcard"
 }

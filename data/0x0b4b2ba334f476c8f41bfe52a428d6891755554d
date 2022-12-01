@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "JRNY Club",
   "imageUrl": "https://i.seadn.io/gcs/files/a36bb10efc0809bead74ba523faaa226.png?w=500&auto=format",
   "externalUrl": "http://jrny.club",
   "discordUrl": "https://discord.gg/jrnyclub",
   "twitterUsername": "JRNYclub",
-  "description": "JRNY Club is a membership NFT that grants access to future sets, private community access, exclusive NFT videos, early access to partner NFT projects and more.\n\nFind more info and short-term roadmap here: https://jrny.club/"
+  "description": "JRNY Club is a membership NFT that grants access to future sets, private community access, exclusive NFT videos, early access to partner NFT projects and more.\n\nFind more info and short-term roadmap here: https://jrny.club/",
+  "erc721_symbol": "JNC"
 }

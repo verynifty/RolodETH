@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetalCore Infantry Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/21cd50688aba88b05a3927574c7d5073.gif?w=500&auto=format",
   "externalUrl": "https://www.metalcore.gg/",
   "discordUrl": "https://discord.gg/metalcore",
   "twitterUsername": "playmetalcore",
-  "description": "A genesis NFT collection of 10,000 unique and playable Infantry made for MetalCore, a visually stunning, open world, mechanized combat FPS game built by veteran game developers and Hugo Award - winning artists.\n\nMetalCore Infantry are built with a wide variety of traits, and with varying levels of rarity. These NFTs provide many forms of utility including:\n\n-Fully playable in-game assets for MetalCore\n-Early access to MetalCore’s Private Open World Alpha game launch in September 2022.\n-Exclusive access to play a variety of in-game NFT assets (infantry, tanks, aircraft, mechs) during Open World Alpha launch\n-Exclusive access to future NFT airdrops and giveaways\n-Allow membership to invite-only channels on MetalCore Discord and other community forums\n\nVisit www.metalcore.gg for more details."
+  "description": "A genesis NFT collection of 10,000 unique and playable Infantry made for MetalCore, a visually stunning, open world, mechanized combat FPS game built by veteran game developers and Hugo Award - winning artists.\n\nMetalCore Infantry are built with a wide variety of traits, and with varying levels of rarity. These NFTs provide many forms of utility including:\n\n-Fully playable in-game assets for MetalCore\n-Early access to MetalCore’s Private Open World Alpha game launch in September 2022.\n-Exclusive access to play a variety of in-game NFT assets (infantry, tanks, aircraft, mechs) during Open World Alpha launch\n-Exclusive access to future NFT airdrops and giveaways\n-Allow membership to invite-only channels on MetalCore Discord and other community forums\n\nVisit www.metalcore.gg for more details.",
+  "erc721_symbol": "INF"
 }

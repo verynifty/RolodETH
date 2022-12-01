@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "0xevm0s.eth"
 }

@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "fth.eth"
 }

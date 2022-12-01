@@ -4,5 +4,6 @@
     "veefriend-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "spz.eth"
 }

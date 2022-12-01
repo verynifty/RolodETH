@@ -4,5 +4,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "strodrols.eth"
 }

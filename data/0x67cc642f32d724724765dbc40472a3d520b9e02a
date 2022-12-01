@@ -8,5 +8,6 @@
     "mayc-minter",
     "snapshot-voter-metabrewsociety",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "zoodirektor.eth"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "http://cerealclub.com",
   "discordUrl": "https://discord.gg/cerealclub",
   "twitterUsername": "cerealclubnft",
-  "description": "Cereal Club - a collectible non-fungibowl driven community of members who will empower web3 across the NFT ecosystem.\r\n\r\nReady to open your box?"
+  "description": "Cereal Club - a collectible non-fungibowl driven community of members who will empower web3 across the NFT ecosystem.\r\n\r\nReady to open your box?",
+  "erc721_symbol": "CEREAL"
 }

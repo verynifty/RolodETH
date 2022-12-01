@@ -13,5 +13,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-mail3",
     "snapshot-voter-poh"
-  ]
+  ],
+  "ens": "cryptoinformer.eth"
 }

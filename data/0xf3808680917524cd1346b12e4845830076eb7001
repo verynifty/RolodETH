@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Teahouse HighTable: Deployer"
+  "name": "Teahouse HighTable: Deployer",
+  "ens": "teahousefinance.eth"
 }

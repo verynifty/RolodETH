@@ -2,5 +2,6 @@
   "tags": [
     "azuki-minter",
     "moonbird-minter"
-  ]
+  ],
+  "ens": "kennik.eth"
 }

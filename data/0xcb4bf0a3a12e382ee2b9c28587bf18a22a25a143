@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "yea.hammer",
   "imageUrl": "https://i.seadn.io/gae/ohdIZEJLHQj-bCSuEHJUeqfjTbwVIWCsIZXlScNO_b5vPkhLZFF_xPa8jPyiOnxKeb1YMbVC8qEKYhvjXrjI31ji0Q?w=500&auto=format",
   "externalUrl": "https://www.nft.com",
   "twitterUsername": "@nft",
-  "description": "Yea is a platform that integrates encrypted game distribution and collectibles auctions. It will become an ATM for cross-chain multi-functional tokens."
+  "description": "Yea is a platform that integrates encrypted game distribution and collectibles auctions. It will become an ATM for cross-chain multi-functional tokens.",
+  "erc721_symbol": "yeah"
 }
