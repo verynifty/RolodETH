@@ -15,5 +15,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-morpho",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "guibi.eth"
 }

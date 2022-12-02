@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BlankosBlockParty",
   "imageUrl": "https://i.seadn.io/gae/B9Kh9-YbVy7-GkfXU-pyNjriysU5kbo_N4O22vZWWlAYmWFx2ORQdiJlRfJnvSqbL-NX13ORODban74rKbFMtB7nDSRG-xlsm3rg3A?w=500&auto=format",
   "externalUrl": "https://get.blankos.com/c/b5mlc0",
   "discordUrl": "https://discord.gg/playblankos",
-  "description": "Blanko NFTs are designed by incredible brands & artists such as Burberry, TMC, Toho, Atari, and Quiccs. They can be used as playable characters in Blankos Block Party, a multiplayer party game. Visit [Blankos.com](https://get.blankos.com/c/r80y05) for info."
+  "description": "Blanko NFTs are designed by incredible brands & artists such as Burberry, TMC, Toho, Atari, and Quiccs. They can be used as playable characters in Blankos Block Party, a multiplayer party game. Visit [Blankos.com](https://get.blankos.com/c/r80y05) for info.",
+  "erc721_symbol": "BLNKS"
 }

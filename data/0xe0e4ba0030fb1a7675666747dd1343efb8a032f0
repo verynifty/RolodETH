@@ -3,5 +3,6 @@
     "azuki-minter",
     "goblin-town-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ginboi.eth"
 }

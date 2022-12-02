@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-cow"
-  ]
+  ],
+  "ens": "kakaha.eth"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Don t Buy Inu",
   "erc20_symbol": "DBI",

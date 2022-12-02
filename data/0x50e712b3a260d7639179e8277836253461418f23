@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Modz",
   "imageUrl": "https://i.seadn.io/gae/zuuaEdRdu-a41GrJeJkCdRwwz3BbRzK02ZV616mppIgfGh96YwbTufk2zNtLXUNdAajW2wTqnr-XcZ1_5XrBELOMbcVojwFXqIpvig?w=500&auto=format",
   "externalUrl": "https://themodz.io",
   "discordUrl": "https://discord.gg/ChnqesH22a",
   "twitterUsername": "TheModzKids",
-  "description": "A collection of 5,555 meta fashion avatars based on the Ethereum blockchain. Each unique Modz is randomly generated from combination of over 200 individual elements, including over 100 different outfits. "
+  "description": "A collection of 5,555 meta fashion avatars based on the Ethereum blockchain. Each unique Modz is randomly generated from combination of over 200 individual elements, including over 100 different outfits. ",
+  "erc721_symbol": "MODZ"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Huobi Polkadot",
   "erc20_symbol": "HDOT",

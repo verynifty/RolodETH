@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Avarik Saga Universe",
   "imageUrl": "https://i.seadn.io/gae/3omfnxEXm1_7tKwSwisxPHB5CxCDpEqZ1eY84RaY2TBiWdmK3B8noMmlUCozFGTsWKRFSJfajPoRmxrkTL0kTLdusYlA0G5ZaQ9U?w=500&auto=format",
   "externalUrl": "https://avariksaga.com/",
   "discordUrl": "https://discord.gg/avariksaga",
   "twitterUsername": "avariksaga",
-  "description": "Avarik Saga is the journey of the 8,888 generative NFT personas of Knights, Archers, and Wizards originated from over 300+ uniquely hand drawn traits in 4 clashing factions.\r\n\r\nThere is a legend whispered through these medieval lands, that a hero will guide their faction to triumph and cease the endless wars between the feisty Ignis, the benevolent Terra, the fluid Glacia, and the mystical Tenebris."
+  "description": "Avarik Saga is the journey of the 8,888 generative NFT personas of Knights, Archers, and Wizards originated from over 300+ uniquely hand drawn traits in 4 clashing factions.\r\n\r\nThere is a legend whispered through these medieval lands, that a hero will guide their faction to triumph and cease the endless wars between the feisty Ignis, the benevolent Terra, the fluid Glacia, and the mystical Tenebris.",
+  "erc721_symbol": "AVARIK"
 }

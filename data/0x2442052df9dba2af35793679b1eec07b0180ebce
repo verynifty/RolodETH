@@ -1,5 +1,8 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc721"
+  ],
+  "erc721_symbol": "NW",
+  "name": "Nugget Wars"
 }

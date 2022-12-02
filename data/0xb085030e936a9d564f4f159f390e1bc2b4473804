@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "90046.eth"
 }

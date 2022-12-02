@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "deadbubble.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Immortal by NFTmemeClub",
   "imageUrl": "https://i.seadn.io/gcs/files/16eb6429bb06063456f75626178b8c28.png?w=500&auto=format",
   "externalUrl": "https://www.nftmeme.club",
   "twitterUsername": "NFTmemeClub",
-  "description": "NFTmemeClub was introduced by the blue-chip holders of BAYC, Moonbirds, Goblin, Punks, Doodles, and Mfers.\r\n\r\nMembers share a vision of building sustainable, decentralized communities together. As we unite, bright ideas come true, without excessive promotion, just PURE art.\r\n\r\nAnd we are ready to sail with all the communities along the way, and other benefits will come in the next episode."
+  "description": "NFTmemeClub was introduced by the blue-chip holders of BAYC, Moonbirds, Goblin, Punks, Doodles, and Mfers.\r\n\r\nMembers share a vision of building sustainable, decentralized communities together. As we unite, bright ideas come true, without excessive promotion, just PURE art.\r\n\r\nAnd we are ready to sail with all the communities along the way, and other benefits will come in the next episode.",
+  "erc721_symbol": "IMT"
 }

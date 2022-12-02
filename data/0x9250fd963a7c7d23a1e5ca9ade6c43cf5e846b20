@@ -1,7 +1,11 @@
 {
   "tags": [
     "bancor",
-    "token-contract"
+    "token-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Bancor Network: bnENJ Token"
+  "name": "Bancor Network: bnENJ Token",
+  "erc20_symbol": "bnENJ",
+  "erc20_decimals": 18
 }
