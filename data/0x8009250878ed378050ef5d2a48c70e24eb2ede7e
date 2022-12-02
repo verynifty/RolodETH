@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Solarbots.io",
   "imageUrl": "https://i.seadn.io/gae/EKNPVxIal4IBO4gle58IIqFdP4bec1HSGxnwSPyqItPkzNyKsoO-58Z013-CLiyO2wRug-DY6IjImmdPRnAQfGnoFkgt0tdxD8TvpTc?w=500&auto=format",
   "externalUrl": "https://solarbots.io",
   "discordUrl": "https://discord.gg/solarbots",
   "twitterUsername": "solarbotsio",
-  "description": "Solarbots is an interactive social Metaverse and Storyverse that blurs the lines between gaming and reality. Bravely board the fickle coin of war and peace and join the last defense of the plane of Eld. Fight back the abyssal hordes in this last stand effort! This is your opportunity to become a Pilot. Your baptism awaits."
+  "description": "Solarbots is an interactive social Metaverse and Storyverse that blurs the lines between gaming and reality. Bravely board the fickle coin of war and peace and join the last defense of the plane of Eld. Fight back the abyssal hordes in this last stand effort! This is your opportunity to become a Pilot. Your baptism awaits.",
+  "erc721_symbol": "MK1"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "adetimi.eth"
 }

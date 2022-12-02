@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Apes Together Strong: Deployer"
+  "name": "Apes Together Strong: Deployer",
+  "ens": "atsnft.eth"
 }

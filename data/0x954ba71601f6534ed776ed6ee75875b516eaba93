@@ -4,6 +4,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-daocity",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

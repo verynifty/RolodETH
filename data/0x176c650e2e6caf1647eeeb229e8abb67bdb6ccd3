@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaSpaceBabies",
   "imageUrl": "https://i.seadn.io/gae/0F638d6bSvZbBIgFgj6omDGilscgWsKmJj8c9wV0tcrsVaHIXs0aHvjZ-7P3oG6Ita-hOOSZB9rXldjPh8bm_lzTP4AvqavOQUF4xnk?w=500&auto=format",
-  "description": "MetaSpaceBabies on Ethereum"
+  "description": "MetaSpaceBabies on Ethereum",
+  "erc721_symbol": "MSB"
 }

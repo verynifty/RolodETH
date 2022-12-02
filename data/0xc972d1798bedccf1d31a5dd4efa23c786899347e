@@ -1,6 +1,7 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-uniswap"
   ],
   "ens": "0x0057.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "8pools.eth"
 }

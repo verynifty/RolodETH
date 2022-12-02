@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "dwstETH",
+  "erc20_decimals": 18,
+  "name": "diesel Wrapped liquid staked Ether 2.0"
+}

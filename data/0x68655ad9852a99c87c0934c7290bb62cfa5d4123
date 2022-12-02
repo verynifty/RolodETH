@@ -1,6 +1,7 @@
 {
   "tags": [
-    "aura-finance"
+    "aura-finance",
+    "contract"
   ],
   "name": "Aura: auraBALBpt Depositor Wrapper"
 }

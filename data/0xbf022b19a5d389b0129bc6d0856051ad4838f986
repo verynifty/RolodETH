@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

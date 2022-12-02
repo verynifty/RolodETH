@@ -6,7 +6,8 @@
     "top-degen",
     "sudoswap-user",
     "snapshot-voter-ybaby",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-gauge-rbn"
   ],
   "name": "Defiprime : Donate"
 }

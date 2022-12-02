@@ -1,7 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "btc312.eth"
 }

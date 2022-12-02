@@ -4,5 +4,6 @@
     "gitcoin-grantee",
     "snapshot-voter-theidols",
     "snapshot-voter-cre8r"
-  ]
+  ],
+  "ens": "ceazor.eth"
 }

@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "DOLA BSP",
+  "erc20_decimals": 18,
+  "name": "Balancer DOLA bb-a-usd Stable"
 }

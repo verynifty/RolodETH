@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-kwenta"
+    "snapshot-voter-kwenta",
+    "snapshot-voter-yoroi"
   ]
 }

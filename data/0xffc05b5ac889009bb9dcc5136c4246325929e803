@@ -1,7 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ],
   "ens": "annlee.eth"
 }

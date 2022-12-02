@@ -4,5 +4,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "zhendong.eth"
 }

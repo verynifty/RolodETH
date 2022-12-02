@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Imperial Obelisk",
   "erc20_symbol": "IMP",

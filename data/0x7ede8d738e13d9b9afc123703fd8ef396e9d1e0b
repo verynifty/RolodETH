@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "contract",
+    "proxy"
+  ],
+  "ens": "mycointainer.eth",
+  "proxy": "0x3f9a0b1a0b81473e051a26a039f730b28f02018b"
+}

@@ -9,5 +9,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "alichain.eth"
 }

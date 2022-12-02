@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Rare Rats",
-  "imageUrl": "https://i.seadn.io/gae/_6OdKZrCoOLMfGqlsnt568fm7HIWwGnh8dz-C0Qeq6HWyk4BwotEyZ7fZPWX8yps4SagYEBMm3mtOtWkU_ZR7Q2tqUkcEUsSzfKSuA?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gae/_6OdKZrCoOLMfGqlsnt568fm7HIWwGnh8dz-C0Qeq6HWyk4BwotEyZ7fZPWX8yps4SagYEBMm3mtOtWkU_ZR7Q2tqUkcEUsSzfKSuA?w=500&auto=format",
+  "erc721_symbol": "RARERATS"
 }

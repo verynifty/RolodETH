@@ -4,5 +4,6 @@
     "hashmask-minter",
     "meebit-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "hfsp.eth"
 }

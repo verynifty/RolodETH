@@ -4,5 +4,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-gal",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "5theway.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-etherscoredao"
-  ]
+  ],
+  "ens": "0xbyte.eth"
 }

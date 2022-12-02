@@ -7,5 +7,6 @@
     "wow-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "pew.eth"
 }

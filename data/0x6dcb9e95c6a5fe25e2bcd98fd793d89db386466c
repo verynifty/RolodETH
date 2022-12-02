@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "herse.eth"
 }

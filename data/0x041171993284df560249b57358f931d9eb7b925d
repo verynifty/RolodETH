@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "cUSDP",
+  "erc20_decimals": 8,
+  "name": "Compound Pax Dollar",
+  "proxy": "0x3363bae2fc44da742df13cd3ee94b6bb868ea376"
+}

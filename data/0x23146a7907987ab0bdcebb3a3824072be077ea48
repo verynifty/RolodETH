@@ -8,5 +8,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-1inch"
-  ]
+  ],
+  "ens": "kantt.eth"
 }

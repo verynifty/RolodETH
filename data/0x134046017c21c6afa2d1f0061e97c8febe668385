@@ -6,5 +6,6 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "seeoo.eth"
 }
