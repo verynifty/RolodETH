@@ -5,6 +5,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-ens",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-sismo"
   ]
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Super Geisha",
   "imageUrl": "https://i.seadn.io/gae/CRDT4LdRcGAbgeSh8N2eUDW1RXq7dNo32PcTdpfuWkONnzI4Nd5jZKbfHC9dVDNUUxmjqn-18CsF3xzh7dB0tUNG2VQUGAc_9QOtyQ?w=500&auto=format",
   "externalUrl": "https://www.supergeisha.io/",
   "discordUrl": "https://discord.gg/supergeisha",
   "twitterUsername": "CryptoGeisha",
-  "description": "Uncontrollable, chaotic, diverse, but friendly giant beings have arrived on Earth from GeishaLand, ready to defend humanity from the fearsome Kaiju! Super Geisha is a collection featuring 6776 unique characters and banners algorithmically generated using over 210 hand-drawn traits."
+  "description": "Uncontrollable, chaotic, diverse, but friendly giant beings have arrived on Earth from GeishaLand, ready to defend humanity from the fearsome Kaiju! Super Geisha is a collection featuring 6776 unique characters and banners algorithmically generated using over 210 hand-drawn traits.",
+  "erc721_symbol": "SG"
 }

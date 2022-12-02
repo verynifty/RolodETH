@@ -6,5 +6,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "cryptooptesi-m.eth"
 }

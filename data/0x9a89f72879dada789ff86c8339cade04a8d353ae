@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "微信小程序.eth"
 }

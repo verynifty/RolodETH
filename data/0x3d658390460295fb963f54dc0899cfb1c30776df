@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Circuits of Value",
   "erc20_symbol": "COVAL",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950"
+  "imageURL": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
+  "proxy": "0xf0768df35693f5ef9194a0397f73d68175059e29"
 }

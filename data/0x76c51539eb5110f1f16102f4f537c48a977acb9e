@@ -5,5 +5,6 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "bubblee.eth"
 }

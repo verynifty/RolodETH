@@ -10,6 +10,7 @@
     "snapshot-voter-tutsy",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cakevote",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-sismo"
   ]
 }

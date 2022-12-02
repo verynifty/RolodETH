@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Freeway",
   "erc20_symbol": "FWT",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13012/thumb/S5h7MHR.png?1652862323"
+  "imageURL": "https://assets.coingecko.com/coins/images/13012/thumb/S5h7MHR.png?1652862323",
+  "proxy": "0x267646cf908131d95cdee9be5807e59a4f5049ed"
 }

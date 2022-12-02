@@ -3,6 +3,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-sismo"
   ]
 }

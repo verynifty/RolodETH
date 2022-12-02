@@ -5,7 +5,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-pranjalbora"
+    "snapshot-voter-pranjalbora",
+    "snapshot-voter-sismo"
   ],
   "ens": "sandhugopi.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "etheremon"
+    "etheremon",
+    "contract"
   ],
   "name": "Ethermon: EMON Token",
   "erc20_symbol": "EMON",

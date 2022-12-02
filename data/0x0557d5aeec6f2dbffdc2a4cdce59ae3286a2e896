@@ -9,7 +9,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "kryos.eth"
 }

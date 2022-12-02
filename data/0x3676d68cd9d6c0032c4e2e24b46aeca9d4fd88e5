@@ -7,6 +7,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-olympusdao",
     "snapshot-voter-hop",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-stgdao"
   ]
 }

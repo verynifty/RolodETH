@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "XBorg NFT",
   "imageUrl": "https://i.seadn.io/gae/xNt5-q2aiE3fhDICalm23CWKcD4qFsJq6fAQcTsY8DvMEPuvm_ksBnH5e2lEoDE7dQ8bUYXimaIi76JLsPa432WXoGV1zGzuahopog?w=500&auto=format",
   "externalUrl": "https://vispx.io/",
   "discordUrl": "https://discord.gg/vispx",
   "twitterUsername": "VispX_official",
-  "description": "XBorgs’ are a genesis collection of 2,500 NFTs on Ethereum blockchain and a brand mascot of VISPX.\nThe XBorg NFTs are made up of hundreds of hand-drawn exciting visual traits that make them unique.\nKnown for its powerhouse of features, holding this unique NFT unlocks 10+ utilities including\n\n✅  Passive Income\n\n✅  Unlimited access to IDOs on the VispX launchpad\n\n✅  Governance\n\n✅  Early access to project perks"
+  "description": "XBorgs’ are a genesis collection of 2,500 NFTs on Ethereum blockchain and a brand mascot of VISPX.\nThe XBorg NFTs are made up of hundreds of hand-drawn exciting visual traits that make them unique.\nKnown for its powerhouse of features, holding this unique NFT unlocks 10+ utilities including\n\n✅  Passive Income\n\n✅  Unlimited access to IDOs on the VispX launchpad\n\n✅  Governance\n\n✅  Early access to project perks",
+  "erc721_symbol": "XBORG"
 }

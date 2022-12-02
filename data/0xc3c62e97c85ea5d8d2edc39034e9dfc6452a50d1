@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ToyMories",
   "imageUrl": "https://i.seadn.io/gcs/files/2e8858b71da7efe3bffcd34a866294f3.png?w=500&auto=format",
   "externalUrl": "https://toymories.com/",
   "discordUrl": "https://discord.gg/cS74pPSGXT",
   "twitterUsername": "ToyMories",
-  "description": "NFTs come to life through our efforts, becoming IRL toys. When you buy the IRL toy of your NFT, we donate a toy to a kid in need ❤  http://linktr.ee/toymories\n\n✅ One of the best communities in NFTs\n\n🧑‍🤝‍🧑 Over 1650 unique holders\n\n🧸 IRL TOYS ➡️ https://toymories.nft2print.com \n\n🎁 Official Partners with TOYS FOR TOTS 🙌 https://twitter.com/ToysForTots_USA\n"
+  "description": "NFTs come to life through our efforts, becoming IRL toys. When you buy the IRL toy of your NFT, we donate a toy to a kid in need ❤  http://linktr.ee/toymories\n\n✅ One of the best communities in NFTs\n\n🧑‍🤝‍🧑 Over 1650 unique holders\n\n🧸 IRL TOYS ➡️ https://toymories.nft2print.com \n\n🎁 Official Partners with TOYS FOR TOTS 🙌 https://twitter.com/ToysForTots_USA\n",
+  "erc721_symbol": "TOYMORIES"
 }

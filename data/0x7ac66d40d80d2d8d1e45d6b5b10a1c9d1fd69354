@@ -11,5 +11,6 @@
   "externalUrl": "https://neotokyo.codes/",
   "discordUrl": "https://discord.gg/neotokyocitadel",
   "twitterUsername": "NeoTokyoCode",
-  "description": "Items and clothing for the discerning Outer Citizen. Cache’s were looted by victorious soldiers in The Great War of Neo Tokyo. To the victor went the spoils.\r\n\r\nNeo Tokyo is a collection of VCs, developers, token founders, and highly proficient builders all gathered in one exclusive area of web3. \r\nOur calling at Neo Tokyo is to prepare and be well positioned at the forefront of the metaverse revolution, once it inevitably arrives. https://neotokyo.codes"
+  "description": "Items and clothing for the discerning Outer Citizen. Cache’s were looted by victorious soldiers in The Great War of Neo Tokyo. To the victor went the spoils.\r\n\r\nNeo Tokyo is a collection of VCs, developers, token founders, and highly proficient builders all gathered in one exclusive area of web3. \r\nOur calling at Neo Tokyo is to prepare and be well positioned at the forefront of the metaverse revolution, once it inevitably arrives. https://neotokyo.codes",
+  "erc721_symbol": "NTOITEM"
 }

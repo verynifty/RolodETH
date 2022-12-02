@@ -8,6 +8,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-mail3",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-sismo"
   ]
 }

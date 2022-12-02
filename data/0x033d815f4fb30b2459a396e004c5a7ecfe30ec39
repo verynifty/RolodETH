@@ -10,7 +10,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yam",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-sismo"
   ],
   "ens": "ansor.eth"
 }

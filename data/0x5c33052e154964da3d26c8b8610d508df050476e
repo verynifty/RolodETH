@@ -8,5 +8,6 @@
     "snapshot-voter-opcollective",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xperdez.eth"
 }

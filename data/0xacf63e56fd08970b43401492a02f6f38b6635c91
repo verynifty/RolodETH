@@ -10,5 +10,6 @@
   "externalUrl": "https://kanpaipandas.io/",
   "discordUrl": "https://discord.gg/ucR7YRUR52",
   "twitterUsername": "KanpaiPandas",
-  "description": "Kanpai Pandas is an omnichain NFT collection that merges exclusive luxurious collaborations and major brand partnerships with on-chain game theory to provide tangible real-world utility to holders. This collection shows Pandas that are currently roaming Ethereum Mainnet."
+  "description": "Kanpai Pandas is an omnichain NFT collection that merges exclusive luxurious collaborations and major brand partnerships with on-chain game theory to provide tangible real-world utility to holders. This collection shows Pandas that are currently roaming Ethereum Mainnet.",
+  "erc721_symbol": "YKPS"
 }

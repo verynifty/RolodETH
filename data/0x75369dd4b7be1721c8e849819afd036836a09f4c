@@ -3,7 +3,8 @@
     "snapshot-voter-liveartxevent",
     "opensea-user",
     "snapshot-voter-aave",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "youngnoah.eth"
 }

@@ -7,6 +7,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-sismo"
   ]
 }

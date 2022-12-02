@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-nation3"
+    "snapshot-voter-nation3",
+    "snapshot-voter-stgdao"
   ]
 }

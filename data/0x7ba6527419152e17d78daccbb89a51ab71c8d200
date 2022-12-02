@@ -5,6 +5,7 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "maker-vault-owner"
+    "maker-vault-owner",
+    "snapshot-voter-cvx"
   ]
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "AZITO Land Deed",
   "imageUrl": "https://i.seadn.io/gcs/files/a26ade89ec2c7483b36cd0230d37a41d.png?w=500&auto=format",
   "externalUrl": "https://azito.xyz/",
   "discordUrl": "https://discord.gg/azito",
-  "twitterUsername": "AZITOofficial"
+  "twitterUsername": "AZITOofficial",
+  "proxy": "0x10c06f8b3695813276b4a921c06bb3b122aaf9d2"
 }

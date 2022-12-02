@@ -5,6 +5,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-swaprsnapshot",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ]
 }

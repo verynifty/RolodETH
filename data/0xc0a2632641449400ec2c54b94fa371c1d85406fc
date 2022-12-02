@@ -10,5 +10,6 @@
   "externalUrl": "https://metaclubsociety.com/",
   "discordUrl": "https://discord.gg/metaclubsociety",
   "twitterUsername": "MetaclubSociety",
-  "description": "The Metaclubbers is a collection of 3D metaverse-ready avatars generated from over 350+ high-fashion traits. They will represent the wildest version of you in the metaverse with multiple perks and utilities. Wear your avatar and get ready to party with the world's largest celebrities and DJs. Join the biggest entertainment ecosystem!"
+  "description": "The Metaclubbers is a collection of 3D metaverse-ready avatars generated from over 350+ high-fashion traits. They will represent the wildest version of you in the metaverse with multiple perks and utilities. Wear your avatar and get ready to party with the world's largest celebrities and DJs. Join the biggest entertainment ecosystem!",
+  "erc721_symbol": "METACLUBBER"
 }

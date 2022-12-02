@@ -3,5 +3,6 @@
     "meebit-minter",
     "clonex-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "iammm.eth"
 }

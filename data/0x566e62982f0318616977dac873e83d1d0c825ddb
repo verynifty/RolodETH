@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "0xzahid.eth"
 }

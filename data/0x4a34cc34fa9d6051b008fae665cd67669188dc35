@@ -6,6 +6,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-sismo"
   ]
 }

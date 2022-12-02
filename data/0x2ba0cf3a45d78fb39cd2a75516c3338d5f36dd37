@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-sismo"
   ]
 }

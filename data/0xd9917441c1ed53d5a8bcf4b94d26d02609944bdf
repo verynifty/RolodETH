@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Apes Zuki Club",
   "imageUrl": "https://i.seadn.io/gae/BqItOU6rVeqBSCjBzrpZZCSzaN_ifjJwcbNAOq6ZBu8W3N1P4ehpsLBFOv79G47DFpO4b6qYKV2FCp4s8EpSRD16gcEEziSRjDrJ_A?w=500&auto=format",
   "twitterUsername": "ApesZukiClubNFT",
-  "description": "Welcome to ApesZukiClub Official \n\n\n\n"
+  "description": "Welcome to ApesZukiClub Official \n\n\n\n",
+  "erc721_symbol": "AZC"
 }

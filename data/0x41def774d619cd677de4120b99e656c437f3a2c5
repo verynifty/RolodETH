@@ -4,6 +4,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "snapshot-voter-balancer",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

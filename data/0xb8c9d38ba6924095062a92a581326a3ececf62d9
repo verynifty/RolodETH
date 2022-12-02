@@ -2,6 +2,7 @@
   "tags": [
     "bayc-minter",
     "moonbird-minter",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ]
 }

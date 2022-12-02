@@ -6,6 +6,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-sismo"
   ]
 }
