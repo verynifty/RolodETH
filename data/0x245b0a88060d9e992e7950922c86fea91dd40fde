@@ -13,5 +13,6 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
     "snapshot-voter-people-dao"
-  ]
+  ],
+  "ens": "btc998.eth"
 }

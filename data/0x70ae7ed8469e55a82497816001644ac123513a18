@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave"
   ]
 }

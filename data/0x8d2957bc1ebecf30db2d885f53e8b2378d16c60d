@@ -10,5 +10,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "001225.eth"
 }

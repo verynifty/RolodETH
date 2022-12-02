@@ -3,7 +3,8 @@
     "bayc-minter",
     "clonex-minter",
     "mayc-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-ilv"
   ],
   "ens": "bluest-chips.eth"
 }

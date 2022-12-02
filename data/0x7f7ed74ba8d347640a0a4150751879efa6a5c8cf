@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "sudoswap-user",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-sismo"
   ]
 }

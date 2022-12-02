@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Creepz Invasion Pass",
   "imageUrl": "https://i.seadn.io/gae/oOYqa8FG4AHJO4UfAPqhq1HCx913e-OmmbUUyiOSxqF7-vHfiI4mys9eBY6p0H1AVxgqsAR_4c4nAE8WvP53dybO7C7xmj5XkyFZNA?w=500&auto=format",
   "externalUrl": "https://www.creepz.co/",
   "discordUrl": "https://discord.gg/ColdBloodedCreepz",
   "twitterUsername": "CBCreepz",
-  "description": "Pairing a pass with each of your Creepz Genesis, grants you as many 3D Creepz when they release. Get your Creepz here: https://opensea.io/collection/genesis-creepz\r\n\r\nThe pass is also your VIP passport to the Creepz ecosystem for all kinds of exclusive in-game and IRL experiences and perks.\r\n\r\nN.B This does not entitle you to claim a 2D Genesis Creepz."
+  "description": "Pairing a pass with each of your Creepz Genesis, grants you as many 3D Creepz when they release. Get your Creepz here: https://opensea.io/collection/genesis-creepz\r\n\r\nThe pass is also your VIP passport to the Creepz ecosystem for all kinds of exclusive in-game and IRL experiences and perks.\r\n\r\nN.B This does not entitle you to claim a 2D Genesis Creepz.",
+  "erc721_symbol": "IP"
 }

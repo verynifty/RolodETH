@@ -7,7 +7,8 @@
     "snapshot-voter-gmx",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "xxxccc.eth"
 }

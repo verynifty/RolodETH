@@ -8,6 +8,8 @@
     "snapshot-voter-beets",
     "snapshot-voter-badgerdao",
     "snapshot-voter-qidao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-ybaby"
   ]
 }

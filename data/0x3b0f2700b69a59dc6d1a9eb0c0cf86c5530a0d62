@@ -8,7 +8,8 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "love522.eth"
 }

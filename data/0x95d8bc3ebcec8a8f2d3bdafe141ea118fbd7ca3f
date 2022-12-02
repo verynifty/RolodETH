@@ -15,5 +15,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "999x9.eth"
 }

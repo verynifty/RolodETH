@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-via-exchange"
-  ]
+  ],
+  "ens": "apolon.eth"
 }

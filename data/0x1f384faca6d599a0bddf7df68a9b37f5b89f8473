@@ -3,6 +3,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gmx",
     "snapshot-voter-opcollective",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-stgdao"
   ]
 }

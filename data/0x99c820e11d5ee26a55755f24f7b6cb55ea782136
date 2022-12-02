@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "goodproject.eth"
 }

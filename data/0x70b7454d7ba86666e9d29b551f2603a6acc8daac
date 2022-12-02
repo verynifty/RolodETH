@@ -14,6 +14,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-mail3"
   ]
 }

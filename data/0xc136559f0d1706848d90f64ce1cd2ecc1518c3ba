@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-53231323"
   ],
   "ens": "mchimchi.eth"
 }

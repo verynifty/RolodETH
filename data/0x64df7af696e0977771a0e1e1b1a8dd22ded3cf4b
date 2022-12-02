@@ -1,7 +1,8 @@
 {
   "tags": [
     "mayc-minter",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao"
   ],
   "ens": "hollymolly.eth"
 }

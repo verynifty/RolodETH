@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gangsta Mice City",
   "imageUrl": "https://i.seadn.io/gcs/files/9a9a31177896102f9e97052f1717006a.gif?w=500&auto=format",
   "externalUrl": "https://gangstamicecity.io",
   "discordUrl": "https://discord.gg/invite/gangstamicecity",
   "twitterUsername": "GMC_NFT",
-  "description": "Enter Gangsta Mice City's Gang Wars: a MMO Real Time Strategy game on the block-chain.\r\n\r\nGangsta Mice City is a collection of 6,666 playable ERC721 tokens. Each gangster belongs to one of the three gangs: Yakuza, Cyberpunk, or Cartel. With the support of the gang, your goal is to conquer and hold as many districts as possible. Coordination within your gang is key to victory."
+  "description": "Enter Gangsta Mice City's Gang Wars: a MMO Real Time Strategy game on the block-chain.\r\n\r\nGangsta Mice City is a collection of 6,666 playable ERC721 tokens. Each gangster belongs to one of the three gangs: Yakuza, Cyberpunk, or Cartel. With the support of the gang, your goal is to conquer and hold as many districts as possible. Coordination within your gang is key to victory.",
+  "erc721_symbol": "GMC"
 }

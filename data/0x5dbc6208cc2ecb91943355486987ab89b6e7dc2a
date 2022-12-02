@@ -9,7 +9,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-sismo"
   ],
   "ens": "kuzinbuzin.eth"
 }

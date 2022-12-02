@@ -12,6 +12,7 @@
     "snapshot-voter-popcorn-snapshot",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-8848labs",
-    "snapshot-voter-baovotes"
+    "snapshot-voter-baovotes",
+    "snapshot-voter-sismo"
   ]
 }

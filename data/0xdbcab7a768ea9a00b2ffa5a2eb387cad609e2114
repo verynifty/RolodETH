@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alpha Kongs Club - AKC",
   "imageUrl": "https://i.seadn.io/gae/N6YXi9ZsBkVgOoxsblVJPFKAc1kNwBM8eabxswdAM9Fs9R4ktNhS-1GqEFgGjuyhgL27DQWWclmEgjyetRA_uUXGfChEU2PWI4rTHw?w=500&auto=format",
   "externalUrl": "https://www.alphakongsclub.com/ecosystem",
   "discordUrl": "https://discord.gg/alphakongsclub",
   "twitterUsername": "AlphaKongsClub",
-  "description": "Actual owner count (June 1st 2022): 5100\n\nAn Exclusive Club of 8,888 Alpha Kongs, made by the lead visual artists behind Star Wars, Game of Thrones, Harry Potter, Pokémon and more.\n\nEarn daily yield and play games in a unique ecosystem that combines P2E, DeFi and NFTs. \n\nEnter the AKC ecosystem now. 🌐\n\nVisit the Omega Kongs website to learn more about the upcoming collection. \nhttps://www.alphakongsclub.com/omega\n\n\n"
+  "description": "Actual owner count (June 1st 2022): 5100\n\nAn Exclusive Club of 8,888 Alpha Kongs, made by the lead visual artists behind Star Wars, Game of Thrones, Harry Potter, Pokémon and more.\n\nEarn daily yield and play games in a unique ecosystem that combines P2E, DeFi and NFTs. \n\nEnter the AKC ecosystem now. 🌐\n\nVisit the Omega Kongs website to learn more about the upcoming collection. \nhttps://www.alphakongsclub.com/omega\n\n\n",
+  "erc721_symbol": "AKC"
 }

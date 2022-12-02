@@ -4,5 +4,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "vuo-rupd.eth"
 }

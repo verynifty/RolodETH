@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-qwla",
     "snapshot-voter-sharkdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-aavegotchi"
   ]
 }

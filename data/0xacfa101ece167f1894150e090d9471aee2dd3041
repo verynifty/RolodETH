@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Feline Fiendz NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/ae224c35f2ca47a728b7bde298f6aa3d.png?w=500&auto=format",
   "externalUrl": "http://www.fiendz.io",
   "discordUrl": "https://discord.gg/felinefiendz",
   "twitterUsername": "FelineFiendz",
-  "description": "Fiendz is a digital art collection and web3 native community focused on cultivating a culture of inclusivity, artistry and the greatest storytelling in the space."
+  "description": "Fiendz is a digital art collection and web3 native community focused on cultivating a culture of inclusivity, artistry and the greatest storytelling in the space.",
+  "erc721_symbol": "FF"
 }

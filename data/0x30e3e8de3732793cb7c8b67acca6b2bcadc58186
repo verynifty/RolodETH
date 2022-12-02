@@ -3,5 +3,6 @@
     "coolcat-minter",
     "hashmask-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "ajeje.eth"
 }

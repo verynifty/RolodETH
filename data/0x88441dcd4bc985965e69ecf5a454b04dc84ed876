@@ -13,5 +13,6 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "0008a.eth"
 }

@@ -14,6 +14,7 @@
     "snapshot-voter-beefydao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-ybaby"
   ]
 }

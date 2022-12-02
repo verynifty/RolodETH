@@ -8,6 +8,7 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-hashflowdao"
   ]
 }

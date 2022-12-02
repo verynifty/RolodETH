@@ -8,7 +8,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-sismo"
   ],
   "ens": "tyelf.eth"
 }

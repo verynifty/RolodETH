@@ -1,6 +1,9 @@
 {
   "tags": [
-    "ribbon-finance"
+    "ribbon-finance",
+    "contract",
+    "proxy"
   ],
-  "name": "Ribbon Finance: ETH Covered Call V2"
+  "name": "Ribbon Finance: ETH Covered Call V2",
+  "proxy": "0x7a6a812188d01d08def011356b98425997800429"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "poapy.eth"
 }

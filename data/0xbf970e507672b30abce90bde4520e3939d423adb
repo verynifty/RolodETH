@@ -8,6 +8,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-streamr"
+    "snapshot-voter-streamr",
+    "snapshot-voter-mail3"
   ]
 }

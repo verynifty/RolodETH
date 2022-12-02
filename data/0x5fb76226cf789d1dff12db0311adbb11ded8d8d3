@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-aave",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-stgdao"
   ]
 }

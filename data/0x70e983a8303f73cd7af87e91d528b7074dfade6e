@@ -11,6 +11,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-hashflowdao"
   ]
 }

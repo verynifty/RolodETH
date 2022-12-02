@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "InfiniGods - InfiniPass",
   "imageUrl": "https://i.seadn.io/gcs/files/4239c9b3fb16d1557236ee67e5f38e4e.png?w=500&auto=format",
   "externalUrl": "https://infinigods.com/infinipass/",
   "discordUrl": "https://discord.gg/infinigods",
   "twitterUsername": "InfiniGods",
-  "description": "The **InfiniPass** is an all-access pass to the InfiniGods Universe (IGU) of blockchain games. Passes provide access to early gameplay content, bonus play periods, exclusive NFT drops, and powerful in-game boosts — for life. \n\nTwo passes exist in the IGU: the **Community Pass** and **Ultimate Pass.** \n\n**The Community Pass:** Designed for a broad group of gamers. Max total supply of 3,190.\n\n- — Early access to all InfiniGods game titles.\n- — Exclusive access to mint all future InfiniGods NFT releases.\n- — Passive gameplay boosts & power-ups.\n- — Access to passholder-gated tournaments.\n\n**The Ultimate Pass:** Travel deeper into the IGU. Only 260 exist.\n\n- — Airdropped NFTs for every InfiniGods release in perpetuity.\n- — Enhanced gameplay boosts and power-ups.\n- — Access to the Roundtable.\n- — Access to the game development team.\n- — Special NFT drops (1 per release)."
+  "description": "The **InfiniPass** is an all-access pass to the InfiniGods Universe (IGU) of blockchain games. Passes provide access to early gameplay content, bonus play periods, exclusive NFT drops, and powerful in-game boosts — for life. \n\nTwo passes exist in the IGU: the **Community Pass** and **Ultimate Pass.** \n\n**The Community Pass:** Designed for a broad group of gamers. Max total supply of 3,190.\n\n- — Early access to all InfiniGods game titles.\n- — Exclusive access to mint all future InfiniGods NFT releases.\n- — Passive gameplay boosts & power-ups.\n- — Access to passholder-gated tournaments.\n\n**The Ultimate Pass:** Travel deeper into the IGU. Only 260 exist.\n\n- — Airdropped NFTs for every InfiniGods release in perpetuity.\n- — Enhanced gameplay boosts and power-ups.\n- — Access to the Roundtable.\n- — Access to the game development team.\n- — Special NFT drops (1 per release).",
+  "erc721_symbol": "INFG"
 }

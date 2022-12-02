@@ -11,6 +11,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-sismo"
   ]
 }

@@ -3,7 +3,8 @@
     "otherdeed-minter",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-cakevote"
   ],
   "ens": "gvargs.eth"
 }

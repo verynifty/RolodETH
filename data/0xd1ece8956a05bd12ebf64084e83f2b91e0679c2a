@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave"
+  ],
   "ens": "sobblee.eth"
 }

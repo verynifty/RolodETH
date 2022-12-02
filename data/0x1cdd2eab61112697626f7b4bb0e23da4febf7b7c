@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "wormhole"
+    "wormhole",
+    "contract",
+    "proxy"
   ],
   "name": "Wormhole: USDTso Token",
   "erc20_symbol": "USDTSO",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1644223113"
+  "imageURL": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1644223113",
+  "proxy": "0x0fd04a68d3c3a692d6fa30384d1a87ef93554ee6"
 }

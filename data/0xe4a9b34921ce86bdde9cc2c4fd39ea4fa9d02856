@@ -8,7 +8,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-mail3"
   ],
   "ens": "huugin.eth"
 }

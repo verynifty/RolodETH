@@ -7,6 +7,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-eulerdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-sismo"
   ]
 }

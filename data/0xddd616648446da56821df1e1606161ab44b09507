@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "TRONS X",
   "imageUrl": "https://i.seadn.io/gae/Of8kSJ6q8JaUqFlOHvHu1XJ7C02dHz7gmxv4wcuu6PsmhfmTcWUU-4DSz79mJJzkYxeC1fBM_80rUQC4sMOr533koCG2ohUZaiaRGg?w=500&auto=format",
   "externalUrl": "https://thetronwars.com/",
   "discordUrl": "https://discord.gg/thetronwars",
   "twitterUsername": "thetronwars",
-  "description": "The war has begun, 8.888 Trons are responsible for maintaining order.\n\nOur galaxy is ruled by three non-binary entities, and the Ninjas are the beholders of them. A hierarchy is established, robots and samurais are content to obey and accomplish the tasks. Ninjas are the undisputed masters of TronVerse, no event can occur without their agreement.\n\nWe are more than just a collection of NFTs, we are an army on the march to the beyond."
+  "description": "The war has begun, 8.888 Trons are responsible for maintaining order.\n\nOur galaxy is ruled by three non-binary entities, and the Ninjas are the beholders of them. A hierarchy is established, robots and samurais are content to obey and accomplish the tasks. Ninjas are the undisputed masters of TronVerse, no event can occur without their agreement.\n\nWe are more than just a collection of NFTs, we are an army on the march to the beyond.",
+  "erc721_symbol": "TRONX"
 }

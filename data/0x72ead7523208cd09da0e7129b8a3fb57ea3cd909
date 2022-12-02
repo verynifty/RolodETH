@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "0x7459.eth"
 }

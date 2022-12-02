@@ -8,7 +8,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-sismo"
   ],
   "ens": "marutsya.eth"
 }

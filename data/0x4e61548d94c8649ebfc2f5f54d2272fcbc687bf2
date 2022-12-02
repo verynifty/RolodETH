@@ -9,6 +9,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-sismo"
   ]
 }

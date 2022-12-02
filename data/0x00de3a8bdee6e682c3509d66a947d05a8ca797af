@@ -8,5 +8,6 @@
     "snapshot-voter-defiall",
     "snapshot-voter-gearbox",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "safeking.eth"
 }

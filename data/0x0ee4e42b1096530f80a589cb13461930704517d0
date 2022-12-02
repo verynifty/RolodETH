@@ -5,6 +5,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-tempusgov",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ]
 }
