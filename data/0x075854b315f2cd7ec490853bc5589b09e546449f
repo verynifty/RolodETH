@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MTM Characters",
   "imageUrl": "https://i.seadn.io/gae/EPPZLeMJAxtOLaV1TfKJ6qgsYlCoVhAE_e73QZSke7HKk1Whw8UcxrnihWpLKHhRK6ssUdtXanahbz9ySvlVpFGyD6ZKI0yFg3LsRyM?w=500&auto=format",
   "externalUrl": "https://characters.messagetomartians.com/",
   "discordUrl": "https://discord.gg/mtm",
-  "description": "Characters beamed up from burning a set of Space Capsule & Transponder!\n\nGrab one now!\n\nhttps://opensea.io/collection/space-capsules\n\nhttps://opensea.io/collection/transponders\n\nCharacter Guide:\n\nhttps://tinyurl.com/MTMCharacterGuide2\n\nCharacter MINTING Guide:\n\nhttps://tinyurl.com/MTMCharacterMintingGudie"
+  "description": "Characters beamed up from burning a set of Space Capsule & Transponder!\n\nGrab one now!\n\nhttps://opensea.io/collection/space-capsules\n\nhttps://opensea.io/collection/transponders\n\nCharacter Guide:\n\nhttps://tinyurl.com/MTMCharacterGuide2\n\nCharacter MINTING Guide:\n\nhttps://tinyurl.com/MTMCharacterMintingGudie",
+  "erc721_symbol": "CHARACTERS"
 }

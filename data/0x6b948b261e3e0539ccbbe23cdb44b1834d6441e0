@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "RYU",
+  "erc20_decimals": 5,
+  "name": "THE DRAGON KING"
+}

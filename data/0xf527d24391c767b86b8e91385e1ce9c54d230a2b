@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Tsuzuki Inu",
   "erc20_symbol": "TZKI",

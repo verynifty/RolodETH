@@ -5,6 +5,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-ens",
     "snapshot-voter-tecommons",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-gitcoingov"
   ]
 }

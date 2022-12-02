@@ -5,5 +5,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "web3pacy.eth"
 }

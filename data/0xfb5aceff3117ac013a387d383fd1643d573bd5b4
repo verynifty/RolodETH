@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Galerie Yeche Lange Pie Key Un",
   "imageUrl": "https://i.seadn.io/gae/HvxdddcfMDBwNFnxLhbo9OlF320yls_cGieJw_1f2cfa9_Nt42ML5kmBnwDc_JuPYx4ArdVe2yvnK5MADTOpEeePVMlRTODkEcDFaw?w=500&auto=format",
   "externalUrl": "http://galerie-yechelange.baby/",
   "discordUrl": "https://discord.gg/Qq73CBxPpp",
-  "description": "Pie keys are a series of 1,111 NFTs by Jared Madere that grant the holder discounts, free mints of NFTs by gallery artists, and inclusion on further whitelists.\n\nIn the shape of an especially baroque key, the slice of Pie at the center of the image is embossed with the Yeche Lange logo and sits on one of twelve plate varieties, hovering over a unique background.\n"
+  "description": "Pie keys are a series of 1,111 NFTs by Jared Madere that grant the holder discounts, free mints of NFTs by gallery artists, and inclusion on further whitelists.\n\nIn the shape of an especially baroque key, the slice of Pie at the center of the image is embossed with the Yeche Lange logo and sits on one of twelve plate varieties, hovering over a unique background.\n",
+  "erc721_symbol": "PIE"
 }

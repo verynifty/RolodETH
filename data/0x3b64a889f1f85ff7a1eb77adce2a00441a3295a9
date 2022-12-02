@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin"
   ]
 }

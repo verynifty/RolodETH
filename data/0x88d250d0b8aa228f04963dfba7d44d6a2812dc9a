@@ -4,6 +4,7 @@
     "moonbird-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-morpho"
   ]
 }

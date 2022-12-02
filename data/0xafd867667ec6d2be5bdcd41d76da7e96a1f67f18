@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Re-Genz",
   "imageUrl": "https://i.seadn.io/gae/p95QxJdQ74r7DVSTafihhtF7Y6wetEzkiT_pOJ_O6aGFQJW3CfO__KRK7ylNX9VxejZ0yrDDfELeafYNdbplguOm-IMmT9gnm658Nac?w=500&auto=format",
   "externalUrl": "http://degenz.co",
   "discordUrl": "https://discord.gg/degenznft",
   "twitterUsername": "DegenzNFT",
-  "description": "Re-Genz are a collection of 2,538 unique characters forming part of the Degenz universe. Re-Genz could only be obtained by burning 2 Degenz, and were a product of the F.U.D. (Flames of Ultimate Destruction)."
+  "description": "Re-Genz are a collection of 2,538 unique characters forming part of the Degenz universe. Re-Genz could only be obtained by burning 2 Degenz, and were a product of the F.U.D. (Flames of Ultimate Destruction).",
+  "erc721_symbol": "REGENZ"
 }

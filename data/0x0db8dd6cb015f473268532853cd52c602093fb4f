@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-dadaqian",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -9,7 +9,9 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-nation3"
+    "snapshot-voter-nation3",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "0xphoenix.eth"
 }

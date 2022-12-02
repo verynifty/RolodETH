@@ -9,5 +9,6 @@
     "opensea-user",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "devsamal.eth"
 }

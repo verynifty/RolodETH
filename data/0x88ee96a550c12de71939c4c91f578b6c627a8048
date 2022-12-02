@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "rnooo.eth"
 }

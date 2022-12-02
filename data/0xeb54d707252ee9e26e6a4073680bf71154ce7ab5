@@ -4,5 +4,6 @@
     "clonex-minter",
     "gitcoin-grantee",
     "snapshot-voter-friendswithbenefits"
-  ]
+  ],
+  "ens": "jzs.eth"
 }

@@ -4,5 +4,6 @@
     "cyber-kong-minter",
     "cryptoadz-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "stronghands.eth"
 }

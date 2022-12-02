@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
+  ],
   "ens": "minipolygon.eth"
 }

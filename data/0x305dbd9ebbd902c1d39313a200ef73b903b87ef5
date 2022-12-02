@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "opensea-user"
-  ]
+  ],
+  "ens": "sporos.eth"
 }

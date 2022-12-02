@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ]
 }

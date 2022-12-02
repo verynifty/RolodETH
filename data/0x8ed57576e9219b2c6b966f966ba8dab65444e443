@@ -4,5 +4,6 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-nftfinance",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "khalis.eth"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "fucksendme.eth"
 }

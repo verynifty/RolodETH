@@ -5,7 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-frax",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-apecoin"
   ],
   "ens": "aut1st.eth"
 }

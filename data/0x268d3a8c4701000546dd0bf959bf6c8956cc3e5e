@@ -8,5 +8,6 @@
     "wow-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "tripwards.eth"
 }

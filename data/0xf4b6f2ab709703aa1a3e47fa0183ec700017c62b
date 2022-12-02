@@ -10,5 +10,6 @@
   "externalUrl": "https://mint.caiovicentino.com.br/",
   "discordUrl": "https://discord.gg/JGjnYmFjJ6",
   "twitterUsername": "caiovicentino",
-  "description": "Acesso à comunidade Yield Hackers criada por Caio Vicentino para o estudo de Web3, Finanças Descentralizadas(DeFi) e NFTs.\nCada NFT da acesso vitalício para a nossa comunidade."
+  "description": "Acesso à comunidade Yield Hackers criada por Caio Vicentino para o estudo de Web3, Finanças Descentralizadas(DeFi) e NFTs.\nCada NFT da acesso vitalício para a nossa comunidade.",
+  "erc721_symbol": "YHP"
 }

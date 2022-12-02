@@ -4,7 +4,8 @@
     "snapshot-voter-rzt891130",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote"
   ],
   "ens": "shdjcnmvvz.eth"
 }

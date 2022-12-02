@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "frostyicy.eth"
 }

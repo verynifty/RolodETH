@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-gal",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ],
   "ens": "nedao.eth"
 }

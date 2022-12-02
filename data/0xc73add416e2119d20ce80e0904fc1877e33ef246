@@ -3,5 +3,6 @@
     "contract-deployer",
     "sudoswap-user"
   ],
-  "name": "BarnBridge: Deployer"
+  "name": "BarnBridge: Deployer",
+  "ens": "cleanunicorn.eth"
 }

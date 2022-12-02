@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-weizheng9891",
+    "snapshot-voter-pingpinglove",
+    "snapshot-voter-uniswap"
   ]
 }

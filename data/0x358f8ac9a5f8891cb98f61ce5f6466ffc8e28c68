@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metapals Pass",
   "imageUrl": "https://i.seadn.io/gae/xf2GtGsIQsvfSpn-4xh4otVaFKrL4F9KnM6yJJe-Vykjhvi-3k_peZmoFKwLmjMgvcRvc6bRZULyeeCmue128tc4z8uK2ZsM5Wq_nQ?w=500&auto=format",
   "externalUrl": "https://www.metapalsclub.com/",
   "discordUrl": "https://discord.gg/metapalsclub",
-  "description": "The Metaverse Pass is the genesis NFT of the MetaPals Club. These passes allow  holders to access all future metaverse clubhouses and properties. Owned by Nick Clifton @thenickclifton with100+ Decentraland LANDs, his plan is to create an \"NFT Clubhouse Park\" inviting other NFT communities to join. Clubhouses will feature interactive games and a P2E model.  Media screens, musical stages, dance floor and custom NPCs such as bartenders and dancers will ensure there is always a party happening. A common area that all park clubhouse communities can hang out in will feature a large concert stage to host events, competitions, games between communities and endless other possibilities.\n\nMetaPals will always feature the  best entertainment of any park community members to influence other park communities to join MetaPals. These passes will also act as claims for all future MetaPals NFTs including our new main 10k collection, decentraland wearables, MetaPals token, voxel avatars and beyond."
+  "description": "The Metaverse Pass is the genesis NFT of the MetaPals Club. These passes allow  holders to access all future metaverse clubhouses and properties. Owned by Nick Clifton @thenickclifton with100+ Decentraland LANDs, his plan is to create an \"NFT Clubhouse Park\" inviting other NFT communities to join. Clubhouses will feature interactive games and a P2E model.  Media screens, musical stages, dance floor and custom NPCs such as bartenders and dancers will ensure there is always a party happening. A common area that all park clubhouse communities can hang out in will feature a large concert stage to host events, competitions, games between communities and endless other possibilities.\n\nMetaPals will always feature the  best entertainment of any park community members to influence other park communities to join MetaPals. These passes will also act as claims for all future MetaPals NFTs including our new main 10k collection, decentraland wearables, MetaPals token, voxel avatars and beyond.",
+  "erc721_symbol": "MMP"
 }

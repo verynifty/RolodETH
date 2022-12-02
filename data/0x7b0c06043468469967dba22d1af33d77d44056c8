@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "MRPH",
+  "erc20_decimals": 4,
+  "name": "Morpheus.Network"
+}

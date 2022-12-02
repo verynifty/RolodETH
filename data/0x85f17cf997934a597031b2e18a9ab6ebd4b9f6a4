@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "NEAR",
+  "erc20_decimals": 24,
+  "name": "NEAR"
+}

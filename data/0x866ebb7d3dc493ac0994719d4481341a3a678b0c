@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "WinnerCo ID Badge",
   "imageUrl": "https://i.seadn.io/gcs/files/cda37f4578984ee6d903a48a598a7229.jpg?w=500&auto=format",
   "externalUrl": "http://cyberfist.xyz",
   "discordUrl": "https://discord.gg/cyberfist",
-  "description": "We’re excited to welcome you to the team! We think you’ll be a great asset to WinnerCo. Please acquire your ID Card to gain access to the WinnerCo facility."
+  "description": "We’re excited to welcome you to the team! We think you’ll be a great asset to WinnerCo. Please acquire your ID Card to gain access to the WinnerCo facility.",
+  "erc721_symbol": "WCID"
 }

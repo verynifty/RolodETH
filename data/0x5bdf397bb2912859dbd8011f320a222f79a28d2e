@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Corruption(s*)",
   "imageUrl": "https://i.seadn.io/gae/nUpJkhcyHV1rO4DAz4VqioRCXwUHhVQ0taWCqpf5oimg1QNhtwEbb_Isn9uK2of8EEhLBGaH1qcLPWKpQedgs2fGYcSEOZAFy4_R?w=500&auto=format",
   "discordUrl": "https://discord.gg/MUegeTGwQa",
-  "description": "Unknown\r\n\r\nFor more information, join the [community run Discord server](https://discord.gg/MUegeTGwQa).\r\n\r\nEXPERIMENTAL ART. NO ROADMAP, NO UTILITY, AND ABSOLUTELY NO PROMISES."
+  "description": "Unknown\r\n\r\nFor more information, join the [community run Discord server](https://discord.gg/MUegeTGwQa).\r\n\r\nEXPERIMENTAL ART. NO ROADMAP, NO UTILITY, AND ABSOLUTELY NO PROMISES.",
+  "erc721_symbol": "CORRUPT"
 }

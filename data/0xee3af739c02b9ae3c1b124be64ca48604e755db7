@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ],
   "ens": "98ert1.eth"
 }

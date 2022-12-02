@@ -4,6 +4,9 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-pagedao"
   ]
 }

@@ -3,5 +3,6 @@
     "meebit-minter",
     "art-goblers-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "mattythekid.eth"
 }

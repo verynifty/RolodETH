@@ -10,5 +10,6 @@
   "externalUrl": "https://moodrollers.com/",
   "discordUrl": "https://discord.gg/rndm",
   "twitterUsername": "MoodRollers",
-  "description": "5.000 randomly generated, unique, animated, never stopping characters on the Ethereum blockchain.\r\n\r\nMoodRollers is a Lucas Zanotto and Random Character Collective project."
+  "description": "5.000 randomly generated, unique, animated, never stopping characters on the Ethereum blockchain.\r\n\r\nMoodRollers is a Lucas Zanotto and Random Character Collective project.",
+  "erc721_symbol": "MOODRLS"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "zhengkai99.eth"
 }

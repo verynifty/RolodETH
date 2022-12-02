@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "FINXFLO",
   "erc20_symbol": "FXF",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13916/thumb/raVh1Iw.png?1618978607"
+  "imageURL": "https://assets.coingecko.com/coins/images/13916/thumb/raVh1Iw.png?1618978607",
+  "proxy": "0x112706099899affa5a13dd7955f8258a54032397"
 }

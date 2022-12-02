@@ -4,5 +4,6 @@
     "clonex-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "clawd.eth"
 }

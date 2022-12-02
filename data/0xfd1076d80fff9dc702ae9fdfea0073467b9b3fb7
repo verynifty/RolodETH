@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Spooky Boys Country Club | by HolyGhost",
   "imageUrl": "https://i.seadn.io/gae/tzM3-e-GOFw5IyBwCxl4yhArHMSWQ8FPdiOBFFVo_6HNKSnr8q-wXzfOJ2MOHrB1s1NpG6V0s7qzr4pdNpMiZGY5AXZzceIJpDC5hQ?w=500&auto=format",
   "externalUrl": "https://www.spookyboys.io/",
   "discordUrl": "https://discord.gg/countryclub",
   "twitterUsername": "spookyboyscc",
-  "description": "In the depths of the Metaverse, nestled in the eloquent hills of the Ethereum blockchain lies a Country Club, defined by excellence, prestige, and respect. The Spooky Boys Country Club offers 13,000 unique, digital collectibles that represent community through ownership.\r\n\r\nThe Spooky Boys Country Club members obtain safety, integrity, and metaversal recognition. This project blends hypebeast fashion, country club mannerisms, and spooky vibes to create unique collectibles.\r\n\r\nSpooky Boys Country Club was developed by an experienced team and is curated by none other than the most OG Ghost in the game, The “Ghost of the Gram”,  [@HOLYGHOST](https://instagram.com/holyghost) on Instagram."
+  "description": "In the depths of the Metaverse, nestled in the eloquent hills of the Ethereum blockchain lies a Country Club, defined by excellence, prestige, and respect. The Spooky Boys Country Club offers 13,000 unique, digital collectibles that represent community through ownership.\r\n\r\nThe Spooky Boys Country Club members obtain safety, integrity, and metaversal recognition. This project blends hypebeast fashion, country club mannerisms, and spooky vibes to create unique collectibles.\r\n\r\nSpooky Boys Country Club was developed by an experienced team and is curated by none other than the most OG Ghost in the game, The “Ghost of the Gram”,  [@HOLYGHOST](https://instagram.com/holyghost) on Instagram.",
+  "erc721_symbol": "sbcc"
 }

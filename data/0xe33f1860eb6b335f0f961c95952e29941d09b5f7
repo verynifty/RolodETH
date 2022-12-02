@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-sismo",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "divers.eth"
 }

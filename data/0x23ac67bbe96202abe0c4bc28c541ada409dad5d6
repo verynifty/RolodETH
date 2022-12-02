@@ -6,7 +6,8 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "0xbyte.eth"
 }

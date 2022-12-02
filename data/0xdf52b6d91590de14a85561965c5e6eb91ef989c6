@@ -4,5 +4,6 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "shakhawat.eth"
 }

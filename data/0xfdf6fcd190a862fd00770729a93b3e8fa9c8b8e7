@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "DROKI",
+  "erc20_decimals": 9,
+  "name": "DRAGON FLOKI"
+}

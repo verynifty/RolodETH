@@ -13,6 +13,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-8848labs",
     "snapshot-voter-baovotes",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vote-airswap"
   ]
 }

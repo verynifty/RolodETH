@@ -6,5 +6,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "madfoxy.eth"
 }

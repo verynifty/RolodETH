@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Poolside Music",
   "imageUrl": "https://i.seadn.io/gae/uJ1m-zo2mqqzCeK4_lolgkCjMx-ECIVCxG9dmu7_kpzOVx56IMAPEMK2-vpMyeCHCB7WTOyHf7vj4P4IlmiTd9KdwEnA7s6SuYHUuA?w=500&auto=format",
   "externalUrl": "https://sound.xyz/poolside",
   "twitterUsername": "poolside",
-  "description": "Created by Poolside on Sound. Leave a comment on the song at https://sound.xyz/poolside"
+  "description": "Created by Poolside on Sound. Leave a comment on the song at https://sound.xyz/poolside",
+  "proxy": "0x16d2635a2c5de39b16294f25e9b5cfd5916c106b"
 }

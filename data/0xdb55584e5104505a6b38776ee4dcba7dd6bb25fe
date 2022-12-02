@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "VOID - Visitors of Imma Degen",
   "imageUrl": "https://i.seadn.io/gae/ykrl73bgMzN8pfYhpTf2g2ayRHBQ-8Ga8pQyjSk06QUXk2DArZhkOfl-dIf3S2PjofZ4i5igYtp4pXJDZFomLSMphwf6Jdbsoj0NoA?w=500&auto=format",
   "externalUrl": "https://www.immadegen.com/",
   "discordUrl": "https://discord.gg/rz6t3uP9hx",
   "twitterUsername": "ImmaDegen",
-  "description": "#First one to be more than just a pfp.   \nEvery VOID comes with a metaverse-ready avatar/3D model.    \nEndless Gamification.   \nCommercial Rights.   \nBuild a brand around your VOID.   \n**Social Media Zoom Integration & More**.   \nJoin us on [Discord](https://discord.gg/immaverse) for more info!   "
+  "description": "#First one to be more than just a pfp.   \nEvery VOID comes with a metaverse-ready avatar/3D model.    \nEndless Gamification.   \nCommercial Rights.   \nBuild a brand around your VOID.   \n**Social Media Zoom Integration & More**.   \nJoin us on [Discord](https://discord.gg/immaverse) for more info!   ",
+  "erc721_symbol": "VOID"
 }

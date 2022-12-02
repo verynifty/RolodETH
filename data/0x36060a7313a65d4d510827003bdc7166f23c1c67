@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lazy Kitties",
   "imageUrl": "https://i.seadn.io/gae/Fu0Z3oHfvAgXwrrgniLsZ7RAkPMT5FAco2l7vQ52OOANn1LkUmEizj68OCOevBzteop00qz0k1pOn1a8piDDK4HeQOjHsmNhbMua6w?w=500&auto=format",
   "externalUrl": "https://lazykitties.io",
   "discordUrl": "https://discord.gg/S3GpX2eFVz",
   "twitterUsername": "LazyKittiesNFT",
-  "description": "Welcome to Lazy Kitties, a collection of 9,999 unique generative NFTs that will make you smile. :) minted out 100% free!"
+  "description": "Welcome to Lazy Kitties, a collection of 9,999 unique generative NFTs that will make you smile. :) minted out 100% free!",
+  "erc721_symbol": "LKC"
 }

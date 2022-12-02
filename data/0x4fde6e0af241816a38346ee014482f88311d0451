@@ -3,5 +3,6 @@
     "azuki-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xflipstate.eth"
 }

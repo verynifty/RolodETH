@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Lions not Sheep: Deployer"
+  "name": "Lions not Sheep: Deployer",
+  "ens": "mladeployer.eth"
 }

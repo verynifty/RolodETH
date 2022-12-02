@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Deus Finance: Old DEUS Token"
+  "name": "Deus Finance: Old DEUS Token",
+  "erc20_symbol": "DEUS",
+  "erc20_decimals": 18
 }

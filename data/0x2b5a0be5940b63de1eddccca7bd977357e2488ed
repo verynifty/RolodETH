@@ -12,6 +12,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-metavault-trade",
     "snapshot-voter-spiritswap",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-abracadabrabymerlinthemagician"
   ]
 }

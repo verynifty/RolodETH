@@ -10,5 +10,6 @@
   "externalUrl": "https://beingsnft.art/",
   "discordUrl": "https://discord.gg/beingsnft",
   "twitterUsername": "Beings_Official",
-  "description": "Explore a colourful universe! Beings is a 5615 community-driven collectibles, randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain.\nBeings come in a cheerful range of colors, traits and sizes! Beings holders can participate in exclusive events such as Beings Academy, NFT claims, raffles, community giveaways, and more. \n\nJoin the Beings and help us to bring colors to the galaxy!"
+  "description": "Explore a colourful universe! Beings is a 5615 community-driven collectibles, randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain.\nBeings come in a cheerful range of colors, traits and sizes! Beings holders can participate in exclusive events such as Beings Academy, NFT claims, raffles, community giveaways, and more. \n\nJoin the Beings and help us to bring colors to the galaxy!",
+  "erc721_symbol": "BEINGS"
 }

@@ -4,5 +4,6 @@
     "azuki-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "wickd.eth"
 }

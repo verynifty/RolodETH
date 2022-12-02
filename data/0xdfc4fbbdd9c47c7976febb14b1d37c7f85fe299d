@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "antdesign.eth"
 }

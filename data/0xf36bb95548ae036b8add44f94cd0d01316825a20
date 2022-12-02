@@ -5,6 +5,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-metavault-trade",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-newtopiadao"
   ]
 }

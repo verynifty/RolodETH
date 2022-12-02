@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-opcollective",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ],
   "ens": "goldenp.eth"
 }

@@ -3,7 +3,10 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-uniswap"
   ],
   "ens": "anuphan168.eth"
 }

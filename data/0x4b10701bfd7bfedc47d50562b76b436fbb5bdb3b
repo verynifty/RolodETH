@@ -8,5 +8,6 @@
   "name": "Lil Nouns",
   "imageUrl": "https://i.seadn.io/gae/NeMen42xORQc--X_rAm6d5HCcRxkL5ZqAFi8LCSdFoRLi3AVNvEJ4Eo_-kFMnk8TVtPsnFxrMZ-DQIy-qjHgZnw4UFZYhjOWTmI_0w?w=500&auto=format",
   "externalUrl": "https://lilnouns.wtf",
-  "description": "One Lil Noun, every 15 minutes, forever.\r\n\r\nlilnouns.wtf"
+  "description": "One Lil Noun, every 15 minutes, forever.\r\n\r\nlilnouns.wtf",
+  "erc721_symbol": "LILNOUN"
 }

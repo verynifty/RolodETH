@@ -4,5 +4,6 @@
     "snapshot-voter-elfi",
     "snapshot-voter-cvx",
     "snapshot-voter-aurafinance"
-  ]
+  ],
+  "ens": "elbagococina.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "facefatigueunion",
   "imageUrl": "https://i.seadn.io/gcs/files/aa6a8efa4b04fa3292e7260e6c590928.gif?w=500&auto=format",
   "externalUrl": "https://www.ffu.kim/",
   "discordUrl": "https://discord.gg/uQCyZqDeGn",
   "twitterUsername": "facefatigue",
-  "description": "\n\nPeople are tired of seeing face PFPs everywhere. There needs to be some change and FFU is here to bring it!\n\nThe goal of the project is to explore the meme culture and focus on art and storytelling.\n\nAnd…\n\nNo roadmap. No promises. No faces.\n"
+  "description": "\n\nPeople are tired of seeing face PFPs everywhere. There needs to be some change and FFU is here to bring it!\n\nThe goal of the project is to explore the meme culture and focus on art and storytelling.\n\nAnd…\n\nNo roadmap. No promises. No faces.\n",
+  "erc721_symbol": "FFU"
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Saint Archives",
   "imageUrl": "https://i.seadn.io/gae/y412FeXiosEAH3wFuKSQy506WQCqu5soNrhTNTQ650Zkl0ttB813xi03HmBFPg7-Nb-V7M1EBcJq7Dbyj3O16bJycsM58MgGWEeo?w=500&auto=format",
   "twitterUsername": "XSVINT",
-  "description": "Saint Archives is a series of abstract expressionism art. an escape and an idealization. Common themes include sexuality, suffering, redemption, life and death. \n\nSVINT Art Receipt holders receive airdrops of new future editions\n\nMinted with my own Manifold Smart Contract"
+  "description": "Saint Archives is a series of abstract expressionism art. an escape and an idealization. Common themes include sexuality, suffering, redemption, life and death. \n\nSVINT Art Receipt holders receive airdrops of new future editions\n\nMinted with my own Manifold Smart Contract",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

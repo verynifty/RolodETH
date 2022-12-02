@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alfa Pass",
   "imageUrl": "https://i.seadn.io/gae/I4Zua8rjLn6ZjqUe2xi1sKU2gV34spzM2Wh_IjXKZj1kYjQJg4FVO9vqvR_ccNM8KXlwo0RCBvfJ_lfswBWY4YGQd8ywKWVo-4bn?w=500&auto=format",
   "discordUrl": "https://discord.gg/illiquidcapital",
-  "description": "The leading insights community for the digital economy⁣⁣\n\n⍺ https://discord.gg/illiquidcapital\n\n⍺ https://illiquidcapital.io"
+  "description": "The leading insights community for the digital economy⁣⁣\n\n⍺ https://discord.gg/illiquidcapital\n\n⍺ https://illiquidcapital.io",
+  "erc721_symbol": "ALFA"
 }

@@ -12,6 +12,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-apecoin"
   ]
 }

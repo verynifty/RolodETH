@@ -6,5 +6,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "wacca.eth"
 }

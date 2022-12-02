@@ -3,5 +3,6 @@
     "snapshot-voter-moonwell-governance",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "fomoebina.eth"
 }

@@ -3,7 +3,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-via-exchange"
   ],
   "ens": "sinasharifi.eth"
 }

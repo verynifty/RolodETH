@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Tokyo Ten",
   "imageUrl": "https://i.seadn.io/gae/iRM_pmraDKN5GMfbZXhb0fFyuWBmp4GTrIU6GqxclTII8hfSIoEf_Ecfft_T0KW23M4d1OIDZgz6cZ5EWA6jNtW5w5KoJJlDlfQm?w=500&auto=format",
   "externalUrl": "https://thetokyoten.io",
   "discordUrl": "https://discord.gg/thetokyoten",
-  "twitterUsername": "thetokyoten"
+  "twitterUsername": "thetokyoten",
+  "erc721_symbol": "TTT"
 }

@@ -4,5 +4,6 @@
     "art-goblers-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "finanshill.eth"
 }

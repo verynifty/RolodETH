@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "TN-CSLCCv1-ETHUSDC",
+  "erc20_decimals": 6,
+  "name": "Thetanuts Cash Settled Leveraged Covered Call Vault ETH USDC"
+}

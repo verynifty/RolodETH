@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "strongblock"
+    "strongblock",
+    "contract"
   ],
   "name": "StrongBlock: STRONG Token",
   "erc20_symbol": "STRONG",

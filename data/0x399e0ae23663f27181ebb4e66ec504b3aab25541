@@ -4,5 +4,6 @@
     "snapshot-voter",
     "snapshot-voter-ens",
     "snapshot-voter-nixorokish"
-  ]
+  ],
+  "ens": "superphiz.eth"
 }

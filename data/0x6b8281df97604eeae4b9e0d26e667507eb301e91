@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "EZU",
   "imageUrl": "https://i.seadn.io/gcs/files/294fefcb7902a49dad6fe7bfbade61de.jpg?w=500&auto=format",
   "externalUrl": "https://ezu.xyz/",
   "discordUrl": "https://discord.gg/ezu-official",
   "twitterUsername": "ezu_xyz",
-  "description": "EZU is an NFT collection powering the research and development of a Wear2Earn lifestyle application.\r\n\r\nWith EZU enabled clothing, brands will be able to compensate their customers with a combination of exclusive rewards.\r\n\r\nBased on the current product roadmap detailed on the EZU website, EZU NFT holders will receive an increased fungible token multiplier, governance access to the EZU app, exclusive access to NFTs physical drops by Wear2Earn enabled brands, discounts on Wear2Earn enabled products, access to all additional collection activities including free mental health services by a third party, events, access to physical product activations and more."
+  "description": "EZU is an NFT collection powering the research and development of a Wear2Earn lifestyle application.\r\n\r\nWith EZU enabled clothing, brands will be able to compensate their customers with a combination of exclusive rewards.\r\n\r\nBased on the current product roadmap detailed on the EZU website, EZU NFT holders will receive an increased fungible token multiplier, governance access to the EZU app, exclusive access to NFTs physical drops by Wear2Earn enabled brands, discounts on Wear2Earn enabled products, access to all additional collection activities including free mental health services by a third party, events, access to physical product activations and more.",
+  "erc721_symbol": "EZU"
 }

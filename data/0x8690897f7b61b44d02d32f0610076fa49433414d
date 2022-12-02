@@ -5,6 +5,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ]
 }

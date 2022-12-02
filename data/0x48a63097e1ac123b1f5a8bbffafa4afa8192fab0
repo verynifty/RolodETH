@@ -5,7 +5,8 @@
     "writer",
     "snapshot-voter-ens",
     "snapshot-voter-opcollective",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gitcoingov"
   ],
   "name": "Mirror: Scott Moore"
 }

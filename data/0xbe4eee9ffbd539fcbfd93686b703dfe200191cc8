@@ -3,7 +3,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-apecoin",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-uniswap"
   ],
   "ens": "mpass.eth"
 }

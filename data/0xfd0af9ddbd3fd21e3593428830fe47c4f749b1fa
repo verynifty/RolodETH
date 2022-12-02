@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nice Drips",
   "imageUrl": "https://i.seadn.io/gae/y132f80bSvfWriwNW1ihtdll9f2H3sTAi1Yjugr3wRhgrgO-s4jkI58lmFTzXW7HCtaEsODxILemXOYY7yvoE5L7Kq4Qy1j-DuAX?w=500&auto=format",
   "externalUrl": "http://nicedrips.com",
   "discordUrl": "https://discord.gg/BpQbYsRsMx",
   "twitterUsername": "nicedripnft",
-  "description": "11,111 Nice Drips created by Dr. Gustopulus from scratch."
+  "description": "11,111 Nice Drips created by Dr. Gustopulus from scratch.",
+  "erc721_symbol": "DRIPS"
 }

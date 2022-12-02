@@ -4,7 +4,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-cow",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "alphapay.eth"
 }

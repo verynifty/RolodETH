@@ -4,7 +4,9 @@
     "hashmask-minter",
     "snapshot-voter-uniswap",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-index-coop"
   ],
   "ens": "rayneman.eth"
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "cyberg.eth"
 }

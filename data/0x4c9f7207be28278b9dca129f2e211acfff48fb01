@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "snapshot-voter-gov-dhedge",
-    "snapshot-voter-staking-idlefinance"
+    "snapshot-voter-staking-idlefinance",
+    "snapshot-voter-aave"
   ]
 }

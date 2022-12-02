@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ],
   "ens": "kelly88.eth"
 }

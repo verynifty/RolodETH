@@ -6,5 +6,6 @@
     "otherdeed-minter",
     "snapshot-voter-apecoin",
     "opensea-user"
-  ]
+  ],
+  "ens": "8701.eth"
 }

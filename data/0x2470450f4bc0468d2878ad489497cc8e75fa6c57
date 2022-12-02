@@ -1,7 +1,9 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ],
   "ens": "erdsfgsqww.eth"
 }

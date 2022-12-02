@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoKaiju",
   "imageUrl": "https://i.seadn.io/gae/Z-vr87z3ps76dIDAUTwpcZnKvANqgOI_tIW7xB0v-f8uK7_nqCHdjygM2GbE8m-2r7EfX_Yo9h_OH9ivD_QGyk0?w=500&auto=format",
   "externalUrl": "https://cryptokaiju.io/",
   "discordUrl": "https://discord.gg/a2HxhfMDYK",
   "twitterUsername": "CryptoKaijuIO",
-  "description": "The first project to link physicals with NFTs on Ethereum - Each CryptoKaiju figure is linked to an NFT via a unique ID contained within each vinyl toy."
+  "description": "The first project to link physicals with NFTs on Ethereum - Each CryptoKaiju figure is linked to an NFT via a unique ID contained within each vinyl toy.",
+  "erc721_symbol": "KAIJU"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "iloveanya.eth"
 }

@@ -7,5 +7,6 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-morpho"
-  ]
+  ],
+  "ens": "orchidmantis.eth"
 }

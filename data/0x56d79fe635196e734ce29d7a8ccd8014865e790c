@@ -10,7 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "teransformers.eth"
 }

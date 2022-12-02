@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Punk Angels by PunkMeTender",
   "imageUrl": "https://i.seadn.io/gae/L2JMXQrCmVZS42jbn6AOdYJxEeI13fkzyVKKGYQR1SauAXijDORWHxB1J1ffhTjQLORhqV1BqhReewzPgOBeW7lCzQz7oG3fQqWy7Q?w=500&auto=format",
   "externalUrl": "http://www.punkangels.io",
   "discordUrl": "https://discord.gg/punkangels",
   "twitterUsername": "PunkAngelsNFT",
-  "description": "Discover the first NFT collection of 1,1111 Punk Angels, by the Artist PunkMeTender https://www.instagram.com/punkmetender/ combines his signature Butterfly Wings in 3D with over 480 unique hand-drawn traits.\n\nFreedom and acceptance is what the Punk Angels Movement is all about."
+  "description": "Discover the first NFT collection of 1,1111 Punk Angels, by the Artist PunkMeTender https://www.instagram.com/punkmetender/ combines his signature Butterfly Wings in 3D with over 480 unique hand-drawn traits.\n\nFreedom and acceptance is what the Punk Angels Movement is all about.",
+  "erc721_symbol": "PAC"
 }

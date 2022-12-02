@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Walking Dead Lands - Degenerative Walkers",
   "imageUrl": "https://i.seadn.io/gcs/files/933b8146e7e1cf482ddfabf8be62d099.jpg?w=500&auto=format",
   "externalUrl": "https://orangecomet.com/collection/twd-lands-degenerative-walkers/",
   "discordUrl": "https://discord.gg/thewalkingdeadnft",
-  "description": "[ONE DECOMPOSES, THREE MORE ARE SPAWNED](https://orangecomet.com/collection/twd-lands-degenerative-walkers/)\r\n\r\nTHE DEGENERATIVE WALKERS are very special. When you buy one, it will decompose over time and generate 3 additional walkers. If you hodl, you will end up owning 4 unique walkers, all based on your first 1 of 1 character. If you sell before all have spawned, the chain doesn’t break: the next buyer will get any remaining airdrops."
+  "description": "[ONE DECOMPOSES, THREE MORE ARE SPAWNED](https://orangecomet.com/collection/twd-lands-degenerative-walkers/)\r\n\r\nTHE DEGENERATIVE WALKERS are very special. When you buy one, it will decompose over time and generate 3 additional walkers. If you hodl, you will end up owning 4 unique walkers, all based on your first 1 of 1 character. If you sell before all have spawned, the chain doesn’t break: the next buyer will get any remaining airdrops.",
+  "erc721_symbol": "TWD-DEGENERATIVE"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "arendt.eth"
 }

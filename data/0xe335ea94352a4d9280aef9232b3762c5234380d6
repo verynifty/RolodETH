@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-yam",
-    "snapshot-voter-sushigov"
+    "snapshot-voter-sushigov",
+    "snapshot-voter-aave"
   ],
   "ens": "sendmax.eth"
 }

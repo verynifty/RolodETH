@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "[LEGACY EDITION] Whelps",
   "imageUrl": "https://i.seadn.io/gae/4bKcx_7aYqqSuGoyo_ZTdpYjflgJs4_BLejvGfoUVVlN14T-JpOW0L5If7WHmTkNdg282fHTZ6j0551MqSRlj_A-Lbpl279kY3Kb?w=500&auto=format",
   "externalUrl": "http://whelps.io",
   "discordUrl": "https://discord.gg/masterbrews",
   "twitterUsername": "WhelpsNFT",
-  "description": "IMPORTANT: This is the original Ethereum series of Whelps. The project has since migrated to Polygon and this series will remain strictly for historic and collectible value. It will not be able to participate in any features or functionality going forward.\r\n\r\nWhelpS are 7,777 lovingly hand-drawn dragon NFTs which evolve through 5 stages over 120 hours, in your wallet with no user interaction required! Utilizing the latest in smart contract technology, WhelpS offers something a little different than your typical NFT collectibles experience. Beginning life as an egg (indicating breed), with one of over 60 awesome backgrounds, you will travel the evolutionary path stopping at Baby, Whelp, Young Adult and finally - a fully grown Adult Dragon. Each hop brings with it a provably random new trait of differing rarity: body pattern, mood, breath type and style of horns."
+  "description": "IMPORTANT: This is the original Ethereum series of Whelps. The project has since migrated to Polygon and this series will remain strictly for historic and collectible value. It will not be able to participate in any features or functionality going forward.\r\n\r\nWhelpS are 7,777 lovingly hand-drawn dragon NFTs which evolve through 5 stages over 120 hours, in your wallet with no user interaction required! Utilizing the latest in smart contract technology, WhelpS offers something a little different than your typical NFT collectibles experience. Beginning life as an egg (indicating breed), with one of over 60 awesome backgrounds, you will travel the evolutionary path stopping at Baby, Whelp, Young Adult and finally - a fully grown Adult Dragon. Each hop brings with it a provably random new trait of differing rarity: body pattern, mood, breath type and style of horns.",
+  "erc721_symbol": "WLPS"
 }

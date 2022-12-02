@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "mfersimpson",
   "imageUrl": "https://i.seadn.io/gae/UDpnC-sBZT6uyaIjsXDSqltGVQAbSsu6t0vzW4H9Z4NW58bxDZgIoOCWceRrtdE5rogE7uAgunYp0FhrILY55uNV5PvCQZ95ZkKzJg?w=500&auto=format",
   "externalUrl": "http://mfersimpson.com",
   "discordUrl": "https://discord.gg/6WeXxJnAMx",
-  "description": "From Leonardo the creator of TheSimpsonZPunks comes the homage to Sartoshi Mfers collection. For a fren to a fren I couldn’t resist.\n"
+  "description": "From Leonardo the creator of TheSimpsonZPunks comes the homage to Sartoshi Mfers collection. For a fren to a fren I couldn’t resist.\n",
+  "erc721_symbol": "mfsimp"
 }

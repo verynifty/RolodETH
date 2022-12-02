@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "GREEN",
+  "erc20_decimals": 8,
+  "name": "Green"
 }

@@ -3,5 +3,6 @@
     "clonex-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "drsommer.eth"
 }

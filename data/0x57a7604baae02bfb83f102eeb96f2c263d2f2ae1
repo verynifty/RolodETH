@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

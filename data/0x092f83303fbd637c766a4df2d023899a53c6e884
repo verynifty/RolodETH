@@ -1,4 +1,8 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
+  ],
   "ens": "easycase.eth"
 }

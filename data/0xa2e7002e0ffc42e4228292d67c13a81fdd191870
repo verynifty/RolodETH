@@ -4,5 +4,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-aave",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "fommes.eth"
 }

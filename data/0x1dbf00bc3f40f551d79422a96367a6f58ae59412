@@ -3,5 +3,6 @@
     "sudoswap-user",
     "snapshot-voter-efraimnft",
     "snapshot-voter-bgycsnapshot"
-  ]
+  ],
+  "ens": "efraimnft.eth"
 }

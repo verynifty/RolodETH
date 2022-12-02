@@ -9,6 +9,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-derify"
-  ]
+    "snapshot-voter-derify",
+    "snapshot-voter-apecoin"
+  ],
+  "ens": "happysons.eth"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-balancer",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -10,7 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "ens": "jq9243.eth"
 }

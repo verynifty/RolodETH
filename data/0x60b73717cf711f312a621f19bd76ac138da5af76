@@ -5,6 +5,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-sismo",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-aave"
   ]
 }

@@ -4,7 +4,8 @@
     "snapshot-voter-hakka",
     "snapshot-voter-stgdao",
     "snapshot-voter-streamr",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-199820"
   ],
   "ens": "mybestcryptos.eth"
 }

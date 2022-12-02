@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "LightOnChain",
   "imageUrl": "https://i.seadn.io/gcs/files/1778dc1615c5beb9dc698622f0f653a1.jpg?w=500&auto=format",
   "externalUrl": "https://lightonchain.com/",
   "twitterUsername": "lightonchain",
-  "description": "The on-chain & physical light installation that can be controlled by it's non-fungible tokens."
+  "description": "The on-chain & physical light installation that can be controlled by it's non-fungible tokens.",
+  "erc721_symbol": "i"
 }

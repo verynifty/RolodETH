@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bored Box",
   "imageUrl": "https://i.seadn.io/gcs/files/80b626b594c75a0942417279a97aa586.png?w=500&auto=format",
   "externalUrl": "https://boredbox.io/",
   "discordUrl": "https://discord.gg/fxuBEvgQuC",
   "twitterUsername": "BoredBox_",
-  "description": "Bored Box curates the best games for players who want to own their digital assets. Each box comes with a collection of exclusive game items, and access to a private gaming community.\n\n**Genesis Box** game items:\n\n- [x] ATEM Car Club\n- [x] Galaxy Fight Club\n- [x] Evaverse\n- [x] Voxie Tactics\n- [x] CryptoWalkers\n\n**B64 Box** game items are *not yet revealed*\n\nFor revealed items, gameplay videos and developer interviews, [visit our website](https://boredbox.io/)!"
+  "description": "Bored Box curates the best games for players who want to own their digital assets. Each box comes with a collection of exclusive game items, and access to a private gaming community.\n\n**Genesis Box** game items:\n\n- [x] ATEM Car Club\n- [x] Galaxy Fight Club\n- [x] Evaverse\n- [x] Voxie Tactics\n- [x] CryptoWalkers\n\n**B64 Box** game items are *not yet revealed*\n\nFor revealed items, gameplay videos and developer interviews, [visit our website](https://boredbox.io/)!",
+  "erc721_symbol": "BB"
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-freerossdao",
     "snapshot-voter-uniswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave"
   ]
 }

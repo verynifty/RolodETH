@@ -26,5 +26,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-via-exchange",
     "snapshot-voter-ybaby"
-  ]
+  ],
+  "ens": "ardizor.eth"
 }

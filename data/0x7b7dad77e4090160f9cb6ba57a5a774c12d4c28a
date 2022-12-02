@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nonconformist Hell Ducks",
   "imageUrl": "https://i.seadn.io/gae/f1ejaTX1ZaHbGgxhrw-PZrETpCarQCfuplJMKyYb-n0VrEC48QFTalCTzww1oLqyRs11t36NXpHMxgGnyYXxTdcIYZ9ln9yOBdekNb4?w=500&auto=format",
   "externalUrl": "https://nonconformistducks.com/",
   "discordUrl": "https://discord.gg/noncoducks",
   "twitterUsername": "noncoducks",
-  "description": "The Nonconformist Ducks have been quacking everywhere! // \n\n[OG Ducks](https://opensea.io/collection/nonconformistducks) /\n[2nd Gen Ducks](https://opensea.io/collection/noncoducks2gen) /\n[Upside Ducks](https://opensea.io/collection/nonconformist-upside-ducks) /\n[Rare Items](https://opensea.io/collection/noncoducksrareitems)"
+  "description": "The Nonconformist Ducks have been quacking everywhere! // \n\n[OG Ducks](https://opensea.io/collection/nonconformistducks) /\n[2nd Gen Ducks](https://opensea.io/collection/noncoducks2gen) /\n[Upside Ducks](https://opensea.io/collection/nonconformist-upside-ducks) /\n[Rare Items](https://opensea.io/collection/noncoducksrareitems)",
+  "erc721_symbol": "SCD"
 }

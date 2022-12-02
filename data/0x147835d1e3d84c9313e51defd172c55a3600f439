@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "market psycholOGy",
   "imageUrl": "https://i.seadn.io/gae/mAQKiCRMys_ebBC4_pvb1zFj5wRvm4sAELly6SoWEZ7Xl5HbyrDKK_vrcOCBsYcKliuvKBwxPPSLSjxU5m1_EChhq0i-XCm3xhWV?w=500&auto=format",
   "externalUrl": "https://async.market/blueprints/6369d9ee54119c10e5542668",
-  "description": "Visualizing the psychology of a market cycle, I have created a generative series that brings emotion and energy to the turbulent world of investing. The phases of each cycle speak to each of us in unique ways. It is also a roadmap to life. It is a fractal that repeats. We live in this cycle throughout and must understand that nothing is forever. Understanding this cycle brings peace and understanding that can be powerful knowledge for life itself.\r\n\r\nAesthetically themed to have the feel of a vinyl record cover, the square format fits the vibe and energy that ties together my love for art and music culture. Blending of distressed, grungy design, typography, and color theory have assemble a unique generative art collection.\r\n\r\nOwners of this blueprint my print their artwork for personal use. \r\nResolution 3840px x 3840px, 12\" x 12\" @ 320 PDI"
+  "description": "Visualizing the psychology of a market cycle, I have created a generative series that brings emotion and energy to the turbulent world of investing. The phases of each cycle speak to each of us in unique ways. It is also a roadmap to life. It is a fractal that repeats. We live in this cycle throughout and must understand that nothing is forever. Understanding this cycle brings peace and understanding that can be powerful knowledge for life itself.\r\n\r\nAesthetically themed to have the feel of a vinyl record cover, the square format fits the vibe and energy that ties together my love for art and music culture. Blending of distressed, grungy design, typography, and color theory have assemble a unique generative art collection.\r\n\r\nOwners of this blueprint my print their artwork for personal use. \r\nResolution 3840px x 3840px, 12\" x 12\" @ 320 PDI",
+  "proxy": "0xe5ce214a583d011ae079e034074c69e7cbc77a71"
 }

@@ -6,5 +6,6 @@
     "mayc-minter",
     "snapshot-voter-gearbox",
     "snapshot-voter-aurafinance"
-  ]
+  ],
+  "ens": "tabularasa.eth"
 }

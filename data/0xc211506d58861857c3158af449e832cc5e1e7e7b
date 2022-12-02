@@ -10,5 +10,6 @@
   "externalUrl": "http://playswoops.com",
   "discordUrl": "https://discord.gg/swoops",
   "twitterUsername": "PlaySwoops",
-  "description": "Swoops is a blockchain-powered basketball simulation game that allows users to own and operate a 100% unique team, enter real money contests with their squads, and win daily cash prizes. If you’ve ever dreamt of owning, operating and profiting off of your own basketball franchise, this is your chance.\n\nBacked by top investors including Courtside Ventures, Slow VC, Alpaca VC, Gary and AJ Vaynerchuk, Jason Robins (DraftKings CEO), and multiple NBA ownership groups, Swoops is a play & earn game that looks and feels like daily fantasy basketball but with its own IP and world of Swoopsters (robotic players), each a one-of-one player that evolves and ages over time."
+  "description": "Swoops is a blockchain-powered basketball simulation game that allows users to own and operate a 100% unique team, enter real money contests with their squads, and win daily cash prizes. If you’ve ever dreamt of owning, operating and profiting off of your own basketball franchise, this is your chance.\n\nBacked by top investors including Courtside Ventures, Slow VC, Alpaca VC, Gary and AJ Vaynerchuk, Jason Robins (DraftKings CEO), and multiple NBA ownership groups, Swoops is a play & earn game that looks and feels like daily fantasy basketball but with its own IP and world of Swoopsters (robotic players), each a one-of-one player that evolves and ages over time.",
+  "erc721_symbol": "SWOOPS"
 }

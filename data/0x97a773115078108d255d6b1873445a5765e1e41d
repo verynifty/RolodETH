@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Satoshibles: Deployer"
+  "name": "Satoshibles: Deployer",
+  "ens": "satoshibles.eth"
 }

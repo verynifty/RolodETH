@@ -4,5 +4,6 @@
     "hashmask-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "doodler.eth"
 }

@@ -4,5 +4,6 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "crypto-papi.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "BlackHole Protocol",
   "erc20_symbol": "BLACK",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15124/thumb/blackhole.PNG?1620094580"
+  "imageURL": "https://assets.coingecko.com/coins/images/15124/thumb/blackhole.PNG?1620094580",
+  "proxy": "0x2d38cfb152ea77bec0bea131b4c4105c0f1d0a8e"
 }

@@ -18,6 +18,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ybaby",
     "snapshot-voter-kleros",
-    "snapshot-voter-agavedao"
+    "snapshot-voter-agavedao",
+    "snapshot-voter-qidao"
   ]
 }

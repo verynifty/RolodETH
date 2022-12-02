@@ -7,6 +7,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-people-dao"
   ]
 }

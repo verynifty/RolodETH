@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Everyones",
   "imageUrl": "https://i.seadn.io/gcs/files/2366a862414762b779b9a0a4485c96ec.png?w=500&auto=format",
   "externalUrl": "https://www.houseoffirst.com/collections/theeveryones",
   "discordUrl": "https://discord.gg/houseoffirst",
   "twitterUsername": "HouseofFirst",
-  "description": "The Everyones by award-winning British artist Ian Murray, makes history as the “FIRST EVER” collection minted by House of First. \r\n\r\nThese 2,500 NFTs are inspired by the seemingly ordinary, using bold graphic mid-century-tinged visual language to create one-of-a-kind characters with a sense of warmth and quirky nostalgia. The characters are not super models, they are geeks and nerds, a bit vulnerable, and a bit whimsical, yet at the same time entirely loveable - aren't we all?\r\n\r\nJoin our discord to unlock exclusive benefits: https://discord.gg/houseoffirst"
+  "description": "The Everyones by award-winning British artist Ian Murray, makes history as the “FIRST EVER” collection minted by House of First. \r\n\r\nThese 2,500 NFTs are inspired by the seemingly ordinary, using bold graphic mid-century-tinged visual language to create one-of-a-kind characters with a sense of warmth and quirky nostalgia. The characters are not super models, they are geeks and nerds, a bit vulnerable, and a bit whimsical, yet at the same time entirely loveable - aren't we all?\r\n\r\nJoin our discord to unlock exclusive benefits: https://discord.gg/houseoffirst",
+  "erc721_symbol": "TheEveryones"
 }

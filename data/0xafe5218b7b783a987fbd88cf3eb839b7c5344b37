@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "TYRANT GOLD",
+  "erc20_decimals": 18,
+  "name": "Fable Of The Dawgon"
+}

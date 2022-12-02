@@ -5,5 +5,6 @@
     "snapshot-voter-gmx",
     "opensea-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "tie00.eth"
 }

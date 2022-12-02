@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "E-DAMER",
   "imageUrl": "https://i.seadn.io/gae/xnQIhDp8yivicKOw9DE-l4b4tbKiOmpl57HL5-xUot_rpcrRjsyxS6c2D6cxWQjnAD8VsiC31e3sHxXBqj47qWJkVP-HJu-iZg5pfTU?w=500&auto=format",
   "externalUrl": "https://theremade.io/",
   "discordUrl": "https://discord.gg/theremade",
   "twitterUsername": "TheRemade_",
-  "description": "E-DAMER GENESIS NO.1 of THE REMADE has 500 1 of 1 NFTs. \nEach NFT has unique attribute, style and extremely high rarity.\nAs the founding series of THE REMADE GENESIS NO.1 E-DAMER, you will be apart of the first Metaverse Brand that has virtual and reality value which could also be redeemable for physical goods.\n\nYou also have the access to ALL exclusive events hosted by The Remade."
+  "description": "E-DAMER GENESIS NO.1 of THE REMADE has 500 1 of 1 NFTs. \nEach NFT has unique attribute, style and extremely high rarity.\nAs the founding series of THE REMADE GENESIS NO.1 E-DAMER, you will be apart of the first Metaverse Brand that has virtual and reality value which could also be redeemable for physical goods.\n\nYou also have the access to ALL exclusive events hosted by The Remade.",
+  "erc721_symbol": "ED"
 }

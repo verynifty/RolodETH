@@ -4,7 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-via-exchange"
   ],
   "ens": "pavelok.eth"
 }

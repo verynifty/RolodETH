@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Mintcheleons: Deployer"
+  "name": "Mintcheleons: Deployer",
+  "ens": "jharmonydesigns.eth"
 }

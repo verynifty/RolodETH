@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Stoner Ape Dispensary Club",
   "imageUrl": "https://i.seadn.io/gae/YtGvEeFz40PCLfAyyLvzMzO2b_JPknMz0mLZwpl3E-5ouv_N84nYyjZa3KSSz4Fuf34kIHaWYRUS23PNjJ34Vc4_mN83p86IVlbzNw?w=500&auto=format",
   "discordUrl": "https://discord.gg/SAC",
-  "description": "Stoner Ape Dispensary Club is created from the dankest strain in the cosmos, and consists of 6,666 Evolution Vials. All Vials are claimable through Stoner Ape NFTs that are eligible, make sure to handle them with care!\n\nhttps://opensea.io/collection/sac"
+  "description": "Stoner Ape Dispensary Club is created from the dankest strain in the cosmos, and consists of 6,666 Evolution Vials. All Vials are claimable through Stoner Ape NFTs that are eligible, make sure to handle them with care!\n\nhttps://opensea.io/collection/sac",
+  "erc721_symbol": "VIALS"
 }

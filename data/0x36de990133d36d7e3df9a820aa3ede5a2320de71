@@ -3,5 +3,6 @@
     "bayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "gokhan.eth"
 }
