@@ -8,6 +8,7 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -20,7 +20,8 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-ybaby"
   ],
   "ens": "0x00eth.eth"
 }

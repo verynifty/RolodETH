@@ -4,6 +4,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ]
 }

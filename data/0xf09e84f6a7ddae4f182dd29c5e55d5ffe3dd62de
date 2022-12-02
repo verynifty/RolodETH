@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "360kr.eth"
 }

@@ -3,5 +3,6 @@
     "moonbird-minter",
     "contract-deployer"
   ],
-  "name": "Untitled Snakes Project: Deployer"
+  "name": "Untitled Snakes Project: Deployer",
+  "ens": "0xshaka.eth"
 }

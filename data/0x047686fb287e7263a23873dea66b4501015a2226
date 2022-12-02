@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "blockchain-cuties"
+    "blockchain-cuties",
+    "contract"
   ],
   "name": "BC: Cute Coin",
   "erc20_symbol": "CUTE",

@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "memeclubs.eth"
 }

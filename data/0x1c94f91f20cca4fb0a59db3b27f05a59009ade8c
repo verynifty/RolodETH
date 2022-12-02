@@ -4,5 +4,6 @@
     "opensea-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "espay.eth"
 }

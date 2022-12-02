@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Drunk Ass Dinos",
   "imageUrl": "https://i.seadn.io/gae/zjiKNXyTC5olkF4mtLYq9th9ecLHT_5_HSbsGtPPXPXGlal3C80aa9YwrkT1HGPe9xlM9ciUL6RRS1f8MBs1mNKlK97P6qsKOJRPlg?w=500&auto=format",
   "externalUrl": "https://www.drunkassdinos.com/",
   "discordUrl": "https://discord.gg/rTKujXWArM",
   "twitterUsername": "drunkassdinos",
-  "description": "The collection of 10k Drunk Ass Dinos (DADs) was randomly, programmatically generated from millions of possibilities. DADs currently reside on the Ethereum blockchain in the form of ERC-721 tokens and are hosted on IPFS. DADs have varying traits across categories like dino type, body color, skin, eyes/eyewear, headgear, outfits, and hand props!  \n\nVisit us at https://www.drunkassdinos.com/ and follow us at https://twitter.com/drunkassdinos for more info!"
+  "description": "The collection of 10k Drunk Ass Dinos (DADs) was randomly, programmatically generated from millions of possibilities. DADs currently reside on the Ethereum blockchain in the form of ERC-721 tokens and are hosted on IPFS. DADs have varying traits across categories like dino type, body color, skin, eyes/eyewear, headgear, outfits, and hand props!  \n\nVisit us at https://www.drunkassdinos.com/ and follow us at https://twitter.com/drunkassdinos for more info!",
+  "erc721_symbol": "DAD"
 }

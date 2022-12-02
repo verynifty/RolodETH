@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-balancer",
+    "snapshot-voter-aave"
   ]
 }

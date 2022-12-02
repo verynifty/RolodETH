@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "gas123.eth"
 }

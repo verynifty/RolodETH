@@ -15,7 +15,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-spookyswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-alpacafinance"
   ],
   "ens": "active01.eth"
 }

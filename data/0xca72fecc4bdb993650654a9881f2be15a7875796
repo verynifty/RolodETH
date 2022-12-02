@@ -10,5 +10,6 @@
   "externalUrl": "http://legendmaps.io",
   "discordUrl": "https://discord.gg/invite/uGJ7CkR4XY",
   "twitterUsername": "legend_maps",
-  "description": "Adventurers are the second NFT collection from Legend Maps, representing a rogue's gallery of playable characters ready to delve into the dungeons represented by the [Founder Maps](https://opensea.io/collection/legend-maps-founder), vanquish the dwellers and other dangers within, and emerge victorious with the loot... or die trying! Each Adventurer will have unique combinations of traits & abilities that will impact gameplay, and which are captured in the NFT metadata.\n\nLearn more at [legendmaps.io](https://legendmaps.io/)"
+  "description": "Adventurers are the second NFT collection from Legend Maps, representing a rogue's gallery of playable characters ready to delve into the dungeons represented by the [Founder Maps](https://opensea.io/collection/legend-maps-founder), vanquish the dwellers and other dangers within, and emerge victorious with the loot... or die trying! Each Adventurer will have unique combinations of traits & abilities that will impact gameplay, and which are captured in the NFT metadata.\n\nLearn more at [legendmaps.io](https://legendmaps.io/)",
+  "erc721_symbol": "LMA"
 }

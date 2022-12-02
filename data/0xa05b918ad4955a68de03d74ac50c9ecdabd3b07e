@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Hitchhiker of Star: Space Exploration",
   "imageUrl": "https://i.seadn.io/gcs/files/6b4456c68d2584dba9331d6a733ffd30.png?w=500&auto=format",

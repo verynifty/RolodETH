@@ -14,5 +14,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-people-dao"
-  ]
+  ],
+  "ens": "a3eth.eth"
 }

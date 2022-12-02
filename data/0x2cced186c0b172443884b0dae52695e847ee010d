@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

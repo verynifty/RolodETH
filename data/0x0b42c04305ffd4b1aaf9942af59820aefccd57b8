@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Alienverse - NFT",
   "imageUrl": "https://i.seadn.io/gae/9mdrL4nkrT3NkVJ7BawBMljMdZjGaJjtM8Smqu0VADmIZ3nq0IwTfTNHeAPDZHaftk_Pv9qN_s9FCsR1K0IaJSRpRtyqhnPatuxpLg?w=500&auto=format",
   "externalUrl": "https://joinalienverse.io",
   "discordUrl": "https://discord.gg/gPJhqn7j",
   "twitterUsername": "JoinAlienverse",
-  "description": "45% of the collection is staked and generating $ALN token for the holders.\nAlienverse is an NFT collection sitting at the crossroads of Digital Art and Fashion. Composed of over 200 hand-crafted traits, the 2525 ultra-realistic 3D art pieces by David Masson San Gabriel."
+  "description": "45% of the collection is staked and generating $ALN token for the holders.\nAlienverse is an NFT collection sitting at the crossroads of Digital Art and Fashion. Composed of over 200 hand-crafted traits, the 2525 ultra-realistic 3D art pieces by David Masson San Gabriel.",
+  "erc721_symbol": "ALIEN"
 }

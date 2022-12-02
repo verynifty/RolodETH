@@ -6,6 +6,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-stgdao",
     "snapshot-voter-doremifasollasi",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-mail3"
   ]
 }

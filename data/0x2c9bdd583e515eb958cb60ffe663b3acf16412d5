@@ -6,6 +6,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-stgdao"
   ]
 }

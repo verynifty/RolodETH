@@ -3,6 +3,7 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-mavxyz"
   ]
 }

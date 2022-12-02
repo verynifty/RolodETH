@@ -7,6 +7,7 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-balancer"
   ]
 }

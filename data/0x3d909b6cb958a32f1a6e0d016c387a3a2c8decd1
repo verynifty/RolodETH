@@ -6,6 +6,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-aave"
   ]
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Fallout Crystals",
   "imageUrl": "https://i.seadn.io/gae/imYMfe7svjBG9X-VzlZIEhB5okxFFqT1EqRo-zLgtfmnsxuuhp9-rGPQEbzNeod4WatzRFAopi3pdvjAPcmGtpjq3uwr9R_U79_i?w=500&auto=format",
   "externalUrl": "https://falloutfreaks.io",
-  "description": "Fallout Crystals consists of a collection of a max supply of 10,000. They were made available to every JF Genesis holder. Crystals can be applied to your JF Genesis to create an entirely new 'Fallout' version of the Freak."
+  "description": "Fallout Crystals consists of a collection of a max supply of 10,000. They were made available to every JF Genesis holder. Crystals can be applied to your JF Genesis to create an entirely new 'Fallout' version of the Freak.",
+  "erc721_symbol": "FCR"
 }

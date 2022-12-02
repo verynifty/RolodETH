@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mirage Gallery Curated - Unsorted",
   "imageUrl": "https://i.seadn.io/gcs/files/1d15163410ad93eee7a5926af0f3968b.jpg?w=500&auto=format",
   "externalUrl": "https://miragegallery.ai/curated",
   "discordUrl": "https://discord.gg/bufzEE6sbf",
   "twitterUsername": "miragegalleryai",
-  "description": "Now that the curated collections have their own pages on OpenSea (despite all coming from one contract), OpenSea has informed us that they are unable to filter them automatically into their respective pages when each artwork mints. \n\nIf your newly minted curated artwork is in here, do not worry. OpenSea will be manually moving them into the correct collections. \n\nView all collection pages here: https://opensea.io/category/mirage-gallery-curated"
+  "description": "Now that the curated collections have their own pages on OpenSea (despite all coming from one contract), OpenSea has informed us that they are unable to filter them automatically into their respective pages when each artwork mints. \n\nIf your newly minted curated artwork is in here, do not worry. OpenSea will be manually moving them into the correct collections. \n\nView all collection pages here: https://opensea.io/category/mirage-gallery-curated",
+  "erc721_symbol": "MGC"
 }

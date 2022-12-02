@@ -6,6 +6,7 @@
     "snapshot-voter-paraswap-dao",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-stgdao"
   ]
 }

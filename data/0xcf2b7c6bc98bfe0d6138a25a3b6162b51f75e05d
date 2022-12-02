@@ -10,5 +10,6 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-nation3"
-  ]
+  ],
+  "ens": "0xphoenix.eth"
 }

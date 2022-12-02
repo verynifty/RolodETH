@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "T-4EVER",
+  "erc20_decimals": 18,
+  "name": "Temporary 4EVER Token"
+}

@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "opensea-user"
-  ]
+  ],
+  "ens": "dansun.eth"
 }

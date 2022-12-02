@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "clonex-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-balancer"
   ],
   "ens": "💎💎💎.eth"
 }

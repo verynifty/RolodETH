@@ -6,5 +6,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "alisa2.eth"
 }

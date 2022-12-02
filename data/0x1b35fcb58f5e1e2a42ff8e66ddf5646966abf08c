@@ -7,6 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-0xgov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-balancer",
+    "snapshot-voter-aave"
   ]
 }

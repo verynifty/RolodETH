@@ -18,6 +18,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-treasuredao",
     "snapshot-voter-safe",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-ybaby"
   ]
 }

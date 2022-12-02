@@ -3,7 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
-  ],
-  "ens": "ymemey.eth"
+    "opensea-user",
+    "snapshot-voter-aave"
+  ]
 }

@@ -5,7 +5,8 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ],
   "ens": "znpaqhq.eth"
 }

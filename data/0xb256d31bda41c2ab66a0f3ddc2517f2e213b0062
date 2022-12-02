@@ -9,6 +9,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-uniswap",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-stgdao"
   ]
 }

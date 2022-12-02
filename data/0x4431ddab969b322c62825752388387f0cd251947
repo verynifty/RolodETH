@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Fast Food Punks Burgers",
   "imageUrl": "https://i.seadn.io/gae/HrY-ICPbvz1qehnGKbKw_aEkEDK0ULCtNIwEMx5sNvExhKgERF0EXLQStNgku3ZnKSxm1FF9XIIbOL5y5jfncvS_FYOhh8heqD15?w=500&auto=format",
   "externalUrl": "https://mint.fastfoodpunks.com/",
   "discordUrl": "https://discord.gg/fastfoodpunks",
   "twitterUsername": "FastFoodPunks",
-  "description": "Welcome to the home of the Official Fast Food Punks Burgers. 708 Hand-drawn pixel burgers ready to satisfy your Fast Food Punk's hunger... It's Burger Time! Visit the Original Fast Food Punks Collection: https://opensea.io/collection/fastfoodpunks Visit the Honorary Fast Food Punks Collection that raised $574k USD for the Ronald McDonald House Foundation Charity: https://opensea.io/collection/fastfoodpunksforcharity"
+  "description": "Welcome to the home of the Official Fast Food Punks Burgers. 708 Hand-drawn pixel burgers ready to satisfy your Fast Food Punk's hunger... It's Burger Time! Visit the Original Fast Food Punks Collection: https://opensea.io/collection/fastfoodpunks Visit the Honorary Fast Food Punks Collection that raised $574k USD for the Ronald McDonald House Foundation Charity: https://opensea.io/collection/fastfoodpunksforcharity",
+  "erc721_symbol": "FFPB"
 }

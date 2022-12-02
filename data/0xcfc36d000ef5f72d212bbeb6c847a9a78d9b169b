@@ -10,6 +10,7 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-cow",
     "snapshot-voter-jbdao",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-mail3"
   ]
 }

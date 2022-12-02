@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ],
   "ens": "alphayang.eth"
 }

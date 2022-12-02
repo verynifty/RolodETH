@@ -5,6 +5,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-sismo"
-  ]
+    "snapshot-voter-sismo",
+    "snapshot-voter-mail3"
+  ],
+  "ens": "fogelashot.eth"
 }

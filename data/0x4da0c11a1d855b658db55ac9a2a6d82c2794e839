@@ -1,6 +1,7 @@
 {
   "tags": [
-    "azuki-minter"
+    "azuki-minter",
+    "snapshot-voter-stgdao"
   ],
   "ens": "tommeh.eth"
 }

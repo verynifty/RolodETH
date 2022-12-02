@@ -4,5 +4,6 @@
     "doodle-minter",
     "clonex-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "titiusmaximus.eth"
 }

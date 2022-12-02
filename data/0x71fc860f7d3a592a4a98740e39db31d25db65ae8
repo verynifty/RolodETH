@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "aave-v1",
-    "aave"
+    "aave",
+    "contract"
   ],
   "name": "Aave: aUSDT Token V1",
   "erc20_symbol": "AUSDT",

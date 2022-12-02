@@ -7,6 +7,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zksyncdao"
+    "snapshot-voter-zksyncdao",
+    "snapshot-voter-mail3"
   ]
 }

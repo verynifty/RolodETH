@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metropolis World - City of Celeste",
   "imageUrl": "https://i.seadn.io/gcs/files/b47b08308863638ca24f2042ce2fa6ed.jpg?w=500&auto=format",
   "externalUrl": "https://metropolisworld.io",
   "discordUrl": "https://discord.gg/metropolisworld",
   "twitterUsername": "metropolisworld",
-  "description": "Celeste, the first capital city of the metaverse, is filled with over 450 non-generative 1x1 properties each  with its own backstory and characters. Every NFT is dynamic with the ability to attach items such as media, furniture, and other accessories.\n\nExplore [www.metropolisworld.io](https://metropolisworld.io) and get one of our six Metropolis World Passports to unlock your gamer profile, collect Soft Clay currency, level-up, and so much more!"
+  "description": "Celeste, the first capital city of the metaverse, is filled with over 450 non-generative 1x1 properties each  with its own backstory and characters. Every NFT is dynamic with the ability to attach items such as media, furniture, and other accessories.\n\nExplore [www.metropolisworld.io](https://metropolisworld.io) and get one of our six Metropolis World Passports to unlock your gamer profile, collect Soft Clay currency, level-up, and so much more!",
+  "erc721_symbol": "METC"
 }

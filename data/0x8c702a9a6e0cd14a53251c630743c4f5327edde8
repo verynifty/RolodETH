@@ -9,7 +9,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave"
   ],
   "ens": "calman.eth"
 }

@@ -4,5 +4,6 @@
     "sudoswap-user",
     "snapshot-voter-nftfinance",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "polkadao.eth"
 }

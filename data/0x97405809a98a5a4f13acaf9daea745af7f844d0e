@@ -3,6 +3,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-perp-temp-check"
   ]
 }

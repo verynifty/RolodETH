@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gae/QiVAUdFlHUgcWe_mmSNDk-NlhiI3wotbz81OOup5TbBHwDJD0GJGv7vpyFr5sLlAJD8lOZrqyIOuC0wiJnOGd2UEeN-0Yi3WO_HK?w=500&auto=format",
   "externalUrl": "https://www.ctdao.io/ctd_nft/",
   "discordUrl": "https://discord.gg/87e5SwSBY9",
-  "description": "⚠️ご注意ください⚠️ \n\nこちらで販売されている『SHINZO』は二次流通品で、値段が正規価格より高くなっている場合がございます。\n『SHINZO』の一次流通品は下記の公式サイトから0.01ETHにてご購入いただけます。\n\nhttps://www.ctdao.io/ctd_nft/"
+  "description": "⚠️ご注意ください⚠️ \n\nこちらで販売されている『SHINZO』は二次流通品で、値段が正規価格より高くなっている場合がございます。\n『SHINZO』の一次流通品は下記の公式サイトから0.01ETHにてご購入いただけます。\n\nhttps://www.ctdao.io/ctd_nft/",
+  "erc721_symbol": "CTD"
 }

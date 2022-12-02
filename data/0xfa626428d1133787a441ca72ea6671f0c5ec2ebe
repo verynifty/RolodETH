@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "YING: Hello New World",
   "imageUrl": "https://i.seadn.io/gcs/files/ff1880e3beea3f4fdb8d10f932d9435d.gif?w=500&auto=format",
   "externalUrl": "http://ying.hootlabs.io",
   "discordUrl": "https://discord.gg/hootlabs",
   "twitterUsername": "InkeNFT",
-  "description": "YING, ecotype enterprises IP of Inkeverse and the avatar spokesperson for Inkeverse."
+  "description": "YING, ecotype enterprises IP of Inkeverse and the avatar spokesperson for Inkeverse.",
+  "erc721_symbol": "YING"
 }

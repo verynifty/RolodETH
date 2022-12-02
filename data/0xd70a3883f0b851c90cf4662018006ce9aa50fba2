@@ -4,6 +4,8 @@
     "snapshot-voter-kalmyapp",
     "snapshot-voter-hop",
     "snapshot-voter-safe",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-beefydao",
+    "snapshot-voter-moonpotdotcom"
   ]
 }

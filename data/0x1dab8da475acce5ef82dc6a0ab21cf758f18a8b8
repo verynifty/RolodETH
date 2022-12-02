@@ -4,6 +4,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-morpho"
   ]
 }

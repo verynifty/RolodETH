@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "wjessie.eth"
 }

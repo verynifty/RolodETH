@@ -8,6 +8,8 @@
     "snapshot-voter-giv",
     "snapshot-voter-popcorn-snapshot",
     "snapshot-voter-gnosis",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-poh"
   ]
 }

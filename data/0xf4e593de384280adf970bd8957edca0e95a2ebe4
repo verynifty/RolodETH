@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MU Black Shard",
   "imageUrl": "https://i.seadn.io/gcs/files/eea81c2425067cf851516a5180e287b9.gif?w=500&auto=format",
   "externalUrl": "https://mint.mutariuum.com",
   "discordUrl": "https://discord.gg/mutariuumuniverse",
   "twitterUsername": "PlayMutariuum",
-  "description": "The Black Shard is your access ticket to the Mutariuum Universe. The MUBS will give you as a holder a Whitelist slot for all our future MU Mints. It also has additional utility attached, like a staking bonus, future Whitelist slots for all our MU Accelerator projects, and more."
+  "description": "The Black Shard is your access ticket to the Mutariuum Universe. The MUBS will give you as a holder a Whitelist slot for all our future MU Mints. It also has additional utility attached, like a staking bonus, future Whitelist slots for all our MU Accelerator projects, and more.",
+  "erc721_symbol": "MUBS"
 }

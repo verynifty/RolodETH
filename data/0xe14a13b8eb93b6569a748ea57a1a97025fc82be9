@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-elfi",
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao"
   ],
   "ens": "berus.eth"
 }

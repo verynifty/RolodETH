@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "skylar97.eth"
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-mcv",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-balancer"
   ]
 }

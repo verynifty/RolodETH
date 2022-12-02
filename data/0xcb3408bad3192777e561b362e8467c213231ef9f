@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-fingerprints"
-  ]
+  ],
+  "ens": "0xshamrock.eth"
 }

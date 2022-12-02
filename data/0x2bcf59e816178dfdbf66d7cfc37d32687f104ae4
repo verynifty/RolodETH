@@ -6,6 +6,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-stgdao"
   ]
 }

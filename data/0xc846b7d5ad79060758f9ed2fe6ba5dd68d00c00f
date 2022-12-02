@@ -3,6 +3,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gal"
   ]
 }

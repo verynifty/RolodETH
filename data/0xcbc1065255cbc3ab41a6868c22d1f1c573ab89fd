@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Cream.Finance: Old CRETH2 Token"
+  "name": "Cream.Finance: Old CRETH2 Token",
+  "erc20_symbol": "CRETH2",
+  "erc20_decimals": 18
 }

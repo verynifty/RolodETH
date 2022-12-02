@@ -3,5 +3,6 @@
     "snapshot-voter-10kvote",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "btcow.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wizards & Dragons Game (WnD)",
   "imageUrl": "https://i.seadn.io/gae/_r5U4nkRK73LKyGb1n64WI-tkAKT2Jg6eGi5E4gLj2T89o9nX4hlC7XffSnnbDqOoM_NT3y4V8lKSXGjg5QJ4N1OjiKJV0WVIG0upQ?w=500&auto=format",
   "externalUrl": "https://wnd.game/",
   "discordUrl": "https://discord.gg/wnd",
   "twitterUsername": "wndgame",
-  "description": "Thousands of Wizards and Dragons compete in a tower in the metaverse. Tempting treasures of GP await, with deadly high stakes. All the metadata and images are generated and stored 100% on-chain. No IPFS. No API. Just the Ethereum blockchain.\n\nGame is undergoing a reboot by Krypto Sucks! To see the game mechanics coming to WnD, check out their free mint game, [Mint Of Destiny!](https://MintOfDestiny.xyz)\n\nFor trading, see: [Wizards & Dragons Collection](https://opensea.io/collection/wizards-dragons-game-v2) | [Sacrificial Altar Collection](https://opensea.io/collection/wizards-dragons-game-sacrificial-altar) | [Consumables Collection](https://opensea.io/collection/wizards-dragons-game-consumables)\n\nadoom says hi 😈"
+  "description": "Thousands of Wizards and Dragons compete in a tower in the metaverse. Tempting treasures of GP await, with deadly high stakes. All the metadata and images are generated and stored 100% on-chain. No IPFS. No API. Just the Ethereum blockchain.\n\nGame is undergoing a reboot by Krypto Sucks! To see the game mechanics coming to WnD, check out their free mint game, [Mint Of Destiny!](https://MintOfDestiny.xyz)\n\nFor trading, see: [Wizards & Dragons Collection](https://opensea.io/collection/wizards-dragons-game-v2) | [Sacrificial Altar Collection](https://opensea.io/collection/wizards-dragons-game-sacrificial-altar) | [Consumables Collection](https://opensea.io/collection/wizards-dragons-game-consumables)\n\nadoom says hi 😈",
+  "erc721_symbol": "WnD"
 }

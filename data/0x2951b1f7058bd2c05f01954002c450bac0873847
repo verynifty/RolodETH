@@ -15,6 +15,9 @@
     "opensea-user",
     "snapshot-voter-ybaby",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-gearbox"
-  ]
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aurafinance"
+  ],
+  "ens": "0xparasitic.eth"
 }

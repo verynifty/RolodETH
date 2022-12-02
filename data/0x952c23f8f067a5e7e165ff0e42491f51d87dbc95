@@ -13,7 +13,8 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mainnet-ssvnetwork"
   ],
   "ens": "maoyan.eth"
 }

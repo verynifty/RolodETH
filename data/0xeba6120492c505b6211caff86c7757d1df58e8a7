@@ -7,5 +7,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "boluomi.eth"
 }

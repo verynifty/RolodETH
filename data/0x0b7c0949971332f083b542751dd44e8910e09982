@@ -3,5 +3,6 @@
     "gitcoin-grantee",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "urbian.eth"
 }

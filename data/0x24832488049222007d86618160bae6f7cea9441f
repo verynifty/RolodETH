@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Petabytes",
   "imageUrl": "https://i.seadn.io/gcs/files/cc4b3d0b85a96f1a137738896812527f.jpg?w=500&auto=format",
   "externalUrl": "http://petabytesnft.com",
   "twitterUsername": "CAMEOPASS",
-  "description": "Lukey McGarry is a UK-born, LA-based, award-winning cartoonist and animator. He's taken his love of animals, lifetime of pop-cultural references, filtered them through the lens of his instantly-recognizable illustration style, and created a universe of 2,022 pieces, each one hand-drawn and unique. From darlings dogs to freaky frogs, the Petabytes collection marks a new benchmark in NFT creation."
+  "description": "Lukey McGarry is a UK-born, LA-based, award-winning cartoonist and animator. He's taken his love of animals, lifetime of pop-cultural references, filtered them through the lens of his instantly-recognizable illustration style, and created a universe of 2,022 pieces, each one hand-drawn and unique. From darlings dogs to freaky frogs, the Petabytes collection marks a new benchmark in NFT creation.",
+  "erc721_symbol": "PETA"
 }

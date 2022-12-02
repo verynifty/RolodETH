@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

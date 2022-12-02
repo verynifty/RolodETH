@@ -9,6 +9,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-spookyswap"
   ]
 }

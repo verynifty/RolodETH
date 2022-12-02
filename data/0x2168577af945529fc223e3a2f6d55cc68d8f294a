@@ -6,7 +6,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-safe",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ],
   "ens": "ruofeng.eth"
 }

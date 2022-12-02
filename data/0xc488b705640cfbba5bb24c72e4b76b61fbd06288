@@ -8,6 +8,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-balancer",
+    "snapshot-voter-anglegovernance"
   ]
 }

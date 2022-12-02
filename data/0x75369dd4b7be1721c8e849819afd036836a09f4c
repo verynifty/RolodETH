@@ -4,7 +4,8 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-mail3"
   ],
   "ens": "youngnoah.eth"
 }

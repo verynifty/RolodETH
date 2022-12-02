@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "racylife.eth"
 }

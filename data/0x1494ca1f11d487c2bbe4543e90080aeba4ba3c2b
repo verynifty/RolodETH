@@ -2,7 +2,8 @@
   "tags": [
     "erc20",
     "set-protocol",
-    "sybil-delegate"
+    "sybil-delegate",
+    "contract"
   ],
   "name": "Set: DeFiPulse Index",
   "erc20_symbol": "DPI",

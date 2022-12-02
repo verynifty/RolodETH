@@ -10,5 +10,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "ekkochan.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-yam",
     "snapshot-voter-dfi",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "oleole.eth"
 }

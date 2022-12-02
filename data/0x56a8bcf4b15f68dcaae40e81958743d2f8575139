@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-stgdao"
   ],
   "ens": "pr4nke.eth"
 }

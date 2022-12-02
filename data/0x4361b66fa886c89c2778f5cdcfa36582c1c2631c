@@ -6,6 +6,7 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-mavxyz"
   ]
 }

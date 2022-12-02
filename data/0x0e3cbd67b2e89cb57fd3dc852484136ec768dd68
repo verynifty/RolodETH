@@ -6,6 +6,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-banklessvault",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

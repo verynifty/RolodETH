@@ -3,5 +3,6 @@
     "snapshot-voter-daocity",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "knidos.eth"
 }

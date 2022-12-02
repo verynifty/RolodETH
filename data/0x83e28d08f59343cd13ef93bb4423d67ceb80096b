@@ -8,6 +8,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-alpacafinance"
   ]
 }

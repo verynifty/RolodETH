@@ -5,6 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-gmx",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer"
   ]
 }

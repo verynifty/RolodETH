@@ -10,6 +10,8 @@
     "snapshot-voter-aladdindao",
     "snapshot-voter-gearbox",
     "snapshot-voter-opcollective",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-stgdao"
   ]
 }

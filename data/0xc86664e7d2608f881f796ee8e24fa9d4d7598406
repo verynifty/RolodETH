@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "OFFICIAL WAGMI ARMY",
   "imageUrl": "https://i.seadn.io/gcs/files/68377331e92e84100a24261a9bf341d3.jpg?w=500&auto=format",
   "externalUrl": "https://wagmiarmy.io/",
   "discordUrl": "https://discord.gg/wagmiarmy",
   "twitterUsername": "wagmiarmynft",
-  "description": " WAGMIIFGMAIGMAISGMASIMDIASMDAIMGI \nHOLDER COUNT IS INACCURATE DUE TO STAKING"
+  "description": " WAGMIIFGMAIGMAISGMASIMDIASMDAIMGI \nHOLDER COUNT IS INACCURATE DUE TO STAKING",
+  "erc721_symbol": "WAGMI"
 }

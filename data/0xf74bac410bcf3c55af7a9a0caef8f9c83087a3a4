@@ -10,6 +10,7 @@
     "snapshot-voter-avcdao",
     "snapshot-voter-arbitrumtools",
     "snapshot-voter-yourdictionary",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "shrinika.eth"
 }

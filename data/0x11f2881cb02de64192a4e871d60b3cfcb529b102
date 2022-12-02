@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "finans1st.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Project Shojira NFT Official",
   "imageUrl": "https://i.seadn.io/gcs/files/7f9cb13d6725f9421f2c1d5417562b72.png?w=500&auto=format",
   "externalUrl": "https://shojira.com/",
   "discordUrl": "https://discord.gg/shojira",
   "twitterUsername": "shojira",
-  "description": "Shojira is a 2222 collection of cursed jiras which have become awakened from the undead to conquer the metaverse on the Ethereum blockchain.\n\nWe have curated our web3 community with the goal of becoming a lore & storytelling platform consisting of in-depth character design, lore, manga art panels and animations. The narrative of Project Shojira was inspired by traditional Japanese folklore and concepts from universally recognised anime titles. Our team believes that anime culture is an integral part of the Web3 community and as result - our vision is to bring a unique experience with our lore which involves the community.\n\nThe story of Project Shojira revolves around the concept of a powerful curse being broken from its seal. Once the Shojira's curse has become awakened, it will imbue the holder with an extremely powerful dark energy. However in return, the holder will then seek total destruction and pure chaos into the world. \n\n"
+  "description": "Shojira is a 2222 collection of cursed jiras which have become awakened from the undead to conquer the metaverse on the Ethereum blockchain.\n\nWe have curated our web3 community with the goal of becoming a lore & storytelling platform consisting of in-depth character design, lore, manga art panels and animations. The narrative of Project Shojira was inspired by traditional Japanese folklore and concepts from universally recognised anime titles. Our team believes that anime culture is an integral part of the Web3 community and as result - our vision is to bring a unique experience with our lore which involves the community.\n\nThe story of Project Shojira revolves around the concept of a powerful curse being broken from its seal. Once the Shojira's curse has become awakened, it will imbue the holder with an extremely powerful dark energy. However in return, the holder will then seek total destruction and pure chaos into the world. \n\n",
+  "erc721_symbol": "SHOJ"
 }

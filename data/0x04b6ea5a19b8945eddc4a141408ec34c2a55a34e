@@ -5,6 +5,7 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao"
   ]
 }

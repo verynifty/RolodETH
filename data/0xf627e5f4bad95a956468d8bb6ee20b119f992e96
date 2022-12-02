@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gnosis",
     "snapshot-voter-daocity",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-stgdao"
   ],
   "ens": "reply-with-your-ens.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "faye2008.eth"
 }

@@ -4,5 +4,6 @@
     "coolcat-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "crypt0xninja.eth"
 }

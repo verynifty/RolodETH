@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "GigaSpace 2140",
   "imageUrl": "https://i.seadn.io/gcs/files/f4b884cb79657e10d2ae17c49815e56c.png?w=500&auto=format",
   "externalUrl": "https://www.gigaspace.io",
   "discordUrl": "https://discord.gg/gigaspace",
   "twitterUsername": "Gigaspace2140",
-  "description": "The world's first web5.0 metaverse where business happens"
+  "description": "The world's first web5.0 metaverse where business happens",
+  "proxy": "0x9c7404d6a7f1d91e7a6e3651bd6466b204fe114a"
 }

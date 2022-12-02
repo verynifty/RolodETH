@@ -6,6 +6,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-yokaiswap"
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-stgdao"
   ]
 }

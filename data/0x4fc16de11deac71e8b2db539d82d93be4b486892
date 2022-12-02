@@ -1,7 +1,8 @@
 {
   "tags": [
     "bridge",
-    "optics"
+    "optics",
+    "contract"
   ],
   "name": "Optics: ERC-20 Bridge"
 }

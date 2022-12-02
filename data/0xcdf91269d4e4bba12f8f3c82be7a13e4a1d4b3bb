@@ -8,6 +8,8 @@
     "snapshot-voter-opcollective",
     "opensea-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-ybaby"
   ]
 }

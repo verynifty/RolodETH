@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-popcorn-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-mail3"
   ]
 }

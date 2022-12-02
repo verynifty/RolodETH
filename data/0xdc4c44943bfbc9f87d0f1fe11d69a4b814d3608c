@@ -7,6 +7,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-mail3"
   ]
 }

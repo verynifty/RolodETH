@@ -3,6 +3,8 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-ybaby",
+    "snapshot-voter-mail3"
   ]
 }

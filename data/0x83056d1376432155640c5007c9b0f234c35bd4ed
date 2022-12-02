@@ -3,5 +3,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "centella.eth"
 }

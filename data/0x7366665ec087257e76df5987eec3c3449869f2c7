@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "contract-deployer"
   ],
-  "name": "MBSC DeFi: Deployer"
+  "name": "MBSC DeFi: Deployer",
+  "ens": "mbscdefi.eth"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "CLever CVX",
   "erc20_symbol": "CLEVCVX",

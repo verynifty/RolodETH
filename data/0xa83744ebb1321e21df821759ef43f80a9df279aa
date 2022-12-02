@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "nftweb4.eth"
 }

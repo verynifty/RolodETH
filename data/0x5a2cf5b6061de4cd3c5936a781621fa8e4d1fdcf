@@ -10,5 +10,6 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-aave",
     "snapshot-voter-interfacedao"
-  ]
+  ],
+  "ens": "gusha.eth"
 }
