@@ -6,7 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-uniswap"
   ],
   "ens": "labyrynth29.eth"
 }

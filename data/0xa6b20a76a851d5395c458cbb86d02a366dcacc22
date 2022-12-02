@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-apecoin",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

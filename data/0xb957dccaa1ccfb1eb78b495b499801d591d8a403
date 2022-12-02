@@ -10,6 +10,7 @@
     "snapshot-voter-dfx",
     "snapshot-voter-pitchdeployer",
     "snapshot-voter-sdangle",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-veclev"
   ]
 }

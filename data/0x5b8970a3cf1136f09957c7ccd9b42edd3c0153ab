@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "wasfree.eth"
 }

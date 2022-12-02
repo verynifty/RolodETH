@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-uniswap"
   ],
   "ens": "zhuzhuking.eth"
 }

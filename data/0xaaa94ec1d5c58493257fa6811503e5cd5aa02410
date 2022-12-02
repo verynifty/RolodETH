@@ -8,6 +8,7 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-uniswap"
   ]
 }

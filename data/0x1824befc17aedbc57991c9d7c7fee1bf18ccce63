@@ -5,6 +5,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

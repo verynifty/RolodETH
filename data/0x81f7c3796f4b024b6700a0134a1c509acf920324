@@ -6,6 +6,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-apecoin"
   ]
 }

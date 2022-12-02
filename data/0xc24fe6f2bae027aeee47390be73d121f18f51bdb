@@ -5,6 +5,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-poh"
+    "snapshot-voter-poh",
+    "snapshot-voter-uniswap"
   ]
 }

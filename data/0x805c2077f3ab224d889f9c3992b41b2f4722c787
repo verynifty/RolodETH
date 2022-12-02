@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "art Q NFT Investment Fund",
   "erc20_symbol": "ARTEQ",

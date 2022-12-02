@@ -2,6 +2,7 @@
   "tags": [
     "moonbird-minter",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-uniswap"
   ]
 }

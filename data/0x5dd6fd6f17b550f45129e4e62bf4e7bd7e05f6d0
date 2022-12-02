@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ],
   "ens": "miho1969.eth"
 }

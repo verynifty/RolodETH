@@ -3,6 +3,7 @@
     "snapshot-voter-elfi",
     "snapshot-voter-yearn",
     "sudoswap-user",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-gearbox"
   ]
 }

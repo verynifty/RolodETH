@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "pinpoong.eth"
 }

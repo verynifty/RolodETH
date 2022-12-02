@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "dukenfi.eth"
 }

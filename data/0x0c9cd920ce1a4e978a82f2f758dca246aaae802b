@@ -4,7 +4,8 @@
     "snapshot-voter-dudulab",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ],
   "ens": "ww941019.eth"
 }

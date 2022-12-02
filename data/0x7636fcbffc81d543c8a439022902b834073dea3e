@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-poh",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-shapeshiftdao"
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

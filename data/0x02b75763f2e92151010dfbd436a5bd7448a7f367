@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-hashflowdao",
     "snapshot-voter-jbdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-uniswap"
   ]
 }

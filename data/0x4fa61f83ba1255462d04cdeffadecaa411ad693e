@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-banklessvault",
     "snapshot-voter-opcollective",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
   ]
 }

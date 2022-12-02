@@ -4,6 +4,7 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-loot-dao"
   ]
 }

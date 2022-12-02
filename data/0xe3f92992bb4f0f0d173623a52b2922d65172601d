@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Knights of Degen",
   "imageUrl": "https://i.seadn.io/gae/yxdb_995UrIS6W9YIHMfMCRsdYRqcITlBvO5w7OoUx35rkClUeq9rPCvTMXdtw_zION07O_qRZSuNfZu6R6o8bI_KmbrfThhFtA4SBc?w=500&auto=format",
   "externalUrl": "https://www.knightsofdegen.io/",
   "discordUrl": "https://discord.gg/knightsofdegen",
   "twitterUsername": "knightsofdegen",
-  "description": "Knights of Degen is the premier web3 sports platform for all those who love sports, sports betting, and/or live the degen life!\n\nLaunched in September 2021, Knights of Degen (KOD) has delivered numerous in person and online events - from Las Vegas SuperBowl parties with pro athletes as guests to New York City NFT parties headlined by Ja Rule! In addition KOD produced the first ever on chain March Madness Bracket challenge in March 2022, and has ongoing competitions in the KOD Tournament of Champions around all major sporting events, such as the Masters, MLB Playoffs, NFL and more!\n\nMembers of the Knights of Degen include pro athletes such as AJ DIllon, Tiki Barber, Rip Hamilton, and many more.  Community members are leaders in the web3 and NFT space as well.\n\nBecoming a Knights of Degen grants you access to our Kingdom of all of the above and more to come. So, suit up and come and join!\n\nSteedz of Degen: https://opensea.io/collection/steedz-of-degen\nWebsite: https://knightsofdegen.io"
+  "description": "Knights of Degen is the premier web3 sports platform for all those who love sports, sports betting, and/or live the degen life!\n\nLaunched in September 2021, Knights of Degen (KOD) has delivered numerous in person and online events - from Las Vegas SuperBowl parties with pro athletes as guests to New York City NFT parties headlined by Ja Rule! In addition KOD produced the first ever on chain March Madness Bracket challenge in March 2022, and has ongoing competitions in the KOD Tournament of Champions around all major sporting events, such as the Masters, MLB Playoffs, NFL and more!\n\nMembers of the Knights of Degen include pro athletes such as AJ DIllon, Tiki Barber, Rip Hamilton, and many more.  Community members are leaders in the web3 and NFT space as well.\n\nBecoming a Knights of Degen grants you access to our Kingdom of all of the above and more to come. So, suit up and come and join!\n\nSteedz of Degen: https://opensea.io/collection/steedz-of-degen\nWebsite: https://knightsofdegen.io",
+  "erc721_symbol": "KNIGHTS"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-uniswap"
   ]
 }

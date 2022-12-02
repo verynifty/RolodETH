@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "AneroVerse Official",
   "imageUrl": "https://i.seadn.io/gcs/files/343a6e45d7a8c576939f4006db6a1ae8.png?w=500&auto=format",
   "discordUrl": "https://discord.gg/kg5rWmpS",
   "twitterUsername": "AneroVerse",
-  "description": "Anero is a decentralized brand without bounds seeking to build a culture, brand and community beyond Web3. We are a collection of 6,333 high quality anime and streetwear inspired art. We seek to set a new standard for high quality art in the NFT space while also creating a community driven brand."
+  "description": "Anero is a decentralized brand without bounds seeking to build a culture, brand and community beyond Web3. We are a collection of 6,333 high quality anime and streetwear inspired art. We seek to set a new standard for high quality art in the NFT space while also creating a community driven brand.",
+  "erc721_symbol": "ANERO"
 }

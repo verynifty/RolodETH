@@ -6,6 +6,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-beets",
     "snapshot-voter-cow",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-balancer"
   ]
 }

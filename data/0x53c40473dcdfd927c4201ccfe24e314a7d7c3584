@@ -5,7 +5,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-cvx",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-frax"
+    "snapshot-voter-frax",
+    "snapshot-voter-foundersdao"
   ],
   "ens": "dowjonez.eth"
 }
