@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-dudulab",
     "opensea-user"
-  ]
+  ],
+  "ens": "3286.eth"
 }

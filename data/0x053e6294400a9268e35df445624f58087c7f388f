@@ -3,5 +3,6 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "robapuros.eth"
 }

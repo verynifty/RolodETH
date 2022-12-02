@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "zhouchangjun.eth"
 }

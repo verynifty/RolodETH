@@ -3,5 +3,6 @@
     "meebit-minter",
     "snapshot-voter-leagueoflils",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "hot.digitaloil.eth"
 }

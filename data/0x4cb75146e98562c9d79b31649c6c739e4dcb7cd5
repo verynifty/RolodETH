@@ -8,5 +8,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "khunchan.eth"
 }

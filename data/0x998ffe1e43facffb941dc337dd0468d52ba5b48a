@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "RupiahToken",
   "erc20_symbol": "IDRT",
   "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/9441/thumb/57421944_1371636006308255_3647136573922738176_n.jpg?1567462531"
+  "imageURL": "https://assets.coingecko.com/coins/images/9441/thumb/57421944_1371636006308255_3647136573922738176_n.jpg?1567462531",
+  "proxy": "0xc61fddd0adc21f99b6a05d830e2ca996c25ee089"
 }

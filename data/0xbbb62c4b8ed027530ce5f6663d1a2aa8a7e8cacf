@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "RarePass: Genesis",
   "imageUrl": "https://i.seadn.io/gcs/files/8be21990ffac4f4d56c916b690ac702d.png?w=500&auto=format",
   "externalUrl": "https://rarepass.superrare.com/",
   "twitterUsername": "SuperRare",
-  "description": "RarePass: Genesis. A historic cryptoart collecting opportunity, featuring 24 artists shaping the cryptoart movement. Collect one of 250 passes, receive monthly airdrops from 12 legendary artists, 3x opportunities per month to win unique 1/1 artworks, and be part of cryptoart history. Visit rarepass.superrare.com to learn more. Curated by SuperRare Labs."
+  "description": "RarePass: Genesis. A historic cryptoart collecting opportunity, featuring 24 artists shaping the cryptoart movement. Collect one of 250 passes, receive monthly airdrops from 12 legendary artists, 3x opportunities per month to win unique 1/1 artworks, and be part of cryptoart history. Visit rarepass.superrare.com to learn more. Curated by SuperRare Labs.",
+  "erc721_symbol": "RAREPASS"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "noftx.eth"
 }

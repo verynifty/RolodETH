@@ -4,5 +4,6 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "98ert1.eth"
 }

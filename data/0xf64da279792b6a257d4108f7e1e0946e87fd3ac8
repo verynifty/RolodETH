@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "PLS",
+  "erc20_decimals": 13,
+  "name": "Plst"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Bilira",
   "erc20_symbol": "TRYB",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1642668342"
+  "imageURL": "https://assets.coingecko.com/coins/images/10119/thumb/JBs9jiXO_400x400.jpg?1642668342",
+  "proxy": "0x5f88d1a517b670a14ded5d0cf8b3d37e554d977b"
 }

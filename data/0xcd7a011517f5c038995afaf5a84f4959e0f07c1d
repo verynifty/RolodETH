@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "yolostonks.eth"
 }
