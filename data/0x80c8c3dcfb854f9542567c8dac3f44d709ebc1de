@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Spaceswap MILK2",
   "erc20_symbol": "MILK2",

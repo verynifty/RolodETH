@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "0xtechmeta.eth"
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "ribbon-finance"
+    "ribbon-finance",
+    "contract",
+    "proxy"
   ],
-  "name": "Ribbon Finance: ETH Put-Selling Vault V2"
+  "name": "Ribbon Finance: ETH Put-Selling Vault V2",
+  "proxy": "0x41fdd39de8ea5530070e1d084c35464fd37cbd3e"
 }

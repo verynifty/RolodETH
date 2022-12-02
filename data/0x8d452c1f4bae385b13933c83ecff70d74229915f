@@ -4,5 +4,6 @@
     "mayc-minter",
     "snapshot-voter-lgcryptounicorns",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "deriel.eth"
 }

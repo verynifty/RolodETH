@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-benddao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "66ryk66.eth"
 }

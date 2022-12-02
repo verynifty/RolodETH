@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Women From Venus",
   "imageUrl": "https://i.seadn.io/gae/WBWJmDNLvy2pm8ugXF14NT9hL8K7t2_HjTSs24No9QwWiwEH0Nnl7n0aNtqmo3_bDKhsQ6n9NUa0zqpQ95tNoZn6VaY6CL67GvB36Q?w=500&auto=format",
   "externalUrl": "https://www.womenfromvenus.io/",
   "discordUrl": "https://discord.gg/SuPXjvy7",
   "twitterUsername": "WFVnft",
-  "description": "What started out as creating more women-represented art turned into a movement! 5,555 randomly generated unique Women from Venus living on the blockchain are ready to travel throughout the metaverse. WFV is a welcoming, transparent, and organic community passionate about making a positive difference in the world. Focused on creating a safe welcoming space to onboard women into Web3."
+  "description": "What started out as creating more women-represented art turned into a movement! 5,555 randomly generated unique Women from Venus living on the blockchain are ready to travel throughout the metaverse. WFV is a welcoming, transparent, and organic community passionate about making a positive difference in the world. Focused on creating a safe welcoming space to onboard women into Web3.",
+  "erc721_symbol": "WFV"
 }

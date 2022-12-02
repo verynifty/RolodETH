@@ -3,5 +3,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote"
-  ]
+  ],
+  "ens": "2666266.eth"
 }

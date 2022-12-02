@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cyber Snails Official",
   "imageUrl": "https://i.seadn.io/gae/F4BwR86K9uIKZCITppYN_yJKsi7YLemZq_oMawQMp3vt1g5IsbuVO-ke-A4ALCO5ugUfh4K4rh_Jzw-mMpbuqP4KG6ziNOjcyHOAxQ?w=500&auto=format",
   "externalUrl": "https://www.cybersnails.com/",
   "discordUrl": "https://discord.gg/cybersnails",
   "twitterUsername": "CyberSnailsNFT",
-  "description": "Cyber Snails consists of 3333 NFT's and is the primary collection of the project. Holders have access to some of the best analytics/trading tools, and the possibility to stake your snails to generate $UPLOAD.\n\nWe also have a stacked team with some of the best alpha callers in the space, and tons of exclusive whitelist spots being raffled out to our community every day. Owner count is inaccurate due to staking.\n\nVisit [Cyber Keys](https://opensea.io/collection/cyber-keys-nft)\n\nJoin our discord for more info."
+  "description": "Cyber Snails consists of 3333 NFT's and is the primary collection of the project. Holders have access to some of the best analytics/trading tools, and the possibility to stake your snails to generate $UPLOAD.\n\nWe also have a stacked team with some of the best alpha callers in the space, and tons of exclusive whitelist spots being raffled out to our community every day. Owner count is inaccurate due to staking.\n\nVisit [Cyber Keys](https://opensea.io/collection/cyber-keys-nft)\n\nJoin our discord for more info.",
+  "erc721_symbol": "Cyber Snails (SNAILS)"
 }

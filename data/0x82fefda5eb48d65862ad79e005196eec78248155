@@ -4,5 +4,6 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "moneyhoe.eth"
 }

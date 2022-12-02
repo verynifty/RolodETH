@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BTCN",
+  "erc20_decimals": 18,
+  "name": "wBTC Chain Coin"
+}

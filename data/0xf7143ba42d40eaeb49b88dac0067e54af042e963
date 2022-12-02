@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Metasaurs by Dr. DMT",
   "imageUrl": "https://i.seadn.io/gae/xvqA-v_fQM5TE3CmJIpSTdFu4cmTeVpwRWeuLf4VdTBW0_ji9K91BirQWcshvGqlCAyMSwrrp8e-JSLp5YUHErAak0l3kXYBOdKfQak?w=500&auto=format",
   "externalUrl": "https://metasaurs.com",
   "discordUrl": "https://discord.gg/metasaurs",
   "twitterUsername": "metasaurs",
-  "description": "Metasaurs by Dr. DMT is a collection of 9,999 unique Metasaurs living on the Ethereum blockchain, this time, forever..."
+  "description": "Metasaurs by Dr. DMT is a collection of 9,999 unique Metasaurs living on the Ethereum blockchain, this time, forever...",
+  "erc721_symbol": "MTS"
 }
