@@ -5,5 +5,6 @@
     "snapshot-voter-alchemixstakers",
     "opensea-user",
     "snapshot-voter-alchemixedopinions"
-  ]
+  ],
+  "ens": "valvet.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Card Geek Hall of Fame",
   "imageUrl": "https://i.seadn.io/gcs/files/637b0e0371cc13c528df9a7e944eda6b.jpg?w=500&auto=format",
   "externalUrl": "https://cardgeekhof.com",
   "twitterUsername": "Blokpax",
-  "description": "Welcome to the Card Geek Hall of Fame, the official Blokpax avatar collection."
+  "description": "Welcome to the Card Geek Hall of Fame, the official Blokpax avatar collection.",
+  "proxy": "0xd093698db49d5bdec5938e7089a58b8938cc68ec"
 }

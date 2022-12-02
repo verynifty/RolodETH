@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-96studio",
     "opensea-user"
-  ]
+  ],
+  "ens": "alphatrilogy.eth"
 }

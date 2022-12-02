@@ -11,5 +11,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-qidao",
     "snapshot-voter-ethermondao"
-  ]
+  ],
+  "ens": "broscombe.eth"
 }

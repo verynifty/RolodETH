@@ -2,5 +2,6 @@
   "tags": [
     "azuki-minter",
     "goblin-town-minter"
-  ]
+  ],
+  "ens": "ctrlplus.eth"
 }

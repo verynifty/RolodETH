@@ -3,5 +3,6 @@
     "snapshot-voter-ilvgov",
     "snapshot-voter-ilvcommunity",
     "snapshot-voter-ilv"
-  ]
+  ],
+  "ens": "vetemor.eth"
 }

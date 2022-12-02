@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SoulWorld: EXPLORERS",
   "imageUrl": "https://i.seadn.io/gae/Hkv6WOG5cLCSaAx2YR61vNIT_nXDCLsnPwsDiUb_QfbCNkCE1NTr_dXQmjP0I4WKzjAYNM1AdM1lSJkdFkipFtAg2Nm_WfxtsmMM-Q?w=500&auto=format",
-  "twitterUsername": "karalangfk"
+  "twitterUsername": "karalangfk",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

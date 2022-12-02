@@ -10,5 +10,6 @@
   "externalUrl": "https://smallbrosnft.io/",
   "discordUrl": "https://discord.gg/smallbros",
   "twitterUsername": "SmallBrosNFT",
-  "description": "8888 Small Bros that are here to remind you you’re never alone in this journey! SmallBros on a mission to connect people together!"
+  "description": "8888 Small Bros that are here to remind you you’re never alone in this journey! SmallBros on a mission to connect people together!",
+  "erc721_symbol": "SBNFT"
 }

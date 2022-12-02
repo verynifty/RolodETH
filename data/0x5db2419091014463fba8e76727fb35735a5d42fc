@@ -11,5 +11,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "arbitrumeth.eth"
 }

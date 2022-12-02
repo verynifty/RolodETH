@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Boonji Project",
   "imageUrl": "https://i.seadn.io/gae/M5eV3dgE01GIJbt7VZ-Vx4B2Xo42RaFXGT3R-ynrwmrqDEAoq1MacTZlRgYuSPHk6jD73X1l18H5CIg0ZPy7xUSA-p_1GsSWQT9cLuQ?w=500&auto=format",
   "externalUrl": "https://boonjiproject.com",
   "discordUrl": "https://discord.gg/boonjiproject",
   "twitterUsername": "BoonjiProject",
-  "description": "As of 6/5/2022\nBoonji Tokens Burned: 800\n\nBoonji Tokens Locked in Collages: 600\n\nTotal Available Tokens: 9,711\n\nBoonji Project, launched on the Ethereum blockchain, is a collection of unique digital non-fungible tokens created by world-renowned artist Brendan Murphy. Your Boonji Avatar NFT not only serves as a piece of collectible digital artwork, but also as a passport that allows you to travel through an unexplored galaxy with the Boonji Spaceman.\n\nBoonji Project Official collections: [Super Boonji](https://opensea.io/collection/super-boonji) | [Loolee Bear](https://opensea.io/collection/looleebear) | [Boonji Physical Redemption Tokens](https://opensea.io/collection/redemption-tokens-for-brendan-murphy-physical-art) | [Boonji x Galaxy Egg](https://opensea.io/collection/boonji-galaxy-eggs)"
+  "description": "As of 6/5/2022\nBoonji Tokens Burned: 800\n\nBoonji Tokens Locked in Collages: 600\n\nTotal Available Tokens: 9,711\n\nBoonji Project, launched on the Ethereum blockchain, is a collection of unique digital non-fungible tokens created by world-renowned artist Brendan Murphy. Your Boonji Avatar NFT not only serves as a piece of collectible digital artwork, but also as a passport that allows you to travel through an unexplored galaxy with the Boonji Spaceman.\n\nBoonji Project Official collections: [Super Boonji](https://opensea.io/collection/super-boonji) | [Loolee Bear](https://opensea.io/collection/looleebear) | [Boonji Physical Redemption Tokens](https://opensea.io/collection/redemption-tokens-for-brendan-murphy-physical-art) | [Boonji x Galaxy Egg](https://opensea.io/collection/boonji-galaxy-eggs)",
+  "erc721_symbol": "BOONJI"
 }

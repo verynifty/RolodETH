@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "salem ilese",
   "imageUrl": "https://i.seadn.io/gae/jnZmzX-_p9diHSmcikl732xynskOSJbS8_ONTZXFixaFLBhUx_ZA2lsqR1rW3vnTzYSF8qx4yruOA1SgoLstz0KRyzLApbb-KKb8?w=500&auto=format",
   "externalUrl": "https://www.sound.xyz/salemilese",
   "twitterUsername": "salemilese",
-  "description": "Created by salem ilese on Sound. Leave a comment on the song at https://www.sound.xyz/salemilese"
+  "description": "Created by salem ilese on Sound. Leave a comment on the song at https://www.sound.xyz/salemilese",
+  "proxy": "0x16d2635a2c5de39b16294f25e9b5cfd5916c106b"
 }

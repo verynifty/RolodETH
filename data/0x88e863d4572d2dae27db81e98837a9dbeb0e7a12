@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-frax"
-  ]
+  ],
+  "ens": "fraximaxi.eth"
 }

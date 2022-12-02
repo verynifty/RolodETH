@@ -3,5 +3,6 @@
     "snapshot-voter-rareponddao",
     "snapshot-voter-stgdao",
     "snapshot-voter-mikaboshidao"
-  ]
+  ],
+  "ens": "juliusperving.eth"
 }

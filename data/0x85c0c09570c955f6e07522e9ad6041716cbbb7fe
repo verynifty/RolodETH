@@ -8,5 +8,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-pagedao"
-  ]
+  ],
+  "ens": "dragonate.eth"
 }

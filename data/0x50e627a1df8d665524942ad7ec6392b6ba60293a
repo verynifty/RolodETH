@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "fFRAX(FPI)",
+  "erc20_decimals": 18,
+  "name": "FraxlendV1 - Frax Price Index/Frax - Variable Time-Weighted Interest Rate - 7"
+}
