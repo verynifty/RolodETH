@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-tempusgov",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "cardenas.eth"
 }

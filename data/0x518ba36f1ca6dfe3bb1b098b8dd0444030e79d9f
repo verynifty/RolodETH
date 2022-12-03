@@ -10,5 +10,6 @@
   "externalUrl": "https://www.ledgart.io/",
   "discordUrl": "https://discord.gg/ledgart",
   "twitterUsername": "Ledgart_io",
-  "description": "Wonky Stonks is the first of its kind; a fully generative, financially-inspired NFT collection for investors, traders, and quants alike."
+  "description": "Wonky Stonks is the first of its kind; a fully generative, financially-inspired NFT collection for investors, traders, and quants alike.",
+  "erc721_symbol": "WSTK"
 }

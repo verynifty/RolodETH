@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pokpokprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "uncle8jack.eth"
 }

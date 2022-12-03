@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sushigov",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-uniswap"
   ],
   "ens": "chainxing.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "lilyhoang.eth"
 }

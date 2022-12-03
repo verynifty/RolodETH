@@ -4,5 +4,6 @@
     "meebit-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "phillytime.eth"
 }

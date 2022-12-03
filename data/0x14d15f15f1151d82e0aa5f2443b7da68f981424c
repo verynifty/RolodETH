@@ -18,5 +18,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "amirmehdi.eth"
 }

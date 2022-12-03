@@ -10,5 +10,6 @@
   "externalUrl": "https://orangecomet.com/collection/the-walking-dead-april-14th/",
   "discordUrl": "https://discord.gg/thewalkingdeadnft",
   "twitterUsername": "OrangeCometNFT",
-  "description": "Inspired by Daryl Dixon's motorcycle, this collection includes 50 different motorcycles with 8 levels of rarity. Each bike has some unique properties and is a metaverse-ready vehicle. It will serve as useful transportation to navigate to and within The Walking Dead virtual universe."
+  "description": "Inspired by Daryl Dixon's motorcycle, this collection includes 50 different motorcycles with 8 levels of rarity. Each bike has some unique properties and is a metaverse-ready vehicle. It will serve as useful transportation to navigate to and within The Walking Dead virtual universe.",
+  "erc721_symbol": "TWD-DARYL-MOTORCYCLES"
 }

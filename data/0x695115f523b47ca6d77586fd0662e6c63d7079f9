@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ROE Legendary Mounts",
   "imageUrl": "https://i.seadn.io/gcs/files/8e86361faaefb7d3916b7202a078d092.png?w=500&auto=format",
   "externalUrl": "https://realmsofethernity.com/",
   "discordUrl": "https://discord.gg/realmsofeth",
-  "description": "The Wanderers are no longer fluffy pets; they have become mountable creatures that grant access to unique combat abilities in the blockbuster MMORPG “Realms of Ethernity”. Obtain a mount and raise it well, as one might own the legendary, one-in-a-million Wanderer King and Queen under disguise..."
+  "description": "The Wanderers are no longer fluffy pets; they have become mountable creatures that grant access to unique combat abilities in the blockbuster MMORPG “Realms of Ethernity”. Obtain a mount and raise it well, as one might own the legendary, one-in-a-million Wanderer King and Queen under disguise...",
+  "erc721_symbol": "LMNT"
 }

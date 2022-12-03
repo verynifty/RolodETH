@@ -7,7 +7,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-uniswap",
     "snapshot-voter-swaprsnapshot",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-autominter"
   ],
   "ens": "johnpaul2.eth"
 }

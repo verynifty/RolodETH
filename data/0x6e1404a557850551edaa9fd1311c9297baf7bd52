@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Defimons Apartments",
   "imageUrl": "https://i.seadn.io/gcs/files/19bb38b79b5db49b10da6bae9d59ba4a.png?w=500&auto=format",
   "externalUrl": "http://defimons.com",
   "discordUrl": "https://discord.gg/defimons",
   "twitterUsername": "TheDeFimons",
-  "description": "**Defimons** is an open-world, monster-catching MMORPG. Capture monsters, craft items, grow crops, lure the biggest fish, form guilds, defeat bosses and explore the deep lore. \nAre you ready to tame em' all?\n\n**What is Defimons Land?**\n\n9500, Utility-based NFTs that allow holders to own in-game apartments. These apartments act as spaces for communities to hang out and interact with utility based furniture. Apartment owners can rent their apartments to other players, stake monsters for free health boost and much more!\n\nFollow us on Twitter : [Twitter](https://twitter.com/thedefimons)\n\nJoin our Discord and meet our amazing Community: [Discord](https://discord.gg/defimons)"
+  "description": "**Defimons** is an open-world, monster-catching MMORPG. Capture monsters, craft items, grow crops, lure the biggest fish, form guilds, defeat bosses and explore the deep lore. \nAre you ready to tame em' all?\n\n**What is Defimons Land?**\n\n9500, Utility-based NFTs that allow holders to own in-game apartments. These apartments act as spaces for communities to hang out and interact with utility based furniture. Apartment owners can rent their apartments to other players, stake monsters for free health boost and much more!\n\nFollow us on Twitter : [Twitter](https://twitter.com/thedefimons)\n\nJoin our Discord and meet our amazing Community: [Discord](https://discord.gg/defimons)",
+  "erc721_symbol": "MONLAND"
 }

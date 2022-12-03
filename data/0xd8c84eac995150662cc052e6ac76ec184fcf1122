@@ -4,7 +4,8 @@
     "opensea-user",
     "snapshot-voter-pooltogether",
     "snapshot-voter-wearebeansprout",
-    "snapshot-voter-beanstalkdao"
+    "snapshot-voter-beanstalkdao",
+    "snapshot-voter-uniswap"
   ],
   "ens": "jgr33nwood.eth"
 }

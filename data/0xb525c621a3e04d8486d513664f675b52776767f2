@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-doremifasollasi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-qidao"
   ]
 }

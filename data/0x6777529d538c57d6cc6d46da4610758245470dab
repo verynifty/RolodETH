@@ -4,7 +4,9 @@
     "sybil-delegate",
     "snapshot-voter-aavegotchi",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap",
+    "snapshot-voter-cakevote"
   ],
   "name": "Sybil Delegate: AlvaroCabreraO1"
 }

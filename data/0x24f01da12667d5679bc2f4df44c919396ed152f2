@@ -3,5 +3,6 @@
     "doodle-minter",
     "contract-deployer"
   ],
-  "name": "OctoHedz: Deployer"
+  "name": "OctoHedz: Deployer",
+  "ens": "nassar.eth"
 }

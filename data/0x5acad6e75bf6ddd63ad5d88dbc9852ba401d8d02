@@ -12,6 +12,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-alchemistcoin"
   ]
 }

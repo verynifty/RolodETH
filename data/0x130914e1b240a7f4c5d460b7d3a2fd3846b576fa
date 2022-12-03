@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Aureus Nummus Gold",
   "erc20_symbol": "ANG",

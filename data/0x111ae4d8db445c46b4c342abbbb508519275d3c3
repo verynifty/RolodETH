@@ -4,5 +4,6 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao"
-  ]
+  ],
+  "ens": "datudou.eth"
 }

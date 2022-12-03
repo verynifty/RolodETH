@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "LimeWire Originals",
   "imageUrl": "https://i.seadn.io/gcs/files/e0536b2b8d3ec0d656f91d374cd26660.png?w=500&auto=format",
-  "description": "LimeWire Originals is a limited collection of 10,000 Original NFTs minted on the Ethereum blockchain, featuring 10,000 unique and rare avatars with a variety of traits and attributes. Owning a LimeWire Original represents the highest level of membership the LimeWire community has to offer. If you own one, you are not only owning a digital avatar, you are gaining access to a series of perks and experiences exclusive to LimeWire Original holders. This includes regular invite-only, physical LimeWire events across the world featuring performances of artists on LimeWire, early access to high-profile NFT collections dropping on the marketplace, access to limited merch collections, as well as LMWR token airdrops and rewards."
+  "description": "LimeWire Originals is a limited collection of 10,000 Original NFTs minted on the Ethereum blockchain, featuring 10,000 unique and rare avatars with a variety of traits and attributes. Owning a LimeWire Original represents the highest level of membership the LimeWire community has to offer. If you own one, you are not only owning a digital avatar, you are gaining access to a series of perks and experiences exclusive to LimeWire Original holders. This includes regular invite-only, physical LimeWire events across the world featuring performances of artists on LimeWire, early access to high-profile NFT collections dropping on the marketplace, access to limited merch collections, as well as LMWR token airdrops and rewards.",
+  "proxy": "0x9f77c8b893cea1982861d7b68b02418e19bdfda2"
 }

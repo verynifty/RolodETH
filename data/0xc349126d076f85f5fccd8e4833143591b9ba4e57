@@ -10,5 +10,6 @@
   "externalUrl": "http://beefrens.io",
   "discordUrl": "https://discord.gg/badbearsmsk",
   "twitterUsername": "badbearsmsk",
-  "description": "8,888 BeeFrens work hard to make HUNNY, your off-chain raffle ticket to win big. Built on Bad Bears.\n\n🐝\n\n###[Website](https://beefrens.io) | [Discord](https://discord.gg/badbears) | [Twitter](https://twitter.com/badbearsmsk) | [Bad Bears](https://opensea.io/collection/badbearsgenesis) | [Bad Cubs](https://opensea.io/collection/bear-labs) "
+  "description": "8,888 BeeFrens work hard to make HUNNY, your off-chain raffle ticket to win big. Built on Bad Bears.\n\n🐝\n\n###[Website](https://beefrens.io) | [Discord](https://discord.gg/badbears) | [Twitter](https://twitter.com/badbearsmsk) | [Bad Bears](https://opensea.io/collection/badbearsgenesis) | [Bad Cubs](https://opensea.io/collection/bear-labs) ",
+  "erc721_symbol": "BEEFRENS"
 }

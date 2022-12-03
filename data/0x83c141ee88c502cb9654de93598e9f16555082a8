@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "The Genesis Block",
   "erc20_symbol": "GENBLOK",

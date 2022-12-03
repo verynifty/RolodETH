@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BRAiN VOMiTS GARDEN",
   "imageUrl": "https://i.seadn.io/gae/rfq3Tm4FtoL0PbYMCBiZwtMuWj8ui8rshtYODJZlett3chTrthQF3jL9vMM3EHs-clkA7q6u7cev2WHWM8L7a-qaoO1tFtu79FkVFQ?w=500&auto=format",
   "externalUrl": "https://www.bvgarden.io/",
   "discordUrl": "https://discord.gg/xcsPK25em3",
   "twitterUsername": "bv_nft",
-  "description": "4,444 unique flowers straight from the mind of BRAiN VOMiT! Flower holders receive access to exclusive items, experiences, drops, and much more. \n\nJoin DA GARDEN, and let’s GROW together!\nFlowers are CC0 \n\n(Website update coming soon) https://www.bvgarden.io/"
+  "description": "4,444 unique flowers straight from the mind of BRAiN VOMiT! Flower holders receive access to exclusive items, experiences, drops, and much more. \n\nJoin DA GARDEN, and let’s GROW together!\nFlowers are CC0 \n\n(Website update coming soon) https://www.bvgarden.io/",
+  "erc721_symbol": "BVG"
 }

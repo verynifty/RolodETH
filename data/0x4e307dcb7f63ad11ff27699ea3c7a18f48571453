@@ -3,6 +3,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-300913",
+    "snapshot-voter-605128"
   ]
 }

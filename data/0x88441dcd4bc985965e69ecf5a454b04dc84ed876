@@ -12,7 +12,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-jbdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-alchemistcoin"
   ],
   "ens": "0008a.eth"
 }

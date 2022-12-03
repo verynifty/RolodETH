@@ -13,7 +13,8 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-alchemistcoin"
   ],
   "ens": "a2eth.eth"
 }

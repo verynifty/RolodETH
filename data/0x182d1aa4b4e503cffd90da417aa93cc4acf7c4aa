@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "LOVEBEING EDITIONS",
   "imageUrl": "https://i.seadn.io/gae/lVt-wtIQaijuHsRwiS1EO73Z1yF6zRnAF6V2k7oAadEs7GZXbr-qTs7RZl3oLh67auo0d99khte8AiS2wiczpcibob-o47owV3ZpjGc?w=500&auto=format",
   "twitterUsername": "LOVEBEINGWORLD",
-  "description": "Limited Edition Works by LOVEBEING"
+  "description": "Limited Edition Works by LOVEBEING",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

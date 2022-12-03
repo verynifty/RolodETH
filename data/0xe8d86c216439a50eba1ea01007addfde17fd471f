@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Internet Game - Season 2 Ticket",
   "imageUrl": "https://i.seadn.io/gcs/files/62bace46997bb55e62985ba940c29432.png?w=500&auto=format",
   "externalUrl": "https://internet.game",
   "discordUrl": "https://discord.gg/nQPjVEahAx",
   "twitterUsername": "internet__game",
-  "description": "Mint: https://internet.game/mint\nDiscord: https://discord.com/invite/internet-game\n\nThis is your ticket to play Internet Game: Season 2 - Bear Market Battle!!! Hosted by gmoney & Leah Lamarr! \n\nInternet Game is a web3 game show. 60% of mint fees go to NFT prizes voted on by players in Discord. You play 6 dangerously fun mini-games over 6 days. Losers are eliminated. Winners get the NFT prizes. \n\nCome play with us :)"
+  "description": "Mint: https://internet.game/mint\nDiscord: https://discord.com/invite/internet-game\n\nThis is your ticket to play Internet Game: Season 2 - Bear Market Battle!!! Hosted by gmoney & Leah Lamarr! \n\nInternet Game is a web3 game show. 60% of mint fees go to NFT prizes voted on by players in Discord. You play 6 dangerously fun mini-games over 6 days. Losers are eliminated. Winners get the NFT prizes. \n\nCome play with us :)",
+  "erc721_symbol": "INTERNET_GAME_S2_TICKET"
 }

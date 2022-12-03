@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "90e2e6.eth"
 }

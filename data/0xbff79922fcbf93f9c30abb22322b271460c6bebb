@@ -7,5 +7,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "avarice.eth"
 }

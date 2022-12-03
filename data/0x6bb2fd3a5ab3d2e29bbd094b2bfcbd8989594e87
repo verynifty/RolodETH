@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NEN STUDIO",
   "imageUrl": "https://i.seadn.io/gcs/files/7b2e84cc57436f5135237e825b88ec2f.png?w=500&auto=format",
   "externalUrl": "https://www.pjnen.com/",
   "discordUrl": "https://discord.gg/CnArFbMvTp",
   "twitterUsername": "NEN_Studio",
-  "description": "NEN is an on-chain-oriented AI character brand.\nNEN focuses on animation and creates character content using AI technology. \nAs a brand, it continues to make major developments.\n\nOur goal is to bring together a community of NFT holders who love science fiction to create our own piece of science fiction together.\n\n3000 generative NFTs.\n\nhttp://linktr.ee/nen_studio"
+  "description": "NEN is an on-chain-oriented AI character brand.\nNEN focuses on animation and creates character content using AI technology. \nAs a brand, it continues to make major developments.\n\nOur goal is to bring together a community of NFT holders who love science fiction to create our own piece of science fiction together.\n\n3000 generative NFTs.\n\nhttp://linktr.ee/nen_studio",
+  "erc721_symbol": "NEN"
 }
