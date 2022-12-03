@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bored Ape Comic",
   "imageUrl": "https://i.seadn.io/gae/S7Z1XXStTUpCQkla-tmXLv8jwJPlWLMeUL_FtjCWS5Vjwl5C7xaUb0K3HoMmnnBulFpsjXFSjtK8YXURMtUYY3e6hJV27lVatlpC3g?w=500&auto=format",
   "externalUrl": "https://boredapecomic.com/",
   "discordUrl": "https://discord.gg/A3B7unTWxG",
   "twitterUsername": "boredApeCOMIC",
-  "description": "Bored Ape Comic #2 is out now.  Issues consists of 10,000 NFTs & features a cast of Bored Apes. Visit https://boredapecomic.com for more details."
+  "description": "Bored Ape Comic #2 is out now.  Issues consists of 10,000 NFTs & features a cast of Bored Apes. Visit https://boredapecomic.com for more details.",
+  "erc721_symbol": "BAC"
 }

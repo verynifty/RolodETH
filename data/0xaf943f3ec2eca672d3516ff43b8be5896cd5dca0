@@ -5,5 +5,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "880819.eth"
 }

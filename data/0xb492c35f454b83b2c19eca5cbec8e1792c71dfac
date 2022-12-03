@@ -3,5 +3,6 @@
     "moonbird-minter",
     "art-goblers-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "cakeo.eth"
 }

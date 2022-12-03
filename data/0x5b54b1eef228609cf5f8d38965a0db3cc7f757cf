@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "never996.eth"
 }

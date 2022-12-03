@@ -12,5 +12,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "boomj.eth"
 }

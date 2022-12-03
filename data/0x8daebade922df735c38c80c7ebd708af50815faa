@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "tbtc"
+    "tbtc",
+    "contract"
   ],
   "name": "tBTC: TBTC Token",
   "erc20_symbol": "TBTC",

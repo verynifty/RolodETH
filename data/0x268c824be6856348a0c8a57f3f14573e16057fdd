@@ -11,7 +11,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "gnizhaba.eth"
 }

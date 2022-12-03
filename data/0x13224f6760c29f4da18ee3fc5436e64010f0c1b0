@@ -9,6 +9,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-stgdao",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ]
 }

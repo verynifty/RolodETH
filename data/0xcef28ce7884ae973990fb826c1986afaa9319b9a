@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "sudoswap-user",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-vestafinance"
   ]
 }

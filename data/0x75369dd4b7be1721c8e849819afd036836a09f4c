@@ -5,7 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "youngnoah.eth"
 }

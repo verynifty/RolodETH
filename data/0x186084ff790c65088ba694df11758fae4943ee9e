@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "B-50WETH-50YFI",
+  "erc20_decimals": 18,
+  "name": "Balancer 50 WETH 50 YFI"
+}

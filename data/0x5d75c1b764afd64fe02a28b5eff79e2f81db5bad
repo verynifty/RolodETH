@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NFTCULTURE",
   "imageUrl": "https://i.seadn.io/gae/MlbATdvbR-ZwM4hASkHWrwFuL3h1uqX1fuYonJiG7V4pJ0dTSw0WpzfhoinZMTi9UHPnzGqG3Ee22hcrkiV2Z2GydcV9b-MdTG-GRw?w=500&auto=format",
   "externalUrl": "https://www.nftculture.com/",
   "discordUrl": "https://discord.gg/nftculture",
   "twitterUsername": "NFTCulture",
-  "description": "The first official launch of a utility token designed and created by NFT Culture. It’s a community-centric utility token to have a seat at the round table with like-minded collectors and artists that are passionate about blockchain and NFTs.\n\nHolding this token will allow you the access of exclusive NFT information, plus airdrops of spectacular art pieces. It permits you entry to any current or future live or virtual NFT Culture Events. It will include a Private Discord to guide both the novice and experienced tips on how to grow their NFT portfolio. "
+  "description": "The first official launch of a utility token designed and created by NFT Culture. It’s a community-centric utility token to have a seat at the round table with like-minded collectors and artists that are passionate about blockchain and NFTs.\n\nHolding this token will allow you the access of exclusive NFT information, plus airdrops of spectacular art pieces. It permits you entry to any current or future live or virtual NFT Culture Events. It will include a Private Discord to guide both the novice and experienced tips on how to grow their NFT portfolio. ",
+  "erc721_symbol": "NFTC"
 }

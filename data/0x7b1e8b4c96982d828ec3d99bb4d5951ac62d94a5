@@ -8,6 +8,8 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-yokaiswap"
-  ]
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-vestafinance"
+  ],
+  "ens": "hoabandz.eth"
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ]
 }

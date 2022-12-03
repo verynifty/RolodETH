@@ -7,5 +7,6 @@
     "sudoswap-user",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "partydance.eth"
 }

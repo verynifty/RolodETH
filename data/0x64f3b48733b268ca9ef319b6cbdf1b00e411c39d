@@ -5,6 +5,7 @@
     "sudoswap-user",
     "snapshot-voter-qidao",
     "snapshot-voter-gmx",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ]
 }

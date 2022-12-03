@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "geeq"
+    "geeq",
+    "contract"
   ],
   "name": "Geeq: GEEQ Token",
   "erc20_symbol": "GEEQ",

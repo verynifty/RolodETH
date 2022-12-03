@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "shangrilafrontier.eth"
 }

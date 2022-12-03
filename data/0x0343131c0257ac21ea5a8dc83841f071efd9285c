@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Zenith Chain",
   "erc20_symbol": "ZENITH",

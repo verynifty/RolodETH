@@ -8,7 +8,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-pooltogether"
   ],
   "ens": "mifan.eth"
 }

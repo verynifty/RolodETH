@@ -8,6 +8,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gearbox",
     "snapshot-voter-apecoin",
-    "snapshot-voter-krausehouse"
+    "snapshot-voter-krausehouse",
+    "snapshot-voter-alchemistcoin"
   ]
 }

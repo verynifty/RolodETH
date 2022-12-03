@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "aidennguyen.eth"
 }

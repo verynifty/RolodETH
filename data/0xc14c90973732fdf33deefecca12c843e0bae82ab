@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Not Tom",
   "imageUrl": "https://i.seadn.io/gcs/files/f376359a702fafc72c91ac887027f0e2.png?w=500&auto=format",
   "externalUrl": "http://notmyspace.xyz",
-  "description": "Not Tom NFTs are 2,003 generated pictures of Tom, the creator of MySpace, the best social media platform to ever exist. These NFTs are free to mint, and there will be NO royalty (yes, absolutely zero) on secondary sales. You just have to pay gas to mint. You can only mint up to 2 NFT's per person."
+  "description": "Not Tom NFTs are 2,003 generated pictures of Tom, the creator of MySpace, the best social media platform to ever exist. These NFTs are free to mint, and there will be NO royalty (yes, absolutely zero) on secondary sales. You just have to pay gas to mint. You can only mint up to 2 NFT's per person.",
+  "erc721_symbol": "NT"
 }

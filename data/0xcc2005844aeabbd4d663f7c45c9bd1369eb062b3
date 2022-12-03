@@ -16,7 +16,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-sismo",
-    "snapshot-voter-autominter"
+    "snapshot-voter-autominter",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "300120.eth"
 }
