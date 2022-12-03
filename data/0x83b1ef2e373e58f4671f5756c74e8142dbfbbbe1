@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-yam",
     "snapshot-voter-sushigov"
-  ]
+  ],
+  "ens": "clark0x.eth"
 }

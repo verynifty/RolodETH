@@ -4,7 +4,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-o3dao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "zzzero.eth"
 }

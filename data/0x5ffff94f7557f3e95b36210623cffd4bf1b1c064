@@ -4,7 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-aave",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "sinasharifi.eth"
 }

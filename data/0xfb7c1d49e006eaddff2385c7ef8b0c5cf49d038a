@@ -3,6 +3,8 @@
     "snapshot-voter-hop",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-eulerdao"
+    "snapshot-voter-eulerdao",
+    "snapshot-voter-researchhub",
+    "snapshot-voter-ampleforthorg"
   ]
 }

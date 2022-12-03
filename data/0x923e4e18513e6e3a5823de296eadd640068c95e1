@@ -4,6 +4,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-aave",
     "snapshot-voter-wumingqi",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-hashflowdao"
   ]
 }

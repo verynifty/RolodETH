@@ -21,6 +21,7 @@
     "snapshot-voter-qqgame",
     "snapshot-voter-sismo",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-vestafinance"
   ]
 }

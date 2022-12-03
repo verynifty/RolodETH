@@ -6,7 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "00h00h00.eth"
 }

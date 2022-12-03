@@ -15,6 +15,7 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "cbagg21.eth"
 }

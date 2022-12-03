@@ -13,7 +13,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "vitaliti.eth"
 }

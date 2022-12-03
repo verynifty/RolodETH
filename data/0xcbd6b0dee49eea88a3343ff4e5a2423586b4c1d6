@@ -3,6 +3,7 @@
     "hashmask-minter",
     "meebit-minter",
     "snapshot-voter-sushigov",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-beanstalkdao"
   ]
 }

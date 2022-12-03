@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "LKT",
+  "erc20_decimals": 18,
+  "name": "Locker Token"
+}

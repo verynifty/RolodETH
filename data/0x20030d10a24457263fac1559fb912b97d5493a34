@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "tobehappy.eth"
 }

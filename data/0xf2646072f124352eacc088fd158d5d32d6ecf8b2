@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-vestafinance"
   ]
 }

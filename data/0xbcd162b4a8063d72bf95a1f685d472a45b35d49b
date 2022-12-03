@@ -9,7 +9,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-cow",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "hoolyy.eth"
 }

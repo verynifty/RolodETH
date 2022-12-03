@@ -10,7 +10,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao",
     "snapshot-voter-qidao",
-    "snapshot-voter-ethermondao"
+    "snapshot-voter-ethermondao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "broscombe.eth"
 }

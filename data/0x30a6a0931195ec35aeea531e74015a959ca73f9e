@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-beefydao"
-  ]
+    "snapshot-voter-beefydao",
+    "snapshot-voter-vestafinance"
+  ],
+  "ens": "dimon1337.eth"
 }

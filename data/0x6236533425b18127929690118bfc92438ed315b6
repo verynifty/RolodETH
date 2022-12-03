@@ -1,7 +1,8 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "snapshot-voter-loopringdao"
   ],
   "proxy": "0xa8280e16647767782fa313ddac9837ba217fe15b"
 }

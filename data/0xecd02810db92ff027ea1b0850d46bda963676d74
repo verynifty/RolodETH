@@ -7,7 +7,8 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
-    "snapshot-voter-kwenta"
+    "snapshot-voter-kwenta",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "hashigo.eth"
 }
