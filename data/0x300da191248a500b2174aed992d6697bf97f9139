@@ -5,5 +5,6 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-sharkdao",
     "snapshot-voter-meebitsdao"
-  ]
+  ],
+  "ens": "evilpotato.eth"
 }

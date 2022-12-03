@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "gitcoin-grantee",
     "snapshot-voter-theidols",
-    "snapshot-voter-cre8r"
+    "snapshot-voter-cre8r",
+    "snapshot-voter-beanstalkdao"
   ],
   "ens": "ceazor.eth"
 }

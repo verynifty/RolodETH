@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ODA",
+  "erc20_decimals": 5,
+  "name": "ODA NOBUNAGA"
+}

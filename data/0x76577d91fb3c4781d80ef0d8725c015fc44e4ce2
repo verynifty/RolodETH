@@ -5,7 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "borisbritva1388.eth"
 }

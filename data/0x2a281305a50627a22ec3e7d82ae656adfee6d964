@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Barn Owlz",
   "imageUrl": "https://i.seadn.io/gae/YVSFTi13yYG1AKGlN5kU9Y3f5WAEZhcGA7kfWQ2QaZgkvrJ55RvRlIJl68afBDilK5mDgvomlCgde3eolT6E-uvzEnpI8pqYuvYMrQ?w=500&auto=format",
   "discordUrl": "https://discord.gg/naaRpvwxBE",
   "twitterUsername": "BarnOwlzNFT",
-  "description": "These Owlz are a HOOT! 3,000 Barn Owlz taking flight on the Ethereum blockchain. https://www.barnowlz.io"
+  "description": "These Owlz are a HOOT! 3,000 Barn Owlz taking flight on the Ethereum blockchain. https://www.barnowlz.io",
+  "erc721_symbol": "OWLZ"
 }

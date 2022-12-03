@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaBlobs by OnchainForever",
   "imageUrl": "https://i.seadn.io/gae/nH_SAbQQEiFnYGaP11KWyEktH7jYBk0YSLXg1qV218griuRmvFH_9o77KyxsEKQhE0HL2Ry6a_W76Sc8sUHRie9mra-teXSaytZDcg?w=500&auto=format",
   "externalUrl": "https://www.metablobs.io/",
   "discordUrl": "https://discord.gg/BvMk4KKU23",
   "twitterUsername": "MetaBlobs",
-  "description": "MetaBlobs is a NFT Collection, which allows you to mint free NFTs for you and your friends. There are 10,000 MetaBlobs available on Ethereum and 90,000 on Polygon following soon! Did we mention they are cool? MetaBlobs are CC0.\nhttps://www.metablobs.io/"
+  "description": "MetaBlobs is a NFT Collection, which allows you to mint free NFTs for you and your friends. There are 10,000 MetaBlobs available on Ethereum and 90,000 on Polygon following soon! Did we mention they are cool? MetaBlobs are CC0.\nhttps://www.metablobs.io/",
+  "erc721_symbol": "MB"
 }

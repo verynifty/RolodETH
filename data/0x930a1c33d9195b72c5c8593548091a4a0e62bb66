@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "B.A.N.G.",
+  "erc20_decimals": 18,
+  "name": "Meme Stocks"
+}

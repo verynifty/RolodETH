@@ -11,7 +11,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-via-exchange"
   ],
   "ens": "ddyomas.eth"
 }

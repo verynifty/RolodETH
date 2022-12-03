@@ -12,6 +12,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-hashflowdao"
-  ]
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
+  ],
+  "ens": "triku.eth"
 }

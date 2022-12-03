@@ -4,6 +4,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ]
 }

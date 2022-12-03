@@ -6,5 +6,6 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "teachofdesk.eth"
 }

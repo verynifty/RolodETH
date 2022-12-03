@@ -6,5 +6,6 @@
     "opensea-user",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "bitpan.eth"
 }

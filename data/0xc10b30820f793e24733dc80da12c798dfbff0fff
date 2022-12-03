@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "WarMus: Old SCARD Token"
+  "name": "WarMus: Old SCARD Token",
+  "erc20_symbol": "SCARD",
+  "erc20_decimals": 9
 }

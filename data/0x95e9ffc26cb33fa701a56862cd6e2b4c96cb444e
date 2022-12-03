@@ -4,5 +4,6 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "airdropsalert.eth"
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ]
 }

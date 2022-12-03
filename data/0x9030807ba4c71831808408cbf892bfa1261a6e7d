@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "GRAYCRAFT",
   "imageUrl": "https://i.seadn.io/gae/FEgfM0iTRXQAGSnLEgDzxEYuoSgPx2QwmvGm1Y9Fc8ONqgNdgIP9HDEYX-VUuxQj28tRyqIN8sTqbB9GiP9FdhHciTVlTVrBSbQ9?w=500&auto=format",
   "externalUrl": "https://graycraft.com/gc1",
   "discordUrl": "https://discord.gg/graycraft",
   "twitterUsername": "GRAYCRAFTnft",
-  "description": "As the first statement of the GRAYCRAFT collection, GRAYCRAFT1 is the first ever NFT spaceship, a pioneer among pioneers, paving the way for all to follow. \n\nOur vision for the GRAYCRAFT1 was to create an art piece that can traverse through all aspects of reality. The GRAYCRAFT1 first begins as an NFT visual audio animation that you can display in your virtual and physical galleries. It then continues its journey as a 3D model that you can use in the Metaverse. Lastly, the GRAYCRAFT1 exists as a limited edition physical sculpture machined from aerospace grade aluminium.\n\nEach GRAYCRAFT1 will also entitle you to claim 5 free mints from our upcoming GRAYCRAFT Mech collection.\n\n[Download GC1 3D Model](https://graycraft.com/gc1)\n\n[Discover the GRAYCRAFT2](https://opensea.io/collection/graycraft-2)\n\n[Discover GRAYCRAFT](https://graycraft.com)"
+  "description": "As the first statement of the GRAYCRAFT collection, GRAYCRAFT1 is the first ever NFT spaceship, a pioneer among pioneers, paving the way for all to follow. \n\nOur vision for the GRAYCRAFT1 was to create an art piece that can traverse through all aspects of reality. The GRAYCRAFT1 first begins as an NFT visual audio animation that you can display in your virtual and physical galleries. It then continues its journey as a 3D model that you can use in the Metaverse. Lastly, the GRAYCRAFT1 exists as a limited edition physical sculpture machined from aerospace grade aluminium.\n\nEach GRAYCRAFT1 will also entitle you to claim 5 free mints from our upcoming GRAYCRAFT Mech collection.\n\n[Download GC1 3D Model](https://graycraft.com/gc1)\n\n[Discover the GRAYCRAFT2](https://opensea.io/collection/graycraft-2)\n\n[Discover GRAYCRAFT](https://graycraft.com)",
+  "erc721_symbol": "GRAY"
 }

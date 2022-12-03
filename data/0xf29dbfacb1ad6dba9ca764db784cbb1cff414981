@@ -6,6 +6,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-qidao",
     "snapshot-voter-gnosis",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-uniswap"
   ]
 }

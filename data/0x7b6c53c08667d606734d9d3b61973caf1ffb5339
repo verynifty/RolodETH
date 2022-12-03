@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Gutter Art Editions",
   "imageUrl": "https://i.seadn.io/gae/_fLiUhfPlrbuhKW_M-T7aRhiWy_H5yPb-k9wJsNCn-d6w8QDMFy6CLpavkoUdjZB6MN7grLiSk_EMCE39T82SGGOWs0GZzIKsx1hZg?w=500&auto=format",
   "externalUrl": "https://guttercatgang.com",
-  "description": "Gutter Art is a collection of Gutter Cat Gang themed art pieces created in collaboration between GCG and talented artists within the community."
+  "description": "Gutter Art is a collection of Gutter Cat Gang themed art pieces created in collaboration between GCG and talented artists within the community.",
+  "proxy": "0x879e0376c87b5c722e8595e450c1ca726afcc42d"
 }

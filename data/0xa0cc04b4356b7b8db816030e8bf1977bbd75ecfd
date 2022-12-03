@@ -7,5 +7,6 @@
     "snapshot-voter-yokaiswap",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "paulcryptoo.eth"
 }

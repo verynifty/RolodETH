@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ChillRx (by @iamchillpill)",
   "imageUrl": "https://i.seadn.io/gcs/files/81dc09d65c88268b50c8e9be7ce1243f.png?w=500&auto=format",
   "externalUrl": "https://chillrx.io",
   "discordUrl": "https://discord.gg/chillrx",
   "twitterUsername": "iamchillpill",
-  "description": "Fuck it, the first bluechip music NFT. [Stake your pills](https://stake.chillrx.io)\n\nChillpill is an award-winning anon NFT artist who works with Lil Dicky, Young Thug, Future, Panic! @ the disco, and more. \n\nChillRx is his next-gen artist ecosystem, web3 record label, and music NFT alpha club for everyone from creatives to collectors. \n\nJoin by grabbing one of these 9,999 lil' pill NFTs. Medicine for the music industry.\n\nLearn more: [Linktree](https://linktr.ee/chillrx)\nLatest Airdrop: [The Decentralized Living Album On The Blockchain](https://opensea.io/collection/the-decentralized-living-album-on-the-blockchain)"
+  "description": "Fuck it, the first bluechip music NFT. [Stake your pills](https://stake.chillrx.io)\n\nChillpill is an award-winning anon NFT artist who works with Lil Dicky, Young Thug, Future, Panic! @ the disco, and more. \n\nChillRx is his next-gen artist ecosystem, web3 record label, and music NFT alpha club for everyone from creatives to collectors. \n\nJoin by grabbing one of these 9,999 lil' pill NFTs. Medicine for the music industry.\n\nLearn more: [Linktree](https://linktr.ee/chillrx)\nLatest Airdrop: [The Decentralized Living Album On The Blockchain](https://opensea.io/collection/the-decentralized-living-album-on-the-blockchain)",
+  "erc721_symbol": "CLRX"
 }

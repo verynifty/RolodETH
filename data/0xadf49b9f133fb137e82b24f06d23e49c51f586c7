@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Ledger: Deployer"
+  "name": "Ledger: Deployer",
+  "ens": "ldgr.eth"
 }

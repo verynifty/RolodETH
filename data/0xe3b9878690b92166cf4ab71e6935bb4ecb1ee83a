@@ -5,5 +5,6 @@
     "snapshot-voter-tomoondao",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "sylphy.eth"
 }

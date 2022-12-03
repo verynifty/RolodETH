@@ -7,6 +7,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gearbox",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-people-dao",
+    "snapshot-voter-balancer"
   ]
 }

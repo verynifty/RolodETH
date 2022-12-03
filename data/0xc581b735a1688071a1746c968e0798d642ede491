@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "bitfinex"
+    "bitfinex",
+    "contract",
+    "proxy"
   ],
   "name": "Euro Tether: EURT Token",
   "erc20_symbol": "EURT",
   "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/17385/thumb/Tether_full_logo_dm.png?1627537298"
+  "imageURL": "https://assets.coingecko.com/coins/images/17385/thumb/Tether_full_logo_dm.png?1627537298",
+  "proxy": "0xe6a2c1642455ce65d07abb417a461c6e1bed47a1"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "winkrypto.eth"
 }

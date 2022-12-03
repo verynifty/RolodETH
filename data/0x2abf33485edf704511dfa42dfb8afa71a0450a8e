@@ -6,5 +6,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "0xtaoist.eth"
 }

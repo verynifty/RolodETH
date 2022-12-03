@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Uniswap V2 - YFI/WETH",
   "erc20_symbol": "UNI-V2",

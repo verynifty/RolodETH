@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Blockchain Brawlers",
   "erc20_symbol": "BRWL",
   "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/24701/thumb/fuDdvI8Y_400x400.png?1648642627"
+  "imageURL": "https://assets.coingecko.com/coins/images/24701/thumb/fuDdvI8Y_400x400.png?1648642627",
+  "proxy": "0x9c8ef44a5dfd593b83ab90000ae61d002771fe55"
 }

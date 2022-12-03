@@ -10,5 +10,6 @@
   "externalUrl": "https://www.lazylionsnft.com/",
   "discordUrl": "https://discord.gg/LazyLionsNFT",
   "twitterUsername": "LazyLionsNFT",
-  "description": "Social media banners in the form of Bungalows to showcase your Lions & other NFTs.\r\n\r\nCustomise your bungalow with our [online editor](https://bungalows.lazylionsnft.com/)\r\n\r\nOfficial [Lazy Lions](https://opensea.io/collection/lazy-lions) collection."
+  "description": "Social media banners in the form of Bungalows to showcase your Lions & other NFTs.\r\n\r\nCustomise your bungalow with our [online editor](https://bungalows.lazylionsnft.com/)\r\n\r\nOfficial [Lazy Lions](https://opensea.io/collection/lazy-lions) collection.",
+  "erc721_symbol": "BUNGALOW"
 }

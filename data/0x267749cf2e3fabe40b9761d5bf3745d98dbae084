@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-sushigov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "hhr.eth"
 }

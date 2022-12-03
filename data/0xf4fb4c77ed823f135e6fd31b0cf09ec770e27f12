@@ -6,5 +6,6 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "chdonger.eth"
 }

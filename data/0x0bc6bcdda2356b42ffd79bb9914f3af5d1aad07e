@@ -4,5 +4,6 @@
     "pudgy-pinguin-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "enrey.eth"
 }

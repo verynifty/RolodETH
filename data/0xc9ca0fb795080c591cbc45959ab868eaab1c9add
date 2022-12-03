@@ -9,7 +9,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "becomeone.eth"
 }

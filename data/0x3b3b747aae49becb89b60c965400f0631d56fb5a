@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-gal",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-autominter"
   ]
 }

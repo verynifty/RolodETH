@@ -9,5 +9,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-web3dao",
     "snapshot-voter-etherscoredao"
-  ]
+  ],
+  "ens": "coincapital.eth"
 }
