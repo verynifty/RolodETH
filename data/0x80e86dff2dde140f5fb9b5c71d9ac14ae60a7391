@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Demon Party: Dragonfall",
   "imageUrl": "https://i.seadn.io/gae/xnfNX_uT6s4O0CAvlIrGuzYY6T-G3ld-hv_LVVIM5SeRKZYI1pjb7KDtA4R4W3z6lY2TeHYlQ0P9X-iwJyE0eIpqNudd1bO3Uoap?w=500&auto=format",
   "externalUrl": "http://demonpartynft.com",
   "discordUrl": "https://discord.gg/demonparty",
   "twitterUsername": "DemonPartyNFT",
-  "description": "Demon Party: Dragonfall is a collection of 300 NFTs, representing the beginning of the special bond between demon and dragon. Each holder will receive a discount during the main Demon Party NFT mint. \n\nFind out more at:\nhttps://discord.gg/demonparty\nhttps://www.demonpartynft.com\n"
+  "description": "Demon Party: Dragonfall is a collection of 300 NFTs, representing the beginning of the special bond between demon and dragon. Each holder will receive a discount during the main Demon Party NFT mint. \n\nFind out more at:\nhttps://discord.gg/demonparty\nhttps://www.demonpartynft.com\n",
+  "erc721_symbol": "DRAGONEGGS"
 }

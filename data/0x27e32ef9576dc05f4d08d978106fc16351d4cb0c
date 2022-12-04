@@ -7,5 +7,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "hc188.eth"
 }

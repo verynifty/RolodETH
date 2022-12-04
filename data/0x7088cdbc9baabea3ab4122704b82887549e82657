@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DUCKME GENESIS",
   "imageUrl": "https://i.seadn.io/gcs/files/03043ba5b5ebf9c893d8b4d226a14157.jpg?w=500&auto=format",
   "externalUrl": "https://www.duckmenft.xyz/",
   "discordUrl": "https://discord.gg/duckme",
   "twitterUsername": "duckmeNFT",
-  "description": "𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘥𝘰𝘸𝘯 𝘣𝘢𝘥. 𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘪𝘴 𝘨𝘰𝘪𝘯𝘨 𝘵𝘰 𝘻𝘦𝘳𝘰. 𝘋𝘶𝘤𝘬𝘔𝘦"
+  "description": "𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘥𝘰𝘸𝘯 𝘣𝘢𝘥. 𝘌𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘪𝘴 𝘨𝘰𝘪𝘯𝘨 𝘵𝘰 𝘻𝘦𝘳𝘰. 𝘋𝘶𝘤𝘬𝘔𝘦",
+  "erc721_symbol": "DMG"
 }

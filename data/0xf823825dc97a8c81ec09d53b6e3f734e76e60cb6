@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-friendswithbenefits",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tylerbancroft.eth"
 }

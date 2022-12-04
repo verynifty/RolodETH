@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ghostbusters: Afterlife Traps",
   "imageUrl": "https://i.seadn.io/gae/aaGcvlUkamlcy7twYe86AZffKlpYhKp6NvyMnhoj-lO7rApQXBeSueeKr_laM4LpH7QOszUohlR5r8CSgPdicSfO2bBAIj4tb7vy?w=500&auto=format",
-  "externalUrl": "https://twelvedaysofafterlife.com/"
+  "externalUrl": "https://twelvedaysofafterlife.com/",
+  "erc721_symbol": "GBAGT"
 }

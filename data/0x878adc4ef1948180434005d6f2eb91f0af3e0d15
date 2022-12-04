@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Regular Jobs",
   "imageUrl": "https://i.seadn.io/gcs/files/3bd41fda2919eaaf1b9f6338ac0e6bd7.webp?w=500&auto=format",
   "externalUrl": "http://regular.world",
   "discordUrl": "https://discord.gg/regulars-nft",
   "twitterUsername": "Regulars_NFT",
-  "description": "Work hard + earn $REG token. Boost your salary with the Teamwork Bonus, up to 4x. https://regular.world"
+  "description": "Work hard + earn $REG token. Boost your salary with the Teamwork Bonus, up to 4x. https://regular.world",
+  "erc721_symbol": "JOBS"
 }

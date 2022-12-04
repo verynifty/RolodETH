@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-goldfinch",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "eth-p.eth"
 }

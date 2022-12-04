@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "ariababy.eth"
 }

@@ -5,7 +5,9 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "rigamy.eth"
 }

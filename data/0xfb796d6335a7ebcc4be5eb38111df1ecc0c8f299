@@ -4,5 +4,6 @@
     "moonbird-minter",
     "goblin-town-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "arjy.eth"
 }

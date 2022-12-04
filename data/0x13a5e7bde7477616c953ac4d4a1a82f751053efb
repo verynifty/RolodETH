@@ -15,6 +15,8 @@
     "snapshot-voter-via-exchange",
     "snapshot-voter-53231323",
     "snapshot-voter-mail3",
-    "snapshot-voter-sismo"
-  ]
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
+  ],
+  "ens": "wiedzmin.eth"
 }

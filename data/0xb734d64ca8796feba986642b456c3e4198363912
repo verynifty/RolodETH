@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-cakevote",
+    "snapshot-voter-hanjiedeng"
+  ],
   "ens": "hanjiedeng.eth"
 }

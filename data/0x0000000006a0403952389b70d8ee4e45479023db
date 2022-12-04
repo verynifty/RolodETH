@@ -1,6 +1,7 @@
 {
   "tags": [
-    "tokenlon"
+    "tokenlon",
+    "contract"
   ],
   "name": "Tokenlon: Merkle Redeem"
 }

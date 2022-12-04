@@ -8,6 +8,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-hop",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ]
 }

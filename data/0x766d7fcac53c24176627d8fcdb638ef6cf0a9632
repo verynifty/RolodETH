@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "rajatd.eth"
 }

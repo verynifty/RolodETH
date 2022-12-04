@@ -12,6 +12,7 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ]
 }

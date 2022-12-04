@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Walter Ego",
   "imageUrl": "https://i.seadn.io/gae/yXanp5xUiAO5M1yYxMOba6doLo2PTaTieYtpQnbcjeT1H2T7w8xj08zPpG9ph9l25fCW1N_rfDZUen4LT9-LGb9r9fZDuh4K7VVm4o0?w=500&auto=format",
   "externalUrl": "https://www.open3.com/projects/walter-ego",
   "discordUrl": "https://discord.gg/open3",
   "twitterUsername": "WalterEgoNFT",
-  "description": "Walter Ego is a human of many faces. Walter Ego likes to dress up. Walter Ego has many different alter egos. Walter Ego doesn't understand tags, he simply is. We are all Walter Ego. We are WE."
+  "description": "Walter Ego is a human of many faces. Walter Ego likes to dress up. Walter Ego has many different alter egos. Walter Ego doesn't understand tags, he simply is. We are all Walter Ego. We are WE.",
+  "erc721_symbol": "EGO"
 }

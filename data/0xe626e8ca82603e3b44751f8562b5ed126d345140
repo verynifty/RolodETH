@@ -10,5 +10,6 @@
     "snapshot-voter-sismo",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "tyevlag.eth"
 }

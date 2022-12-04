@@ -10,5 +10,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "enstainb.eth"
 }

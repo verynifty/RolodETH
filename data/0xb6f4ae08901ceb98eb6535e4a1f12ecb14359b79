@@ -6,5 +6,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "matthewtruong.eth"
 }

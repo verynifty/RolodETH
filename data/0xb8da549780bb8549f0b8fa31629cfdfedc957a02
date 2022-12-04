@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "casparahmed.eth"
 }

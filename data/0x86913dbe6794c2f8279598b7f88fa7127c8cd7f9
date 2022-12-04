@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Macabroids",
   "imageUrl": "https://i.seadn.io/gcs/files/326d34842df5286b95a5a5faf7fe818c.jpg?w=500&auto=format",
   "externalUrl": "https://www.macabroids.io/",
   "discordUrl": "https://discord.gg/u569TUGPAe",
   "twitterUsername": "Macabroids",
-  "description": "Incomprehensible horrors await\nthose who dare to\nsummon the Elder God\n\nṠ̷̩g̴̙͋n̶͉̏'̶̛̩w̴̛̦ă̴̫h̷̬̎l̷͉̏ ̸̖̇f̴̳̄m̴̡̀'̸͓̓l̶͖̄ḁ̷͐t̴̗̀g̷̭͊ḧ̷̤́ ̵̧̽'̶͚̂b̵̗̽ť̶̹h̵͓͝n̴̺̉k̸̪̍ ̶̺̈û̵̗l̸͕̅n̵̮̽ ̶̚ͅz̷̦͗h̸͙͛r̶̮͝o̸͉͠ ̴̩̅a̴̝̿t̵͎̍ḧ̴̞́g̵̺̕,̸̟̑ ̵̼͛z̷͙̽h̴̹̓r̸͎͂o̸̞̾ ̶̙͂ṛ̴̏'̶̗̀l̸̲̊u̸̮͒h̷̟̏ ̸͚̑ẙ̷̧-̷̭̀A̸͖̒z̸̠͝à̴̗t̴̢́h̴͔̽o̵̜̾ẗ̷͙h̷̟̐ ̴̮̕h̵̭͂r̴̖̾í̶͕ĭ̵͍.̸̫͆ ̴͓̀"
+  "description": "Incomprehensible horrors await\nthose who dare to\nsummon the Elder God\n\nṠ̷̩g̴̙͋n̶͉̏'̶̛̩w̴̛̦ă̴̫h̷̬̎l̷͉̏ ̸̖̇f̴̳̄m̴̡̀'̸͓̓l̶͖̄ḁ̷͐t̴̗̀g̷̭͊ḧ̷̤́ ̵̧̽'̶͚̂b̵̗̽ť̶̹h̵͓͝n̴̺̉k̸̪̍ ̶̺̈û̵̗l̸͕̅n̵̮̽ ̶̚ͅz̷̦͗h̸͙͛r̶̮͝o̸͉͠ ̴̩̅a̴̝̿t̵͎̍ḧ̴̞́g̵̺̕,̸̟̑ ̵̼͛z̷͙̽h̴̹̓r̸͎͂o̸̞̾ ̶̙͂ṛ̴̏'̶̗̀l̸̲̊u̸̮͒h̷̟̏ ̸͚̑ẙ̷̧-̷̭̀A̸͖̒z̸̠͝à̴̗t̴̢́h̴͔̽o̵̜̾ẗ̷͙h̷̟̐ ̴̮̕h̵̭͂r̴̖̾í̶͕ĭ̵͍.̸̫͆ ̴͓̀",
+  "erc721_symbol": "MCBR"
 }

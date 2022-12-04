@@ -8,7 +8,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-8848labs",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-vestafinance"
   ],
   "name": "Multichain Hack Alert 2166"
 }

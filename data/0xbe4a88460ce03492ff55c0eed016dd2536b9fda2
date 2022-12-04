@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "yuzguc.eth"
 }

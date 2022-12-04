@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-speraxdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-balancer",
+    "snapshot-voter-uniswap"
   ]
 }

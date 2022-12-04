@@ -8,5 +8,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-aave",
     "snapshot-voter-alpacafinance"
-  ]
+  ],
+  "ens": "ppyaa.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-daocity",
     "snapshot-voter-gauge-rbn",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "chubao.eth"
 }

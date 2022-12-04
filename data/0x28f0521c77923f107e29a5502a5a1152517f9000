@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pawn Bots",
   "imageUrl": "https://i.seadn.io/gcs/files/3c1087c6194bb4062f321649cb508e2f.gif?w=500&auto=format",
   "externalUrl": "https://www.pawnbots.com/",
   "discordUrl": "https://discord.gg/mTnRw7QVvv",
   "twitterUsername": "PawnBots",
-  "description": "Nostalgic collateral with a DeFi roadmap | A [Hifi.Finance](https://hifi.finance/) Ecosystem project."
+  "description": "Nostalgic collateral with a DeFi roadmap | A [Hifi.Finance](https://hifi.finance/) Ecosystem project.",
+  "erc721_symbol": "BOTS"
 }

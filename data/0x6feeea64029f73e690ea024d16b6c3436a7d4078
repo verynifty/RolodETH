@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-gauge-rbn"
-  ]
+  ],
+  "ens": "0xste.eth"
 }

@@ -14,7 +14,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-apecoin"
   ],
   "ens": "retroactivedao.eth"
 }

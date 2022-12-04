@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-balancer"
   ]
 }

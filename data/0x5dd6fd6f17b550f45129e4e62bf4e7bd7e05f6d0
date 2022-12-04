@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-qidao"
   ],
   "ens": "miho1969.eth"
 }

@@ -3,5 +3,6 @@
     "moonbird-minter",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "yagga.eth"
 }

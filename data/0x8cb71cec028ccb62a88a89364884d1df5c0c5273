@@ -8,5 +8,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "kanata.eth"
 }

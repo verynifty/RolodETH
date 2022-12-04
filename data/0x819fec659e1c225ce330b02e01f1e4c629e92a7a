@@ -14,5 +14,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "forough.eth"
 }

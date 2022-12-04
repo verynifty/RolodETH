@@ -6,6 +6,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-swaprsnapshot",
     "snapshot-voter-stgdao",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-ethlizards",
-    "snapshot-voter-ilv"
+    "snapshot-voter-ilv",
+    "snapshot-voter-vestafinance"
   ]
 }

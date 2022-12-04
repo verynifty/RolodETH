@@ -11,5 +11,6 @@
     "sudoswap-user",
     "snapshot-voter-via-exchange",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "americanstaffordshireterrier.eth"
 }

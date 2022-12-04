@@ -1,7 +1,9 @@
 {
   "tags": [
     "snapshot-voter-speraxdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-anglegovernance"
   ],
   "ens": "kober1337.eth"
 }

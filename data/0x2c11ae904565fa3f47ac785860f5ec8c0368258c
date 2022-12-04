@@ -12,6 +12,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-nftfinance",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-alchemistcoin"
   ]
 }

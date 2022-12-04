@@ -4,5 +4,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "ilovetheart.eth"
 }

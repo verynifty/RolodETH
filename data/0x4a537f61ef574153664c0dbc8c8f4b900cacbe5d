@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Mavia Land",
   "imageUrl": "https://i.seadn.io/gae/KwtlzGCHxo9CgfOzLHrO1f6a8ty1QSBGFpGyof9DlVw4zpQ-N_tbqzAwI3kQNuItCM47XwwJp97jqs86k6fW304hRLgFpLrBMXPrGQ?w=500&auto=format",
   "externalUrl": "https://mavia.com",
   "discordUrl": "https://discord.gg/maviaofficial",
   "twitterUsername": "MaviaGame",
-  "description": "Heroes of Mavia is a play-to-earn MMO Strategy game developed by Skrice Studios. The game takes place in a fantasy-themed island called Mavia, where players build bases on plots of land and battle neighboring bases and armies to earn in-game resources, such as Mavia’s P2E cryptocurrency RUBY. Players must strategically place defensive buildings on their base such as walls, turrets and traps, in order to defend against opportunistic attackers looking to steal resources. Resources can also be stolen from rival bases through attacking opponents with land troops, vehicle and air units. RUBY is earned through battling enemy armies, and can be used to upgrade Land, Statue and Hero NFTs."
+  "description": "Heroes of Mavia is a play-to-earn MMO Strategy game developed by Skrice Studios. The game takes place in a fantasy-themed island called Mavia, where players build bases on plots of land and battle neighboring bases and armies to earn in-game resources, such as Mavia’s P2E cryptocurrency RUBY. Players must strategically place defensive buildings on their base such as walls, turrets and traps, in order to defend against opportunistic attackers looking to steal resources. Resources can also be stolen from rival bases through attacking opponents with land troops, vehicle and air units. RUBY is earned through battling enemy armies, and can be used to upgrade Land, Statue and Hero NFTs.",
+  "proxy": "0x606e1c63b966c719b5c82eea3e696e9f8f6a900e"
 }

@@ -5,7 +5,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "ubica.eth"
 }

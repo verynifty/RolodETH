@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "TIMEPieces Build a Better Future: Genesis Drop",
   "imageUrl": "https://i.seadn.io/gae/Dgjo2lwkH73btc3f-THAIuSdv-MdmszkHeMJHRrFdX1-xK1XBp9EnqQQ4hjRh_A-CVX_zjFshgUEswPyZ3w08YZar908sDEP84q7?w=500&auto=format",
   "externalUrl": "http://time.com/timepieces",
   "discordUrl": "https://discord.gg/timepieces",
   "twitterUsername": "timepieces",
-  "description": "Launched in September 2021, TIMEPieces is our brand's evolution into web3 and this collection is the original, Genesis Drop.\n\nTo view this entire collection on TIME.com: https://www.time.com/timepieces\n\nhttps://discord.com/invite/timepieces\n\nLicense Agreement: https://time.com/privacy/timepieces_license_agreement.html"
+  "description": "Launched in September 2021, TIMEPieces is our brand's evolution into web3 and this collection is the original, Genesis Drop.\n\nTo view this entire collection on TIME.com: https://www.time.com/timepieces\n\nhttps://discord.com/invite/timepieces\n\nLicense Agreement: https://time.com/privacy/timepieces_license_agreement.html",
+  "erc721_symbol": "BABF"
 }

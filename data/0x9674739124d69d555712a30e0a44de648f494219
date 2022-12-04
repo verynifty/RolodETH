@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Nippy: Magnet for Mischief",
   "imageUrl": "https://i.seadn.io/gae/35SnBROy9wmAkwtTn49Oc7FUfNVZ2usXVAbrDC3zJtX3VpJNAIF4XSp62bZz0RI6dYE9LUbzWdBZFtDtqopsja-lLpuarjXOMyeBAA?w=500&auto=format",
   "externalUrl": "https://meetnippy.com/",
   "discordUrl": "https://discord.gg/meetnippy",
   "twitterUsername": "meetnippy",
-  "description": "This is Nippy. She’s a curious explorer full of emotions and a magnet to mischief. A cat of a 3,222 personalities, her can-do attitude will help kids & parents discover a whole new world. A part of a much larger ensemble of characters and storylines, Nippy, Rufus, and all their friends will become a franchise of Children’s books, graphic novels, and original content. "
+  "description": "This is Nippy. She’s a curious explorer full of emotions and a magnet to mischief. A cat of a 3,222 personalities, her can-do attitude will help kids & parents discover a whole new world. A part of a much larger ensemble of characters and storylines, Nippy, Rufus, and all their friends will become a franchise of Children’s books, graphic novels, and original content. ",
+  "proxy": "0xa878c0aeaaa76ec7a370b76ac5bcac4364ed60e1"
 }

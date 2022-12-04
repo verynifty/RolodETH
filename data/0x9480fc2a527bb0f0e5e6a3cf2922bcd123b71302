@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "11o11.eth"
 }

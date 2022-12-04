@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Iron Bank CHF",
   "erc20_symbol": "IBCHF",

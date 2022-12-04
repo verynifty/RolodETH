@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kaiju Legends",
   "imageUrl": "https://i.seadn.io/gcs/files/f831fbe0320abb13c3aafb545c8c0076.gif?w=500&auto=format",
   "externalUrl": "https://kaijulegends.io",
   "discordUrl": "https://discord.gg/kaijulegendsnft",
   "twitterUsername": "KaijuLegendsNFT",
-  "description": "Kaiju Legends is a colourful multiverse, where art, story, toys and gaming come together. It's a community-driven collectibles project, while building our own ecosystem around the metaverse. The first wave is a collection of 7777 generated 2D kaijus, using more than 500 unique attributes.\r\n\r\nMore information on https://kaijulegends.io."
+  "description": "Kaiju Legends is a colourful multiverse, where art, story, toys and gaming come together. It's a community-driven collectibles project, while building our own ecosystem around the metaverse. The first wave is a collection of 7777 generated 2D kaijus, using more than 500 unique attributes.\r\n\r\nMore information on https://kaijulegends.io.",
+  "erc721_symbol": "KAIJU"
 }

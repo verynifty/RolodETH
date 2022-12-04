@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "TCG Dragon Cave Club",
   "imageUrl": "https://i.seadn.io/gae/nW0cDGnA-HXsBaBQNBXICu-Xu0tHYpxgGS6BMxe92KqxdZknF7JB3KuDaoCkEklX3qzhiJ3XWzVMDc-_vMVfMV7vQjH08Gd4Cioxvg?w=500&auto=format",
   "externalUrl": "https://tcg.world/",
   "discordUrl": "https://discord.gg/EbPsQzmB6V",
   "twitterUsername": "OfficialTCGCoin",
-  "description": "The TCG Dragon Cave Club is a collection of 10,000 Dragon NFTs living on OpenSea with exclusive utility in the Metaverse. \n\nYour TCG Dragon NFT is your VIP membership and access pass to the Dragons Lair, a secret cave hidden in TCG World which will host holder-only events/concerts, giveaways  and many more benefits in TCG World.\n\nDo you dare enter the cave?\n\nVisit https://tcg.world for more details.\n\n"
+  "description": "The TCG Dragon Cave Club is a collection of 10,000 Dragon NFTs living on OpenSea with exclusive utility in the Metaverse. \n\nYour TCG Dragon NFT is your VIP membership and access pass to the Dragons Lair, a secret cave hidden in TCG World which will host holder-only events/concerts, giveaways  and many more benefits in TCG World.\n\nDo you dare enter the cave?\n\nVisit https://tcg.world for more details.\n\n",
+  "erc721_symbol": "TCGD"
 }

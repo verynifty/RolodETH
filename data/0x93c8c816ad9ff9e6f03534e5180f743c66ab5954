@@ -3,5 +3,6 @@
     "bayc-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "nefertem.eth"
 }

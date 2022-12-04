@@ -3,5 +3,6 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-ybaby",
     "snapshot-voter-balancer"
-  ]
+  ],
+  "ens": "0xgalahad.eth"
 }

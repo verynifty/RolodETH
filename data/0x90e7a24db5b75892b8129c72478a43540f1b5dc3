@@ -3,5 +3,6 @@
     "meebit-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "f1rstmover.eth"
 }

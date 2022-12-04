@@ -25,7 +25,8 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "ardizor.eth"
 }

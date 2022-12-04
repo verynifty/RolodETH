@@ -8,5 +8,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "fuckcoolcats.eth"
 }

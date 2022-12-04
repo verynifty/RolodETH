@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Fragile by ROBENS",
   "imageUrl": "https://i.seadn.io/gcs/files/f6f6cf39c5a016bf7053c3fc18f34dab.png?w=500&auto=format",
   "externalUrl": "https://robens.io/",
   "discordUrl": "https://discord.gg/fBp4GsSEyQ",
   "twitterUsername": "byROBENS",
-  "description": "This is the story of \"Fragile\" trying to survive in a cruel and beautiful world.\n\nHere you can see MY EVOLUTION as an artist over time. Every day that I wake up in this crazy NEW WORLD I feel the need to draw something, to express myself by doing any garbage, to spit out any shit without too much connection or logic, without any predetermined artistic discipline, ... just draw what I want how I want.\n\nROBENS | byrobens.eth\n\nWebSite https://robens.io\n\nTwitter https://twitter.com/byROBENS\n\nOpenSea https://opensea.io/ROBENS\n\nInstagram https://www.instagram.com/byROBENS\n\nDiscord https://discord.gg/fBp4GsSEyQ\n"
+  "description": "This is the story of \"Fragile\" trying to survive in a cruel and beautiful world.\n\nHere you can see MY EVOLUTION as an artist over time. Every day that I wake up in this crazy NEW WORLD I feel the need to draw something, to express myself by doing any garbage, to spit out any shit without too much connection or logic, without any predetermined artistic discipline, ... just draw what I want how I want.\n\nROBENS | byrobens.eth\n\nWebSite https://robens.io\n\nTwitter https://twitter.com/byROBENS\n\nOpenSea https://opensea.io/ROBENS\n\nInstagram https://www.instagram.com/byROBENS\n\nDiscord https://discord.gg/fBp4GsSEyQ\n",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

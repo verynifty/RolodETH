@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "APE BANKING CLUB - NFT  ABC METABANK",
   "imageUrl": "https://i.seadn.io/gae/jMSy6dT4AOdvb2AQi2WZSdMrXjeCF8wfq6lL-lODgQFPesr7tfrwiWqthIqlG4A8xIR0HI0RQd1q2c8xqKxJxwlPsTOoHzb1DLf6-30?w=500&auto=format",
   "externalUrl": "http://apebanking.club",
   "discordUrl": "https://discord.gg/apebankingclub",
-  "twitterUsername": "apebankingclub"
+  "twitterUsername": "apebankingclub",
+  "erc721_symbol": "ABC"
 }

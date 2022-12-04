@@ -8,5 +8,6 @@
     "mayc-minter",
     "snapshot-voter-rugcommunity",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "mondoir.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "cranch.eth"
 }

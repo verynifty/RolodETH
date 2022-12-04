@@ -1,10 +1,13 @@
 {
   "tags": [
     "erc20",
-    "mstable"
+    "mstable",
+    "contract",
+    "proxy"
   ],
   "name": "mStable: mUSD Token",
   "erc20_symbol": "MUSD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803"
+  "imageURL": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803",
+  "proxy": "0x15b2838cd28cc353afbe59385db3f366d8945aee"
 }

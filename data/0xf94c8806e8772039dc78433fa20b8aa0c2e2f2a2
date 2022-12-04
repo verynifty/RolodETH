@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-beefydao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-vestafinance"
   ]
 }

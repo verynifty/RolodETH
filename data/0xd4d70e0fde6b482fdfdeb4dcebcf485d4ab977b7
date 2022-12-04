@@ -5,5 +5,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "skillfu.eth"
 }

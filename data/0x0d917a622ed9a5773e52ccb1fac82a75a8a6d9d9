@@ -6,5 +6,6 @@
     "clonex-minter",
     "goblin-town-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "bayouu.eth"
 }

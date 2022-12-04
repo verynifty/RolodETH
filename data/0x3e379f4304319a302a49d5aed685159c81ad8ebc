@@ -8,6 +8,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-cvx",
     "snapshot-voter-aave",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
   ]
 }

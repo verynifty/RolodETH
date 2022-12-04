@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-olympusdao",
     "snapshot-voter-tomoondao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gobblerunion"
   ]
 }

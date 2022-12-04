@@ -15,7 +15,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-ybaby",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "zkman.eth"
 }

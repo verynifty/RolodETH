@@ -8,6 +8,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-aave",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ]
 }

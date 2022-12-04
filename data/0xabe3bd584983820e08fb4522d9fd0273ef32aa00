@@ -7,5 +7,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "bohdanmyrosh.eth"
 }

@@ -7,5 +7,6 @@
     "mayc-minter",
     "snapshot-voter-apecoin",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "vandy1518.eth"
 }

@@ -7,6 +7,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-beefydao",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-vestafinance"
   ]
 }

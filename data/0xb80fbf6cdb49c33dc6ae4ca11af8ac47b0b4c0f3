@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BlockArt",
   "imageUrl": "https://i.seadn.io/gae/UqAJVaJcMo_aJodG7eJlzgFL8R5n_TTxcxEP9jHRrExUdDF6IyuysJoPI87sUi07Gu43fgy8ne9QKfKMUi5Uizz8RA9LcFPRXbBZ1w?w=500&auto=format",
   "externalUrl": "https://ethblock.art",
   "discordUrl": "https://discord.gg/tVRfG84eAN",
   "twitterUsername": "EthBlockArt",
-  "description": "Deterministic blockchain art generated from Ethereum blocks."
+  "description": "Deterministic blockchain art generated from Ethereum blocks.",
+  "erc721_symbol": "EBA"
 }

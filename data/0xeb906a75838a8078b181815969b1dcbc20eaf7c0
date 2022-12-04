@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "pop-st-XEN",
+  "erc20_decimals": 18,
+  "name": "Popcorn - XEN Crypto Staking"
+}

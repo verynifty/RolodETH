@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tankies Collection",
   "imageUrl": "https://i.seadn.io/gae/WAvh4a2vo4z9AFe0BpMRNRhEW9_Qyh8F0AJE81ybTSVPZGAVYYMDwhS3EZZGz0s8zydq9M06TkEeqvQOXdcbFu6-u39OaXI2EGMu?w=500&auto=format",
   "externalUrl": "http://tankies.io",
   "discordUrl": "https://discord.gg/mMKjCHwY",
   "twitterUsername": "tankieslabs",
-  "description": "Tankies is a fully animated collection of 1,111 friendly tank heads filled with all different types of fun liquids! A Tankie allows you access into the Tankies community and all the perks that come with owning one!\n\n\n[Twitter](https://twitter.com/tankieslabs) - [Discord](https://discord.gg/mMKjCHwY) "
+  "description": "Tankies is a fully animated collection of 1,111 friendly tank heads filled with all different types of fun liquids! A Tankie allows you access into the Tankies community and all the perks that come with owning one!\n\n\n[Twitter](https://twitter.com/tankieslabs) - [Discord](https://discord.gg/mMKjCHwY) ",
+  "erc721_symbol": "TANKIES"
 }

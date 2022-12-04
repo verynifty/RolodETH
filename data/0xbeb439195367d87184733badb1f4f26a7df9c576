@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
     "snapshot-voter-beefydao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ]
 }

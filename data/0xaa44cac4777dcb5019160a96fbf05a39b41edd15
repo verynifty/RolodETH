@@ -3,5 +3,6 @@
     "snapshot-voter-blockhubdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-beanstalkdao"
-  ]
+  ],
+  "ens": "sifeth.eth"
 }

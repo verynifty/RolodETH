@@ -9,6 +9,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ]
 }

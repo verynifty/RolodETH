@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-genesisproject"
+  ],
   "ens": "goodbyenft.eth"
 }

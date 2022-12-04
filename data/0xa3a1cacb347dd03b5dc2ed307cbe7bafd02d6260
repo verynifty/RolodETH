@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Phantom Of DeFi - In Crowd Alpha",
   "imageUrl": "https://i.seadn.io/gae/nhNmc0Q3EgFCHmCwj4akoLG9LTcQvhq1bsUtAKiQyTo6diupioWaRatWMcUZdarsEsyphuefRPWazKadguoofZIn1L3wQdmKcyTR_w?w=500&auto=format",
-  "twitterUsername": "phantomofdefi"
+  "twitterUsername": "phantomofdefi",
+  "erc721_symbol": "INCROWD"
 }

@@ -4,5 +4,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "Larva Lads: Deployer"
+  "name": "Larva Lads: Deployer",
+  "ens": "lantonmills.eth"
 }

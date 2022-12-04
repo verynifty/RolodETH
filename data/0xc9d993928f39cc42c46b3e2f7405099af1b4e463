@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Penguin Town",
   "imageUrl": "https://i.seadn.io/gcs/files/66e5e1d8b676f84f9cf5f71dd0560a85.png?w=500&auto=format",
   "externalUrl": "https://penguintown.xyz/",
   "twitterUsername": "PenguinTownNFT",
-  "description": "A limited collection of 999 Penguin traversing their digital universe in search of friends and family!"
+  "description": "A limited collection of 999 Penguin traversing their digital universe in search of friends and family!",
+  "erc721_symbol": "PT"
 }

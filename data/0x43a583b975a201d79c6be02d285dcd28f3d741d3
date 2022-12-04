@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "DragonCapsule",
   "imageUrl": "https://i.seadn.io/gae/pn7ZLD62arlwM7YCbfxmv-vFBI9FEuq4N3YOuuvy-vZnRRoQg7kHlxW9jUJa98uPmHHF72IuO2MDaR__WupsbOA09m4WEjfAcuIVZuU?w=500&auto=format",
   "externalUrl": "https://yielddao.io",
   "discordUrl": "https://discord.gg/GckRMhjcxj",
   "twitterUsername": "YieldDAOIO",
-  "description": "WELLCOME TO DRAGONCAPSULE\r\n\r\nDC(DragonCapsule) is a collection of 10,000 Dragon Capsule NFTs—Unique digital collectibles living on the Ethereum blockchain, and DC is the world's first NFT collections with the theme and core concept of natural ecology and environmental protection. \r\n\r\nAt the same time, DC is a high-dimensional Delta NFT collection with multiple attributes such as Digital art, Social ID, DAO voucher, Liquidity, and GameFi. Your DC doubles as your Yield DAO membership card, and grants access to YieldDAO members-only benefits\r\n\r\nDC is also a subDAO of YieldDAO,  YieldDAO's mission is to create an autonomous and self-expanding metaverse career and investment economic ecology.\r\n\r\nOfficial Mint: https://app.YieldDAO.io \r\n\r\n龙胶囊是全球首个元宇宙原生IP, 是以自然生态和环境保护为主题和核心理念的NFT。 龙胶囊是第一个社群DAO驱动，完全原创的Meta IP，龙胶囊采用无白名单开放式Mint，从0.01eth起拍，每Mint 100个龙胶囊，价格上涨+0.01eth，直至售罄。\r\n\r\n龙胶囊Meta IP由每一个持有者分享，我们希望龙胶囊Mint进度与价值成长匹配\r\n\r\n官方Mint链接： https://app.yielddao.io\r\n\r\nCreate by @YieldDAO, All Rights Reserved."
+  "description": "WELLCOME TO DRAGONCAPSULE\r\n\r\nDC(DragonCapsule) is a collection of 10,000 Dragon Capsule NFTs—Unique digital collectibles living on the Ethereum blockchain, and DC is the world's first NFT collections with the theme and core concept of natural ecology and environmental protection. \r\n\r\nAt the same time, DC is a high-dimensional Delta NFT collection with multiple attributes such as Digital art, Social ID, DAO voucher, Liquidity, and GameFi. Your DC doubles as your Yield DAO membership card, and grants access to YieldDAO members-only benefits\r\n\r\nDC is also a subDAO of YieldDAO,  YieldDAO's mission is to create an autonomous and self-expanding metaverse career and investment economic ecology.\r\n\r\nOfficial Mint: https://app.YieldDAO.io \r\n\r\n龙胶囊是全球首个元宇宙原生IP, 是以自然生态和环境保护为主题和核心理念的NFT。 龙胶囊是第一个社群DAO驱动，完全原创的Meta IP，龙胶囊采用无白名单开放式Mint，从0.01eth起拍，每Mint 100个龙胶囊，价格上涨+0.01eth，直至售罄。\r\n\r\n龙胶囊Meta IP由每一个持有者分享，我们希望龙胶囊Mint进度与价值成长匹配\r\n\r\n官方Mint链接： https://app.yielddao.io\r\n\r\nCreate by @YieldDAO, All Rights Reserved.",
+  "proxy": "0xb6bb22c822aafa28d34f6e5ab8f93b0896838131"
 }

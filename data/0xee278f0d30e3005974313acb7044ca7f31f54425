@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chimerative monsters",
   "imageUrl": "https://i.seadn.io/gcs/files/1d52d359cfe7756b99770e18725b7182.gif?w=500&auto=format",
   "externalUrl": "https://play-nft.art/mints/chimerative",
   "discordUrl": "https://discord.gg/n4M5z3e2q8",
-  "description": "\"CHIMERATIVE monsters\" is a generative project that combines parts of monsters created by SNNS in the past to create new creatures in a random configuration. The concept is to create chimeras composed of different genes under the generative mechanism of randomly combining various parts to create new individuals.  \nCHIMERATIVE monstersはSNNSスンスが今まで作り上げてきたモンスターのパーツを組み合わせ、新たな生物をランダム構成で作り上げるというジェネラティブプロジェクトです。さまざまなパーツをランダムで組み合わせ、新しい個体を作り出すというジェネラティブの仕組みをもとに、異なる遺伝子同士で構成されるキメラを作り上げるというのがコンセプトです。      \n**◆SNNS Collection◆**  \n[〜Fictitious Advertising SNNS〜](https://opensea.io/collection/fictitious-advertising)  \n[〜Hunting Trophy SNNS〜](https://opensea.io/collection/snns-collection)  \n[〜The Adventures of Sir. Nick Nelson〜](https://opensea.io/collection/sir-nick-nelson)     \n[*Let's join our Discord*](https://discord.gg/u6rwxpe4Pp)\n"
+  "description": "\"CHIMERATIVE monsters\" is a generative project that combines parts of monsters created by SNNS in the past to create new creatures in a random configuration. The concept is to create chimeras composed of different genes under the generative mechanism of randomly combining various parts to create new individuals.  \nCHIMERATIVE monstersはSNNSスンスが今まで作り上げてきたモンスターのパーツを組み合わせ、新たな生物をランダム構成で作り上げるというジェネラティブプロジェクトです。さまざまなパーツをランダムで組み合わせ、新しい個体を作り出すというジェネラティブの仕組みをもとに、異なる遺伝子同士で構成されるキメラを作り上げるというのがコンセプトです。      \n**◆SNNS Collection◆**  \n[〜Fictitious Advertising SNNS〜](https://opensea.io/collection/fictitious-advertising)  \n[〜Hunting Trophy SNNS〜](https://opensea.io/collection/snns-collection)  \n[〜The Adventures of Sir. Nick Nelson〜](https://opensea.io/collection/sir-nick-nelson)     \n[*Let's join our Discord*](https://discord.gg/u6rwxpe4Pp)\n",
+  "erc721_symbol": "CHIMERA"
 }

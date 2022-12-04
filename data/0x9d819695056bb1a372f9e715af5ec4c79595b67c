@@ -3,5 +3,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "kakashechka.eth"
 }

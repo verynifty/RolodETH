@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "1LP-ETH-DAI",
+  "erc20_decimals": 18,
+  "name": "1inch Liquidity Pool (ETH-DAI)"
+}

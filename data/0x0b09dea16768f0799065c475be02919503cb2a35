@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "B-60WETH-40DAI",
+  "erc20_decimals": 18,
+  "name": "Balancer 60 WETH 40 DAI"
+}

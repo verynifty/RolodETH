@@ -4,6 +4,7 @@
     "loot-minter",
     "snapshot-voter-aavegotchi",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-genesisproject"
   ]
 }

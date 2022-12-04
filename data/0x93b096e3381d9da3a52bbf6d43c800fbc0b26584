@@ -6,5 +6,6 @@
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
     "snapshot-voter-1inch"
-  ]
+  ],
+  "ens": "ciprotab.eth"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "maxxim.eth"
 }

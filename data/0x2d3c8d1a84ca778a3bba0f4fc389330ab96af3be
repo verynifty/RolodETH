@@ -7,5 +7,6 @@
   ],
   "name": "Halloween Ninja Girls",
   "imageUrl": "https://i.seadn.io/gcs/files/bbe62840b9df8fd42218606389c31d0d.png?w=500&auto=format",
-  "twitterUsername": "kei31"
+  "twitterUsername": "kei31",
+  "erc721_symbol": "HNG"
 }

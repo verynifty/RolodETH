@@ -5,5 +5,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-mavxyz",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "banban.eth"
 }

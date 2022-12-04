@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Voices V4",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a50ae351a4e18869ae55593f7768e27e032f248029b29bbdd534b6676c8daa66b4b8bc9723c57a3eb762f61fc543440f8dbef0530d6b99f87936d538272dbc36982933fcf5ebd4752aa69b050b96edee13c89c97d103033992226900fef1ed9772d3890a769d2b4e3349d11c3a1a9288b23c5e4198f99eda3f3b783c3322e8c56"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a50ae351a4e18869ae55593f7768e27e032f248029b29bbdd534b6676c8daa66b4b8bc9723c57a3eb762f61fc543440f8dbef0530d6b99f87936d538272dbc36982933fcf5ebd4752aa69b050b96edee13c89c97d103033992226900fef1ed9772d3890a769d2b4e3349d11c3a1a9288b23c5e4198f99eda3f3b783c3322e8c56",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

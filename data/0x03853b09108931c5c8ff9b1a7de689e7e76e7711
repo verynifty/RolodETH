@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ]
 }

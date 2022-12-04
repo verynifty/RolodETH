@@ -13,5 +13,6 @@
     "sudoswap-user",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "xiaoshunli.eth"
 }

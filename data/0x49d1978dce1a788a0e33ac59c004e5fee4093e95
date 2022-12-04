@@ -15,6 +15,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-vestafinance"
   ]
 }

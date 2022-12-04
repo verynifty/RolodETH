@@ -8,5 +8,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "suoya.eth"
 }

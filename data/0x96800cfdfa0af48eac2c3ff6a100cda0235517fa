@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "alenushka.eth"
 }

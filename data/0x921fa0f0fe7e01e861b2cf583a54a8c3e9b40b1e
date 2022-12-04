@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Tsukuyomi no Mikoto",
   "erc20_symbol": "MIKOTO",

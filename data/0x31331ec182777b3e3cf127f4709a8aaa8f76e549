@@ -4,5 +4,6 @@
     "loot-minter",
     "snapshot-voter-influenc",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0xkafo.eth"
 }

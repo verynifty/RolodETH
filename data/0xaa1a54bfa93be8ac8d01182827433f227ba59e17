@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-piedao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "thinh.eth"
 }

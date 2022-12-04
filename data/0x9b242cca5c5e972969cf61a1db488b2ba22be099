@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "opensea-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "khadar.eth"
 }

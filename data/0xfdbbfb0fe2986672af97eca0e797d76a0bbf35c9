@@ -3,7 +3,8 @@
     "take-action",
     "snapshot-voter-gearbox",
     "snapshot-voter-concentratordao",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-cvx"
   ],
   "name": "Multichain Hack Alert 3227"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Meow Meow Official",
   "imageUrl": "https://i.seadn.io/gcs/files/0cef9f1f394960bce132cc6fe3af5919.gif?w=500&auto=format",
   "discordUrl": "https://discord.gg/PBFpW9f3kh",
   "twitterUsername": "meow_meow_nft",
-  "description": "Art, just fun! This discord is just a place for you guys to chat, DO NOT verify asset or click links. We only post official announcement on twitter."
+  "description": "Art, just fun! This discord is just a place for you guys to chat, DO NOT verify asset or click links. We only post official announcement on twitter.",
+  "erc721_symbol": "MM"
 }

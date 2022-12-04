@@ -3,5 +3,6 @@
     "azuki-minter",
     "doodle-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "dastak.eth"
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "BoringDAO: Bridge"
+  "name": "BoringDAO: Bridge",
+  "proxy": "0xe08847082a6b676e6aeb7434e76aabbbb984cbd3"
 }

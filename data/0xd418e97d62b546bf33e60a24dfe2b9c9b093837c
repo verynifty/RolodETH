@@ -8,5 +8,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "rijulove.eth"
 }

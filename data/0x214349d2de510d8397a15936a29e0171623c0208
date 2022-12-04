@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "contract",
+    "erc721"
+  ],
+  "erc721_symbol": "ATM",
+  "name": "ASIC Token Miner"
+}

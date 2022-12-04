@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
     "snapshot-voter-gmx",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-vestafinance"
   ]
 }
