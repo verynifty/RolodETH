@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "auraFUD-vault",
+  "erc20_decimals": 18,
+  "name": "FIAT-USDC-DAI Stable Pool Aura Deposit Vault"
+}

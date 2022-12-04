@@ -5,6 +5,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-balancer",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ]
 }

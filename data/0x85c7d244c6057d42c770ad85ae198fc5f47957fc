@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-sushigov",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "mike0182.eth"
 }

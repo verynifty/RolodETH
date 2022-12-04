@@ -9,6 +9,8 @@
     "snapshot-voter-catblox",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gobblerunion",
+    "snapshot-voter-uniswap"
   ]
 }

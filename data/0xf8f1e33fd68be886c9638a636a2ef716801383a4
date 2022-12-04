@@ -9,7 +9,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-snapshot-dcl"
   ],
   "ens": "yjwiil.eth"
 }

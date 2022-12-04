@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Looks Whale Official",
   "imageUrl": "https://i.seadn.io/gcs/files/bcaf9bc73415f63a6703b18a34471801.gif?w=500&auto=format",
   "externalUrl": "https://www.lookswhale.io/",
   "discordUrl": "https://discord.gg/lookswhale",
   "twitterUsername": "LooksWhale",
-  "description": " Internet culture, memes and gamblers in the same environment, that looks whale. \n\nWhat's more, each Whale unlocks private roasting club membership and access to the Treasure Chests mechanism. \n\n\n**Disclaimer:**\n\n- Server is not recommended for soft individuals.\n- Do not microwave, the content is hot.\n- Eating a corndog backwards is illegal (company policy)\n- We will kiss threadguy.\n- Do not forget to leave a 5 stars review on the mac and cheese sir\n\n!69"
+  "description": " Internet culture, memes and gamblers in the same environment, that looks whale. \n\nWhat's more, each Whale unlocks private roasting club membership and access to the Treasure Chests mechanism. \n\n\n**Disclaimer:**\n\n- Server is not recommended for soft individuals.\n- Do not microwave, the content is hot.\n- Eating a corndog backwards is illegal (company policy)\n- We will kiss threadguy.\n- Do not forget to leave a 5 stars review on the mac and cheese sir\n\n!69",
+  "erc721_symbol": "LW69"
 }

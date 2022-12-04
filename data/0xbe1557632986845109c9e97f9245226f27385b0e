@@ -5,7 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "alisa2.eth"
 }

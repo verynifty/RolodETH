@@ -4,7 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin"
   ],
   "ens": "bokababa413119.eth"
 }

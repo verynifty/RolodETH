@@ -6,7 +6,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-balancer",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "bohdanmyrosh.eth"
 }

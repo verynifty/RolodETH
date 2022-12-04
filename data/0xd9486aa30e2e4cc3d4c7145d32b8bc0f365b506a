@@ -3,6 +3,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gal",
     "snapshot-voter-aave",
-    "snapshot-voter-decentralgames"
+    "snapshot-voter-decentralgames",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-pooltogether"
   ]
 }

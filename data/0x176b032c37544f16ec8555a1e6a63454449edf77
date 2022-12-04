@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
-    "snapshot-voter-perp-temp-check"
+    "snapshot-voter-perp-temp-check",
+    "snapshot-voter-vestafinance"
   ]
 }

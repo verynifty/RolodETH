@@ -1,6 +1,8 @@
 {
   "tags": [
     "sudoswap-user",
-    "snapshot-voter-aave"
-  ]
+    "snapshot-voter-aave",
+    "snapshot-voter-uniswap"
+  ],
+  "ens": "153801.eth"
 }

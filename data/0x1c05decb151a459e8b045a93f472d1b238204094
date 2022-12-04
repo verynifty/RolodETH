@@ -17,7 +17,8 @@
     "sudoswap-user",
     "snapshot-voter-qidao",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "foolsogood.eth"
 }

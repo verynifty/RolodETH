@@ -11,7 +11,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-nation3",
     "snapshot-voter-people-dao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-apecoin"
   ],
   "ens": "0xphoenix.eth"
 }

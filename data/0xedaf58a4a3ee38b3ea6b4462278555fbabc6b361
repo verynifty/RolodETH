@@ -5,6 +5,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-banklessvault",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ]
 }

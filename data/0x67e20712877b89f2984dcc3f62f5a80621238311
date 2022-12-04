@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-199820",
+    "snapshot-voter-vestafinance"
   ]
 }

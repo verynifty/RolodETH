@@ -15,6 +15,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-aave",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-snapshot-dcl"
   ]
 }

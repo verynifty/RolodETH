@@ -4,7 +4,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-zerozero",
+    "snapshot-voter-apecoin"
   ],
   "ens": "metaversedesignclub.eth"
 }

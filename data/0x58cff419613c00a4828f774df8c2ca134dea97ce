@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DeBox Guardians Penguin",
   "imageUrl": "https://i.seadn.io/gcs/files/08940deb8367bf04fefad6397eb09bfa.png?w=500&auto=format",
   "externalUrl": "https://debox.pro",
   "discordUrl": "https://discord.gg/srR37fuY",
   "twitterUsername": "DeBox_Social",
-  "description": "DGP (DeBox Guardians Penguin) is a functional NFT based on the ERC-721 protocol issued by DeBox. The total number of NFTs for sale is 2048. NFT holders will have the corresponding features and benefits on the DeBox app.  https://debox.pro"
+  "description": "DGP (DeBox Guardians Penguin) is a functional NFT based on the ERC-721 protocol issued by DeBox. The total number of NFTs for sale is 2048. NFT holders will have the corresponding features and benefits on the DeBox app.  https://debox.pro",
+  "erc721_symbol": "DeBox"
 }

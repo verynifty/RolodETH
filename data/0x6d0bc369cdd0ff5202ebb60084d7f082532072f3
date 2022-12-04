@@ -3,7 +3,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "zktracker.eth"
 }
