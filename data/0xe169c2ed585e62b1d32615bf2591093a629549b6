@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "NounPunks.eth",
   "imageUrl": "https://i.seadn.io/gae/meJRoR8SF9Q8yNRjc46aH_-ElnqXe4PFwxTL9fWT66x8grPGdm1aTpDmERLwZ_Nm63826dSw3CKx2HmVR6RYH_wRDJd5FFp0UPWFoQ?w=500&auto=format",
   "externalUrl": "https://nounpunks.wtf",
   "discordUrl": "https://discord.gg/mXMvBpaJba",
   "twitterUsername": "NounPunks",
-  "description": "NounPunks is a group of 9969 beings\ninspired by the world of LarvaLabs and SuperGremplin\nthat bridges the autonomy of separate cultures\nforming the first hybrid culture with a FU attitude\nthat !vibes in the fabric of block and time.\nNo roadmap, no utility, just !vibe   \n\nThis project is in the public domain. Feel free to use NounPunks in any way you want."
+  "description": "NounPunks is a group of 9969 beings\ninspired by the world of LarvaLabs and SuperGremplin\nthat bridges the autonomy of separate cultures\nforming the first hybrid culture with a FU attitude\nthat !vibes in the fabric of block and time.\nNo roadmap, no utility, just !vibe   \n\nThis project is in the public domain. Feel free to use NounPunks in any way you want.",
+  "erc721_symbol": "NP"
 }

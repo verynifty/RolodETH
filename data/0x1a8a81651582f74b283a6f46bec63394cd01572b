@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "wow-minter",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-trashdao-szns"
   ],
   "ens": "bittty.eth"
 }

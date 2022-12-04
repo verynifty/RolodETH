@@ -11,7 +11,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yam",
     "opensea-user",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "ansor.eth"
 }

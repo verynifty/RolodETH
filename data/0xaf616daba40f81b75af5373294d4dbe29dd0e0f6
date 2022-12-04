@@ -7,5 +7,6 @@
     "snapshot-voter-yearn",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xaf6.eth"
 }

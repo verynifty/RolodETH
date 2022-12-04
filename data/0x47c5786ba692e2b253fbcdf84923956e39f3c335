@@ -4,6 +4,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-acrossprotocol",
-    "snapshot-voter-brittm"
+    "snapshot-voter-brittm",
+    "snapshot-voter-vestafinance"
   ]
 }

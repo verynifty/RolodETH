@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cakevote",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-vestafinance"
   ]
 }

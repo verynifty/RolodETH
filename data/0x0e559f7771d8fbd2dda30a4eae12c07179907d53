@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "X SOLDIERS",
   "imageUrl": "https://i.seadn.io/gcs/files/3e61f7a3348074c15e4e281f9c3cd19a.png?w=500&auto=format",
   "externalUrl": "https://xsoldiers.io/",
   "discordUrl": "https://discord.gg/JmrPg6xThF",
   "twitterUsername": "xsoldiers_io",
-  "description": "X SOLDIERS is a special forces unit operating on web3. We are waiting for you to enlist.\nWeb Site\nhttps://xsoldiers.io/\nJoin Discord\nhttps://discord.gg/JmrPg6xThF"
+  "description": "X SOLDIERS is a special forces unit operating on web3. We are waiting for you to enlist.\nWeb Site\nhttps://xsoldiers.io/\nJoin Discord\nhttps://discord.gg/JmrPg6xThF",
+  "erc721_symbol": "XSOLDIERS"
 }

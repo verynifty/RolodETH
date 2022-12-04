@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Hungry Wolves",
   "imageUrl": "https://i.seadn.io/gae/XHAHzdUdzvtcYPUJV3FncRfBkVOSthFWgvlOYDsguXFqJxFNOv-HnRORCajaI0jmegVJ6G8JJnHGTCAn9s5Vszjk67EC8P0fMWbhtBw?w=500&auto=format",
   "externalUrl": "https://hungrywolves.com",
   "discordUrl": "https://discord.gg/hungrywolves",
   "twitterUsername": "HungryWolvesNFT",
-  "description": "Hungry Wolves are a collection of 6,000 gamified NFTs that allow holders to join Wolfpacks as well as earn status and rewards. Learn more at www.hungrywolves.com.\n\nLinked Collection: https://opensea.io/collection/hungry-runtz"
+  "description": "Hungry Wolves are a collection of 6,000 gamified NFTs that allow holders to join Wolfpacks as well as earn status and rewards. Learn more at www.hungrywolves.com.\n\nLinked Collection: https://opensea.io/collection/hungry-runtz",
+  "erc721_symbol": "HUNGRY"
 }

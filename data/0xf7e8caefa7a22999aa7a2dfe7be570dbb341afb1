@@ -9,6 +9,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-vestafinance"
   ]
 }

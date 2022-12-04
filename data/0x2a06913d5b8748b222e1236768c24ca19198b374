@@ -24,6 +24,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-spookyswap",
     "snapshot-voter-beets",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-metislayer2",
+    "snapshot-voter-loopringdao"
   ]
 }

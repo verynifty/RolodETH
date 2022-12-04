@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "WEN LAMBO by BRAiN VOMiT",
   "imageUrl": "https://i.seadn.io/gae/qgOFajdI-BqSKG_XSr0gFJ9RAGf_aF8hYJWf8rKnhZx94B_EIX7eXKvspsmJBxB1wo_DE1A1nRhQQLHXG15LM1PkmzXjjd6lbLO9?w=500&auto=format",
   "externalUrl": "https://app.rarible.com/collection/0x319935e91705d1bc8e870317ed766d277fe48298",
-  "description": "TWO WORDS WEN LAMBO"
+  "description": "TWO WORDS WEN LAMBO",
+  "erc721_symbol": "BVLAMBO"
 }

@@ -4,7 +4,8 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ],
   "name": "Multichain Hack Alert 3214"
 }

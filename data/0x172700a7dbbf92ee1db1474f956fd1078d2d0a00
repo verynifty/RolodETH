@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Choadz",
   "imageUrl": "https://i.seadn.io/gae/lt05ipiqlM6lNO1nk1w3Ij7RgFakiQFFR3erkoRHsxnzDNcZFGdqYDZzFs6WJg3zvRR1FHQAJJ_dXC64WDBcWaG4zCsSDILH3vkyNh4?w=500&auto=format",
   "externalUrl": "https://chunks.world/choadz",
   "discordUrl": "https://discord.gg/chunksworld",
   "twitterUsername": "ChunksWorldNFT",
-  "description": "Amphibious chunky pond dwellers, brought to life by [The Chunks](https://chunks.world/). A homage to [CrypToadz](https://cryptoadz.io/), using the CC0 domain."
+  "description": "Amphibious chunky pond dwellers, brought to life by [The Chunks](https://chunks.world/). A homage to [CrypToadz](https://cryptoadz.io/), using the CC0 domain.",
+  "erc721_symbol": "CHOADZ"
 }

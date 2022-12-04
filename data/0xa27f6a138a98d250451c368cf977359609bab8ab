@@ -4,5 +4,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-8848labs",
     "snapshot-voter-pantherprotocol"
-  ]
+  ],
+  "ens": "renoip.eth"
 }

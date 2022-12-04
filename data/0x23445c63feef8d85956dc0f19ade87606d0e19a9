@@ -1,6 +1,7 @@
 {
   "tags": [
-    "chain"
+    "chain",
+    "contract"
   ],
   "name": "Chain: Staking"
 }

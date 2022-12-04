@@ -4,7 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "opensea-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "nafan99.eth"
 }

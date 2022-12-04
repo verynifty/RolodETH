@@ -3,5 +3,6 @@
     "azuki-minter",
     "loot-minter",
     "hashmask-minter"
-  ]
+  ],
+  "ens": "ratonga.eth"
 }

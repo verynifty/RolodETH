@@ -14,7 +14,8 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "grasswonder.eth"
 }

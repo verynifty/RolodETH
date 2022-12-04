@@ -9,6 +9,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-sismo",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-vestafinance"
   ]
 }

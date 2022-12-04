@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dingbots Genesis",
   "imageUrl": "https://i.seadn.io/gae/pHCF-UCSDfHfEvi1L_ypr8WGiQYOnrnprr-64ep8SMRfyNJ1nMeQ-iG1SoiQFAnnvuXaXvImyOgqiNQwVgaIwdaRYbCNmwjSdXkRGQ?w=500&auto=format",
   "externalUrl": "https://www.dingbotsnft.com/",
   "discordUrl": "https://discord.gg/dingbots",
   "twitterUsername": "DingBotsNFT",
-  "description": "After a bad batch at the HasBruh Toy plant, 1555 bots were deemed defective. Stitched together by a workforce of senior citizens with parts sourced by local garage sales... the DingBots Genesis were born!\nMint: https://www.dingbotsminter.com/"
+  "description": "After a bad batch at the HasBruh Toy plant, 1555 bots were deemed defective. Stitched together by a workforce of senior citizens with parts sourced by local garage sales... the DingBots Genesis were born!\nMint: https://www.dingbotsminter.com/",
+  "erc721_symbol": "DINGBOTS"
 }

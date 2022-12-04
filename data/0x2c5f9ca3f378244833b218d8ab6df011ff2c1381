@@ -8,5 +8,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "ilovemma.eth"
 }

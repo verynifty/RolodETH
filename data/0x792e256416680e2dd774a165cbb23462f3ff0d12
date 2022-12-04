@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "With Hearts Editions",
   "imageUrl": "https://i.seadn.io/gcs/files/22d146e2b4d49723cca66a731f178643.jpg?w=500&auto=format",
   "twitterUsername": "withhearts",
-  "description": "❤️‍🔥 Photography editions by @Withhearts"
+  "description": "❤️‍🔥 Photography editions by @Withhearts",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

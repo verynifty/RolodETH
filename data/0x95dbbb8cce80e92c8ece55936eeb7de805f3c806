@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "THE COACH NFT",
   "imageUrl": "https://i.seadn.io/gae/QTnA5IV_nLidmgMirfvpm2ucXj3dULM1QB_BAGQQapaA_O38piSGwZpTcdy9MZOOKwx7apxnHWL8JkOQo3oSuvCX4r_UZI9YSPT-vg?w=500&auto=format",
   "externalUrl": "https://thecoachnft.io/",
   "discordUrl": "https://discord.gg/hgPCZzxpVS",
-  "description": "THE COACH NFT collection by Patrick Mouratoglou is composed of 2000 NFTs on the Ethereum blockchain with three levels of rarity (Warm-up, Match and Celebration). Every card is numbered, ensuring each and every one is truly unique. The rarer the NFT, the more incredible the benefits are."
+  "description": "THE COACH NFT collection by Patrick Mouratoglou is composed of 2000 NFTs on the Ethereum blockchain with three levels of rarity (Warm-up, Match and Celebration). Every card is numbered, ensuring each and every one is truly unique. The rarer the NFT, the more incredible the benefits are.",
+  "erc721_symbol": "COACH"
 }

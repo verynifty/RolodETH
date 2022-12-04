@@ -4,7 +4,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "topcryptoschool.eth"
 }

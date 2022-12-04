@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Machine Soldier",
   "imageUrl": "https://i.seadn.io/gcs/files/989f1168b055c1843c4a0bdd3bcdbd99.png?w=500&auto=format",
   "discordUrl": "https://discord.gg/g5KXaKwPce",
   "twitterUsername": "Machinenfts",
-  "description": "5555 Machine Soldiers Are Waiting To Be Recruited, Inspired By A Favorite Character Action Figure. Please Follow Twitter For More Plans \n@MachineNFTs\n"
+  "description": "5555 Machine Soldiers Are Waiting To Be Recruited, Inspired By A Favorite Character Action Figure. Please Follow Twitter For More Plans \n@MachineNFTs\n",
+  "erc721_symbol": "MS"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "krauj.eth"
 }

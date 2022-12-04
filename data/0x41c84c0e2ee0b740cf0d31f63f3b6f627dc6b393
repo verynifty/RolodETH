@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "iWETH",
+  "erc20_decimals": 8,
+  "name": "Iron Bank Wrapped Ether",
+  "proxy": "0x2ac63723a576f89b628d514ff671300801dc1702"
+}

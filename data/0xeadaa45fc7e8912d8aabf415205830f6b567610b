@@ -3,7 +3,8 @@
     "snapshot-voter-paraswap-dao",
     "opensea-user",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "zebrozavr.eth"
 }

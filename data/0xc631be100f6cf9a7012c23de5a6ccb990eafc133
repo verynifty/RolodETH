@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Banana Task Force Ape",
   "erc20_symbol": "BTFA",

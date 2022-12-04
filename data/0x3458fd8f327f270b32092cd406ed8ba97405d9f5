@@ -6,5 +6,6 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "kwaji.eth"
 }

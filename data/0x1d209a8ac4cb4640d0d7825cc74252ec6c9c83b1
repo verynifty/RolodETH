@@ -8,6 +8,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ]
 }

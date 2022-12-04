@@ -1,6 +1,7 @@
 {
   "tags": [
-    "juicebox"
+    "juicebox",
+    "contract"
   ],
   "name": "Juicebox: Ticket Booth"
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-balancer"
   ]
 }

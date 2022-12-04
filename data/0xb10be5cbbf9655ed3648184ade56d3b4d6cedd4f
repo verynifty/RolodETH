@@ -9,7 +9,8 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-ethermondao"
+    "snapshot-voter-ethermondao",
+    "snapshot-voter-aavegotchi"
   ],
   "ens": "ultrasoundclone.eth"
 }

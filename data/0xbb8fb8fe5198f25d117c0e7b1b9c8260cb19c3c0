@@ -8,6 +8,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-vestafinance"
   ]
 }

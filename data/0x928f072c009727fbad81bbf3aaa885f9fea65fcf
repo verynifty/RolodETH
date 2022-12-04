@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Roo Troop",
   "imageUrl": "https://i.seadn.io/gae/ACV_EFtAaBzWx14Ui35U3qy3fGx-A7d5-vZHCULMWtO9ZfJD2ctgk8LR6_DCtEcEfCt8hqeJ_oPxmqU3v-h4zMpbHNai5KyW4DMA?w=500&auto=format",
   "externalUrl": "https://rootroop.com/",
   "discordUrl": "https://discord.gg/rootroop",
   "twitterUsername": "RooTroopNFT",
-  "description": "**Developing the First On-Chain Job Marketplace**\n\n**Over 1000 Web3/NFT Jobs Posted**\n\n**Holder Count is Off Due to Staking, Correct Amount is Over 2.3k**\n\n[Start Your Career in Web 3.0 Today](http://linktr.ee/rootroop)\n\n[Roo Troop Bounty Hub](https://rootroop.com/jobs)\n\n[Saving Tree Kangaroos](https://rootroop.com/philanthropy)\n\n[$ROOLAH SHOP](https://shop.rootroop.com/)\n\n[Joey Mob](https://opensea.io/collection/joeymob)"
+  "description": "**Developing the First On-Chain Job Marketplace**\n\n**Over 1000 Web3/NFT Jobs Posted**\n\n**Holder Count is Off Due to Staking, Correct Amount is Over 2.3k**\n\n[Start Your Career in Web 3.0 Today](http://linktr.ee/rootroop)\n\n[Roo Troop Bounty Hub](https://rootroop.com/jobs)\n\n[Saving Tree Kangaroos](https://rootroop.com/philanthropy)\n\n[$ROOLAH SHOP](https://shop.rootroop.com/)\n\n[Joey Mob](https://opensea.io/collection/joeymob)",
+  "erc721_symbol": "RT"
 }
