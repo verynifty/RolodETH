@@ -3,5 +3,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "lqm859.eth"
 }

@@ -6,5 +6,6 @@
     "clonex-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "murec.eth"
 }

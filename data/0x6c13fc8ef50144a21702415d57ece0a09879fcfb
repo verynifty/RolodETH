@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap",
     "snapshot-voter-rugcommunity"
-  ]
+  ],
+  "ens": "daicoin.eth"
 }

@@ -12,5 +12,6 @@
     "snapshot-voter-sismo",
     "opensea-user",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "superfinance.eth"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "JFIN Coin",
   "erc20_symbol": "JFIN",

@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "okochang2000.eth"
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ]
 }

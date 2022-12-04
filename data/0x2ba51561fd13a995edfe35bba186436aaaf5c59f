@@ -3,6 +3,7 @@
     "moonbird-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-vestafinance"
   ]
 }

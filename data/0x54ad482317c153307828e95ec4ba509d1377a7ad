@@ -3,5 +3,6 @@
     "clonex-minter",
     "snapshot-voter-friendswithbenefits",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "debr15.eth"
 }

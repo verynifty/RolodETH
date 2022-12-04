@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "0xTribe",
   "imageUrl": "https://i.seadn.io/gcs/files/dacc4bd456fa4c568deba26108f9c48d.png?w=500&auto=format",
   "externalUrl": "https://0xTribe.io",
   "twitterUsername": "0xTribe_NFT",
-  "description": "[What is 0xTRIBΞ](https://medium.com/@0xTribe) || [▶️ Listen to Our Anthem](https://nftstorage.link/ipfs/bafybeid5slfw7kqtoy22docrpfgka3iiao66i5izrvrvebyomfrdjv5toi) || [Mint for Ξ0.01 Here](https://mint.0xtribe.io/)\n\nIn April 2021, Bored Ape Yacht Club was born on the Ethereum blockchain. \n\nIn January 2022, 0xApes created the 0xApes expansion collection using the same BAYC art. \n\nIn June 2022, 0xApes created their own collection with their own art called TRIBΞ Odyssey. \n\nIn October 2022, some members of BAYC created this 0xTRIBΞ expansion collection using the same Tribe art. \n\n[#ApeTogetherStrong](https://twitter.com/0xTribe_NFT)"
+  "description": "[What is 0xTRIBΞ](https://medium.com/@0xTribe) || [▶️ Listen to Our Anthem](https://nftstorage.link/ipfs/bafybeid5slfw7kqtoy22docrpfgka3iiao66i5izrvrvebyomfrdjv5toi) || [Mint for Ξ0.01 Here](https://mint.0xtribe.io/)\n\nIn April 2021, Bored Ape Yacht Club was born on the Ethereum blockchain. \n\nIn January 2022, 0xApes created the 0xApes expansion collection using the same BAYC art. \n\nIn June 2022, 0xApes created their own collection with their own art called TRIBΞ Odyssey. \n\nIn October 2022, some members of BAYC created this 0xTRIBΞ expansion collection using the same Tribe art. \n\n[#ApeTogetherStrong](https://twitter.com/0xTribe_NFT)",
+  "erc721_symbol": "0xTribe"
 }

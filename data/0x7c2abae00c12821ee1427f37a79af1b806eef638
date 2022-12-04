@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Post by Vinnie Hager",
   "imageUrl": "https://i.seadn.io/gcs/files/a40e6cba8f3fcfba722c7249165649aa.jpg?w=500&auto=format",
-  "description": "Post by Vinnie Hager\nAn experimental body of artwork"
+  "description": "Post by Vinnie Hager\nAn experimental body of artwork",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

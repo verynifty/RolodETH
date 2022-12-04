@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-avcdao",
     "snapshot-voter-plutusclub"
-  ]
+  ],
+  "ens": "nimiwallet.eth"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "1btc2eth.eth"
 }

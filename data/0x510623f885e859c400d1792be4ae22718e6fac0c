@@ -4,5 +4,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-krausehouse",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "multibyte.eth"
 }

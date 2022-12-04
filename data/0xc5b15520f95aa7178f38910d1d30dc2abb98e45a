@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
   ]
 }

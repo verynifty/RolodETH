@@ -2,5 +2,6 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "eth2027.eth"
 }

@@ -8,5 +8,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "melon3.eth"
 }

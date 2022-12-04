@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "sitzumi.eth"
 }

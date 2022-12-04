@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-nestecosystem"
-  ]
+  ],
+  "ens": "martianmel86.eth"
 }

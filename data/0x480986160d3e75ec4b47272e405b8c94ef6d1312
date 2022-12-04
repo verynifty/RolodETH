@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "CryptoBoobLovers",
   "imageUrl": "https://i.seadn.io/gcs/files/d33d396aa58d42978574aad6f3940e77.png?w=500&auto=format",
   "externalUrl": "http://cryptobooblovers.com",
   "twitterUsername": "cryptobooblover",
-  "description": "The Crypto Boob Lovers is a collection of 10,000 unique nude female NFTs— unique digital collectibles living on the Ethereum blockchain. They are handcrafted collection of 10,000 beautiful characters developed by professional graphic designer team. Each with their own identity to be discovered within the wider stories of Crypto Boob Lovers.  Visit www.CryptoBoobLovers.com for more details."
+  "description": "The Crypto Boob Lovers is a collection of 10,000 unique nude female NFTs— unique digital collectibles living on the Ethereum blockchain. They are handcrafted collection of 10,000 beautiful characters developed by professional graphic designer team. Each with their own identity to be discovered within the wider stories of Crypto Boob Lovers.  Visit www.CryptoBoobLovers.com for more details.",
+  "proxy": "0x387a294a2b92387cf46714faa537f1f81d50c210"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "rektrunner.eth"
 }
