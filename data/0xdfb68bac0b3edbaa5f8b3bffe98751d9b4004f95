@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "ivan8888.eth"
 }

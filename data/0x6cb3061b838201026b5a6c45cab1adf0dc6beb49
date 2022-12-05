@@ -1,7 +1,10 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
-  "name": "BINARY CONVERSATIONS WITH AI"
+  "name": "BINARY CONVERSATIONS WITH AI",
+  "erc721_symbol": "BINARY"
 }

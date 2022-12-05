@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "xiaochou.eth"
 }

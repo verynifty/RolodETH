@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "MemeNFT Official",
   "erc20_symbol": "MNFT",

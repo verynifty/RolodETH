@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Inhabitants: United Planets (MetaHero)",
   "imageUrl": "https://i.seadn.io/gcs/files/273aea7e405f51fb0da17ab7fd568f18.png?w=500&auto=format",
   "externalUrl": "https://inhabitantsuniverse.com/",
   "twitterUsername": "inhabitants_",
-  "description": "Guide the direction of your favorite Inhabitants world with Planet digital tokens, comprised of nine planets and one moon. For additional details, please visit docs.updao.app."
+  "description": "Guide the direction of your favorite Inhabitants world with Planet digital tokens, comprised of nine planets and one moon. For additional details, please visit docs.updao.app.",
+  "erc721_symbol": "PLANET"
 }

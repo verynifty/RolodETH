@@ -4,5 +4,6 @@
     "coolcat-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "darwinite.eth"
 }

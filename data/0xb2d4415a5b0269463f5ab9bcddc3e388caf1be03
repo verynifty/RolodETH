@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Zigazoo Genesis Drop: Long Neckie Kids by Nyla Hayes",
   "imageUrl": "https://i.seadn.io/gae/wrj4jH00A1QKq1SN2JizNehYuQBuRkEAm3kVJbVR0yz5oQ7lJ7qJFugDw_kZ_eMk9id8uToh2YkU73zKlvEbkXgMj2f4pQrBl7GX1D4?w=500&auto=format",
   "externalUrl": "https://lnk.zigazoo.xyz/",
   "discordUrl": "https://discord.gg/E2e8smHGek",
-  "description": "The mission of Nyla Hayes’ historic “Long Neckie Kids” NFT drop is to educate, onboard, and empower the next generation of web3 creators.\r\n\r\nHolding a Long Neckie Kids NFT will grant exclusive early access to future projects created in collaboration between Nyla Hayes and Zigazoo. Additionally, holding a Long Neckie Kids NFT grants intimate access to Zigazoo's core community of families, educators, and influencers dedicated to empowering the next generation of digital citizens.\r\n\r\nNyla made history as TIME magazine’s first artist in residence and Zigazoo is the world’s largest social media platform for kids."
+  "description": "The mission of Nyla Hayes’ historic “Long Neckie Kids” NFT drop is to educate, onboard, and empower the next generation of web3 creators.\r\n\r\nHolding a Long Neckie Kids NFT will grant exclusive early access to future projects created in collaboration between Nyla Hayes and Zigazoo. Additionally, holding a Long Neckie Kids NFT grants intimate access to Zigazoo's core community of families, educators, and influencers dedicated to empowering the next generation of digital citizens.\r\n\r\nNyla made history as TIME magazine’s first artist in residence and Zigazoo is the world’s largest social media platform for kids.",
+  "erc721_symbol": "LNK"
 }

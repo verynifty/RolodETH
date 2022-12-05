@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "56362.eth"
 }

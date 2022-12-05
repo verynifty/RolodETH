@@ -3,7 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-uniswap",
-    "snapshot-voter-polygon-goodghosting"
+    "snapshot-voter-polygon-goodghosting",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aavegotchi"
   ],
   "ens": "edwardtay.eth"
 }

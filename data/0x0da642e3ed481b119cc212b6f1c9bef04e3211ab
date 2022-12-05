@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Celestials NFT!",
   "imageUrl": "https://i.seadn.io/gcs/files/92adbee6335b68228befbe7bfd5e818a.png?w=500&auto=format",
   "externalUrl": "https://celestialsnft.com",
   "discordUrl": "https://discord.gg/cryptocelestials",
   "twitterUsername": "CelestialsNFT_",
-  "description": "Celestials are beings who emerged from a pocket dimension near Jupiter in the year 2077. Forced from their homeworld by a scourge of intergalactic planet harvesters, the celestials sacrificed their own sun to power an interdimensional gateway. \n\n*Only 5,555 survived the journey.*\n\n[Celestial Website](https://celestialsnft.com/)"
+  "description": "Celestials are beings who emerged from a pocket dimension near Jupiter in the year 2077. Forced from their homeworld by a scourge of intergalactic planet harvesters, the celestials sacrificed their own sun to power an interdimensional gateway. \n\n*Only 5,555 survived the journey.*\n\n[Celestial Website](https://celestialsnft.com/)",
+  "erc721_symbol": "CELESTIAL"
 }

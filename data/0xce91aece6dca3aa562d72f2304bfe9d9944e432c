@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cool Comics CATaclysm",
   "imageUrl": "https://i.seadn.io/gae/fMgEeIk_FARw36u-uo2O5Z6Uyobit9q6_yvw8emzoTlFpV5e7YtTRWQTFnLtPoWzP8rSkJgSKaKkpkMoX5u1qT0q8HRE09kY_npTtQ?w=500&auto=format",
   "externalUrl": "https://coolcatsnft.com",
-  "description": "Centuries after the War of Magic, Cool Cats are enjoying a period of relative peace; until a series of natural disasters occur releasing Cool Pets into the world. These disasters are known as 'The CATaclysm'! This collection details the four stories of the CATaclysm and how they changed the landscape of Cooltopia forever..."
+  "description": "Centuries after the War of Magic, Cool Cats are enjoying a period of relative peace; until a series of natural disasters occur releasing Cool Pets into the world. These disasters are known as 'The CATaclysm'! This collection details the four stories of the CATaclysm and how they changed the landscape of Cooltopia forever...",
+  "erc721_symbol": "COMIC1"
 }

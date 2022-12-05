@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Playing With Fire V2",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a071ef77d8c223094fff6c5541c8719176bbccc3521fcec181c126aaf82e74a2f3593614e840fcea01df60f8920ca7186262e466cd601cdab069ed69c2521c97513af73450e7ea221b3045b035d9254669d8448d99ed79ce1c74c5fe1194ed26ac37fae39bc6132d501c27868a956d07a058ed9feecb44e991ea6b299d1f7ae6c"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a071ef77d8c223094fff6c5541c8719176bbccc3521fcec181c126aaf82e74a2f3593614e840fcea01df60f8920ca7186262e466cd601cdab069ed69c2521c97513af73450e7ea221b3045b035d9254669d8448d99ed79ce1c74c5fe1194ed26ac37fae39bc6132d501c27868a956d07a058ed9feecb44e991ea6b299d1f7ae6c",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

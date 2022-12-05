@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Mint个鸡吧",
   "imageUrl": "https://i.seadn.io/gcs/files/b9c1b3411f57ebaf7886ac6efbc8735e.jpg?w=500&auto=format",
   "twitterUsername": "Mintgjb",
-  "description": "Spreading good vibes across the meta 🐥 5000🐥 🧹🧹🧹"
+  "description": "Spreading good vibes across the meta 🐥 5000🐥 🧹🧹🧹",
+  "proxy": "0xb3c478bbad4784f6c7d59199ea0c0168da9bea40"
 }

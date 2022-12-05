@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "The Simpers",
   "imageUrl": "https://i.seadn.io/gcs/files/ec9163ce1dfa968d50d09ef82e840fa4.png?w=500&auto=format",
   "externalUrl": "http://www.simpersnft.com",
   "twitterUsername": "the_simpersnft",
-  "description": "The Simpers are 1455 web3 icons simpin on the blockchain. We simp over web3 culture and everything in it. We'll just be hanging around for awhile vibin with fellow Simpers in the community. We don't want to promise you shit aside from quality museum type art and good vibes. We might deliver you other things too but like we said....we don't like making fucking promises."
+  "description": "The Simpers are 1455 web3 icons simpin on the blockchain. We simp over web3 culture and everything in it. We'll just be hanging around for awhile vibin with fellow Simpers in the community. We don't want to promise you shit aside from quality museum type art and good vibes. We might deliver you other things too but like we said....we don't like making fucking promises.",
+  "proxy": "0xea690f45047f6be5e513d35b44933999866c5aa6"
 }

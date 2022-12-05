@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Ethereum Gold Project",
   "erc20_symbol": "ETGP",

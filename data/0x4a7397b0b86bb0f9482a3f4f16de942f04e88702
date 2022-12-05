@@ -1,6 +1,9 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "proxy"
   ],
-  "name": "Aubit: Old FWT Token 2"
+  "name": "Aubit: Old FWT Token 2",
+  "proxy": "0x1c98ba2649f1f82a68a6097359134fc1554579a8"
 }

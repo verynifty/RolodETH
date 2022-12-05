@@ -8,5 +8,6 @@
     "snapshot-voter-gmdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "s.sismo.eth"
 }

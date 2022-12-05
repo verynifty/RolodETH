@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pegasus NFT Official",
   "imageUrl": "https://i.seadn.io/gcs/files/e2c8f062592dd15cce2a0f9cea7490e3.png?w=500&auto=format",
   "externalUrl": "https://pegasusnft.io/",
   "discordUrl": "https://discord.gg/pegasusnft",
   "twitterUsername": "ThePegasusNFT",
-  "description": "Pegasus is an NFT game ecosystem running on the Ethereum network.\r\nThere are 3 type of assets, Genesis Pegasus NFT, Pegasus Ⅱ NFT and token $PEGA and given different type of game play that contains fertility, feed, exercise, competition etc.\r\nFuture brings speed and future value experience."
+  "description": "Pegasus is an NFT game ecosystem running on the Ethereum network.\r\nThere are 3 type of assets, Genesis Pegasus NFT, Pegasus Ⅱ NFT and token $PEGA and given different type of game play that contains fertility, feed, exercise, competition etc.\r\nFuture brings speed and future value experience.",
+  "erc721_symbol": "Pegasus NFT"
 }

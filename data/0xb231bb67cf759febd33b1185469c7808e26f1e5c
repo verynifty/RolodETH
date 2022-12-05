@@ -6,5 +6,6 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "dragonflytothemoon.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "seen.haus",
   "imageUrl": "https://i.seadn.io/gae/b-86qThLnW9iqjEJMhuwuRX6oKl3yBcqcBnjnewSA7k9jGkwoXafPdIMwrgYrKumoe_R6fTnptw5YlkOzo7LCjPHSgjeYZNupFvxYQ?w=500&auto=format",
   "externalUrl": "https://seen.haus/",
   "discordUrl": "https://discord.gg/",
   "twitterUsername": "seen_haus",
-  "description": "An auction house for the digital age"
+  "description": "An auction house for the digital age",
+  "erc721_symbol": "SEEN"
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-cakevote"
   ],
   "ens": "mrpayer.eth"
 }

@@ -5,5 +5,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "frednfts.eth"
 }

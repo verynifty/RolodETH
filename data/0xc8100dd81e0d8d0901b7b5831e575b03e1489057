@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ETERNAL FRAGMENTS",
   "imageUrl": "https://i.seadn.io/gae/0u2nHRqTMKXld02uqlGBQnkw6SVuIRBZXuuxVhU0ZYp4QADFQVjUMbiShIuxRDzCQ6HYVRHAPD0ovbY2pD-dxGxUy08oEZFl96-LCxo?w=500&auto=format",
   "externalUrl": "https://www.eternal-fragments.art",
   "discordUrl": "https://discord.gg/aCfR7TZZbM",
   "twitterUsername": "SpectraArt_NFT",
-  "description": "Eternal Fragments is a collection of 2,828 generative art pieces, fully determined by the mint transaction and rendered in 3D post-mint using recursive mathematics. \n\n# Utility\n\nEternal Fragments is Part 1 of Spectra Art's Dawn Trilogy. \n\nCollectors of the Dawn Trilogoy will be able to claim a Dawn Key and get exclusive benefits including presale access and discounts to future [Spectra.Art](https://spectra.art) projects.\n\n# About the Project\n\nThe 3D generative algorithm renders fractal-like geometries and volumetric lighting to express the mint’s transaction hash. The result demonstrates the chaos and order that simultaneously arise from recursive mathematical rules.\n\nRarity rankings: https://www.eternal-fragments.art/#/rarity\n\nAbout Spectra: https://www.spectra.art"
+  "description": "Eternal Fragments is a collection of 2,828 generative art pieces, fully determined by the mint transaction and rendered in 3D post-mint using recursive mathematics. \n\n# Utility\n\nEternal Fragments is Part 1 of Spectra Art's Dawn Trilogy. \n\nCollectors of the Dawn Trilogoy will be able to claim a Dawn Key and get exclusive benefits including presale access and discounts to future [Spectra.Art](https://spectra.art) projects.\n\n# About the Project\n\nThe 3D generative algorithm renders fractal-like geometries and volumetric lighting to express the mint’s transaction hash. The result demonstrates the chaos and order that simultaneously arise from recursive mathematical rules.\n\nRarity rankings: https://www.eternal-fragments.art/#/rarity\n\nAbout Spectra: https://www.spectra.art",
+  "erc721_symbol": "EF"
 }

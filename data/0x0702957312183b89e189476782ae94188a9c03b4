@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "opensea-user"
-  ]
+  ],
+  "ens": "tshaco.eth"
 }

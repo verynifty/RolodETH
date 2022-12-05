@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "881022.eth"
 }

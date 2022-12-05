@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "gravelord.eth"
 }

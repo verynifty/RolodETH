@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Snakes by Eros",
   "imageUrl": "https://i.seadn.io/gcs/files/419f3c906a0d6203afc7bc958264a33b.png?w=500&auto=format",
   "externalUrl": "http://abstractjpy.xyz",
   "twitterUsername": "abstractjpy",
-  "description": "Originating from Japanese culture, Abstract JPY would like to put a focus on the “Zen” within you.\nAbstract JPY is the collective, where many things will arise from.\nFirst collection being “Snakes” by Eros.\n\n”Snakes” by Eros will not only act as a 1/1 piece of abstract art..\nBut also an access pass to all future ventures from Abstract JPY.."
+  "description": "Originating from Japanese culture, Abstract JPY would like to put a focus on the “Zen” within you.\nAbstract JPY is the collective, where many things will arise from.\nFirst collection being “Snakes” by Eros.\n\n”Snakes” by Eros will not only act as a 1/1 piece of abstract art..\nBut also an access pass to all future ventures from Abstract JPY..",
+  "erc721_symbol": "ETH"
 }

@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "dWETH",
+  "erc20_decimals": 8,
+  "name": "dToken WETH",
+  "proxy": "0x8c22cd2b93f06a37f81384afec62193957bb50e0"
+}

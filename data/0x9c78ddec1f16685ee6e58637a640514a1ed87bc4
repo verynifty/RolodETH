@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "DuskBreakers: Deployer"
+  "name": "DuskBreakers: Deployer",
+  "ens": "dusktechdeployer.eth"
 }

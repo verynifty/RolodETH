@@ -1,7 +1,10 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
-  "name": "Liquid-NFT"
+  "name": "Liquid-NFT",
+  "erc721_symbol": "LNFT"
 }

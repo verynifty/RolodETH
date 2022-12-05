@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mushboomers",
   "imageUrl": "https://i.seadn.io/gcs/files/79ce23e975b6b031957c709d2eadbf24.jpg?w=500&auto=format",
   "discordUrl": "https://discord.gg/NFTinit",
   "twitterUsername": "Mushboomers",
-  "description": "Mushbooomers might have utilities. \"If you want to keep a secret, you must also hide it from yourself.\""
+  "description": "Mushbooomers might have utilities. \"If you want to keep a secret, you must also hide it from yourself.\"",
+  "erc721_symbol": "MUSH"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Monster Bear Club (Okay Kaiju Bears)",
   "imageUrl": "https://i.seadn.io/gae/l3aUKOGLU23X903FugWgLGo3xeptcEov61rekhBmCKrrkjWN8_dNbHm1C5AquzgOkm1vMMJBRLilPN6R3ggVnRQWhf0E97ccAsq-qA?w=500&auto=format",
   "externalUrl": "https://www.okaykaijubears.xyz",
   "twitterUsername": "MonsterBearClub",
-  "description": "Monster Bear Club (formerly Okay Kaiju Bears) coming to a city near you!\nA community driven CC0 project, own your NFT and the art attached to it. \n\nSOLD OUT!"
+  "description": "Monster Bear Club (formerly Okay Kaiju Bears) coming to a city near you!\nA community driven CC0 project, own your NFT and the art attached to it. \n\nSOLD OUT!",
+  "erc721_symbol": "OKB"
 }

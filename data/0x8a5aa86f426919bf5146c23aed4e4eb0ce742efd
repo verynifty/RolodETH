@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chromospheres",
   "imageUrl": "https://i.seadn.io/gae/dqBeb5gww5QltoK_TkGyX8N43Wk0isMKl7l6N6naSGS96Ptm2Nlm7QOkWdC6mpStQWCnwjVQkB3iFrxWt_R_LhEfVIwIiHaiqFXOFA?w=500&auto=format",
   "externalUrl": "https://chromospheres.spectra.art",
   "discordUrl": "https://discord.gg/spectraart",
   "twitterUsername": "SpectraArt_NFT",
-  "description": "CHROMOSPHERES is a collection of 707 generative art NFTs capturing the brightest stars in the night sky. Each piece represents a real star, and is generated using astronomical and blockchain data.\n\nAll pieces are rendered post-mint by a supercomputer distributed across multiple data-centers.\n\nThe project is carbon negative, with all rendering and contract emissions offset 5X over.\n\n# Utility\n\nChromospheres is Part 3 of Spectra Art's Dawn Trilogy. \n\nCollectors of the Dawn Trilogoy will be able to claim a Dawn Key and get exclusive benefits including presale access and discounts to future [Spectra.Art](https://spectra.art) projects."
+  "description": "CHROMOSPHERES is a collection of 707 generative art NFTs capturing the brightest stars in the night sky. Each piece represents a real star, and is generated using astronomical and blockchain data.\n\nAll pieces are rendered post-mint by a supercomputer distributed across multiple data-centers.\n\nThe project is carbon negative, with all rendering and contract emissions offset 5X over.\n\n# Utility\n\nChromospheres is Part 3 of Spectra Art's Dawn Trilogy. \n\nCollectors of the Dawn Trilogoy will be able to claim a Dawn Key and get exclusive benefits including presale access and discounts to future [Spectra.Art](https://spectra.art) projects.",
+  "erc721_symbol": "CHROMO"
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Skvllpvnkz Daycare",
   "imageUrl": "https://i.seadn.io/gae/q8W11MjGDjQOUUfczjLursVq41L1OP0vzsROb_NTeHM_gXick_sW2JlWCocpukrTLXW0MgjxhgSxiAaUJHpNOrNl8Dz2LBekbGEhlH4?w=500&auto=format",
   "externalUrl": "https://skvllpvnkz.io/",
-  "description": "5K Skvllbabiez escaping Skvllpvnkz Daycare.\n\nCan be staked to earn[$ammo](https://hideout.skvllpvnkz.io/the-hideout-economy)\n\n2000+ staked."
+  "description": "5K Skvllbabiez escaping Skvllpvnkz Daycare.\n\nCan be staked to earn[$ammo](https://hideout.skvllpvnkz.io/the-hideout-economy)\n\n2000+ staked.",
+  "erc721_symbol": "SKVLLBABIEZ"
 }

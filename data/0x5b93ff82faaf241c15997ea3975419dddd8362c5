@@ -9,5 +9,6 @@
     "snapshot-voter-yam",
     "snapshot-voter-yearn",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "coopahtroopa.eth"
 }

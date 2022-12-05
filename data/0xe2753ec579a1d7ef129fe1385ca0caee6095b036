@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "linshangyunkongtou10.eth"
 }

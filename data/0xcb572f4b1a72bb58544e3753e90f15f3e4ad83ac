@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "CondoMini Condos",
   "imageUrl": "https://i.seadn.io/gcs/files/cfe1227f8c3b643a4804ea4c26a42fdd.gif?w=500&auto=format",

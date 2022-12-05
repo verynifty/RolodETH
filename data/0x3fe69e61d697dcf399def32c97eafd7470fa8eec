@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "coinwork.eth"
 }

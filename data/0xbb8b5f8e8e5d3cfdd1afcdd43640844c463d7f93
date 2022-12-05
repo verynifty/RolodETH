@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Droplets - Official",
   "imageUrl": "https://i.seadn.io/gae/54oJAWmjiClVSNgerNpFgezRPCX96ClAO0TMGfRTAlEEhsj3a-99ZkJRQ5iG7LC6kQZHoW0g5BzeR2qMzWTrbumNr7QXFIZcSd1X?w=500&auto=format",
   "externalUrl": "https://droplets.lol/",
   "discordUrl": "https://discord.gg/droplets",
   "twitterUsername": "nft_droplets",
-  "description": "A 6500 supply community driven NFT project, proud to support a clean water charity.\r\n\r\n[[Website]](https://droplets.lol/)\r\n[[Discord]](https://discord.gg/droplets)"
+  "description": "A 6500 supply community driven NFT project, proud to support a clean water charity.\r\n\r\n[[Website]](https://droplets.lol/)\r\n[[Discord]](https://discord.gg/droplets)",
+  "erc721_symbol": "DRIP"
 }

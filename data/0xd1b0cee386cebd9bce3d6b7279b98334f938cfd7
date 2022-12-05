@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Kuroki Genesis",
   "imageUrl": "https://i.seadn.io/gae/lrQKzvsev6RbbZkIIFAeC19XuepkhGz8JuNjj7TbPYMcpwV0Y7trvWczFpRiNd3wmcb67NerT5WLJD0Lo_9aEPqr2lYlpjotSVsvbw?w=500&auto=format",
   "externalUrl": "https://www.kurokinft.com/",
   "discordUrl": "https://discord.gg/kuroki",
   "twitterUsername": "Kuroki_NFT",
-  "description": "Collection of **4,000** exclusively hand-drawn anime styled art NFTs\r\n\r\n**Kuroki NFT** grant holders an exclusive access to **The ROOFTOP**\r\n\r\nDiscover the Rooftop where web3 enthusiasts, artists, builders meet and hangout, together we will brainstorming, planning & building products as a part of the community journey."
+  "description": "Collection of **4,000** exclusively hand-drawn anime styled art NFTs\r\n\r\n**Kuroki NFT** grant holders an exclusive access to **The ROOFTOP**\r\n\r\nDiscover the Rooftop where web3 enthusiasts, artists, builders meet and hangout, together we will brainstorming, planning & building products as a part of the community journey.",
+  "erc721_symbol": "KUROKI"
 }

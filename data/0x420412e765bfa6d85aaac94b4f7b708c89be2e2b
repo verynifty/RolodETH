@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Brazilian Digital",
   "erc20_symbol": "BRZ",

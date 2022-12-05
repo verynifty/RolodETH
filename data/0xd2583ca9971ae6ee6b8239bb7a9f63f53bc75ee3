@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "CXGNUS GENESIS",
   "imageUrl": "https://i.seadn.io/gae/lAAE15bgDNy-Feoe_jCMqfrtrBnY7E2HbdagBmzV0Hw-5wtWgnqyR0DXiRcylsTLOwwTtfm3bbzKbO0xPB4VIq7gQk4E0B8vxExXJQ?w=500&auto=format",
   "externalUrl": "https://studiocxgnus.com",
   "twitterUsername": "cxgnusnft",
-  "description": "CXGNUS GENESIS is a 5,000 Anime NFT collection based on an original light novel where superhumans called ESPers exist. We are not just a brand, we create stories."
+  "description": "CXGNUS GENESIS is a 5,000 Anime NFT collection based on an original light novel where superhumans called ESPers exist. We are not just a brand, we create stories.",
+  "proxy": "0x2403fd54d8faf15d50c855c7896450249838c7fb"
 }

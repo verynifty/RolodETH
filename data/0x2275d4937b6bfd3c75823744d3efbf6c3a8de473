@@ -1,5 +1,10 @@
 {
   "tags": [
-    "art-goblers-minter"
-  ]
+    "art-goblers-minter",
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "GBR",
+  "erc20_decimals": 18,
+  "name": "Goober"
 }

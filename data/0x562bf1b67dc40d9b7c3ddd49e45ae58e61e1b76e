@@ -7,5 +7,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov"
-  ]
+  ],
+  "ens": "19931108.eth"
 }

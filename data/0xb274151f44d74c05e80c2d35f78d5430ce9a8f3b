@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "KOLO",
+  "erc20_decimals": 6,
+  "name": "KOLO Music"
+}

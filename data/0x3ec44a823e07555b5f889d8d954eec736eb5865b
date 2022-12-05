@@ -4,5 +4,6 @@
     "snapshot-voter-safe",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-ens"
-  ]
+  ],
+  "ens": "collinpixley.eth"
 }

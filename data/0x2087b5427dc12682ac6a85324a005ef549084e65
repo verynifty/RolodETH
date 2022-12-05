@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "hondacivicvm1375.eth"
 }

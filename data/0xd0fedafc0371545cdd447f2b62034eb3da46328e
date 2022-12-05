@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Head Spaces NFT",
   "imageUrl": "https://i.seadn.io/gae/ESGDchHq95wK4XeiLSeghgCeDooAp7TUWsXWDUq-6FcdUOY4C3W-Bd4GtxT1qjT8THeZ0OBMTR0aN65RoPkZ4nzdlTJJViGU_RvA?w=500&auto=format",
   "externalUrl": "http://headspacesnft.io",
   "discordUrl": "https://discord.gg/headspacesnft",
   "twitterUsername": "headspacesnft",
-  "description": "The Official Head Spaces Collection.\r\n\r\nMinting now at https://headspacesnft.io/mint\r\n\r\nThe project showcases intricate lines, a complex color palette, and a repeating, relatable theme - mental health. In a way that often words cannot represent, the artwork aims to depict different moods, emotions, and memories. Each scene opens a window for unique interpretation and connection."
+  "description": "The Official Head Spaces Collection.\r\n\r\nMinting now at https://headspacesnft.io/mint\r\n\r\nThe project showcases intricate lines, a complex color palette, and a repeating, relatable theme - mental health. In a way that often words cannot represent, the artwork aims to depict different moods, emotions, and memories. Each scene opens a window for unique interpretation and connection.",
+  "erc721_symbol": "HS"
 }

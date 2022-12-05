@@ -7,5 +7,6 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-swaprsnapshot",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "prabhupawar.eth"
 }

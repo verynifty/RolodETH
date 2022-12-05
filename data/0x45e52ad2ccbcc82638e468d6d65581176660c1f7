@@ -6,5 +6,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "48771.eth"
 }

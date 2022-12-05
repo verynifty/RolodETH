@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Show - oKmzUNZHjj",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ae1c0b29efae7ef6805bf4ebd9ced0bfd8346c867ecf1439754390ad2671f3eb8526faed249a21e39b75453b70453ec1912b1b5c1a17318d581b37723f343aefa5c3a0f3160ca8a0c8e21af35882a05746b7c2456ee8cf4b769106a5c4d89e5c85b814095bb3f3a4f43668518773bdb80e1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ae1c0b29efae7ef6805bf4ebd9ced0bfd8346c867ecf1439754390ad2671f3eb8526faed249a21e39b75453b70453ec1912b1b5c1a17318d581b37723f343aefa5c3a0f3160ca8a0c8e21af35882a05746b7c2456ee8cf4b769106a5c4d89e5c85b814095bb3f3a4f43668518773bdb80e1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ethlizards",
   "imageUrl": "https://i.seadn.io/gcs/files/480481337f49d629442adcffcbdc8c13.png?w=500&auto=format",
   "externalUrl": "https://ethlizards.io/",
   "discordUrl": "https://discord.gg/ethlizards",
   "twitterUsername": "ethlizards",
-  "description": "A collection of unique and glorious Ethlizards just vibin and chillin in their Underground Lounge.\n\n[Ethlizards Genesis Collection](https://opensea.io/collection/genesis-ethlizards-erc721) | [Ethlizards Honorary Collection](https://opensea.io/collection/honoraryethlizards) | [Website](https://www.ethlizards.io/) | [Discord](https://discord.com/invite/ethlizards) | [Twitter](https://twitter.com/ethlizards)\n\nThe Ethlizards is a collectors club with immense utility to back their status as pioneers in the emerging field of GameFi.\n\nAn Ethlizards grants the collector entry to our exclusive Underground Lounge and community where likeminded contributors discuss everything GameFi, collectables and Web3.\n\nCome hang out, enjoy the atmosphere and make your friends jealous. The lounge is always open to its venerated members."
+  "description": "A collection of unique and glorious Ethlizards just vibin and chillin in their Underground Lounge.\n\n[Ethlizards Genesis Collection](https://opensea.io/collection/genesis-ethlizards-erc721) | [Ethlizards Honorary Collection](https://opensea.io/collection/honoraryethlizards) | [Website](https://www.ethlizards.io/) | [Discord](https://discord.com/invite/ethlizards) | [Twitter](https://twitter.com/ethlizards)\n\nThe Ethlizards is a collectors club with immense utility to back their status as pioneers in the emerging field of GameFi.\n\nAn Ethlizards grants the collector entry to our exclusive Underground Lounge and community where likeminded contributors discuss everything GameFi, collectables and Web3.\n\nCome hang out, enjoy the atmosphere and make your friends jealous. The lounge is always open to its venerated members.",
+  "erc721_symbol": "LIZARD"
 }

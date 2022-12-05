@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "OMG Network: Boba Gateway"
+  "name": "OMG Network: Boba Gateway",
+  "proxy": "0xaf41c681143cb91f218959375f4452a604504833"
 }

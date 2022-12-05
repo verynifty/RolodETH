@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bit Monsters NFT",
   "imageUrl": "https://i.seadn.io/gae/mzbYZUGmjgq3ncPZYQhjwaIzDAeAGtAI8Ug82BXxM8Db3I0YIjgFttuIJeQQHauVII5q6jRLzZSiSSUUgqQu_MLTm9d7hPo9f74-1A?w=500&auto=format",
   "externalUrl": "https://bitmonsters.io/",
   "discordUrl": "https://discord.gg/Wk77azYrsu",
   "twitterUsername": "bit_monsters",
-  "description": "6666 Bit Monsters randomly generated and stored 100% on the Ethereum Blockchain\n\nIn the year 6666, the world is on the brink of collapse. \nTensions between the two global powers spill over, and the Atomicans war arrives.\nThe glow from first bombs light up the Halloween sky. The survivors of the initial blast are left disfigured in their costumes. Humanity is lost, and the Bit Monsters rise from the ashes as evolutions next derivative."
+  "description": "6666 Bit Monsters randomly generated and stored 100% on the Ethereum Blockchain\n\nIn the year 6666, the world is on the brink of collapse. \nTensions between the two global powers spill over, and the Atomicans war arrives.\nThe glow from first bombs light up the Halloween sky. The survivors of the initial blast are left disfigured in their costumes. Humanity is lost, and the Bit Monsters rise from the ashes as evolutions next derivative.",
+  "erc721_symbol": "💰🧟"
 }

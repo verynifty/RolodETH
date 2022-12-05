@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "The Industry Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/6bb916c3ce2f2882180e3f61fdf974d9.png?w=500&auto=format",
   "externalUrl": "https://theindustry.restaurant",
   "discordUrl": "https://discord.gg/invite/rfvvuDnPG5",
   "twitterUsername": "GoDevour",
-  "description": "VIP Rewards NFT collection connecting restaurants and their guests! Access to unique web3 dining experiences, while honoring the people who power the Industry."
+  "description": "VIP Rewards NFT collection connecting restaurants and their guests! Access to unique web3 dining experiences, while honoring the people who power the Industry.",
+  "proxy": "0xf86de7d2d982948e5179c39e5ff1b91434eb9f96"
 }

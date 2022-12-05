@@ -6,5 +6,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "coinbridge.eth"
 }

@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Wonder - zsyZ9X7dQs",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62f505b40e1ee0bfccf025f257ecc3b241a8ed49b52f5e9b1708b0c17fc774874f1bd0b4afa77be43956d2c973d1473b325655c56f8fad7216c5cf9d4476a03adf41597bb2be3ede09826491792f632e882160445a6319d691f6ec7ef9dd3d1e59a1b78776b10eb68514de0f39e1c9c8f4"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62f505b40e1ee0bfccf025f257ecc3b241a8ed49b52f5e9b1708b0c17fc774874f1bd0b4afa77be43956d2c973d1473b325655c56f8fad7216c5cf9d4476a03adf41597bb2be3ede09826491792f632e882160445a6319d691f6ec7ef9dd3d1e59a1b78776b10eb68514de0f39e1c9c8f4",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

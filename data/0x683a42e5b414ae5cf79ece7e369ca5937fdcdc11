@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "meebit-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmdao"
   ],
   "ens": "daffyduck.eth"
 }

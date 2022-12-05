@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "snapshot-voter-metabrewsociety"
-  ]
+  ],
+  "ens": "0xnoise.eth"
 }

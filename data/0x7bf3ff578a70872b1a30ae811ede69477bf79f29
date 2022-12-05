@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gatsby Tools",
   "imageUrl": "https://i.seadn.io/gcs/files/d71f6d02470f55f1ee40ef297363bf19.jpg?w=500&auto=format",
   "externalUrl": "https://app.gatsbytool.com",
   "discordUrl": "https://discord.gg/FDTC98FbS9",
   "twitterUsername": "GatsbyTools",
-  "description": "Gatsby is the ultimate NFT toolbox, containing everything you need for both analytics and automation.\n\nMinting Oct 18 3pm UTC: https://mint.gatsbytool.com\n\nIn one platform, you'll get access to:\n• **Real-time data and analytics graphs**\n• **Ultra-fast automated sniper** that auto checks out NFTs faster than any quick buyer\n• **Fast private node** (created by the Gatsby team)\n• Automatic **multi-wallet mint bot**\n• **Quick task** minting mode\n• **Pending Transactions** and **Smart Gas**\n• Mass Wallet Creation\n• Gas-efficient ETH and NFT **mass transfer**\n• Multiple modes for minting (**Flip State** included)\n• **Surge**: Your own **algorithm-driven** alpha caller\n• **Vision**: Twitter sentiment analytics powered by **AI** (coming soon)\n• **Lighthouse**: Full market condition overview graphs and feeds\n\nTranscend the competition today, choose Gatsby.\n\nRead more at: https://docs.gatsbytool.com\nAccess at: https://app.gatsbytool.com"
+  "description": "Gatsby is the ultimate NFT toolbox, containing everything you need for both analytics and automation.\n\nMinting Oct 18 3pm UTC: https://mint.gatsbytool.com\n\nIn one platform, you'll get access to:\n• **Real-time data and analytics graphs**\n• **Ultra-fast automated sniper** that auto checks out NFTs faster than any quick buyer\n• **Fast private node** (created by the Gatsby team)\n• Automatic **multi-wallet mint bot**\n• **Quick task** minting mode\n• **Pending Transactions** and **Smart Gas**\n• Mass Wallet Creation\n• Gas-efficient ETH and NFT **mass transfer**\n• Multiple modes for minting (**Flip State** included)\n• **Surge**: Your own **algorithm-driven** alpha caller\n• **Vision**: Twitter sentiment analytics powered by **AI** (coming soon)\n• **Lighthouse**: Full market condition overview graphs and feeds\n\nTranscend the competition today, choose Gatsby.\n\nRead more at: https://docs.gatsbytool.com\nAccess at: https://app.gatsbytool.com",
+  "erc721_symbol": "GTP"
 }

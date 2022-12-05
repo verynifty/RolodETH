@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Retros Official",
   "imageUrl": "https://i.seadn.io/gcs/files/54a26a508c8b2536d45fa7f09f3b5ec3.jpg?w=500&auto=format",
   "externalUrl": "https://theretros.xyz/",
   "discordUrl": "https://discord.gg/fA6Bysgpjn",
   "twitterUsername": "TheRetrosNFT",
-  "description": "The Retros - we're still the kids we used to be\r\n\r\n6969 CC0 Retros consisting of 112 nostalgic traits\r\n\r\nHere to bring you nostalgia from a simpler time..!"
+  "description": "The Retros - we're still the kids we used to be\r\n\r\n6969 CC0 Retros consisting of 112 nostalgic traits\r\n\r\nHere to bring you nostalgia from a simpler time..!",
+  "erc721_symbol": "TRTROS"
 }

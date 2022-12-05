@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "American Shiba: Deployer"
+  "name": "American Shiba: Deployer",
+  "ens": "reviveofsiberianhusky.eth"
 }

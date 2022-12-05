@@ -13,5 +13,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "tx798.eth"
 }

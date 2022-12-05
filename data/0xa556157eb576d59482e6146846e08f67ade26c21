@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "wackies",
   "imageUrl": "https://i.seadn.io/gae/L9DNi-epHk-WUhbX0alw8nxg3B3jBgJOnis4vhUh9fmmh_Yv5XkRL_tvG8TlqJ-fMl3uJqTOaN8iJptpeMxBriZ5sw4sWp2-Pr-Gbg?w=500&auto=format",
   "externalUrl": "http://wackies.io",
   "twitterUsername": "camilleachiang",
-  "description": "MINTING NOW: https://wackies.io/\nfor 0.08\n\nWackies is an animated generative version of her portrait art with a supply of 1000 unique pieces. Each piece symbolizes Camille's journey and expression of identity through art. Alongside the collection, Camille's company WACK! is a brand on and off of web3."
+  "description": "MINTING NOW: https://wackies.io/\nfor 0.08\n\nWackies is an animated generative version of her portrait art with a supply of 1000 unique pieces. Each piece symbolizes Camille's journey and expression of identity through art. Alongside the collection, Camille's company WACK! is a brand on and off of web3.",
+  "erc721_symbol": "WACK"
 }

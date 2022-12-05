@@ -3,5 +3,6 @@
     "moonbird-minter",
     "goblin-town-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "pugnft.eth"
 }

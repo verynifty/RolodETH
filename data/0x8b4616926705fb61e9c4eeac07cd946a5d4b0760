@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Luchadores.io",
   "imageUrl": "https://i.seadn.io/gae/wOCA1qNThueuf__jy7o4I4f1SbCSYskWzpaADbwlmDxMexDVxhyP96jRAuS1A3to7Yeu-IOhfOoedAZTStojV5D4-ITwDOC4pBxr?w=500&auto=format",
   "externalUrl": "http://luchadores.io",
   "discordUrl": "https://discord.gg/luchadores",
   "twitterUsername": "LuchadoresNFT",
-  "description": "Luchadores are 100% on-chain and were generated using Chainlink VRF.\nHolding a Luchador provides a daily $LUCHA yield and alpha access to the P2E auto battler being built on Polygon.\nName your fighter and customise stats, skills and wearables to win fights and earn $LUCHA!\n\n[Piñatas](https://opensea.io/collection/luchadores-io-pinatas) | [Wearables](https://opensea.io/collection/luchadores-io-wearables)"
+  "description": "Luchadores are 100% on-chain and were generated using Chainlink VRF.\nHolding a Luchador provides a daily $LUCHA yield and alpha access to the P2E auto battler being built on Polygon.\nName your fighter and customise stats, skills and wearables to win fights and earn $LUCHA!\n\n[Piñatas](https://opensea.io/collection/luchadores-io-pinatas) | [Wearables](https://opensea.io/collection/luchadores-io-wearables)",
+  "erc721_symbol": "LUCHADORES"
 }

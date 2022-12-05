@@ -10,5 +10,6 @@
   "externalUrl": "http://dourdarcels.io",
   "discordUrl": "https://discord.gg/dourdarcels",
   "twitterUsername": "DourDarcelsNFT",
-  "description": "Dour Darcels are a collection of 10,000 moody frens from the world of Darcel Disappoints. Randomly generated and carefully curated, every Darcel is individual and unique – just like frens IRL. Each Darcel is a NFT that lives on the Ethereum blockchain and is the key to the Dour Darcels community.\r\nhttps://dourdarcels.io"
+  "description": "Dour Darcels are a collection of 10,000 moody frens from the world of Darcel Disappoints. Randomly generated and carefully curated, every Darcel is individual and unique – just like frens IRL. Each Darcel is a NFT that lives on the Ethereum blockchain and is the key to the Dour Darcels community.\r\nhttps://dourdarcels.io",
+  "erc721_symbol": "DARCEL"
 }

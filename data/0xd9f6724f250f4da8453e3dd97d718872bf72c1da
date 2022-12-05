@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "FTTC",
+  "erc20_decimals": 18,
+  "name": "FTX Classic"
+}

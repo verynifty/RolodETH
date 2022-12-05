@@ -6,5 +6,6 @@
     "cryptoadz-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "brazy.eth"
 }

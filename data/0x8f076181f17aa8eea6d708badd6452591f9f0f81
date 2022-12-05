@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Out of bounds V2",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a5daae456811e4446ba560e2a0d7a57a78a50d8e0084f1b8c3cefc9982fd6041db71ba569bfcbd2ae96f3a3d6b4b1b51dc14d60bd076daeaa2a7ff9651c200d8335e403e743e51b8f7576ae90e658a1a25c93454760edf06801d023252138fb07d3aef2e38bc694e96331034ed0d4247323c5e4198f99eda3f3b783c3322e8c56"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a5daae456811e4446ba560e2a0d7a57a78a50d8e0084f1b8c3cefc9982fd6041db71ba569bfcbd2ae96f3a3d6b4b1b51dc14d60bd076daeaa2a7ff9651c200d8335e403e743e51b8f7576ae90e658a1a25c93454760edf06801d023252138fb07d3aef2e38bc694e96331034ed0d4247323c5e4198f99eda3f3b783c3322e8c56",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }
