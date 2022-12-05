@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-temp-metricsdao",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "ananth.eth"
 }

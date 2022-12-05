@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "SharedStake: Deployer 1"
+  "name": "SharedStake: Deployer 1",
+  "ens": "sharedstake.eth"
 }

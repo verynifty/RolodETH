@@ -4,5 +4,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "yuppie.eth"
 }

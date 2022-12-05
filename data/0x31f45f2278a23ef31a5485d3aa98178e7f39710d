@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-eulerdao",
     "snapshot-voter-gauge-rbn"
-  ]
+  ],
+  "ens": "nikitamashkov.eth"
 }

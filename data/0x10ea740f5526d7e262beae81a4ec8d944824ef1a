@@ -4,5 +4,6 @@
     "doodle-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "alexhsu.eth"
 }

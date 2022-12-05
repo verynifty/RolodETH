@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CAR by SHL0MS",
   "imageUrl": "https://i.seadn.io/gae/rjZcSOd9majUhfifKlKFZ0av5dZVKc6XJNDaCY7FSJO1_GwJeigf6NVPTUwQA4Pj0os1gzEB7YlqAqeEU7f4-mB2rzhZnYyiKMp_?w=500&auto=format",
   "externalUrl": "https://car.shl0ms.com/",
   "twitterUsername": "SHL0MS",
-  "description": "[𝟿𝟿𝟿 𝚎𝚡𝚚𝚞𝚒𝚜𝚒𝚝𝚎𝚕𝚢 𝚏𝚒𝚕𝚖𝚎𝚍 𝚏𝚛𝚊𝚐𝚖𝚎𝚗𝚝𝚜 𝚘𝚏 𝚊 𝚍𝚎𝚝𝚘𝚗𝚊𝚝𝚎𝚍 𝙻𝚊𝚖𝚋𝚘𝚛𝚐𝚑𝚒𝚗𝚒.](https://twitter.com/SHL0MS/status/1494446592463720448)\r\n\r\nᴛʜᴇ $ᴄᴀʀ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ᴀ ᴡᴏʀᴋ ᴏꜰ ᴄᴏɴᴄᴇᴘᴛᴜᴀʟ ᴀʀᴛ ᴀɴᴅ ɪꜱ ɴᴇɪᴛʜᴇʀ ᴀꜰꜰɪʟɪᴀᴛᴇᴅ, ᴀꜱꜱᴏᴄɪᴀᴛᴇᴅ, ᴀᴜᴛʜᴏʀɪᴢᴇᴅ, ᴇɴᴅᴏʀꜱᴇᴅ ʙʏ, ᴏʀ ɪɴ ᴀɴʏ ᴡᴀʏ ᴏꜰꜰɪᴄɪᴀʟʟʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ ᴀᴜᴛᴏᴍᴏʙɪʟɪ ʟᴀᴍʙᴏʀɢʜɪɴɪ ꜱ.ᴘ.ᴀ., ᴀᴜᴅɪ ᴀɢ, ᴏʀ ᴛʜᴇ ᴠᴏʟᴋꜱᴡᴀɢᴇɴ ɢʀᴏᴜᴘ."
+  "description": "[𝟿𝟿𝟿 𝚎𝚡𝚚𝚞𝚒𝚜𝚒𝚝𝚎𝚕𝚢 𝚏𝚒𝚕𝚖𝚎𝚍 𝚏𝚛𝚊𝚐𝚖𝚎𝚗𝚝𝚜 𝚘𝚏 𝚊 𝚍𝚎𝚝𝚘𝚗𝚊𝚝𝚎𝚍 𝙻𝚊𝚖𝚋𝚘𝚛𝚐𝚑𝚒𝚗𝚒.](https://twitter.com/SHL0MS/status/1494446592463720448)\r\n\r\nᴛʜᴇ $ᴄᴀʀ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ᴀ ᴡᴏʀᴋ ᴏꜰ ᴄᴏɴᴄᴇᴘᴛᴜᴀʟ ᴀʀᴛ ᴀɴᴅ ɪꜱ ɴᴇɪᴛʜᴇʀ ᴀꜰꜰɪʟɪᴀᴛᴇᴅ, ᴀꜱꜱᴏᴄɪᴀᴛᴇᴅ, ᴀᴜᴛʜᴏʀɪᴢᴇᴅ, ᴇɴᴅᴏʀꜱᴇᴅ ʙʏ, ᴏʀ ɪɴ ᴀɴʏ ᴡᴀʏ ᴏꜰꜰɪᴄɪᴀʟʟʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ ᴀᴜᴛᴏᴍᴏʙɪʟɪ ʟᴀᴍʙᴏʀɢʜɪɴɪ ꜱ.ᴘ.ᴀ., ᴀᴜᴅɪ ᴀɢ, ᴏʀ ᴛʜᴇ ᴠᴏʟᴋꜱᴡᴀɢᴇɴ ɢʀᴏᴜᴘ.",
+  "erc721_symbol": "CAR"
 }

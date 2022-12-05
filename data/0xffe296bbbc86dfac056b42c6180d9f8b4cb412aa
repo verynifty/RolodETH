@@ -4,5 +4,6 @@
     "bayc-minter",
     "snapshot-voter-rugcommunity",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "absolutely.eth"
 }

@@ -2,5 +2,6 @@
   "tags": [
     "azuki-minter",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "kocham.eth"
 }

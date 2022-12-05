@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "JPunks: OG-Rex",
   "imageUrl": "https://i.seadn.io/gae/4nxlfHPvdUE2TJiHK1VnnLwamTbn6isMPfhASY5wBjttHL2YctD0Po0f8l_fPTr0-EoIQ_OEKGjiF7DmsllSo9Ds8gygs3vnPZn4Wg?w=500&auto=format",
   "externalUrl": "https://www.jurassicpunks.io/",
   "discordUrl": "https://discord.gg/jurassicpunks",
   "twitterUsername": "JPunksNFT",
-  "description": "65 million years ago, an asteroid rocketed towards Earth, an extinction-level event destined to wipe out an entire species… But it missed.\r\n\r\nLeft to thrive, the dinosaurs evolved into the Jurassic Punks, a 3D misfit group of characters who are now the dominant species in the Metaverse, with the 7777 OG-REX leading the way.\r\n\r\nJurassic Punks is a one-of-a-kind 3D generative NFT collection from professional VFX studio Meta-Labs. Built in Unreal Engine 5, utilizing state-of-the-art film quality Motion Capture to bring your metaverse ready NFTs to life, onto your screen and Digital Fashion show.\r\n\r\nNFTs Evolved!"
+  "description": "65 million years ago, an asteroid rocketed towards Earth, an extinction-level event destined to wipe out an entire species… But it missed.\r\n\r\nLeft to thrive, the dinosaurs evolved into the Jurassic Punks, a 3D misfit group of characters who are now the dominant species in the Metaverse, with the 7777 OG-REX leading the way.\r\n\r\nJurassic Punks is a one-of-a-kind 3D generative NFT collection from professional VFX studio Meta-Labs. Built in Unreal Engine 5, utilizing state-of-the-art film quality Motion Capture to bring your metaverse ready NFTs to life, onto your screen and Digital Fashion show.\r\n\r\nNFTs Evolved!",
+  "erc721_symbol": "OGREX"
 }

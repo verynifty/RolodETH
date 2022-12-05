@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "goblin-town-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tokenlauncher.eth"
 }
