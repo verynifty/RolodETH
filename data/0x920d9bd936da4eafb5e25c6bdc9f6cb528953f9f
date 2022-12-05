@@ -1,6 +1,9 @@
 {
   "tags": [
-    "abracadabra-money"
+    "abracadabra-money",
+    "contract",
+    "proxy"
   ],
-  "name": "Abracadabra.Money: yvWETH v2 Market"
+  "name": "Abracadabra.Money: yvWETH v2 Market",
+  "proxy": "0x63905bb681b9e68682f392df2b22b7170f78d300"
 }

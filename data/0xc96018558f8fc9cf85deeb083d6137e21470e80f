@@ -2,5 +2,6 @@
   "tags": [
     "bayc-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "bhs.grillz.eth"
 }

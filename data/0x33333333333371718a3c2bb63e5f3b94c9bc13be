@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SAN Origin",
   "imageUrl": "https://i.seadn.io/gae/0Foe4yssdIPOMhk40E4fgrwViERyCUAGoAhPXa4QVFbWyaUR4pL5IcUU7RYvtBojiDn5OZqLZEb885oNmpFor-RRFdtOIobLw0aUSw?w=500&auto=format",
   "externalUrl": "https://sansound.io/",
   "discordUrl": "https://discord.gg/san",
   "twitterUsername": "SanSound3",
-  "description": "The SAN Origin NFT collection is a series of 10,000 access tokens, illustrated by Cromagnus.\r\n\r\nThe platform that the SAN ecosystem is centered around, “SAN Sound,” comprises a novel approach to the radio streaming model where subscribers must own and Soulbind their SAN Origin NFT to gain login access. Additional access perks include entry to global SAN music events and limited-edition collectibles, such as audio hardware, physical art, and fashion apparel.\r\n\r\nSAN is a music-centric ecosystem dedicated to transforming access and experiences for new musicians and their fans. Combining art, fashion, live events, hardware, and music streaming with bleeding-edge applications of privacy, security, and governance technologies, the SAN ecosystem is an environment where artists will build and amplify their brands in novel ways.\r\n\r\nLearn more at [sansound.io](https://sansound.io/)."
+  "description": "The SAN Origin NFT collection is a series of 10,000 access tokens, illustrated by Cromagnus.\r\n\r\nThe platform that the SAN ecosystem is centered around, “SAN Sound,” comprises a novel approach to the radio streaming model where subscribers must own and Soulbind their SAN Origin NFT to gain login access. Additional access perks include entry to global SAN music events and limited-edition collectibles, such as audio hardware, physical art, and fashion apparel.\r\n\r\nSAN is a music-centric ecosystem dedicated to transforming access and experiences for new musicians and their fans. Combining art, fashion, live events, hardware, and music streaming with bleeding-edge applications of privacy, security, and governance technologies, the SAN ecosystem is an environment where artists will build and amplify their brands in novel ways.\r\n\r\nLearn more at [sansound.io](https://sansound.io/).",
+  "erc721_symbol": "SAN"
 }
