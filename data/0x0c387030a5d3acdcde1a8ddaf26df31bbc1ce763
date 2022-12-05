@@ -6,5 +6,6 @@
     "snapshot-voter-paraswap-dao",
     "opensea-user",
     "snapshot-voter-unslashed"
-  ]
+  ],
+  "ens": "pathak.eth"
 }

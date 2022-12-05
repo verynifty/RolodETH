@@ -4,5 +4,6 @@
     "doodle-minter",
     "coolcat-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "slomeleon.eth"
 }

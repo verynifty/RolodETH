@@ -4,5 +4,7 @@
     "contract",
     "erc20"
   ],
-  "name": "Kuma Inu: Old KUMA Token"
+  "name": "Kuma Inu: Old KUMA Token",
+  "erc20_symbol": "KUMA",
+  "erc20_decimals": 18
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pirates Of ETH",
   "imageUrl": "https://i.seadn.io/gcs/files/045e5c683c8843a1c54f78eee0b82972.png?w=500&auto=format",
-  "twitterUsername": "piratesofeth"
+  "twitterUsername": "piratesofeth",
+  "erc721_symbol": "PETH"
 }

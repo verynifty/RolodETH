@@ -7,5 +7,6 @@
     "snapshot-voter-derify",
     "snapshot-voter-gmx",
     "snapshot-voter-truefigov"
-  ]
+  ],
+  "ens": "pafaudio.eth"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "http://retropandas.com",
   "discordUrl": "https://discord.gg/retropandas",
   "twitterUsername": "Retro_PandasNFT",
-  "description": "Retro Pandas is a community driven project built by members of a rugged NFT project. It is a true rise from the ashes, “Phoenix Project.” \n\nThe collection consists of 3000 unique Retro Pandas with their own unique traits.  While the majority of Ethereum based NFT projects include rarity within their projects to entice minting, we opted to focus on evolving utility. "
+  "description": "Retro Pandas is a community driven project built by members of a rugged NFT project. It is a true rise from the ashes, “Phoenix Project.” \n\nThe collection consists of 3000 unique Retro Pandas with their own unique traits.  While the majority of Ethereum based NFT projects include rarity within their projects to entice minting, we opted to focus on evolving utility. ",
+  "erc721_symbol": "RetroPandas"
 }

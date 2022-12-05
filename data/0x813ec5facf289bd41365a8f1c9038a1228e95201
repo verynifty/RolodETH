@@ -4,5 +4,6 @@
     "bayc-minter",
     "meebit-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "manfree.eth"
 }

@@ -2,11 +2,13 @@
   "tags": [
     "nft",
     "opensea-verified",
-    "contract"
+    "contract",
+    "erc721"
   ],
   "name": "Frenly Pandas",
   "imageUrl": "https://i.seadn.io/gcs/files/dcef873ec0542a35478c7b3ae53a92a1.gif?w=500&auto=format",
   "externalUrl": "https://frenlypandas.org",
   "twitterUsername": "frenlypandas",
-  "description": "Our Mission – Make the world even Frenlier using cutting edge technology to create more meaningful connections.\n\nThe Frenly Pandas consist of 10k uniquely and randomly generated NFTs on the Ethereum Blockchain.\n\nAs Frenly Pandas, we believe in “Hugs not Rugs”! We have a passion for Positivity, trust the power of Mindfulness, grow by Giving, and achieve by Participating.\n\nIf you are interested in learning more about our history and where we are headed, please visit our website. If you are wanting to be a part of the finest Web3 Embarrasment in all the World, please purchase a Panda from our verified collection on OpenSea."
+  "description": "Our Mission – Make the world even Frenlier using cutting edge technology to create more meaningful connections.\n\nThe Frenly Pandas consist of 10k uniquely and randomly generated NFTs on the Ethereum Blockchain.\n\nAs Frenly Pandas, we believe in “Hugs not Rugs”! We have a passion for Positivity, trust the power of Mindfulness, grow by Giving, and achieve by Participating.\n\nIf you are interested in learning more about our history and where we are headed, please visit our website. If you are wanting to be a part of the finest Web3 Embarrasment in all the World, please purchase a Panda from our verified collection on OpenSea.",
+  "erc721_symbol": "FANDAS"
 }
