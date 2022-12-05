@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Nexus Tools Pass",
   "imageUrl": "https://i.seadn.io/gcs/files/3e0f8cfcdc4b34caaf9440e6f2862252.png?w=500&auto=format",
   "externalUrl": "https://docs.nexustools.io/",
   "discordUrl": "https://discord.gg/aPBRwBYJUP",
   "twitterUsername": "NexusToolsNFT",
-  "description": "The absolute best tool in your arsenal for monitoring mints in real-time, getting the analytics you need and minting from multiple wallets. In addition, all holders get access to a FREE node and portfolio manager\n\n**Supports Desktop and Mobile**\n\n[Docs](https://docs.nexustools.io/) | [App](https://beta.nexustools.io/)"
+  "description": "The absolute best tool in your arsenal for monitoring mints in real-time, getting the analytics you need and minting from multiple wallets. In addition, all holders get access to a FREE node and portfolio manager\n\n**Supports Desktop and Mobile**\n\n[Docs](https://docs.nexustools.io/) | [App](https://beta.nexustools.io/)",
+  "erc721_symbol": "NEXUS"
 }

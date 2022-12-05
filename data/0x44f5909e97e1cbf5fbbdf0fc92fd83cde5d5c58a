@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ACRIA",
+  "erc20_decimals": 18,
+  "name": "Acria Token"
+}

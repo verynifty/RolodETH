@@ -6,5 +6,6 @@
     "mayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "vvd.eth"
 }

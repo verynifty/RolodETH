@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-krausehouse",
     "snapshot-voter-sushigov"
-  ]
+  ],
+  "ens": "ltcapital.eth"
 }

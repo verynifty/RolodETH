@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "leo10.eth"
 }

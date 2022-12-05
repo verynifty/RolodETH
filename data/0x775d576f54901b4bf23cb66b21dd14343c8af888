@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Looking Glass by ATSNFT",
   "imageUrl": "https://i.seadn.io/gae/G7b7j_rS5w40Vpe4QxPIvbv6cX30jU1d9bCxYcVpn_n-RrNZ36WuCXjSBT3oI38QOHHX5eYW63NJro3cxCkj31hCaiyuVtjau8PC?w=500&auto=format",
   "externalUrl": "http://atsnft.io",
   "discordUrl": "https://discord.gg/atsnft",
   "twitterUsername": "ATSNFT",
-  "description": "Looking Glass by ATSNFT is a collection of nano bananas to be airdropped to all Apes Together Strong holders purchased prior to 04/30/2022. Consume and enter the Looking Glass at your own risk. Instructions to follow at a later date."
+  "description": "Looking Glass by ATSNFT is a collection of nano bananas to be airdropped to all Apes Together Strong holders purchased prior to 04/30/2022. Consume and enter the Looking Glass at your own risk. Instructions to follow at a later date.",
+  "erc721_symbol": "BANANA"
 }

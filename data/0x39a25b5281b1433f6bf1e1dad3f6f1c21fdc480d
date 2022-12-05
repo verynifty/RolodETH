@@ -5,5 +5,6 @@
     "otherdeed-minter",
     "snapshot-voter-apecoin",
     "opensea-user"
-  ]
+  ],
+  "ens": "bryte.eth"
 }

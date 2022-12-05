@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Pop Art Specials",
   "imageUrl": "https://i.seadn.io/gae/lrB7SS2lKrWipQ7-dHyRIyiOr_taPcoppUbGl-65wM3FVySOlR6DX-c-7J4ZH5rbMdkadhj-DqXds6WViznM2kpylOe-GYPqQAYvTg?w=500&auto=format",
   "externalUrl": "https://popartcats.xyz/",
   "discordUrl": "https://discord.gg/V6xgFe9U77",
   "twitterUsername": "popartcats",
-  "description": "Pop Art Specials is a collection of artworks featuring Pop Art Cats. This collection contains artworks created by Matt Chessco as well as the Pop Art Cats community members. "
+  "description": "Pop Art Specials is a collection of artworks featuring Pop Art Cats. This collection contains artworks created by Matt Chessco as well as the Pop Art Cats community members. ",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

@@ -4,5 +4,6 @@
     "moonbird-minter",
     "doodle-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "wilxlee.eth"
 }

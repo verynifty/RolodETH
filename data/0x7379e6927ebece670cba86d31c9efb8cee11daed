@@ -10,5 +10,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "warpx.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Critters-Town NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/d7410db3f292e586b1617141706bf06e.gif?w=500&auto=format",
   "externalUrl": "https://critterstown.xyz",
   "twitterUsername": "critterstownnft",
-  "description": "7777 Critters are back on Earth to wreck havoc! Only a smart group of humans can now save our beloved home. Are you one of them?"
+  "description": "7777 Critters are back on Earth to wreck havoc! Only a smart group of humans can now save our beloved home. Are you one of them?",
+  "erc721_symbol": "CrittersTown"
 }

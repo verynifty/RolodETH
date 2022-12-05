@@ -3,5 +3,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "The Banksters: Deployer"
+  "name": "The Banksters: Deployer",
+  "ens": "thebanksters.eth"
 }

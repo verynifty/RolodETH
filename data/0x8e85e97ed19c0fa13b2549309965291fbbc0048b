@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "sfrxETH-stETH-rETH-BPT",
+  "erc20_decimals": 18,
+  "name": "sfrxETH-stETH-rETH StablePool"
+}

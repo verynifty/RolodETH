@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Lunartics",
   "imageUrl": "https://i.seadn.io/gae/8m0XIbJqp1R35HpHBxg6O8wtyCsK9rhcI-9a8CNh78DiYJPL3O_s5NQdUUA8y9Ew_dNxWx5lCDzu-nubzrHnNnAbMQ64x6UMEUCf95k?w=500&auto=format",
   "externalUrl": "https://thelunartics.com",
   "discordUrl": "https://discord.gg/lunartics",
   "twitterUsername": "The_Lunartics",
-  "description": "[Lunartics](https://thelunartics.com) is a fantastically playful launch of 10,000 NFTs destined to become the next great animated series created by Animation legend Julius Preite (Simpsons, Family Guy) and notorious Writer/Producer Dan E. Fesman (King of Queens, NCIS). Armed with tiny bodies and even tinier minds, Lunartics have been making desperate attempts to Moon It since 1969 when Neil Armstrong unwittingly ripped them away from their home.\r\n\r\nEach season launches new animations of the Lunartics' most futile and embarrassing moon missions over the past 50 years. Lunartics holders can vote on upcoming missions and help shape the series! Their character may even pop up in a future episode.  Go behind the scenes with 2 industry insiders, rub shoulders with an exclusive community of creators and animators, and be a part of the next big bang when blockchain technology converges with the world of entertainment!"
+  "description": "[Lunartics](https://thelunartics.com) is a fantastically playful launch of 10,000 NFTs destined to become the next great animated series created by Animation legend Julius Preite (Simpsons, Family Guy) and notorious Writer/Producer Dan E. Fesman (King of Queens, NCIS). Armed with tiny bodies and even tinier minds, Lunartics have been making desperate attempts to Moon It since 1969 when Neil Armstrong unwittingly ripped them away from their home.\r\n\r\nEach season launches new animations of the Lunartics' most futile and embarrassing moon missions over the past 50 years. Lunartics holders can vote on upcoming missions and help shape the series! Their character may even pop up in a future episode.  Go behind the scenes with 2 industry insiders, rub shoulders with an exclusive community of creators and animators, and be a part of the next big bang when blockchain technology converges with the world of entertainment!",
+  "erc721_symbol": "LUNARTICS"
 }

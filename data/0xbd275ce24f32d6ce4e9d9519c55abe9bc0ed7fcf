@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BYOPill",
   "imageUrl": "https://i.seadn.io/gae/zhCC9jZrj9037Ex59PZBS1ABu8wAhWc-K-VkaTN5QRM2lfi-8e2e93VJvXO6iXZlbGzxpNQ4TRAK9aNrN61E8wp5C7zA5qjWyozm3w?w=500&auto=format",
   "externalUrl": "https://byopills.com",
   "discordUrl": "https://discord.gg/byopills",
   "twitterUsername": "BYOPills",
-  "description": "The first consumable of the Metaverse – providing holders power-ups or visual experiences\r\nacross different worlds while acting as a key for future drops.\r\n\r\nLink to Apostles: [Apostles: Genesis](https://opensea.io/collection/apostles-genesis) <br />\r\nLink to BYOLand: [BYOLand](https://opensea.io/collection/byoland) <br />\r\nLink to BYOKey: [BYOKey](https://opensea.io/collection/byokey) <br />\r\nLink to BYOVape: [BYOVape](https://opensea.io/collection/byovape)"
+  "description": "The first consumable of the Metaverse – providing holders power-ups or visual experiences\r\nacross different worlds while acting as a key for future drops.\r\n\r\nLink to Apostles: [Apostles: Genesis](https://opensea.io/collection/apostles-genesis) <br />\r\nLink to BYOLand: [BYOLand](https://opensea.io/collection/byoland) <br />\r\nLink to BYOKey: [BYOKey](https://opensea.io/collection/byokey) <br />\r\nLink to BYOVape: [BYOVape](https://opensea.io/collection/byovape)",
+  "erc721_symbol": "BYOPILL"
 }

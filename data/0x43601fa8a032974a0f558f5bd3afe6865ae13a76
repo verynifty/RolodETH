@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "empirev.eth"
 }

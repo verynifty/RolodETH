@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetroGrad Gen.1",
   "imageUrl": "https://i.seadn.io/gcs/files/5ff4678d68bd5d9a73b9eb22c5ed1ce6.jpg?w=500&auto=format",
   "discordUrl": "https://discord.gg/YfaWXAwntv",
   "twitterUsername": "MetroGradNFT",
-  "description": "*Together we rise from the underground. Together we are MetroGrad.*\r\nIn order to unlock all the holder benefits - stake at:\r\nhttps://metrogradnft.io/stake-gen1\r\n\r\nCollection of 333 survivors, providing:\r\n\r\n- 1) One of the fastest private nodes: MetroNode (powered by TrippyNode) \r\n- 2) FlavaTools extension\r\n- 3) NFT Sensei toolkit\r\n- 4) TinyAstro Analytics platform\r\n- 5) AlphaHQ tools\r\n- 6) Exclusive giveaways & Access to alpha channels\r\n- 7) Free access to all the products/collections MetroGrad will ever produce\r\n- 8) Much more to come as we move forward\r\n\r\nMore detailed info in our server:\r\nhttps://discord.gg/metrograd\r\n\r\n**Join us!**"
+  "description": "*Together we rise from the underground. Together we are MetroGrad.*\r\nIn order to unlock all the holder benefits - stake at:\r\nhttps://metrogradnft.io/stake-gen1\r\n\r\nCollection of 333 survivors, providing:\r\n\r\n- 1) One of the fastest private nodes: MetroNode (powered by TrippyNode) \r\n- 2) FlavaTools extension\r\n- 3) NFT Sensei toolkit\r\n- 4) TinyAstro Analytics platform\r\n- 5) AlphaHQ tools\r\n- 6) Exclusive giveaways & Access to alpha channels\r\n- 7) Free access to all the products/collections MetroGrad will ever produce\r\n- 8) Much more to come as we move forward\r\n\r\nMore detailed info in our server:\r\nhttps://discord.gg/metrograd\r\n\r\n**Join us!**",
+  "erc721_symbol": "Survivor"
 }

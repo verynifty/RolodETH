@@ -4,6 +4,7 @@
     "snapshot-voter-pitchdeployer",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yearn",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gauge-rbn"
   ]
 }

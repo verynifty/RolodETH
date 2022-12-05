@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Japanese Born Ape Society",
   "imageUrl": "https://i.seadn.io/gae/JSZ8MQndNWAbsvqkQg-k6IeAzKqVlXeJ49_a_HhSCSbLJydxFO2V_vh5VJFsgPBGYzkjVECqp9MxCdO4tx8yNDz01Dk7Ry9qRp6pErQ?w=500&auto=format",
   "externalUrl": "https://www.japanesebornapesociety.com/",
   "discordUrl": "https://discord.gg/jbas",
   "twitterUsername": "Japanese_BAPES",
-  "description": "We are JBAS. \r\nJapanese Born Ape Society is a collection of Japanese Ape NFTs —unique digital collectibles living on the Ethereum blockchain, generated from over 180 unique traits inspired by Japan and its culture. Your JBAS, paired with a future airdrop, the Flower, will grant you access to members-only benefits, the first of which will be the TEMPLE. The Temple is a fully decentralized ecosystem (DAO) where each ape will be able to vote on matters they care about. Each individual flower will then unlock interchangeable utilities only to its holders. Future perks can be unlocked through roadmap activation. A collection by BAYC and MAYC holders, not affiliated with Yuga Labs.\r\n\r\nGet a Genesis animated ape here https://opensea.io/collection/jbasgenesis\r\n\r\nFind out more on https://www.japanesebornapesociety.com"
+  "description": "We are JBAS. \r\nJapanese Born Ape Society is a collection of Japanese Ape NFTs —unique digital collectibles living on the Ethereum blockchain, generated from over 180 unique traits inspired by Japan and its culture. Your JBAS, paired with a future airdrop, the Flower, will grant you access to members-only benefits, the first of which will be the TEMPLE. The Temple is a fully decentralized ecosystem (DAO) where each ape will be able to vote on matters they care about. Each individual flower will then unlock interchangeable utilities only to its holders. Future perks can be unlocked through roadmap activation. A collection by BAYC and MAYC holders, not affiliated with Yuga Labs.\r\n\r\nGet a Genesis animated ape here https://opensea.io/collection/jbasgenesis\r\n\r\nFind out more on https://www.japanesebornapesociety.com",
+  "erc721_symbol": "JBAS"
 }

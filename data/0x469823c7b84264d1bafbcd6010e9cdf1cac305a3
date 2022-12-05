@@ -10,5 +10,6 @@
   "externalUrl": "http://cryptobullsociety.com",
   "discordUrl": "https://discord.gg/cryptobullsociety",
   "twitterUsername": "Crypto_Bull_NFT",
-  "description": "Fashion. Culture. Digital.\n\nMembership of the Society is represented by holding a Crypto Bull or Crypto Bear NFT, from our unique private art collection.\n\nEvery holder of a Crypto Bull @ 8 February was entitled to claim a Crypto Bear for free.\n\nCheck out the Crypto Bear NFT collection: https://opensea.io/collection/crypto-bears-by-cbs"
+  "description": "Fashion. Culture. Digital.\n\nMembership of the Society is represented by holding a Crypto Bull or Crypto Bear NFT, from our unique private art collection.\n\nEvery holder of a Crypto Bull @ 8 February was entitled to claim a Crypto Bear for free.\n\nCheck out the Crypto Bear NFT collection: https://opensea.io/collection/crypto-bears-by-cbs",
+  "erc721_symbol": "CBS"
 }

@@ -8,5 +8,6 @@
   "name": "NFTerrarium Pixie Dust",
   "imageUrl": "https://i.seadn.io/gcs/files/fe7f2cee3bcc1c2226a2d8cfe63fe018.png?w=500&auto=format",
   "externalUrl": "https://nfterrarium.xyz",
-  "description": "A small vial of magical dust containing enough power to unlock the secrets held within the terrariums.\n\n[Genesis Bottles](https://opensea.io/collection/nfterrarium-genesis)"
+  "description": "A small vial of magical dust containing enough power to unlock the secrets held within the terrariums.\n\n[Genesis Bottles](https://opensea.io/collection/nfterrarium-genesis)",
+  "erc721_symbol": "DUST"
 }

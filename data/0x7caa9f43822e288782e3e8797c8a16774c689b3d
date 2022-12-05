@@ -9,5 +9,6 @@
     "mayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "213.eth"
 }
