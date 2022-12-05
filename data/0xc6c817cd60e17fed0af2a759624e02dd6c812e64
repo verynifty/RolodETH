@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "METABILLIONAIRE",
   "imageUrl": "https://i.seadn.io/gcs/files/cf2ec06f5dbade37eda65169475c0604.jpg?w=500&auto=format",
   "externalUrl": "http://app.metabillionaire.com",
   "discordUrl": "https://discord.gg/metabillionaire",
   "twitterUsername": "metab_nft",
-  "description": "The world's first entrepreneurship-based NFT project. Metabillionaire is a community-driven global ecosystem, merging Web2 networking with Web3 technologies.\n\n[Investment & Knowledge Platform](http://app.metabillionaire.com/)\n\n\n[Early Metabillionaire](https://opensea.io/collection/early-metabillionaire)\n\n\n[Merch Pass](https://opensea.io/collection/mbmerchpass)\n\n[Merch Shop](https://shop.metabillionaire.com)\n\n\n[Sandbox Land](https://www.youtube.com/watch?v=jZLfR4RtIGw)"
+  "description": "The world's first entrepreneurship-based NFT project. Metabillionaire is a community-driven global ecosystem, merging Web2 networking with Web3 technologies.\n\n[Investment & Knowledge Platform](http://app.metabillionaire.com/)\n\n\n[Early Metabillionaire](https://opensea.io/collection/early-metabillionaire)\n\n\n[Merch Pass](https://opensea.io/collection/mbmerchpass)\n\n[Merch Shop](https://shop.metabillionaire.com)\n\n\n[Sandbox Land](https://www.youtube.com/watch?v=jZLfR4RtIGw)",
+  "erc721_symbol": "MB"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "decentralizedgame.eth"
 }

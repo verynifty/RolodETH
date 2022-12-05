@@ -3,5 +3,6 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "any.eth"
 }

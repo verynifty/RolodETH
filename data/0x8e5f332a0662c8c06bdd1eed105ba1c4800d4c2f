@@ -3,5 +3,6 @@
     "contract-deployer",
     "opensea-user"
   ],
-  "name": "Jungle Freaks: Deployer"
+  "name": "Jungle Freaks: Deployer",
+  "ens": "junglefreaks.eth"
 }

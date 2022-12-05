@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "A New Sprout | SOLD OUT!",
   "imageUrl": "https://i.seadn.io/gcs/files/19cae046e9ad88350fc87054203db716.png?w=500&auto=format",
-  "description": "555 Globbeezz. Feed them a sprout and see what happens.."
+  "description": "555 Globbeezz. Feed them a sprout and see what happens..",
+  "erc721_symbol": "GROW"
 }

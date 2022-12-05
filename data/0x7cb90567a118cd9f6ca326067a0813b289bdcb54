@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Apes Together Strong Official NFT",
   "imageUrl": "https://i.seadn.io/gae/W6nUF3XwTb-RJSHXXUEkQJQwD1hlbnANXI9y8VAhzkqVwdCu-1IZyxrubfy9j-ngPT1x0p5C1nuaJR7kA_PDuZgJXxypQXl1DOXT?w=500&auto=format",
   "externalUrl": "http://ATSNFT.io",
   "discordUrl": "https://discord.gg/ATSNFT",
   "twitterUsername": "ATSNFT",
-  "description": "Apes Together Strong NFT (ATSNFT) is a collection of 4,444 Uniquely Generated Apes on the Ethereum Blockchain. Your individual Ape will give you a variety of utility benefits including ownership of the artwork, the \"Looking Glass\" utility, and a vote towards how we use our community funds! Read our full roadmap at www.ATSNFT.io"
+  "description": "Apes Together Strong NFT (ATSNFT) is a collection of 4,444 Uniquely Generated Apes on the Ethereum Blockchain. Your individual Ape will give you a variety of utility benefits including ownership of the artwork, the \"Looking Glass\" utility, and a vote towards how we use our community funds! Read our full roadmap at www.ATSNFT.io",
+  "erc721_symbol": "ATSNFT"
 }

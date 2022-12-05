@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "blockfishdao.eth"
 }

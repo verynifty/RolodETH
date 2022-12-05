@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Float Protocol",
   "erc20_symbol": "BANK",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14116/thumb/FLOAT-Bank_LOGO-reduced_01.png?1616573606"
+  "imageURL": "https://assets.coingecko.com/coins/images/14116/thumb/FLOAT-Bank_LOGO-reduced_01.png?1616573606",
+  "proxy": "0x520f53ad040da6d453ac24301cc92c6a834efbf5"
 }

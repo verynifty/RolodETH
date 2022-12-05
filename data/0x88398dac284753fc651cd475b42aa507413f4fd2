@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cakevote",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "up1000x.eth"
 }

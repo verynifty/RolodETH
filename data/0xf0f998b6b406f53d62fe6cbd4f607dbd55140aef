@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "DeadPunks Official",
   "imageUrl": "https://i.seadn.io/gae/gjOYidI2VYqG1ytKkadMaVuKCVaVZB4Vjmbn3IDpHLyCmQBlQe4A7Wy4YnzUuZrwgDOM3YsVbhafFB_-BLEo-qXp5kzeJcfD_dDneg?w=500&auto=format",
   "externalUrl": "http://deadpunks.xyz",
   "twitterUsername": "DeadPunksNFT",
-  "description": "In an alternative universe DeadPunks exist striving in an everchanging metaverse to survive. Evil Labs have captured Betty and are threatening to cleanse all the dead. Adopt a DeadPunk, rise up against Evil Labs and save Betty. \n\nNot affiliated with DeadFellaz, CryptoPunks or any other project. Inspired, made with love, just vibes."
+  "description": "In an alternative universe DeadPunks exist striving in an everchanging metaverse to survive. Evil Labs have captured Betty and are threatening to cleanse all the dead. Adopt a DeadPunk, rise up against Evil Labs and save Betty. \n\nNot affiliated with DeadFellaz, CryptoPunks or any other project. Inspired, made with love, just vibes.",
+  "proxy": "0x43955024b1985e2b933a59021500ae5f55b04091"
 }

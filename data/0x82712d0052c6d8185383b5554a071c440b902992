@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Curious Addys' Trading Club",
   "imageUrl": "https://i.seadn.io/gae/-T-XoQR_VZwTi0WM4MNXyWO6iHpa4xTu1ISfgMZCq5K-W4UD6hxxIETNXXdxyrsGaMzG0ioZy3G1pjKR4ZccCNUcd_osE5dGNy5ong?w=500&auto=format",
   "externalUrl": "http://curiousaddys.com",
   "discordUrl": "https://discord.gg/catc",
   "twitterUsername": "curiousaddys",
-  "description": "Welcome to Curious Addys' Trading Club! We're a collection of 5,000 adorable octopuses ready to explore NFTs and crypto with you. Our goal is to be the default first stop any newcomer to NFTs and crypto comes to, so we can help teach them everything they need to know to explore this space safely in a fun, welcoming social environment. Think of us as the Duolingo of crypto!"
+  "description": "Welcome to Curious Addys' Trading Club! We're a collection of 5,000 adorable octopuses ready to explore NFTs and crypto with you. Our goal is to be the default first stop any newcomer to NFTs and crypto comes to, so we can help teach them everything they need to know to explore this space safely in a fun, welcoming social environment. Think of us as the Duolingo of crypto!",
+  "erc721_symbol": "CATC"
 }
