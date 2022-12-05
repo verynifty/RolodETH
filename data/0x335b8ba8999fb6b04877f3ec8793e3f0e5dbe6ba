@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "orcvalley.wtf",
   "imageUrl": "https://i.seadn.io/gcs/files/27a1e4df427cd7d9ddd1f3fa1dec6eeb.png?w=500&auto=format",
   "externalUrl": "https://orcvalley.wtf/",
-  "description": "ŴΔΔΔΔǤĦ!! Ŵ€ ØŘĆ ҜƗŁŁ ΔŁŁ ØŦĦ€Ř ŞƤ€ĆƗ€Ş. ØŘĆ ƗŞ ŞŦŘØŇǤ. ØŘĆ Đ€ŞŦØŘ¥ ΔŁŁ. ØŘĆ Ň€V€Ř ŁØŞ€. Ŵ€ ŴƗŁŁ ĐØΜƗŇΔŦ€ ŴĦØŁ€ ŴØŘŁĐ."
+  "description": "ŴΔΔΔΔǤĦ!! Ŵ€ ØŘĆ ҜƗŁŁ ΔŁŁ ØŦĦ€Ř ŞƤ€ĆƗ€Ş. ØŘĆ ƗŞ ŞŦŘØŇǤ. ØŘĆ Đ€ŞŦØŘ¥ ΔŁŁ. ØŘĆ Ň€V€Ř ŁØŞ€. Ŵ€ ŴƗŁŁ ĐØΜƗŇΔŦ€ ŴĦØŁ€ ŴØŘŁĐ.",
+  "erc721_symbol": "ORC"
 }

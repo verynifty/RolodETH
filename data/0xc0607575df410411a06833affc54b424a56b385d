@@ -3,7 +3,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-gmx",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "flyinglady.eth"
 }

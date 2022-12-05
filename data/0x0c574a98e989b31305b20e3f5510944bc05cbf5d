@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Hybrid Bank Cash",
   "erc20_symbol": "HBC",

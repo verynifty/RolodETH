@@ -10,5 +10,6 @@
   "externalUrl": "https://lightningworks.io/",
   "discordUrl": "https://discord.gg/lightningworks",
   "twitterUsername": "LightningWorks7",
-  "description": "The LightningWorks Portal NFT is our genesis mint, giving its owner access to our entire ecosystem of comic books, games, and more.  Owners of this NFT will receive a share of distribution rights for all our future comic books, including Siege Worlds and more.  Also, owners will receive free mints of our Platinum edition comics, utility in our games, and much more to be announced."
+  "description": "The LightningWorks Portal NFT is our genesis mint, giving its owner access to our entire ecosystem of comic books, games, and more.  Owners of this NFT will receive a share of distribution rights for all our future comic books, including Siege Worlds and more.  Also, owners will receive free mints of our Platinum edition comics, utility in our games, and much more to be announced.",
+  "erc721_symbol": "LWPortals"
 }

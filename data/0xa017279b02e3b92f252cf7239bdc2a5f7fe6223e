@@ -9,5 +9,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "zel25.eth"
 }

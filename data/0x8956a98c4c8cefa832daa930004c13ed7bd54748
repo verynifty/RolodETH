@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-via-exchange",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

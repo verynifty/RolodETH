@@ -9,6 +9,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-streamr",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ]
 }

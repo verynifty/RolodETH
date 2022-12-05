@@ -9,5 +9,6 @@
   "imageUrl": "https://i.seadn.io/gcs/files/ed053e529747ace31b2831592c6eb453.gif?w=500&auto=format",
   "externalUrl": "http://hznstudio.io",
   "twitterUsername": "HZNstudio",
-  "description": "\nHZN Studio is the purveyors of the finest phygital goods.\n\nCollection 001/CW22\nArtisanal Heirloom Quality Eyewear\n\n(Available Soon) Burn-to-Claim for the delivery of the Physical Eyewear and a Soul Bound Token (SBT) which unlock all the digital utility of the HZN Studio Ecosystem."
+  "description": "\nHZN Studio is the purveyors of the finest phygital goods.\n\nCollection 001/CW22\nArtisanal Heirloom Quality Eyewear\n\n(Available Soon) Burn-to-Claim for the delivery of the Physical Eyewear and a Soul Bound Token (SBT) which unlock all the digital utility of the HZN Studio Ecosystem.",
+  "erc721_symbol": "HZN"
 }

@@ -17,6 +17,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-cakevote",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-vestafinance"
   ]
 }

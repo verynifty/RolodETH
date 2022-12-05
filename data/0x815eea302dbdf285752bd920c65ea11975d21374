@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hakka",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

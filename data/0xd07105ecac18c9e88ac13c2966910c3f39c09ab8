@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-apecoin",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ]
 }

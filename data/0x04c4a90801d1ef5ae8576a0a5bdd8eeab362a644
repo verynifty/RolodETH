@@ -3,6 +3,7 @@
     "moonbird-minter",
     "loot-minter",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ]
 }

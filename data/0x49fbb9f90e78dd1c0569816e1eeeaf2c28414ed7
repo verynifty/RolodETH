@@ -1,7 +1,8 @@
 {
   "tags": [
     "bayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmdao"
   ],
   "ens": "hide-the-money-yall.eth"
 }

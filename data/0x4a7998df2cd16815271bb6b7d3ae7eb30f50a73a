@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-ethlizards",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "lizident.eth"
 }

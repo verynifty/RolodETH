@@ -13,6 +13,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-veclev",
     "snapshot-voter-frax",
-    "snapshot-voter-sdfxs"
+    "snapshot-voter-sdfxs",
+    "snapshot-voter-stakedao"
   ]
 }

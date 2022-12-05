@@ -4,5 +4,6 @@
     "meebit-minter",
     "veefriend-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "seedphrase.eth"
 }

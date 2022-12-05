@@ -5,6 +5,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-hop",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-vestafinance"
   ]
 }

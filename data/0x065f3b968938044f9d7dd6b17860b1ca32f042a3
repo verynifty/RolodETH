@@ -5,6 +5,7 @@
     "snapshot-voter-interportfinance",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-kromgov"
+    "snapshot-voter-kromgov",
+    "snapshot-voter-lido-snapshot"
   ]
 }

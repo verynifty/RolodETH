@@ -1,6 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ],
   "ens": "onenova.eth"
 }

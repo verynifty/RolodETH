@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-daocity",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "blank888.eth"
 }

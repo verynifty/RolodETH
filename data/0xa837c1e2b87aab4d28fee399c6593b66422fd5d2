@@ -1,6 +1,8 @@
 {
   "tags": [
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmdao",
+    "snapshot-voter-256art"
   ],
   "ens": "cryptospothodler.eth"
 }

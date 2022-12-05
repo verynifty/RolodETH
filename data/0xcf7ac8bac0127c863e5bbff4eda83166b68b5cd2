@@ -6,6 +6,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-vestafinance"
   ]
 }

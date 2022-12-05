@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The WynLambo",
   "imageUrl": "https://i.seadn.io/gae/3f9e3XaOMxufUzKhSieQb970yIHnTa7NAqbW373OVM9SXzhMZkGVPYECyMZaq5H2UfPZbOrk888ca8pQP3el0sPqIIL2AKTM_DCt?w=500&auto=format",
   "externalUrl": "https://www.immadegen.com/",
   "discordUrl": "https://discord.gg/rz6t3uP9hx",
   "twitterUsername": "ImmaDegen",
-  "description": "The WynLambo are a cute but terrifying collection of 9999 full 3D NFTs. Join us.\r\n\r\n[discord](https://discord.com/invite/TtcTcasfeH) \r\n[twitter](https://twitter.com/ImmaDegen)\r\n[website](https://immadegen.com)"
+  "description": "The WynLambo are a cute but terrifying collection of 9999 full 3D NFTs. Join us.\r\n\r\n[discord](https://discord.com/invite/TtcTcasfeH) \r\n[twitter](https://twitter.com/ImmaDegen)\r\n[website](https://immadegen.com)",
+  "erc721_symbol": "WYN"
 }

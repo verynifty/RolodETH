@@ -4,5 +4,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "amirhr3.eth"
 }

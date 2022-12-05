@@ -7,7 +7,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "natasta.eth"
 }

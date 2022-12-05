@@ -4,6 +4,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
     "snapshot-voter-piedao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-alchemistcoin"
   ]
 }

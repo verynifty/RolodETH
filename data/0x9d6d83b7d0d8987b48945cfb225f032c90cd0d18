@@ -8,6 +8,7 @@
     "snapshot-voter-eth888888",
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-hashflowdao"
   ]
 }

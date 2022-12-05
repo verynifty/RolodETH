@@ -10,6 +10,7 @@
     "snapshot-voter-qqgame",
     "snapshot-voter-olympusdao",
     "snapshot-voter-zksyncdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-quickvote"
   ]
 }

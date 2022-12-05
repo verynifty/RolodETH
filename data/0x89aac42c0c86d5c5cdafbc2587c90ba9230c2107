@@ -4,6 +4,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-xiaowukong",
     "snapshot-voter-gmx",
-    "snapshot-voter-kleros"
+    "snapshot-voter-kleros",
+    "snapshot-voter-aave"
   ]
 }

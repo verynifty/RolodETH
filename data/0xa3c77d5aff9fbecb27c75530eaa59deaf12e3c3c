@@ -10,7 +10,10 @@
     "snapshot-voter-speraxdao",
     "sudoswap-user",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "americanstaffordshireterrier.eth"
 }

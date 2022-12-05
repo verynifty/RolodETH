@@ -10,5 +10,6 @@
   "externalUrl": "https://frenlyflyz.io/",
   "discordUrl": "https://discord.gg/nsuMK4FNzR",
   "twitterUsername": "FrenlyFlyz",
-  "description": "FRΞNLY FLYZ are 4,012 randomly generated NFTs buzzing around the Ethereum blockchain. The FRΞNLY FLYZ are on a mission to make the world a *frenlier place* - one wallet at a time.\n\nOwning a FRΞNLY FLYZ NFT serves as a membership pass that grants access to exclusive perks such as future collections, expert alpha channels, IRL events, giveaways, games, voting rights, community vault, merchandise and more.\n\nNo two FRΞNLY FLYZ are alike, *but* **they are all equally frenly and fly.**"
+  "description": "FRΞNLY FLYZ are 4,012 randomly generated NFTs buzzing around the Ethereum blockchain. The FRΞNLY FLYZ are on a mission to make the world a *frenlier place* - one wallet at a time.\n\nOwning a FRΞNLY FLYZ NFT serves as a membership pass that grants access to exclusive perks such as future collections, expert alpha channels, IRL events, giveaways, games, voting rights, community vault, merchandise and more.\n\nNo two FRΞNLY FLYZ are alike, *but* **they are all equally frenly and fly.**",
+  "erc721_symbol": "FLYZ"
 }

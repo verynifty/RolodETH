@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pop Art Cats by Matt Chessco",
   "imageUrl": "https://i.seadn.io/gae/lrB7SS2lKrWipQ7-dHyRIyiOr_taPcoppUbGl-65wM3FVySOlR6DX-c-7J4ZH5rbMdkadhj-DqXds6WViznM2kpylOe-GYPqQAYvTg?w=500&auto=format",
   "externalUrl": "https://popartcats.xyz/",
   "discordUrl": "https://discord.gg/V6xgFe9U77",
   "twitterUsername": "popartcats",
-  "description": "Pop Art Cats is a collection of 10,000 digital artworks created by artist Matt Chessco. \n\nMatt Chessco will create 25 monumental artworks in his lifetime. These monumental artworks are called the [Pop Art Wonders](https://opensea.io/collection/popartwonders). If you own a Pop Art Cat, you will benefit from each Pop Art Wonder Matt will create. \n\n20% of all the royalties made from secondary sales will go to the Pop Art Community Treasury. Holders will vote for experiences, activations and projects that will benefit the Pop Art Community.\n\nOther Official Collections\n\n[Pop Art Wonders](https://opensea.io/collection/popartwonders)\n\n[Pop Art Specials](https://opensea.io/collection/popartspecials)"
+  "description": "Pop Art Cats is a collection of 10,000 digital artworks created by artist Matt Chessco. \n\nMatt Chessco will create 25 monumental artworks in his lifetime. These monumental artworks are called the [Pop Art Wonders](https://opensea.io/collection/popartwonders). If you own a Pop Art Cat, you will benefit from each Pop Art Wonder Matt will create. \n\n20% of all the royalties made from secondary sales will go to the Pop Art Community Treasury. Holders will vote for experiences, activations and projects that will benefit the Pop Art Community.\n\nOther Official Collections\n\n[Pop Art Wonders](https://opensea.io/collection/popartwonders)\n\n[Pop Art Specials](https://opensea.io/collection/popartspecials)",
+  "erc721_symbol": "CATS"
 }

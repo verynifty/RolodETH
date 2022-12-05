@@ -11,7 +11,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-quickvote",
+    "snapshot-voter-polymon",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "boomj.eth"
 }

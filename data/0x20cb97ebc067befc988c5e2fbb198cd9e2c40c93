@@ -7,7 +7,8 @@
     "snapshot-voter-sismo",
     "opensea-user",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "shadatofficial.eth"
 }

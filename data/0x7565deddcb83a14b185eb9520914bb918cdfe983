@@ -8,6 +8,7 @@
     "mayc-minter",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-vestafinance"
   ]
 }

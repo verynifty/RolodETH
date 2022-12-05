@@ -1,7 +1,8 @@
 {
   "tags": [
     "0x",
-    "staking"
+    "staking",
+    "contract"
   ],
   "name": "0x: Staking Proxy"
 }

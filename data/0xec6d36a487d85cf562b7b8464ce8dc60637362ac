@@ -4,6 +4,7 @@
     "autoglyph-minter",
     "meebit-minter",
     "art-goblers-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-jpgnftindex"
   ]
 }

@@ -12,6 +12,7 @@
     "snapshot-voter-popcorn-snapshot",
     "snapshot-voter-opcollective",
     "snapshot-voter-spookyswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ]
 }

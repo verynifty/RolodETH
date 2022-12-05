@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-gmdao"
+  ],
   "ens": "0xrodo.eth"
 }

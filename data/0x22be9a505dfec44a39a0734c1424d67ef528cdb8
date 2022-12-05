@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ethereals Origins",
   "imageUrl": "https://i.seadn.io/gae/f3RP-aCb8UG0Yi6QvHrm1pCBf-Soqn6KbhU1zeyiUwpiir6Zacq7kblBZ2b6Ha5vaxsHuU6NjVJena5pmlzq-nRn3GhleXUZ6vLI?w=500&auto=format",
   "externalUrl": "http://ethereals.wtf",
   "discordUrl": "https://discord.gg/etherealswtf",
-  "description": "Ethereals Origins are omnipotent travelers that have explored all reaches of time and space. They exist in a fold of the Universe, in a dimension that is only accessible with Ethereal technology. \r\n\r\nThey are the travelers inside the Etherealtrons technology (1 of 1's in the original Ethereals collection), the architects and engineers of Ethereal Fun Park, and the creators of the Ethereals. Together they are on a mission to make FUN prevail throughout the Universe.\r\n\r\nETHEREALS holders are able to stake their ETHEREALS NFTs to earn $boo tokens, they can then exchange for an ETHEREALS ORIGIN PFP. Visit [staking.ethereals.wtf](https://staking.ethereals.wtf/) for staking, claiming, & minting. \r\n\r\nETHEREALS (Main Collection) on [OpenSea](https://opensea.io/collection/etherealswtf).\r\n\r\nFor more details about the ETHEREALS story visit [ethereals.wtf](https://ethereals.wtf/) & check out our Discord!\r\n\r\nETHEREALS [Official Links](https://linktr.ee/etherealswtf)."
+  "description": "Ethereals Origins are omnipotent travelers that have explored all reaches of time and space. They exist in a fold of the Universe, in a dimension that is only accessible with Ethereal technology. \r\n\r\nThey are the travelers inside the Etherealtrons technology (1 of 1's in the original Ethereals collection), the architects and engineers of Ethereal Fun Park, and the creators of the Ethereals. Together they are on a mission to make FUN prevail throughout the Universe.\r\n\r\nETHEREALS holders are able to stake their ETHEREALS NFTs to earn $boo tokens, they can then exchange for an ETHEREALS ORIGIN PFP. Visit [staking.ethereals.wtf](https://staking.ethereals.wtf/) for staking, claiming, & minting. \r\n\r\nETHEREALS (Main Collection) on [OpenSea](https://opensea.io/collection/etherealswtf).\r\n\r\nFor more details about the ETHEREALS story visit [ethereals.wtf](https://ethereals.wtf/) & check out our Discord!\r\n\r\nETHEREALS [Official Links](https://linktr.ee/etherealswtf).",
+  "erc721_symbol": "ORIGIN"
 }

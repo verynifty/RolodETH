@@ -8,6 +8,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-sismo",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-vestafinance"
   ]
 }

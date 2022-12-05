@@ -9,7 +9,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-apecoin"
   ],
   "ens": "tank33.eth"
 }

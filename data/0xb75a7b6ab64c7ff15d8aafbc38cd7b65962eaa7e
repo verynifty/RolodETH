@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "mymillion.eth"
 }

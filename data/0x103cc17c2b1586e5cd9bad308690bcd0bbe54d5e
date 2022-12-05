@@ -1,6 +1,10 @@
 {
   "tags": [
-    "vesper-finance"
+    "vesper-finance",
+    "contract",
+    "erc20"
   ],
-  "name": "Vesper Finance: vETH Token"
+  "name": "Vesper Finance: vETH Token",
+  "erc20_symbol": "vETH",
+  "erc20_decimals": 18
 }

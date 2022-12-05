@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Dumpster Dorks: Deployer"
+  "name": "Dumpster Dorks: Deployer",
+  "ens": "dumpsterdorks.eth"
 }

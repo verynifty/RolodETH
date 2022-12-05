@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "darwinia-network"
+    "darwinia-network",
+    "contract"
   ],
   "name": "EvolutionLandGlobalToken",
   "erc20_symbol": "RING",

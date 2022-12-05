@@ -7,6 +7,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-vestafinance"
   ]
 }

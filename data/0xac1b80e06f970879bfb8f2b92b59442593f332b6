@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "pidoras.eth"
 }

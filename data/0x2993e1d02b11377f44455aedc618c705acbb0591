@@ -4,6 +4,7 @@
     "hashmask-minter",
     "art-goblers-minter",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ]
 }

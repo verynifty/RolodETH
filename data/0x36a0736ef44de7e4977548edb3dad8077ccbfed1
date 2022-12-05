@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gal",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ]
 }

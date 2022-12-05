@@ -9,7 +9,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-qidao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "huugin.eth"
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-vestafinance"
   ]
 }

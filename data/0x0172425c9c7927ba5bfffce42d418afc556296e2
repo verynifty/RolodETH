@@ -3,7 +3,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-gmx"
   ],
   "ens": "kober1337.eth"
 }

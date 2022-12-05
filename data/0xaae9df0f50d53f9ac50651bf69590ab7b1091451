@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoDragons.eggs",
   "imageUrl": "https://i.seadn.io/gae/1R_w_lPXBoap6-Txwv95d4ofLt0SZkfXdZj6dOA68r4lBvL4DI15UEZg99ifDEIvSRw8mJBHHayTAbRhWB0s87lqQzH-sQDhd-TUHQ?w=500&auto=format",
   "externalUrl": "http://cryptodragons.com",
   "discordUrl": "https://discord.gg/cryptodragons",
   "twitterUsername": "CryptoDragons",
-  "description": "CryptoDragons is a unique NFT project, where Dragons can breed and battle on Arena"
+  "description": "CryptoDragons is a unique NFT project, where Dragons can breed and battle on Arena",
+  "erc721_symbol": "CDE"
 }

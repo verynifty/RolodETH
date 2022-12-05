@@ -6,6 +6,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-sismo",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ]
 }

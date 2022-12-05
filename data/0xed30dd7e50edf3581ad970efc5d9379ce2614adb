@@ -1,6 +1,10 @@
 {
   "tags": [
-    "arcx"
+    "arcx",
+    "contract",
+    "erc20"
   ],
-  "name": "ARCx: Old ARCx Token"
+  "name": "ARCx: Old ARCx Token",
+  "erc20_symbol": "ARCX",
+  "erc20_decimals": 18
 }

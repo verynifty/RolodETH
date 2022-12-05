@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-yokaiswap",
     "snapshot-voter-uniswap",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave"
   ]
 }

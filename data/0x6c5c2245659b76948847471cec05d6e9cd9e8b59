@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ],
   "ens": "wh0syourdaddy.eth"
 }

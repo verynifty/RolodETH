@@ -19,7 +19,8 @@
     "snapshot-voter-53231323",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-qidao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "puchki.eth"
 }

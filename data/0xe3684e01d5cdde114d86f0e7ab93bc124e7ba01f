@@ -4,6 +4,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-aave"
   ]
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "TheAussies",
   "imageUrl": "https://i.seadn.io/gcs/files/1a87a47a87f668f16d5378c2d75a0a26.png?w=500&auto=format",
   "twitterUsername": "TheAussies_NFT",
-  "description": "2022 Aussie Blokes and Sheilas minting for free celebrating the rise of #AussieWeb3!\n\nWith some interesting mechanics like pfps that can change in relation to your twitter behaviour, and can even lead to token burning. Strewth, better behave yourself! \n\nYou can go to the pub to earn while you own,  and funds from secondary sales will be used to expand the project. "
+  "description": "2022 Aussie Blokes and Sheilas minting for free celebrating the rise of #AussieWeb3!\n\nWith some interesting mechanics like pfps that can change in relation to your twitter behaviour, and can even lead to token burning. Strewth, better behave yourself! \n\nYou can go to the pub to earn while you own,  and funds from secondary sales will be used to expand the project. ",
+  "erc721_symbol": "TheAussies"
 }

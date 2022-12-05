@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ARABPUNKS PASS",
   "imageUrl": "https://i.seadn.io/gcs/files/22c65ec70c59f383fe45b4eaf50c7e9a.jpg?w=500&auto=format",
   "discordUrl": "https://discord.gg/rfjTaFFBTn",
   "twitterUsername": "APpass_",
-  "description": "Arabpunks is an alpha group consisting of 555 pass created 8 months ago ( The first and biggest group in the Middle East ) The Arabpunks pass will get you access to the best tools in the market, Our future partners, A lot of whitelists are distributed to our community weekly, And the best part that you don't want to miss is our calls!"
+  "description": "Arabpunks is an alpha group consisting of 555 pass created 8 months ago ( The first and biggest group in the Middle East ) The Arabpunks pass will get you access to the best tools in the market, Our future partners, A lot of whitelists are distributed to our community weekly, And the best part that you don't want to miss is our calls!",
+  "erc721_symbol": "ABP"
 }

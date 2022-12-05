@@ -8,7 +8,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-yam",
     "snapshot-voter-yearn",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-rohki"
   ],
   "ens": "coopahtroopa.eth"
 }

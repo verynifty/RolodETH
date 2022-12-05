@@ -8,7 +8,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "eksan.eth"
 }

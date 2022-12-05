@@ -3,6 +3,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-anglegovernance"
   ]
 }

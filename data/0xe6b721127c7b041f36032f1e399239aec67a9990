@@ -6,6 +6,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-nexisdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

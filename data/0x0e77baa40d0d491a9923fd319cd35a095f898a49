@@ -11,7 +11,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-swaprsnapshot",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "ravi1986.eth"
 }

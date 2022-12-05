@@ -3,6 +3,7 @@
     "moonbird-minter",
     "snapshot-voter-gmdao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-rascwtf"
   ]
 }

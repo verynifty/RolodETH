@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ],
   "ens": "molodost.eth"
 }

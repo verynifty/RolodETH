@@ -4,7 +4,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "tthdteamhome.eth"
 }

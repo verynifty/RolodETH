@@ -4,5 +4,6 @@
     "snapshot-voter-poh",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "coinsgrid.eth"
 }

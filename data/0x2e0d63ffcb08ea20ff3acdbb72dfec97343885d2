@@ -10,6 +10,7 @@
     "art-goblers-minter",
     "mayc-minter",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-genesisproject"
   ]
 }

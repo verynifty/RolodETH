@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-vestafinance"
   ]
 }

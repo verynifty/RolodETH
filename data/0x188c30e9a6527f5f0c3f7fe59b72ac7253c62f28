@@ -14,7 +14,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-loot-dao",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-apecoin"
   ],
   "ens": "cryptoetc.eth"
 }

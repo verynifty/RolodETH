@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "IDK",
   "erc20_symbol": "IDK",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9301/thumb/idk-logo.png?1565861759"
+  "imageURL": "https://assets.coingecko.com/coins/images/9301/thumb/idk-logo.png?1565861759",
+  "proxy": "0x7e24d224f4e838430045d803dc8cd2bd04bae9f0"
 }

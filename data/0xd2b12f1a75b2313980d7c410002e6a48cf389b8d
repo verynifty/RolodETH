@@ -1,6 +1,7 @@
 {
   "tags": [
-    "otherdeed-minter"
+    "otherdeed-minter",
+    "snapshot-voter-gmdao"
   ],
   "ens": "rugradiowhale.eth"
 }

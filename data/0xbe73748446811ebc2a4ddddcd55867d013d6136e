@@ -6,5 +6,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-redactedcartel"
-  ]
+  ],
+  "ens": "bananasiong.eth"
 }

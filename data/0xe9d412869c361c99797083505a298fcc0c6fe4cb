@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "moonbird-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "thomaslok.eth"
 }

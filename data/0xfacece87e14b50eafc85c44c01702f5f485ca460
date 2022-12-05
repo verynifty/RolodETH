@@ -1,7 +1,11 @@
 {
   "tags": [
     "reservelending",
-    "unfederalreserve"
+    "unfederalreserve",
+    "contract",
+    "erc20"
   ],
-  "name": "unFederalReserve: unETH Token"
+  "name": "unFederalReserve: unETH Token",
+  "erc20_symbol": "unETH",
+  "erc20_decimals": 8
 }

@@ -1,6 +1,9 @@
 {
   "tags": [
-    "bridge"
+    "bridge",
+    "contract",
+    "proxy"
   ],
-  "name": "ZKSwap"
+  "name": "ZKSwap",
+  "proxy": "0x2f70f6d864f8f597a0ef57addf24323dfab5797f"
 }

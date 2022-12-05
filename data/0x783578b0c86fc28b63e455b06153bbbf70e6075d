@@ -7,7 +7,8 @@
     "snapshot-voter-derify",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "xinxingw.eth"
 }

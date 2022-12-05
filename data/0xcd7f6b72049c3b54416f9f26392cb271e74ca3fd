@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "ilnur.eth"
 }

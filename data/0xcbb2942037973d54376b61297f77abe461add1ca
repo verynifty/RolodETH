@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-hashflowdao"
   ],
   "ens": "gonsama.eth"
 }

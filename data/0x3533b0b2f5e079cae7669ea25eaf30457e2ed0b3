@@ -6,6 +6,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-balancer",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-hashflowdao"
   ]
 }

@@ -3,5 +3,6 @@
     "bayc-minter",
     "hashmask-minter",
     "meebit-minter"
-  ]
+  ],
+  "ens": "scaly2018.eth"
 }

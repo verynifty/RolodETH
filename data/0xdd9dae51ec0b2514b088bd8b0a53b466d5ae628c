@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "WWE NFT",
   "imageUrl": "https://i.seadn.io/gae/jP4c3Pjcc5yKwbNmcjEj1QjbS3ZdFmc0HCX8HXOXtCCSgR-aR_hp_Cl-OLSlw-mX8b4LFeog02CwdKFxC7FzQ-tqBKD2txGsku8a?w=500&auto=format",
   "externalUrl": "https://wwe.com",
-  "description": "Official NFT Page of World Wrestling Entertainment"
+  "description": "Official NFT Page of World Wrestling Entertainment",
+  "proxy": "0xfab1a410fe287c31ce03a6717015db6f65f36996"
 }

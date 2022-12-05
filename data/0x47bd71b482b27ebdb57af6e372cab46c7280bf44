@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BMC Blockchain Miners Club",
   "imageUrl": "https://i.seadn.io/gae/sWzXgOH4CshCx8C80IRvDmQbfn007zL8kCakl3GMi4HmTxaFfvxcEcYjLb-Ykbtkj-sHr4H4Ldpe7i7FFZ2jI8zAMJKnlXI08MWa_w?w=500&auto=format",
   "externalUrl": "https://www.blockchainminers.club/",
   "discordUrl": "https://discord.gg/blockchainminers",
   "twitterUsername": "BMC_NFT",
-  "description": "Blockchain Miners Club NFTs are hand-drawn, rare, and unique artworks that come with a real utility. Otherwise known as our OG Miners, this is BMC's genesis collection. Our art is inspired by BTC miners (Antminer S19j ASIC Pro) and was limited to 11,111 items that were generated from 280+ traits and attributes. \nJan 18th - Jan 31st we burned 80% of our supply through our burn event in order to create our second collection, The Ultra Miners. Only 2,221 OGs remained after the burn had concluded. \n\nOG Miners Staked: 387/2,221 (17.5%)\n\nOther Collections:\nBMC ULTRA MINER: https://opensea.io/collection/ultra-miners\nBMC HASH Droids: https://opensea.io/collection/bmc-hashdroid\nBMC Rocket Pass: https://opensea.io/collection/bmc-rocket-pass \nULTRA MINER collection: https://opensea.io/collection/ultra-miners"
+  "description": "Blockchain Miners Club NFTs are hand-drawn, rare, and unique artworks that come with a real utility. Otherwise known as our OG Miners, this is BMC's genesis collection. Our art is inspired by BTC miners (Antminer S19j ASIC Pro) and was limited to 11,111 items that were generated from 280+ traits and attributes. \nJan 18th - Jan 31st we burned 80% of our supply through our burn event in order to create our second collection, The Ultra Miners. Only 2,221 OGs remained after the burn had concluded. \n\nOG Miners Staked: 387/2,221 (17.5%)\n\nOther Collections:\nBMC ULTRA MINER: https://opensea.io/collection/ultra-miners\nBMC HASH Droids: https://opensea.io/collection/bmc-hashdroid\nBMC Rocket Pass: https://opensea.io/collection/bmc-rocket-pass \nULTRA MINER collection: https://opensea.io/collection/ultra-miners",
+  "erc721_symbol": "BMC"
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-gnosis",
     "snapshot-voter-beefydao",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-vestafinance"
   ]
 }

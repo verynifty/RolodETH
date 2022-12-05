@@ -4,5 +4,6 @@
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
     "opensea-user"
-  ]
+  ],
+  "ens": "coldbeer.eth"
 }

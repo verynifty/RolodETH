@@ -5,6 +5,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-toniya"
+    "snapshot-voter-toniya",
+    "snapshot-voter-hashflowdao"
   ]
 }

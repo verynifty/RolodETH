@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-doremifasollasi",
     "opensea-user"
-  ]
+  ],
+  "ens": "zavod.eth"
 }

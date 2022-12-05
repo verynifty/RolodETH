@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "sd3Crv",
+  "erc20_decimals": 18,
+  "name": "stake dao Curve.fi DAI/USDC/USDT"
+}

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "meebit-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-genesisproject"
   ]
 }

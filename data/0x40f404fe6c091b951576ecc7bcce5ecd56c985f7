@@ -13,6 +13,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
     "snapshot-voter-balancer",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-vote-perp"
   ]
 }

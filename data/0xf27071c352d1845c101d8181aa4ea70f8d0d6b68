@@ -6,6 +6,7 @@
     "snapshot-voter-toyes",
     "snapshot-voter-optimismio",
     "snapshot-voter-beefydao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

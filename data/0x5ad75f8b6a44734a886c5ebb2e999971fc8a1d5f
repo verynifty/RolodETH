@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "0x0318.eth"
 }

@@ -15,6 +15,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-aave"
   ]
 }

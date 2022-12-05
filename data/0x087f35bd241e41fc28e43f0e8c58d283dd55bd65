@@ -1,6 +1,7 @@
 {
   "tags": [
-    "fei-protocol"
+    "fei-protocol",
+    "contract"
   ],
   "name": "Fei Protocol: Uniswap Oracle"
 }

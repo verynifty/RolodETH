@@ -5,6 +5,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-cvx",
-    "snapshot-voter-sonnefi"
+    "snapshot-voter-sonnefi",
+    "snapshot-voter-derify"
   ]
 }

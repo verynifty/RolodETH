@@ -10,7 +10,8 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-stgdao",
     "snapshot-voter-yokaiswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "arbitrumeth.eth"
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
   ]
 }

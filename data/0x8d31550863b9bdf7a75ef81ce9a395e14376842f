@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "degen-staff.eth"
 }

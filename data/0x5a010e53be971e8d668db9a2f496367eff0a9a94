@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-aave"
   ]
 }

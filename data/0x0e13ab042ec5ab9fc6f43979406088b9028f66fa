@@ -1,6 +1,7 @@
 {
   "tags": [
-    "unit-protocol"
+    "unit-protocol",
+    "contract"
   ],
   "name": "Unit Protocol: CDP Manager 01"
 }

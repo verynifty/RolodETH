@@ -15,7 +15,8 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-sismo",
     "snapshot-voter-ens",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "poomink.eth"
 }

@@ -10,6 +10,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-sismo",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -17,7 +17,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-sismo",
     "snapshot-voter-autominter",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "300120.eth"
 }

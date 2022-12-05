@@ -5,6 +5,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -3,6 +3,7 @@
     "goblin-town-minter",
     "snapshot-voter-ethlizards",
     "snapshot-voter-gmx",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-vestafinance"
   ]
 }

@@ -11,7 +11,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "jq9243.eth"
 }

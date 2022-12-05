@@ -6,5 +6,6 @@
     "clonex-minter",
     "wow-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "landolf.eth"
 }

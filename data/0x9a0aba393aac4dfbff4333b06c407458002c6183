@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "acBTC: AC Token",
   "erc20_symbol": "AC",

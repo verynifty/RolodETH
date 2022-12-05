@@ -1,4 +1,8 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-vestafinance"
+  ],
   "ens": "nk555.eth"
 }

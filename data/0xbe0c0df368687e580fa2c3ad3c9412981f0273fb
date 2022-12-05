@@ -4,5 +4,6 @@
     "meebit-minter",
     "wow-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "mintyburns.eth"
 }

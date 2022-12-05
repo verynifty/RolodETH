@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Caboodles",
   "imageUrl": "https://i.seadn.io/gae/CSxoFcebhCjQ44iKoRn6HsXZEtbZQKblQcPkzqMEctMFoSfEEmH5y2Umdq_bHXMKKSw5UyUJWZYksnAvo33lD9AiOb1xz_horMkP?w=500&auto=format",
   "externalUrl": "https://www.caboodlesmint.com/",
   "discordUrl": "https://discord.gg/Y4hSasGSVq",
   "twitterUsername": "caboodlesnft",
-  "description": "#A collection of 1256 unique, randomized, and hand drawn Caboodle cats!\n"
+  "description": "#A collection of 1256 unique, randomized, and hand drawn Caboodle cats!\n",
+  "erc721_symbol": "CABOODLES"
 }

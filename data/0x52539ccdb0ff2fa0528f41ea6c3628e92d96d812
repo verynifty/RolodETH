@@ -1,6 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-vote-perp"
   ],
   "ens": "letthegalaxyburn.eth"
 }

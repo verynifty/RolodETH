@@ -2,7 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-evmaverick",
+    "snapshot-voter-gmdao"
   ],
   "ens": "thebenmeadows.eth"
 }

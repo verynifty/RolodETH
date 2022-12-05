@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "take-action",
     "snapshot-voter-sushigov",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-genesisproject"
   ],
   "name": "Multichain Hack Alert 3163"
 }

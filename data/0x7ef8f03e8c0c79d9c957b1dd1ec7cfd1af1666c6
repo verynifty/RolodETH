@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Music Ape Club",
   "imageUrl": "https://i.seadn.io/gcs/files/6406d1c6c2151391e6b6fb43e0964bd4.png?w=500&auto=format",
   "externalUrl": "https://musicape.xyz/",
   "twitterUsername": "musicape_xyz",
-  "description": "**PHASE 1: 'FIRST HIT THE CLUB' SOLD OUT - PHASE 2: 'MUTANT ROCK THE PARTY' now available: https://opensea.io/collection/mutant-rock-the-party\n\nThe Music Ape Club is a collection of NFTs (unique digital collectibles) stored as ERC-721 tokens on the Ethereum blockchain. With more than 180+ hand drawn traits, each NFT is unique and rewards you with a proportional percentage of revenue share from a legal cannabis microbusiness. Step into the world of web3 with the STAC Family. With more than 180+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful indie musicians and real estate investors. \nFeel the beat with our private community with endless benefits and utilities."
+  "description": "**PHASE 1: 'FIRST HIT THE CLUB' SOLD OUT - PHASE 2: 'MUTANT ROCK THE PARTY' now available: https://opensea.io/collection/mutant-rock-the-party\n\nThe Music Ape Club is a collection of NFTs (unique digital collectibles) stored as ERC-721 tokens on the Ethereum blockchain. With more than 180+ hand drawn traits, each NFT is unique and rewards you with a proportional percentage of revenue share from a legal cannabis microbusiness. Step into the world of web3 with the STAC Family. With more than 180+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful indie musicians and real estate investors. \nFeel the beat with our private community with endless benefits and utilities.",
+  "erc721_symbol": "MAPE"
 }

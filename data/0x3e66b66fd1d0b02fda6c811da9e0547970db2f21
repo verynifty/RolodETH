@@ -1,6 +1,7 @@
 {
   "tags": [
-    "balancer"
+    "balancer",
+    "contract"
   ],
   "name": "Balancer: Exchange Proxy 2"
 }

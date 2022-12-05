@@ -4,7 +4,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "aries77.eth"
 }

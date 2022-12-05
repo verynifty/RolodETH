@@ -5,5 +5,6 @@
     "cyber-kong-minter",
     "meebit-minter",
     "snapshot-voter-lgcryptounicorns"
-  ]
+  ],
+  "ens": "dabozz.eth"
 }

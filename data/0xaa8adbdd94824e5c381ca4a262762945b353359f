@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "1LP-ETH-0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "erc20_decimals": 18,
+  "name": "1inch Liquidity Pool (ETH-0xae7ab96520de3a18e5e111b5eaab095312d7fe84)"
+}

@@ -2,7 +2,8 @@
   "tags": [
     "pudgy-pinguin-minter",
     "otherdeed-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmdao"
   ],
   "ens": "plumgod.eth"
 }

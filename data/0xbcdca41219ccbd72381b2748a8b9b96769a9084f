@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dinobabies - Honey Brasco's Space Pirates",
   "imageUrl": "https://i.seadn.io/gae/eZvfRuqDilenNByfDoUAJaK83sRpVc3dd70F0j79-KnT6RUOGt7hbttNHfA7KoIhlxWZJmtxRCyNUyzg_2eYvcT6lSZ3v6RH3_o?w=500&auto=format",
   "externalUrl": "https://www.dinobabies.io/",
   "discordUrl": "https://discord.gg/dinobabiesnft",
-  "description": "Staked Pirates as of 5/8/22 = 3389\n\nYou never would have expected a pirate attack while traveling through the universe. But, that was until Dino Eggs became the most valuable commodity in the galaxy.\n \nSet sail with the Brasco Pirates and start your own raiding party in the next phase of the Dino Babies P2E idle game. Stake your Pirate to steal Eggs from every unassuming wallet on the seven galactic seas. With 4,255 Pirates in the collection, only chaos is guaranteed.\n \nIn the next NFT season of the animated action comedy from animator Matt Bolinger’s Dino Babies in Space, you’re taking the risk of leaving the nest, and coming back to wonder just where, exactly, did you put those eggs…\n\n\nClaim, Raid, or Hold, and check out all the parts of the project below:\nGenesis Ziggys https://opensea.io/collection/dinobabies\n"
+  "description": "Staked Pirates as of 5/8/22 = 3389\n\nYou never would have expected a pirate attack while traveling through the universe. But, that was until Dino Eggs became the most valuable commodity in the galaxy.\n \nSet sail with the Brasco Pirates and start your own raiding party in the next phase of the Dino Babies P2E idle game. Stake your Pirate to steal Eggs from every unassuming wallet on the seven galactic seas. With 4,255 Pirates in the collection, only chaos is guaranteed.\n \nIn the next NFT season of the animated action comedy from animator Matt Bolinger’s Dino Babies in Space, you’re taking the risk of leaving the nest, and coming back to wonder just where, exactly, did you put those eggs…\n\n\nClaim, Raid, or Hold, and check out all the parts of the project below:\nGenesis Ziggys https://opensea.io/collection/dinobabies\n",
+  "erc721_symbol": "PIRATES"
 }

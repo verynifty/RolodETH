@@ -7,6 +7,7 @@
     "snapshot-voter-optimismio",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-cow",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-hashflowdao"
   ]
 }

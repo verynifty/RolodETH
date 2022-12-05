@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Decades: A David Gahr Retrospective",
   "imageUrl": "https://i.seadn.io/gae/YdLJod1Gg7edNewNpUGc_JZdnrc80se1I9RqpPCnUr-Eb0QkGiWzf1Ezg79qQCl0D1bA1HDywaLL1DQmlTLE2aHOUi-vHuTd3JlK?w=500&auto=format",
   "externalUrl": "https://davidgahrdecades.com/",
   "discordUrl": "https://discord.gg/illuminati",
-  "description": "DECADES: A David Gahr Retrospective consists of 2000 NFTs **selected from David Gahr’s expansive body of work, and features intimate, timeless images of iconic 20th-century personalities. DECADES will be the first major NFT project to feature such a vast archive of beloved historical figures in web3, and is sure to be a must-have for collectors of all kinds."
+  "description": "DECADES: A David Gahr Retrospective consists of 2000 NFTs **selected from David Gahr’s expansive body of work, and features intimate, timeless images of iconic 20th-century personalities. DECADES will be the first major NFT project to feature such a vast archive of beloved historical figures in web3, and is sure to be a must-have for collectors of all kinds.",
+  "erc721_symbol": "GAHR"
 }

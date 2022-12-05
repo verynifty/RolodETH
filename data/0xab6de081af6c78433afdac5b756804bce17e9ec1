@@ -3,6 +3,7 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-vestafinance"
   ]
 }

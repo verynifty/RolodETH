@@ -3,7 +3,8 @@
     "moonbird-minter",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ],
   "ens": "emilio7.eth"
 }

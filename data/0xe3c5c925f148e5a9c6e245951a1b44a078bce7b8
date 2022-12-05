@@ -3,6 +3,7 @@
     "moonbird-minter",
     "wow-minter",
     "snapshot-voter-daocity",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmdao"
   ]
 }

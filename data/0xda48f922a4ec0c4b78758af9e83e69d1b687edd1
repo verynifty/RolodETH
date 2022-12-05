@@ -1,6 +1,7 @@
 {
   "tags": [
-    "contract-deployer"
+    "contract-deployer",
+    "snapshot-voter-gmdao"
   ],
   "name": "gmDAO Token v2: Deployer"
 }

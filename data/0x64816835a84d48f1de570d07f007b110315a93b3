@@ -8,6 +8,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vestafinance"
   ]
 }

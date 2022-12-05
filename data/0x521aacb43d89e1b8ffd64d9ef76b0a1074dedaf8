@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-dapplearning"
+    "snapshot-voter-dapplearning",
+    "snapshot-voter-gitcoingov"
   ]
 }

@@ -4,7 +4,8 @@
     "hashmask-minter",
     "clonex-minter",
     "art-goblers-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-trashdao-szns"
   ],
   "ens": "bluebean.eth"
 }

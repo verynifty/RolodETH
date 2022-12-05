@@ -3,6 +3,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-grayboys",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-apecoin"
   ]
 }

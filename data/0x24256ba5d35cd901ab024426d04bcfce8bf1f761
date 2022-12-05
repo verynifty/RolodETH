@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-alchemistcoin"
   ]
 }

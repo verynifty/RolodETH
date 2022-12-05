@@ -11,6 +11,7 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-000x111"
   ]
 }

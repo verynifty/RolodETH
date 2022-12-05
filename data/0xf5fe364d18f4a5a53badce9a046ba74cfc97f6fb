@@ -20,6 +20,9 @@
     "snapshot-voter-safe",
     "snapshot-voter-gmx",
     "snapshot-voter-ybaby",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-stakedao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-vestafinance"
   ]
 }

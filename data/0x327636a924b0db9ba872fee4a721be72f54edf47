@@ -5,5 +5,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "beanscoffe.eth"
 }

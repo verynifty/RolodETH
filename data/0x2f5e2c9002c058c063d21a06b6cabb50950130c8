@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "ftx"
+    "ftx",
+    "contract"
   ],
   "name": "FTX: 3X Short Ethereum Token",
   "erc20_symbol": "ETHBEAR",

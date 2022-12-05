@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "sybil-delegate"
+    "sybil-delegate",
+    "contract"
   ],
   "name": "PowerIndex: PIPT Token",
   "erc20_symbol": "PIPT",

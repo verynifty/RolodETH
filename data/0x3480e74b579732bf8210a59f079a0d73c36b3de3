@@ -3,5 +3,6 @@
     "moonbird-minter",
     "snapshot-voter-grayboys",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "furfur.eth"
 }

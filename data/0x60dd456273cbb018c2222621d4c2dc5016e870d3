@@ -11,6 +11,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-lido-snapshot"
   ]
 }

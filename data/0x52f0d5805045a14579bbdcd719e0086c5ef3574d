@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "traian.eth"
 }

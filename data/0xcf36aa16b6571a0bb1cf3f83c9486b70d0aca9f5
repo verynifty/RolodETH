@@ -7,5 +7,6 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "lehieu.eth"
 }

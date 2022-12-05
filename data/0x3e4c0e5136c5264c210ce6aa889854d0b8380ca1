@@ -1,6 +1,7 @@
 {
   "tags": [
-    "goblin-town-minter"
+    "goblin-town-minter",
+    "snapshot-voter-autominter"
   ],
   "ens": "ⱳizard.eth"
 }

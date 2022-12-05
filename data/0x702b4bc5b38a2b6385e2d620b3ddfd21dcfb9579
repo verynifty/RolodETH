@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-wumingqi",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-vestafinance"
   ]
 }

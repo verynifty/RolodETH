@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "0xSocialClub OGs",
   "imageUrl": "https://i.seadn.io/gcs/files/2317a36cbf3577453f83f0e217f43808.png?w=500&auto=format",
   "externalUrl": "https://linktr.ee/0xscnft",
   "discordUrl": "https://discord.gg/0xSocialclubnft",
-  "description": "Your NFT is your 0xSocialClub membership pass. OGs hold the master key to the entire 0xSocialClub roadmap. \n\nLinks: https://linktr.ee/0xscnft"
+  "description": "Your NFT is your 0xSocialClub membership pass. OGs hold the master key to the entire 0xSocialClub roadmap. \n\nLinks: https://linktr.ee/0xscnft",
+  "erc721_symbol": "0xAASC"
 }

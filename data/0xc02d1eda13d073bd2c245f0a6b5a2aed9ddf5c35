@@ -3,5 +3,6 @@
     "mayc-minter",
     "snapshot-voter-ghoststreasury",
     "opensea-user"
-  ]
+  ],
+  "ens": "jackruby.eth"
 }

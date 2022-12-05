@@ -3,6 +3,7 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-sushigov",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-aave"
   ]
 }

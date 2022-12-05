@@ -3,5 +3,6 @@
     "snapshot-voter-opcollective",
     "opensea-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "libertines.eth"
 }

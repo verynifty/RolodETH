@@ -4,6 +4,7 @@
     "snapshot-voter-plutusclub",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

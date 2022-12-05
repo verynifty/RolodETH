@@ -3,7 +3,8 @@
     "veefriend-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-apecoin"
   ],
   "ens": "richpor.eth"
 }

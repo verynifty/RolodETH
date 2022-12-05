@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "51969.eth"
 }
