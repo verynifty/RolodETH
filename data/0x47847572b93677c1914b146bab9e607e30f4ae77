@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sad Bots Genesis",
   "imageUrl": "https://i.seadn.io/gae/fsegs4u4DORPaF3Ak40hnJe1cq18Mt9CSj1ckCY4nZHCBXXSTnq31MIPPSV6ApXkinIxwLNmvmZ8_33_7_xqjEiIuuZyWKSePwv36A?w=500&auto=format",
   "externalUrl": "http://sadbots.io",
   "discordUrl": "https://discord.gg/sadbots",
   "twitterUsername": "SadBotsNFT",
-  "description": "The year is 2523, a global pandemic has threatened humankind to the point of extinction. In this new era, only their faithful SAD Bot servants remain on planet earth. With no caring families to serve, they look for new purpose in a lonely and forgotten world.\n\nWelcome to Sad Bots. A 3D collection of 3090 beautifully crafted sad robots on the Ethereum 'botchain', rolling out across the Metaverse.\n\nThe minting and all subsequent sale and purchase of NFTs created by Sad Bots are subject to the Sad Bots terms and conditions available at https://sadbots.io/terms. By minting or subsequently acquiring a Sad Bots NFT, you are agreeing to these terms and conditions."
+  "description": "The year is 2523, a global pandemic has threatened humankind to the point of extinction. In this new era, only their faithful SAD Bot servants remain on planet earth. With no caring families to serve, they look for new purpose in a lonely and forgotten world.\n\nWelcome to Sad Bots. A 3D collection of 3090 beautifully crafted sad robots on the Ethereum 'botchain', rolling out across the Metaverse.\n\nThe minting and all subsequent sale and purchase of NFTs created by Sad Bots are subject to the Sad Bots terms and conditions available at https://sadbots.io/terms. By minting or subsequently acquiring a Sad Bots NFT, you are agreeing to these terms and conditions.",
+  "erc721_symbol": "SAD"
 }

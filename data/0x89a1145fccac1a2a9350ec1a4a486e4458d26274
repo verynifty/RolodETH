@@ -3,5 +3,6 @@
     "mayc-minter",
     "snapshot-voter-aavegotchi",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0xstamina.eth"
 }

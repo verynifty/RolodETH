@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wicked Hound Bone Club",
   "imageUrl": "https://i.seadn.io/gae/d_b41f6KVhHqVDG6xpL8uyCwiOzxUZOTkybYn6clI3V0stR9UtR_wcQYJRWflSvycAknSOYjylMJrYoQ94Mt2kApQzX_kY8cMNDljy8?w=500&auto=format",
   "externalUrl": "https://wickedapes.com/",
   "discordUrl": "https://discord.gg/WickedBoneClub",
   "twitterUsername": "WickedBoneClub",
-  "description": "11,111 Skeletal Hounds airdropped to [Wicked Ape](https://opensea.io/collection/wicked-ape-bone-club) holders on the Ethereum blockchain as ERC-721 Non-Fungible Token.\n\n> - [Click to View Wicked Apes](https://opensea.io/collection/wicked-ape-bone-club)\n> - [Click to View Wicked Monsters](https://opensea.io/collection/wicked-monsters)\n\n[CLICK FOR SALES BOT](https://twitter.com/WickedBoneBot)\n| [CLICK FOR TWITTER](https://twitter.com/wickedboneclub)"
+  "description": "11,111 Skeletal Hounds airdropped to [Wicked Ape](https://opensea.io/collection/wicked-ape-bone-club) holders on the Ethereum blockchain as ERC-721 Non-Fungible Token.\n\n> - [Click to View Wicked Apes](https://opensea.io/collection/wicked-ape-bone-club)\n> - [Click to View Wicked Monsters](https://opensea.io/collection/wicked-monsters)\n\n[CLICK FOR SALES BOT](https://twitter.com/WickedBoneBot)\n| [CLICK FOR TWITTER](https://twitter.com/wickedboneclub)",
+  "erc721_symbol": "WKDHND"
 }

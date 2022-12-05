@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "DAI",
+  "erc20_decimals": 9,
+  "name": "Decentralized AI"
+}

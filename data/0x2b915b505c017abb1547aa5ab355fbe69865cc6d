@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "MAPS",
+  "erc20_decimals": 6,
+  "name": "Maps.me Token"
+}

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Rich CZ Yacht CLub",
   "imageUrl": "https://i.seadn.io/gcs/files/1092a09819d4bdfcb25f483e732d881f.png?w=500&auto=format",
   "discordUrl": "https://discord.gg/j7N7f8bU63",
   "twitterUsername": "RichCZYachtClub",
-  "description": "After the collapse of FTX, CZ is the last man standing."
+  "description": "After the collapse of FTX, CZ is the last man standing.",
+  "erc721_symbol": "RCYC"
 }

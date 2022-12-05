@@ -4,5 +4,6 @@
     "snapshot-voter-safe",
     "opensea-user"
   ],
-  "name": "Raptor: Deployer"
+  "name": "Raptor: Deployer",
+  "ens": "netrunner.eth"
 }

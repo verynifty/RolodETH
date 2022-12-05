@@ -5,5 +5,6 @@
     "otherdeed-minter",
     "opensea-user",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "totalrecaller.eth"
 }

@@ -3,5 +3,6 @@
     "meebit-minter",
     "clonex-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "tommyk.eth"
 }
