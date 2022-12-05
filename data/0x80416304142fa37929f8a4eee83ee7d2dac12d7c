@@ -10,5 +10,6 @@
   "externalUrl": "https://generativemasks.io",
   "discordUrl": "https://discord.gg/gR3mgVdjfd",
   "twitterUsername": "generativemasks",
-  "description": "Generativemasks is a 10,000 unique NFT art created with Generative Art. This NFT automatically \"generates\" unique masks with different expressions one by one, and you can enjoy different colors of the masks every time you reload them on the NFT marketplaces.\n\nThe inspiration for this work came from discovering a sense of life in geometric patterns that are symmetrically arranged. With unexpected shapes and patterns, I tried to express the scary yet somehow charming atmosphere of Native American totem poles and indigenous Japanese Yokai."
+  "description": "Generativemasks is a 10,000 unique NFT art created with Generative Art. This NFT automatically \"generates\" unique masks with different expressions one by one, and you can enjoy different colors of the masks every time you reload them on the NFT marketplaces.\n\nThe inspiration for this work came from discovering a sense of life in geometric patterns that are symmetrically arranged. With unexpected shapes and patterns, I tried to express the scary yet somehow charming atmosphere of Native American totem poles and indigenous Japanese Yokai.",
+  "erc721_symbol": "GM"
 }

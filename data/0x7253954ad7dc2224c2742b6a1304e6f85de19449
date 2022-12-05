@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "ChildGoat",
   "imageUrl": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62ddf040ac08634afccd0ab31fe703cef69c2154ac601f7dfae3e1c75a8998cd82b1dfcae2881b7dcbf687cf09cb9c8e18eb824c287ed4be36325d9d3e802bb4bfe229fffa46de109069a948dd4e2eac94f1dfd9134a51e6d38fba3d3fcb2d8fdb8159a31d76116d254e104cc7f9bc3418",
-  "twitterUsername": "_ChildGoat"
+  "twitterUsername": "_ChildGoat",
+  "proxy": "0x1bc2697f2efac144e7422c4827ba95e9b8369b77"
 }

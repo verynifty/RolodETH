@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lucky Lion Club Official (LLC)",
   "imageUrl": "https://i.seadn.io/gae/KpvJIrdKRLfyyVa7aUE3Giu8OxFIRYEUNlJtPL1IneFflWggz8GMEyza8FOn4j8wh0eXY2XvkZna8cqeQYbWcWXDfZSZVbOiOXQV9w?w=500&auto=format",
   "externalUrl": "https://luckylionclubnft.com",
   "discordUrl": "https://discord.gg/luckylionclub",
   "twitterUsername": "Lucky_Lion_Club",
-  "description": "The Lucky Lion Club is a collection of 4,000 unique 8K NFTs crafted by world-renowned artist Joel Best. By owning a Lucky Lion, you will have access to a private and exclusive community of high-net-worth individuals spread across the world. We voluntarily decided to create ultra-realistic 3D artworks with an elite team of designers and marketers to only attract valuable and high-quality holders that will benefit the project long term’s success."
+  "description": "The Lucky Lion Club is a collection of 4,000 unique 8K NFTs crafted by world-renowned artist Joel Best. By owning a Lucky Lion, you will have access to a private and exclusive community of high-net-worth individuals spread across the world. We voluntarily decided to create ultra-realistic 3D artworks with an elite team of designers and marketers to only attract valuable and high-quality holders that will benefit the project long term’s success.",
+  "erc721_symbol": "LLC"
 }

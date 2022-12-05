@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoHippos Official",
   "imageUrl": "https://i.seadn.io/gae/cKot66xP_sbhBsgrIB7oufLqMdnLQ9T2zkrPlwX-E0WTdWxSROIX2sbr_piex1ihiQBdMnqMbHklJmIu5Ai_WCNy8qluUnbZ1u5Zkw?w=500&auto=format",
   "externalUrl": "https://cryptohipponft.com",
   "discordUrl": "https://discord.gg/cryptohippos",
   "twitterUsername": "CryptoHipposNFT",
-  "description": "CryptoHippos live in the Watering Hole, a communal resource doubling as a decentralized business venture. \nBuy a CryptoHippo now to exert your influence on community funds and operations.\n\nLearn more in our [Whitepaper](https://docs.cryptohipponft.com)\n\nGovern community funds by voting [here](https://snapshot.org/#/cryptohipposvote.eth)"
+  "description": "CryptoHippos live in the Watering Hole, a communal resource doubling as a decentralized business venture. \nBuy a CryptoHippo now to exert your influence on community funds and operations.\n\nLearn more in our [Whitepaper](https://docs.cryptohipponft.com)\n\nGovern community funds by voting [here](https://snapshot.org/#/cryptohipposvote.eth)",
+  "erc721_symbol": "HIPPO"
 }

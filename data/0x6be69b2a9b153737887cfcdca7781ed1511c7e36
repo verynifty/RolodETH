@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Killer GF",
   "imageUrl": "https://i.seadn.io/gae/KMl96HWwKockuqsrNdOK498dP_yzgwvYrapQ4i8eyXfuF7_C_Yp3xRDDANU8J8EM2A9Ydmm6VICkjEHJyNalfFqXkWryLXPbGzPAVw?w=500&auto=format",
   "externalUrl": "https://killergf.com/",
   "discordUrl": "https://discord.gg/killergf",
   "twitterUsername": "killergfnft",
-  "description": "Killer GF is a 7,777 generative portrait art collection by a former Riot Games Artist, Zeronis, with over 240 meticulously designed features that contrasts cute and aesthetically appealing girlfriends that also happen to be dangerous assassins."
+  "description": "Killer GF is a 7,777 generative portrait art collection by a former Riot Games Artist, Zeronis, with over 240 meticulously designed features that contrasts cute and aesthetically appealing girlfriends that also happen to be dangerous assassins.",
+  "erc721_symbol": "KGF"
 }

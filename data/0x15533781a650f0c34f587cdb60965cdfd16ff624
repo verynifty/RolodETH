@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BlockchainBikers",
   "imageUrl": "https://i.seadn.io/gae/sD4kKN2TG7JO4DNg4e8WK13lBkr9xa9wTBrBXchNXsCmd2NlBnZiMT9u4zaQ_OzmVeElw3XikRvYyxE2JCiaX5UMi6VBw6MT2ejN64o?w=500&auto=format",
-  "twitterUsername": "bikersnft"
+  "twitterUsername": "bikersnft",
+  "erc721_symbol": "BIKERS"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Great Ape Society",
   "imageUrl": "https://i.seadn.io/gae/MSdsBGQFSO-j2NJs2NWDrBQyXWvNp8xpSAw12TznaR88T9Ci-Z3tqz5VsaNFp2hwy-nlrf2xwpChQQHa44dRKFy-ADSdwykJn25CSg?w=500&auto=format",
   "externalUrl": "https://greatapesociety.world",
   "discordUrl": "https://discord.gg/HyaTCXp59q",
   "twitterUsername": "GreatApeSociety",
-  "description": "The Great Ape Society started in 1968, as a result of experiments by United ApeWarSpec. As time passed, the Apes began to recognize the harm humans were causing them. In an epic movement, Chief Ape led the Apes to freedom. United, The Society grew and thrived and continues to operate around the world.  Join The Great Ape Society Today! \n\nAPES STRONG! APES UNITED!\n\n[WEBSITE](https://greatapesociety.world/)\n[SHOP](https://shop.greatapesociety.world/)\n[DISCORD](https://discord.gg/EGdS4QgRxx)\n[TWITTER](https://twitter.com/GreatApeSociety)\n\nOur variety of traits is unprecedented - 45+ types of clothes, 25+ types of hair styles, hats, faces, and more. 10,000 randomly generated digital collectibles of various rarity living on the Ethereum blockchain as ERC-721 tokens."
+  "description": "The Great Ape Society started in 1968, as a result of experiments by United ApeWarSpec. As time passed, the Apes began to recognize the harm humans were causing them. In an epic movement, Chief Ape led the Apes to freedom. United, The Society grew and thrived and continues to operate around the world.  Join The Great Ape Society Today! \n\nAPES STRONG! APES UNITED!\n\n[WEBSITE](https://greatapesociety.world/)\n[SHOP](https://shop.greatapesociety.world/)\n[DISCORD](https://discord.gg/EGdS4QgRxx)\n[TWITTER](https://twitter.com/GreatApeSociety)\n\nOur variety of traits is unprecedented - 45+ types of clothes, 25+ types of hair styles, hats, faces, and more. 10,000 randomly generated digital collectibles of various rarity living on the Ethereum blockchain as ERC-721 tokens.",
+  "erc721_symbol": "GAS"
 }

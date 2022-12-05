@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Starlings",
   "imageUrl": "https://i.seadn.io/gae/TVmRo4_yVDKVcY1CBVHB5Jtp2c9697T4mjKne1aoEXdB35jeKqkMlOPaqKX9VlHg2wwqA0kPtoUheARFLRRZDV1d7OCKjV0RaESWNw?w=500&auto=format",
   "externalUrl": "https://NFTSiblings.com",
   "discordUrl": "https://discord.gg/Siblings",
   "twitterUsername": "NFTSiblings",
-  "description": "Investor Avatars | NFT Investment Education\r\n\r\nMusic is in the bottom of the description of each SIB NFT. \r\n\r\nNFT Siblings Avatars is a NFT collectibles project made by one of the biggest NFT investor and collector community in the NFT space, focusing on investor and collector education and content creation. \r\n\r\nNFT Siblings Avatars is a collection of 10,101 unique Robot Sibling NFT collectibles living on the Ethereum block-chain. \r\n\r\nFor more information visit our [Website](https://NFTSiblings.com/) and join our community [Discord](https://www.discord.gg/Siblings)!\r\n\r\nCan't wait to welcome you home Sibling!"
+  "description": "Investor Avatars | NFT Investment Education\r\n\r\nMusic is in the bottom of the description of each SIB NFT. \r\n\r\nNFT Siblings Avatars is a NFT collectibles project made by one of the biggest NFT investor and collector community in the NFT space, focusing on investor and collector education and content creation. \r\n\r\nNFT Siblings Avatars is a collection of 10,101 unique Robot Sibling NFT collectibles living on the Ethereum block-chain. \r\n\r\nFor more information visit our [Website](https://NFTSiblings.com/) and join our community [Discord](https://www.discord.gg/Siblings)!\r\n\r\nCan't wait to welcome you home Sibling!",
+  "erc721_symbol": "SSS"
 }

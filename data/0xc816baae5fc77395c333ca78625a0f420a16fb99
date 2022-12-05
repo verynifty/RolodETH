@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "FREEMINT PASS GENESIS",
   "imageUrl": "https://i.seadn.io/gae/s6uaD0KN01hQRj9zTE6gAQhHmzEQ10kjpRqng5cCcKiWB1b00l-qv0-AsT2znGnxWr--n8-jcCEhqQ9rnqgnHitLsuim_cXJKPS10A?w=500&auto=format",
   "externalUrl": "https://www.freemint-nft.com",
   "discordUrl": "https://discord.gg/wEfUeMwPQX",
   "twitterUsername": "FREEMINT_PASS",
-  "description": "The Freemint Pass is an exclusive ticket to a private Discord group with various benefits for free mints! Get free NFTs, whitelists, tracking tools & more!\n\nVerify your pass: https://discord.gg/wEfUeMwPQX"
+  "description": "The Freemint Pass is an exclusive ticket to a private Discord group with various benefits for free mints! Get free NFTs, whitelists, tracking tools & more!\n\nVerify your pass: https://discord.gg/wEfUeMwPQX",
+  "erc721_symbol": "FMP"
 }

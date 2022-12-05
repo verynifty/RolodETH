@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Skull Dungeon: Graveyard",
   "imageUrl": "https://i.seadn.io/gae/zF5RA12VlFdDOsQlK3F00aywOlWhZIK-8x7WsqbdoMPQe4wydKAz3mman4c_ITcjbWbr8_cKK5Ray0yTzixE7FsvspOs-EiTYmrG?w=500&auto=format",
   "externalUrl": "https://skulldungeon.io/",
   "twitterUsername": "SkullDungeonNFT",
-  "description": "Skull Dungeon: Graveyard is the pre-reveal collection of dead# Genesis skulls who dwell in decay and remain buried until resurrection.\n\nSeason 0 game coming soon at: https://skulldungeon.io/"
+  "description": "Skull Dungeon: Graveyard is the pre-reveal collection of dead# Genesis skulls who dwell in decay and remain buried until resurrection.\n\nSeason 0 game coming soon at: https://skulldungeon.io/",
+  "erc721_symbol": "SXD"
 }

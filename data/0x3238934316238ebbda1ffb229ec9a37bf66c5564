@@ -3,5 +3,6 @@
     "snapshot-voter-sushigov",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "rtr.eth"
 }

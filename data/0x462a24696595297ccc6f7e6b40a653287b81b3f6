@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "gz020.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dead Ape Yacht Club NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/7ad716e67cbe1cf41488bf975f6a55d6.gif?w=500&auto=format",
   "externalUrl": "https://deadapeyc.xyz/",
   "twitterUsername": "DeadApe_YC",
-  "description": "Dead Apes rising to reclaim their place on the blockchain. Soft stake 5 Dead  Apes (don't list) and get access to our minting bot coming soon."
+  "description": "Dead Apes rising to reclaim their place on the blockchain. Soft stake 5 Dead  Apes (don't list) and get access to our minting bot coming soon.",
+  "erc721_symbol": "DAYC"
 }

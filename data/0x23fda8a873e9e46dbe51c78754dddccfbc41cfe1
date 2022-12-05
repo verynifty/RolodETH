@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SeeDAO Genesis",
   "imageUrl": "https://i.seadn.io/gae/Mub-S9JvIB9yFqiTra3S7S6PILZ7O8ONDCJC65j-D5X--MczoNGfYq0dT_VUEvYBgUzhbV2EQDkhkimM4FGZUl67pypdgkdei7C9?w=500&auto=format",
-  "description": "SeeDAO is a WEB3.0-based content creator organization system, SeeDAO's mission is to introduce Web2.0 creators to the Web3.0 world and help content creators and content consumers explore better production relationships and organizational forms. SeeDAO NFT is the identity symbol of SeeDAO users."
+  "description": "SeeDAO is a WEB3.0-based content creator organization system, SeeDAO's mission is to introduce Web2.0 creators to the Web3.0 world and help content creators and content consumers explore better production relationships and organizational forms. SeeDAO NFT is the identity symbol of SeeDAO users.",
+  "erc721_symbol": "SEED"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Probably Something Lifeboat Passes",
   "imageUrl": "https://i.seadn.io/gae/Aazj8VJDLSZ6TofOGzgW6mHUf8DPeOJCmPunRX-UrJPl1MgSjIFh_Cs5KzsTDcPonv8GU9U48J-0Ny31c9Gcvp3cM1h9LSCK8Z2SKVo?w=500&auto=format",
   "externalUrl": "https://lifeboat.fi",
   "discordUrl": "https://discord.gg/PuGcUH6vjH",
-  "description": "A premium access pass to the Lifeboat ecosystem, unlocking early access and collector perks."
+  "description": "A premium access pass to the Lifeboat ecosystem, unlocking early access and collector perks.",
+  "proxy": "0xdba03f8eeac0e1291d914bae47db734a1225ce9f"
 }

@@ -4,5 +4,6 @@
     "moonbird-minter",
     "wow-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "moglets.eth"
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "abhinav2018.eth"
 }

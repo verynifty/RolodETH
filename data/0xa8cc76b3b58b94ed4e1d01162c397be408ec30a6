@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Fantastic Voyages",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a7a102b34c57e1c1c889e6f99de163b6101232ddb73cacbbf296328ec6c53b0b207824230a57e070020076c5f8cad33440a31e10ff43bb453028f5a36b2b9e7a37b7c37cfb5c16c64626a26a329d4f6fd9c7585909246eccc346f24684e8dee34c2dadc100654b85b012e5d55ac318984058ed9feecb44e991ea6b299d1f7ae6c"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a7a102b34c57e1c1c889e6f99de163b6101232ddb73cacbbf296328ec6c53b0b207824230a57e070020076c5f8cad33440a31e10ff43bb453028f5a36b2b9e7a37b7c37cfb5c16c64626a26a329d4f6fd9c7585909246eccc346f24684e8dee34c2dadc100654b85b012e5d55ac318984058ed9feecb44e991ea6b299d1f7ae6c",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

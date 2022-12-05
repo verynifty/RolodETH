@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Forest Spirits  by  ZENFT",
   "imageUrl": "https://i.seadn.io/gae/ZKujAXVFIzvgS4j_3Z2uF7-keeDLrQwR-e8z9f15ro9bAL2P0oZJxZwAUO0Oj-TMJ2YnUJlcGyimbyDJgrH1OBj2_DOaimiTvyGdcg?w=500&auto=format",
   "externalUrl": "http://zenft.xyz",
   "discordUrl": "https://discord.gg/zenft",
   "twitterUsername": "zenft_",
-  "description": "Introducing the Forest Spirits: ancestral children of the forest and caretakers of the bonsai. Each spirit draws power from a universal element, inspiring its role in life.\r\n\r\n\r\nForest Spirits are AR compatible, Metaverse-ready 3D avatars and the second major collection from ZENFT Studio."
+  "description": "Introducing the Forest Spirits: ancestral children of the forest and caretakers of the bonsai. Each spirit draws power from a universal element, inspiring its role in life.\r\n\r\n\r\nForest Spirits are AR compatible, Metaverse-ready 3D avatars and the second major collection from ZENFT Studio.",
+  "erc721_symbol": "SPIRIT"
 }

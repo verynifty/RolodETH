@@ -3,5 +3,6 @@
     "pudgy-pinguin-minter",
     "goblin-town-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "lifereturns.eth"
 }

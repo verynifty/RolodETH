@@ -10,5 +10,6 @@
     "sudoswap-user",
     "snapshot-voter-people-dao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "720yun.eth"
 }
