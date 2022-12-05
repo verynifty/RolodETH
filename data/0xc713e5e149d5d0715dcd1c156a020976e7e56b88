@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aMKR Token V2",
+  "name": "Aave MKR",
   "erc20_symbol": "AMKR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14248/thumb/aMKR.ac965178.png?1615528346"

@@ -4,7 +4,7 @@
     "olympusdao",
     "contract"
   ],
-  "name": "OlympusDAO: OHM Token",
+  "name": "Olympus",
   "erc20_symbol": "OHM",
   "erc20_decimals": 9,
   "imageURL": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1628311611"

@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "SymVerse: Old Token",
+  "name": "SymVerse",
   "erc20_symbol": "SYM",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9449/thumb/Picture1.png?1567551375"

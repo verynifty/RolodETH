@@ -4,9 +4,13 @@ function UniswapTokenList(address) {
     this.address = address;
 }
 
-UniswapTokenList.prototype.addTo = async function(RolodETH) {
+UniswapTokenList.prototype.addTo = async function (RolodETH) {
     const result = {};
-    let resp = await axios.get(this.address);
+    let resp = await axios.get(this.address, {
+        headers: {
+            'accept-encoding': '*',
+        }
+    });
     let tokenList = resp.data.tokens
     // console.log(resp.data.tokens.length)
     for (const token of tokenList) {

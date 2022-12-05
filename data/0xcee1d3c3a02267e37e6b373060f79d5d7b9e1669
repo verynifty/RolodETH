@@ -3,7 +3,7 @@
     "erc20",
     "yffi-finance"
   ],
-  "name": "YFFI.finance: YFFI Token",
+  "name": "yffi finance",
   "erc20_symbol": "YFFI",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11940/thumb/yffi-finance.jpg?1596289302"

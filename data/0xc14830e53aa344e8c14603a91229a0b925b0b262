@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "PopulousXBRLTokenPXT",
+  "name": "Populous XBRL",
   "erc20_symbol": "PXT",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/6207/thumb/populous.jpg?1564992440"

@@ -1,5 +1,10 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "name": "Bao Finance V2",
+  "erc20_symbol": "BAO",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28287/thumb/BAOv2_128px.png?1669344588"
 }

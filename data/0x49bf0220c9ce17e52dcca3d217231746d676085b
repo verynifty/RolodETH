@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "VIXCO: Old VIX Token",
+  "name": "Vixco",
   "erc20_symbol": "VIX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/15405/thumb/vixco.png?1620811916"

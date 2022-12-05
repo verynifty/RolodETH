@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "NucleusVision",
+  "name": "Nucleus Vision",
   "erc20_symbol": "NCASH",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3135/thumb/nv.jpg?1547037544"

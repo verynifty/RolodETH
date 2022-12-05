@@ -4,7 +4,7 @@
     "oobit",
     "contract"
   ],
-  "name": "Oobit: OBT Token",
+  "name": "Oobit",
   "erc20_symbol": "OBT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/19855/thumb/obt.png?1636062272"

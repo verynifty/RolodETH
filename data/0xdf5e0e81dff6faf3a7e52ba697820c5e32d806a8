@@ -3,7 +3,7 @@
     "erc20",
     "curve-fi"
   ],
-  "name": "Curve.fi: yCrv Token",
+  "name": "LP yCurve",
   "erc20_symbol": "YCURVE",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11858/thumb/yCrv.png?1595203628"

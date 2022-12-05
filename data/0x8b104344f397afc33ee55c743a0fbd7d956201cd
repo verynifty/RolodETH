@@ -7,5 +7,6 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-phonon",
     "snapshot-voter-banklessvault"
-  ]
+  ],
+  "ens": "tweetious.eth"
 }

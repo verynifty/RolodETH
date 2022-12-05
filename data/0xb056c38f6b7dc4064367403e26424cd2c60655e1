@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "CEEKVRToken",
+  "name": "CEEK Smart VR",
   "erc20_symbol": "CEEK",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2581/thumb/ceek-smart-vr-token-logo.png?1547036714"

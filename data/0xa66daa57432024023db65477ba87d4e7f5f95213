@@ -4,7 +4,7 @@
     "huobi",
     "contract"
   ],
-  "name": "Huobi Pool Token",
+  "name": "Huobi Pool",
   "erc20_symbol": "HPT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/6628/thumb/Huobi_pool_token.png?1547042829"

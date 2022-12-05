@@ -4,7 +4,7 @@
     "contract"
   ],
   "name": "0xBitcoin",
-  "erc20_symbol": "0xBTC",
+  "erc20_symbol": "0XBTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/4454/thumb/0xbtc.png?1561603765"
 }

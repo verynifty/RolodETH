@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Euro Tether: EURT Token",
+  "name": "Euro Tether",
   "erc20_symbol": "EURT",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/17385/thumb/Tether_full_logo_dm.png?1627537298",

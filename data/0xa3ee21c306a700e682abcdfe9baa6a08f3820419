@@ -3,8 +3,8 @@
     "erc20",
     "contract"
   ],
-  "name": "CreditcoinToken",
-  "erc20_symbol": "GCRE",
+  "name": "Creditcoin",
+  "erc20_symbol": "CTC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/10569/thumb/ctc.png?1644650695"
 }

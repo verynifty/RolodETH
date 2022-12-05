@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Xave",
+  "erc20_symbol": "XAV",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28299/thumb/Xave_Logomark_%28Color%29_%281%29.png?1669265691"
+}

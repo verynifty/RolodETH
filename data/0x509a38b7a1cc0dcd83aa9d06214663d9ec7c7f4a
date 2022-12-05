@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "BlocksquareToken",
+  "name": "Blocksquare",
   "erc20_symbol": "BST",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/23924/thumb/XpkkqPVR_400x400.jpg?1645689021"

@@ -3,7 +3,7 @@
     "erc20",
     "hakka-finance"
   ],
-  "name": "Hakka Finance: BHSc$ Token",
+  "name": "BlackHoleSwap Compound DAI USDC",
   "erc20_symbol": "BHSC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12347/thumb/blackhole.PNG?1599201917"

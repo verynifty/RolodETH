@@ -4,7 +4,7 @@
     "huobi",
     "contract"
   ],
-  "name": "HuobiToken",
+  "name": "Huobi",
   "erc20_symbol": "HT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2822/thumb/huobi-token-logo.png?1547036992"

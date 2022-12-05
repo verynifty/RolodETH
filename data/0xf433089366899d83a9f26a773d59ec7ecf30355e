@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Metal",
+  "name": "Metal DAO",
   "erc20_symbol": "MTL",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/763/thumb/Metal.png?1592195010"

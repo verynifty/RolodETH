@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "MintMe com Coin",
+  "erc20_symbol": "MINTME",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/5127/thumb/MINTME_logo.png?1666845801"
+}

@@ -1,7 +1,12 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "erc20"
   ],
-  "proxy": "0x7a654d7baa1445b55f626d07e5816ce5bd2d853c"
+  "proxy": "0x7a654d7baa1445b55f626d07e5816ce5bd2d853c",
+  "name": "Banano",
+  "erc20_symbol": "BAN",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/6226/thumb/banano-transparent.png?1619589798"
 }

@@ -3,8 +3,8 @@
     "erc20",
     "contract"
   ],
-  "name": "PolkaFoundry",
+  "name": "Firebird",
   "erc20_symbol": "PKF",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14422/thumb/M7vmFGbV_400x400.png?1615972784"
+  "imageURL": "https://assets.coingecko.com/coins/images/14422/thumb/LOGO_FB.png?1669460464"
 }

@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "DAVToken",
+  "name": "DAV Network",
   "erc20_symbol": "DAV",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2842/thumb/DAV-Network-logo.jpg?1547037011"

@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "Feisty Doge: NFD Token",
+  "name": "Feisty Doge NFT",
   "erc20_symbol": "NFD",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/17834/thumb/doge-fractionalized.png?1629390495"

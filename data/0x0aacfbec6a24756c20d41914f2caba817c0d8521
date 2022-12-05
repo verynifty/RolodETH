@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Yam.Finance: YAM Token",
+  "name": "YAM",
   "erc20_symbol": "YAM",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12530/thumb/YAM-icon.png?1600495536",

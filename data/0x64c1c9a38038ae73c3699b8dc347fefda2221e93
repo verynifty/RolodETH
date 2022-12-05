@@ -4,5 +4,6 @@
   ],
   "name": "Swiss NFT Fund",
   "erc20_symbol": "SWISSNFTFUND",
-  "erc20_decimals": 9
+  "erc20_decimals": 9,
+  "imageURL": "https://assets.coingecko.com/coins/images/28221/thumb/LogoSNF200x200.jpg?1669261184"
 }

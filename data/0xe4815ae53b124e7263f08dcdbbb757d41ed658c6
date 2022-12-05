@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "ZKSwap: ZKS Token",
+  "name": "ZKSpace",
   "erc20_symbol": "ZKS",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13585/thumb/zkspace_logo.png?1644486208"

@@ -4,7 +4,7 @@
     "alchemist-coin",
     "contract"
   ],
-  "name": "Alchemist Coin: MIST Token",
+  "name": "Alchemist",
   "erc20_symbol": "MIST",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045"

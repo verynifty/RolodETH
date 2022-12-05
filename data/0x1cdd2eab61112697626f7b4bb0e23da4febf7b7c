@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Wormhole: USDTso Token",
+  "name": "Tether USD  Wormhole ",
   "erc20_symbol": "USDTSO",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1644223113",

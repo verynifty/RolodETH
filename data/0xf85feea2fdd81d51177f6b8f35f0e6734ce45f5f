@@ -4,7 +4,7 @@
     "old-contract",
     "contract"
   ],
-  "name": "CyberMiles: Old Token",
+  "name": "CyberMiles",
   "erc20_symbol": "CMT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1300/thumb/cybermiles.png?1547035327"

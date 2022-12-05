@@ -4,7 +4,7 @@
     "hotbit",
     "contract"
   ],
-  "name": "Hotbit Token",
+  "name": "Hotbit",
   "erc20_symbol": "HTB",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/5990/thumb/hotbit-token.png?1547041932"

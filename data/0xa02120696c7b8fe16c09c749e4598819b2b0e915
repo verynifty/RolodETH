@@ -4,7 +4,7 @@
     "wirex",
     "contract"
   ],
-  "name": "Wirex: WXT Token",
+  "name": "WXT Token",
   "erc20_symbol": "WXT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/8835/thumb/Wirex.jpg?1561970529"

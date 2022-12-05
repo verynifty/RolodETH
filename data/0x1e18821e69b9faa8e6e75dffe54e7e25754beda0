@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Kimchi.Finance: KIMCHI Token",
+  "name": "KIMCHI finance",
   "erc20_symbol": "KIMCHI",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12302/thumb/VBa2Z60o_400x400.png?1598982471"

@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "GTCToken",
+  "name": "Game",
   "erc20_symbol": "GTC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2046/thumb/game.png?1547742459"

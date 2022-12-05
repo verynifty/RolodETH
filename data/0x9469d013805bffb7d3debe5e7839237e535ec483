@@ -4,7 +4,7 @@
     "darwinia-network",
     "contract"
   ],
-  "name": "EvolutionLandGlobalToken",
+  "name": "Darwinia Network",
   "erc20_symbol": "RING",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9443/thumb/RING.png?1615271827"

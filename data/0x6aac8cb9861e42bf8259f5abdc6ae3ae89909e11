@@ -4,8 +4,8 @@
     "website-down",
     "contract"
   ],
-  "name": "BitCoinRed",
-  "erc20_symbol": "BTCR",
+  "name": "Bitcoin Red",
+  "erc20_symbol": "BTCRED",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/1054/thumb/bitcoin-red.png?1547034993"
 }

@@ -5,5 +5,6 @@
   ],
   "erc20_symbol": "GOV",
   "erc20_decimals": 18,
-  "name": "SubDAO Governance"
+  "name": "SubDAO",
+  "imageURL": "https://assets.coingecko.com/coins/images/28379/thumb/gov.png?1669972199"
 }

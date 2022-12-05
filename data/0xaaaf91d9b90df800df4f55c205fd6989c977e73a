@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "TokenCard",
+  "name": "Monolith",
   "erc20_symbol": "TKN",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/675/thumb/Monolith.png?1566296607"

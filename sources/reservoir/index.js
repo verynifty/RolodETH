@@ -11,7 +11,11 @@ reservoir.prototype.addTo = async function (RolodETH) {
     let continuation = true;
     let url = 'https://api.reservoir.tools/collections/v5?includeTopBid=false&sortBy=allTimeVolume&limit=20'
     while (continuation) {
-        let resp = await axios.get(url);
+        let resp = await axios.get(url, {
+            headers: {
+                'accept-encoding': '*',
+            }
+        });
         let collections = resp.data.collections;
         for (const collection of collections) {
             let address = collection.id;

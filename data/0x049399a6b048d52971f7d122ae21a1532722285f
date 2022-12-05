@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "FireLotto",
+  "name": "Fire Lotto",
   "erc20_symbol": "FLOT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2201/thumb/fire-lotto.png?1548126078"

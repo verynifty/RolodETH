@@ -4,7 +4,7 @@
     "omg-network",
     "contract"
   ],
-  "name": "OmiseGO",
+  "name": "OMG Network",
   "erc20_symbol": "OMG",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168"

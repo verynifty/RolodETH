@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "Webflix: Old Token",
+  "name": "WebFlix",
   "erc20_symbol": "WFX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/8559/thumb/dr4OEbWK_400x400.jpg?1559199557"

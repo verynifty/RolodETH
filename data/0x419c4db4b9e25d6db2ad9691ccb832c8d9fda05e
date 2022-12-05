@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Dragon",
+  "name": "Dragonchain",
   "erc20_symbol": "DRGN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1289/thumb/dragonchain.png?1547957761"

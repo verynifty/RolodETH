@@ -3,7 +3,7 @@
     "erc20",
     "typhoon-cash"
   ],
-  "name": "Typhoon Cash: PHOON Token",
+  "name": "Typhoon Cash",
   "erc20_symbol": "PHOON",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13730/thumb/photo_2021-01-21_19-05-27.jpg?1611227665"

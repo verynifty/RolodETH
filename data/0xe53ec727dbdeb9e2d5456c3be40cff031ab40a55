@@ -3,8 +3,8 @@
     "erc20",
     "contract"
   ],
-  "name": "SuperFarm",
+  "name": "SuperVerse",
   "erc20_symbol": "SUPER",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899"
+  "imageURL": "https://assets.coingecko.com/coins/images/14040/thumb/SuperVerse_Logo_200x200.png?1669963064"
 }

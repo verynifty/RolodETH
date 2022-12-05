@@ -4,8 +4,8 @@
     "kyber-network",
     "contract"
   ],
-  "name": "KyberNetwork",
-  "erc20_symbol": "KNC",
+  "name": "Kyber Network Crystal Legacy",
+  "erc20_symbol": "KNCL",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/947/thumb/logo-kncl.png?1618984814"
 }

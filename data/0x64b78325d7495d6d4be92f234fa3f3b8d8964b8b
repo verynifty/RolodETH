@@ -3,7 +3,8 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": " SHOP",
+  "erc20_symbol": "SHOP",
   "erc20_decimals": 18,
-  "name": "SHOP"
+  "name": "Shopping io",
+  "imageURL": "https://assets.coingecko.com/coins/images/27242/thumb/shop.png?1663123573"
 }

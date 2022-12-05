@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "GLOBRIDGE: Old PICK Token",
+  "name": "PICK",
   "erc20_symbol": "PICK",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12243/thumb/nZlFKAmk_400x400.jpg?1598444299"

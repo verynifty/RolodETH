@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "WiBXUtilityToken",
+  "name": "WiBX",
   "erc20_symbol": "WBX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11009/thumb/wibx_new_logo.png?1632122685"

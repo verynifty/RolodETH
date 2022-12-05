@@ -3,7 +3,7 @@
     "erc20",
     "resfinex"
   ],
-  "name": "Resfinex Exchange Token",
+  "name": "Resfinex Token",
   "erc20_symbol": "RES",
   "erc20_decimals": 5,
   "imageURL": "https://assets.coingecko.com/coins/images/10026/thumb/logo_%281%29.png?1588935633"

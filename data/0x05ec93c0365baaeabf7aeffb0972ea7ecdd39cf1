@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aBAT Token V2",
+  "name": "Aave BAT",
   "erc20_symbol": "ABAT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14246/thumb/aBAT.1fe436f7_-_Copy.png?1615528663"

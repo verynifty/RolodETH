@@ -4,7 +4,7 @@
     "old-contract",
     "contract"
   ],
-  "name": "Aeternity: Old Token",
+  "name": "Aeternity",
   "erc20_symbol": "AE",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1091/thumb/aeternity.png?1547035060"

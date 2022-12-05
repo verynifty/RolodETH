@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aCRV Token V2",
+  "name": "Aave CRV",
   "erc20_symbol": "ACRV",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/17250/thumb/aCRV_2x.png?1626941642"

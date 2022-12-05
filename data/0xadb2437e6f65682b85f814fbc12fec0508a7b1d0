@@ -4,7 +4,7 @@
     "unicrypt",
     "contract"
   ],
-  "name": "Unicrypt: UNCX Token",
+  "name": "UniCrypt",
   "erc20_symbol": "UNCX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12871/thumb/unicrypt_logo.png?1603178739"

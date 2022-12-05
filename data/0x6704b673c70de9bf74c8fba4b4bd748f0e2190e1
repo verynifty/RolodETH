@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "UBEXToken",
+  "name": "Ubex",
   "erc20_symbol": "UBEX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/4163/thumb/ubex.png?1547039421"

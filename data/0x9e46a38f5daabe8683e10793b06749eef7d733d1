@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Nectar",
+  "name": "PolySwarm",
   "erc20_symbol": "NCT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767"

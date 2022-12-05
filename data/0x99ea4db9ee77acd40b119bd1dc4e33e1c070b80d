@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "QuantstampToken",
+  "name": "Quantstamp",
   "erc20_symbol": "QSP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1219/thumb/0_E0kZjb4dG4hUnoDD_.png?1604815917"

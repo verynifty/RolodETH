@@ -5,7 +5,7 @@
     "aave",
     "contract"
   ],
-  "name": "Aave: aSNX Token V1",
+  "name": "Aave SNX v1",
   "erc20_symbol": "ASNX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11733/thumb/aSNX.png?1593085047"

@@ -5,11 +5,11 @@
     "contract",
     "proxy"
   ],
-  "name": "Async Blueprints",
-  "imageUrl": "https://i.seadn.io/gcs/files/d6fb878fdeebeff1518276539a2a8356.png?w=500&auto=format",
-  "externalUrl": "http://async.art/blueprints",
-  "discordUrl": "https://discord.gg/async",
+  "name": "Grifters by XCOPY",
+  "imageUrl": "https://i.seadn.io/gae/X_oAA8f4sqxZNiyEpEWE3sXuzzlt-SY1NC4b2xrqrO65LQEfSFis0l7lwAvvA0f_p_EZMyMRdCnEo6Adhu9sEVEYmnukxhubRcQ3dg?w=500&auto=format",
+  "externalUrl": "https://async.art/blueprints/61b6c374bd2df4be86ef7aa5/xcopy-grifters",
+  "discordUrl": "https://discord.gg/y3TFzusNkt",
   "twitterUsername": "AsyncArt",
-  "description": "Explore limited editions of generative and provably random art collections made with Blueprints on Async Canvas.",
+  "description": "Grifters gonna grift! - powered by Async Blueprints",
   "proxy": "0x59573dccbdcf66e8f2df6ed8b4e388b374ba278f"
 }

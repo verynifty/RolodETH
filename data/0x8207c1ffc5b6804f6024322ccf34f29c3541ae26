@@ -4,7 +4,7 @@
     "origin-protocol",
     "contract"
   ],
-  "name": "OriginToken",
+  "name": "Origin Protocol",
   "erc20_symbol": "OGN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878"

@@ -3,7 +3,8 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "SpillWays",
+  "erc20_symbol": "SPILLWAYS",
   "erc20_decimals": 18,
-  "name": "SpillWays"
+  "name": "Spillways",
+  "imageURL": "https://assets.coingecko.com/coins/images/28358/thumb/1669791775144_%281%29.png?1669794825"
 }

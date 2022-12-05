@@ -2,5 +2,9 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "name": "World Bet Inu",
+  "erc20_symbol": "WBI",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28279/thumb/WBIlogo.png?1669107582"
 }

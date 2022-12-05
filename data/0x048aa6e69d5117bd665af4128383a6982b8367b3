@@ -3,7 +3,8 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "$VXON",
+  "erc20_symbol": "VXON",
   "erc20_decimals": 4,
-  "name": "VoxNET"
+  "name": "VoxNET",
+  "imageURL": "https://assets.coingecko.com/coins/images/28369/thumb/VoxNETlogo.png?1669947735"
 }

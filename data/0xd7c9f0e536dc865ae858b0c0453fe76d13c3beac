@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "XAI",
+  "name": "XAI Stablecoin",
   "erc20_symbol": "XAI",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/28254/thumb/Xai_logo.png?1668674085"

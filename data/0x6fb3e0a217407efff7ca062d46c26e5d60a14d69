@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "IoTeXNetwork",
+  "name": "IoTeX",
   "erc20_symbol": "IOTX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3334/thumb/iotex-logo.png?1547037941"

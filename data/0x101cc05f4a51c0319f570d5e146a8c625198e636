@@ -6,7 +6,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Aave: aTUSD Token V2",
+  "name": "Aave TUSD",
   "erc20_symbol": "ATUSD",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14317/thumb/aTUSD.08592b49.png?1615528207",

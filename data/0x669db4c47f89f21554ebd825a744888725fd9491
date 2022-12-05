@@ -3,7 +3,8 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "hiPENGUINS",
+  "erc20_symbol": "HIPENGUINS",
   "erc20_decimals": 18,
-  "name": "hiPENGUINS"
+  "name": "hiPENGUINS",
+  "imageURL": "https://assets.coingecko.com/coins/images/28381/thumb/63856bebcd8c700001b23c42_hiPENGUINS-_Logo.png?1669974038"
 }

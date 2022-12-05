@@ -5,5 +5,6 @@
   ],
   "erc20_symbol": "SX",
   "erc20_decimals": 18,
-  "name": "SX Token"
+  "name": "Space Xmitter",
+  "imageURL": "https://assets.coingecko.com/coins/images/28335/thumb/X200.png?1669680704"
 }

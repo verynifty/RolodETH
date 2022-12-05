@@ -5,5 +5,6 @@
   ],
   "erc20_symbol": "DFX",
   "erc20_decimals": 18,
-  "name": "DeFi²"
+  "name": "DeFi ",
+  "imageURL": "https://assets.coingecko.com/coins/images/28351/thumb/b3a69dfd-3250-4382-8fee-be61acc7c5de.png?1669771397"
 }

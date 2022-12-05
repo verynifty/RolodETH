@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "ClayStack Staked MATIC",
+  "erc20_symbol": "CSMATIC",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28352/thumb/csMatic.png?1669771887"
+}

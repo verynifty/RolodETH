@@ -3,7 +3,7 @@
     "erc20",
     "arcx"
   ],
-  "name": "ARCx: ARCx Token",
+  "name": "ARC Governance",
   "erc20_symbol": "ARCX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/15652/thumb/coingecko-arcx-400x400.png?1634285525"

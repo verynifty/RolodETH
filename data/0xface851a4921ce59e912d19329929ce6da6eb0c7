@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Compound: cLink Token",
+  "name": "cLINK",
   "erc20_symbol": "CLINK",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/23943/thumb/iShot2022-02-25_14.35.54.png?1645770966",

@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "PillarProject",
+  "name": "Pillar",
   "erc20_symbol": "PLR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/809/thumb/v2logo-1.png?1624906282"

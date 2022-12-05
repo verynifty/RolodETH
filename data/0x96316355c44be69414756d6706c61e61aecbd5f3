@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cosmic Ducks(To Fuse)",
   "imageUrl": "https://i.seadn.io/gae/1PiNpnkEWiVor5zE44JCWBZg9GOZJCcHMcmSXV9zfwkJGfMHFECbTHFDBvMF2dy198pDL1pC2i1TLFDU4P9FSIWOtuUSDhTK2qhd5w?w=500&auto=format",
   "externalUrl": "https://cosmic-labs.io/#/",
   "discordUrl": "https://discord.gg/cosmiclabsnft",
   "twitterUsername": "CosmicLabsNFT",
-  "description": "This Collection is only to burn and Fuse 2 ducks unlocking a [Cosmic Fusions](https://opensea.io/collection/cosmicfusions?search[sortAscending]=true&search[sortBy]=PRICE)\n\nCosmic Labs Main Collection : [Cosmic Genesis](https://opensea.io/collection/cosmiclabs)\n\n2600 Cosmic Ducks Burned (As of 05/09/22)\n\n\n"
+  "description": "This Collection is only to burn and Fuse 2 ducks unlocking a [Cosmic Fusions](https://opensea.io/collection/cosmicfusions?search[sortAscending]=true&search[sortBy]=PRICE)\n\nCosmic Labs Main Collection : [Cosmic Genesis](https://opensea.io/collection/cosmiclabs)\n\n2600 Cosmic Ducks Burned (As of 05/09/22)\n\n\n",
+  "erc721_symbol": "CLABS"
 }

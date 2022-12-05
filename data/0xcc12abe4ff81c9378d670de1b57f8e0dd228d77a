@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aREN Token V2",
+  "name": "Aave REN",
   "erc20_symbol": "AREN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14249/thumb/aREN.382be386.png?1615528633"

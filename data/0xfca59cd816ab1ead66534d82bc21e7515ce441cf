@@ -4,7 +4,7 @@
     "rarible",
     "contract"
   ],
-  "name": "Rarible: RARI Token 1",
+  "name": "Rarible",
   "erc20_symbol": "RARI",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953"

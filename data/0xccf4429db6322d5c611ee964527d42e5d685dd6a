@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Compound: cWBTC2 Token",
+  "name": "cWBTC",
   "erc20_symbol": "CWBTC",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/10823/thumb/cwbtc.png?1584331700",

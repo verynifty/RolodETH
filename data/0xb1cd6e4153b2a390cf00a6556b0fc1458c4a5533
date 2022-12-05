@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "BancorETHBNTLiquidityPool",
+  "name": "ETHBNT Relay",
   "erc20_symbol": "ETHBNT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/10664/thumb/ETHBNT_Relay.png?1581486882"

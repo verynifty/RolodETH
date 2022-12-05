@@ -3,8 +3,8 @@
     "erc20",
     "old-contract"
   ],
-  "name": "pTokensBTC",
-  "erc20_symbol": "pBTC",
+  "name": "pTokens BTC  OLD ",
+  "erc20_symbol": "PBTC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/10805/thumb/J51iIea.png?1583891599"
 }

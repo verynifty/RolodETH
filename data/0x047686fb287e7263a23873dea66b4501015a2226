@@ -4,7 +4,7 @@
     "blockchain-cuties",
     "contract"
   ],
-  "name": "BC: Cute Coin",
+  "name": "Blockchain Cuties Universe",
   "erc20_symbol": "CUTE",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/8328/thumb/bnLvIEl1_400x400.jpg?1557533240"

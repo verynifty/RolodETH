@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Root",
+  "erc20_symbol": "ROOT",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28366/thumb/root-200x200.png?1669907946"
+}

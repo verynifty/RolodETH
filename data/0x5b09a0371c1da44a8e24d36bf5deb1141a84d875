@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "MAD",
+  "name": "MADNetwork",
   "erc20_symbol": "MAD",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2031/thumb/Logo.png?1606984567"

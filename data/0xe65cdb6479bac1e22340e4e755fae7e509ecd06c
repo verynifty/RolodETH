@@ -5,7 +5,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Compound: cAAVE Token",
+  "name": "cAAVE",
   "erc20_symbol": "CAAVE",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/17527/thumb/caave.PNG?1628122171",

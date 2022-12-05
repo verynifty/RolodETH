@@ -4,7 +4,7 @@
     "proxy-contract",
     "synthetix"
   ],
-  "name": "Synthetix: Proxy sEUR Token",
+  "name": "sEUR",
   "erc20_symbol": "SEUR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13637/thumb/sEUR.png?1610609277"

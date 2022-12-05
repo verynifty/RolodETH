@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "CoinDash",
+  "name": "Blox",
   "erc20_symbol": "CDT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1231/thumb/Blox_Staking_Logo_2.png?1609117544"

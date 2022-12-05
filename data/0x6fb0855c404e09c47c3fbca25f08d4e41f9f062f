@@ -4,7 +4,7 @@
     "aave-v1",
     "aave"
   ],
-  "name": "Aave: aZRX Token V1",
+  "name": "Aave ZRX v1",
   "erc20_symbol": "AZRX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/11735/thumb/aZRX.png?1593085371"

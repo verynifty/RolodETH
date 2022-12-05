@@ -4,7 +4,7 @@
     "unicrypt",
     "contract"
   ],
-  "name": "Unicrypt: UNCL Token",
+  "name": "UNCL",
   "erc20_symbol": "UNCL",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13102/thumb/uncl_logo.png?1605230945"

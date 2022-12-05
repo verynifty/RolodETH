@@ -3,7 +3,7 @@
     "erc20",
     "my-crypto-heroes"
   ],
-  "name": "MCH: MCHC Token",
+  "name": "MCH Coin",
   "erc20_symbol": "MCHC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/15399/thumb/MCHC.jpg?1620721307"

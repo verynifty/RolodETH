@@ -4,7 +4,7 @@
     "contract-deployer",
     "contract"
   ],
-  "name": "Shardus: ULT Token",
+  "name": "Shardus",
   "erc20_symbol": "ULT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/8383/thumb/final_logo_photoshop.png?1557890272"

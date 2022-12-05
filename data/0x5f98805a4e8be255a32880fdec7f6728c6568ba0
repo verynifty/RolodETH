@@ -4,7 +4,7 @@
     "liquity",
     "contract"
   ],
-  "name": "Liquity LUSD: LUSD Token",
+  "name": "Liquity USD",
   "erc20_symbol": "LUSD",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327"

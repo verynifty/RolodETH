@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "PowerLedger",
+  "name": "Power Ledger",
   "erc20_symbol": "POWR",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082"

@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "PKGToken",
+  "name": "PKG",
   "erc20_symbol": "PKG",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/5422/thumb/pkg-token.png?1548331357"

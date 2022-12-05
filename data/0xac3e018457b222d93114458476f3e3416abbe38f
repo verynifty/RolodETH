@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Staked Frax Ether",
+  "erc20_symbol": "SFRXETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28285/thumb/JjqQ9ROz_400x400.jpeg?1669170466"
+}

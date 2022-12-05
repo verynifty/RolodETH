@@ -5,5 +5,6 @@
   ],
   "erc20_symbol": "MARBLEX7",
   "erc20_decimals": 18,
-  "name": "MARBLEPRIX7"
+  "name": "MarblePrix",
+  "imageURL": "https://assets.coingecko.com/coins/images/28322/thumb/Mp_logo_2.png?1669379614"
 }

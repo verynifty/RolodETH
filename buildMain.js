@@ -69,6 +69,9 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await CoingeckoTokenList.addTo(RolodETH)
+    await Reservoir.addTo(RolodETH);
+    return;
     await snapshotvoting.addTo(RolodETH);
     return
     await os_users.addTo(RolodETH);
@@ -79,13 +82,12 @@ const NFTMinters = [
 
 
 
-    //await Reservoir.addTo(RolodETH);
+    //
     return;
     await MyCryptoTokenList.addTo(RolodETH)
     await UniswapPairsList.addTo(RolodETH)
     return
     await MyEtherWalletDarkListLabels.addTo(RolodETH);
-    await CoingeckoTokenList.addTo(RolodETH)
     await estherscanLabels.addTo(RolodETH);
     return
     for (const m of NFTMinters) {

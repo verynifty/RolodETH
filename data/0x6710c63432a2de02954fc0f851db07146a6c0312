@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "SyncFabSmartManufacturingBlockchain",
+  "name": "Smart MFG",
   "erc20_symbol": "MFG",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1842/thumb/Smart_MFG_Cropped_Logo.png?1621422155"

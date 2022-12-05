@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "hiGAZERS",
+  "erc20_symbol": "HIGAZERS",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28316/thumb/higazers.png?1669358592"
+}

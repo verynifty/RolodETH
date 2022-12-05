@@ -10,5 +10,6 @@
     "sudoswap-user",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "dumbazz.eth"
 }

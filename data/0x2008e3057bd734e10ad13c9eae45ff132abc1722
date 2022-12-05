@@ -4,7 +4,7 @@
     "old-contract",
     "contract"
   ],
-  "name": "Zebi: Old Token",
+  "name": "Zebi",
   "erc20_symbol": "ZCO",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/2756/thumb/zebi.png?1548761131"

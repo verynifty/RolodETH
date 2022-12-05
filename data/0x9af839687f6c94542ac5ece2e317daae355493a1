@@ -4,8 +4,8 @@
     "hydro-protocol",
     "contract"
   ],
-  "name": "HydroProtocol",
-  "erc20_symbol": "HOTHydro",
+  "name": "Hydro Protocol",
+  "erc20_symbol": "HOT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2570/thumb/Hydro-Protocol.png?1558069424"
 }

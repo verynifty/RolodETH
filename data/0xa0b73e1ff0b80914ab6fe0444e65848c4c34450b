@@ -4,8 +4,8 @@
     "crypto-com",
     "contract"
   ],
-  "name": "Cronos Coin: CRO Token",
+  "name": "Cronos",
   "erc20_symbol": "CRO",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/7310/thumb/oCw2s3GI_400x400.jpeg?1645172042"
+  "imageURL": "https://assets.coingecko.com/coins/images/7310/thumb/cro_token_logo.png?1669699773"
 }

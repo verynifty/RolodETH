@@ -4,7 +4,7 @@
     "strongblock",
     "contract"
   ],
-  "name": "StrongBlock: STRONG Token",
+  "name": "Strong",
   "erc20_symbol": "STRONG",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12092/thumb/STRONG-Token-256x256.png?1597823573"

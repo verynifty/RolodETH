@@ -5,5 +5,6 @@
     "pudgy-pinguin-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "rizal.eth"
 }

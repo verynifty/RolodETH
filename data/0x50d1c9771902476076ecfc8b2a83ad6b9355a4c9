@@ -4,7 +4,7 @@
     "ftx",
     "contract"
   ],
-  "name": "FTX: FTT Token",
+  "name": "FTX",
   "erc20_symbol": "FTT",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9026/thumb/F.png?1609051564"

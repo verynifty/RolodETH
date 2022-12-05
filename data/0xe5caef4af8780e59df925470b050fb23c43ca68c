@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Ferrum Network Token",
+  "name": "Ferrum Network",
   "erc20_symbol": "FRM",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/8251/thumb/FRM.png?1658819429"

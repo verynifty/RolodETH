@@ -4,7 +4,7 @@
     "tokenlon",
     "contract"
   ],
-  "name": "Tokenlon: LON Token",
+  "name": "Tokenlon",
   "erc20_symbol": "LON",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13454/thumb/lon_logo.png?1608701720"

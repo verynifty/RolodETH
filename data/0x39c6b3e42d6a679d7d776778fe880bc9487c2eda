@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aKNC Token V2",
+  "name": "Aave KNC",
   "erc20_symbol": "AKNC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14250/thumb/aKNC.42bcd2e3.png?1615528613"

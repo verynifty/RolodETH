@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "LockChain",
+  "name": "LockTrip",
   "erc20_symbol": "LOC",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1357/thumb/LOC_Transparent_New.png?1579491094"

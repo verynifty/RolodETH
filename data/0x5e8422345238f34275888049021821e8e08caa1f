@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "Frax Ether",
+  "erc20_symbol": "FRXETH",
+  "erc20_decimals": 18,
+  "imageURL": "https://assets.coingecko.com/coins/images/28284/thumb/JjqQ9ROz_400x400.jpeg?1669170320"
+}

@@ -10,5 +10,6 @@
   "externalUrl": "http://plottables.io",
   "discordUrl": "https://discord.gg/umEbqdFxQv",
   "twitterUsername": "plottablesio",
-  "description": "Plottables is a platform dedicated to pen plottable generative art."
+  "description": "Plottables is a platform dedicated to pen plottable generative art.",
+  "erc721_symbol": "PLOTSFLEX"
 }

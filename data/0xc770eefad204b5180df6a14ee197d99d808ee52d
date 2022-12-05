@@ -4,7 +4,7 @@
     "shapeshift",
     "contract"
   ],
-  "name": "FOX",
+  "name": "ShapeShift FOX",
   "erc20_symbol": "FOX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622"

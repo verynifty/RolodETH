@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "StarToken",
+  "name": "Starbase",
   "erc20_symbol": "STAR",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/1449/thumb/starbase.png?1548610771"

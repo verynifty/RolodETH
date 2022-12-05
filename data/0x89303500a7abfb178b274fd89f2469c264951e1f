@@ -2,7 +2,7 @@
   "tags": [
     "erc20"
   ],
-  "name": "RefToken",
+  "name": "Ref",
   "erc20_symbol": "REF",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/2575/thumb/reftoken.png?1548608011"

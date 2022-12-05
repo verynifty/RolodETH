@@ -4,7 +4,7 @@
     "ftx",
     "contract"
   ],
-  "name": "FTX: 3X Long Bitcoin Token",
+  "name": "3X Long Bitcoin Token",
   "erc20_symbol": "BULL",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9992/thumb/683JEXMN_400x400.png?1574418750"

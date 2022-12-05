@@ -4,7 +4,7 @@
     "celsius-network",
     "contract"
   ],
-  "name": "Celsius Network: CEL Token",
+  "name": "Celsius Network",
   "erc20_symbol": "CEL",
   "erc20_decimals": 4,
   "imageURL": "https://assets.coingecko.com/coins/images/3263/thumb/CEL_logo.png?1609598753"

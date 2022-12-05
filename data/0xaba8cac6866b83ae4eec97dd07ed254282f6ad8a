@@ -3,8 +3,8 @@
     "erc20",
     "old-contract"
   ],
-  "name": "YAMV2",
-  "erc20_symbol": "YAMv2",
+  "name": "YAM v2",
+  "erc20_symbol": "YAMV2",
   "erc20_decimals": 24,
   "imageURL": "https://assets.coingecko.com/coins/images/12179/thumb/YAM-v2.png?1597892396"
 }

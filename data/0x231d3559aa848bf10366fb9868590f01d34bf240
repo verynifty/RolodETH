@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "VAL",
-  "name": "Valhalla"
+  "name": "Valhalla",
+  "imageUrl": "https://i.seadn.io/gcs/files/d7936464d55988206c1b16c6929856f6.jpg?w=500&auto=format",
+  "externalUrl": "http://joinvalhalla.com",
+  "discordUrl": "https://discord.gg/joinvalhalla",
+  "twitterUsername": "valhalla",
+  "description": "Valhalla is a crypto native brand for gamers. \n\nValhalla represents more than a collection of digital avatars. It represents decades of gaming culture: the clutch plays, the ELO grind, the OT wins. Visit joinvalhalla.com for more details."
 }

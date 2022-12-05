@@ -4,7 +4,7 @@
     "old-contract",
     "contract"
   ],
-  "name": "MatrixAINetwork",
+  "name": "Matrix AI Network",
   "erc20_symbol": "MAN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/2698/thumb/matrix-ai-network.png?1547978533"

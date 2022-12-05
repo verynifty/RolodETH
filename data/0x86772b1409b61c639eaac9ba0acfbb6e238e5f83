@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Indexed: NDX Token",
+  "name": "Indexed Finance",
   "erc20_symbol": "NDX",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/13546/thumb/indexed-light.74bb5471.png?1609712728"

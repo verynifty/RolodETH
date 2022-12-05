@@ -5,5 +5,6 @@
   ],
   "erc20_symbol": "FUND",
   "erc20_decimals": 9,
-  "name": "Unification"
+  "name": "Unification",
+  "imageURL": "https://assets.coingecko.com/coins/images/7845/thumb/DV80FOp.png?1554953278"
 }

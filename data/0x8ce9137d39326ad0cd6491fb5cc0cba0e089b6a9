@@ -4,7 +4,7 @@
     "swipe-io",
     "contract"
   ],
-  "name": "Swipe: SXP Token",
+  "name": "SXP",
   "erc20_symbol": "SXP",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311"

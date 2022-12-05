@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Phala Network: PHA Token",
+  "name": "Phala Network",
   "erc20_symbol": "PHA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12451/thumb/phala.png?1600061318"

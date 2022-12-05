@@ -4,7 +4,7 @@
     "aave-v2",
     "aave"
   ],
-  "name": "Aave: aMANA Token V2",
+  "name": "Aave MANA",
   "erc20_symbol": "AMANA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/14267/thumb/aMANA.f89a1098.png?1615528680"

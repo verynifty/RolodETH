@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "OceanToken",
+  "name": "Ocean Protocol",
   "erc20_symbol": "OCEAN",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686"

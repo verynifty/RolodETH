@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "Linear Finance: LINA Token",
+  "name": "Linear",
   "erc20_symbol": "LINA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/12509/thumb/1649227343-linalogo200px.png?1649229117"

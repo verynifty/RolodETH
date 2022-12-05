@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "BitWell: Old WELL Token",
+  "name": "Bitwell",
   "erc20_symbol": "WELL",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/15878/thumb/IYW0e-3S_400x400.jpg?1622187107"

@@ -3,7 +3,7 @@
     "erc20",
     "foam"
   ],
-  "name": "FOAMToken",
+  "name": "FOAM",
   "erc20_symbol": "FOAM",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/3345/thumb/K51lJQc.png?1547037959"

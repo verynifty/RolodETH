@@ -4,7 +4,7 @@
     "aura-finance",
     "contract"
   ],
-  "name": "Aura: AURA Token",
+  "name": "Aura Finance",
   "erc20_symbol": "AURA",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187"

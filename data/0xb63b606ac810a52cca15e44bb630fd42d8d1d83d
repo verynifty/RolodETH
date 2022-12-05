@@ -4,7 +4,7 @@
     "crypto-com",
     "contract"
   ],
-  "name": "Cryptocom",
+  "name": "MCO",
   "erc20_symbol": "MCO",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/739/thumb/1776.png?1648537078"

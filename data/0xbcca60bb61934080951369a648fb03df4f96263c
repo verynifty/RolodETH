@@ -6,7 +6,7 @@
     "contract",
     "proxy"
   ],
-  "name": "Aave: aUSDC Token V2",
+  "name": "Aave USDC",
   "erc20_symbol": "AUSDC",
   "erc20_decimals": 6,
   "imageURL": "https://assets.coingecko.com/coins/images/14318/thumb/aUSDC.e260d492.png?1615527797",

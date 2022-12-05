@@ -3,7 +3,7 @@
     "erc20",
     "contract"
   ],
-  "name": "RAEToken",
+  "name": "Receive Access Ecosystem",
   "erc20_symbol": "RAE",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/9428/thumb/Copy_of_raetoken.png?1567290545"

@@ -5,9 +5,9 @@
     "contract",
     "proxy"
   ],
-  "name": "Ooki: OOKI Token",
+  "name": "Ooki",
   "erc20_symbol": "OOKI",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21719/thumb/Ooki.png?1640699416",
+  "imageURL": "https://assets.coingecko.com/coins/images/21719/thumb/Ooki_Token.png?1669772543",
   "proxy": "0x5a06e8b21c8362720f6fc5587b22c07c957718e3"
 }

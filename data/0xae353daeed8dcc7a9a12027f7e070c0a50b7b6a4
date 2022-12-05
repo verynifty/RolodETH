@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "erc20"
+  ],
+  "name": "InnovaMinex",
+  "erc20_symbol": "MINX",
+  "erc20_decimals": 6,
+  "imageURL": "https://assets.coingecko.com/coins/images/7116/thumb/innovaminex.jpg?1547043613"
+}

@@ -4,7 +4,7 @@
     "digifinex",
     "old-contract"
   ],
-  "name": "DigiFinex: Old DFT Token",
+  "name": "DigiFinex",
   "erc20_symbol": "DFT",
   "erc20_decimals": 8,
   "imageURL": "https://assets.coingecko.com/coins/images/4819/thumb/digifinextoken.png?1547040187"

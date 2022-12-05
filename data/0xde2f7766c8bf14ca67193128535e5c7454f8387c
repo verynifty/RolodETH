@@ -3,7 +3,7 @@
     "erc20",
     "old-contract"
   ],
-  "name": "Metadium: Old Token",
+  "name": "Metadium",
   "erc20_symbol": "META",
   "erc20_decimals": 18,
   "imageURL": "https://assets.coingecko.com/coins/images/5247/thumb/META_Logo_black.png?1548833790"
