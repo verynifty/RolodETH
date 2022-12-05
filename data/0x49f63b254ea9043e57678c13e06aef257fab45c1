@@ -3,5 +3,6 @@
     "wow-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-snapshot-dcl"
-  ]
+  ],
+  "ens": "zhask.eth"
 }

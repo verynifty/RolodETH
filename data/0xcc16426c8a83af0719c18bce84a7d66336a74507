@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "gong520.eth"
 }

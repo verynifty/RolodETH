@@ -11,5 +11,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-etherscoredao"
-  ]
+  ],
+  "ens": "5stars.eth"
 }

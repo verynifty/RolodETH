@@ -17,5 +17,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
     "snapshot-voter-alchemixstakers"
-  ]
+  ],
+  "ens": "0xoffical.eth"
 }

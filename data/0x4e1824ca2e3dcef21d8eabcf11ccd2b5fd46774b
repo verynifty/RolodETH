@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Chain Runners XR",
   "imageUrl": "https://i.seadn.io/gae/sybedFw9L2TORXuksKNHt59AV_uC3NQIuIXbD_ry10zbFM5ZL-Zi8GTwoySLCKEVLUHSh4J2-9faeh-MTc7L6EvSUXVS-mxnqgZe?w=500&auto=format",
   "externalUrl": "https://chainrunners.xyz/",
   "discordUrl": "https://discord.gg/chainrunners",
   "twitterUsername": "chain_runners",
-  "description": "[Minting now!](https://somnet.chainrunners.xyz)\n\nChain Runners XR is the newest addition to the Chain Runners Universe. Your XR is your player token to be used across the vast web of digital experiences known as the metaverse. Play as your runner and dance between the ever-blurring lines of the physical and digital world. This is the foundation of a 3D Runnerverse."
+  "description": "[Minting now!](https://somnet.chainrunners.xyz)\n\nChain Runners XR is the newest addition to the Chain Runners Universe. Your XR is your player token to be used across the vast web of digital experiences known as the metaverse. Play as your runner and dance between the ever-blurring lines of the physical and digital world. This is the foundation of a 3D Runnerverse.",
+  "erc721_symbol": "XR"
 }

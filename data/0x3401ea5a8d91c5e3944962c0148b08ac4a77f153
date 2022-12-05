@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "meebit-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "satman.eth"
 }

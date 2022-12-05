@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "DOOM by Taylor",
   "imageUrl": "https://i.seadn.io/gcs/files/c5e6d42da810446ae7b9705006aa2d79.png?w=500&auto=format",
   "twitterUsername": "beam_easy",
-  "description": "1000 randomly generated artworks, comprised of real paint and digital objects. Created with p5.js by [Taylor](https://twitter.com/beam_easy)."
+  "description": "1000 randomly generated artworks, comprised of real paint and digital objects. Created with p5.js by [Taylor](https://twitter.com/beam_easy).",
+  "proxy": "0xcc11f660e119cf5c320d46a6ee5b3a9b5e26a70c"
 }

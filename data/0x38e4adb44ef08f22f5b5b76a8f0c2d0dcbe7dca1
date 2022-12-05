@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "PowerPool Concentrated Voting Power",
   "erc20_symbol": "CVP",

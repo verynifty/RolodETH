@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Project Dudes",
   "imageUrl": "https://i.seadn.io/gcs/files/d98bca90780ccad37f1d4a5d87770866.jpg?w=500&auto=format",
   "externalUrl": "http://projectdudes.io",
   "twitterUsername": "projectdudes",
-  "description": "‘SAH, DUDE!🤙🏼 MINTED OUT\n\nWe are a 8k project designed with people in mind. We aim to help bridge the gap between 1/1 artists and PFP connoisseurs. \n20% of royalties go directly into the hands of emerging Web3 creators. \n\nCheck out our website and come hang out with the founders in Twitter Spaces! @projectdudes"
+  "description": "‘SAH, DUDE!🤙🏼 MINTED OUT\n\nWe are a 8k project designed with people in mind. We aim to help bridge the gap between 1/1 artists and PFP connoisseurs. \n20% of royalties go directly into the hands of emerging Web3 creators. \n\nCheck out our website and come hang out with the founders in Twitter Spaces! @projectdudes",
+  "erc721_symbol": "DUDES"
 }

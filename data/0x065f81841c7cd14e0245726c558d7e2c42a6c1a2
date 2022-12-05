@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "songer1993.eth"
 }

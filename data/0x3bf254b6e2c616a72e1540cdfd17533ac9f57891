@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "M.U.G.S",
   "imageUrl": "https://i.seadn.io/gae/Iwtr1OUiAEPJXWzp5BPOlxgg0EHZ5JaptcrjttfXUckTtEWrODtOCCuoTTFafDjTOvynuGsPu_yVZsyLN6FseFrl9mn8MwgLt5anPg?w=500&auto=format",
   "externalUrl": "https://gmstudios.gg/",
   "discordUrl": "https://discord.gg/thze3jkrps",
   "twitterUsername": "gmstudiosgg",
-  "description": "M.U.G.S. is an NFT project developed for the community. We love GMs, just like you do. With months in the making, our team has spent uncountable hours and sleepless nights brainstorming, sketching and modeling ideas to keep you company every morning.\n\n\nM.U.G.S. is your everyday mug to your everyday GM. It is the beginning of the GM Studios’ journey. Claim your free mugs and be a part of GM Studios."
+  "description": "M.U.G.S. is an NFT project developed for the community. We love GMs, just like you do. With months in the making, our team has spent uncountable hours and sleepless nights brainstorming, sketching and modeling ideas to keep you company every morning.\n\n\nM.U.G.S. is your everyday mug to your everyday GM. It is the beginning of the GM Studios’ journey. Claim your free mugs and be a part of GM Studios.",
+  "erc721_symbol": "M.U.G.S"
 }

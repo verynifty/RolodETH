@@ -10,5 +10,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "ohweb3.eth"
 }

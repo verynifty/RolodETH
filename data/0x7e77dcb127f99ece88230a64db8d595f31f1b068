@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "sILV2",
+  "erc20_decimals": 18,
+  "name": "Escrowed Illuvium 2"
 }

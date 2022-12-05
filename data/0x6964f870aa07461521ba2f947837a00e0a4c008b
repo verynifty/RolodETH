@@ -4,5 +4,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "ioio.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pastel World Official",
   "imageUrl": "https://i.seadn.io/gcs/files/e04d7a69d70d570c729813636b996d32.png?w=500&auto=format",
   "externalUrl": "https://pastelworld.io/",
   "discordUrl": "https://discord.gg/vBVWpwMyvk",
   "twitterUsername": "PastelWorldx",
-  "description": "Pastel World is a collection of 8,888 legendary Pastel Prophet NFTs— one-of-a-kind digital collectibles residing on the Ethereum blockchain… for now. The Pastel Prophets are gifted people from the PASTEL GALAXY, a cluster of planets and stars many light years away. Tragically, their home planet was destroyed and they were forced to roam deep space in search of a perfect planet to populate. After hundreds of years searching aboard their starship, they found PASTEL WORLD. Could this be their new home to evolve their race?"
+  "description": "Pastel World is a collection of 8,888 legendary Pastel Prophet NFTs— one-of-a-kind digital collectibles residing on the Ethereum blockchain… for now. The Pastel Prophets are gifted people from the PASTEL GALAXY, a cluster of planets and stars many light years away. Tragically, their home planet was destroyed and they were forced to roam deep space in search of a perfect planet to populate. After hundreds of years searching aboard their starship, they found PASTEL WORLD. Could this be their new home to evolve their race?",
+  "erc721_symbol": "PASTEL"
 }

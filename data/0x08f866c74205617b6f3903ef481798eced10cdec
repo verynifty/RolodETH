@@ -1,6 +1,7 @@
 {
   "tags": [
-    "set-protocol"
+    "set-protocol",
+    "contract"
   ],
   "name": "Set: Streaming Fee Module"
 }
