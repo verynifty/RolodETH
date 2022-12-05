@@ -1,6 +1,7 @@
 {
   "tags": [
-    "kyber-network"
+    "kyber-network",
+    "contract"
   ],
   "name": "KyberSwap: Router"
 }

@@ -10,5 +10,6 @@
   "externalUrl": "https://www.cryptophunks.com",
   "discordUrl": "https://discord.gg/phunks",
   "twitterUsername": "CryptoPhunks",
-  "description": "Visit the community-built 0% fee marketplace at: https://NotLarvaLabs.com\n\nNot affiliated with Larva Labs. Welcome to the first (literal) NFT Flippening.\n\nCryptoPhunks face left, because the other way just doesn't feel right."
+  "description": "Visit the community-built 0% fee marketplace at: https://NotLarvaLabs.com\n\nNot affiliated with Larva Labs. Welcome to the first (literal) NFT Flippening.\n\nCryptoPhunks face left, because the other way just doesn't feel right.",
+  "erc721_symbol": "PHUNK"
 }

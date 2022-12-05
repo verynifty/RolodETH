@@ -10,5 +10,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-people-dao",
     "snapshot-voter-balancer"
-  ]
+  ],
+  "ens": "willance.eth"
 }

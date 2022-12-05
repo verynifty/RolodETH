@@ -1,5 +1,9 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BTCG",
+  "erc20_decimals": 18,
+  "name": "Bitcoin Gold"
 }

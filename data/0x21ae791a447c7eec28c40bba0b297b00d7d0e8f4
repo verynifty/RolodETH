@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "DIESEL NFTs",
   "imageUrl": "https://i.seadn.io/gae/yzx_90ZJTRoby3IoNkrXeXOZehSZz-CnJryOf2bHOwLpevlJKYzvQkpkInnjzUiS4YrE1kQSQOPgzgRwTz3xwttXShHAtKY7qnvdyQ?w=500&auto=format",
   "externalUrl": "https://nft.diesel.com/",
   "discordUrl": "https://discord.gg/bvx",
   "twitterUsername": "DIESEL",
-  "description": "BE BRAVE – LIVE YOUR VIRTUAL XPERIENCE\nDIESEL’s new NFTs collection: Disruptive, sexy, fluid, fun and diverse\nCollect the NFTs to access the DIESEL NFT Community. Get the possibility to live in first-hand the next Fashion Show thanks to invitations or VIP access, and receive limited edition garments and metaverse-ready wearables. Enjoy the DIESEL D:VERSE!\nThey are DIGITAL ASSETS combined with PHYSICAL PRODUCTS in a limited edition that can be collected and subsequently exchanged freely.\nNFTs can includes also VIRTUAL and IN REAL LIFE exclusive EXPERIENCES.\n"
+  "description": "BE BRAVE – LIVE YOUR VIRTUAL XPERIENCE\nDIESEL’s new NFTs collection: Disruptive, sexy, fluid, fun and diverse\nCollect the NFTs to access the DIESEL NFT Community. Get the possibility to live in first-hand the next Fashion Show thanks to invitations or VIP access, and receive limited edition garments and metaverse-ready wearables. Enjoy the DIESEL D:VERSE!\nThey are DIGITAL ASSETS combined with PHYSICAL PRODUCTS in a limited edition that can be collected and subsequently exchanged freely.\nNFTs can includes also VIRTUAL and IN REAL LIFE exclusive EXPERIENCES.\n",
+  "proxy": "0xf9625d1eb6d2eeb0b71a7577c3e505bc5277ec99"
 }

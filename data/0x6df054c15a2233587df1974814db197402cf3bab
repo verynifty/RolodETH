@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Danny's Drawings",
   "imageUrl": "https://i.seadn.io/gae/2xKd2O4X71GLfDzbUwNc7X4r6ujszYa5Mt65JJX3DIxg8h534PQmHluRfRcAmbmgzBXmvpcBdjARUQFOtvgKl_Epyn84o5KkfIDvHQ?w=500&auto=format",
   "twitterUsername": "dannycoleee",
-  "description": "by Danny Cole"
+  "description": "by Danny Cole",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

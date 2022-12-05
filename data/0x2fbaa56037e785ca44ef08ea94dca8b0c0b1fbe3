@@ -6,5 +6,6 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-sismo",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "vsheng.eth"
 }
