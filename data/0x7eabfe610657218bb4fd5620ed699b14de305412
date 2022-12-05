@@ -2,5 +2,6 @@
   "tags": [
     "bayc-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "nftcrypt0.eth"
 }

@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-bestfork"
-  ]
+  ],
+  "ens": "pint.eth"
 }

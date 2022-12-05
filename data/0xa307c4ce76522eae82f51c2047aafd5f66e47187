@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "decide6666.eth"
 }

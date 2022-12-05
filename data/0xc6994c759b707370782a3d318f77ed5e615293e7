@@ -1,5 +1,7 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "erc20_decimals": 18
 }

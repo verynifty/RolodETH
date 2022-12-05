@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "KatMonstarz Genesis",
   "imageUrl": "https://i.seadn.io/gae/2VBtU1J7G7753hCUSoVLBTb7yfWTKSyalaB0HtW5KlFvZB2PB5A8UjcRS_e6gl-2Qpur3-fSbZR8-SFTluETEmV9sbuwmUatf0ao_g?w=500&auto=format",
   "externalUrl": "https://katmonstarz.wtf/",
-  "description": "Katmonstarz is a community-driven collectibles project with a collection size of 2,500, each Katmonstarz allows its owner to vote, get nft drops and incomes. Join the Kat pack."
+  "description": "Katmonstarz is a community-driven collectibles project with a collection size of 2,500, each Katmonstarz allows its owner to vote, get nft drops and incomes. Join the Kat pack.",
+  "erc721_symbol": "KM"
 }

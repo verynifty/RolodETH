@@ -10,5 +10,6 @@
   "externalUrl": "http://coolcookiesnft.com",
   "discordUrl": "https://discord.gg/coolcookies",
   "twitterUsername": "coolcookies_nft",
-  "description": "Cool Cookies is a collection of 8,888 randomly generated NFTs baked from 150+ unique traits. The project was created to spread mental health awareness and advocate for suicide prevention. #MentalHealthMatters\n\nAs a holder, you have access to a wholesome community, our DAO, NFT giveaways, $CRUMBS and much more!"
+  "description": "Cool Cookies is a collection of 8,888 randomly generated NFTs baked from 150+ unique traits. The project was created to spread mental health awareness and advocate for suicide prevention. #MentalHealthMatters\n\nAs a holder, you have access to a wholesome community, our DAO, NFT giveaways, $CRUMBS and much more!",
+  "erc721_symbol": "COOKIE"
 }

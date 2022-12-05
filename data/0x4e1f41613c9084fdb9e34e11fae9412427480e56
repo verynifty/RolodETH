@@ -10,5 +10,6 @@
   "externalUrl": "http://mathcastles.xyz",
   "discordUrl": "https://discord.gg/mathcastles",
   "twitterUsername": "mathcastles",
-  "description": "Onchain land art from a dynamically generated onchain 3D world."
+  "description": "Onchain land art from a dynamically generated onchain 3D world.",
+  "erc721_symbol": "TERRAFORMS"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-thecryptoroast",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "darak.eth"
 }

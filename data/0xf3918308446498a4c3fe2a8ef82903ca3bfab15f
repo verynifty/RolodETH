@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "$420p",
+  "erc20_decimals": 8,
+  "name": "420Punks"
+}

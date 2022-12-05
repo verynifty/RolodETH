@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wassieverse",
   "imageUrl": "https://i.seadn.io/gcs/files/127d5aedeef57fcc6463a2ce22509930.png?w=500&auto=format",
   "externalUrl": "http://www.wassieverse.com",
   "discordUrl": "https://discord.gg/wassieverse",
   "twitterUsername": "wassieverse",
-  "description": "Official OpenSea account of @wassieverse :3"
+  "description": "Official OpenSea account of @wassieverse :3",
+  "erc721_symbol": "WASSIE"
 }
