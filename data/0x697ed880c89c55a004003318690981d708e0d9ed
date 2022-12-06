@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xf96fd95d60fb0318b639a8211ef60ee467f2892a"
+  "proxy": "0xf96fd95d60fb0318b639a8211ef60ee467f2892a",
+  "name": "Doge Heroes Official",
+  "imageUrl": "https://i.seadn.io/gcs/files/c3ad40a5ccd6d9e79687dc135e5e8d45.jpg?w=500&auto=format",
+  "externalUrl": "https://dogeheroes.io",
+  "discordUrl": "https://discord.gg/dogeheroes",
+  "twitterUsername": "DogeHeroes",
+  "description": "Doge Heroes is an NFT collection of 6,666 animated Pixel Art based on the story of dogs who became virtual heroes."
 }

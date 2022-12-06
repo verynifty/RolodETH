@@ -6,5 +6,6 @@
     "mayc-minter",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "themcpuss.eth"
 }

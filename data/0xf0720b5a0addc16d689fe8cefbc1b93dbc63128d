@@ -3,9 +3,9 @@
     "nft",
     "opensea-verified"
   ],
-  "name": "Tormius Editions",
+  "name": "Tormius Numbered Editions",
   "imageUrl": "https://i.seadn.io/gcs/files/b086b5ecca8e95a17253dd1de8cef47f.png?w=500&auto=format",
   "externalUrl": "https://www.tormius.com/",
   "twitterUsername": "tormius",
-  "description": "Editions minted by Tormius"
+  "description": "ERC-721 Editions minted by Tormius. This contract will be used for Bidders Editions or special numbered editions."
 }

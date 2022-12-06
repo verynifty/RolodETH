@@ -9,5 +9,7 @@
   "imageUrl": "https://i.seadn.io/gcs/files/32f21f52e01d6fde7944b4c22d52e2f8.jpg?w=500&auto=format",
   "twitterUsername": "HomaGames",
   "description": "Homa is a leading game publisher. We are building a world of interconnected games and the genesis of our world is the Homa Gang, formed by memorable characters. Valentine is our first character. She will allow you to enter our world, join us!",
-  "erc721_symbol": "VAL"
+  "erc721_symbol": "VAL",
+  "externalUrl": "https://homagang.xyz/",
+  "discordUrl": "https://discord.gg/homagang"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "krastruik.eth"
 }

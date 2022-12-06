@@ -10,6 +10,6 @@
   "externalUrl": "https://www.fastfoodpunks.com",
   "discordUrl": "https://discord.gg/fastfoodpunks",
   "twitterUsername": "FastFoodPunks",
-  "description": "Migrated from https://opensea.io/collection/erc1155ffp The Fast Food Punks are the OG Fast Food Meme collection. Each Fast Food Punk is stored as an ERC721 token on the Ethereum blockchain. This project is a parody of the OG CryptoPunks and is NOT affiliated with Larva Labs.\n\nIf you have an old Fast Food Punk, migrate to the new ERC-721 contract [here](https://migration.fastfoodpunks.com).",
+  "description": "Migrated from https://opensea.io/collection/erc1155ffp The Fast Food Punks are the OG Fast Food Meme collection. Each Fast Food Punk is stored as an ERC721 token on the Ethereum blockchain. This project is a parody of the OG CryptoPunks and is NOT affiliated with Larva Labs.\r\n\r\nIf you have an old Fast Food Punk, migrate to the new ERC-721 contract [here](https://migration.fastfoodpunks.com).",
   "erc721_symbol": "FFP"
 }

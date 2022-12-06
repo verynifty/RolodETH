@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SA",
-  "name": "SHiELD:AGE"
+  "name": "\"SHiELD:AGE\" by Cotoh Tsumi",
+  "imageUrl": "https://i.seadn.io/gcs/files/a51532861c8419fcbcb213050e0e3a8b.png?w=500&auto=format",
+  "externalUrl": "https://www.arttokyoglobal.io",
+  "discordUrl": "https://discord.gg/arttokyoglobal",
+  "twitterUsername": "ArtTokyoGlobal",
+  "description": "SHiELD:AGE - 3,333 ways to protect ourselves \"We were born in such an age.\" There are wars, pandemics, natural disasters, and discrimination. Whether in the material or digital world, these continue to threaten us both physically and mentally. Neither the government nor our family can protect us.\" We must defend ourselves.\" That is why we need our own personal tools, to protect our bodies, minds, rights, and our future."
 }

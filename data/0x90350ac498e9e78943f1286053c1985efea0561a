@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "KOZO",
-  "name": "MetaKozo"
+  "name": "MetaKozo Official",
+  "imageUrl": "https://i.seadn.io/gcs/files/5ed2c3f7e483ba61a4200c0a8f1e4d05.gif?w=500&auto=format",
+  "externalUrl": "https://www.metakozo-dao.xyz/",
+  "discordUrl": "https://discord.gg/metakozodao",
+  "twitterUsername": "MetaKozo"
 }

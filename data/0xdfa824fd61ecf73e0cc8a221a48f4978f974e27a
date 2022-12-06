@@ -3,5 +3,6 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "bobbyblue.eth"
 }

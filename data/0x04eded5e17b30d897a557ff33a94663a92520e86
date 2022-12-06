@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "REAP3R",
-  "name": "Hey! Reap3r"
+  "name": "Hey!Reap3r",
+  "imageUrl": "https://i.seadn.io/gcs/files/925abd8cb784da23c3bf28500b987ce1.jpg?w=500&auto=format",
+  "twitterUsername": "Hey_Reap3r",
+  "description": "A collection of 7k NFTs (non-fungible tokens) made up of hundreds of visual traits designed by Rebecca. 50-ish hand-drawn and thousands of generative art consist of unique outfits, faces, and colors. The post mint funds will support gamers and creators with the latest GeForce GPUs and solutions for data center."
 }

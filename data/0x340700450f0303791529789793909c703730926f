@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "BRBS",
-  "name": "CryptoBirbs"
+  "name": "CryptoBirbs by Vodnik",
+  "imageUrl": "https://i.seadn.io/gcs/files/a980f177f2f1e3a65619f1e08d56eb66.gif?w=500&auto=format",
+  "discordUrl": "https://discord.gg/dQm5CxPV92",
+  "twitterUsername": "cryptobirbsnft",
+  "description": "CryptoBirbs are a CrypToadz & Cryptodickbutts inspired art project. \n\nNo roadmap, no utility, just birbs.\n\nDesigned by Vodnik. \n\nThis project is in the public domain. Feel free to use the Birbs in any way you want.\n\n!coo"
 }

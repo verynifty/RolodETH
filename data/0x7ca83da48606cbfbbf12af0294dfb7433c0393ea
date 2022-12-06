@@ -3,5 +3,6 @@
     "pudgy-pinguin-minter",
     "otherdeed-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "vitalz.eth"
 }

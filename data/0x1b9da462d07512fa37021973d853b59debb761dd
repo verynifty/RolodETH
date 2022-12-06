@@ -13,6 +13,7 @@
     "snapshot-voter-ybaby",
     "snapshot-voter-jbdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

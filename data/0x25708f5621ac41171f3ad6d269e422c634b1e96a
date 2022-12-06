@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "RTFKT - Mintdisc 3",
   "imageUrl": "https://i.seadn.io/gae/vBSs45HjmHtCaxaklFvr9WZQvIw6rMB5Ms6eWrtM2ko7cJLc_1bSxbwrrjT04N424BDXkJobRDhJ3DpYrC-4shNpbwGQnXk0huCCfw?w=500&auto=format",
   "externalUrl": "https://clonex.rtkft.com",
   "discordUrl": "https://discord.gg/rtfkt",
   "twitterUsername": "rtfktstudios",
-  "description": "DO NOT BUY FOR CLONEX  AS THEY COULD HAVE ALREADY BEEN REDEEMED TO GET MINT VIALS.\r\n\r\nPre-Sale is now finished, do not buy this for Clone X."
+  "description": "DO NOT BUY FOR CLONEX  AS THEY COULD HAVE ALREADY BEEN REDEEMED TO GET MINT VIALS.\r\n\r\nPre-Sale is now finished, do not buy this for Clone X.",
+  "erc721_symbol": "MD3"
 }

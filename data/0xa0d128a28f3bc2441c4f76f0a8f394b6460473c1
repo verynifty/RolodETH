@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DBLN",
-  "name": "Dabloons Adventure"
+  "name": "Dabloons Adventure",
+  "imageUrl": "https://i.seadn.io/gcs/files/8f40bc49647e0fc3fd248846c75719db.jpg?w=500&auto=format",
+  "twitterUsername": "KeepNFTsWeird",
+  "description": "Dabloons Adventure is a fun micromint of 999 talking cats living in a fantasy world that revolves around the most imaginary currency of all: Dabloons.\n\nEach NFT is a self contained video quest that has been generatively created by random metadata.\n\nAs a \"micromint,\" Dabloons Adventure has no website, no Discord, no further development, and is intended to be enjoyed as a fun moment in time.\n\nThis is a new NFT format focused on short term, fun experiments in art, brought to you by the Keep NFTs Weird group.\n\nAll Dabloon interactions are self-calculated based on the honor system and are completely imaginary... so no sneaky cheating!\n\nBe sure to post your quest on Twitter, Tik Tok, and send to your family. Preferably without context!\n\nReady to Dabloon?\n\nWant to learn more about Keep NFTs Weird? Tune into the spaces weekly on Wednesdays at 8PM EST on poof's twitter:\nhttps://twitter.com/poof_eth"
 }

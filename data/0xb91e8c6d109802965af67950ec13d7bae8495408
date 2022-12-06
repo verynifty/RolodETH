@@ -8,6 +8,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot"
   ]
 }

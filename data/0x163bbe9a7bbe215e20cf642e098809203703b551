@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "HOV",
-  "name": "House of Vankasso"
+  "name": "House of Vankasso",
+  "imageUrl": "https://i.seadn.io/gcs/files/bf7ed7dddcd409b6af106ba9c3cc0e41.jpg?w=500&auto=format",
+  "externalUrl": "https://www.houseofvankasso.art/",
+  "description": "333 pieces of a digital art experience, a journey through an imaginative and creative world powered by unique and powerful works of art. It brings together the best of both worlds: technology and creativity. Soar through the infinite possibilities of imagination and explore endless opportunities for artistic expression. Each piece of art is the key to unlocking vibrant, imaginative worlds."
 }

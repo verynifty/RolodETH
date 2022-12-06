@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DUMPIESNFT",
-  "name": "DumpiesNFT"
+  "name": "DumpOfficial",
+  "imageUrl": "https://i.seadn.io/gcs/files/bbb2ae210b90561d72379354083f151d.jpg?w=500&auto=format",
+  "twitterUsername": "DumpiesNFT",
+  "description": "Have you been dumped?"
 }

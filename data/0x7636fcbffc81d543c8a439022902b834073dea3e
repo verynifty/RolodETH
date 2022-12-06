@@ -6,5 +6,6 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "puneng.eth"
 }

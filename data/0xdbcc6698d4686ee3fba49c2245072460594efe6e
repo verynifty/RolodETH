@@ -3,5 +3,6 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "69696969.eth"
 }

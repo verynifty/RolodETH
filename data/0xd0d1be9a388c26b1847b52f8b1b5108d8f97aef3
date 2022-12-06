@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "G-Drake",
   "imageUrl": "https://i.seadn.io/gcs/files/fb76d48e83d55fcfc7d675228e05c93c.png?w=500&auto=format",
   "externalUrl": "http://gdrake.xyz/",
   "twitterUsername": "GDrakeNFT",
-  "description": "G-Drake ducks are the first ever to reproduce close to a BTC mining field. They have known Satoshi since 2011 and even helped him guard the first server from bugs. \r\n\r\nDuring the good old days, some learned how to hodl💎, but others did not. \r\n\r\nThose who did not are so 🤑 and 😡. They have turned into 🦊, hunting the vulnerable ducks for inside info. \r\n\r\nAnd the story begins here."
+  "description": "G-Drake ducks are the first ever to reproduce close to a BTC mining field. They have known Satoshi since 2011 and even helped him guard the first server from bugs. \r\n\r\nDuring the good old days, some learned how to hodl💎, but others did not. \r\n\r\nThose who did not are so 🤑 and 😡. They have turned into 🦊, hunting the vulnerable ducks for inside info. \r\n\r\nAnd the story begins here.",
+  "erc721_symbol": "GD"
 }

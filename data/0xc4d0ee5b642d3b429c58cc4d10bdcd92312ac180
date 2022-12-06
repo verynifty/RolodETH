@@ -5,5 +5,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "yuzhi0816.eth"
 }

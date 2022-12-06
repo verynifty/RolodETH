@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "Colour",
-  "name": "Life in Colour"
+  "name": "Life in Colours by Anonimo",
+  "imageUrl": "https://i.seadn.io/gcs/files/eb4b60f3a4ac5fbccc5d79bcf0da3faa.png?w=500&auto=format",
+  "twitterUsername": "AninoMo15075561",
+  "description": "**Reveal 1 hour after mint**\nArt is Dead.\n\nJust ART. \n\nNo promises \nNo Discord "
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

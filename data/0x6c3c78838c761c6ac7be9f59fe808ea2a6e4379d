@@ -1,7 +1,10 @@
 {
   "tags": [
     "aave-v2",
-    "aave"
+    "aave",
+    "contract",
+    "proxy"
   ],
-  "name": "Aave: DAI Variable Debt V2"
+  "name": "Aave: DAI Variable Debt V2",
+  "proxy": "0x3f87b818f94f3cc21e47fd3bf015e8d8183a3e08"
 }

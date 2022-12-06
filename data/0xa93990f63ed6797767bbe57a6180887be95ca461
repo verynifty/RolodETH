@@ -8,6 +8,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-hop",
     "snapshot-voter-beefydao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-paraswap-dao"
   ]
 }

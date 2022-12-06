@@ -10,5 +10,6 @@
   "externalUrl": "https://www.hyakki.com/",
   "twitterUsername": "Hyakkinft",
   "description": "Hyakki NFT is the Genesis NFT series launched by the Hyakki Platform, which uses AR and advanced AIGC technology to build marketing and utility infrastructure for Web3 and NFT. Hyakki NFT is derived from the ancient legend \"Hundred Ghosts of the Night\". It is a collection of cross-chain NFTs generated from 19 different characters. Artists Donglu Yu and Jisu participated in the creation. It is not only a 2D PFP, but also an AR full-stack NFT that invades real life. It represents that the world is entering the Web3 generation, a free era of individuality, imagination, and decentralization.",
-  "erc721_symbol": "HYA"
+  "erc721_symbol": "HYA",
+  "discordUrl": "https://discord.gg/hyakkinft"
 }

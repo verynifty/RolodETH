@@ -4,5 +4,6 @@
     "doodle-minter",
     "pudgy-pinguin-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "chingster.eth"
 }

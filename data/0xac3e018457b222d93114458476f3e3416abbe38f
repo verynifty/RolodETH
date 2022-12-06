@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Staked Frax Ether",
   "erc20_symbol": "SFRXETH",

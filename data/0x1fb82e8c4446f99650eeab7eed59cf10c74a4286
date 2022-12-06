@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "SUITS NFT",
   "imageUrl": "https://i.seadn.io/gcs/files/c70d8dd71adb15229cd1ca06377f0baf.png?w=500&auto=format",
   "externalUrl": "https://fair.xyz/collection/SUITS",
   "twitterUsername": "WalkThePlankNFT",
-  "description": "SUITS: 666 Mobile Suits. For war, for work, for play. A Walk The Plank collection."
+  "description": "SUITS: 666 Mobile Suits. For war, for work, for play. A Walk The Plank collection.",
+  "proxy": "0x1bc2697f2efac144e7422c4827ba95e9b8369b77"
 }

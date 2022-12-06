@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "CRIMES",
-  "name": "Cel Mates Crime Reports"
+  "name": "Cel Mates Crime Reports",
+  "imageUrl": "https://i.seadn.io/gcs/files/2aea07842a761ae153329a21debbda52.jpg?w=500&auto=format",
+  "externalUrl": "http://www.celmates.wtf",
+  "twitterUsername": "cel_mates",
+  "description": "Crime reports are used to redeem Cel Mates and enter the hallowed halls of the Steel Hose Penitentiary. An exclusive hub for counterculture and creatives to gather. 1 CRIME REPORT = 1 CEL MATE. \r\n\r\nhttps://celmates.wtf/"
 }

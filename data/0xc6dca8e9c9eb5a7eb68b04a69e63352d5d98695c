@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc1155"
+    "erc1155",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "AR23",
-  "name": "Auf Reisen 2023"
+  "name": "Auf Reisen 2023 by Dennis Schmelz",
+  "imageUrl": "https://i.seadn.io/gcs/files/2f3d957185d03b6f47674a4946a986c6.jpg?w=500&auto=format",
+  "externalUrl": "https://linktr.ee/dennisschmelz",
+  "discordUrl": "https://discord.gg/23v3Q6WvSe",
+  "twitterUsername": "DennisSchmelz"
 }

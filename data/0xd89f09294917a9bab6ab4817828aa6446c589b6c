@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DECO",
-  "name": "Decoherence"
+  "name": "Decoherence by Van Arman",
+  "imageUrl": "https://i.seadn.io/gcs/files/d9be0fa17a5d9eee2054620aab3830d3.gif?w=500&auto=format",
+  "twitterUsername": "VanArman",
+  "description": "We are only probably here. There might be an explanation for our universe, but if you look closely enough, if you dig into the fibers, there is solid evidence that things aren't real. Decoherence explores the part of us that questions reality. It visualizes impossible shapes, exotic dimensions, and alternate universes. If you, like me, sense that there is something more, this series can be a crack in the wall. I hope you will join this search for answers, even if we are only probably here."
 }

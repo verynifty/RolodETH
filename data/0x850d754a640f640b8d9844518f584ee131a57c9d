@@ -1,6 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc1155"
-  ]
+    "erc1155",
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Landscape with Carbon Capture by zancan",
+  "imageUrl": "https://i.seadn.io/gcs/files/bf7966fb358a027d933c1c32790cf749.jpg?w=500&auto=format",
+  "externalUrl": "https://verse.works/artworks/cb00c542-6b5d-43f4-b5d9-7e2781f498aa",
+  "twitterUsername": "zancan",
+  "description": "A long-form generative art collection minted on Verse platform as part of the exhibition \"Reconciliation with the Living\", 2022\n—\nIn spite of the terrible challenges that we are bound to endure, we want to embrace our creative energy and the joy to share it.\n—\n\"Landscape with Carbon Capture is a critique of my own environmental consciousness as an artist working with technology around natural themes. Although I do not know any solution, although I am helpless just like you, I want to fight with what I’ve got. I want to acknowledge the great hypocrisy of our times. Carbon emissions are here to stay; they'll stain my canvas, no matter how green the colours on my palette.\""
 }

@@ -1,7 +1,13 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4",
+  "name": "Xickparty",
+  "imageUrl": "https://i.seadn.io/gcs/files/c49eaa02aed2d6f2daaaf16363629651.gif?w=500&auto=format",
+  "twitterUsername": "xickpunk",
+  "description": "Utility Xickpunk Holder\nWill be guaranteed WL in Xickpunk's next generation project\n\n 👑Holder Welcome Drink Vip \nwill receive monthly airdrops, surprise airdrops\nget x2WL genesis for next generation project.\n"
 }

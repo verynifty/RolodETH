@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "201108.eth"
 }

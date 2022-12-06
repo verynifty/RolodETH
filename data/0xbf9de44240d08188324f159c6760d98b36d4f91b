@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "RBYR",
-  "name": "Reveries by rem"
+  "name": "Reveries by rem",
+  "imageUrl": "https://i.seadn.io/gcs/files/c119959cbd56d77c8f014e7345caaf80.png?w=500&auto=format",
+  "twitterUsername": "r3mr3mr3m",
+  "description": "What are our desires? What kind of world do we want to make together? Do we want to be in a way victims of crypto and global finance, or can we be in a way our own masters? \n\nThis collection seeks to illustrate 「Everything in the universe is within you, ask all from yourself」 and act as genesis pass for upcoming monthly season one drops."
 }

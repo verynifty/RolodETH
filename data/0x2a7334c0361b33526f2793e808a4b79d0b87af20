@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "GODS",
-  "name": "InfiniGods: Elder Gods"
+  "name": "InfiniGods - The Elder Gods",
+  "imageUrl": "https://i.seadn.io/gcs/files/d84df649a0f9e8cc2007ec2484ac494f.jpg?w=500&auto=format",
+  "externalUrl": "https://eldergods.xyz/",
+  "discordUrl": "https://discord.gg/infinigods",
+  "twitterUsername": "InfiniGods",
+  "description": "The Elder Gods is a collection of 4,488 unique gaming assets that rule over the InfiniGods Universe (IGU). As our Gen 0 collection, the Elder Gods will forever be the most powerful characters across all games.\r\n\r\n\r\nElder Gods provide special abilities that enhance gameplay and increase scoring potential. You can think of them as persistent power-ups that quite literally let you play as a god. As the InfiniGods Universe expands, the Elder Gods will continue to be eternally interoperable across all game titles. In fact, each game will unlock new abilities, power-ups, attributes, and utility — increasing their value over time.\r\n\r\n\r\nLearn more about the Elder Gods: https://infinigods.com/news/the-elder-gods-have-arrived/\r\n\r\n\r\n\r\nLearn more about InfiniGods: https://infinigods.com/"
 }

@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SAN",
-  "name": "Swirl Abstraction by Nona"
+  "name": "Swirl Abstraction by Nona",
+  "imageUrl": "https://i.seadn.io/gcs/files/37c4b3c7a43654926fba511781c70e3f.png?w=500&auto=format",
+  "description": "Again, hope I\\'ve proven to you that nothing but the art matters. So long"
 }

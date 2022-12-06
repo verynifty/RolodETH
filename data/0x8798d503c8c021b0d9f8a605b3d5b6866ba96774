@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "WDYS",
-  "name": "WhatDoYouSee by CG"
+  "name": "WhatDoYouSee by Carlo Giovanni",
+  "imageUrl": "https://i.seadn.io/gcs/files/8d85094820f853fd8e2819c6e1aca111.png?w=500&auto=format",
+  "twitterUsername": "CGiovanniArt",
+  "description": "Conceptual abstract artist living in Miami, FL. Experimenting with web3 for anticipation to my gallery \"What Do You See\" debuting Art Basel 2022."
 }

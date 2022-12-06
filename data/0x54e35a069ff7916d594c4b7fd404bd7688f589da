@@ -3,5 +3,6 @@
     "contract-deployer",
     "sudoswap-user"
   ],
-  "name": "Shiba Shabu: Deployer"
+  "name": "Shiba Shabu: Deployer",
+  "ens": "shabu.eth"
 }

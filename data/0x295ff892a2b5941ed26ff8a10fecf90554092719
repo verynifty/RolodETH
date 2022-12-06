@@ -3,5 +3,6 @@
     "clonex-minter",
     "mayc-minter",
     "snapshot-voter-bullsontheblock"
-  ]
+  ],
+  "ens": "ccie11440.eth"
 }

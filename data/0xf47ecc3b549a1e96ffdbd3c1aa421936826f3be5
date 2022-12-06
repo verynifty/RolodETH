@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "1973",
-  "name": "The 1973s Collection"
+  "name": "The 1973s Collection",
+  "imageUrl": "https://i.seadn.io/gcs/files/afe231aa30ca5e9eced8245c011c760f.png?w=500&auto=format",
+  "externalUrl": "https://nft.bueno.art/mint/77tZzqQei_dYmoDanx9M6",
+  "twitterUsername": "the1973s",
+  "description": "MINTING NOW: https://nft.bueno.art/mint/77tZzqQei_dYmoDanx9M6\n\n'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.\n"
 }

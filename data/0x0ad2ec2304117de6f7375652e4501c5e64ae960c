@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "GENKI",
-  "name": "GenkiMint"
+  "name": "Genki Genesis",
+  "imageUrl": "https://i.seadn.io/gcs/files/8b814515372c624b48c2a179abc513a8.jpg?w=500&auto=format",
+  "externalUrl": "http://genkiworld.xyz",
+  "twitterUsername": "Genki_NFT",
+  "description": "Genki is an athletic brand powered by a collection of 4444 utility-backed PFP's.\n\nHolders will be able to benefit from our Web2 partnerships, PFP personalization, and exclusive drops to an ever expanding Genki ecosystem.\n\nOur mission is to bring innovation to the fitness industry and Web3 space with new and exciting products and experiences. We want to push our initiative of \"bring the energy\" which promotes the idea that everyone should have a healthier lifestyle. We strive to make sure that everyone can be involved and enjoy what our brand and initiative offers.\n"
 }

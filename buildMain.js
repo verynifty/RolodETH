@@ -69,11 +69,12 @@ const NFTMinters = [
 ];
 
 (async () => {
+    await snapshotvoting.addTo(RolodETH);
+    return
     await CoingeckoTokenList.addTo(RolodETH)
     await Reservoir.addTo(RolodETH);
     return;
-    await snapshotvoting.addTo(RolodETH);
-    return
+   
     await os_users.addTo(RolodETH);
     return
     

@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "FF",
-  "name": "Farmacy Fantoms"
+  "name": "The Farmacy Fantoms",
+  "imageUrl": "https://i.seadn.io/gcs/files/ed49dd3a850082222fad7f96e685b386.jpg?w=500&auto=format",
+  "externalUrl": "http://farmacyfantoms.io",
+  "discordUrl": "https://discord.gg/farmacyfantoms",
+  "twitterUsername": "FarmacyFantoms",
+  "description": "MINT IS LIVE 👉 https://mint.farmacyfantoms.io\n\nA Hybrid Music NFT by Styles P & Dino Belli\n\nThis NFT comes with lyrical artwork, amazing 3D artwork, and real utility and access. Certain traits will unlock certain utilities, and base utility is entering the Styles P ecosystem. Join the session."
 }

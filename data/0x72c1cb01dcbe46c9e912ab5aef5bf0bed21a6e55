@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "BBS",
-  "name": "Badam Bomb Squad"
+  "name": "Badam Bomb Squad",
+  "imageUrl": "https://i.seadn.io/gae/1sKZpi5Vn9pAN5qnT553OUimTsfxIYLFby1Qo6g5HJDdGResuc3v4vQZfQaMc1ernXT-W3DkedgogoY7aH-Z-tDfZGX5zezKZjk0jg?w=500&auto=format",
+  "description": "Little has been known about Badam Bomb until now. Badam has a frown with one gold tooth. He appears to be the opposite of Adam Bomb -- too cool, unfriendly and unapproachable. But, what if he wasn't? What if he wasn't bad, evil, or nefarious? What if he was just misunderstood? Explore Badam Bomb Squad, a collection of 5,000 NFTs that tell a story of how society often misreads and misconstrues one another through a series of traits and characteristics. Sometimes the only difference between you and your enemy is the way your ideas are dressed."
 }

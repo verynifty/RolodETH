@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x21b2d132729dac0aa3090806cd9d9048659da446"
+  "proxy": "0x21b2d132729dac0aa3090806cd9d9048659da446",
+  "name": "Colizeum ELITE Marketplace",
+  "imageUrl": "https://i.seadn.io/gcs/files/cbaa6a0d7ca2d4862e0832c0ba3761b0.gif?w=500&auto=format",
+  "externalUrl": "http://colizeum.com",
+  "discordUrl": "https://discord.gg/pGGeqvJm5B",
+  "twitterUsername": "Colizeumcom",
+  "description": "Colizeum ELITE is a collection of 5000 NFTs. Each ELITE is an NFT Factory capable of minting assets in Colizeum ecosystem, accessing Colizeum games, and building and managing player networks. "
 }

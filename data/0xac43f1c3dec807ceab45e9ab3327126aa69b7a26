@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Team Starboys",
   "imageUrl": "https://i.seadn.io/gae/OTHPPTQ-YWgVP-dFthMF8Q0G4B8044Y89kmLYrSC82JeqNWsvl1cA1ks7lb6xLyIVl1XR4cbs1PbPIkQLWTle7pOiN4LgeB4KAHTAQ?w=500&auto=format",
   "externalUrl": "https://starboys.vaynersports.com/",
-  "description": "Team Starboys is the first VaynerSports Pass partner mint and features former MLB player & Aku universe creator, Micah Johnson."
+  "description": "Team Starboys is the first VaynerSports Pass partner mint and features former MLB player & Aku universe creator, Micah Johnson.",
+  "erc721_symbol": "VSPXAKU"
 }

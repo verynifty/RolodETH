@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DS",
-  "name": "Dark Surreals"
+  "name": "Surreals Midnight",
+  "imageUrl": "https://i.seadn.io/gcs/files/92b9041c4dbb47e26d6e2ef35b3fbd0c.gif?w=500&auto=format",
+  "externalUrl": "https://midnight.surreals.io/",
+  "description": "Surreals: Midnight is a collection of 3330 surreal portraits with a dark aesthetic. It is the sequel to 2021’s Surreals."
 }

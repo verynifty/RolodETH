@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "changen123.eth"
 }

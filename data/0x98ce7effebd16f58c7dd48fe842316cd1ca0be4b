@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "THE REBELS by House of Kalinkin",
   "imageUrl": "https://i.seadn.io/gae/myqaXDU9wGIyKQeA-AB7iIzlNbaktTaBR_CAqkNdIZ324jrG-Rc9i2z5jyRpvUVal1VPFC0ztnPuBCxfjo5qA18cfToFa3o2weSihQ?w=500&auto=format",
   "externalUrl": "https://therebels.io",
   "discordUrl": "https://discord.gg/therebels",
   "twitterUsername": "therebelsnft",
-  "description": "10101 genesis NFT Rebels who'll dress the Metaverse: your access pass into the future of digital fashion. Exclusive digital collections, fashion shows of epic proportions, next level luxury marketplace - and that's just the beginning."
+  "description": "10101 genesis NFT Rebels who'll dress the Metaverse: your access pass into the future of digital fashion. Exclusive digital collections, fashion shows of epic proportions, next level luxury marketplace - and that's just the beginning.",
+  "erc721_symbol": "RBLS"
 }

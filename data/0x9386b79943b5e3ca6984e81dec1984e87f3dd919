@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "meta606.eth"
 }

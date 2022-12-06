@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "CNPReborn",
-  "name": "CNP Reborn"
+  "name": "CNP Reborn -NFT for all generations to enjoy-",
+  "imageUrl": "https://i.seadn.io/gcs/files/22fa0de7d6f6d58bda4484a7a3d25c71.png?w=500&auto=format",
+  "externalUrl": "https://site.cnp-reborn.com/",
+  "description": "CNP Reborn は CNP の誕生から成長をテーマにした NFT コレクションです。\n\nリリース直後は卵や赤ちゃんで誕生し、時間をかけて子どもから大人へと NFT が成長し変化していきます。\n\nコンセプトは ｢世代を超えて楽しめる NFT｣ 。Web3 の世界の入り口が CNP Reborn で始まり、これからの世代 (子ども) と今の世代 (大人) が Web3 に入るための第一歩目になることを目指します。\n\nCNP Reborn 公式サイト: https://site.cnp-reborn.com/\n\nCNP Reborn is an NFT collection with the theme as the birth of CNP and growth.\n\nCNP Reborn borned as an egg or a baby, and will grow and change from a child to an adult.\n\nThe concept is \"NFT for all generations to enjoy\". Welcome to web3 world with CNP Reborn, which will be the first step for future generations (children) and the present generation (adults) in web3.\n\nCNP Reborn official website: https://site.cnp-reborn.com/"
 }

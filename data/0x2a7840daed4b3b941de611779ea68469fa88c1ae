@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Junky Flunkyz by Ahal & Magi",
   "imageUrl": "https://i.seadn.io/gae/LnOsP0aGEeoYmU_wy10l9uPU2nrszQK2TxnC2GxuSSt7yfNQdQ5t4mRHLvDFQDtOPMyCCEg5F-uLKnyr7wNBaCAodbsS-kWfUzoo_Q?w=500&auto=format",
   "externalUrl": "https://www.junkyflunkyz.com/",
   "discordUrl": "https://discord.gg/3HusaE4ERm",
   "twitterUsername": "NFTStrangeTimes",
-  "description": "1,000 Junky Flunkyz roaming in the Ethereum blockchain, created by artist/musician Ahal Eden and Author Magi Otsri.\nJunky Flunkyz are a part of the Strange Times NFT ecosystem. they serve as the Misfits' minions.\nThe Flunkyz will have a special utility in the future Strange Times ecosystem, but we can't tell you about it yet. \n\nThe Flunkyz are also VERY cute."
+  "description": "1,000 Junky Flunkyz roaming in the Ethereum blockchain, created by artist/musician Ahal Eden and Author Magi Otsri.\nJunky Flunkyz are a part of the Strange Times NFT ecosystem. they serve as the Misfits' minions.\nThe Flunkyz will have a special utility in the future Strange Times ecosystem, but we can't tell you about it yet. \n\nThe Flunkyz are also VERY cute.",
+  "erc721_symbol": "FLUNK"
 }

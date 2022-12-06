@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DEEZ",
-  "name": "CryptoBirdeez"
+  "name": "CryptoBirdeez",
+  "imageUrl": "https://i.seadn.io/gcs/files/49ba6f7e8bff52ec0724825092f8e470.gif?w=500&auto=format",
+  "discordUrl": "https://discord.gg/kyY7GAWC6u",
+  "twitterUsername": "CryptoBirdeez",
+  "description": "CryptoBirdeez are a @cryptodickbutts & @moonbirds inspired art project. No roadmap, no utility, just deez. Designed by 2 anon Moonbirds. CC0."
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "boobunch.",
   "imageUrl": "https://i.seadn.io/gcs/files/89eb62331712b2863360f2d406893ebd.gif?w=500&auto=format",
   "externalUrl": "https://www.boobunch.io/",
   "twitterUsername": "boobunchNFT",
-  "description": "The Boos are the first collection by TheBunch. 5,555 Boos live in harmony on Boo Island. This is where their story begins…"
+  "description": "The Boos are the first collection by TheBunch. 5,555 Boos live in harmony on Boo Island. This is where their story begins…",
+  "erc721_symbol": "BOO"
 }

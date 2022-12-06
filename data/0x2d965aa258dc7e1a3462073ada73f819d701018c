@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Something Cooking",
   "imageUrl": "https://i.seadn.io/gcs/files/abbb27c7abccee698732340171d58dbf.png?w=500&auto=format",
   "externalUrl": "https://www.shibuya.xyz/",
   "discordUrl": "https://discord.gg/invite/qRWbt5rAF8",
   "twitterUsername": "shibuyaxyz",
-  "description": "1690 steaks living on the ethereum blockchain. Stake your steak in the cookshop https://www.shibuya.xyz/cookshop!"
+  "description": "1690 steaks living on the ethereum blockchain. Stake your steak in the cookshop https://www.shibuya.xyz/cookshop!",
+  "erc721_symbol": "WRSTK"
 }

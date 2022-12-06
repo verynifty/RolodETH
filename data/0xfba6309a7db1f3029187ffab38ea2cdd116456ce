@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "MYRAI_ATOMIC_55_MANGA",
-  "name": "MyraiAtomic55Manga"
+  "name": "MyraiManga",
+  "imageUrl": "https://i.seadn.io/gcs/files/6fa9670aa0f830f518429b060645920a.png?w=500&auto=format",
+  "discordUrl": "https://discord.gg/myrai",
+  "twitterUsername": "MyraiCreations",
+  "description": "Myrai Manga, Atomic 55, published on Amazon and Comixology.  Now the pages are on the blockchain granting access to to the Myrai Hub and more. Collect variations to receive various benefits.  "
 }

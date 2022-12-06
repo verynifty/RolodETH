@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "my-crypto-heroes"
+    "my-crypto-heroes",
+    "contract"
   ],
   "name": "MCH Coin",
   "erc20_symbol": "MCHC",

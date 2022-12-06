@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "THE ETH WORLD",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75af7582793bdddcc5d9687a6395a790f7d91eb1e1624814e504194ade19cb81f402f1eb75784a83ac5615d5beb397f30485a786f6823fe3e9915e4cdf64a793ca23d6a882241de089145e630fa8b986890dc7aa69439f43bd239f992c443b74cde8213306496e328dc86f4bf1df0574477e1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a"
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a862eb7d185d1e327a51a65d4989fffcfb13534c73d5368f72e998e86c21dacd790ff7820a4c378ef16760b6dd373d2fb8a858ccc45a5d04586f2f35c411f25031a60cf187392f1ec2164a41b29ee2399805a8333489843fb17b7cfec650da20982c22c5a10d6efdbc5787f5e168fe9f823c5e4198f99eda3f3b783c3322e8c56",
+  "proxy": "0xe38f942db7a1b4213d6213f70c499b59287b01f1"
 }

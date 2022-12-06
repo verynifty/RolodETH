@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SummerCOCO",
   "imageUrl": "https://i.seadn.io/gcs/files/a3aca1cdd0a40e4f5834d71be2003dcf.jpg?w=500&auto=format",
   "externalUrl": "https://www.summercoco.club/",
   "discordUrl": "https://discord.gg/summercoco",
   "twitterUsername": "summercoco_nft",
-  "description": "Summer Party Vibes Looking for 5555 buddies to have party with us"
+  "description": "Summer Party Vibes Looking for 5555 buddies to have party with us",
+  "erc721_symbol": "Summer Coco"
 }

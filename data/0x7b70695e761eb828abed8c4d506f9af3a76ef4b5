@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "ZenChest",
-  "name": "ZenChests"
+  "name": "ZenChests",
+  "imageUrl": "https://i.seadn.io/gcs/files/24924d92142dd44efe925844db865dc4.png?w=500&auto=format",
+  "externalUrl": "https://www.zenacademy.com/",
+  "description": "ZenAcademy is a community for all where all are welcome. We seek to be your home in the metaverse. A humble abode where we have a passion for education and learning that is grounded in logic and reason. Whether you’re just starting out, whether you’re an artist, a dev, project founder, or a self professed degen.\n\nWe’re here for you; we’re here for everyone.\n\nYour ZenChest is your membership to ZenAcademy and its future PFP project. \n\nBy owning a ZenChest, you have access to everything that the [original Genesis letter](https://opensea.io/assets/ethereum/0xf64e6fb725f04042b5197e2529b84be4a925902c/1) afforded you, including the exclusive ZenAcademy Discord channels, community giveaways, and the future ZenAcademy PFP project. Each ZenChest grants you the ability to summon 1 PFP.  Your PFP lies dormant in your chest, waiting to be summoned."
 }

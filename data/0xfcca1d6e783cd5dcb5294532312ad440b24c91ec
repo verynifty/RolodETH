@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "AYA Stellar",
-  "name": "AyaStellar"
+  "name": "AyaStellar",
+  "imageUrl": "https://i.seadn.io/gcs/files/183b5dab295d4a6944e327ea2e1abde7.jpg?w=500&auto=format",
+  "externalUrl": "https://www.ayastellar.space/",
+  "discordUrl": "https://discord.gg/ayastellar",
+  "twitterUsername": "aya_stellar",
+  "description": "AYA STELLAR IS THE GENESIS PFP COLLECTION OF COSMIQ UNIVERSE. THE PRIMARY GOAL IS BRINGING LIKE-MINDED PEOPLE TOGETHER TO FORM A LOVE-CHAIN THAT WILL SHARE THE POWERFUL FREQUENCY OF THE HUMAN HEART ❤️\r\n\r\nAya stellar nft serves as a access pass to  a universe of things, ranging from art, music, locations, events to an amazing Network of people gathering in the spirit of love, just breathe.\r\n\r\nTransparency: https://etherscan.io/address/0xFcCA1d6e783cd5dcB5294532312ad440B24c91eC#code"
 }

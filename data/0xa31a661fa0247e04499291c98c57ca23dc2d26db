@@ -3,5 +3,6 @@
     "moonbird-minter",
     "goblin-town-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kushx.eth"
 }

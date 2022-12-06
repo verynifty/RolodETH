@@ -3,5 +3,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "pheihreh.eth"
 }

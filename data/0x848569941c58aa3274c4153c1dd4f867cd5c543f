@@ -4,7 +4,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-daocity",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ],
   "ens": "iam🇻🇳.eth"
 }

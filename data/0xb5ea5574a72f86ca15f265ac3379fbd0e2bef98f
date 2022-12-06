@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "HEAL",
-  "name": "Healing Circles by anon"
+  "name": "Healing Circles by anon",
+  "imageUrl": "https://i.seadn.io/gcs/files/49e87914b3274e987fdbe0d753a130d6.png?w=500&auto=format",
+  "description": "https://foundation.app/@byanon/byanon/1\n\nMy name is not important but the art is. Art can HEAL . I will not share my Twitter although it is here in plain sight."
 }

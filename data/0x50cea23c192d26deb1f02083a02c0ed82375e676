@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Senior Ape Golf Club",
   "imageUrl": "https://i.seadn.io/gae/fJiSPKlg1y25sE1VBMiwexAnXVUz2VjrpHOsEAuytKoMAp3rJw5Bd-y3aDp8wn-htCIKOymK9mkUmQHvYzi1FOb3mpOSRb92Ep1ip80?w=500&auto=format",
   "externalUrl": "https://seniorapegolfclub.com/",
   "discordUrl": "https://discord.gg/sagc",
   "twitterUsername": "SeniorApeGC",
-  "description": "🚨 SOLD OUT 🚨  http://seniorapegolfclub.com \n\n**[CLAIM FORE](https://www.seniorapegolfclub.com/staking)**\n\n**[MINT SAGC-V2](https://www.seniorapegolfclub.com/sagcv2)**\n\n**[Skelly Ape Golf Club - 1420 $FORE](https://opensea.io/collection/skellyapegolfclub)**\n\n**[Join Discord](https://www.discord.gg/sagc)**\n\n- Unlocked Staking / Daily $FORE yield \n- Merch Store \n- 3D Generative collection\n- Custom 3D NFTs (Loyal Apes)\n\n**[$FORE](https://etherscan.io/token/0xd988a4991fc5c673e45bea1cffe36ca4ca845ae7\n)** is the utility token; that fuels the SAGC ecosystem. It is being used to mint our next collection, exclusive merch drops, and custom made NFTs! Every SAGC from our genesis collection, including the unminted ones will start yielding 18 $FORE per day or 0.75 per hour starting from Sun Feb 20, 2022. You don't need to lock your SAGC in a new contract, which means that even those listed at Opensea can have a bounty of $FORE to claim. "
+  "description": "🚨 SOLD OUT 🚨  http://seniorapegolfclub.com \n\n**[CLAIM FORE](https://www.seniorapegolfclub.com/staking)**\n\n**[MINT SAGC-V2](https://www.seniorapegolfclub.com/sagcv2)**\n\n**[Skelly Ape Golf Club - 1420 $FORE](https://opensea.io/collection/skellyapegolfclub)**\n\n**[Join Discord](https://www.discord.gg/sagc)**\n\n- Unlocked Staking / Daily $FORE yield \n- Merch Store \n- 3D Generative collection\n- Custom 3D NFTs (Loyal Apes)\n\n**[$FORE](https://etherscan.io/token/0xd988a4991fc5c673e45bea1cffe36ca4ca845ae7\n)** is the utility token; that fuels the SAGC ecosystem. It is being used to mint our next collection, exclusive merch drops, and custom made NFTs! Every SAGC from our genesis collection, including the unminted ones will start yielding 18 $FORE per day or 0.75 per hour starting from Sun Feb 20, 2022. You don't need to lock your SAGC in a new contract, which means that even those listed at Opensea can have a bounty of $FORE to claim. ",
+  "erc721_symbol": "SAGC"
 }

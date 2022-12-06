@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "Pleasant Goat and Big Big Wolf - Fantastic Weslie",
-  "name": "Pleasant Goat and Big Big Wolf - Fantastic Weslie"
+  "name": "Pleasant Goat and Big Big Wolf - Fantastic Weslie",
+  "imageUrl": "https://i.seadn.io/gcs/files/1cbdad88d58ad8116e8b14f44a3401bb.jpg?w=500&auto=format",
+  "discordUrl": "https://discord.gg/3YDTJ2DnuE",
+  "twitterUsername": "OpenGateNFT",
+  "description": "Pleasant Goat and Big Big Wolf 喜羊羊与灰太狼 is a Chinese animation IP owned by Alpha Group(奥飞娱乐), which is the first Chinese animation IP has taken 100 million at box office.\r\n\r\n  Fantastic Weslie is the first NFT series from this IP.Pleasant Goat and Big Big Wolf is the Chinese animation IP created by Alpha Group.Since this cartoon debut in 2005,The amount of video playback in China network broadcast platform has accumulated more than 23 billion,the number of followers on social platforms is more than 19 million.The Collection of Fantastic Weslie is 1000."
 }

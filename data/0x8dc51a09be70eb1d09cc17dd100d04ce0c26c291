@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SAE",
-  "name": "SoulAether"
+  "name": "Soul Aether Tria Prima",
+  "imageUrl": "https://i.seadn.io/gcs/files/3daa2fd2b6bd3af400a8e6ef3b4f6c4f.png?w=500&auto=format",
+  "externalUrl": "https://soulaether.notables.co",
+  "discordUrl": "https://discord.gg/soulaether",
+  "twitterUsername": "soulaether_",
+  "description": "Soul Aether is a young adult sci-fantasy world exploring past lives, science, magic and alchemy. Spanning NFTs, animated series, games, metaverse experiences and more. \nMint Site: https://soulaether.notables.co \nWebsite: https://soulaether.xyz"
 }

@@ -1,6 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
-  ]
+    "erc721",
+    "nft",
+    "opensea-verified"
+  ],
+  "name": "Struct Genesis Pass",
+  "imageUrl": "https://i.seadn.io/gcs/files/f938f4105e46d69a4fb2c9e059660486.png?w=500&auto=format",
+  "externalUrl": "https://www.structnft.com/",
+  "discordUrl": "https://discord.gg/5H6DR2HRKE",
+  "twitterUsername": "structNFT",
+  "description": "Your ticket to all future Augminted Labs drops, premium-partnered collections, and even lifetime access to Struct, our zero-code NFT launchpad platform."
 }

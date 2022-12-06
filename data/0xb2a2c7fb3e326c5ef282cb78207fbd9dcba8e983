@@ -8,5 +8,6 @@
   "name": "Strange Times NFT",
   "imageUrl": "https://i.seadn.io/gae/CZM6z18ojg1cbs5cyDIzW_CsRHKIChXqm1P6EzAGDlnRQC8Hxv2KJ1JQjJr3zw8rvOHGlilpb6UGiDERwftG6_KLuu_vrD6lYKon?w=500&auto=format",
   "twitterUsername": "NFTStrangeTimes",
-  "description": "7,826 Misfits roaming in the Ethereum blockchain. The collection is meticulously hand drawn, and inspired by Korean and Japanese art.  \n"
+  "description": "7,826 Misfits roaming in the Ethereum blockchain. The collection is meticulously hand drawn, and inspired by Korean and Japanese art.  \n",
+  "erc721_symbol": "Strange Times"
 }

@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "nft",
+    "opensea-verified",
+    "contract",
+    "proxy"
+  ],
+  "name": "Season 2 Dragon Eggs",
+  "imageUrl": "https://i.seadn.io/gcs/files/7032c6d4572d3046dd09d36db0b4e690.png?w=500&auto=format",
+  "externalUrl": "http://www.mythofdragons.com",
+  "twitterUsername": "Myth_of_Dragons",
+  "description": "This collection contains hatchable Dragon Eggs for Season Two of MoD. Once purchased, these eggs will hatch within 14 days, leaving you with a baby dragon instead of an egg. ",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
+}

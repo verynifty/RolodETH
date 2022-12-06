@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "UPA",
-  "name": "UPA"
+  "name": "UPA!",
+  "imageUrl": "https://i.seadn.io/gcs/files/16d403cf9bf6954d533c32a81685caa3.png?w=500&auto=format",
+  "externalUrl": "https://mint.upa.works",
+  "discordUrl": "https://discord.gg/debreed",
+  "twitterUsername": "DeBreed_Project",
+  "description": "UPA Feeding had begun! Let's feed your UPA!\nFeeding Site: https://feed.upa.works/\nウパへの餌やりが始まりました！あなたのウパを育てましょう！\n餌やりサイト:  https://feed.upa.works/"
 }

@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "TFIH",
-  "name": "The Future is History"
+  "name": "The Future is History",
+  "imageUrl": "https://i.seadn.io/gcs/files/b054ffd55a54655a9b6c9c8f41d8da20.jpg?w=500&auto=format",
+  "externalUrl": "http://thefutureishistory.com",
+  "twitterUsername": "OnRallyRd",
+  "description": "3,500 NFT's representing 15 legendary figures from throughout history, designed in the 8-bit style that artist Keenan Wells (Pixel Hall of Fame) pioneered. While others have created PFP artwork algorithmically, each Pixel Hall of Fame design is created by hand using both analog and digital tools. Every NFT gets a 1-1 physical card treatment along with a pack of 4 additional random cards which could include cut signatures, holograms, refractors and real artifacts from legendary names and faces from the collection. Every NFT purchaser will have the option to redeem their pack at mint."
 }

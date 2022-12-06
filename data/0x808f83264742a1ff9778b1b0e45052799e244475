@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "MINT-VIAL",
-  "name": "SLUGGA MINT VIAL"
+  "name": "SLUGGA MINT VIAL",
+  "imageUrl": "https://i.seadn.io/gcs/files/1fb1f72ba0776c83054eafebafa4a018.gif?w=500&auto=format",
+  "externalUrl": "https://pastelworld.io/slugga",
+  "description": "Welcome To Slugga NFT, Your Virtual Pet \n1 Mint vial = 1 Slugga presented by Pastel World"
 }

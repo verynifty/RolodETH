@@ -1,7 +1,14 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x04315899f304a8ed5c4a180b7a0a5558f46b9968"
+  "proxy": "0x04315899f304a8ed5c4a180b7a0a5558f46b9968",
+  "name": "Elysium Shell: Next - Components",
+  "imageUrl": "https://i.seadn.io/gcs/files/8021f62d9609535d74cd53647feedf74.png?w=500&auto=format",
+  "externalUrl": "http://elysiumshell.xyz",
+  "twitterUsername": "elysium_system",
+  "description": "With the merging of an E-code and an E-shell, the collision of consciousness created 5 different components, including head, body, arms, legs and equipment. Every components can be used for assembling the ESNX Mecha."
 }

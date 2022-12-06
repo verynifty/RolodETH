@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "opensea-user",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

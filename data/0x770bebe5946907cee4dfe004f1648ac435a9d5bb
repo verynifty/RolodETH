@@ -10,6 +10,7 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

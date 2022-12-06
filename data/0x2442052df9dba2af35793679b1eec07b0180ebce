@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "NW",
-  "name": "Nugget Wars"
+  "name": "NuggetWars",
+  "imageUrl": "https://i.seadn.io/gcs/files/f648c6c3498613bf5c27ab2dd94ed06a.png?w=500&auto=format",
+  "externalUrl": "https://nuggetwars.com",
+  "discordUrl": "https://discord.gg/nuggetwars",
+  "twitterUsername": "Nugget_WARS",
+  "description": "[NuggetWars](https://nuggetwars.com) is a collection of NFTs consists of 10,000 rebellious chicken nuggets.  \r\nAll chicken nuggets have different type traits, which are the design elements that make up the character.  \r\nFrom a king's crown to a ninja outfit to a space suit, the nuggets are all different, but they have one thing in common: they're rebellious.  \r\n\r\nThe fresh feature of Nugget Wars is \"UNMINT\" feature which makes holders able to get refunds whenever they want after minting.  \r\nOnly [NuggetWars MintPass](https://opensea.io/collection/nuggetwars-mintpass) holders can get NuggetWars NFT.  \r\nVisit [https://nuggetwars.com](https://nuggetwars.com) and mint NuggetWars NFT to enjoy the brand-new \"UNMINT\" feature."
 }

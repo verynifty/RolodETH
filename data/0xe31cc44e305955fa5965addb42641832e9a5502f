@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "LIGHTYEARS-PASS",
-  "name": "Light Years Mint Pass"
+  "name": "Light Years by Dmitri Cherniak - Selection Pass",
+  "imageUrl": "https://i.seadn.io/gcs/files/3578e7cf37813547fc05a60891a1536c.png?w=500&auto=format",
+  "externalUrl": "https://lightyears.fellowship.xyz",
+  "twitterUsername": "dmitricherniak",
+  "description": "Each Selection Pass grants the owner the right to select an artwork from Light Years by Dmitri Cherniak. The lower the Selection Pass number you own, the earlier you are granted access to choose your preferred artwork. This selection process starts on 5th Dec 2022 at https://lightyears.fellowship.xyz/"
 }

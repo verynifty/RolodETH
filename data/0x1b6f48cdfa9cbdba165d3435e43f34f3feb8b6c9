@@ -4,5 +4,6 @@
     "azuki-minter",
     "clonex-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "crybabyhero.eth"
 }

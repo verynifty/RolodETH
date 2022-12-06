@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "OASIS",
-  "name": "Oasis metaverse"
+  "name": "OXO official",
+  "imageUrl": "https://i.seadn.io/gcs/files/c103fe4fe03bcd16d822786bc077986d.jpg?w=500&auto=format",
+  "externalUrl": "http://oasisxosiris.com",
+  "discordUrl": "https://discord.gg/oasisxosiris",
+  "twitterUsername": "oxoproject",
+  "description": "Welcome to the OASIS X OSIRIS club!\r\n\r\nOXO Medusa is a collection of 5999 unique NFTs with early access to COG metaverse, participation in 3x3 Token Airdrop and other exclusive opportunities based on the Ethereum blockchain. \r\nWe`re connecting digital & physical worlds - join an exclusive community with drops of elite real estates and luxury items. Visit oasisxosiris.com for more details."
 }

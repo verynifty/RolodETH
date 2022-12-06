@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "CUYA",
-  "name": "Cubism by anon"
+  "name": "Cubism by anon",
+  "imageUrl": "https://i.seadn.io/gcs/files/457b7ce86b008de8624d7c8439eb7fc7.png?w=500&auto=format",
+  "description": "founda.....\nMy name is not important but  ......  Art can HEAL"
 }

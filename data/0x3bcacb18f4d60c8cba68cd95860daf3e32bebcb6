@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "MINERS",
-  "name": "Lost Miners of the Ether"
+  "name": "Lost Miners of the Ether",
+  "imageUrl": "https://i.seadn.io/gcs/files/31cdf586461938d6ed8eac6bcd091bfb.png?w=500&auto=format",
+  "externalUrl": "http://blokpax.com",
+  "discordUrl": "https://discord.gg/blokpax",
+  "twitterUsername": "LostMinersETH",
+  "description": "The FINAL collection of Ethereum’s Proof-of-Work mining era featuring “abstract to hi-fidelity” pixel art from award winning sculptor Charles Pate. \n\nOur canonical history is detailed in the [white paper.](https://lost-miners-of-the-ether.gitbook.io/lost-miners-of-the-ether-white-paper/) \n\nThe Lost Miners origin story is one of advanced technological ingenuity and execution.  \n\nThe Lost Miners come with no future promises or roadmaps. \n\nThese are digital collectibles of the purist form.  \nThey simply exist. \n\nCreated by the team at Blokpax. We have token gated channels in the [Blokpax Discord](https://discord.com/invite/blokpax) for collectors to gather. \n\nJoin & get the verified role to meet other enthusiasts."
 }

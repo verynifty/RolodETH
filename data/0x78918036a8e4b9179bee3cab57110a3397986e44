@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "writer"
   ],
-  "name": "Mirror: Station"
+  "name": "Mirror: Station",
+  "ens": "fkpxls.eth"
 }

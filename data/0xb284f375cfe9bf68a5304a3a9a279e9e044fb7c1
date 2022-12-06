@@ -9,5 +9,7 @@
   "imageUrl": "https://i.seadn.io/gcs/files/3f67eed60de14ed3a2dc1de34d2263d3.gif?w=500&auto=format",
   "discordUrl": "https://discord.gg/libraryonchain",
   "description": "Imagine a library full of alpha. An alpha aggregator powered by onchain activities, research and networks.\nNFTs grants access to the private discord of Library Onchain.\nAll services of Library Onchain are available for NFT holders.",
-  "erc721_symbol": "LOC"
+  "erc721_symbol": "LOC",
+  "externalUrl": "http://www.libraryonchain.com",
+  "twitterUsername": "LibraryOnchain"
 }

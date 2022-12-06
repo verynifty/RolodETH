@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "opensea-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "juan77.eth"
 }

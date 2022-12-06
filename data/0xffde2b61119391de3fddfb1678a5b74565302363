@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "illest",
-  "name": "Illest Motorverse Genesis Collection"
+  "name": "Illest Motorverse Genesis Collection",
+  "imageUrl": "https://i.seadn.io/gcs/files/fe61f15515f31874487e0b71d464c1b5.jpg?w=500&auto=format",
+  "externalUrl": "https://illestmotorverse.io/",
+  "description": "Illest Motorverse is a community building project that aims to move the community from the 2.0 brand space into the web3. A move to the next frontier empowers our community by giving us the proper platform to contribute and give back to the heroes and trailblazers that paved the way. The goal was to set the stage by being aggressive in collaborating with other communities (brands, food businesses, and web3 collaborators)"
 }

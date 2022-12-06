@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "yamazar1.eth"
 }

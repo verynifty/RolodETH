@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "CBA",
-  "name": "Confirmed Chaos By Anon"
+  "name": "Conformed Chaos By Anon",
+  "imageUrl": "https://i.seadn.io/gcs/files/e73d0c9b37391a8019fecbce452b77b0.png?w=500&auto=format",
+  "description": "My name is not important but the art is. This is your genesis pass to my creations. I will not share my Twitter although it is here in plain sight"
 }

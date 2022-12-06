@@ -4,5 +4,6 @@
     "doodle-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "control-c.eth"
 }

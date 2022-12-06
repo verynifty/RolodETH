@@ -1,7 +1,13 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xcae945652ba3a6fc07ecbf305bedb00d6d556118"
+  "proxy": "0xcae945652ba3a6fc07ecbf305bedb00d6d556118",
+  "name": "CHCC: Genesis Collection",
+  "imageUrl": "https://i.seadn.io/gcs/files/750900496f427132a6e704ebacd0f91b.png?w=500&auto=format",
+  "twitterUsername": "capsule_house",
+  "description": "CHCC: Genesis Collection is one of the largest curated collections ever to be assembled.  Illustrated by over 150 web3 artists, culminating in a total of 409 individual tokens.  Through a chest opening reveal, each holder has the ability to own art based on the Capsule House IP (Created by Seerlight, Kaejunni, and Oksami), from up and coming artists and larger known artists in the space.  A majority of the artists were compensated upfront, have a share in the Chest mint, Chest secondaries, and their individual token royalties, compensating each artist, every step of the way."
 }

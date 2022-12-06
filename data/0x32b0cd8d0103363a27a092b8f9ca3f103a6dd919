@@ -3,5 +3,6 @@
     "nft",
     "opensea-verified"
   ],
-  "name": "inertia V3"
+  "name": "inertia V3",
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aa0bc988645c2663229b8a37618c185de1f7a762bed001e49638ed9569cf82b979472916ff64d74a62c89a8ff66255279b0e794c0fd214d34daaa7d042b0e8db338be3a0f564a69309b87caa8be70ddaab241d506237779361609783a47038e98401c8e1de932a778ed4bec3b7e4f2fbb058ed9feecb44e991ea6b299d1f7ae6c"
 }

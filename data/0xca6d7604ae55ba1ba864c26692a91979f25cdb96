@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x27427a8f21a499b766a51a4b6efa547d943fe6fd"
+  "proxy": "0x27427a8f21a499b766a51a4b6efa547d943fe6fd",
+  "name": "FreeNFT.xyz Daily Cargo",
+  "imageUrl": "https://i.seadn.io/gcs/files/533bbdb688356bc009e1389fad794d12.png?w=500&auto=format",
+  "externalUrl": "https://freenft.xyz",
+  "discordUrl": "https://discord.gg/freenft",
+  "twitterUsername": "freenft_xyz",
+  "description": "Go to freenft.xyz every day to upgrade your cargo, maintain your streak and win rewards.\n"
 }

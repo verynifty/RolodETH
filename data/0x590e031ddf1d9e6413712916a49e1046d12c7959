@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "TKS",
-  "name": "Takin Shots"
+  "name": "Takin Shots NFT",
+  "imageUrl": "https://i.seadn.io/gcs/files/c129cd99e11dd6c15faa78f8320eb817.png?w=500&auto=format",
+  "externalUrl": "http://takinshots.io",
+  "twitterUsername": "TakinShots_",
+  "description": "444 1 Of A Kind Badass Grannies 👵 Living on the Eth Blockchain.  \n\nMore than just an alpha group, a true community bridging the learning gap for the web2 minds entering the web 3! 💪 most don’t know where to begin, we got you covered 🤝 \n\n🔥Trading Alpha with live trading \n🔥Profit Sharing Giveaways\n🔥Top Tier Trades in Crypto Stocks and NFTs\n🔥Education \n🔥So much more!"
 }

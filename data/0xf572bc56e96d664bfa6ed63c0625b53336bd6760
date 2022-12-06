@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "PW",
-  "name": "PasokonWorld  Official"
+  "name": "PasokonWorld - Official",
+  "imageUrl": "https://i.seadn.io/gcs/files/6a9dbef20e93ec017c1718efc161c9d9.jpg?w=500&auto=format",
+  "externalUrl": "https://pasokonnft.com/mint",
+  "twitterUsername": "PasokonWorld",
+  "description": "MINTSITE: https://pasokonnft.com/mint\n\nPasokonWorld is a set of hand-drawn PFPs with a total supply of 6,666, which will also be one of the two most vital parts in ecosystem.\n\nWe will continue to explore and innovate in the metaverse, and holders of PasokonWorld will continue to receive the results of our exploration and innovation by airdrops.\n\nSome of the Easter eggs and alpha about Token may be hidden in our OWS. We plan to announce them in Q4 2022."
 }

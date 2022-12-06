@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-opcollective",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "01536.eth"
 }

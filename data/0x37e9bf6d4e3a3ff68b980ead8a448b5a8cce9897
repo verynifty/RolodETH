@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-qidao",
     "opensea-user"
-  ]
+  ],
+  "ens": "tefakatsuki.eth"
 }

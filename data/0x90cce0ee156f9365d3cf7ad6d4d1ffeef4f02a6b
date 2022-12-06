@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "NBP",
-  "name": "Non-Fungible Panel-Block"
+  "name": "Non-Fungible Panel-Block",
+  "imageUrl": "https://i.seadn.io/gcs/files/6cd31e76924e57089e21af0cc599a2d9.png?w=500&auto=format",
+  "description": "The Panels is an experiment about emergence arising from collective intelligence. \n**Blocks are the building blocks for Panels**. \nThey are single independent generative art pieces, created on mint by a unique hash. They come in different shapes and colors, and some of them might resonate with others. They are inspired by aspects of the light, the sound and the touch. There are also references to other generative art projects."
 }

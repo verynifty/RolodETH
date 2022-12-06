@@ -6,5 +6,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "hongjunchangzheng.eth"
 }

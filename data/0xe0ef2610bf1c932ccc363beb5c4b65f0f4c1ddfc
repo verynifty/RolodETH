@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Squishiverse Items",
   "imageUrl": "https://i.seadn.io/gae/E5ivcyLt5oEaSTUasY95xj0gsifiEhUZgAcvCLt_nOW2Lj-tsp0OQM_Nq7xD1AghcdUotrAeY0L2Wqda5EbzUqCMlvk1p1SU76eq?w=500&auto=format",
   "externalUrl": "http://squishiverse.com",
   "discordUrl": "https://discord.gg/squishiverse",
   "twitterUsername": "SquishiverseNFT",
-  "description": "The official collection containing all the Squishiverse items. "
+  "description": "The official collection containing all the Squishiverse items. ",
+  "erc721_symbol": "SVITEM"
 }

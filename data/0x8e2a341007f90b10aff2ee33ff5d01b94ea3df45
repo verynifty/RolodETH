@@ -9,7 +9,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ],
   "ens": "haider13.eth"
 }

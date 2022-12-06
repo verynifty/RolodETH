@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "CHAMPAGNE",
+  "erc20_decimals": 9,
+  "name": "Doge and Three Blondes"
+}

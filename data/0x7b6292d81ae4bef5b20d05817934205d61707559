@@ -6,7 +6,8 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-stgdao",
     "opensea-user",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-gmx"
   ],
   "ens": "nverhong.eth"
 }

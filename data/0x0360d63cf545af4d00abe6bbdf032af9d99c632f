@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "BANTA",
+  "erc20_decimals": 9,
+  "name": "Black Santa"
+}

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Bauhaus Blocks",
   "imageUrl": "https://i.seadn.io/gae/qwEUi6p38wweAnJAoVxhnXPh97oHxVaCKIYA7M5uh4KE6JZ9aPeSg01BeUxk1x_4Tks00JPNvoUO5Pxvguc4Yor5QpjIM2kGeExNjw?w=500&auto=format",
   "externalUrl": "https://bauhausblocks.io/",
   "discordUrl": "https://discord.gg/7BFF8KRv4S",
   "twitterUsername": "Art101NFT",
-  "description": "Bauhaus Blocks is Art101.io's 4th FREE NFT drop.\n\nBauhaus Blocks is a generative collection of 8192 provably rare Bauhaus-Inspired NFTs. Created from 372 unique blocks concatenated in four different formats and palettes. \n\nBauhaus was an early 19th-century art movement, which synthesized craft, technology, and aesthetics. Seeking the creation of a \"total work.\" Or a that is, multiple works that act as one through aesthetic unity.\n\nAn idea that lends itself to simple geometric shapes cascading with cohesion, the Bauhaus 'brand.'\n"
+  "description": "Bauhaus Blocks is Art101.io's 4th FREE NFT drop.\n\nBauhaus Blocks is a generative collection of 8192 provably rare Bauhaus-Inspired NFTs. Created from 372 unique blocks concatenated in four different formats and palettes. \n\nBauhaus was an early 19th-century art movement, which synthesized craft, technology, and aesthetics. Seeking the creation of a \"total work.\" Or a that is, multiple works that act as one through aesthetic unity.\n\nAn idea that lends itself to simple geometric shapes cascading with cohesion, the Bauhaus 'brand.'\n",
+  "erc721_symbol": "BB"
 }

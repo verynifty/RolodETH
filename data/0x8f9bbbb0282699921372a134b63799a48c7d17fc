@@ -4,7 +4,7 @@
     "opensea-verified"
   ],
   "name": "Fortune Teller Collection V2",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a2e3c3159b2be37b09676e71e01c195bc3de37a02a5bc00385365b77030e31f2469dde05a6621922f1e8ecce8a21205b86051cfe15a825db57e6b042bbca13afdf58639c4b74cfe23d9856cafbef6c944dac4f6975cafbaf1f668e40f08109b725f0fb250f6d95da64b8ee7ac23807f86058ed9feecb44e991ea6b299d1f7ae6c",
+  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a79ab72cfe1f3db7293e3d62196c0963333ffe30390cb50f771e2b60b4ad6f6701ea92221a87a7d1176f0fdaf0498e1b6420be98061524ff42f230ddf20bc92c30613d5abd5a727c9678c01d5b0a661a9cebc27a00bb400ce717bce4d496a9047770d6301c3374aa1784bef24487a49da23c5e4198f99eda3f3b783c3322e8c56",
   "externalUrl": "https://nft.teller.finance/art-gallery",
   "description": "Fortune Teller NFTs are the first implementation of a real-world asset as a warranty on behalf of a loan. Each Fortune Teller NFT will unlock the ability to request an unsecured loan with a max loan size tied to a base loan amount. Higher tier NFTs offer larger base loan amounts."
 }

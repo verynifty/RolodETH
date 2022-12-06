@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DRMY",
-  "name": "Dreamy"
+  "name": "Dreamy Official",
+  "imageUrl": "https://i.seadn.io/gcs/files/1cb435cc221ee208f48c90e7bb11f056.png?w=500&auto=format",
+  "externalUrl": "https://dreamy.day",
+  "discordUrl": "https://discord.gg/dreamy",
+  "twitterUsername": "dreamy",
+  "description": "Dreamy is a central meeting place for all adventurers, where it all begins. Invoking the feelings of togetherness and familiarity, with a sense of tranquillity and calmness. A place where there is no noise.\n\nEmerging from the idea of escaping the everyday noise of life, with the desire of immersing ourselves in a new world and forging lasting friendships.\n\nDreamy begins with a series of 5,555 digital collectibles on the Ethereum blockchain."
 }

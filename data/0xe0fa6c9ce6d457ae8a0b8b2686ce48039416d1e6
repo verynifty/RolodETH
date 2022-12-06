@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "bardtown.wtf",
   "imageUrl": "https://i.seadn.io/gcs/files/f5833e9fc319b899693992213ae43ef5.png?w=500&auto=format",
   "externalUrl": "https://bardtown.wtf",
   "twitterUsername": "bardtown_wtf",
-  "description": "In a land of heroes, sometimes a genuine loser is needed to set things right. In contradistinction to the success of the Goblins, the snobbery of the High Elves, the practicality of Hobbits, come the lowest class of all to play: The Bard. Welcome to BardTown.WTF where none of your friends want to play with your character no matter his level or ability. Free mint, just pay the gas and tolerate the terrible music of the Bard. Drawn by Doug TenNapel, the guy who can't sing that also made Earthworm Jim. Set cooked by Dr. Whovie and contract written by mysterious 0xth0mas. Because there are worse things than GoblinTown and we call that place BardTown."
+  "description": "In a land of heroes, sometimes a genuine loser is needed to set things right. In contradistinction to the success of the Goblins, the snobbery of the High Elves, the practicality of Hobbits, come the lowest class of all to play: The Bard. Welcome to BardTown.WTF where none of your friends want to play with your character no matter his level or ability. Free mint, just pay the gas and tolerate the terrible music of the Bard. Drawn by Doug TenNapel, the guy who can't sing that also made Earthworm Jim. Set cooked by Dr. Whovie and contract written by mysterious 0xth0mas. Because there are worse things than GoblinTown and we call that place BardTown.",
+  "erc721_symbol": "BARD"
 }

@@ -3,5 +3,6 @@
     "mayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "cryptopunk888.eth"
 }

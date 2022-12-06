@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-subdaonetwork",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "tcvn.eth"
 }

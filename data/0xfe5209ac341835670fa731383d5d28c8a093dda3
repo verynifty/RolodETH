@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xf1b84c040a0f74f679f8398eff993ab14618cbeb"
+  "proxy": "0xf1b84c040a0f74f679f8398eff993ab14618cbeb",
+  "name": "ric flair drip by offset & metro boomin | anotherblock",
+  "imageUrl": "https://i.seadn.io/gcs/files/3806167d96ff488d919dd11bbe50d7c0.png?w=500&auto=format",
+  "externalUrl": "https://anotherblock.io/",
+  "discordUrl": "https://discord.gg/BxZNnjqqK9",
+  "twitterUsername": "anotherblock_io",
+  "description": "INVESTING IN MUSIC – MADE EASY\r\n\r\nown a share of your favorite song and earn royalties alongside your favorite artists."
 }

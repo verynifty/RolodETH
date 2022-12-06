@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "MNTPS",
-  "name": "B&O DNA Collection: Mint Pass"
+  "name": "B&O DNA Collection: Mint Pass",
+  "imageUrl": "https://i.seadn.io/gcs/files/0cf89b779b77354f3c1a11ea0d936d06.gif?w=500&auto=format",
+  "externalUrl": "https://dna.nft.bang-olufsen.com/",
+  "description": "Bang & Olufsen DNA is a collection of 1925 digital collectibles that connect the iconic design of Bang & Olufsen with art and music from a group of pioneering web3 artists. Bang & Olufsen DNA NFTs also provide token-gated access to future exclusive Bang & Olufsen products and experiences."
 }

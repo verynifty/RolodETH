@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DOTNOUNS",
-  "name": "Dot Nouns"
+  "name": "Dot Nouns",
+  "imageUrl": "https://openseauserdata.com/files/10b8165a422a7ac47fbc35ff5aa5e123.svg",
+  "externalUrl": "https://fullyonchain.xyz/",
+  "discordUrl": "https://discord.gg/4JGURQujXK",
+  "twitterUsername": "nounsfes",
+  "description": " This is a fully on-chain generative art NFT collection, which takes advantage of the composability of Nouns. "
 }

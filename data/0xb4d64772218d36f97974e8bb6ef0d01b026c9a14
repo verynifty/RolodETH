@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "art-goblers-minter"
-  ]
+  ],
+  "ens": "drainme.eth"
 }

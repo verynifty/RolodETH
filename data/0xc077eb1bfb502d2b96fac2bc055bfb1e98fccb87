@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x866291734bc29aa29d8782e54417c5bda702a9c2"
+  "proxy": "0x866291734bc29aa29d8782e54417c5bda702a9c2",
+  "name": "Shinnoki Darumas",
+  "imageUrl": "https://i.seadn.io/gcs/files/6e34347207b85a22b03de35f4bfaa981.jpg?w=500&auto=format",
+  "externalUrl": "https://www.shinnoki.xyz/",
+  "discordUrl": "https://discord.gg/shinnoki",
+  "twitterUsername": "ShinnokiNFT",
+  "description": "Shinnoki Darumas is a collection inspired by Japanese traditional dolls that bring luck to their owner. It stands as boxes collection for Shinnoki. \n\nBy owning a Shinnoki NFT you become a part of our brand development and gain access to the project's features, such as e-commerce, alpha community, analytical tools, exclusive manga, virtual and real-life events, and much more."
 }

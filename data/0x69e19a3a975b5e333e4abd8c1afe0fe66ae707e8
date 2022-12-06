@@ -3,5 +3,6 @@
     "azuki-minter",
     "moonbird-minter",
     "clonex-minter"
-  ]
+  ],
+  "ens": "clicksmcgee.eth"
 }

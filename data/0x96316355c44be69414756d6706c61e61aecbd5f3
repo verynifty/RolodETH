@@ -5,11 +5,11 @@
     "contract",
     "erc721"
   ],
-  "name": "Cosmic Ducks(To Fuse)",
-  "imageUrl": "https://i.seadn.io/gae/1PiNpnkEWiVor5zE44JCWBZg9GOZJCcHMcmSXV9zfwkJGfMHFECbTHFDBvMF2dy198pDL1pC2i1TLFDU4P9FSIWOtuUSDhTK2qhd5w?w=500&auto=format",
-  "externalUrl": "https://cosmic-labs.io/#/",
+  "name": "Cosmic Labs(Genesis)",
+  "imageUrl": "https://i.seadn.io/gae/gAaIagdJbMTjsh9skRwqWq_G1TQfPEMY-UNMJNnOqij6rl_EvNuEyv-B2w_dalr9smeOavXIA_DrSUa4vzFQwHBJOwLSU8hWvPS1-Q?w=500&auto=format",
+  "externalUrl": "https://cosmic-labs.io",
   "discordUrl": "https://discord.gg/cosmiclabsnft",
   "twitterUsername": "CosmicLabsNFT",
-  "description": "This Collection is only to burn and Fuse 2 ducks unlocking a [Cosmic Fusions](https://opensea.io/collection/cosmicfusions?search[sortAscending]=true&search[sortBy]=PRICE)\n\nCosmic Labs Main Collection : [Cosmic Genesis](https://opensea.io/collection/cosmiclabs)\n\n2600 Cosmic Ducks Burned (As of 05/09/22)\n\n\n",
+  "description": "Cosmic Labs Collections : [Cosmic Genesis](https://opensea.io/collection/cosmiclabs) I [Cosmic Mutants](https://opensea.io/collection/cosmic-mutants) I  [Cosmic Fusions](https://opensea.io/collection/cosmicfusions?search[sortAscending]=true&search[sortBy]=PRICE) I [Cosmic Babies](https://opensea.io/collection/cosmic-babies) I [Cosmic Collectibles](https://opensea.io/collection/cosmiccollectibles)\r\n\r\nGenesis Yield 40 Cosmic Tokens Daily",
   "erc721_symbol": "CLABS"
 }

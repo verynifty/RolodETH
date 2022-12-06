@@ -10,5 +10,6 @@
   "externalUrl": "https://cryptoadz.io",
   "discordUrl": "https://discord.gg/qSFAu4uU",
   "twitterUsername": "cryptoadzNFT",
-  "description": "A festive, warty, amphibious creature spawned from the metaverse in the holiday season of 2021"
+  "description": "A festive, warty, amphibious creature spawned from the metaverse in the holiday season of 2021",
+  "erc721_symbol": "MistleToadz"
 }

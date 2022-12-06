@@ -15,7 +15,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "999x9.eth"
 }

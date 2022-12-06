@@ -5,7 +5,8 @@
     "contract",
     "erc721"
   ],
-  "name": "Verse",
-  "imageUrl": "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aefbc79755bab6b9211b33fd7ec0f6e88e7f29caffd9e5fe03b89080fa0e9da20d63e680f80ba57a66fc4ad4f1c278e281d3336e94b8976eec8e04d2ba011ad4cd34f002eb44811d5d5386beb1f19aa209e9d8b020b06d9c536b79957390a06e4f09f25a47201a21f909868da145f132223c5e4198f99eda3f3b783c3322e8c56",
-  "erc721_symbol": "VERSE"
+  "name": "Hypertype by Mark Webster",
+  "imageUrl": "https://i.seadn.io/gcs/files/6a9c47bf141f12c6af7c65fcd6712599.webp?w=500&auto=format",
+  "erc721_symbol": "VERSE",
+  "description": "Hypertype is first and foremost a textual work that relies on the visual interaction of a variety of typographic signs and letters. There is visual content based on a language system and there is visual context based on a subject matter - computers automating humans.” - Mark Webster"
 }

@@ -1,7 +1,14 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x1bc2697f2efac144e7422c4827ba95e9b8369b77"
+  "proxy": "0x1bc2697f2efac144e7422c4827ba95e9b8369b77",
+  "name": "BasquiBots",
+  "imageUrl": "https://i.seadn.io/gcs/files/c4899e4441c518c72f0dd1da6ab724a6.png?w=500&auto=format",
+  "externalUrl": "https://linktr.ee/ThatGuyIzzy",
+  "twitterUsername": "thelgndryizzy",
+  "description": "Basquibots! Because ART and ROBOTS!\n\nJust an art collection for all the bots out there.\n\nProbably no roadmap. Probably no utility. Unless that stuff happens..."
 }

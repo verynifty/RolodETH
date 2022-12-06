@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "bayc-minter",
     "snapshot-voter-rugcommunity",
-    "snapshot-voter-foundersdao"
+    "snapshot-voter-foundersdao",
+    "snapshot-voter-rascwtf"
   ],
   "ens": "absolutely.eth"
 }

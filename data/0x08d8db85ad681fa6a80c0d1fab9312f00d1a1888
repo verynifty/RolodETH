@@ -8,5 +8,6 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "0xjolin.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "kp6c6p6c.eth"
 }

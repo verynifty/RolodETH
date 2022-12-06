@@ -6,5 +6,10 @@
     "erc721"
   ],
   "name": "BINARY CONVERSATIONS WITH AI",
-  "erc721_symbol": "BINARY"
+  "erc721_symbol": "BINARY",
+  "imageUrl": "https://i.seadn.io/gcs/files/8c326ce2d23c77a128e2c272afa7a8e1.png?w=500&auto=format",
+  "externalUrl": "http://beeble.xyz",
+  "discordUrl": "https://discord.gg/CkmhMR3Fdb",
+  "twitterUsername": "Beeble_XYZ",
+  "description": "A visual journey into the neural network. 250 editions of generative outputs from BEEBLE's new method of communications with artificial intelligence."
 }

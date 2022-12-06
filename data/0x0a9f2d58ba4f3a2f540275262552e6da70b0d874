@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ChubbyPenguins",
   "imageUrl": "https://i.seadn.io/gcs/files/e5ea56a3d34c64c11bae4740fa13d7bb.png?w=500&auto=format",
   "externalUrl": "https://chubbypenguins.xyz/",
   "twitterUsername": "ChubbyPengs",
-  "description": "3069 Chubby Penguins trying to \"fly\"\n"
+  "description": "3069 Chubby Penguins trying to \"fly\"\n",
+  "erc721_symbol": "Chubby"
 }

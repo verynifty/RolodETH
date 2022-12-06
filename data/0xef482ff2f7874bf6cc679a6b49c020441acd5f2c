@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SKULLPIX",
-  "name": "SKULLPIX"
+  "name": "SKULLPIX Official",
+  "imageUrl": "https://i.seadn.io/gcs/files/c9f7f9052760556af2273d5fe26b0a3e.gif?w=500&auto=format",
+  "externalUrl": "http://discord.gg/FtSk3aTs",
+  "twitterUsername": "SkullPixNFT",
+  "description": "- 24x24 Pixel Art.\n- 4999 SkullPix living on the Ethereum Blockchain\n- Community Driven. ** 0% Royalties ** ,\n- Community Created [Discord](discord.gg/FtSk3aTs), No Roadmap, Just vibes"
 }

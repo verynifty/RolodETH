@@ -1,7 +1,14 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x33524da1fb4bebaf2c9046407a6944d6e16b460f"
+  "proxy": "0x33524da1fb4bebaf2c9046407a6944d6e16b460f",
+  "name": "Multiplicity By Jimena Buena Vida",
+  "imageUrl": "https://i.seadn.io/gcs/files/114fbcd3958134c4d142fdd52288a367.gif?w=500&auto=format",
+  "externalUrl": "https://www.buenavidaart.com/",
+  "twitterUsername": "JimenaBuenaVida",
+  "description": "\"Multiplicity\" is a collection of 3 artworks by Jimena Buena Vida. Each piece reflects the courageous act of accepting our multidimensional nature and embracing all that is."
 }

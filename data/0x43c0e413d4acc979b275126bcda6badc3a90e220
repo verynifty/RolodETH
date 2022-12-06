@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "BRAiN VOMiT Collection",
   "imageUrl": "https://i.seadn.io/gae/z3DI3fu9tdyqUsoQgCwteYNswPmX5GaTqaV6ySHxfA5F-9ZrJ12D8u-fRPWCR6Qn6Ox-6Y_Lr3E31p_xJ9CZS5yOa0Q8XOqn4yNfjg?w=500&auto=format",
   "externalUrl": "https://app.rarible.com/collection/0x43c0e413d4acc979b275126bcda6badc3a90e220",
-  "description": "Turning my deepest thoughts into finger paintings on paper and canvas. This is BRAiN VOMiT (@steven__rea) on Twitter "
+  "description": "Turning my deepest thoughts into finger paintings on paper and canvas. This is BRAiN VOMiT (@steven__rea) on Twitter ",
+  "erc721_symbol": "BrainVomit"
 }

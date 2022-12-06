@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "Egg",
-  "name": "Egg"
+  "name": "RTFKT Animus Egg 🥚",
+  "imageUrl": "https://i.seadn.io/gcs/files/44e8866f6b904542b7bb59dc12af64f2.gif?w=500&auto=format",
+  "discordUrl": "https://discord.gg/rtfkt",
+  "twitterUsername": "RTFKT",
+  "description": "\"The Environmental Gestation Gizmo is a state-of-the-art incubation chamber for artificial lifeforms. It is tamper-proof and suitable for trans-dimensional travel. It can safely be infused with elemental energies.\r\n\r\nWhile you wait for it to hatch, be sure to !PROTECT ⚔️🛡️⚔️ it at all costs.\""
 }

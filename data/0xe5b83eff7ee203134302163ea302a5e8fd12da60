@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "AnEnd",
-  "name": "An End by Basquinot"
+  "name": "An End by Basquinot",
+  "imageUrl": "https://i.seadn.io/gcs/files/cf78aa39c33c9be0f17082079bb7bc20.png?w=500&auto=format",
+  "twitterUsername": "Basquinot_AnEnd",
+  "description": "... Basquinot as an end 2 mass-produced individuality ...\n\nIs this An End? or The End?"
 }

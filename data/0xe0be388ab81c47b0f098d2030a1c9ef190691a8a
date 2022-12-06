@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Unemployables",
   "imageUrl": "https://i.seadn.io/gcs/files/54f7948b2fc121756913b6b72b15091f.png?w=500&auto=format",
   "externalUrl": "http://twitter.com/unemployables",
   "discordUrl": "https://discord.gg/unemployables",
   "twitterUsername": "unemployables",
-  "description": "For people who do what they love. A collection of 5,000 NFTs by the team at able.com\n\n[Twitter](https://twitter.com/unemployables) | [Discord](https://discord.gg/unemployables)"
+  "description": "For people who do what they love. A collection of 5,000 NFTs by the team at able.com\n\n[Twitter](https://twitter.com/unemployables) | [Discord](https://discord.gg/unemployables)",
+  "erc721_symbol": "UNE"
 }

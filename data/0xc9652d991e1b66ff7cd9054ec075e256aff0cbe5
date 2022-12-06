@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-perp-temp-check",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

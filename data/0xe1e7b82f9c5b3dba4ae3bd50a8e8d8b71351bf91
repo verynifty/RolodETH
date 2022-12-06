@@ -1,7 +1,14 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a",
+  "name": "Digital Sketches (Manifold)",
+  "imageUrl": "https://i.seadn.io/gcs/files/0fd434e310fffa061ae8405bdd6fa02f.jpg?w=500&auto=format",
+  "externalUrl": "http://www.annabeller.de",
+  "twitterUsername": "Anna___Beller",
+  "description": "The artist's first Digital Sketches. Minted on Manifold. "
 }

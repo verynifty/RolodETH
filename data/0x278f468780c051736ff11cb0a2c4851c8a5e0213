@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "cryptogenaral.eth"
 }

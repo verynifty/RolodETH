@@ -4,5 +4,6 @@
     "hashmask-minter",
     "art-goblers-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "aureal.eth"
 }

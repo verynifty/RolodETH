@@ -1,7 +1,13 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xb6bb22c822aafa28d34f6e5ab8f93b0896838131"
+  "proxy": "0xb6bb22c822aafa28d34f6e5ab8f93b0896838131",
+  "name": "A series of tubes by James Merrill",
+  "imageUrl": "https://i.seadn.io/gcs/files/7fc6037e038723cbb2e2bf7f3272263d.jpg?w=500&auto=format",
+  "externalUrl": "https://lostpixels.io",
+  "description": "A series of tubes is a generative algorithm that creates a series of twists and turns with lines. Various pen colors are used during plotting to show the ordering and swapping of individual segments.\r\n\r\nThe algorithm responsible for A Series Of Tubes is over 4,000 lines of Javascript long. Each unique twist, shape, or bit of geometry was painstakingly made with code in a modular fashion so that it could support a variable number of pen colors. I challenged myself to write a plotter specific algorithm that really highlighted fine tipped pens. I also took inspiration from “Wimmelbilders”, which is a style of drawing that seeks to cram in insane amounts of detail into a single image.\r\n\r\nEach plot takes around 5-6 hours to be drawn. Pens must be swapped out many times, and their alignment has to be exact otherwise the drawing is ruined.\r\n\r\n233 Supply, enjoy the art for free."
 }

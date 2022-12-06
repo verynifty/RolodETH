@@ -3,5 +3,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "mimiya.eth"
 }

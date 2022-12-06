@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "MO",
-  "name": "Metaplaces Offices"
+  "name": "Metaplaces Offices",
+  "imageUrl": "https://i.seadn.io/gcs/files/69b504794bf580d870bf7d52289ab942.jpg?w=500&auto=format",
+  "externalUrl": "http://meta-places.io",
+  "discordUrl": "https://discord.gg/metaplaces",
+  "twitterUsername": "metaplaces_io",
+  "description": "- # Metaplaces Offices will redefine how people meet and collaborate in the Metaverse.  \r\n\r\n- Holders get a free website for life on Sitecreator.io worth several hundred dollars and can use their office for videoconferences. \r\n- Own a rare breathtaking office designed by talented architects. \r\n- Invite clients and coworkers to your spacious office in 3D by sharing your own URL. \r\n- Organize productive meetings in the conference room. \r\n- Customize your offices logo, furniture and portraits as you see fit. \r\n- Don't miss anything thanks to the Slack integration. \r\n- Turn your office into an organic lead acquisition tool with CRM and Calendar integrations.\r\n\r\n\r\n- # Other collections from Metaplaces: \r\n\r\n- https://opensea.io/collection/metabay-metaplaces\r\n- https://opensea.io/collection/metaplaces-collection\r\n- https://opensea.io/collection/small-offices"
 }

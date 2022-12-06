@@ -13,7 +13,8 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "0008a.eth"
 }

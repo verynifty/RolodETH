@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Last Essence Official",
   "imageUrl": "https://i.seadn.io/gae/V3ORySz7IKyXHZX78KOUUCesD4c-H50NMtSbpQDI0usWbef6xGuFFSDzBDuuTXJR8hY0gqZkjiZc8C-byOhG1R8gPdrexAzpM5nXMw?w=500&auto=format",
   "externalUrl": "https://lastessence.com/",
   "discordUrl": "https://discord.gg/lastessence",
   "twitterUsername": "LastEssenceNFT",
-  "description": "𓆩♡𓆪 A community-centric home to belong in 𓆩♡𓆪\nCurated from web3 creatives; For web3 creatives.\n \nFor higher resolution images please refer to Looksrare:  https://looksrare.org/collections/0x2B934DB3169783DE4Ccb6f24a3039605df8f8b05"
+  "description": "𓆩♡𓆪 A community-centric home to belong in 𓆩♡𓆪\nCurated from web3 creatives; For web3 creatives.\n \nFor higher resolution images please refer to Looksrare:  https://looksrare.org/collections/0x2B934DB3169783DE4Ccb6f24a3039605df8f8b05",
+  "erc721_symbol": "LAST ESSENCE"
 }

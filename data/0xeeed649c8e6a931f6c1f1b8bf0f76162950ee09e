@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "AABN",
-  "name": "Automatic Abstraction by Noan"
+  "name": "Automatic Abstraction by Noan",
+  "imageUrl": "https://i.seadn.io/gcs/files/6a1f383258a90939403ad692c694e3f2.png?w=500&auto=format",
+  "description": "Anon is cool... {WTF is Noan} is not important...  Art tells. Find me by following Anon..."
 }

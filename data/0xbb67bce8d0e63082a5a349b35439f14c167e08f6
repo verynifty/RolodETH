@@ -6,6 +6,7 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-alchemistcoin"
   ]
 }

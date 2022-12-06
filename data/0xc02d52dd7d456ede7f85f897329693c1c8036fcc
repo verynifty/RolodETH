@@ -1,5 +1,10 @@
 {
   "tags": [
-    "uniswapv3-lp"
-  ]
+    "uniswapv3-lp",
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "GIZA",
+  "erc20_decimals": 9,
+  "name": "The Great Pyramid"
 }

@@ -9,5 +9,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "icpbulls.eth"
 }

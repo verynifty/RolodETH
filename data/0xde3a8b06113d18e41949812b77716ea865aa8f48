@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "FoxyHounds",
   "imageUrl": "https://i.seadn.io/gcs/files/1cd02bea4ff11c4f0a7ca68faee8d93d.png?w=500&auto=format",
   "externalUrl": "https://foxyfam.io",
   "discordUrl": "https://discord.gg/foxyfam",
   "twitterUsername": "foxyfamNFT",
-  "description": "FoxyHounds and helping their [FoxyFam](https://opensea.io/collection/foxyfamnft) friends find their way through the forest. 6666 known, when will all be found?\n\nP2E gaming on iOS/web, staking, and a new FOXYVERSE. Play and earn with your FoxyHounds!"
+  "description": "FoxyHounds and helping their [FoxyFam](https://opensea.io/collection/foxyfamnft) friends find their way through the forest. 6666 known, when will all be found?\n\nP2E gaming on iOS/web, staking, and a new FOXYVERSE. Play and earn with your FoxyHounds!",
+  "erc721_symbol": "HOUNDS"
 }

@@ -10,5 +10,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "mogukong.eth"
 }

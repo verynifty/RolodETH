@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "GCYC",
-  "name": "GigaChad Yacht Club"
+  "name": "GigaChad Yacht Club (GCYC)",
+  "imageUrl": "https://i.seadn.io/gcs/files/881e9b4970558d2808173c0e1b5b4b2b.png?w=500&auto=format",
+  "externalUrl": "http://gcyc.xyz",
+  "discordUrl": "https://discord.gg/t3B6KxDzmq",
+  "twitterUsername": "GigaChadYC",
+  "description": "GigaChad Yacht Club (GCYC) is a collection of 6,969 NFTS across the Ethereum Blockchain. Each NFT is randomly generated from over 150 hand-drawn traits, inspired by the almighty GigaChad and the iconic NFT collection: Bored Ape Yacht Club."
 }

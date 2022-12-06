@@ -1,7 +1,12 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xb6bb22c822aafa28d34f6e5ab8f93b0896838131"
+  "proxy": "0xb6bb22c822aafa28d34f6e5ab8f93b0896838131",
+  "name": "Spins by Alexis André",
+  "imageUrl": "https://i.seadn.io/gcs/files/1cd6de63cdb610afbf9427aa9cc1c988.gif?w=500&auto=format",
+  "description": "Artist in Tokyo.\n\nWhen not making visuals for the greatest electronic music artists (Jean-Michel Jarre, ORE...) or grabbing design awards (iF, RedDot, GoodDesign...), I find the time to create generative loops to ease your mind, working the artificial lifelike-ness in the digital domain. Everything coded with heart from scratch. \n\nStealth launch, 333 supply, free for all.\n\n[Superrare](https://superrare.com/mactuitui)\n[Instagram](https://www.instagram.com/mactuitui)\n[Twitter](https://twitter.com/MacTuitui)\n[Previous collection](https://opensea.io/collection/friendship-bracelets-by-alexis-andre)"
 }

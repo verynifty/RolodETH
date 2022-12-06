@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Sons Of Odin",
   "imageUrl": "https://i.seadn.io/gcs/files/cdbf6bcda814a670d1de327a02a88167.png?w=500&auto=format",
   "externalUrl": "http://sonsofodin.xyz/",
   "twitterUsername": "SonsOfOdinNFT",
-  "description": "𝕺𝖉𝖎𝖓'𝖘 𝖆𝖗𝖊 𝖞𝖔𝖚𝖗 𝖙𝖎𝖈𝖐𝖊𝖙 𝖙𝖔 𝓥𝖆𝖑𝖍𝖆𝖑𝖑𝖆...𝕴 𝖜𝖔𝖓𝖉𝖊𝖗 𝖜𝖍𝖆𝖙 𝖙𝖗𝖊𝖆𝖘𝖚𝖗𝖊𝖘 𝖆𝖜𝖆𝖎𝖙!\n\n𝕿𝖗𝖊𝖆𝖘𝖚𝖗𝖊 (𝖈𝖔𝖒𝖎𝖓𝖌 𝖘𝖔𝖔𝖓): https://opensea.io/collection/sons-of-odin-treasure"
+  "description": "𝕺𝖉𝖎𝖓'𝖘 𝖆𝖗𝖊 𝖞𝖔𝖚𝖗 𝖙𝖎𝖈𝖐𝖊𝖙 𝖙𝖔 𝓥𝖆𝖑𝖍𝖆𝖑𝖑𝖆...𝕴 𝖜𝖔𝖓𝖉𝖊𝖗 𝖜𝖍𝖆𝖙 𝖙𝖗𝖊𝖆𝖘𝖚𝖗𝖊𝖘 𝖆𝖜𝖆𝖎𝖙!\n\n𝕿𝖗𝖊𝖆𝖘𝖚𝖗𝖊 (𝖈𝖔𝖒𝖎𝖓𝖌 𝖘𝖔𝖔𝖓): https://opensea.io/collection/sons-of-odin-treasure",
+  "erc721_symbol": "SONS"
 }

@@ -4,5 +4,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "nongrons.eth"
 }

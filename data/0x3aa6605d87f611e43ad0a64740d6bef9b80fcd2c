@@ -11,7 +11,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-gmx",
     "snapshot-voter-gearbox",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "48488.eth"
 }

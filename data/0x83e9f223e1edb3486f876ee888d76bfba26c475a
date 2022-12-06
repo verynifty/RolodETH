@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "BlockchainSpace",
   "erc20_symbol": "GUILD",

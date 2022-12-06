@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "LOSTPARADIGMS",
-  "name": "LostParadigms"
+  "name": "Lost Paradigms",
+  "imageUrl": "https://i.seadn.io/gcs/files/069dffbbac966599273690f5f2c3ec1f.png?w=500&auto=format",
+  "externalUrl": "http://lostparadigms.xyz",
+  "twitterUsername": "LostParadigms",
+  "description": "The Lost Paradigms are exquisitely crafted 3D scenes, models, and vehicles generatively combined into 10,001 unique Paradigms. These visual wonders tell the story of the immersive world we are building together and are perfectly sized to display as social banners."
 }

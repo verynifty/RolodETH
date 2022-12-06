@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-1cookies",
-    "snapshot-voter-uniswap"
-  ]
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
+  ],
+  "ens": "665656.eth"
 }

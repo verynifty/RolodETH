@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "EasyFi: Old EASY Token"
+  "name": "EasyFi: Old EASY Token",
+  "erc20_symbol": "EASY",
+  "erc20_decimals": 18
 }

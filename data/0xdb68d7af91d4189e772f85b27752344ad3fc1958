@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "TB",
-  "name": "TRAVELBIRBS"
+  "name": "TravelBirbs",
+  "imageUrl": "https://i.seadn.io/gcs/files/a5b2ce5985313966f2e09b9d8be54fb1.gif?w=500&auto=format",
+  "externalUrl": "https://www.proof.xyz/",
+  "description": "TravelBirbs are traveling around to visit friends and family.\n\nA collection of 2,000 PFPs which grant their holders access to the digital and IRL TravelBirbs access. Community members passively stake their birds in their wallets by not listing to signal their commitment, in return for exclusive perks.\n\nTravelBirbs are a Moonbirds & PROOF inspirational art project.\n\n!woo"
 }

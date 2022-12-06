@@ -12,7 +12,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "wolle.eth"
 }

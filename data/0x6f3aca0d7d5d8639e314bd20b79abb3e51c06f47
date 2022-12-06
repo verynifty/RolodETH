@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Lana Del Taco",
   "imageUrl": "https://i.seadn.io/gcs/files/949a44f9c7b2a086531a635043f8418d.jpg?w=500&auto=format",
   "externalUrl": "https://lanadeltaco.xyz/",
   "discordUrl": "https://discord.gg/sdm74zgzTQ",
   "twitterUsername": "LanaLabz",
-  "description": "Not your ordinary NFT project"
+  "description": "Not your ordinary NFT project",
+  "erc721_symbol": "LANAS"
 }

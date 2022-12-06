@@ -18,7 +18,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "sandhyaraj.eth"
 }

@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SQUIGX",
-  "name": "Squigx by Anon"
+  "name": "Squigx by Anon",
+  "imageUrl": "https://i.seadn.io/gcs/files/ab1b0b52d3cea1037c53a91beb6c4b41.png?w=500&auto=format",
+  "description": "Generative Squigx by Anon // All unique // All different // 2400x1600 // 333 Pieces // 0.001 Eth"
 }

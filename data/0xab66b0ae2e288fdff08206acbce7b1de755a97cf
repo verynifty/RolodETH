@@ -4,5 +4,6 @@
     "art-goblers-minter",
     "snapshot-voter-gmx",
     "opensea-user"
-  ]
+  ],
+  "ens": "lednone.eth"
 }

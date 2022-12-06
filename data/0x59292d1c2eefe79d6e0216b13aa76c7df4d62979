@@ -1,7 +1,13 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x2403fd54d8faf15d50c855c7896450249838c7fb"
+  "proxy": "0x2403fd54d8faf15d50c855c7896450249838c7fb",
+  "name": "PEPE World Cup",
+  "imageUrl": "https://i.seadn.io/gae/g1kik4VOVr5nPry2VmkQmuThbwbKnUYiKNytLuGSpx_lE1gce6JfivYYzlG5M9RKAWqL6KkOYRHP8PXpjsenjjIJHv4A5bJhoEar?w=500&auto=format",
+  "externalUrl": "https://pepe.bet",
+  "description": "Welcome to the PEPE World Cup, a blind-minting NFT game with long-term utilities on our platform! The collection contains 26 + 1 special hand-drawn NFTs from the 32 World Cup teams. Three different tiers exist, and their perks differ. The outcome of the World Cup game will depend on the actual results in Qatar - NFT owners of at least semi-finalist teams win from our prize pool. Visit https://pepe.bet to learn more!"
 }

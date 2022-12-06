@@ -1,6 +1,9 @@
 {
   "tags": [
-    "tokenlon"
+    "tokenlon",
+    "contract",
+    "proxy"
   ],
-  "name": "Tokenlon: xLON Token"
+  "name": "Tokenlon: xLON Token",
+  "proxy": "0x413ecce5d56204962090eef1dead4c0a247e289b"
 }

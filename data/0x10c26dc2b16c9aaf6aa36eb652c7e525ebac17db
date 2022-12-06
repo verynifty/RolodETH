@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SOAR",
-  "name": "Soaring CryptoBirbs"
+  "name": "Soaring CryptoBirbs By Nizo Yamamoto",
+  "imageUrl": "https://i.seadn.io/gcs/files/ee0d28264956e6368eee3d12f98cc82f.gif?w=500&auto=format",
+  "externalUrl": "https://t.co/vovTjj54qt",
+  "description": "{高騰するクリプトバード} Soaring CryptoBirb, a collection of only 2,000 CryptoBirbs that have been hand-animated by Nizo, a legendary Japanese animation master who is planning on debuting his work in Art Basel 2022, in collaboration with Vodnik's CC0 CryptoBirbs.\n\n1000 Nizo SuperRare holders will premint for mint at exclusive exhibition in our 'Shibuya gallery'. 1000 will be made public 11/30 at 4 PM JST. Max 5/wallet at 0.0099 E. SOLD OUT.\n\nLet's Soar!~"
 }

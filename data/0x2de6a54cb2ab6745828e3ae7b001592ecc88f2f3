@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Primobots: Deployer"
+  "name": "Primobots: Deployer",
+  "ens": "0xmihir.eth"
 }

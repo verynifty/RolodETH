@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "QUACK",
-  "name": "CryptoDucks"
+  "name": "CryptoDucks by Simo",
+  "imageUrl": "https://i.seadn.io/gcs/files/2f6d40a9a44a6a22ac47235025a211fc.gif?w=500&auto=format",
+  "externalUrl": "http://www.cryptoducks.wtf",
+  "twitterUsername": "CryptoDucks69",
+  "description": "2222 CryptoDucks by Simo.eth on the Ethereum blockchain. Quack! Quack! Quack!"
 }

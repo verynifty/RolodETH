@@ -4,7 +4,8 @@
     "snapshot-voter-cow",
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gmx"
   ],
   "ens": "sm1th.eth"
 }

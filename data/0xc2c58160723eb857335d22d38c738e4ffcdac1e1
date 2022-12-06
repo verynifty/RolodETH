@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "mkw",
-  "name": "MekawaiiNFT"
+  "name": "MekawaiiNFT",
+  "imageUrl": "https://i.seadn.io/gcs/files/a8803a2b2d8041abf3e7b2b041b5e9c8.png?w=500&auto=format",
+  "twitterUsername": "MekawaiiNFT",
+  "description": "Mekawaiiメカ is a 333 AI collection inspired by anime. \nEach piece is a unique 1/1, acting as a genesis pass for future benefits and drops. \nMekawaii is here to provide an home to all web3 and anime lovers and build a community.  "
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wasder Mystery Boxes",
   "imageUrl": "https://i.seadn.io/gae/2Tu6wyVD6datoDHRvgH8Wt18ZCg75ktImomPT9d92K22lo0npHBuur5uBn5oorRLDnL2wjrJ2ZyZ4EiXPHqMafDPrsuowWU5cl_f?w=500&auto=format",
   "externalUrl": "https://wasder.gg",
   "twitterUsername": "WasderGG",
-  "description": "The Wasder Mystery Box NFT is made exclusively for our token holders. What’s so special about these? Let’s just say you might want to hold on to this one!"
+  "description": "The Wasder Mystery Box NFT is made exclusively for our token holders. What’s so special about these? Let’s just say you might want to hold on to this one!",
+  "erc721_symbol": "WASLOOT"
 }

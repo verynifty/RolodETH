@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DRIVRS",
-  "name": "Drivrs"
+  "name": "DR/VRS NFT",
+  "imageUrl": "https://i.seadn.io/gcs/files/a3c3415fcc0efb7d562e476f8ff97f3b.jpg?w=500&auto=format",
+  "externalUrl": "https://weownthenight.io/",
+  "discordUrl": "https://discord.gg/yDeeJZujM3",
+  "twitterUsername": "drivrsnft",
+  "description": "A genesis collection of 2,888 generated PFPs, hand finished ultra-rares and 1/1s. All DR/VRS, one Family."
 }

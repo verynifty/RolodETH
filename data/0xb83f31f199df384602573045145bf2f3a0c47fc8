@@ -4,5 +4,6 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "stralkoil.eth"
 }

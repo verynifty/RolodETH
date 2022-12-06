@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "VBNTS",
-  "name": "VibeNauts"
+  "name": "VibeNauts",
+  "imageUrl": "https://i.seadn.io/gcs/files/2eea3149cf42a875e44f97107bfc4906.png?w=500&auto=format",
+  "externalUrl": "http://vibenauts.com",
+  "discordUrl": "https://discord.gg/dY33ju9B3R",
+  "twitterUsername": "VibeNauts",
+  "description": "VibeNauts are an NFT PFP Collectible and Brand! :: 4269 Nauts Roaming The Metaverse! :: Created by DWBROODLE 2022"
 }

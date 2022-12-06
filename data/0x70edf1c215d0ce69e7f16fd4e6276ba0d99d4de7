@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "CHEQD Network",
   "erc20_symbol": "CHEQ",

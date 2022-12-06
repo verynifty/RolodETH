@@ -1,7 +1,15 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0xa96da4b07a5aee001908671d4d167a2414c2dd81"
+  "proxy": "0xa96da4b07a5aee001908671d4d167a2414c2dd81",
+  "name": "Big Bear Syndicate",
+  "imageUrl": "https://i.seadn.io/gcs/files/187d45ea7062164dacc44ab10994b5f7.gif?w=500&auto=format",
+  "externalUrl": "http://mightyactionheroes.com",
+  "discordUrl": "https://discord.gg/w4BnGRHxS3",
+  "twitterUsername": "PlayMightyHero",
+  "description": "The Big Bear Syndicate is the MightyNet’s gen1 PFP collection. Being part of the Big Bear Syndicate will set you up for success in Mighty Action Heroes, the real-time multiplayer third-person battle royale playable in early access on Dec 16-18 2022. These big bears love food, sleep, and certain types of pizza, and will stop at nothing to get their paws on neat supplies for the Mighty Action Heroes."
 }

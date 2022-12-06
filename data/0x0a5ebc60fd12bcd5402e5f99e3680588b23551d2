@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "papneja.eth"
 }

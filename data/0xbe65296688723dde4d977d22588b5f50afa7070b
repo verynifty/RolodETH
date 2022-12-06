@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Pixel Doods NFT",
   "imageUrl": "https://i.seadn.io/gae/-aToet2ckQqq9Ly-HnGALbb8MoUkT3wjmbPKx9u1aRHNdP0cA7frfIslARtuahCXMPal582dXNaNuJhklqBMdQlA3pTyHE6XRMM8jMg?w=500&auto=format",
   "externalUrl": "https://doods.pixeldoodsnft.com/",
   "discordUrl": "https://discord.gg/pixeldoods",
   "twitterUsername": "pixeldoods",
-  "description": "[Website](https://doods.pixeldoodsnft.com) | [Twitter](https://twitter.com/pixeldoods) | [Discord](https://discord.gg/pixeldoods) | [Medium](https://pixelsinspace.medium.com) \n \nPixels in Space is live! Join the fun at https://pixeldoodsnft.com\n\nPixel Doods is a project comprised of 8,888 digitally-drawn and randomly generated NFTs living on the Ethereum Blockchain. \n\nPixel Doods are a part of the Pixels in Space universe. By holding a Pixel Dood, you can actively participate in our Idle RPG (role-playing game) to earn in-game token rewards and NFT prizes.\n\nJoin our Discord to participate in the growth and development of Doodville: https://discord.gg/pixeldoods\n\nVisit https://pixeldoodsnft.com to learn more about our Adventure game."
+  "description": "[Website](https://doods.pixeldoodsnft.com) | [Twitter](https://twitter.com/pixeldoods) | [Discord](https://discord.gg/pixeldoods) | [Medium](https://pixelsinspace.medium.com) \n \nPixels in Space is live! Join the fun at https://pixeldoodsnft.com\n\nPixel Doods is a project comprised of 8,888 digitally-drawn and randomly generated NFTs living on the Ethereum Blockchain. \n\nPixel Doods are a part of the Pixels in Space universe. By holding a Pixel Dood, you can actively participate in our Idle RPG (role-playing game) to earn in-game token rewards and NFT prizes.\n\nJoin our Discord to participate in the growth and development of Doodville: https://discord.gg/pixeldoods\n\nVisit https://pixeldoodsnft.com to learn more about our Adventure game.",
+  "erc721_symbol": "PXD"
 }

@@ -1,7 +1,12 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4",
+  "name": "Socmplxd Editions",
+  "imageUrl": "https://i.seadn.io/gcs/files/0cc81768feb4c21190deaf8c657bb1fa.jpg?w=500&auto=format",
+  "twitterUsername": "socmplxd"
 }

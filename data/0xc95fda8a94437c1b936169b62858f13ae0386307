@@ -2,7 +2,8 @@
   "tags": [
     "contract-deployer",
     "snapshot-voter-safe",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-apecoin"
   ],
   "name": "Raptor: Deployer",
   "ens": "netrunner.eth"

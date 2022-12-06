@@ -3,5 +3,6 @@
     "coolcat-minter",
     "pudgy-pinguin-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "wondermarq.eth"
 }

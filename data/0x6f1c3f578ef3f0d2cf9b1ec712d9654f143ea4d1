@@ -1,8 +1,12 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "SBV",
-  "name": "Shrooms by Vodnik"
+  "name": "Shrooms by Vodnik",
+  "imageUrl": "https://i.seadn.io/gcs/files/39935799af870a0ab1ca209285f45f60.jpg?w=500&auto=format",
+  "description": "shrooms are a unique art project. \n\nNo roadmap, no utility, just shrooms.\n\nDesigned by Vodnik. The creator of https://opensea.io/collection/cryptobirbswtf\n\nThis project is in the public domain. Feel free to use the shrooms in any way you want.\n\n!shrm \n"
 }

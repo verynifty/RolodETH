@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Girl NFT",
   "imageUrl": "https://i.seadn.io/gae/QZhxMhAbl2MPpnzFdHTgWnDS5oVS6MLTRoYvPPXizmjl0cYH3m9myxs7MkfMeFFJaK2QEAJkJoXrdT2JKQH5oX8DHU-Ev7MVzq2E3g?w=500&auto=format",
   "externalUrl": "https://thegirl.io",
   "discordUrl": "https://discord.gg/v5r8pEeNqT",
   "twitterUsername": "TheGirl_NFT",
-  "description": "A minimalist collection of 7777 NFT's with hand-drawn traits curated by Australian artist Nikki Noona. On a mission to break down the barriers to girls' education. Our project goal is to fund a year’s worth of education for 250 girls living in Uganda and Sierra Leone."
+  "description": "A minimalist collection of 7777 NFT's with hand-drawn traits curated by Australian artist Nikki Noona. On a mission to break down the barriers to girls' education. Our project goal is to fund a year’s worth of education for 250 girls living in Uganda and Sierra Leone.",
+  "erc721_symbol": "TG"
 }

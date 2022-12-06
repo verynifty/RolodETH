@@ -3,8 +3,8 @@
     "nft",
     "opensea-verified"
   ],
-  "name": "Five Penguins",
-  "imageUrl": "https://i.seadn.io/gae/RfDkmExwKrbUm7M1OqIJaUDnMqubTq3ujVY2yEeP-tmnL07ajHfwj2_QTLdP9ZAhDpNYsZHBJrD7kZzftn9SHn-Ye_EdKY87XvJRejY?w=500&auto=format",
+  "name": "Five Penguins by Gavin Shapiro",
+  "imageUrl": "https://i.seadn.io/gcs/files/acf0c80c9323d20ec1a901b3b03ce1eb.png?w=500&auto=format",
   "twitterUsername": "shapiro500",
-  "description": "Five Penguins is a collectible concert visualizer that anyone can use for free. It is a generative art series by Gavin Shapiro, available to collect on the Ethereum blockchain, and designed to fit your Twitter banner. Similar in spirit to generative collections like those found on ArtBlocks, this is first and foremost an art release, and there is no roadmap! Just majestic, endlessly marching penguins. And sometimes bees.\n\nThe 3,125 squads in this collection consist of every possible combination of 5 different penguin types in 5 different positions (5^5). There is only one of each combination, and the rarity of these combinations is treated like poker hands (so getting five of the same penguin is much rarer than a pair or three-of-a-kind.). Each squad then gets a random background and a chance to spawn with special environmental traits."
+  "description": "Five Penguins is a collectible concert visualizer that anyone can use for free at [fivepenguins.party](https://www.fivepenguins.party). It is a generative art series by Gavin Shapiro, available to collect on the Ethereum blockchain, and designed to fit your Twitter banner. Similar in spirit to generative collections like those found on ArtBlocks, this is first and foremost an art release, and there is no roadmap! Just majestic, endlessly marching penguins. And sometimes bees.\n\nThe 3,125 squads in this collection consist of every possible combination of 5 different penguin types in 5 different positions (5^5). There is only one of each combination, and the rarity of these combinations is treated like poker hands (so getting five of the same penguin is much rarer than a pair or three-of-a-kind.). Each squad then gets a random background and a chance to spawn with special environmental traits."
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "DefiDollar DAO",
   "erc20_symbol": "DFD",

@@ -8,7 +8,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "cryptogangster.eth"
 }

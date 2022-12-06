@@ -5,6 +5,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-gnosis",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-apecoin"
   ]
 }

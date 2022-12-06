@@ -1,8 +1,13 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "HORNYPIXEL",
-  "name": "HornyPixel"
+  "name": "HornyPixel",
+  "imageUrl": "https://i.seadn.io/gcs/files/9d04002f92527cae702ec5c1246bc16f.gif?w=500&auto=format",
+  "discordUrl": "https://discord.gg/eKSxmjUba3",
+  "description": "A collection of 296 pixel art NFTs created by the MemeLords of MemeLand. The intention of this pixel art collection is to entertain web3 users. Artist: MX1000. Disclaimer: No dildo was harmed during the creative process."
 }

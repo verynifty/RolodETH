@@ -1,8 +1,11 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "DABN",
-  "name": "Dream Abstraction by Noan"
+  "name": "Dream Abstraction by Noan",
+  "imageUrl": "https://i.seadn.io/gcs/files/d531c4639d77a2110ff497f8d7a2dce5.png?w=500&auto=format"
 }

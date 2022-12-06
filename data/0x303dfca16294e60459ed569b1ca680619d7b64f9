@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "FMLR",
-  "name": "Familiars"
+  "name": "Familiar Studios",
+  "imageUrl": "https://i.seadn.io/gcs/files/197b15c7e936cee9f2ae7b82fecfab7d.png?w=500&auto=format",
+  "externalUrl": "https://familiarstudios.io/",
+  "discordUrl": "https://discord.gg/familiars",
+  "twitterUsername": "FamiliarStudios",
+  "description": "Familiars are little feline-esque creatures that have resigned from the life of magic and apprenticeship in the purrrsuit of freedom and individuality."
 }

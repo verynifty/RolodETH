@@ -2,5 +2,8 @@
   "tags": [
     "contract",
     "erc20"
-  ]
+  ],
+  "erc20_symbol": "20WBTC-80BADGER",
+  "erc20_decimals": 18,
+  "name": "20WBTC-80BADGER"
 }

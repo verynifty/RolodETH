@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "opensea-user",
     "snapshot-voter-mavxyz"
-  ]
+  ],
+  "ens": "kakakaku.eth"
 }

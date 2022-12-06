@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "RECUR Pass (ETH)",
   "imageUrl": "https://i.seadn.io/gae/8k1G0XB6zloX4_JwlwL26Fhj-QAi2KDqDk_uQtC7cWydf_ZpUCZ7KI0g57RcHMcwDzBEsdkmPaPsx1VYX5LQiFZWwvo8KgowwdQGaQ?w=500&auto=format",
   "externalUrl": "https://pass.recurforever.com/",
   "discordUrl": "https://discord.gg/recur",
   "twitterUsername": "RecurForever",
-  "description": "The RECUR Pass is a collection of unique NFTs designed to give the early NFT community utility and special access to digital collectibles from the world’s most beloved brands. Each generative RECUR Pass NFT grants early access and benefits to its holder within the RECUR ecosystem, across its brands & IP, throughout the metaverse, and beyond. Learn more at \n\nhttps://pass.recurforever.com/\n\nhttps://opensea.io/collection/recur-pass-eth\n\nhttps://opensea.io/collection/recur-pass-polygon"
+  "description": "The RECUR Pass is a collection of unique NFTs designed to give the early NFT community utility and special access to digital collectibles from the world’s most beloved brands. Each generative RECUR Pass NFT grants early access and benefits to its holder within the RECUR ecosystem, across its brands & IP, throughout the metaverse, and beyond. Learn more at \n\nhttps://pass.recurforever.com/\n\nhttps://opensea.io/collection/recur-pass-eth\n\nhttps://opensea.io/collection/recur-pass-polygon",
+  "proxy": "0x7e62aa6b8df11a16b4b8a34f8a3e06e152af936f"
 }

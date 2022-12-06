@@ -1,8 +1,15 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "TRUNK",
-  "name": "ROTN Trunk"
+  "name": "ROTN Mystery Trunks",
+  "imageUrl": "https://i.seadn.io/gcs/files/d00d87ec40a65cbb8cb2f9033486ef88.png?w=500&auto=format",
+  "externalUrl": "https://rotn.io",
+  "discordUrl": "https://discord.gg/runawaysnft",
+  "twitterUsername": "runawaysnft",
+  "description": "Each Mystery Trunk holds 3 Runaways who have escaped The Neverworld. Runaways have been carefully packed & hidden in trunks to protect them from Lucifer, who seeks their return. \n\nDripped in dope disguises & streetwear, every Runaway has been generated specifically for you. \n\nYou can keep your Trunk closed for as long as you’d like, or open your Trunk and choose one of the three to take home. \n\nAre you bold enough to take home a Runaway? Open a Mystery Trunk and find out.  "
 }

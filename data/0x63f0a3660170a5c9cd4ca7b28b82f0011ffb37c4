@@ -6,5 +6,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "0oxo0.eth"
 }

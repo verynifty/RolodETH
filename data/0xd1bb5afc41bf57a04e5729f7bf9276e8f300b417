@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Divine Anarchy - Wasteland",
   "imageUrl": "https://i.seadn.io/gcs/files/dcd594df7495a695ebfabed3354136e5.png?w=500&auto=format",
   "externalUrl": "https://www.divineanarchy.com/",
   "discordUrl": "https://discord.gg/divineanarchy",
   "twitterUsername": "divineanarchy",
-  "description": "From the creators of Divine Anarchy comes the spinoff collection Divine Anarchy Wasteland!\n\nWasteland is a collection of 5,050 unique Divine Anarchy NFT’s originally created for those that have been with Divine Anarchy from Mint. During the beginning there was what we call “The Gas War”, our holders were charged high fees to mint but stuck with us none the less and as a thank you for the continued support we created Wasteland for the true believers in our community and what we seek to accomplish in the digital world!\n\nAs with Divine Anarchy's original collection, a wasteland doubles up as your playable character that grants special access to the first NFT Social RPG Divine Anarchy!\n\nOfficial collection of https://opensea.io/collection/divineanarchy"
+  "description": "From the creators of Divine Anarchy comes the spinoff collection Divine Anarchy Wasteland!\n\nWasteland is a collection of 5,050 unique Divine Anarchy NFT’s originally created for those that have been with Divine Anarchy from Mint. During the beginning there was what we call “The Gas War”, our holders were charged high fees to mint but stuck with us none the less and as a thank you for the continued support we created Wasteland for the true believers in our community and what we seek to accomplish in the digital world!\n\nAs with Divine Anarchy's original collection, a wasteland doubles up as your playable character that grants special access to the first NFT Social RPG Divine Anarchy!\n\nOfficial collection of https://opensea.io/collection/divineanarchy",
+  "erc721_symbol": "DAW"
 }

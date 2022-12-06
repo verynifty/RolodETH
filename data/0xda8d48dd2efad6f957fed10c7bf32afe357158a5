@@ -1,7 +1,12 @@
 {
   "tags": [
     "contract",
-    "proxy"
+    "proxy",
+    "nft",
+    "opensea-verified"
   ],
-  "proxy": "0x60ff9952e0084a6deac44203838cdc91abec8736"
+  "proxy": "0x60ff9952e0084a6deac44203838cdc91abec8736",
+  "name": "NEON CNP Xmas",
+  "imageUrl": "https://i.seadn.io/gcs/files/c74d1eb09075dbe0d8cd8badf19660f9.png?w=500&auto=format",
+  "description": "CNPの二次創作プロジェクト”NEONCNP” の\nNEONCNP Xmas　コレクション"
 }

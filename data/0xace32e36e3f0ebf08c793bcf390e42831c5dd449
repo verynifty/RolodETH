@@ -13,6 +13,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-paraswap-dao"
   ]
 }

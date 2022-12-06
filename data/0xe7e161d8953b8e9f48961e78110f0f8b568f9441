@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-qidao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "snapshot-voter-aavegotchi"
   ]
 }

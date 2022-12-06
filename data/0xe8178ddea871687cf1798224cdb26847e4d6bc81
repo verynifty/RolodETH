@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "209611.eth"
 }

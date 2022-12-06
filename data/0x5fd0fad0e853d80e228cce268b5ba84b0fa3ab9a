@@ -1,8 +1,14 @@
 {
   "tags": [
     "contract",
-    "erc721"
+    "erc721",
+    "nft",
+    "opensea-verified"
   ],
   "erc721_symbol": "PIKU",
-  "name": "Pikuserushounen"
+  "name": "Pikuserushounen",
+  "imageUrl": "https://i.seadn.io/gcs/files/4a7ba9e92a90c0cd7374942024215a2b.png?w=500&auto=format",
+  "externalUrl": "https://pikuserushounen.com/",
+  "twitterUsername": "Pikuserushounen",
+  "description": "ピクセルファイターブロックチェーン上でゲームをプレイする 5555 人のピクセル ファイター"
 }
