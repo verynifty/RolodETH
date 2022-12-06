@@ -5,6 +5,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
     "snapshot-voter-toniya",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
   ]
 }

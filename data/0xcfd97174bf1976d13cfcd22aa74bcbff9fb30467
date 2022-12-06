@@ -3,5 +3,6 @@
     "azuki-minter",
     "art-goblers-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0xmulan.eth"
 }

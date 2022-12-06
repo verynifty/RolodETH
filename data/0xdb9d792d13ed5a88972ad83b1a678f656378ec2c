@@ -8,6 +8,7 @@
     "snapshot-voter-via-exchange",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

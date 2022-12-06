@@ -5,7 +5,8 @@
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "fosuncapital.eth"
 }

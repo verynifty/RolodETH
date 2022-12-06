@@ -1,6 +1,8 @@
 {
   "tags": [
     "hashmask-minter",
-    "snapshot-voter-sismo"
-  ]
+    "snapshot-voter-sismo",
+    "snapshot-voter-evmaverick"
+  ],
+  "ens": "vetinary.eth"
 }

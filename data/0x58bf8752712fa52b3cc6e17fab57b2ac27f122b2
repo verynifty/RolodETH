@@ -3,6 +3,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-nftfinance",
     "snapshot-voter-cakevote",
-    "snapshot-voter-giv"
+    "snapshot-voter-giv",
+    "snapshot-voter-gmx"
   ]
 }

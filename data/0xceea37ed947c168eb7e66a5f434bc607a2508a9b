@@ -11,6 +11,9 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gmx"
   ]
 }

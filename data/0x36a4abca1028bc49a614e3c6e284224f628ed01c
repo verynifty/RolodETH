@@ -3,6 +3,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ]
 }

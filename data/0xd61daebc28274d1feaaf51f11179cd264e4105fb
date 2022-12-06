@@ -4,5 +4,6 @@
     "loot-minter",
     "snapshot-voter-gobblerunion",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "davidzhou.eth"
 }

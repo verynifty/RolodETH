@@ -13,7 +13,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "tomorrowwendy.eth"
 }

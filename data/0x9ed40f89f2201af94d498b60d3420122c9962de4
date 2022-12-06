@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Copebirds: Deployer"
+  "name": "Copebirds: Deployer",
+  "ens": "copie.eth"
 }

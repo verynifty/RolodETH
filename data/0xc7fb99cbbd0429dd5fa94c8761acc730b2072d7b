@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-deviltown",
+    "snapshot-voter-gmx"
   ]
 }

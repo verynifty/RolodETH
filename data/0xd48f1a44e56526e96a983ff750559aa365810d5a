@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-kwenta",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-loopringdao"
+    "snapshot-voter-loopringdao",
+    "snapshot-voter-baovotes"
   ]
 }

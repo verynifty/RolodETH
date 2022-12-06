@@ -2,7 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-deviltown",
+    "snapshot-voter-gmx"
   ],
   "ens": "li6668.eth"
 }

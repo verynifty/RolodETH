@@ -7,7 +7,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-apecoin",
     "sudoswap-user",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gmx"
   ],
   "ens": "373737.eth"
 }

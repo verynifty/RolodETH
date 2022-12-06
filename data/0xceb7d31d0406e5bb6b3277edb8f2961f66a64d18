@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "opensea-user",
     "snapshot-voter-subdaonetwork"
-  ]
+  ],
+  "ens": "66666688888888.eth"
 }

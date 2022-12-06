@@ -13,7 +13,8 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-toniya"
+    "snapshot-voter-toniya",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "202110.eth"
 }

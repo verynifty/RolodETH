@@ -9,7 +9,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-mail3",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "cryptoaura.eth"
 }

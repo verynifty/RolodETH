@@ -13,6 +13,7 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-spookyswap",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

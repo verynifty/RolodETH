@@ -17,7 +17,9 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "blokslabs.eth"
 }

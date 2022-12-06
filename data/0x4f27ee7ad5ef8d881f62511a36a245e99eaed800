@@ -9,7 +9,9 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-uniswap",
     "snapshot-voter-people-dao",
-    "snapshot-voter-balancer"
+    "snapshot-voter-balancer",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ],
   "ens": "willance.eth"
 }

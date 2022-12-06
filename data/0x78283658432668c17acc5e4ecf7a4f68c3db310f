@@ -4,5 +4,6 @@
     "moonbird-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kgbgangsta.eth"
 }

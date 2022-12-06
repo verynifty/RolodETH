@@ -3,6 +3,7 @@
     "snapshot-voter-apeswap-finance",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx"
   ]
 }

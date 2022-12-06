@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "10% PROJECT",
   "imageUrl": "https://i.seadn.io/gcs/files/4f3ee9622d0e23339c83a55a3a9c5f7f.png?w=500&auto=format",
-  "description": "10% \n\n18 ARTWORKS\n18 ARTISTS\n10% ROYALTIES\n\nART."
+  "description": "10% \n\n18 ARTWORKS\n18 ARTISTS\n10% ROYALTIES\n\nART.",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

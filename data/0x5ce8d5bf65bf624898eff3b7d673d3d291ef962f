@@ -12,5 +12,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "snapshot-voter-metislayer2"
-  ]
+  ],
+  "ens": "draconnia.eth"
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
-  ]
+    "sudoswap-user",
+    "snapshot-voter-aave"
+  ],
+  "ens": "668639.eth"
 }

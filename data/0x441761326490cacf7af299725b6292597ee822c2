@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Unifi Protocol DAO",
   "erc20_symbol": "UNFI",

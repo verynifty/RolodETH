@@ -3,7 +3,8 @@
     "snapshot-voter-elfi",
     "snapshot-voter-layer2dao-org",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-deviltown"
   ],
   "ens": "berus.eth"
 }

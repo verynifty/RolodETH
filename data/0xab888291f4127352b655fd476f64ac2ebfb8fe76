@@ -28,7 +28,8 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-morpho",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "allenallen.eth"
 }

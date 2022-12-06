@@ -7,5 +7,6 @@
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "slippy87.eth"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Pintu",
   "erc20_symbol": "PTU",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20281/thumb/image_1_8dd79a68aa.png?1636733599"
+  "imageURL": "https://assets.coingecko.com/coins/images/20281/thumb/image_1_8dd79a68aa.png?1636733599",
+  "proxy": "0xe8fc59036fe59c1237deb11bf7ea3ca6e0883907"
 }

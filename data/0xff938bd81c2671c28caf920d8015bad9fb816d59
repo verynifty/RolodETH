@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "marmeladnaav.eth"
 }

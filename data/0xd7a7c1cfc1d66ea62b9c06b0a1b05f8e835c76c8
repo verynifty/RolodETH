@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-safe",
     "opensea-user"
-  ]
+  ],
+  "ens": "meta1984.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "tengxunkonggu.eth"
 }

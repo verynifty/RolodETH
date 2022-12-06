@@ -13,6 +13,7 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
     "snapshot-voter-people-dao",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-lido-snapshot"
   ]
 }

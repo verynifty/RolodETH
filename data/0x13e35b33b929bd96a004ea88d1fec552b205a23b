@@ -18,7 +18,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "919g2.eth"
 }

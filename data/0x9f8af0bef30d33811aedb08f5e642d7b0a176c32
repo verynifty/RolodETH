@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-balancer",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

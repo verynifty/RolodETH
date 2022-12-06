@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "frendape.eth"
 }

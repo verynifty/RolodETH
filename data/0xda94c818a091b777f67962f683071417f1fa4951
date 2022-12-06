@@ -7,6 +7,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-toniya",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

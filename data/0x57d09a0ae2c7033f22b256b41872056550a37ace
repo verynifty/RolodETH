@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-cakevote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-deviltown",
+    "snapshot-voter-gmx"
   ]
 }

@@ -3,5 +3,6 @@
     "bayc-minter",
     "hashmask-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "tomhschmidt.eth"
 }

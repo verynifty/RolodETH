@@ -4,6 +4,8 @@
     "snapshot-voter-rzt891130",
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-deviltown",
+    "snapshot-voter-gmx"
   ]
 }

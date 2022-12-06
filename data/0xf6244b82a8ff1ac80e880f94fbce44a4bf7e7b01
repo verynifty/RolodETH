@@ -5,6 +5,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-ens",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-pooltogether"
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-gmx"
   ]
 }

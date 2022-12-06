@@ -5,6 +5,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

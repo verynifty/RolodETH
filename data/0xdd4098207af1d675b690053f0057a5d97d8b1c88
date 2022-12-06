@@ -3,6 +3,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-mail3",
     "snapshot-voter-ybaby",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot"
   ]
 }

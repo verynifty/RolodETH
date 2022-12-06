@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Confessions From the Hart Genesis Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/7eddc9c241a79f63f259d7ee668f99f2.gif?w=500&auto=format",
   "externalUrl": "https://www.kevinhartnation.io",
   "discordUrl": "https://discord.gg/hart",
   "twitterUsername": "Moonwalk",
-  "description": "The first generative NFT collection by Kevin Hart that coincides with his Roku series by the same name. Through both the show and through these NFTs, Kevin invites fans to engage with his 10,000 alter-egos that pull from his animated anthology based on the IGTV series of the same name. Yes, Kevin has 10,000 alter-egos! Kevin invites fans into his virtual universe through Confessions from the Hart."
+  "description": "The first generative NFT collection by Kevin Hart that coincides with his Roku series by the same name. Through both the show and through these NFTs, Kevin invites fans to engage with his 10,000 alter-egos that pull from his animated anthology based on the IGTV series of the same name. Yes, Kevin has 10,000 alter-egos! Kevin invites fans into his virtual universe through Confessions from the Hart.",
+  "erc721_symbol": "CFTH"
 }

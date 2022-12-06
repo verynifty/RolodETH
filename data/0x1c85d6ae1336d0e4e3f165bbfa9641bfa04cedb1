@@ -21,6 +21,8 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-loopringdao",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-stakedao",
+    "snapshot-voter-quickvote"
   ]
 }

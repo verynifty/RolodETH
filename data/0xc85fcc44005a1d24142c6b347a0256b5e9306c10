@@ -13,7 +13,9 @@
     "sudoswap-user",
     "snapshot-voter-ens",
     "snapshot-voter-sismo",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-gmx"
   ],
   "ens": "gzheth.eth"
 }

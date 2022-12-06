@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Decentraland Wearables",
   "imageUrl": "https://i.seadn.io/gae/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY?w=500&auto=format",
   "externalUrl": "https://decentraland.org/",
   "discordUrl": "https://discord.gg/svZP5W7tmq",
   "twitterUsername": "decentraland",
-  "description": "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Wearables are worn in game by avatars, and collecting and trading these unique NFTs is a great way for users to integrate themselves into the growing community. The digital assets are dropped in limited-edition collections, and will be available to purchase right here in this store."
+  "description": "Decentraland is an Ethereum blockchain-powered virtual world, developed and owned by its users, who can create, experience, and monetize content and applications. Wearables are worn in game by avatars, and collecting and trading these unique NFTs is a great way for users to integrate themselves into the growing community. The digital assets are dropped in limited-edition collections, and will be available to purchase right here in this store.",
+  "erc721_symbol": "DCLBNNCSCLLCTN"
 }

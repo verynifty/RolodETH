@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ADVT",
+  "erc20_decimals": 9,
+  "name": "Crypto Advent"
+}

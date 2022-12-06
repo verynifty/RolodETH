@@ -9,7 +9,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx"
   ],
   "ens": "ethtomax.eth"
 }

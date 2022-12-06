@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-lido-snapshot"
   ]
 }
