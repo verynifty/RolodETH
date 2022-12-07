@@ -6,5 +6,6 @@
     "sudoswap-user",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-defigeek"
-  ]
+  ],
+  "ens": "0xritsu.eth"
 }

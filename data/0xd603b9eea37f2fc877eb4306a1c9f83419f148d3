@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Furu Spirits",
   "imageUrl": "https://i.seadn.io/gcs/files/1385ed7437bcf8ebf32797013b52af03.gif?w=500&auto=format",
   "externalUrl": "https://karafuru.io",
   "discordUrl": "https://discord.gg/karafuru",
-  "description": "Welcome to the world of the unknown spirits. Their origin remains a mystery, but their future is full of promise. Making the playground their home, we don’t yet know what they’ll do, where they’ll go, or even, what they’ll affect, next."
+  "description": "Welcome to the world of the unknown spirits. Their origin remains a mystery, but their future is full of promise. Making the playground their home, we don’t yet know what they’ll do, where they’ll go, or even, what they’ll affect, next.",
+  "erc721_symbol": "KARA-SURP"
 }

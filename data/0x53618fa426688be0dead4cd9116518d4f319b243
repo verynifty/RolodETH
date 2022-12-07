@@ -7,5 +7,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "serg1e.eth"
 }

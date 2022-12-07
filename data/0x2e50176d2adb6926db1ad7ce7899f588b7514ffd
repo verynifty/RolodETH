@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "20110523.eth"
 }

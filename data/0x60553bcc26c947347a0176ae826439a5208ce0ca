@@ -3,5 +3,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "158880.eth"
 }

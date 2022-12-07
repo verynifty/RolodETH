@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "GalaXY Kats Universe",
   "imageUrl": "https://i.seadn.io/gae/KIH64YAbJp2Dpt5uHwiJN32OdRN8uCggh6UCuE-7NlSH-ahjuKMaext90Q9ENwR4ZMJa9DiIDy4yXwclNSyTLZeqPyihHU1MdRgz?w=500&auto=format",
   "externalUrl": "http://galaxy.art",
   "discordUrl": "https://discord.gg/xyfinance",
   "twitterUsername": "galaxymeerkats",
-  "description": "GalaXY Kats is a community-driven NFT/GameFi project inspired by the charming creature - Meerkats. \n\nThe story is about 10,000 meerkats who inherited the will of humankind and evolved into the most superior creature in the universe - Galaxy Kats. Each meerkat needs an adopter because they have gradually forgotten humanity and its mission.\n\nBeing part of the GalaXY Kats community will give you the bragging rights to show off your own NFTs, allow you to enter the blockchain game, access to practical utilities & perks in the DeFi world. We hope that everyone can have fun with us while discovering the potential of NFTs.\n"
+  "description": "GalaXY Kats is a community-driven NFT/GameFi project inspired by the charming creature - Meerkats. \n\nThe story is about 10,000 meerkats who inherited the will of humankind and evolved into the most superior creature in the universe - Galaxy Kats. Each meerkat needs an adopter because they have gradually forgotten humanity and its mission.\n\nBeing part of the GalaXY Kats community will give you the bragging rights to show off your own NFTs, allow you to enter the blockchain game, access to practical utilities & perks in the DeFi world. We hope that everyone can have fun with us while discovering the potential of NFTs.\n",
+  "erc721_symbol": "GXYK"
 }

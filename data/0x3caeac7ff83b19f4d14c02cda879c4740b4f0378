@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "snapshot-voter-noundles-vote",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "eireann.eth"
 }
