@@ -3,5 +3,6 @@
     "moonbird-minter",
     "veefriend-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kevinbrowning.eth"
 }

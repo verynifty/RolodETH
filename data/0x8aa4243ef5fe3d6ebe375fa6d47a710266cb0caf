@@ -7,6 +7,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ]
 }

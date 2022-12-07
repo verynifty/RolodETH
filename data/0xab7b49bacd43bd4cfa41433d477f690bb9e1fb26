@@ -23,7 +23,9 @@
     "snapshot-voter-sismo",
     "snapshot-voter-morpho",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ],
   "ens": "eth9999.eth"
 }

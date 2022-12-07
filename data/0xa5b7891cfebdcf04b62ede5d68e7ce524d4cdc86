@@ -6,7 +6,9 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "oxcryptos.eth"
 }

@@ -11,6 +11,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dawn Samurai - Official",
   "imageUrl": "https://i.seadn.io/gcs/files/54f0321f9a6468e8a5e219cf36317534.gif?w=500&auto=format",
   "externalUrl": "https://www.dawnsamurainft.com/",
   "twitterUsername": "DawnSamurai_NFT",
-  "description": "𝕴𝖙 𝖜𝖆𝖘 𝖆 𝖘𝖍𝖔𝖗𝖙 𝖏𝖔𝖚𝖗𝖓𝖊𝖞, 𝖇𝖚𝖙 𝖔𝖓𝖑𝖞 𝖙𝖍𝖊 𝖇𝖗𝖆𝖛𝖊, 𝖍𝖔𝖓𝖔𝖗𝖆𝖇𝖑𝖊 𝖆𝖓𝖉 𝖑𝖔𝖞𝖆𝖑 𝖘𝖆𝖒𝖚𝖗𝖆𝖎 𝖆𝖗𝖊 𝖕𝖗𝖊𝖘𝖊𝖓𝖙 𝖍𝖊𝖗𝖊 𝖎𝖓 𝖙𝖍𝖎𝖘 𝖈𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓 𝖔𝖋 5.555 𝖋𝖚𝖑𝖑𝖞 𝖆𝖓𝖎𝖒𝖆𝖙𝖊𝖉 𝖉𝖆𝖜𝖓 𝖘𝖆𝖒𝖚𝖗𝖆𝖎, 𝖆𝖕𝖕𝖗𝖊𝖓𝖙𝖎𝖈𝖊𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖈𝖆𝖕𝖎𝖙𝖆𝖑'𝖘 𝕻𝖆𝖌𝖔𝖉𝖆 𝖙𝖊𝖒𝖕𝖑𝖊𝖘. 𝕷𝖊𝖙'𝖘 𝖌𝖔 𝖎𝖓 𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖋 𝖕𝖊𝖆𝖈𝖊 𝖆𝖌𝖆𝖎𝖓𝖘𝖙 𝖈𝖍𝖆𝖔𝖘."
+  "description": "𝕴𝖙 𝖜𝖆𝖘 𝖆 𝖘𝖍𝖔𝖗𝖙 𝖏𝖔𝖚𝖗𝖓𝖊𝖞, 𝖇𝖚𝖙 𝖔𝖓𝖑𝖞 𝖙𝖍𝖊 𝖇𝖗𝖆𝖛𝖊, 𝖍𝖔𝖓𝖔𝖗𝖆𝖇𝖑𝖊 𝖆𝖓𝖉 𝖑𝖔𝖞𝖆𝖑 𝖘𝖆𝖒𝖚𝖗𝖆𝖎 𝖆𝖗𝖊 𝖕𝖗𝖊𝖘𝖊𝖓𝖙 𝖍𝖊𝖗𝖊 𝖎𝖓 𝖙𝖍𝖎𝖘 𝖈𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓 𝖔𝖋 5.555 𝖋𝖚𝖑𝖑𝖞 𝖆𝖓𝖎𝖒𝖆𝖙𝖊𝖉 𝖉𝖆𝖜𝖓 𝖘𝖆𝖒𝖚𝖗𝖆𝖎, 𝖆𝖕𝖕𝖗𝖊𝖓𝖙𝖎𝖈𝖊𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖈𝖆𝖕𝖎𝖙𝖆𝖑'𝖘 𝕻𝖆𝖌𝖔𝖉𝖆 𝖙𝖊𝖒𝖕𝖑𝖊𝖘. 𝕷𝖊𝖙'𝖘 𝖌𝖔 𝖎𝖓 𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖋 𝖕𝖊𝖆𝖈𝖊 𝖆𝖌𝖆𝖎𝖓𝖘𝖙 𝖈𝖍𝖆𝖔𝖘.",
+  "erc721_symbol": "DawnSamurai"
 }

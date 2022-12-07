@@ -4,5 +4,6 @@
     "azuki-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "the73.eth"
 }

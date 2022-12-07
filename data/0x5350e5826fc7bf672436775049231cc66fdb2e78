@@ -10,6 +10,7 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ]
 }

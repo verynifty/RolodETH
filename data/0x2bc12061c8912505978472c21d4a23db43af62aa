@@ -20,7 +20,9 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-qidao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gnosis"
   ],
   "ens": "puchki.eth"
 }

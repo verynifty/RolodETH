@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Tales Of Tsuki Genesis",
   "imageUrl": "https://i.seadn.io/gae/yi1gth2WBlVkXk5hWL1USe73vGbOapZOA2hU14xYrt9fP3tI9C9feqh0PVpdLdTSxo628sJJIR_gUXTebPqcjp-wu7NQhTpuBNlKOA?w=500&auto=format",
   "externalUrl": "https://www.tsukinft.com/",
   "discordUrl": "https://discord.gg/8x5zFxJNwB",
   "twitterUsername": "TsukiNFT",
-  "description": "Tales of Tsuki is a collection of 9,999 beautiful, brave Waifus and their adorable, loyal companions, ready to fantasize on the Ethereum Blockchain!"
+  "description": "Tales of Tsuki is a collection of 9,999 beautiful, brave Waifus and their adorable, loyal companions, ready to fantasize on the Ethereum Blockchain!",
+  "erc721_symbol": "TSUKI"
 }

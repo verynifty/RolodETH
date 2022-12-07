@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "ASM AIFA All-Stars",
   "imageUrl": "https://i.seadn.io/gae/aiB49weCSsN3o3IqqbTk_uE6aXzGHQmdEcEtNZclkuAMnt5aO8IDgtU4Y_Sl66ID4Q22jPqSKm67jy2ROSSUisCCo55CkiHB16hsFQ?w=500&auto=format",
   "externalUrl": "https://aifa.football",
   "discordUrl": "https://discord.gg/4jSWquAq4j",
   "twitterUsername": "altstatemachine",
-  "description": "40,000 football characters, fast, fun, fully 3D rigged, all-unique and All-Stars!\r\n\r\nThe Artificial Intelligence Football Association (AIFA), is a forthcoming decentralised play-to-earn soccer game brought to you by Altered State Machine (ASM), the world’s premier protocol for Non-Fungible Intelligence. \r\n\r\nConfigure your team, pair them with ASM Brains, and train them to rise to the top of the AIFA Championships… or take your favourite animated All-Star for adventures in other metaverses!\r\n\r\nJoin the team at [AIFA](https://aifa.football) \r\n\r\nOfficial Collections \r\n\r\n---\r\n\r\n[ASM AIFA Genesis Boxes](https://opensea.io/collection/asm-aifa-genesis)\r\n\r\n[ASM Brains](https://opensea.io/collection/asm-brains)"
+  "description": "40,000 football characters, fast, fun, fully 3D rigged, all-unique and All-Stars!\r\n\r\nThe Artificial Intelligence Football Association (AIFA), is a forthcoming decentralised play-to-earn soccer game brought to you by Altered State Machine (ASM), the world’s premier protocol for Non-Fungible Intelligence. \r\n\r\nConfigure your team, pair them with ASM Brains, and train them to rise to the top of the AIFA Championships… or take your favourite animated All-Star for adventures in other metaverses!\r\n\r\nJoin the team at [AIFA](https://aifa.football) \r\n\r\nOfficial Collections \r\n\r\n---\r\n\r\n[ASM AIFA Genesis Boxes](https://opensea.io/collection/asm-aifa-genesis)\r\n\r\n[ASM Brains](https://opensea.io/collection/asm-brains)",
+  "erc721_symbol": "AIFACharacter"
 }

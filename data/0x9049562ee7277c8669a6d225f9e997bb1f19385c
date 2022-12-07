@@ -4,6 +4,7 @@
     "snapshot-voter-brittm",
     "snapshot-voter-acrossprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

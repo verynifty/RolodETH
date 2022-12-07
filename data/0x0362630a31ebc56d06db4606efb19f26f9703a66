@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ],
   "ens": "panxiaofeng.eth"
 }

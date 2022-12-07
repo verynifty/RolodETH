@@ -14,6 +14,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx",
+    "snapshot-voter-electronicwinecompany"
   ]
 }

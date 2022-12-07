@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hakka",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

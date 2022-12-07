@@ -14,6 +14,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov"
   ]
 }

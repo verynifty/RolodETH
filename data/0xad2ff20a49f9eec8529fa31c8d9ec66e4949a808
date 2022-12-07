@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "bokababa413119.eth"
 }

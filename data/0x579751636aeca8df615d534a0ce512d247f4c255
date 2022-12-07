@@ -4,7 +4,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-apecoin"
   ],
   "ens": "668639.eth"
 }

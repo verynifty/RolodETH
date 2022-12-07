@@ -8,5 +8,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "navisimple.eth"
 }

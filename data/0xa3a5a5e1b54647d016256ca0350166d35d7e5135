@@ -8,6 +8,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-morpho"
   ]
 }

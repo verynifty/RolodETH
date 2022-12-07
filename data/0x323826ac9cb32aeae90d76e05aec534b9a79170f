@@ -3,5 +3,6 @@
     "moonbird-minter",
     "clonex-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "shijiak.eth"
 }

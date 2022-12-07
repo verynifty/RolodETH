@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ],
   "ens": "gonsus.eth"
 }

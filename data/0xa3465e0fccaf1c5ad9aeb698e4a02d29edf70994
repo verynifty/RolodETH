@@ -4,6 +4,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-uniswap"
-  ]
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
+  ],
+  "ens": "akhaya.eth"
 }

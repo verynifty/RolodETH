@@ -4,6 +4,7 @@
     "snapshot-voter-derify",
     "snapshot-voter-oneordina2",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave"
   ]
 }

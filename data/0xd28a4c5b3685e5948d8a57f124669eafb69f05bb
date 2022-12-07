@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-concentratordao",
     "snapshot-voter-aladdindao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-veclev"
   ]
 }

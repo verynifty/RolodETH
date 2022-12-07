@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ACRE",
+  "erc20_decimals": 18,
+  "name": "Arable Protocol"
+}

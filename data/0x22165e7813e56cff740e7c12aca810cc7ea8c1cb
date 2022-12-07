@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-aave",
-    "snapshot-voter-nftfinance"
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-gmx"
   ],
   "ens": "shick.eth"
 }

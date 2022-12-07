@@ -9,6 +9,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

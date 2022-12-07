@@ -3,5 +3,6 @@
     "moonbird-minter",
     "art-goblers-minter",
     "snapshot-voter-squiggledao"
-  ]
+  ],
+  "ens": "bastiboii.eth"
 }

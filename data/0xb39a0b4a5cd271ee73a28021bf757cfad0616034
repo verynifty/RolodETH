@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-vdovinda",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-gmx"
   ]
 }

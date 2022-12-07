@@ -13,7 +13,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-derify",
     "snapshot-voter-gnosis",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-morpho"
   ],
   "ens": "2134711.eth"
 }

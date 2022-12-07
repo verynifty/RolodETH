@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Regret This Purchase",
   "imageUrl": "https://i.seadn.io/gcs/files/47212fd287b93ea749f16ff96ba9a776.png?w=500&auto=format",
   "externalUrl": "https://mindrash.com/regret-this-purchase.html",
   "discordUrl": "https://discord.gg/XePx5Ww2sE",
   "twitterUsername": "mindrash",
-  "description": "Regret This Purchase is a generative art collection by mindrash . The lineage continues to explore the legal concept of Frolic and Detour as a metaphor in life together with the journey through this technology stack. Heightened breath movement and heartbeat is incorporated for the risk, reward, and failure in this space. Randomness dominates but is framed with constraints. There is an exterior and an interior to each piece with palettes mixing and eroding between."
+  "description": "Regret This Purchase is a generative art collection by mindrash . The lineage continues to explore the legal concept of Frolic and Detour as a metaphor in life together with the journey through this technology stack. Heightened breath movement and heartbeat is incorporated for the risk, reward, and failure in this space. Randomness dominates but is framed with constraints. There is an exterior and an interior to each piece with palettes mixing and eroding between.",
+  "erc721_symbol": "REGRETTHISPURCHASE"
 }

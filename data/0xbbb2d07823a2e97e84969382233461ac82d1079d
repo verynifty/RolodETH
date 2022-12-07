@@ -4,7 +4,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-lido-snapshot",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "xieqiong510.eth"
 }

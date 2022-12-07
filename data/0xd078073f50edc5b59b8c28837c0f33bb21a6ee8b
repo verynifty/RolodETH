@@ -6,6 +6,7 @@
     "snapshot-voter-snapshot-dcl",
     "snapshot-voter-mail3",
     "snapshot-voter-aave",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gmx"
   ]
 }

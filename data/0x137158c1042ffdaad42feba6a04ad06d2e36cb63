@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Meta Pirates Project",
   "imageUrl": "https://i.seadn.io/gae/ogGLKJNpTe7XI4i9c38PMaRu9u2r2r0SxvpoMVv88m0LmU8CHLOXLPQCtaGGjz4DgEkGBd4_U9GwosnUr6Xyyqa9i_LpGOxtnkXw?w=500&auto=format",
   "externalUrl": "http://meta-pirates.com",
   "discordUrl": "https://discord.gg/metapirates",
-  "description": "Meta Pirates is a private collection of 8,888 NFTs of exclusive pirates living in the Ethereum blockchain.\r\n\r\nEach piece is a unique piece of 3D art with a collection of over 150 features. Our goal is to create a strong, ambitious community that - like the pirates - is ready to conquer the lands and seas of the metaverse with us.\r\n\r\nMeta Pirates aspires to connect with a philosophy of conquerors. You will be connected with every member of this crew, each having the same vision as you: to seize the riches of web 3.0."
+  "description": "Meta Pirates is a private collection of 8,888 NFTs of exclusive pirates living in the Ethereum blockchain.\r\n\r\nEach piece is a unique piece of 3D art with a collection of over 150 features. Our goal is to create a strong, ambitious community that - like the pirates - is ready to conquer the lands and seas of the metaverse with us.\r\n\r\nMeta Pirates aspires to connect with a philosophy of conquerors. You will be connected with every member of this crew, each having the same vision as you: to seize the riches of web 3.0.",
+  "erc721_symbol": "MP"
 }

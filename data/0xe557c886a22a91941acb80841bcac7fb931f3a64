@@ -5,6 +5,7 @@
     "snapshot-voter-millionwinner",
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ]
 }

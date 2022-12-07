@@ -21,6 +21,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-people-dao",
     "snapshot-voter-mail3",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

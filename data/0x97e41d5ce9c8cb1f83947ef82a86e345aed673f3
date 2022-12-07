@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Ninja Hideout",
   "imageUrl": "https://i.seadn.io/gae/wPEUmaHJ5cTjOmQAmwHc7OlyOzx_YNsNisOLjDWlt-MLFU5fE9fBNsA1gOGPc8sBc6dL6TEBtK8D98zQDpmugI5EOUgjwSAJ_5enAw?w=500&auto=format",
   "externalUrl": "https://TheNinjaHideout.com",
   "discordUrl": "https://discord.gg/MdftBtbzrn",
   "twitterUsername": "TheNinjaHideout",
-  "description": "The Ninja Hideout conceals 8,888 unique, randomized Ninjas as collectible NFTs on the Ethereum blockchain. We are still working to revitalize the Ninjas, stay tuned! https://theninjahideout.com"
+  "description": "The Ninja Hideout conceals 8,888 unique, randomized Ninjas as collectible NFTs on the Ethereum blockchain. We are still working to revitalize the Ninjas, stay tuned! https://theninjahideout.com",
+  "erc721_symbol": "TNH"
 }

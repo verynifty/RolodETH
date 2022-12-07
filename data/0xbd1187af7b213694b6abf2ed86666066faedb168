@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-people-dao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-hop"
   ]
 }

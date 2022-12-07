@@ -25,5 +25,6 @@
     "snapshot-voter-toniya",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "souluv7.eth"
 }

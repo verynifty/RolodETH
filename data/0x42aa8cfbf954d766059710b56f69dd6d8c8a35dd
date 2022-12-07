@@ -3,6 +3,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-53231323",
     "snapshot-voter-balancer",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ]
 }

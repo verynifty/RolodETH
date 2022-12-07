@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-vote-perp"
   ],
   "ens": "picxel2009.eth"
 }

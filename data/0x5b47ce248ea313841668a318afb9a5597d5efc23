@@ -16,6 +16,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-qidao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gotchivault"
   ],
   "ens": "waver.eth"
 }

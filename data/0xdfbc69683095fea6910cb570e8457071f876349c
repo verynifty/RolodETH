@@ -5,6 +5,7 @@
     "opensea-user",
     "snapshot-voter-gmx",
     "snapshot-voter-gearbox",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

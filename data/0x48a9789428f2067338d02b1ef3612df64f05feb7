@@ -19,6 +19,7 @@
     "opensea-user",
     "snapshot-voter-ybaby",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-index-coop"
+    "snapshot-voter-index-coop",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -17,6 +17,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-gmx",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ]
 }

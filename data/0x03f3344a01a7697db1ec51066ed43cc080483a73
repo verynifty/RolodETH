@@ -6,6 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-safe",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-apecoin"
   ]
 }

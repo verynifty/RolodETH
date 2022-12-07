@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "OPES  Wrapped PE ",
   "erc20_symbol": "WPE",

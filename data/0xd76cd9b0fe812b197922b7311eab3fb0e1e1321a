@@ -5,6 +5,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-lido-snapshot"
   ]
 }

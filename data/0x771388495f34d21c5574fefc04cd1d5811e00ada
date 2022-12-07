@@ -10,7 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "zmaxx.eth"
 }

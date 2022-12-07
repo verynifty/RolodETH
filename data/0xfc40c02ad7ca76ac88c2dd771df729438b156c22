@@ -5,7 +5,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "pupa-and-lupa.eth"
 }

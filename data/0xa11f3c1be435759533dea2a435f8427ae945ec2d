@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "prostostroyka38.eth"
 }

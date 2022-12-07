@@ -4,5 +4,6 @@
     "mayc-minter",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "uponly4eva.sismo.eth"
 }

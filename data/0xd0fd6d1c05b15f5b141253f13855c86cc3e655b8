@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-meebitsdao"
-  ]
+    "snapshot-voter-meebitsdao",
+    "snapshot-voter-electronicwinecompany"
+  ],
+  "ens": "runj.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Poohs NFT",
   "imageUrl": "https://i.seadn.io/gae/7vU2rTAG6o3BuAxjLUdNu8-Ih2XXHdMDnAqNJVMco35OhRzx4qbvue3q9z3rhaSq9cJRQHIJGfb5JsuoJ-3XMHyqs9oUvuH5PGPC2Q?w=500&auto=format",
   "externalUrl": "http://poohsnft.io",
   "discordUrl": "https://discord.gg/hgCy8X6YqN",
-  "description": "***Floor price may appear lower than reality due to Hibernating Poohs, which cannot be bought or sold***\n\nWinnie-the-Pooh has delighted fans for nearly a century. It’s time this lovable bear does the same for the NFT Community.\n\n3,333 Poohs living a cozy life on the Ethereum blockchain, spending their day with friends, honey, and sunshine.\n\nLazy days with these hand drawn Poohs come with no expectations and no roadmap, but they do come with love, smiles, and the best community this side of the Hundred Acre Wood.\n\n"
+  "description": "***Floor price may appear lower than reality due to Hibernating Poohs, which cannot be bought or sold***\n\nWinnie-the-Pooh has delighted fans for nearly a century. It’s time this lovable bear does the same for the NFT Community.\n\n3,333 Poohs living a cozy life on the Ethereum blockchain, spending their day with friends, honey, and sunshine.\n\nLazy days with these hand drawn Poohs come with no expectations and no roadmap, but they do come with love, smiles, and the best community this side of the Hundred Acre Wood.\n\n",
+  "proxy": "0xd6e1ceb5ce67249180e6919b0d650426e381294a"
 }

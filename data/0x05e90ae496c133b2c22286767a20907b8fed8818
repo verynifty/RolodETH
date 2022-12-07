@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Save The Date Official",
   "imageUrl": "https://i.seadn.io/gcs/files/f21dfc503fc506a390bee5595a11ee08.png?w=500&auto=format",
   "externalUrl": "https://whatisyourdate.xyz/",
   "discordUrl": "https://discord.gg/hAbVcbF3d3",
   "twitterUsername": "Whatisyourdate",
-  "description": "Everyone has at least one day they hold dear. It may be a birthday, an anniversary, a moment, a memory.  \nSAVE THE DATE is an NFT project that lets you hold your DATE and continue to celebrate it forever."
+  "description": "Everyone has at least one day they hold dear. It may be a birthday, an anniversary, a moment, a memory.  \nSAVE THE DATE is an NFT project that lets you hold your DATE and continue to celebrate it forever.",
+  "erc721_symbol": "STD"
 }

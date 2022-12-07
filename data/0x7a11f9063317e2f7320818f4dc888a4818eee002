@@ -2,5 +2,6 @@
   "tags": [
     "azuki-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "heartache.eth"
 }

@@ -4,6 +4,7 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "snapshot-voter-fingerprints",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-conic-dao"
   ]
 }

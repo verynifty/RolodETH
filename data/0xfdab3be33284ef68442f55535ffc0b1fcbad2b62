@@ -12,6 +12,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-paraswap-dao"
   ]
 }

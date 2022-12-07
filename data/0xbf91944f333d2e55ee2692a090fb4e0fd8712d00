@@ -6,5 +6,6 @@
     "goblin-town-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "meows.eth"
 }

@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

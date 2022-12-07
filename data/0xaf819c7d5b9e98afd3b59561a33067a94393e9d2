@@ -6,6 +6,7 @@
     "snapshot-voter-hop",
     "snapshot-voter-clam9495",
     "snapshot-voter-stgdao",
-    "snapshot-voter-xtarot"
+    "snapshot-voter-xtarot",
+    "snapshot-voter-lido-snapshot"
   ]
 }

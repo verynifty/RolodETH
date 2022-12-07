@@ -5,7 +5,8 @@
     "hashmask-minter",
     "contract-deployer",
     "sudoswap-user",
-    "snapshot-voter-paragonscouncil"
+    "snapshot-voter-paragonscouncil",
+    "snapshot-voter-paragonsdao"
   ],
   "name": "Paragons DAO: Deployer"
 }

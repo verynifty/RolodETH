@@ -4,6 +4,7 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

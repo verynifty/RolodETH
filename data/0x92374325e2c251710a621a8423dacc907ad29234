@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "arctic-fox.eth"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-via-exchange"
   ]
 }

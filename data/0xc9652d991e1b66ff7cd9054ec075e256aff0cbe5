@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-perp-temp-check",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vote-perp",
+    "snapshot-voter-treasuredao"
   ]
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "COSMIC COWBOYS: NFT",
   "imageUrl": "https://i.seadn.io/gae/OASmVyZVTqn5Uk3Ji3jBEa15lNncPqCACbkL29XooX0wbk4t0sF9SHAOty6K0rUJJmdGwsTjogoc7kXxbpA9sn3oerz9FgdFvuuvkLY?w=500&auto=format",
   "externalUrl": "https://www.cosmic-cowgirls.io/",
   "discordUrl": "https://discord.gg/cosmiccowgirls",
   "twitterUsername": "CowgirlsNFT",
-  "description": "Cosmic Cowboys is a collection of 6,969 randomly generated space cowboy NFTs on the Ethereum blockchain. The Cosmic Cowboys collection embraces three prominent themes: cowboys, space, and anime. Cowboys can be claimed by [Cosmic Cowgirl](https://opensea.io/collection/cosmiccowgirls-nft) holders. Each [Cosmic Cowgirl](https://opensea.io/collection/cosmiccowgirls-nft) will be able to claim one Comic Cowboy for free (plus gas) indefinitely."
+  "description": "Cosmic Cowboys is a collection of 6,969 randomly generated space cowboy NFTs on the Ethereum blockchain. The Cosmic Cowboys collection embraces three prominent themes: cowboys, space, and anime. Cowboys can be claimed by [Cosmic Cowgirl](https://opensea.io/collection/cosmiccowgirls-nft) holders. Each [Cosmic Cowgirl](https://opensea.io/collection/cosmiccowgirls-nft) will be able to claim one Comic Cowboy for free (plus gas) indefinitely.",
+  "erc721_symbol": "CCB"
 }

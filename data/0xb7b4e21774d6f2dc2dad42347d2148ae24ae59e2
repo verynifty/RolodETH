@@ -4,5 +4,6 @@
     "snapshot-voter-cvx",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3"
-  ]
+  ],
+  "ens": "wulong.eth"
 }

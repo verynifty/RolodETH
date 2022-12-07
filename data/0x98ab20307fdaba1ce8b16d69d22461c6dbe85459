@@ -4,5 +4,6 @@
     "snapshot-voter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xmillie.eth"
 }

@@ -4,6 +4,7 @@
     "hashmask-minter",
     "snapshot-voter-yearn",
     "opensea-user",
-    "snapshot-voter-wearebeansprout"
+    "snapshot-voter-wearebeansprout",
+    "snapshot-voter-beanstalkdao"
   ]
 }

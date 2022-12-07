@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "snapshot-voter-beanstalkdao",
-    "snapshot-voter-wearebeansprout"
+    "snapshot-voter-wearebeansprout",
+    "snapshot-voter-rootstalkproposals"
   ]
 }

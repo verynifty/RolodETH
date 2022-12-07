@@ -1,7 +1,8 @@
 {
   "tags": [
     "clonex-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-immutablex"
   ],
   "ens": "guitargods.eth"
 }

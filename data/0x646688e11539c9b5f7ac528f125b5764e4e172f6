@@ -4,6 +4,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Cxllabs",
   "imageUrl": "https://i.seadn.io/gae/Hqdo1udnI_bSvQjd47OGkje8ZTlxaGaY2en_ARp7-mnOiuG7OlFnBFe9SAg41d1Ino2gJxdJD1OmsE023B3ZmNNmvzHDW3kkCaNR?w=500&auto=format",
   "twitterUsername": "ghxsts",
-  "description": "Cxllabs by GxngYxng, the creator of GHXSTS"
+  "description": "Cxllabs by GxngYxng, the creator of GHXSTS",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

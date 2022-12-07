@@ -4,5 +4,6 @@
     "meebit-minter",
     "wow-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "iheartart.eth"
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "foam"
+    "foam",
+    "contract"
   ],
   "name": "FOAM",
   "erc20_symbol": "FOAM",

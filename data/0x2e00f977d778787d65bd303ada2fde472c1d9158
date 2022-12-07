@@ -10,5 +10,6 @@
   "externalUrl": "http://satoshi-island.com/land",
   "discordUrl": "https://discord.gg/satoshi-island",
   "twitterUsername": "satoshiisland",
-  "description": "A collection of Land NFT Deeds representing the legal rights to Land NFTs issued by Satoshi Island DAO LLC. Understand your rights before acquiring Land NFT Deeds by scanning the QR code and reading the legal document attached to each deed."
+  "description": "A collection of Land NFT Deeds representing the legal rights to Land NFTs issued by Satoshi Island DAO LLC. Understand your rights before acquiring Land NFT Deeds by scanning the QR code and reading the legal document attached to each deed.",
+  "erc721_symbol": "SILD"
 }

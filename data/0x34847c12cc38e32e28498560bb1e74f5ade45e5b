@@ -7,7 +7,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mail3",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx"
   ],
   "ens": "fire-bro.eth"
 }

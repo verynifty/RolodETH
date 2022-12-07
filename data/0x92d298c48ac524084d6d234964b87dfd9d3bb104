@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "sudoswap-user",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-treasuredao"
   ]
 }

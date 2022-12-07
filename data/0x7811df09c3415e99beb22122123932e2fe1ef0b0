@@ -17,6 +17,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ybaby",
     "snapshot-voter-abracadabrabymerlinthemagician",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

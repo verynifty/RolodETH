@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Phunky Ape Yacht Club",
   "imageUrl": "https://i.seadn.io/gae/p4jMpyao2hdt9YkZpdZdO2WIARl0Dj8fzSx50Q06r4gdhbFAxTFudRhOOIEGmVonoBE9QlEgZRz9FvyOeLvoQ_sUn1F7jJ-84CNeuw?w=500&auto=format",
   "externalUrl": "https://notyugalabs.netlify.app/",
   "discordUrl": "https://discord.gg/XxSNvq2DFB",
   "twitterUsername": "phunkyApeYC",
-  "description": "Lets get phunky. Not affiliated with Yuga Labs.\n\nThe phape pirates are back on the sea after a short hiatus."
+  "description": "Lets get phunky. Not affiliated with Yuga Labs.\n\nThe phape pirates are back on the sea after a short hiatus.",
+  "erc721_symbol": "PAYC"
 }

@@ -3,7 +3,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "rektrunner.eth"
 }

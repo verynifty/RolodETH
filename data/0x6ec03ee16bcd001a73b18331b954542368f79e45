@@ -11,7 +11,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-qidao",
     "snapshot-voter-banklessvault",
-    "snapshot-voter-gitcoindao"
+    "snapshot-voter-gitcoindao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "anniwang.eth"
 }

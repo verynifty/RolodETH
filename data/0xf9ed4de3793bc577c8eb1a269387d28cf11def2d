@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "wolfpack44.eth"
 }

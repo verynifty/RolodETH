@@ -7,6 +7,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-treasuredao"
   ]
 }

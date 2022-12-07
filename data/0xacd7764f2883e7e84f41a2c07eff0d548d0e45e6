@@ -5,6 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "sudoswap-user"
-  ]
+    "sudoswap-user",
+    "snapshot-voter-aave"
+  ],
+  "ens": "luojia1027.eth"
 }

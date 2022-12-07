@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "0x39f69.eth"
 }

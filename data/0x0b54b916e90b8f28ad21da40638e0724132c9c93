@@ -3,5 +3,6 @@
     "azuki-minter",
     "hashmask-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "itputsthelotioninthebask.eth"
 }

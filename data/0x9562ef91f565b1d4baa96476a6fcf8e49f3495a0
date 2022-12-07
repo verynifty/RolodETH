@@ -12,6 +12,7 @@
     "opensea-user",
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

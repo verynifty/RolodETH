@@ -4,5 +4,6 @@
     "hashmask-minter",
     "opensea-user",
     "snapshot-voter-olympusdao"
-  ]
+  ],
+  "ens": "greenfund.eth"
 }

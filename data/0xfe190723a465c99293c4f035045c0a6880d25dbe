@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Look Labs - Passes",
   "imageUrl": "https://i.seadn.io/gae/eFYngl4st0HKSU9RIPQJj5LMxN-6n8QDN08exCqJ29u32dSBi5SbdTOWg4oTGuf7l5agrpvSqBKIJeLuvITMloCpavragE8bcoeg?w=500&auto=format",
   "externalUrl": "https://looklabs.com/",
   "discordUrl": "https://discord.gg/looklabs",
-  "description": "Game Key:\nhttps://opensea.io/collection/look-labs-game-key\n\nBuds:\nhttps://opensea.io/collection/look-labs-420-buds\n\nDiscord: \nhttps://discord.gg/looklabs\n\n420.game is a P2E weed game powered by the in-game token $HIGH & its innovative economy.\n\nGreen Pass holders receive one Gen0 weed bud, one Goat PFP, and one piece of land for free. They also get the possibility of minting up to three additional buds. Minters of the green pass will receive a free Decentraland Goat Jacket.\n\nThe main objective of Season One is to produce the Gen1 strains with the highest possible THC percentage, to stake it, and accumulate $HIGH.\n\nThe game starts by staking GEN0 buds and generating enough $HIGH so that breeding can begin."
+  "description": "Game Key:\nhttps://opensea.io/collection/look-labs-game-key\n\nBuds:\nhttps://opensea.io/collection/look-labs-420-buds\n\nDiscord: \nhttps://discord.gg/looklabs\n\n420.game is a P2E weed game powered by the in-game token $HIGH & its innovative economy.\n\nGreen Pass holders receive one Gen0 weed bud, one Goat PFP, and one piece of land for free. They also get the possibility of minting up to three additional buds. Minters of the green pass will receive a free Decentraland Goat Jacket.\n\nThe main objective of Season One is to produce the Gen1 strains with the highest possible THC percentage, to stake it, and accumulate $HIGH.\n\nThe game starts by staking GEN0 buds and generating enough $HIGH so that breeding can begin.",
+  "erc721_symbol": "420GP"
 }

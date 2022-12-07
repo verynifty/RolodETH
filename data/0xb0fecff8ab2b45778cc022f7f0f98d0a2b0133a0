@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
     "snapshot-voter-liveartxevent",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-via-exchange"
   ]
 }

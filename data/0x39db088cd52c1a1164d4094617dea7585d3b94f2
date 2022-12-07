@@ -1,7 +1,10 @@
 {
   "tags": [
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "brandshoplove.eth"
 }

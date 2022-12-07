@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-gmx",
-    "snapshot-voter-polymon"
+    "snapshot-voter-polymon",
+    "snapshot-voter-paraswap-dao"
   ]
 }

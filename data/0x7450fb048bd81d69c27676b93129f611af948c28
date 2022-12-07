@@ -3,6 +3,8 @@
     "snapshot-voter-8848labs",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-gal",
-    "snapshot-voter-yokaiswap"
+    "snapshot-voter-yokaiswap",
+    "snapshot-voter-immutablex",
+    "snapshot-voter-lido-snapshot"
   ]
 }

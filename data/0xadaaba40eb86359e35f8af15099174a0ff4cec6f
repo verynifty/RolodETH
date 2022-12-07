@@ -8,6 +8,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ]
 }

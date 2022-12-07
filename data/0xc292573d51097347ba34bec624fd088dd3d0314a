@@ -9,6 +9,7 @@
     "sudoswap-user",
     "snapshot-voter-stgdao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "The Citadel",
   "erc20_symbol": "THECITADEL",

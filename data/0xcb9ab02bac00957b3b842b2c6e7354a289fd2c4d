@@ -8,6 +8,7 @@
     "snapshot-voter-beefydao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

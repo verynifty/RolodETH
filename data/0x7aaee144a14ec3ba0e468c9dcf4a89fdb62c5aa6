@@ -6,6 +6,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-rook",
     "snapshot-voter-beanstalkdao",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-gmx"
   ]
 }

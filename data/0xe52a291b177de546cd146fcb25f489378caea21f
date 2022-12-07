@@ -6,6 +6,8 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-treasuredao"
   ]
 }

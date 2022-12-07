@@ -6,6 +6,5 @@
     "meebit-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ],
-  "ens": "wallace.pcc.eth"
+  ]
 }

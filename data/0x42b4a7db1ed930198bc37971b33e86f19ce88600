@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Eggrypto",
   "imageUrl": "https://i.seadn.io/gae/whA6ZGKkQHuolBshwJrLagvhqyt_bS_JUNXBTE-Oi3AScaZgXSCKRGrNoXmoP1DkMOM2deUc8dJDjODSZgU_FTM?w=500&auto=format",
   "externalUrl": "https://eggrypto.com/",
-  "description": "Hatch and Grow cute monsters and Explore the world of EGGRYPTO. You can own the rare monsters secured by blockchain as your own digital assets."
+  "description": "Hatch and Grow cute monsters and Explore the world of EGGRYPTO. You can own the rare monsters secured by blockchain as your own digital assets.",
+  "proxy": "0xd699c87e346a8d62caf0e07fe9a31fdeeb47dea5"
 }

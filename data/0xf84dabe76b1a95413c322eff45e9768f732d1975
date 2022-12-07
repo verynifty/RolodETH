@@ -6,7 +6,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "cyphernft.eth"
 }

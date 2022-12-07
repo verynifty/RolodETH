@@ -5,7 +5,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-cakevote",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "edwardtay.eth"
 }

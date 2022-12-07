@@ -9,6 +9,8 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-ens",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ]
 }

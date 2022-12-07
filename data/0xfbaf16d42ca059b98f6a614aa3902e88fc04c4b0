@@ -6,6 +6,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

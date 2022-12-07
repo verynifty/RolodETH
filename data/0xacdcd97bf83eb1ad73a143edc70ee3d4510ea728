@@ -3,6 +3,8 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-pantherprotocol",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ]
 }

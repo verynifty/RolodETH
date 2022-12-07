@@ -5,5 +5,6 @@
     "wow-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "fuser.eth"
 }

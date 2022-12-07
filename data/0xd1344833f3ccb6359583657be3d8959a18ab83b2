@@ -3,5 +3,6 @@
     "snapshot-voter-krausehouse",
     "snapshot-voter-friendswithbenefits",
     "opensea-user"
-  ]
+  ],
+  "ens": "cosmicblend.eth"
 }

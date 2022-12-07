@@ -4,6 +4,7 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-stgdao",
     "snapshot-voter-kwenta",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-conic-dao"
   ]
 }

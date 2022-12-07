@@ -4,7 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-comp-vote",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ],
   "ens": "09906.eth"
 }

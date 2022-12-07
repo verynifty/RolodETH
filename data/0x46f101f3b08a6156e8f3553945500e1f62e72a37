@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Bored Mummy Halloween Candy Factory",
   "imageUrl": "https://i.seadn.io/gae/wRegnYd344pZngVjWwIVAxSxeLPtMHZnrfArSmqAQzc25JHETRte2nijVfHUCgvR1h2hqdHAsdzIr86cjyQWBFFYvPUxMPlKcWlHXw?w=500&auto=format",
   "externalUrl": "https://boredmummywakingup.com/",
   "discordUrl": "https://discord.gg/boredmummywu",
   "twitterUsername": "BoredMummyWU",
-  "description": "[Bored Mummy Genesis](https://tinyurl.com/2p8n3fvx)  |  [Bored Mummy Baby Waking Up](https://tinyurl.com/2s4jy53v)  |  [Bored Mummy Meet the Maker](https://tinyurl.com/yrth3tk4)  |  [Bored Mummy Halloween Royal Rumble](https://opensea.io/collection/bored-mummy-halloween-royal-rumble)  |  [Bored Mummy Cryptovoxels](https://tinyurl.com/yckhsbky)  |  [Bored Mummy TheSandbox](https://tinyurl.com/2p88zuhx)\n\nBored Mummy Halloween Royal Rumble (BMHRR) consists of 8,888 Halloween Candy. \n\nEvery Genesis Bored Mummy holder can claim their candy at our member dashboard. \n\n*The silent night before Halloween...* \n\"Fate lies in your hands, it just that you need to be brave enough to see it and desire enough to change it.. here's your candy\" given to you by Millennium Earl"
+  "description": "[Bored Mummy Genesis](https://tinyurl.com/2p8n3fvx)  |  [Bored Mummy Baby Waking Up](https://tinyurl.com/2s4jy53v)  |  [Bored Mummy Meet the Maker](https://tinyurl.com/yrth3tk4)  |  [Bored Mummy Halloween Royal Rumble](https://opensea.io/collection/bored-mummy-halloween-royal-rumble)  |  [Bored Mummy Cryptovoxels](https://tinyurl.com/yckhsbky)  |  [Bored Mummy TheSandbox](https://tinyurl.com/2p88zuhx)\n\nBored Mummy Halloween Royal Rumble (BMHRR) consists of 8,888 Halloween Candy. \n\nEvery Genesis Bored Mummy holder can claim their candy at our member dashboard. \n\n*The silent night before Halloween...* \n\"Fate lies in your hands, it just that you need to be brave enough to see it and desire enough to change it.. here's your candy\" given to you by Millennium Earl",
+  "erc721_symbol": "BMHC21"
 }

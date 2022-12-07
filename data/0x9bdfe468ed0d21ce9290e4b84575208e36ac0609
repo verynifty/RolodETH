@@ -8,7 +8,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "winkrypto.eth"
 }

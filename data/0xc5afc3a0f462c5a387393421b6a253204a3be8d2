@@ -18,6 +18,7 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-cakevote",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

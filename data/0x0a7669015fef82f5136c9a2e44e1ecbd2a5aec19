@@ -4,5 +4,6 @@
     "moonbird-minter",
     "clonex-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "mikelazar.eth"
 }

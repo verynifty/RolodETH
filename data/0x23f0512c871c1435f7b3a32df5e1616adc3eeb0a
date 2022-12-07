@@ -10,5 +10,6 @@
   "externalUrl": "https://wcapes.com",
   "discordUrl": "https://discord.gg/uRMMdaNKFv",
   "twitterUsername": "wcapes_official",
-  "description": "WCAPES Mundial of 3000 apes. The first 2000 assigned and locked as airdrop of past collection! Mint now on our site the last 1000 apes at 0.25 ETH."
+  "description": "WCAPES Mundial of 3000 apes. The first 2000 assigned and locked as airdrop of past collection! Mint now on our site the last 1000 apes at 0.25 ETH.",
+  "erc721_symbol": "MUN"
 }

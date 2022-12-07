@@ -4,5 +4,6 @@
     "hashmask-minter",
     "meebit-minter",
     "clonex-minter"
-  ]
+  ],
+  "ens": "b2ru.eth"
 }

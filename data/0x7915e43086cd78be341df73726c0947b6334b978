@@ -1,6 +1,8 @@
 {
   "tags": [
     "moonbird-minter",
-    "sudoswap-user"
-  ]
+    "sudoswap-user",
+    "snapshot-voter-electronicwinecompany"
+  ],
+  "ens": "darkgraph.eth"
 }

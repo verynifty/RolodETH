@@ -9,6 +9,7 @@
     "snapshot-voter-bitdao",
     "sudoswap-user",
     "snapshot-voter-aave",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-lido-snapshot"
   ]
 }

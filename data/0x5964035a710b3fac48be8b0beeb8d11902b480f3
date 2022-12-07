@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CITY BLOCKS by COOPER RAY",
   "imageUrl": "https://i.seadn.io/gae/w7U-z5F27L2ZtOpit75XHzJyT6FMl6CJHQqAMFra2EKF-2cNF_9pPlKDoUJqF8DQjxbA6rhR3SJpY7h88CqZwjn01hRZAdkCPa8P?w=500&auto=format",
   "externalUrl": "https://cooperray.nyc/main/project/city-blocks/",
   "discordUrl": "https://discord.gg/NhRWr7GFzz",
   "twitterUsername": "_cooperray_",
-  "description": "This collection of photographs represents my deep interest in the history of place, architecture, and the advent of the skyscraper in the early 20th century. CITY BLOCKS is the result of my cumulative experience as a bicycle courier, growing up in lower Manhattan, and 14+ years of insatiable obsession to know every inch of my city via two wheels. These photographs span years of intentional exploration from ‘on the ground’ research for narrow windows of access, paired with adept daily observations from thousands of hours in the street. \n\nJust like my brakeless track bike, the camera is a pure extension of myself. My camera is always slung around my neck, ready to go, wherever I go. Taking photographs of New York helps me to unpack and digest my complex emotional response to a perpetually changing city, and often times, the brutal human condition that comes along with it.\n\nAllow me share a piece of my story, and a view into the New York that I see."
+  "description": "This collection of photographs represents my deep interest in the history of place, architecture, and the advent of the skyscraper in the early 20th century. CITY BLOCKS is the result of my cumulative experience as a bicycle courier, growing up in lower Manhattan, and 14+ years of insatiable obsession to know every inch of my city via two wheels. These photographs span years of intentional exploration from ‘on the ground’ research for narrow windows of access, paired with adept daily observations from thousands of hours in the street. \n\nJust like my brakeless track bike, the camera is a pure extension of myself. My camera is always slung around my neck, ready to go, wherever I go. Taking photographs of New York helps me to unpack and digest my complex emotional response to a perpetually changing city, and often times, the brutal human condition that comes along with it.\n\nAllow me share a piece of my story, and a view into the New York that I see.",
+  "erc721_symbol": "BLOCK"
 }

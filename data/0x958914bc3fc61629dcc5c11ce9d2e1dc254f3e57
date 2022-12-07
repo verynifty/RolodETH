@@ -8,6 +8,7 @@
     "sudoswap-user",
     "snapshot-voter-via-exchange",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

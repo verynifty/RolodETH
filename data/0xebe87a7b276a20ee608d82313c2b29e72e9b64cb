@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-ens",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-alchemistcoin"
   ]
 }

@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

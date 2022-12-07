@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Property's NFT",
   "imageUrl": "https://i.seadn.io/gae/Svh3tdgmdy99tg1qPPV_1ROzL9pNTYHDaxVBK3HgrDCMFcwg84H_TuyfN5RGr3DE8HHWx0u4t9TQdIJvbDS-yqq5RZ1R3Wkjcq7f7Q?w=500&auto=format",
   "externalUrl": "https://propertys.xyz",
   "discordUrl": "https://discord.gg/propertys",
   "twitterUsername": "propertys_nft",
-  "description": "Property’s is a collecting card game with a metaverse focus. Our NFT collection displays cultural diversity and the elegance of historical and modern architecture. We are building the social network of metaverses. We are the hub for all of your favorite NFT communities — big or small. We are building an immersive & inclusive digital world - a mixture of social community clubhouses, mini-games, shops, art galleries, content & adventures. Property’s loves you. "
+  "description": "Property’s is a collecting card game with a metaverse focus. Our NFT collection displays cultural diversity and the elegance of historical and modern architecture. We are building the social network of metaverses. We are the hub for all of your favorite NFT communities — big or small. We are building an immersive & inclusive digital world - a mixture of social community clubhouses, mini-games, shops, art galleries, content & adventures. Property’s loves you. ",
+  "proxy": "0xefc6856a57bcea16f3a92fbe91035a2833c5d5a9"
 }

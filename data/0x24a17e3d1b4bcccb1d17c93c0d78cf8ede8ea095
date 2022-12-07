@@ -4,7 +4,9 @@
     "snapshot-voter-aave",
     "snapshot-voter-gitcoindao",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "massif02.eth"
 }

@@ -7,7 +7,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "snapshot-voter-lgcryptounicorns",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "898987.eth"
 }

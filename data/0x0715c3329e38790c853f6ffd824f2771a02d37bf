@@ -8,5 +8,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-uniswap",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "dolido3016.eth"
 }

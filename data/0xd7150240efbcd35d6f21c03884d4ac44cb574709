@@ -4,6 +4,7 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-frax",
-    "snapshot-voter-speraxdao"
+    "snapshot-voter-speraxdao",
+    "snapshot-voter-gmx"
   ]
 }

@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "hashmask-minter",
     "sudoswap-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-jbdao"
   ],
   "ens": "lvc.eth"
 }

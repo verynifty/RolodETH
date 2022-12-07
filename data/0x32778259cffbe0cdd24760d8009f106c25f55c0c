@@ -4,7 +4,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "jamesbyond007.eth"
 }

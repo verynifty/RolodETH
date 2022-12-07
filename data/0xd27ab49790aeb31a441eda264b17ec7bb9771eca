@@ -8,6 +8,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx"
   ]
 }

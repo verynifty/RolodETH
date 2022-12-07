@@ -4,5 +4,6 @@
     "moonbird-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "hikarunemoto.eth"
 }

@@ -5,7 +5,8 @@
     "snapshot-voter-staking-idlefinance",
     "snapshot-voter-stgdao",
     "snapshot-voter-idlefinance",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-conic-dao"
   ],
   "ens": "max911.eth"
 }

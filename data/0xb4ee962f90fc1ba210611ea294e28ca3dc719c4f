@@ -6,6 +6,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
     "snapshot-voter-qidao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

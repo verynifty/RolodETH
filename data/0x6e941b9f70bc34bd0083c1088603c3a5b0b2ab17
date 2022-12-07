@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "NGs by JakNFT x Kotegawa",
   "imageUrl": "https://i.seadn.io/gae/2_agn1lXkGfi-kHsQe5G8xF3W2EAPRFaBmySps5IZfoM745hHamqPbpqi3Lv6Fwodc8t8t9A_n9pSuJQSP9Ect4SCMn7PPMUnbsviw?w=500&auto=format",
   "externalUrl": "https://ngsnft.xyz/",
   "discordUrl": "https://discord.gg/jakverse",
   "twitterUsername": "JakNFT",
-  "description": "NGs\r\n\r\nJakNFT x Kotegawa\r\n\r\nNGs ARE THE CULTURE\r\n\r\nWHAT ARE NGs?\r\n\r\nNGs are a limited collection of 1,111 hand-crafted artworks that encapsulate crypto culture and pay homage to its contributors.\r\n\r\nPROCESS\r\n\r\nEach NG was created one at a time using an analogue process that blends the techniques and styles of JakNFT and Hiroji Kotegawa. The process combines glitch, animation, sculpting and 3D modeling with rigorous curation.\r\n\r\nCURATION\r\n\r\nNGs were meticulously curated pre-mint. Over the course of 6 months, Jak and Hiroji created over 5,000 original NG pieces by hand, but only selected a limited supply of 1,111 premium outputs to be included in the final curated collection.\r\n\r\nDIVERSITY\r\n\r\nThere are 111 different types of NGs, including original characters created by Jak and Hiroji, as well as works that borrow from and pay tribute to various crypto cultural contributors. Several 1/1s are also hidden in the collection."
+  "description": "NGs\r\n\r\nJakNFT x Kotegawa\r\n\r\nNGs ARE THE CULTURE\r\n\r\nWHAT ARE NGs?\r\n\r\nNGs are a limited collection of 1,111 hand-crafted artworks that encapsulate crypto culture and pay homage to its contributors.\r\n\r\nPROCESS\r\n\r\nEach NG was created one at a time using an analogue process that blends the techniques and styles of JakNFT and Hiroji Kotegawa. The process combines glitch, animation, sculpting and 3D modeling with rigorous curation.\r\n\r\nCURATION\r\n\r\nNGs were meticulously curated pre-mint. Over the course of 6 months, Jak and Hiroji created over 5,000 original NG pieces by hand, but only selected a limited supply of 1,111 premium outputs to be included in the final curated collection.\r\n\r\nDIVERSITY\r\n\r\nThere are 111 different types of NGs, including original characters created by Jak and Hiroji, as well as works that borrow from and pay tribute to various crypto cultural contributors. Several 1/1s are also hidden in the collection.",
+  "proxy": "0xf86de7d2d982948e5179c39e5ff1b91434eb9f96"
 }

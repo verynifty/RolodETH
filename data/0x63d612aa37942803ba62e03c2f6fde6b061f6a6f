@@ -7,7 +7,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "shzhzh.eth"
 }

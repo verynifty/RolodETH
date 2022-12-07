@@ -1,6 +1,7 @@
 {
   "tags": [
-    "moonbird-minter"
+    "moonbird-minter",
+    "snapshot-voter-gmx"
   ],
   "ens": "sheltronica.eth"
 }

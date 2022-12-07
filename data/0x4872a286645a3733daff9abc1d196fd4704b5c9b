@@ -7,7 +7,8 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "koshka13.eth"
 }

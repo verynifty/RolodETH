@@ -18,7 +18,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "foolsogood.eth"
 }

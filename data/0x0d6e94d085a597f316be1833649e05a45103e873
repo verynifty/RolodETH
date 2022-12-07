@@ -1,5 +1,11 @@
 {
   "tags": [
-    "snapshot-voter-vestafinance"
-  ]
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gmx",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-aavegotchi"
+  ],
+  "ens": "disnaix.eth"
 }

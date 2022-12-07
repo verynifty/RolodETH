@@ -6,6 +6,9 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx",
-    "snapshot-voter-comp-vote"
+    "snapshot-voter-comp-vote",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ]
 }

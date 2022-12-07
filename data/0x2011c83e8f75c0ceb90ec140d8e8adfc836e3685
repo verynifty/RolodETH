@@ -3,6 +3,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ]
 }

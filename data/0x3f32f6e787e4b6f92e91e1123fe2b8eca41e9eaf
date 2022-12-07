@@ -5,7 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-deviltown"
   ],
   "ens": "shdjcnmvvz.eth"
 }

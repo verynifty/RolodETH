@@ -9,6 +9,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-people-dao",
-    "snapshot-voter-etherscoredao"
+    "snapshot-voter-etherscoredao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

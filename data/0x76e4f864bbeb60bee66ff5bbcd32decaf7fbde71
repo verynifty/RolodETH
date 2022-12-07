@@ -19,7 +19,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mail3",
     "snapshot-voter-gal",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-paraswap-dao"
   ],
   "ens": "allinshi.eth"
 }

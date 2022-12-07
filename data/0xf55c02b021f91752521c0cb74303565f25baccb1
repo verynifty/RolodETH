@@ -22,6 +22,7 @@
     "sudoswap-user",
     "snapshot-voter-morpho",
     "snapshot-voter-mail3",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-lido-snapshot"
   ]
 }

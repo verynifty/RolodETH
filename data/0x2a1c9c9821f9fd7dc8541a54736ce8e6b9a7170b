@@ -4,7 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gmx"
   ],
   "ens": "08696.eth"
 }

@@ -9,7 +9,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
     "snapshot-voter-gitcoindao",
-    "snapshot-voter-banklessvault"
+    "snapshot-voter-banklessvault",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "bitcoin007.eth"
 }

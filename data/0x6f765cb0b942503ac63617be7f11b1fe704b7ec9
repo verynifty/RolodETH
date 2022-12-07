@@ -5,7 +5,10 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave",
+    "snapshot-voter-paraswap-dao"
   ],
   "ens": "yicheng2345.eth"
 }

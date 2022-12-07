@@ -9,6 +9,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-lido-snapshot"
   ]
 }

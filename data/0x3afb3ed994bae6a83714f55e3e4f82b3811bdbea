@@ -3,6 +3,8 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-gmx"
   ]
 }

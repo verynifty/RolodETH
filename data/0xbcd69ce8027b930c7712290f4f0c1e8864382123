@@ -1,7 +1,10 @@
 {
   "tags": [
     "opensea-user",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-aave",
+    "snapshot-voter-immutablex",
+    "snapshot-voter-cakevote"
   ],
   "ens": "tokensaler.eth"
 }

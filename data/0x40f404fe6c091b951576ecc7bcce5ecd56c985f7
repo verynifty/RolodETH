@@ -14,6 +14,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-balancer",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-vote-perp"
+    "snapshot-voter-vote-perp",
+    "snapshot-voter-lido-snapshot"
   ]
 }

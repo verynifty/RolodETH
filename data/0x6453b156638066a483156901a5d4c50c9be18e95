@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-aave"
   ],
   "ens": "fuckgit.eth"
 }

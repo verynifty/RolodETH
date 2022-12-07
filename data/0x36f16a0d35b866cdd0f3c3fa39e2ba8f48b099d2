@@ -1,6 +1,9 @@
 {
   "tags": [
-    "foam"
+    "foam",
+    "contract",
+    "erc721"
   ],
-  "name": "FOAM: Signal"
+  "name": "FOAM: Signal",
+  "erc721_symbol": "FSX"
 }

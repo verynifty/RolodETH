@@ -7,5 +7,6 @@
     "clonex-minter",
     "wow-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "mamba210.eth"
 }

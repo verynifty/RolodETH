@@ -3,5 +3,6 @@
     "goblin-town-minter",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "jasongray.eth"
 }

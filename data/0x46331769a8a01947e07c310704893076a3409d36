@@ -10,6 +10,8 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-8848labs",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-alchemistcoin"
   ]
 }

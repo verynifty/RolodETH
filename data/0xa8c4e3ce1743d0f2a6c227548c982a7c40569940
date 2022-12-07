@@ -26,7 +26,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-via-exchange",
     "snapshot-voter-ybaby",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "ardizor.eth"
 }

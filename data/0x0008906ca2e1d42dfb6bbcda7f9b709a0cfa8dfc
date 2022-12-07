@@ -3,6 +3,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
-  ]
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
+  ],
+  "ens": "pashk1n.eth"
 }

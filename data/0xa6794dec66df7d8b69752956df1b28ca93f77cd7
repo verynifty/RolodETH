@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Savage Droids",
   "imageUrl": "https://i.seadn.io/gae/8RJY7K-hWX0Cmv_HNnd2GZGKPlMHXr682AECe7dEELBT59down-uwNojACEHDgANjAIPebPSzA8m2ZrdWv61AEz3SVDprwvWs-9aOA?w=500&auto=format",
   "externalUrl": "https://www.savagedroids.com/",
   "discordUrl": "https://discord.gg/savagedogs",
   "twitterUsername": "mysavagedogs",
-  "description": "The Droid war has been going on for years. On one side, Theos. The company surged to power with their breakthrough AI and now controls the planet‘s most valuable resources. On the other side, The Community, a ragtag rebel group determined to bring Theos down.\n\nWelcome to the Droid wars. Welcome to Savage Droids.\n\nThe Savage Dogs universe is a creation of artist Bek.\n\n"
+  "description": "The Droid war has been going on for years. On one side, Theos. The company surged to power with their breakthrough AI and now controls the planet‘s most valuable resources. On the other side, The Community, a ragtag rebel group determined to bring Theos down.\n\nWelcome to the Droid wars. Welcome to Savage Droids.\n\nThe Savage Dogs universe is a creation of artist Bek.\n\n",
+  "erc721_symbol": "SD888"
 }

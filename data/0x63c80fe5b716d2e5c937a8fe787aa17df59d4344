@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-kwenta",
-    "snapshot-voter-sonnefi"
+    "snapshot-voter-sonnefi",
+    "snapshot-voter-immutablex"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-alchemixstakers"
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ]
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-gal",
     "snapshot-voter-vestafinance",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "vegapunks.eth"
 }

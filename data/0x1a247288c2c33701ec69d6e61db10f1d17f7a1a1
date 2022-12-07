@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "cryptalist.eth"
 }

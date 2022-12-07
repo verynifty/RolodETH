@@ -5,6 +5,7 @@
     "snapshot-voter-yam",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

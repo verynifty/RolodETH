@@ -6,5 +6,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-cakevote",
     "snapshot-voter-babywealthyclub"
-  ]
+  ],
+  "ens": "deankong.eth"
 }

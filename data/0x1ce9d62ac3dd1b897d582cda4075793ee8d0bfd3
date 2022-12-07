@@ -3,5 +3,6 @@
     "moonbird-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "x11x11x11x11.eth"
 }

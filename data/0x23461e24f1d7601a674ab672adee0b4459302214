@@ -6,6 +6,10 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-brittm",
     "snapshot-voter-gal",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-aave",
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-anglegovernance"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-index-coop",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "wintermutegovernance.eth"
 }

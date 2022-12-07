@@ -3,6 +3,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ]
 }

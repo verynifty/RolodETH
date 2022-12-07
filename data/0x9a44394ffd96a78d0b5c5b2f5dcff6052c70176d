@@ -5,6 +5,7 @@
     "snapshot-voter-saddlefinance",
     "snapshot-voter-opcollective",
     "opensea-user",
-    "snapshot-voter-dfmdao"
+    "snapshot-voter-dfmdao",
+    "snapshot-voter-hashflowdao"
   ]
 }

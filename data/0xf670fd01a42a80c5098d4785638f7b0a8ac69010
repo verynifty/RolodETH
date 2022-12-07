@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-gmx",
-    "snapshot-voter-gov-dhedge"
+    "snapshot-voter-gov-dhedge",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-stakedao"
   ]
 }

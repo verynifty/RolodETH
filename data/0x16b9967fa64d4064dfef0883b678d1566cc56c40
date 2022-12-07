@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "farzen.eth"
 }

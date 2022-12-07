@@ -5,6 +5,7 @@
     "meebit-minter",
     "snapshot-voter-baovotes",
     "opensea-user",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-conic-dao"
   ]
 }

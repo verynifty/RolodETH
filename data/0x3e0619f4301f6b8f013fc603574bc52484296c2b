@@ -7,7 +7,9 @@
     "snapshot-voter-rook",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-immutablex"
   ],
   "ens": "yakris.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Two Bit Bears Generation Two",
   "imageUrl": "https://i.seadn.io/gae/GTjJvxMTBMlP8uf3-g6ipHU73WUZSeE_gaoshCfoUbLBbPJmQREz8Urj28CaKIHalHevXLFANArruTGZ20m34jpEdCOk3-hett7v?w=500&auto=format",
   "externalUrl": "https://twobitbears.com/",
   "discordUrl": "https://discord.gg/twobitbears",
   "twitterUsername": "TwoBitBears",
-  "description": "READ BEFORE PURCHASING — Each Gen 2 Bear can only breed once. Check a Bear’s Breeding status [Here](https://cubs.cloud/gen-2-parent-inventory/) before buying aftermarket bears. You can also Adopt a fresh Cub [Here](https://cubs.cloud/adopt/).\n\n**The second generation of [Two Bit Bears](https://opensea.io/collection/twobitbears). A Series of Hyper-Realistic Algorithmically Generated Crypto Collectible Bears Minted on the Ethereum Blockchain.**\n\nMate & Adopt at the dedicated [Cloud Server](https://cubs.cloud). Visit the Two Bit Bears [website](https://www.twobitbears.com/) and [Discord](https://discord.gg/twobitbears) for more details."
+  "description": "READ BEFORE PURCHASING — Each Gen 2 Bear can only breed once. Check a Bear’s Breeding status [Here](https://cubs.cloud/gen-2-parent-inventory/) before buying aftermarket bears. You can also Adopt a fresh Cub [Here](https://cubs.cloud/adopt/).\n\n**The second generation of [Two Bit Bears](https://opensea.io/collection/twobitbears). A Series of Hyper-Realistic Algorithmically Generated Crypto Collectible Bears Minted on the Ethereum Blockchain.**\n\nMate & Adopt at the dedicated [Cloud Server](https://cubs.cloud). Visit the Two Bit Bears [website](https://www.twobitbears.com/) and [Discord](https://discord.gg/twobitbears) for more details.",
+  "erc721_symbol": "TBC"
 }

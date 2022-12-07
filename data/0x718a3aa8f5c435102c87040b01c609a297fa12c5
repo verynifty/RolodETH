@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Meta Angels: Deployer"
+  "name": "Meta Angels: Deployer",
+  "ens": "metaangels.eth"
 }

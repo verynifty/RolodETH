@@ -3,5 +3,6 @@
     "moonbird-minter",
     "doodle-minter",
     "pudgy-pinguin-minter"
-  ]
+  ],
+  "ens": "salsapicante.eth"
 }

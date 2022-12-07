@@ -6,6 +6,7 @@
     "mayc-minter",
     "opensea-user",
     "snapshot-voter-apecoin",
-    "snapshot-voter-mutantsdao"
+    "snapshot-voter-mutantsdao",
+    "snapshot-voter-ghoststreasury"
   ]
 }

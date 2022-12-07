@@ -10,5 +10,6 @@
   "externalUrl": "http://readyplayerdao.io",
   "discordUrl": "https://discord.gg/readyplayerdao",
   "twitterUsername": "ReadyPlayerDAO",
-  "description": "The Ready Player DAO founders pass is tokenized access to the RPD ecosystem"
+  "description": "The Ready Player DAO founders pass is tokenized access to the RPD ecosystem",
+  "erc721_symbol": "RPDPASS"
 }

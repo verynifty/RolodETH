@@ -14,6 +14,7 @@
     "snapshot-voter-jbdao",
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-lido-snapshot"
   ]
 }

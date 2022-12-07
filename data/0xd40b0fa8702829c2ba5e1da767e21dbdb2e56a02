@@ -3,7 +3,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ],
   "ens": "vuo-rupd.eth"
 }

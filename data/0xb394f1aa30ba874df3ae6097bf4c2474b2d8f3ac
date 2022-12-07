@@ -8,5 +8,6 @@
     "mayc-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "desert.eth"
 }

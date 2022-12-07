@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "735673.eth"
 }

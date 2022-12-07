@@ -4,6 +4,7 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-hakka",
     "snapshot-voter-mail3",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ]
 }

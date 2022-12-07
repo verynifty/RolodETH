@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PepeDaigaku",
   "imageUrl": "https://i.seadn.io/gcs/files/cfafb6bcd85be04a224c5d919fb1f346.png?w=500&auto=format",
   "externalUrl": "http://pepedaigaku.xyz",
   "twitterUsername": "PepeDaigaku",
-  "description": "PepeDaigaku is a collection of 3,333 unique Pepe Waifus living on the Ethereum Blockchain"
+  "description": "PepeDaigaku is a collection of 3,333 unique Pepe Waifus living on the Ethereum Blockchain",
+  "erc721_symbol": "PepeDaigaku"
 }

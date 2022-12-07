@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "solov.eth"
 }

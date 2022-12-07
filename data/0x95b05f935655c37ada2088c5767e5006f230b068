@@ -5,6 +5,8 @@
     "snapshot-voter-8848labs",
     "snapshot-voter-gmx",
     "snapshot-voter-sonnefi",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-treasuredao"
   ]
 }

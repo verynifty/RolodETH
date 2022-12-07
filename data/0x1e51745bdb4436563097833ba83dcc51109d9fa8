@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
     "snapshot-voter-cakevote",
-    "snapshot-voter-sonnefi"
+    "snapshot-voter-sonnefi",
+    "snapshot-voter-conic-dao"
   ]
 }

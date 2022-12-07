@@ -10,6 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
-  ]
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-via-exchange"
+  ],
+  "ens": "by1312.eth"
 }

@@ -4,7 +4,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-daocity",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "ericsgy.eth"
 }

@@ -13,7 +13,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "americanstaffordshireterrier.eth"
 }

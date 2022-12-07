@@ -6,5 +6,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "vcbtv.eth"
 }

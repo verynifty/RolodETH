@@ -4,7 +4,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx"
   ],
   "ens": "layerminusone.eth"
 }

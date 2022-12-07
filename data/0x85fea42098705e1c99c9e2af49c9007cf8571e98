@@ -5,7 +5,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-deviltown"
+    "snapshot-voter-deviltown",
+    "snapshot-voter-gmx"
   ],
   "ens": "243714.eth"
 }

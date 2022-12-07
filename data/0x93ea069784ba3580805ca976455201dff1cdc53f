@@ -9,6 +9,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-speraxdao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-treasuredao"
   ]
 }

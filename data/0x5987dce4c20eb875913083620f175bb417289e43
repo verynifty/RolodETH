@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-zksyncdao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-treasuredao"
   ]
 }

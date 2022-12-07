@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-lido-snapshot"
   ]
 }

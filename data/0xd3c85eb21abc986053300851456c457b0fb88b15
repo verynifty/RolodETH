@@ -6,6 +6,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-xec666"
+    "snapshot-voter-xec666",
+    "snapshot-voter-yoroi",
+    "snapshot-voter-gmx"
   ]
 }

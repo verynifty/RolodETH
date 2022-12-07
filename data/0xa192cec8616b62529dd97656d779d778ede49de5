@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "mdmitriye.eth"
 }

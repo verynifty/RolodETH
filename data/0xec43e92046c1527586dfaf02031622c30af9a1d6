@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Verse Works",
   "imageUrl": "https://i.seadn.io/gcs/files/c9f8a4473f6874e29c1ac4cb4da1b260.jpg?w=500&auto=format",

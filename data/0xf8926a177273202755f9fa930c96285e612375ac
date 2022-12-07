@@ -4,6 +4,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ]
 }

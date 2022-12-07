@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "hPAL",
+  "erc20_decimals": 18,
+  "name": "Holy Paladin Token"
+}

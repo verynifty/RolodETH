@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The Walking Dead Official Survivor Series",
-  "imageUrl": "https://i.seadn.io/gae/XRfPhzxtayM4Hz08Ec7-dpGrWrkEFwFgv1Ku1gdD-NBQntVAp3PbqanTpnMsseAZBIRCSGIXHYoRMc2hS7mxBrf1hGKmg5omc2vZmg?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gae/XRfPhzxtayM4Hz08Ec7-dpGrWrkEFwFgv1Ku1gdD-NBQntVAp3PbqanTpnMsseAZBIRCSGIXHYoRMc2hS7mxBrf1hGKmg5omc2vZmg?w=500&auto=format",
+  "erc721_symbol": "TWD-SURVIVOR-SERIES"
 }

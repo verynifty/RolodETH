@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-zirouziyu",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ]
 }

@@ -11,6 +11,7 @@
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-gmx"
   ]
 }

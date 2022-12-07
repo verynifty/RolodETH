@@ -5,6 +5,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gmx"
   ]
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "fRiENDSiES",
   "imageUrl": "https://i.seadn.io/gae/kYHEXz4XAzgU5FzvUS-yu6H7sAIEhCUVOWXAzIXDenygg4c8pW4GZ4C4_LE-nitJ6VRhH_gG3_LEAoIr1Px8z_egduqKvudK5Y6V5Q?w=500&auto=format",
   "externalUrl": "https://friendsies.io/",
   "discordUrl": "https://discord.gg/friendswithyou",
   "twitterUsername": "fRiENDSiES_Ai",
-  "description": "fRiENDSiES are your forever friend. Your new digital companion and inclusion into the kindness community aka the garden. This collection of 10,000 NFTs is made possible with love from FriendsWithYou. Choose from infinite character combinations including custom heads, bodies, sprouts, handheld items, tails, and more! These traits contain dozens of special 1/1s and extremely rare attributes to collect. Each fRiENDSiES is custom built during the mint by the collector with our one-of-a-kind character builder, FRENGEN. The entire collection will be built & curated simultaneously by our community.\n\nThe fRiENDSiES universe begins by generating your fRiENDSiES and will extend into the metaverse, real-life experiences & art installations, and limited edition items. Ultimately, your fRiENDSiES will become an AR AI companion that will bring you joy. Join us on this journey as we build a better world where generosity, care, and altruism are rewarded!"
+  "description": "fRiENDSiES are your forever friend. Your new digital companion and inclusion into the kindness community aka the garden. This collection of 10,000 NFTs is made possible with love from FriendsWithYou. Choose from infinite character combinations including custom heads, bodies, sprouts, handheld items, tails, and more! These traits contain dozens of special 1/1s and extremely rare attributes to collect. Each fRiENDSiES is custom built during the mint by the collector with our one-of-a-kind character builder, FRENGEN. The entire collection will be built & curated simultaneously by our community.\n\nThe fRiENDSiES universe begins by generating your fRiENDSiES and will extend into the metaverse, real-life experiences & art installations, and limited edition items. Ultimately, your fRiENDSiES will become an AR AI companion that will bring you joy. Join us on this journey as we build a better world where generosity, care, and altruism are rewarded!",
+  "proxy": "0x6367b961d1ed31b3b6c50a7a5769388f82633199"
 }

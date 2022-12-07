@@ -14,7 +14,9 @@
     "snapshot-voter-balancer",
     "snapshot-voter-ybaby",
     "snapshot-voter-mail3",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-hop"
   ],
   "ens": "lagrangedot.eth"
 }

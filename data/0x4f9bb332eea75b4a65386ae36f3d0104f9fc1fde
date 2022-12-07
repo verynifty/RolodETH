@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Fantasy3K",
   "imageUrl": "https://i.seadn.io/gae/EbbERLeCtXo3qryBDXUdE992ahs-1yJok3IH8YRdZaO8bqWedRtwR8hwWOZpvZOfmszB6fHAfpvu4aMuyPGSU6jhDO2uYlu9mLsVGwg?w=500&auto=format",
   "externalUrl": "http://www.fantasy3k.com",
   "discordUrl": "https://discord.gg/invite/fantasy3k",
   "twitterUsername": "Fantasy_3k",
-  "description": "Fantasy of the Three Kingdoms--SLG With 4X(eXplore & eXpand & eXploit & eXterminate) Features Based on NFT Metaverse. Each NFT has a gorgeous design and unique value in the game. Play & Earn for its owner. https://www.fantasy3k.com/"
+  "description": "Fantasy of the Three Kingdoms--SLG With 4X(eXplore & eXpand & eXploit & eXterminate) Features Based on NFT Metaverse. Each NFT has a gorgeous design and unique value in the game. Play & Earn for its owner. https://www.fantasy3k.com/",
+  "erc721_symbol": "F3K"
 }

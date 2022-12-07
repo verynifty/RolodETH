@@ -6,7 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-gearbox",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-gmx"
   ],
   "ens": "cyberg.eth"
 }

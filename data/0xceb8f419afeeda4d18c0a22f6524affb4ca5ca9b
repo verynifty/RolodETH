@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "creep6.eth"
 }

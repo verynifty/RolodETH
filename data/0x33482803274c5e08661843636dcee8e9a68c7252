@@ -21,6 +21,7 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

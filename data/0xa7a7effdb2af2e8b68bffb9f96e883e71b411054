@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-etherscoredao",
     "snapshot-voter-zksync-dao"
-  ]
+  ],
+  "ens": "czardas.eth"
 }

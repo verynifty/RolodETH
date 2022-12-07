@@ -11,6 +11,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "snapshot-voter-daoge",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

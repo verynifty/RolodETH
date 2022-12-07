@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-speraxdao",
     "snapshot-voter-gal",
-    "snapshot-voter-doremifasollasi"
+    "snapshot-voter-doremifasollasi",
+    "snapshot-voter-lido-snapshot"
   ]
 }

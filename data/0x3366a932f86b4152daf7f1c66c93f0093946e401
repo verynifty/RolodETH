@@ -8,6 +8,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

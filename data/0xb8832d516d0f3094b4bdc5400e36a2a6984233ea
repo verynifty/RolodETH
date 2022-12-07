@@ -9,6 +9,7 @@
     "snapshot-voter-gitcoindao",
     "sudoswap-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-hakka"
+    "snapshot-voter-hakka",
+    "snapshot-voter-lido-snapshot"
   ]
 }

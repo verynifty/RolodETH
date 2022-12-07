@@ -3,5 +3,6 @@
     "snapshot-voter-livelabs",
     "snapshot-voter-liveartxevent",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "16888th.eth"
 }

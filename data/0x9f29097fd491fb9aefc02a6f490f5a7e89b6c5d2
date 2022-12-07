@@ -2,7 +2,8 @@
   "tags": [
     "moonbird-minter",
     "otherdeed-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "hananiah.eth"
 }

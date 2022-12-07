@@ -4,6 +4,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-gov-dhedge",
     "snapshot-voter-staking-idlefinance",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-hifi-finance"
   ]
 }

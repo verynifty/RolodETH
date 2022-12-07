@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CULTIVATE | SORCE VIAL",
   "imageUrl": "https://i.seadn.io/gae/tpJXj2Uqo1kPYwDWCZnr1s2_n5KS0kssFL--RkiazAm6BHVXz413LtOpTRQWEmOSYU6URiTSp4Rgpg_W111-oeWoz1CpWyMC3W4y?w=500&auto=format",
   "externalUrl": "https://cult1vate.com",
   "twitterUsername": "CULT1VATE",
-  "description": "Pair a CULTIVATE | SORCE VIAL with any DR1VER https://opensea.io/collection/cultivate-dr1ver-genesis-collection\n\nPairing this with a DR1VER will give you access to future benefits in the CULTIVATE ecosystem\n\nThis vial is received when consuming a GENESIS SORCE VIAL to mint a DR1VER GENESIS helmet at https://cult1vate.com/\n\nSORCE VIALs can hold the most potent creative force in the metaverse; SORCE ENERGY\n\nVials can become [POWERED] with SORCE giving you access to future features in the CULTIVATE ecosystem!\n\nOpenSea collection links:\n\nGENESIS SORCE VIAL: https://opensea.io/collection/genesis-sorce-vial\n\nDR1VER GENESIS Collection: https://opensea.io/collection/cultivate-dr1ver-genesis-collection"
+  "description": "Pair a CULTIVATE | SORCE VIAL with any DR1VER https://opensea.io/collection/cultivate-dr1ver-genesis-collection\n\nPairing this with a DR1VER will give you access to future benefits in the CULTIVATE ecosystem\n\nThis vial is received when consuming a GENESIS SORCE VIAL to mint a DR1VER GENESIS helmet at https://cult1vate.com/\n\nSORCE VIALs can hold the most potent creative force in the metaverse; SORCE ENERGY\n\nVials can become [POWERED] with SORCE giving you access to future features in the CULTIVATE ecosystem!\n\nOpenSea collection links:\n\nGENESIS SORCE VIAL: https://opensea.io/collection/genesis-sorce-vial\n\nDR1VER GENESIS Collection: https://opensea.io/collection/cultivate-dr1ver-genesis-collection",
+  "erc721_symbol": "SORCE"
 }

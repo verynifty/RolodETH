@@ -8,6 +8,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
     "opensea-user",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-via-exchange"
   ]
 }

@@ -11,7 +11,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "massif01.eth"
 }

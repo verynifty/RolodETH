@@ -6,7 +6,8 @@
     "snapshot-voter-ctcswap",
     "snapshot-voter-bestfork",
     "snapshot-voter-aave",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "catoneyan.eth"
 }

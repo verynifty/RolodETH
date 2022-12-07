@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Wild Goat Gang",
   "imageUrl": "https://i.seadn.io/gae/dZpIBliSUKG5YHI61dTxU5BqkFjyg7fG_B7vCYKoB9HPviRFPp8kR33uX94zlYIMNGGt-kw8Y2v9s7lh7CNB1OqO8p5bdrnGbbsMew?w=500&auto=format",
   "externalUrl": "https://www.wildgoatgang.com/",
   "discordUrl": "https://discord.gg/wildgoatgang",
   "twitterUsername": "WildGoatGangNFT",
-  "description": "Since Jan 2022, over 28% of holders have staked their NFTs to earn $Hayy tokens that can be burned for Raffle Entries for trending NFT's, merchandise and electronics drawn every 2 weeks. 100% of funds from wildgoatgang.shop support the community. Lil Goat Gang mint/mobile game completed season 2 with CyberGoats on the way including a Sandbox metaverse."
+  "description": "Since Jan 2022, over 28% of holders have staked their NFTs to earn $Hayy tokens that can be burned for Raffle Entries for trending NFT's, merchandise and electronics drawn every 2 weeks. 100% of funds from wildgoatgang.shop support the community. Lil Goat Gang mint/mobile game completed season 2 with CyberGoats on the way including a Sandbox metaverse.",
+  "erc721_symbol": "WGG"
 }

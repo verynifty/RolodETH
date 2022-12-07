@@ -5,7 +5,8 @@
     "snapshot-voter-o3dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-hakka",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "zzzero.eth"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-via-exchange"
   ]
 }

@@ -3,5 +3,6 @@
     "mayc-minter",
     "snapshot-voter",
     "opensea-user"
-  ]
+  ],
+  "ens": "colinlieb.eth"
 }

@@ -5,7 +5,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "imba1337.eth"
 }
