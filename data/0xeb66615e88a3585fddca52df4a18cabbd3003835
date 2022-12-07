@@ -6,7 +6,9 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-53231323",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "36668.eth"
 }

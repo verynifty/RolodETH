@@ -9,7 +9,8 @@
     "snapshot-voter-balancer",
     "snapshot-voter-treasuredao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-vote-perp"
   ],
   "ens": "darkproject.eth"
 }

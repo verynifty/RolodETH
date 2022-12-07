@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "bear-market.wtf",
   "imageUrl": "https://i.seadn.io/gcs/files/b12607c1d10ea394952626af899dca18.jpg?w=500&auto=format",
   "externalUrl": "https://bear-market.wtf/",
   "discordUrl": "https://discord.gg/cryptohippos",
   "twitterUsername": "bearmarketwtf",
-  "description": "4,444 𐐒υllƨ wʜo dont ʞnow wɒt tʜɘ fuɔʞ iƨ goinϱ on"
+  "description": "4,444 𐐒υllƨ wʜo dont ʞnow wɒt tʜɘ fuɔʞ iƨ goinϱ on",
+  "erc721_symbol": "BMWTF"
 }

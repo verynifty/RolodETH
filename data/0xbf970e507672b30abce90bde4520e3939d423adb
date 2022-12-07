@@ -10,6 +10,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-streamr",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-morpho",
+    "snapshot-voter-treasuredao"
   ]
 }

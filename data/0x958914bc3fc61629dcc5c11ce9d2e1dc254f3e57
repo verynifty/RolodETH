@@ -10,5 +10,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "zoomik.eth"
 }

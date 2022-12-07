@@ -9,6 +9,8 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-apecoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SVS Champagne Chalice",
   "imageUrl": "https://i.seadn.io/gcs/files/cacaed7374f7802fd4b208865b3a7c81.png?w=500&auto=format",
   "externalUrl": "https://champagne.svs.gg",
   "discordUrl": "https://discord.gg/svsnft",
-  "description": "The Chalice NFT is your access card to claim your very own limited edition SVS Champagne by burning it. Produced by a world renowned vineyard and overseen by the team who created the world's most expensive champagne, only one question remains: will you burn, trade, or hold onto it? Only 1,500 of this vintage will be produced, so choose wisely."
+  "description": "The Chalice NFT is your access card to claim your very own limited edition SVS Champagne by burning it. Produced by a world renowned vineyard and overseen by the team who created the world's most expensive champagne, only one question remains: will you burn, trade, or hold onto it? Only 1,500 of this vintage will be produced, so choose wisely.",
+  "erc721_symbol": "CHAMP"
 }

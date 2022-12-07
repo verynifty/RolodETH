@@ -3,7 +3,12 @@
     "snapshot-voter-ens",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gmx",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-hop"
   ],
   "ens": "khalis.eth"
 }

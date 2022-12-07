@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "bitcointopshot.eth"
 }

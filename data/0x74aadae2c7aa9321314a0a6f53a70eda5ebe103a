@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-treasuredao"
   ]
 }

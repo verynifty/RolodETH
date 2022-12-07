@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-balancer",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "ecosystemx.eth"
 }

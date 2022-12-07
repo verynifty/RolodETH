@@ -6,6 +6,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
-    "snapshot-voter-xec666"
+    "snapshot-voter-xec666",
+    "snapshot-voter-lido-snapshot"
   ]
 }

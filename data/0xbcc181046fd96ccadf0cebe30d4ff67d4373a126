@@ -6,6 +6,7 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-aave",
     "snapshot-voter-gearbox",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-palvote"
   ]
 }

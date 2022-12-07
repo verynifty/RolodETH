@@ -6,5 +6,6 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "esquisse.eth"
 }

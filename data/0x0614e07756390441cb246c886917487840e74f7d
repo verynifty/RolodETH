@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-banklessvault",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-autominter"
   ],
   "ens": "erixink.eth"
 }

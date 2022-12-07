@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "PasokonMVP - Official",
   "imageUrl": "https://i.seadn.io/gcs/files/c8c199e22001978aa1373cd352c6d54a.jpg?w=500&auto=format",
   "externalUrl": "https://pasokonnft.com/mvp",
   "twitterUsername": "PasokonWorld",
-  "description": "MINTSITE: https://pasokonnft.com/mvp\n\nPasokonMvp is another collection with a total supply of 555.\n\nUnlike the Token of PasokonWorld, PasokonMvp will bring together a group of people who influence the development of our brand.\n\nWe will give PasokonMvp the right to propose and vote on important decisions, truly co-constructing.\n\nAlso PasokonMvp will continue to receive airdrops. Please also stay curious about more surprises.\n\nSome of the Easter eggs and alpha about Token may be hidden in our OWS. We plan to announce them in Q4 2022."
+  "description": "MINTSITE: https://pasokonnft.com/mvp\n\nPasokonMvp is another collection with a total supply of 555.\n\nUnlike the Token of PasokonWorld, PasokonMvp will bring together a group of people who influence the development of our brand.\n\nWe will give PasokonMvp the right to propose and vote on important decisions, truly co-constructing.\n\nAlso PasokonMvp will continue to receive airdrops. Please also stay curious about more surprises.\n\nSome of the Easter eggs and alpha about Token may be hidden in our OWS. We plan to announce them in Q4 2022.",
+  "erc721_symbol": "PM"
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "opensea-user",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-vote-perp"
   ]
 }

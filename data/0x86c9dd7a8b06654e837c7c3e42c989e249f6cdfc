@@ -12,6 +12,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gmx"
   ]
 }

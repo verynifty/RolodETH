@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "CryptoWiener",
   "imageUrl": "https://i.seadn.io/gae/HyxNCbw5cSH4IYghVMWnz9heKkShyGtaU954-0AGFR_g9bAzqu4e6XRyiLr6NDutOj1uX5fY-8b9ayo-8ZG_FI-z8_9Mptyvlfdd?w=500&auto=format",
   "externalUrl": "https://www.cryptowiener.com",
   "discordUrl": "https://discord.gg/J4McEA4",
   "twitterUsername": "CryptoWiener_",
-  "description": "Most leiwande collectibles since 2019\nCryptoWieners are 32x32 pixel art images, all hand drawn and unique. #Leiwand #Oida"
+  "description": "Most leiwande collectibles since 2019\nCryptoWieners are 32x32 pixel art images, all hand drawn and unique. #Leiwand #Oida",
+  "erc721_symbol": "CW"
 }

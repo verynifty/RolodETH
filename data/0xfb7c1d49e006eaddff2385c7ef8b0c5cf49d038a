@@ -6,5 +6,6 @@
     "snapshot-voter-eulerdao",
     "snapshot-voter-researchhub",
     "snapshot-voter-ampleforthorg"
-  ]
+  ],
+  "ens": "daffy.eth"
 }

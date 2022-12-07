@@ -6,6 +6,7 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

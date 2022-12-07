@@ -1,6 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "alesha.eth"
 }

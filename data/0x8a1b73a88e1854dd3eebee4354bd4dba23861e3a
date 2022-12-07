@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gmx"
   ],
   "ens": "colinka.eth"
 }

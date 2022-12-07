@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
+  ],
   "ens": "rustik.eth"
 }

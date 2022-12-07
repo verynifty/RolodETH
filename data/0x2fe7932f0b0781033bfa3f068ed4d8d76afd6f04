@@ -5,7 +5,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "ethl1.eth"
 }

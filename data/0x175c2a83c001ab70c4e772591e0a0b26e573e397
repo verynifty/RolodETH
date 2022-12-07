@@ -6,7 +6,9 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ],
   "ens": "cbagg21.eth"
 }

@@ -1,6 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ]
 }

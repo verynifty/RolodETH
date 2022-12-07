@@ -13,7 +13,8 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-nftfinance",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "mistald.eth"
 }

@@ -6,6 +6,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

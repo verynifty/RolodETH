@@ -8,6 +8,9 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-nation3",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -3,5 +3,6 @@
     "veefriend-minter",
     "mayc-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "kilteddragonjer.eth"
 }

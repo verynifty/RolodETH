@@ -3,5 +3,6 @@
     "cryptoadz-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "69x.eth"
 }

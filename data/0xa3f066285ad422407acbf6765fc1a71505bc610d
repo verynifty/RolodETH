@@ -13,6 +13,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-dydxgov",
     "opensea-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ]
 }

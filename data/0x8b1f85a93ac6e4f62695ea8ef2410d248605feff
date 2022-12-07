@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-ens",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-nominations-ens"
   ],
   "ens": "premm.eth"
 }

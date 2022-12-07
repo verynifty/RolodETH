@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Meta NightClub",
   "imageUrl": "https://i.seadn.io/gcs/files/43961afb267065f963efd26c296a8917.png?w=500&auto=format",
   "externalUrl": "https://meta-night.club/",
   "discordUrl": "https://discord.gg/metanightclub",
   "twitterUsername": "meta_nightclub",
-  "description": "+880 owners - 60% staked - 4 NightClubs in the Metaverse\n\nMeta NightClub represents a collection of NFT Cards categorized by the 4 nightclubs it aims to bring to life: Ruby Club, Topaz Club, Amethyst Club, Diamond Club. Each card rarity is associated to one club and brings income & other benefits for the card holder. \n\nThe PREMIUM Card is the most valuable. It offers 50% of all revenue coming from ads inside the clubs to its holders. To get this card FOR FREE, one most own all 4 card rarities - a full set. \n\nAll Holders get passive income in the form of $MCLUB once they stake their NFTs, gain LIFETIME WHITELIST to all MNC future collections, get 1 FREE MINT 3D Cocktail from us each month they stake their NFTs for / per NFT, have early access to the clubs & have the possibility to purchase land.\n\nLet's bring the 𝕔𝕝𝕦𝕓𝕓𝕚𝕟𝕘 𝕝𝕚𝕗𝕖 to the BLOCKCHAIN!\nJoin our mission: https://linktr.ee/metanightclub"
+  "description": "+880 owners - 60% staked - 4 NightClubs in the Metaverse\n\nMeta NightClub represents a collection of NFT Cards categorized by the 4 nightclubs it aims to bring to life: Ruby Club, Topaz Club, Amethyst Club, Diamond Club. Each card rarity is associated to one club and brings income & other benefits for the card holder. \n\nThe PREMIUM Card is the most valuable. It offers 50% of all revenue coming from ads inside the clubs to its holders. To get this card FOR FREE, one most own all 4 card rarities - a full set. \n\nAll Holders get passive income in the form of $MCLUB once they stake their NFTs, gain LIFETIME WHITELIST to all MNC future collections, get 1 FREE MINT 3D Cocktail from us each month they stake their NFTs for / per NFT, have early access to the clubs & have the possibility to purchase land.\n\nLet's bring the 𝕔𝕝𝕦𝕓𝕓𝕚𝕟𝕘 𝕝𝕚𝕗𝕖 to the BLOCKCHAIN!\nJoin our mission: https://linktr.ee/metanightclub",
+  "erc721_symbol": "MNC"
 }

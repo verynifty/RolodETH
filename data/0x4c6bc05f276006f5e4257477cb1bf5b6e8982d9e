@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "BeiBei Adventurers Guild",
   "imageUrl": "https://i.seadn.io/gcs/files/2a9ab533390cc5c37995e457399ebe5d.jpg?w=500&auto=format",
   "discordUrl": "https://discord.gg/beibei-guild",
   "twitterUsername": "BeiBei520_NFT",
-  "description": "贝贝の冒险者协会社区主要是：\n一级alpha信息   premint专属抽奖表格\n场外白名单交易 担保\n一对一咨询 （新手入门）\n白名单抽奖 实物抽奖 质押等...\n"
+  "description": "贝贝の冒险者协会社区主要是：\n一级alpha信息   premint专属抽奖表格\n场外白名单交易 担保\n一对一咨询 （新手入门）\n白名单抽奖 实物抽奖 质押等...\n",
+  "erc721_symbol": "BeiBei"
 }

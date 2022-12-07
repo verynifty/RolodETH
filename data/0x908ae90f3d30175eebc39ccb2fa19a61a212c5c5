@@ -8,5 +8,6 @@
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "antonikk.eth"
 }

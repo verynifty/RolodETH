@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Influence Crew",
   "imageUrl": "https://i.seadn.io/gae/5742ExtD_kaqBxjWdwFudDd30s7hGUki5Lod2vFpBeBvKvT00BcZQbZvcxKnqH8jcC2yWJGN267eMdp3jsdccPqOXyV_G--pFfosBw?w=500&auto=format",
   "externalUrl": "https://www.influenceth.io",
   "discordUrl": "https://discord.gg/pEeBHF8WsK",
   "twitterUsername": "influenceth",
-  "description": "Influence is a space strategy MMO, set in a realistic asteroid belt in the Adalia system, after an ill-fated journey aboard the Arvad, a generational ship fleeing from a dying Earth."
+  "description": "Influence is a space strategy MMO, set in a realistic asteroid belt in the Adalia system, after an ill-fated journey aboard the Arvad, a generational ship fleeing from a dying Earth.",
+  "erc721_symbol": "INFC"
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "extra201.eth"
 }

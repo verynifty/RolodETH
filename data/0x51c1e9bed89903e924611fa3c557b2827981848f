@@ -9,7 +9,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-via-exchange"
   ],
   "ens": "natasta.eth"
 }

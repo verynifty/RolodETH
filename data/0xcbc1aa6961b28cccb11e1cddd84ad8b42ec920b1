@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "ZEUS10000",
   "erc20_symbol": "ZEUS10000",

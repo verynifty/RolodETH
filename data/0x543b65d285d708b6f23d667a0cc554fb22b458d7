@@ -9,6 +9,9 @@
     "snapshot-voter-sismo",
     "snapshot-voter-stgdao",
     "snapshot-voter-pooltogether",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov"
   ]
 }

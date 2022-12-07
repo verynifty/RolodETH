@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "snapshot-voter-gauge-rbn",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "booba69.eth"
 }

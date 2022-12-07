@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-yokaiswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-treasuredao"
   ]
 }

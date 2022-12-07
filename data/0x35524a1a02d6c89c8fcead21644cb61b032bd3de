@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-liveartxevent",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "lnpandy.eth"
 }

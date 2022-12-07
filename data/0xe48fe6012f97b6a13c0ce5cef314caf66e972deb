@@ -8,7 +8,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "aavechain.eth"
 }

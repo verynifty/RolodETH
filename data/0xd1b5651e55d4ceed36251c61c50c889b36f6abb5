@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Stake DAO CRV",
   "erc20_symbol": "SDCRV",

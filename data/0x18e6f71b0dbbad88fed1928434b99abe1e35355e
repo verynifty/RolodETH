@@ -3,5 +3,6 @@
     "otherdeed-minter",
     "snapshot-voter-metabrewsociety",
     "opensea-user"
-  ]
+  ],
+  "ens": "mrballs.eth"
 }

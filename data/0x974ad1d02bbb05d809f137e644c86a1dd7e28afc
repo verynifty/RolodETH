@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Big Free Party",
   "imageUrl": "https://i.seadn.io/gcs/files/ca3c2846876770c1e8ca93036f19aea8.png?w=500&auto=format",
   "externalUrl": "https://www.bfparty.io/",
   "discordUrl": "https://discord.gg/bfparty",
-  "description": "BF-Party Free Mint Collection"
+  "description": "BF-Party Free Mint Collection",
+  "erc721_symbol": "BFP"
 }

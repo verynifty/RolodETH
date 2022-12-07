@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gnosis",
     "snapshot-voter-daoge",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

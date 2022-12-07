@@ -1,5 +1,8 @@
 {
   "tags": [
-    "snapshot-voter-gal"
-  ]
+    "snapshot-voter-gal",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx"
+  ],
+  "ens": "abaldman.eth"
 }

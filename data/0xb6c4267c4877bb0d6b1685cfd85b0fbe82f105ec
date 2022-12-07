@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Relevant",
   "erc20_symbol": "REL",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11586/thumb/Relevant.png?1591390081"
+  "imageURL": "https://assets.coingecko.com/coins/images/11586/thumb/Relevant.png?1591390081",
+  "proxy": "0x213af0d42a686aa2be5f6aff225df74fbe762997"
 }

@@ -15,6 +15,7 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-dydxgov"
   ]
 }

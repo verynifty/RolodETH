@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-defigeek",
     "snapshot-voter-ilv",
-    "snapshot-voter-perp-temp-check"
+    "snapshot-voter-perp-temp-check",
+    "snapshot-voter-vote-perp"
   ]
 }

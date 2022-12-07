@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "Tweak Editions",
   "imageUrl": "https://i.seadn.io/gae/LtZd-aHnZyECvdxlx0nwmIEgjj0zyw3UuHoXtk6H7G4zOlEkz4iTb8NKNj_NhTZX4Nu3DdaG95fj_s4HSfWXKmwamEpjOqQZkr8H3g?w=500&auto=format",
   "externalUrl": "https://nftweak.com/",
   "discordUrl": "https://discord.gg/tweakasylum",
   "twitterUsername": "NFTweak",
-  "description": "Select editions of art by Max Dresner of Tweak Labs\n\nOther Tweak Collections:\n\n[100 Hand drawn Tweaks](https://opensea.io/collection/tweaks)\n\n[Generative Twisted Tweaks](https://opensea.io/collection/twistedtweaks)\n\n[1/1 Tweak Files](https://opensea.io/collection/tweakfiles)\n\n[1/1 Tweak Items Apparel](https://opensea.io/collection/tweak-items)\n"
+  "description": "Select editions of art by Max Dresner of Tweak Labs\n\nOther Tweak Collections:\n\n[100 Hand drawn Tweaks](https://opensea.io/collection/tweaks)\n\n[Generative Twisted Tweaks](https://opensea.io/collection/twistedtweaks)\n\n[1/1 Tweak Files](https://opensea.io/collection/tweakfiles)\n\n[1/1 Tweak Items Apparel](https://opensea.io/collection/tweak-items)\n",
+  "erc721_symbol": "NFTweak"
 }

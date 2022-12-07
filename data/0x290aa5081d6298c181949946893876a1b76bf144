@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-sushigov",
     "snapshot-voter-dfi",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-awsbcapital"
   ]
 }

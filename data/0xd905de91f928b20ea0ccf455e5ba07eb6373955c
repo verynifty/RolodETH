@@ -3,5 +3,6 @@
     "bayc-minter",
     "moonbird-minter",
     "hashmask-minter"
-  ]
+  ],
+  "ens": "wantmoresushi.eth"
 }

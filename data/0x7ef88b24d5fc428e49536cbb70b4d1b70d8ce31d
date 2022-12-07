@@ -4,5 +4,6 @@
     "otherdeed-minter",
     "snapshot-voter-kostrenfinance",
     "snapshot-voter-newtopiadao"
-  ]
+  ],
+  "ens": "zodt.eth"
 }

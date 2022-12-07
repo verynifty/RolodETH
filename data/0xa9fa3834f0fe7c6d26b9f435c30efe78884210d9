@@ -4,5 +4,6 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-gmx",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "skr.eth"
 }

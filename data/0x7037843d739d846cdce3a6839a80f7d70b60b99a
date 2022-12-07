@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "August Sander 10K collection",
   "imageUrl": "https://i.seadn.io/gae/CDOMF6UFLrV6psq2kabz_nkkZVJZi-2pxrrgbuG23nT2iYGpJVNXHfbj0VOV8H-OIDPbKGNG4vzcMCSEgg3_ZeykKroF1ukOk4t7wNs?w=500&auto=format",
   "externalUrl": "https://10k.fellowship.photo",
   "discordUrl": "https://discord.gg/ceHbKzg7cq",
   "twitterUsername": "fellowshiptrust",
-  "description": "AS10k+ represents the catalogue raisonne of August Sander, one of the most influential photographers of the 20th century. By engaging in this collection of contact sheets, you become a steward of Sander’s groundbreaking photographic legacy. This collection also represents a point of entry into the August Sander Research Database, which will become a resource for continued scholarship and appreciation of August Sander’s life and work.\r\n\r\nLearn more about the project and the legacy of August Sander: http://10k.fellowship.photo\r\n\r\nJoin the Fellowship Discord for updates and community: https://discord.gg/ceHbKzg7cq\r\nFollow us on Twitter: https://twitter.com/fellowshiptrust\r\n\r\nBEWARE OF MANY FAKE COLLECTIONS, ALWAYS VERIFY THE CONTRACT ADDRESS: 0x7037843d739D846CdCe3A6839A80f7D70b60b99A"
+  "description": "AS10k+ represents the catalogue raisonne of August Sander, one of the most influential photographers of the 20th century. By engaging in this collection of contact sheets, you become a steward of Sander’s groundbreaking photographic legacy. This collection also represents a point of entry into the August Sander Research Database, which will become a resource for continued scholarship and appreciation of August Sander’s life and work.\r\n\r\nLearn more about the project and the legacy of August Sander: http://10k.fellowship.photo\r\n\r\nJoin the Fellowship Discord for updates and community: https://discord.gg/ceHbKzg7cq\r\nFollow us on Twitter: https://twitter.com/fellowshiptrust\r\n\r\nBEWARE OF MANY FAKE COLLECTIONS, ALWAYS VERIFY THE CONTRACT ADDRESS: 0x7037843d739D846CdCe3A6839A80f7D70b60b99A",
+  "erc721_symbol": "AS10K"
 }

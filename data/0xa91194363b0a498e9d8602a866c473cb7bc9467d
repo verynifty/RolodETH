@@ -4,5 +4,6 @@
     "hashmask-minter",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "pashaart.eth"
 }

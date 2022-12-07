@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "mayc-minter",
     "snapshot-voter-friendswithbenefits"
-  ]
+  ],
+  "ens": "pcdkd.eth"
 }

@@ -6,5 +6,6 @@
     "otherdeed-minter",
     "snapshot-voter-gmx",
     "opensea-user"
-  ]
+  ],
+  "ens": "rodge.eth"
 }

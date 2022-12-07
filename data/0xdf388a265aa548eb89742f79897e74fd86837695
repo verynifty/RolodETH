@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ETHERS",
+  "erc20_decimals": 18,
+  "name": "Ether Society"
+}

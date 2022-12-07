@@ -5,7 +5,8 @@
     "pudgy-pinguin-minter",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "moonnft6.eth"
 }

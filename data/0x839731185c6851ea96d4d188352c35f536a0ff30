@@ -1,6 +1,8 @@
 {
   "tags": [
-    "goblin-town-minter"
+    "goblin-town-minter",
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "molodec.eth"
 }

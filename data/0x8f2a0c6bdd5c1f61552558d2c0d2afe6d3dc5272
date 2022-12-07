@@ -16,6 +16,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-onesol",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

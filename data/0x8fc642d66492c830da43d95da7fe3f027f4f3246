@@ -10,7 +10,8 @@
     "snapshot-voter-polygon-goodghosting",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "briller.eth"
 }

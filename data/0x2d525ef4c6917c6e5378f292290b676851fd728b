@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-doremifasollasi",
     "snapshot-voter-stgdao",
-    "snapshot-voter-web3jedis"
+    "snapshot-voter-web3jedis",
+    "snapshot-voter-gmx"
   ]
 }

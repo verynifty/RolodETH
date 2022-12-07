@@ -4,5 +4,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "508886.eth"
 }

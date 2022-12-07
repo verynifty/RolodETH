@@ -4,5 +4,6 @@
     "azuki-minter",
     "moonbird-minter",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "okexswap.eth"
 }

@@ -10,7 +10,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-apecoin",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-hop"
   ],
   "ens": "x7755.eth"
 }

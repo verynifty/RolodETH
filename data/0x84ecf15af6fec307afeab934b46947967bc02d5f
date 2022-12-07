@@ -16,7 +16,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-immutablex"
+    "snapshot-voter-immutablex",
+    "snapshot-voter-alchemistcoin"
   ],
   "ens": "elwavo.eth"
 }

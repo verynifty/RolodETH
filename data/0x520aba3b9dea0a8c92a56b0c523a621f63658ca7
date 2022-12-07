@@ -4,5 +4,6 @@
     "snapshot-voter-opcollective",
     "sudoswap-user",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "2elee.eth"
 }

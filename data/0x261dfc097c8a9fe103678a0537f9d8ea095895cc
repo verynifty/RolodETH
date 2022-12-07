@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "MetaLamboz by ButtFucker 3000",
   "imageUrl": "https://i.seadn.io/gcs/files/ac19b01f0473ca73e916be31a6af68f8.png?w=500&auto=format",
   "externalUrl": "http://metalamboz.xyz",
   "discordUrl": "https://discord.gg/MetaLamboz",
   "twitterUsername": "MetaLamboz",
-  "description": "The #1 Alpha Launchpad Manga Play-2-Earn High-Fashion Generative Art Metaverse DAO Bridge Between Web2 and Web3"
+  "description": "The #1 Alpha Launchpad Manga Play-2-Earn High-Fashion Generative Art Metaverse DAO Bridge Between Web2 and Web3",
+  "erc721_symbol": "LAMBO"
 }

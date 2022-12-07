@@ -1,5 +1,8 @@
 {
   "tags": [
-    "uniswapv3-lp"
-  ]
+    "uniswapv3-lp",
+    "contract",
+    "proxy"
+  ],
+  "proxy": "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
 }

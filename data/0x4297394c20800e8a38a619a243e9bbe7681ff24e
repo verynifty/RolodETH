@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Hot Cross",
   "erc20_symbol": "HOTCROSS",

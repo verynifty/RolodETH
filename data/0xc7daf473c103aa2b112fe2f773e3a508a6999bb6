@@ -4,5 +4,6 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "foolishmoney.eth"
 }

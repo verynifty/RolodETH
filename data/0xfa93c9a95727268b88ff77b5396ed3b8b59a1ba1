@@ -12,7 +12,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-ethermondao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "broscombe.eth"
 }

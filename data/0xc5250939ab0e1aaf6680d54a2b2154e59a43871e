@@ -7,6 +7,7 @@
     "snapshot-voter-derify",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-xec666"
+    "snapshot-voter-xec666",
+    "snapshot-voter-aave"
   ]
 }

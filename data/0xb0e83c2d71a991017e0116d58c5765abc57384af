@@ -5,6 +5,7 @@
     "snapshot-voter-sdbal",
     "snapshot-voter-sdangle",
     "snapshot-voter-sdfxs",
-    "snapshot-voter-pitchdeployer"
+    "snapshot-voter-pitchdeployer",
+    "snapshot-voter-stakedao"
   ]
 }

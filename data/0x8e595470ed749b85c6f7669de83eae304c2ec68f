@@ -1,0 +1,11 @@
+{
+  "tags": [
+    "contract",
+    "erc20",
+    "proxy"
+  ],
+  "erc20_symbol": "iDAI",
+  "erc20_decimals": 8,
+  "name": "Iron Bank Dai Stablecoin",
+  "proxy": "0x7e8844ea4c211a69ad9308ba0b6cdb3ea0bb2b05"
+}

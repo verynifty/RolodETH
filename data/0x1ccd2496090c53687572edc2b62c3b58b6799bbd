@@ -4,5 +4,6 @@
     "loot-minter",
     "snapshot-voter-brightmoments",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "immanual.eth"
 }

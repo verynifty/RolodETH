@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "x0r",
   "imageUrl": "https://i.seadn.io/gae/-PWyco0eltdPweDwIDngnOMSNUvXJyJokfua3p4C9zCreS4-HVz43dYqTu3xj5pEuvalozG5CoXMDVqBflN8X7sbzv44C8f1A_vX-A?w=500&auto=format",
   "externalUrl": "https://niftygateway.com/collections/x0r",
   "discordUrl": "https://discord.gg/x0rart",
   "twitterUsername": "x0rart",
-  "description": "x0r is an alias for programmer and magician Michael Blau. x0r explores creating code-generated ASCII art and digital illusions. The XOR or “Exclusive Or” bitwise operation is a critical operation used in ciphers and the field of cryptography, and NFTs are essentially cryptographically verified ownership of artwork.\n\n10% Royalty Applies. See x0r Terms for details: https://www.x0rart.com/terms-of-service"
+  "description": "x0r is an alias for programmer and magician Michael Blau. x0r explores creating code-generated ASCII art and digital illusions. The XOR or “Exclusive Or” bitwise operation is a critical operation used in ciphers and the field of cryptography, and NFTs are essentially cryptographically verified ownership of artwork.\n\n10% Royalty Applies. See x0r Terms for details: https://www.x0rart.com/terms-of-service",
+  "erc721_symbol": "ULTRASOUNDBURNREDEMPTIONBYXR"
 }

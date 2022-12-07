@@ -4,5 +4,6 @@
     "pudgy-pinguin-minter",
     "wow-minter",
     "otherdeed-minter"
-  ]
+  ],
+  "ens": "mariolongtin.eth"
 }

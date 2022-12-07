@@ -5,6 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-immutablex",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

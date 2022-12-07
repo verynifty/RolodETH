@@ -4,6 +4,7 @@
     "meebit-minter",
     "clonex-minter",
     "otherdeed-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-loot-dao"
   ]
 }

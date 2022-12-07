@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-gmx"
   ],
   "ens": "dezhengtang.eth"
 }

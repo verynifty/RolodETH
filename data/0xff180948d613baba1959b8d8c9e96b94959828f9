@@ -3,7 +3,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "saladin.eth"
 }

@@ -2,5 +2,6 @@
   "tags": [
     "contract-deployer"
   ],
-  "name": "Spore Token: Deployer"
+  "name": "Spore Token: Deployer",
+  "ens": "baeza.eth"
 }

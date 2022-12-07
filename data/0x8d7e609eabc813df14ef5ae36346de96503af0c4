@@ -3,5 +3,6 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-stgdao",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "vladimwd.eth"
 }

@@ -10,6 +10,8 @@
     "snapshot-voter-qidao",
     "snapshot-voter-swaprsnapshot",
     "snapshot-voter-mail3",
-    "snapshot-voter-derify"
+    "snapshot-voter-derify",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-vote-perp"
   ]
 }

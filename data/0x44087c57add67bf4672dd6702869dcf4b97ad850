@@ -14,7 +14,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-morpho",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "guibi.eth"
 }

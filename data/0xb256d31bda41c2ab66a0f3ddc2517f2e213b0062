@@ -10,6 +10,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-uniswap",
     "snapshot-voter-krausehouse",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-friendswithbenefits"
   ]
 }

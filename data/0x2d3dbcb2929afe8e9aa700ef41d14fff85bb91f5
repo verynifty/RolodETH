@@ -3,5 +3,6 @@
     "doodle-minter",
     "mayc-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "0077.eth"
 }

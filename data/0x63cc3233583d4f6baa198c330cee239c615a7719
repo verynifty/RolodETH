@@ -5,6 +5,7 @@
     "snapshot-voter-nftfinance",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-kuiqian"
   ]
 }

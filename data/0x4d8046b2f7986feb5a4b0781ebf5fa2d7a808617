@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "DogeZilla Token",
   "erc20_symbol": "DOGEZ",

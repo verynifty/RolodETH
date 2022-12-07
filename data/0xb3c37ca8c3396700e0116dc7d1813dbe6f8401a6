@@ -8,5 +8,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "0xcringedev.eth"
 }

@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "mdaoOmv2EthLP",
+  "erc20_decimals": 18,
+  "name": "MDAO OMv2-ETH Uni-V2 LP Token"
+}

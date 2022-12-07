@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ],
   "ens": "maani-teh.eth"
 }

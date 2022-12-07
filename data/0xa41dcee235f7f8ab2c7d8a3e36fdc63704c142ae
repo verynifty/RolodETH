@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "wavy.eth"
 }

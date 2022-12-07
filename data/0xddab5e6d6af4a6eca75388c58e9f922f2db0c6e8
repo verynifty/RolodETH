@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ASPECT",
+  "erc20_decimals": 8,
+  "name": "ASPECT Coin"
+}

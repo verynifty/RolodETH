@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-yam",
     "snapshot-voter-gearbox",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-conic-dao"
   ]
 }

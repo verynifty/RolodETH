@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "18565.eth"
 }

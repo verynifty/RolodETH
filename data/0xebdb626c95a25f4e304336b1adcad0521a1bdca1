@@ -7,7 +7,8 @@
     "sudoswap-user",
     "snapshot-voter-ybaby",
     "snapshot-voter-gearbox",
-    "snapshot-voter-gauge-rbn"
+    "snapshot-voter-gauge-rbn",
+    "snapshot-voter-thelanddaoprop"
   ],
   "name": "Defiprime : Donate",
   "ens": "defiprime.eth"

@@ -3,5 +3,6 @@
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx",
     "snapshot-voter-treasuredao"
-  ]
+  ],
+  "ens": "hedgenog.eth"
 }

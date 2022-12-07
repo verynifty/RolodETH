@@ -21,6 +21,7 @@
     "sudoswap-user",
     "snapshot-voter-morpho",
     "snapshot-voter-dongdo",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mail3",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "120388.eth"
 }

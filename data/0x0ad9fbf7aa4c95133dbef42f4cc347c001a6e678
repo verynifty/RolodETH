@@ -4,6 +4,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-gmx",
     "snapshot-voter-cakevote",
-    "snapshot-voter-dopeapedao"
+    "snapshot-voter-dopeapedao",
+    "snapshot-voter-gnosis"
   ]
 }

@@ -6,7 +6,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-opcollective",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-vote-perp"
   ],
   "ens": "monanoliza.eth"
 }

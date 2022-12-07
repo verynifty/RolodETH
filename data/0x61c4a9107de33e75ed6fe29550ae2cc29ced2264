@@ -3,5 +3,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "greengeorge.eth"
 }

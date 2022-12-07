@@ -18,6 +18,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot"
   ]
 }

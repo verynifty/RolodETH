@@ -5,6 +5,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-sdfxs",
     "snapshot-voter-sdangle",
-    "snapshot-voter-sdapw"
+    "snapshot-voter-sdapw",
+    "snapshot-voter-stakedao"
   ]
 }

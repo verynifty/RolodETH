@@ -3,5 +3,6 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-nftfinance",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "shelbygrayman.eth"
 }

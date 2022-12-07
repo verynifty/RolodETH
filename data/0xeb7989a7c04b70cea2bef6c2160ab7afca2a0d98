@@ -4,6 +4,7 @@
     "snapshot-voter-qidao",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-aave",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "snapshot-voter-quickvote"
   ]
 }

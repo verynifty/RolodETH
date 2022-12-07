@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo"
-  ]
+  ],
+  "ens": "playforfun9.eth"
 }

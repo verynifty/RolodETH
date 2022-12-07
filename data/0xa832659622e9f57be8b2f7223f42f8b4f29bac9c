@@ -4,6 +4,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gnosis",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hop"
   ]
 }

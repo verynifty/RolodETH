@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
+  ],
   "ens": "richfate.eth"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Gangland by Eddie Gangland",
   "imageUrl": "https://i.seadn.io/gcs/files/c08719cea39558968b0f3ecff6fcb4f3.jpg?w=500&auto=format",
   "externalUrl": "http://EddieGangland.com",
   "twitterUsername": "eddiegangland",
-  "description": "The Gangland collection is made up of original illustrations by Eddie Gangland.  Each illustration has been made into a unique 'GANG' token and maintained on the Ethereum blockchain.  The first character in the Gangland Universe is Gangboy.  Each token  is 1/300 unique tokens that will ever exist for that character within this collection.  Each illustration is created by Eddie Gangland and completely original."
+  "description": "The Gangland collection is made up of original illustrations by Eddie Gangland.  Each illustration has been made into a unique 'GANG' token and maintained on the Ethereum blockchain.  The first character in the Gangland Universe is Gangboy.  Each token  is 1/300 unique tokens that will ever exist for that character within this collection.  Each illustration is created by Eddie Gangland and completely original.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

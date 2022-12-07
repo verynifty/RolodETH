@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-elfi",
     "snapshot-voter-apecoin",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ]
 }

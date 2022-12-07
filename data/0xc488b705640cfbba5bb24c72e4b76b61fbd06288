@@ -11,6 +11,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
     "snapshot-voter-anglegovernance",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-hop"
   ]
 }

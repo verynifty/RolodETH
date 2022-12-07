@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "petrolbank.eth"
 }

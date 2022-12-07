@@ -14,7 +14,8 @@
     "snapshot-voter-people-dao",
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "cybernow.eth"
 }

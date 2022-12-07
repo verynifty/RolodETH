@@ -4,5 +4,6 @@
     "loot-minter",
     "snapshot-voter-friendswithbenefits",
     "opensea-user"
-  ]
+  ],
+  "ens": "yatseen.eth"
 }

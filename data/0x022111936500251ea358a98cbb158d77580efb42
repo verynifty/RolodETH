@@ -12,6 +12,9 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-lido-snapshot"
   ]
 }

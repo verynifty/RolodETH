@@ -9,7 +9,8 @@
     "snapshot-voter-elfi",
     "snapshot-voter-ens",
     "snapshot-voter-sushigov",
-    "snapshot-voter-gitcoingov"
+    "snapshot-voter-gitcoingov",
+    "snapshot-voter-nominations-ens"
   ],
   "name": "Mirror: Simona Pop"
 }

@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Spooky Ape Haunted Club",
   "imageUrl": "https://i.seadn.io/gcs/files/1adb4324dcc2591d363737652592e204.jpg?w=500&auto=format",
   "externalUrl": "https://etherscan.io/address/0x3e6003b19b13251a365c8377c97e6e4af57e26b5",
   "twitterUsername": "SpookyApeHC",
-  "description": "Spooky Apes Ready to Terrorize Web3 ☠️ ┋1 free and 0.0035 for each additional (max 10 per tx).\n[MINT IS LIVE 👻](https://etherscan.io/address/0x3e6003b19b13251a365c8377c97e6e4af57e26b5#writeContract)"
+  "description": "Spooky Apes Ready to Terrorize Web3 ☠️ ┋1 free and 0.0035 for each additional (max 10 per tx).\n[MINT IS LIVE 👻](https://etherscan.io/address/0x3e6003b19b13251a365c8377c97e6e4af57e26b5#writeContract)",
+  "erc721_symbol": "SAHC"
 }

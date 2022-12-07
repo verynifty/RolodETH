@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-qidao",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gnosis"
   ]
 }

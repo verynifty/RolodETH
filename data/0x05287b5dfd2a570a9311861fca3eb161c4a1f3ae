@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Not Just A Key",
   "imageUrl": "https://i.seadn.io/gcs/files/58f27a7522bea8e579da75e4fbc4dae3.gif?w=500&auto=format",
   "externalUrl": "http://notjustakey.com",
   "discordUrl": "https://discord.gg/jkNvju3tYF",
   "twitterUsername": "playground_nfts",
-  "description": "DO NOT BUY - CLAIM IS OVER.\n\nA key is always specific to its lock...\n\n🔒https://opensea.io/collection/notjustalock\n\nJoin the discord for further instructions..."
+  "description": "DO NOT BUY - CLAIM IS OVER.\n\nA key is always specific to its lock...\n\n🔒https://opensea.io/collection/notjustalock\n\nJoin the discord for further instructions...",
+  "erc721_symbol": "KEY"
 }

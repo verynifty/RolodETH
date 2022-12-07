@@ -1,7 +1,9 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
   ],
   "ens": "onetimedump.eth"
 }

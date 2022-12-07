@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-pokpokprotocol"
+    "snapshot-voter-pokpokprotocol",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "ryuuki.eth"
 }

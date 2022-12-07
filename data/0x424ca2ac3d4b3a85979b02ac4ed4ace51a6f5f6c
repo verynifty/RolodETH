@@ -4,5 +4,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
     "snapshot-voter-vestafinance"
-  ]
+  ],
+  "ens": "hardworkpaysoff.eth"
 }

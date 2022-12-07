@@ -16,6 +16,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-safe",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-lido-snapshot"
   ]
 }

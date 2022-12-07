@@ -7,7 +7,8 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-snapshot-dcl"
+    "snapshot-voter-snapshot-dcl",
+    "snapshot-voter-cakevote"
   ],
   "ens": "shadowrayquaza.eth"
 }

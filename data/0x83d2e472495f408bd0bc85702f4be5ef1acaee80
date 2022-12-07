@@ -18,6 +18,7 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot"
   ]
 }

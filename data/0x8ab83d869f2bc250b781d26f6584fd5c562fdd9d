@@ -6,5 +6,6 @@
     "coolcat-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "mgugga.eth"
 }

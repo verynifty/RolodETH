@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Realms of Ethernity Pets",
   "imageUrl": "https://i.seadn.io/gcs/files/cd427b5ce8802a5f3337d0db330c7491.png?w=500&auto=format",
   "externalUrl": "https://www.roemmorpg.com",
   "discordUrl": "https://discord.gg/realmsofeth",
   "twitterUsername": "RoEMMORPG",
-  "description": "Meet your lifelong companion and powerful ally: The Wanderer. Your pet and its in-game abilities can evolve. Right now every Wanderer is a pup who will give their owners a carry weight bonus in the Realms of Ethernity game.\n\nBut the Wanderer story is just beginning. It’s best not to forget that these adorable pups come from a species that once laid waste to civilization. \n\nRaise them well. Our closest allies can turn to devastating foes.\n\nFollow the growth of Wanderers on Twitter (@roemmorpg) to take your pet on interactive adventures and earn unique traits and abilities."
+  "description": "Meet your lifelong companion and powerful ally: The Wanderer. Your pet and its in-game abilities can evolve. Right now every Wanderer is a pup who will give their owners a carry weight bonus in the Realms of Ethernity game.\n\nBut the Wanderer story is just beginning. It’s best not to forget that these adorable pups come from a species that once laid waste to civilization. \n\nRaise them well. Our closest allies can turn to devastating foes.\n\nFollow the growth of Wanderers on Twitter (@roemmorpg) to take your pet on interactive adventures and earn unique traits and abilities.",
+  "erc721_symbol": "MOUNT"
 }

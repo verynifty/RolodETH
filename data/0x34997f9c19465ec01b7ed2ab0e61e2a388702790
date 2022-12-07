@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Cryptoshack Club",
   "imageUrl": "https://i.seadn.io/gae/0qMTKKfs5TnE8iUaYLrJ4k1vkHYKPVEfhvjgfEaQNGNm4YjIk0ou9NfNdAgxAaTDJzS6T3UJkqLp_LxsiUk6htmQg0BtQv3qfJ5X?w=500&auto=format",
   "externalUrl": "https://cryptoshack.club/#",
   "discordUrl": "https://discord.gg/cryptoshack",
   "twitterUsername": "cryptoshackclub",
-  "description": "ACTUAL OWNER COUNT: 1423 AS OF 05/12/2022. 79.5% STAKED\r\n\r\nCryptoshack is a collection of 5,855 fun-loving characters. Our community-driven project is a one-of-a-kind multi-dimensional play-to-earn game built on NFTWorlds by their top verified builder and our partners @entitybuilds. Multiple metaverses including an 18 hole golf course fully built and ready to play shortly after mint! Underground p2e world for our gophers. Golf, scavenger hunts, $WRLD token distribution.\r\n\r\nThe possibilities are truly endless inside of the Cryptoshack.\r\n\r\nManaged by https://cryptoshack.club\r\n\r\nLearn more in our whitepaper - https://crypto-shack.gitbook.io/cryptoshack-whitepaper/"
+  "description": "ACTUAL OWNER COUNT: 1423 AS OF 05/12/2022. 79.5% STAKED\r\n\r\nCryptoshack is a collection of 5,855 fun-loving characters. Our community-driven project is a one-of-a-kind multi-dimensional play-to-earn game built on NFTWorlds by their top verified builder and our partners @entitybuilds. Multiple metaverses including an 18 hole golf course fully built and ready to play shortly after mint! Underground p2e world for our gophers. Golf, scavenger hunts, $WRLD token distribution.\r\n\r\nThe possibilities are truly endless inside of the Cryptoshack.\r\n\r\nManaged by https://cryptoshack.club\r\n\r\nLearn more in our whitepaper - https://crypto-shack.gitbook.io/cryptoshack-whitepaper/",
+  "erc721_symbol": "SHACK"
 }

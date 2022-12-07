@@ -4,6 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gearbox",
     "snapshot-voter-uniswap",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
   ]
 }

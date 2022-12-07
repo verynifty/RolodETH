@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "AN IMPORTANT MEMORY FOR HUMANITY BY REFIK ANADOL",
   "imageUrl": "https://i.seadn.io/gae/yUIO5mWaHzRxV5pZWay_7R-mNVwv5tf_qucl2vAAzgo6eraATdf87L9DdHHcrRJxLAVaaDs7ZG_2I8DGDXKcOJBF6LB7HgtbWAi6rjQ?w=500&auto=format",
   "externalUrl": "http://nft.refikanadol.com",
   "discordUrl": "https://discord.gg/refikanadol",
   "twitterUsername": "refikanadol",
-  "description": "An Important Memory for Humanity is Refik Anadol’s groundbreaking limited-edition NFT collection that utilizes data from the world’s first all-civilian space flight. The collection presents a series of poetic data sculptures and paintings of the Inspiration4 mission. \r\n\t\r\nFor this collection, Anadol and his team interpreted data from SpaceX and NASA-funded research institute TRISH (Translational Research Institute for Space Health) on the effects of space travel on the human body. TRISH conducts cutting-edge research into the impact that the conditions in space have on the astronauts, with an attempt to reduce the health risks of venturing deeper into the universe.\r\n\r\nAnadol’s one-of-a-kind NFT collection not only reveals an insight into the challenges of space travel, but also contributes to a meaningful and purposeful cause to help solve critical health issues. 30% of all NFT sales will be donated to St Jude Children’s Research Hospital.\r\nIn collaboration with //CreativeWorkStudio."
+  "description": "An Important Memory for Humanity is Refik Anadol’s groundbreaking limited-edition NFT collection that utilizes data from the world’s first all-civilian space flight. The collection presents a series of poetic data sculptures and paintings of the Inspiration4 mission. \r\n\t\r\nFor this collection, Anadol and his team interpreted data from SpaceX and NASA-funded research institute TRISH (Translational Research Institute for Space Health) on the effects of space travel on the human body. TRISH conducts cutting-edge research into the impact that the conditions in space have on the astronauts, with an attempt to reduce the health risks of venturing deeper into the universe.\r\n\r\nAnadol’s one-of-a-kind NFT collection not only reveals an insight into the challenges of space travel, but also contributes to a meaningful and purposeful cause to help solve critical health issues. 30% of all NFT sales will be donated to St Jude Children’s Research Hospital.\r\nIn collaboration with //CreativeWorkStudio.",
+  "proxy": "0xe4e4003afe3765aca8149a82fc064c0b125b9e5a"
 }

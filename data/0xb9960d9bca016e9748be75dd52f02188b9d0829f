@@ -1,6 +1,7 @@
 {
   "tags": [
-    "dxdao"
+    "dxdao",
+    "contract"
   ],
   "name": "DXdao: Swapr Router"
 }

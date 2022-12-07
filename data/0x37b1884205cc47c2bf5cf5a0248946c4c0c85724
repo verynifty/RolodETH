@@ -4,6 +4,8 @@
     "snapshot-voter-sdcrv",
     "snapshot-voter-frax",
     "snapshot-voter-sdfxs",
-    "snapshot-voter-apwine"
+    "snapshot-voter-apwine",
+    "snapshot-voter-stakedao",
+    "snapshot-voter-palvote"
   ]
 }
