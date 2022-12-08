@@ -4,6 +4,7 @@
     "snapshot-voter-nyolings",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ]
 }

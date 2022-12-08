@@ -9,6 +9,8 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-ens",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-lido-snapshot"
   ]
 }

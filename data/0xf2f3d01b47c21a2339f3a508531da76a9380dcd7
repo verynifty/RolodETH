@@ -5,6 +5,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-ffdao",
     "snapshot-voter-nftx",
-    "snapshot-voter-abracadabrabymerlinthemagician"
+    "snapshot-voter-abracadabrabymerlinthemagician",
+    "snapshot-voter-gmx"
   ]
 }

@@ -3,5 +3,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-wmvotes",
     "snapshot-voter-interfacedao"
-  ]
+  ],
+  "ens": "atomdance.eth"
 }

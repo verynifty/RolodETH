@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "ZESC",
+  "erc20_decimals": 4,
+  "name": "ZesCoin"
+}

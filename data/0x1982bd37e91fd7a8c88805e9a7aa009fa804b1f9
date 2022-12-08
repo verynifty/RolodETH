@@ -11,7 +11,8 @@
     "snapshot-voter-tokenworld",
     "snapshot-voter-xec666",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-guildfiworld"
   ],
   "ens": "anuphan168.eth"
 }

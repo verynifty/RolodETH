@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-safe",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-kuiqian"
   ]
 }

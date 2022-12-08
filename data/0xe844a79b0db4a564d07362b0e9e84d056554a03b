@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

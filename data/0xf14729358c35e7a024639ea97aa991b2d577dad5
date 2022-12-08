@@ -2,6 +2,13 @@
   "tags": [
     "uniswapv3-lp",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-pooltogether",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-treasuredao"
   ]
 }

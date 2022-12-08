@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-gm365",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ]
 }

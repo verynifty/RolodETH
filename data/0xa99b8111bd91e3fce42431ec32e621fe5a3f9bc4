@@ -6,5 +6,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
     "snapshot-voter-comp-vote"
-  ]
+  ],
+  "ens": "todreamer.eth"
 }

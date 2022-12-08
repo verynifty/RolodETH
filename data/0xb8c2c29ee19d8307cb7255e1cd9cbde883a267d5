@@ -4,6 +4,7 @@
     "snapshot-voter",
     "snapshot-voter-ens",
     "opensea-user",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-nominations-ens"
   ]
 }

@@ -5,6 +5,7 @@
     "snapshot-voter-cow",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-alchemistcoin"
+    "snapshot-voter-alchemistcoin",
+    "snapshot-voter-aave"
   ]
 }

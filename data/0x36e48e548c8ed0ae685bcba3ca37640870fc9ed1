@@ -5,6 +5,7 @@
     "snapshot-voter-toubazi",
     "snapshot-voter-opcollective",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiqian"
   ]
 }

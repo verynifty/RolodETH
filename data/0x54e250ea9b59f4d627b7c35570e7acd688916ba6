@@ -6,6 +6,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-opcollective",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-immutablex"
   ]
 }

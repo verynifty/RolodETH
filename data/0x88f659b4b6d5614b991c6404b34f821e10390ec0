@@ -25,7 +25,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "jt603.eth"
 }

@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ]
 }

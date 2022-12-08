@@ -3,5 +3,6 @@
     "loot-minter",
     "cryptoadz-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "margincall.eth"
 }

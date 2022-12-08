@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Slyguise",
   "imageUrl": "https://i.seadn.io/gae/yTgxFV6Unu5Eno7A2woYbGD89u0V-TG489YgBCCpbD0mh7MVMVi9VN_O2aXBWjpJVn1nvv2On6H6lOUbQ3u0WyzaoTcAbwA0_YEglA?w=500&auto=format",
   "externalUrl": "https://www.slyguise.com",
   "discordUrl": "https://discord.gg/A9FCamB3NT",
   "twitterUsername": "SlyguiseNFT",
-  "description": "1000 hand drawn NFT powered by @slyflymccartney drawn by @elrokk and managed by @nftfreaks + 1000 token holders #slyguise"
+  "description": "1000 hand drawn NFT powered by @slyflymccartney drawn by @elrokk and managed by @nftfreaks + 1000 token holders #slyguise",
+  "erc721_symbol": "GUISE"
 }

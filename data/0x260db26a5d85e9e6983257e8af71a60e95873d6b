@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "doodle-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "tummyachejake.eth"
 }

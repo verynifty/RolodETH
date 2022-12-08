@@ -5,7 +5,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "kishibe.eth"
 }

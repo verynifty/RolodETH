@@ -1,6 +1,7 @@
 {
   "tags": [
-    "meebit-minter"
+    "meebit-minter",
+    "snapshot-voter-alchemixstakers"
   ],
   "ens": "ethacct.eth"
 }

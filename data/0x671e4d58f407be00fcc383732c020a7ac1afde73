@@ -4,7 +4,8 @@
     "snapshot-voter-fatcatsdao",
     "snapshot-voter-crowncapital",
     "opensea-user",
-    "snapshot-voter-tableland-rigs"
+    "snapshot-voter-tableland-rigs",
+    "snapshot-voter-apecoin"
   ],
   "ens": "dylanshub.eth"
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-hc333",
-    "snapshot-voter-1115116"
+    "snapshot-voter-1115116",
+    "snapshot-voter-lido-snapshot"
   ]
 }

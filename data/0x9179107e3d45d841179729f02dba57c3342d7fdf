@@ -14,6 +14,9 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-gnosis",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

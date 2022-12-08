@@ -6,7 +6,8 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-apecoin",
-    "snapshot-voter-foundersdao"
+    "snapshot-voter-foundersdao",
+    "snapshot-voter-friendswithbenefits"
   ],
   "ens": "vandy1518.eth"
 }

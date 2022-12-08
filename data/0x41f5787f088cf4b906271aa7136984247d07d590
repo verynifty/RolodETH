@@ -6,6 +6,9 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ]
 }

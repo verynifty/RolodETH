@@ -4,5 +4,6 @@
     "mayc-minter",
     "opensea-user",
     "snapshot-voter-foundersdao"
-  ]
+  ],
+  "ens": "inspector9.eth"
 }

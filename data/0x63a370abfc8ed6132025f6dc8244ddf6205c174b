@@ -10,7 +10,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-aavegotchi"
   ],
   "ens": "0xmoei.eth"
 }

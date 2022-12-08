@@ -9,7 +9,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "enstainb.eth"
 }

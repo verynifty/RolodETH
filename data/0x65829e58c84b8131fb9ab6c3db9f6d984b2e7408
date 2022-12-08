@@ -6,7 +6,10 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-ssyijiu",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "100nian.eth"
 }

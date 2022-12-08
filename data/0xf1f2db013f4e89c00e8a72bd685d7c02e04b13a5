@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "11888188.eth"
 }

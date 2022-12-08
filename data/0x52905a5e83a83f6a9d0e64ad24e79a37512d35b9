@@ -8,6 +8,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-gmx"
   ]
 }

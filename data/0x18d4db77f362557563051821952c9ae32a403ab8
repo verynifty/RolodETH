@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "The KittyButts",
   "imageUrl": "https://i.seadn.io/gae/NS10RNwteFl78CTj3ZaYQY9IXe97_53AbupHvOj-kXxaTw6hhqkaRxj4eozEr5Kzd95sg-r4Z7oIjpGhMn8HYmQLnVxlomXEhafOf4k?w=500&auto=format",
   "externalUrl": "https://www.thekittybutts.com/",
   "discordUrl": "https://discord.gg/yJHr8Msdzr",
   "twitterUsername": "TheKittyButts",
-  "description": "The KittyButts are 10,000 cute, sassy, and just a lil bit assy cats minted on the Ethereum blockchain. There are 41 colors, 23 furs and over 130 accessories. Our scientists have discovered a way to breed Kittybutts into new kittens known as FluffyButts! There will only ever be 2000 FluffyButts.\n\nThe FluffyButts OpenSea: https://opensea.io/collection/the-fluffybutts\n\nTo Breed KittyButts go to: https://breed.thekittybutts.com/kitty-breeder"
+  "description": "The KittyButts are 10,000 cute, sassy, and just a lil bit assy cats minted on the Ethereum blockchain. There are 41 colors, 23 furs and over 130 accessories. Our scientists have discovered a way to breed Kittybutts into new kittens known as FluffyButts! There will only ever be 2000 FluffyButts.\n\nThe FluffyButts OpenSea: https://opensea.io/collection/the-fluffybutts\n\nTo Breed KittyButts go to: https://breed.thekittybutts.com/kitty-breeder",
+  "erc721_symbol": "BUTTS"
 }

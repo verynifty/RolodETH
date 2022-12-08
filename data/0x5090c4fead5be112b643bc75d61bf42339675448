@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "meebit-minter",
     "writer",
-    "snapshot-voter-headlesschaos"
+    "snapshot-voter-headlesschaos",
+    "snapshot-voter-wmvotes"
   ],
   "name": "Mirror: Matthew Chaim"
 }

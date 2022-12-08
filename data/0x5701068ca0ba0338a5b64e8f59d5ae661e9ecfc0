@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-diadao",
     "sudoswap-user",
-    "snapshot-voter-jbdao"
+    "snapshot-voter-jbdao",
+    "snapshot-voter-vote-perp"
   ]
 }

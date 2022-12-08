@@ -1,5 +1,7 @@
 {
   "tags": [
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

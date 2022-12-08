@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
     "snapshot-voter-balancer",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "coinkey.eth"
 }

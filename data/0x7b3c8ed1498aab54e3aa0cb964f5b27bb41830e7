@@ -8,6 +8,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gnosis"
   ]
 }

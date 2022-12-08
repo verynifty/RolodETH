@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-stgdao",
-    "snapshot-voter-redactedcartel"
+    "snapshot-voter-redactedcartel",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "volador.eth"
 }

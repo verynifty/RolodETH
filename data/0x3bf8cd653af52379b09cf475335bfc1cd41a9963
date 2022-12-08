@@ -6,7 +6,9 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "web3add.eth"
 }

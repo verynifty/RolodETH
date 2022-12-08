@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "KING XEROX DROPS",
   "imageUrl": "https://i.seadn.io/gae/WmQOe8QRZETdb6uG0dygvSUN2qopmyQvct-gm8LUebJAA47zMNyliLcv4FYPQh6ojiNqkSkbqZ6lQ-mDdLjJi-Rv-Jjz0PlaULOStQ?w=500&auto=format",
   "discordUrl": "https://discord.gg/discord.gg/8WqEF6HtZS",
   "twitterUsername": "kingxerox5",
-  "description": "This is the place where I show gratitude... Holders of the 'ENVY' will get surprise airdrops!!!"
+  "description": "This is the place where I show gratitude... Holders of the 'ENVY' will get surprise airdrops!!!",
+  "proxy": "0x142fd5b9d67721efda3a5e2e9be47a96c9b724a4"
 }

@@ -23,6 +23,7 @@
     "snapshot-voter-alchemistcoin",
     "snapshot-voter-stakedao",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-dydxgov"
   ]
 }
