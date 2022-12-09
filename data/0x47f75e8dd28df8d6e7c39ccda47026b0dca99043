@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Staked Critterz",
   "imageUrl": "https://i.seadn.io/gae/oPveKNrIO6K6ucWX6_JIr2OHJ-slV0x8bx8FX_EMl5HM8rhs_bsZ5ubwaI7fIZgljtA466tS-5gxoMopXf-zcV_DHzsZPmv7O6Z4?w=500&auto=format",
   "externalUrl": "https://critterz.xyz",
   "discordUrl": "https://discord.gg/critterz",
   "twitterUsername": "CritterzMC",
-  "description": "**\r\nBUYING A STAKED CRITTER = YOU ARE RENTING A CRITTER FOR 1 WEEK\r\n\r\nCHECK DATE PROPERTY TO KNOW HOW MUCH TIME IS LEFT ON RENTALS\r\n\r\nBUYING CRITTER = BUYING CRITTER\r\n\r\nSELLING YOUR STAKED CRITTER = YOU RENTED OUT YOUR CRITTER AND NOW IT IS LOCKED IN STAKING FOR 1 WEEK\r\n\r\nWHEN YOU UNSTAKE YOUR CRITTER = YOU BURN THE sCRITTER. REGARDLESS OF HOLDER. AND RECEIVE CRITTER BACK.**\r\n\r\nThese are NOT the same as [Critterz NFTs](https://opensea.io/collection/critterznft). Rented Critterz also give access to the Critterz Minecraft world but generates less $BLOCK and only guarantees up to 7 days of access."
+  "description": "**\r\nBUYING A STAKED CRITTER = YOU ARE RENTING A CRITTER FOR 1 WEEK\r\n\r\nCHECK DATE PROPERTY TO KNOW HOW MUCH TIME IS LEFT ON RENTALS\r\n\r\nBUYING CRITTER = BUYING CRITTER\r\n\r\nSELLING YOUR STAKED CRITTER = YOU RENTED OUT YOUR CRITTER AND NOW IT IS LOCKED IN STAKING FOR 1 WEEK\r\n\r\nWHEN YOU UNSTAKE YOUR CRITTER = YOU BURN THE sCRITTER. REGARDLESS OF HOLDER. AND RECEIVE CRITTER BACK.**\r\n\r\nThese are NOT the same as [Critterz NFTs](https://opensea.io/collection/critterznft). Rented Critterz also give access to the Critterz Minecraft world but generates less $BLOCK and only guarantees up to 7 days of access.",
+  "proxy": "0x74a1f237794ac09f01605bb6e00791eaf1de7408"
 }

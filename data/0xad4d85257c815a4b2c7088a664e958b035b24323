@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DEZUKI",
   "imageUrl": "https://i.seadn.io/gae/kTVkggv5uEZ-AJkmjJEbJv82zAPOjwstfdcCtntIqtWjxmGGhs7ioLXPxdkj5KehTt9QZsINkwEEbqOuwC-85_kZvtziTXVl3MIO5g?w=500&auto=format",
   "externalUrl": "http://dezuki.com",
   "discordUrl": "https://discord.gg/zYBdyCmR6T",
   "twitterUsername": "DezukiOfficial",
-  "description": "DEZUKI reincarnates 8,888 Demonized Azukis deep down from the underworld, ready to rebel against the metaverse and pour darkness upon it.\r\n\r\nNot affiliated with Azuki."
+  "description": "DEZUKI reincarnates 8,888 Demonized Azukis deep down from the underworld, ready to rebel against the metaverse and pour darkness upon it.\r\n\r\nNot affiliated with Azuki.",
+  "erc721_symbol": "DEZUKI"
 }

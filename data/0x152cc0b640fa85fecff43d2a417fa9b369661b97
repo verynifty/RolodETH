@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Gino's Big Town Chef - Genesis Chefs",
   "imageUrl": "https://i.seadn.io/gcs/files/7aa3b24169bf288ec39a4a895759973b.png?w=500&auto=format",
   "externalUrl": "https://bigtownchef.com",
   "discordUrl": "https://discord.gg/bigtownchef",
   "twitterUsername": "BigTownChef",
-  "description": "A collection of 10,000 Genesis Chef NFTs – your ticket to Gino's Big Town Chef – a play-to-earn farming, trading and cook-off battle game by Gino D'Acampo. Genesis Chef NFTs boast forever unique visual properties, superior in-game skill attributes, are guaranteed Big Town Pets airdrops and Outlands sale spots, receive exclusive early game access, and much more to be revealed.\n\n✨ **Official Links** ✨\n\n👨🏻‍🍳  Gino's Big Town Chef - [Genesis Chefs](https://opensea.io/collection/ginos-big-town-chef-genesis-chefs)  👨🏻‍🍳\n\n💎  Gino's Big Town Chef - [Staking Reward Multipliers](https://opensea.io/collection/ginos-big-town-chef-townhall-rewards)  💎\n\n🎟  Gino's Big Town Chef - [Raffle Tickets](https://opensea.io/collection/ginos-big-town-chef-townhall-raffle)  🎟"
+  "description": "A collection of 10,000 Genesis Chef NFTs – your ticket to Gino's Big Town Chef – a play-to-earn farming, trading and cook-off battle game by Gino D'Acampo. Genesis Chef NFTs boast forever unique visual properties, superior in-game skill attributes, are guaranteed Big Town Pets airdrops and Outlands sale spots, receive exclusive early game access, and much more to be revealed.\n\n✨ **Official Links** ✨\n\n👨🏻‍🍳  Gino's Big Town Chef - [Genesis Chefs](https://opensea.io/collection/ginos-big-town-chef-genesis-chefs)  👨🏻‍🍳\n\n💎  Gino's Big Town Chef - [Staking Reward Multipliers](https://opensea.io/collection/ginos-big-town-chef-townhall-rewards)  💎\n\n🎟  Gino's Big Town Chef - [Raffle Tickets](https://opensea.io/collection/ginos-big-town-chef-townhall-raffle)  🎟",
+  "erc721_symbol": "CHEF"
 }

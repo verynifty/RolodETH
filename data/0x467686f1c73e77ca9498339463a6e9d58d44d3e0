@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Paperchaserz",
   "imageUrl": "https://i.seadn.io/gcs/files/3b72bfe7922522c8559a8e1696220eae.jpg?w=500&auto=format",
