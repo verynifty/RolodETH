@@ -10,5 +10,6 @@
   "externalUrl": "http://badbears.io",
   "discordUrl": "https://discord.gg/badbears",
   "twitterUsername": "badbearsmsk",
-  "description": "5,555 Bad Bears are taking over the Metaverse with a one-of-a-kind tokenized, ERC-721 based ecosystem built on the Ethereum blockchain.\n\n🐻\n\n###[Website](https://badbears.io) | [Discord](https://badbears.io/discord) | [Bad Cubs](https://opensea.io/collection/bear-labs) | [BeeFrens](https://opensea.io/collection/beefrens-official) | [Dashboard](https://app.badbears.io/all-bears)"
+  "description": "5,555 Bad Bears are taking over the Metaverse with a one-of-a-kind tokenized, ERC-721 based ecosystem built on the Ethereum blockchain.\n\n🐻\n\n###[Website](https://badbears.io) | [Discord](https://badbears.io/discord) | [Bad Cubs](https://opensea.io/collection/bear-labs) | [BeeFrens](https://opensea.io/collection/beefrens-official) | [Dashboard](https://app.badbears.io/all-bears)",
+  "erc721_symbol": "BADBEAR"
 }

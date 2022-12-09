@@ -3,7 +3,7 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "Bone",
+  "erc20_symbol": "VERSE",
   "erc20_decimals": 18,
-  "name": "Bone"
+  "name": "Verse"
 }
