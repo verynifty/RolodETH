@@ -4,5 +4,6 @@
     "clonex-minter",
     "otherdeed-minter",
     "mayc-minter"
-  ]
+  ],
+  "ens": "josemaddoxo.eth"
 }

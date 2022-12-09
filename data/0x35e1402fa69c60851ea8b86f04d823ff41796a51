@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Zodiac Capsules",
   "imageUrl": "https://i.seadn.io/gae/opzxyvOv0EduxtGDts-c7ewem-3-yC9SCxvbL-k9LGdjCVHLmsF9WIY3XVcXIQ4tDfH4nYR2SFMpyh3Ua19rZYFiOIwVcxPDcs7aAA?w=500&auto=format",
   "externalUrl": "https://capsulehouse.io",
   "discordUrl": "https://discord.gg/eZTKm6EBRq",
   "twitterUsername": "capsule_house",
-  "description": "The Zodiac Capsule collection is a supplementary collection launched in November 2021 as a free mint to Capsule House holders. A Zodiac can either be minted from a Capsule whose Zodiac has been unclaimed or bought on the secondary market. In order to unlock the utility of the hatched Capsule profile picture, you must hold a capsule from the original Capsule House collection. There are no current plans for Zodiac Capsule profile pictures."
+  "description": "The Zodiac Capsule collection is a supplementary collection launched in November 2021 as a free mint to Capsule House holders. A Zodiac can either be minted from a Capsule whose Zodiac has been unclaimed or bought on the secondary market. In order to unlock the utility of the hatched Capsule profile picture, you must hold a capsule from the original Capsule House collection. There are no current plans for Zodiac Capsule profile pictures.",
+  "erc721_symbol": "ZODIACCAPSULE"
 }

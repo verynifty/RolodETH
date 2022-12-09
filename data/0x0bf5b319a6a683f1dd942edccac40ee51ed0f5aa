@@ -4,5 +4,6 @@
     "moonbird-minter",
     "snapshot-voter-shellprotocol",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "apecalls.eth"
 }
