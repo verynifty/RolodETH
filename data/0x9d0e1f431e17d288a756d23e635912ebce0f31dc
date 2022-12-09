@@ -4,5 +4,6 @@
     "snapshot-voter-blockhubdao",
     "snapshot-voter-gmx",
     "opensea-user"
-  ]
+  ],
+  "ens": "rarius.eth"
 }

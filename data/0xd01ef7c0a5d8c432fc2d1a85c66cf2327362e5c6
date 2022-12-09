@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Ankr Reward Earning Staked ETH",
   "erc20_symbol": "AETHB",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18777/thumb/aETHb.png?1633402302"
+  "imageURL": "https://assets.coingecko.com/coins/images/18777/thumb/aETHb.png?1633402302",
+  "proxy": "0x10d0d468d350ab6c646f9d68e1f3b0cd6c43eabc"
 }

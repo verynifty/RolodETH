@@ -8,5 +8,6 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-goldfinch",
     "snapshot-voter-gearbox"
-  ]
+  ],
+  "ens": "defigenerate.eth"
 }

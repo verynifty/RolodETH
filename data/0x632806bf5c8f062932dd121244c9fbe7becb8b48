@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Phuture DeFi Index",
   "erc20_symbol": "PDI",

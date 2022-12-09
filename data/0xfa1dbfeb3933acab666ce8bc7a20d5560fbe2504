@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Crypto Beauties DAO",
   "imageUrl": "https://i.seadn.io/gae/FcTRoCXKuOdKXSkjuXq8OayLo1ZMwFbu9ydOgp3Vt5tzgGb6vh4jUXcmn7yCCQJnCTRbDA5OhuMvlMAYhBc6J14--2JWKk_P_A7yTFM?w=500&auto=format",
   "externalUrl": "http://cryptobeauties.io",
   "discordUrl": "https://discord.gg/cryptobeauties",
   "twitterUsername": "CryptoBeauties",
-  "description": "Minting directly from https://cryptobeauties.io/ will benefit our project the most, as more proceeds will go directly to our community-selected charities, Every Mother Counts and Girls Who Code.\n\nJoin our mission to help empower women & increase diversity in the NFT space! The project's DAO will further advance the communities' charter of diversity and inclusion.\n\ndiversity + inclusion + NFTs"
+  "description": "Minting directly from https://cryptobeauties.io/ will benefit our project the most, as more proceeds will go directly to our community-selected charities, Every Mother Counts and Girls Who Code.\n\nJoin our mission to help empower women & increase diversity in the NFT space! The project's DAO will further advance the communities' charter of diversity and inclusion.\n\ndiversity + inclusion + NFTs",
+  "erc721_symbol": "CRYPTOBEAUTIES"
 }

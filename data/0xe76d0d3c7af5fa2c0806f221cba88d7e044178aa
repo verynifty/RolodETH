@@ -16,5 +16,6 @@
     "snapshot-voter-poh",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "rexvergil.eth"
 }

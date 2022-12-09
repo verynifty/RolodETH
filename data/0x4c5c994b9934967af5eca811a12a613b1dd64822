@@ -8,5 +8,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "oblomnuba999000.eth"
 }

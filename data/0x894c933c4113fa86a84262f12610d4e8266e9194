@@ -17,5 +17,6 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-pistachiodao",
     "snapshot-voter-cakevote"
-  ]
+  ],
+  "ens": "moradi1990.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "The Lockeys",
   "imageUrl": "https://i.seadn.io/gcs/files/f11d1529505bc3d60b9e379f69db9c1a.gif?w=500&auto=format",
   "externalUrl": "https://the-lockeys.unlockd.finance/",
   "discordUrl": "https://discord.gg/unlockd",
   "twitterUsername": "Unlockd_Finance",
-  "description": "The Lockeys is a collection of 3,500 NFTs made up of 40 exciting pixel-art traits that bring to life the universe of Unlockd, the decentralized protocol that unlocks the full value of your NFTs.\n\n"
+  "description": "The Lockeys is a collection of 3,500 NFTs made up of 40 exciting pixel-art traits that bring to life the universe of Unlockd, the decentralized protocol that unlocks the full value of your NFTs.\n\n",
+  "proxy": "0xb714fc8a9ca84f6f1aab02a93056706fc8bc6114"
 }

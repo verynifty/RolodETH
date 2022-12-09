@@ -7,5 +7,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
     "snapshot-voter-apecoin"
-  ]
+  ],
+  "ens": "gotohome.eth"
 }

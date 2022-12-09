@@ -11,5 +11,6 @@
     "snapshot-voter-wumingqi",
     "snapshot-voter-via-exchange",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "sin3sin.eth"
 }

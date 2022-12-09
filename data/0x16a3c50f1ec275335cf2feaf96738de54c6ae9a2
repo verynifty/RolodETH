@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "sunmeta.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Isekai Battle",
   "imageUrl": "https://i.seadn.io/gcs/files/330047e0afda1f661d0006fcd1ca5d0c.gif?w=500&auto=format",
   "externalUrl": "https://isekai-battle.xyz/",
   "discordUrl": "https://discord.gg/isekaibattle",
   "twitterUsername": "Isekai_Battle",
-  "description": "\"Isekai Battle\" is a fully on-chain game on the Ethereum chain derived from Isekai Anime Characters.\r\n\"Fragments\"(NFT) of SINKI are scattered around Turkenista. Defeat your rivals and take their \"Fragments\"! Completing the SINKI by collecting \"Fragments\" will let you earn SINN tokens (ERC20).\r\n\r\n3 or more characters (NFT) are required to play the game."
+  "description": "\"Isekai Battle\" is a fully on-chain game on the Ethereum chain derived from Isekai Anime Characters.\r\n\"Fragments\"(NFT) of SINKI are scattered around Turkenista. Defeat your rivals and take their \"Fragments\"! Completing the SINKI by collecting \"Fragments\" will let you earn SINN tokens (ERC20).\r\n\r\n3 or more characters (NFT) are required to play the game.",
+  "erc721_symbol": "ISB"
 }

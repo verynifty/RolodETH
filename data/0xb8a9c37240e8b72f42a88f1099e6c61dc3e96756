@@ -12,5 +12,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "hohocc.eth"
 }

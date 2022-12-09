@@ -17,5 +17,6 @@
     "snapshot-voter-poh",
     "snapshot-voter-mail3",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "wsonanameservice.eth"
 }

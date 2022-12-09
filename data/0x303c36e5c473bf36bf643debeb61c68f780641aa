@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "doodle-minter",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "vigil.eth"
 }
