@@ -13,7 +13,10 @@
     "opensea-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "wolle.eth"
 }

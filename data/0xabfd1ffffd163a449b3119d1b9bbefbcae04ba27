@@ -8,6 +8,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-ens",
     "snapshot-voter-people-dao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

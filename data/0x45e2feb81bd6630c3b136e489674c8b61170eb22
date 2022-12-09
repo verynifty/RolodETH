@@ -4,6 +4,8 @@
     "snapshot-voter-gmx",
     "opensea-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-interfacedao"
+    "snapshot-voter-interfacedao",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ]
 }

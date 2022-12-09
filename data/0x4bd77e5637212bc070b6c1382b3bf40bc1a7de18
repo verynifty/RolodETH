@@ -9,6 +9,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-aave",
     "snapshot-voter-gearbox",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ]
 }

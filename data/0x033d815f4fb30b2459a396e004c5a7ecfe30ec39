@@ -13,7 +13,9 @@
     "opensea-user",
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-immutablex"
+    "snapshot-voter-immutablex",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "ansor.eth"
 }

@@ -18,6 +18,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-people-dao",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

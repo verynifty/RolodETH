@@ -10,6 +10,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-nestecosystem",
     "snapshot-voter-mail3",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

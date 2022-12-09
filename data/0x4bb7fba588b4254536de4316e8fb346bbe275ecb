@@ -5,6 +5,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-balancer"
   ]
 }

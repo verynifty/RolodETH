@@ -16,6 +16,7 @@
     "snapshot-voter-goldfinch",
     "snapshot-voter-sismo",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

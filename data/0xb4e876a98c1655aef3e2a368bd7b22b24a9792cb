@@ -12,6 +12,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-friendswithbenefits",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-shapeshiftdao"
   ]
 }

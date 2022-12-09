@@ -6,7 +6,8 @@
     "snapshot-voter-noxbeyond",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "triad1760.eth"
 }

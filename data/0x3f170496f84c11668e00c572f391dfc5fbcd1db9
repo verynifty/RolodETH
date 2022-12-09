@@ -11,6 +11,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-balancer",
     "snapshot-voter-mail3",
-    "snapshot-voter-vnetwork"
+    "snapshot-voter-vnetwork",
+    "snapshot-voter-opcollective"
   ]
 }

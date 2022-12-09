@@ -11,6 +11,8 @@
     "snapshot-voter-gmx",
     "opensea-user",
     "snapshot-voter-jbdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-opcollective"
   ]
 }

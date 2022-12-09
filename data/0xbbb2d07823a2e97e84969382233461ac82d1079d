@@ -5,7 +5,8 @@
     "snapshot-voter-lido-snapshot",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave"
   ],
   "ens": "xieqiong510.eth"
 }

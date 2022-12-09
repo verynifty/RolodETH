@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

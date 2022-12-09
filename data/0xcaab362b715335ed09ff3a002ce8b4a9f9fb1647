@@ -5,6 +5,7 @@
     "snapshot-voter-ybaby",
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-yokaiswap",
     "snapshot-voter-aave",
     "snapshot-voter-tomoondao",
-    "snapshot-voter-shellprotocol"
+    "snapshot-voter-shellprotocol",
+    "snapshot-voter-kuiqian"
   ]
 }

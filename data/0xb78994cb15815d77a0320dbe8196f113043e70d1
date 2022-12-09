@@ -8,7 +8,8 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "jofe.eth"
 }

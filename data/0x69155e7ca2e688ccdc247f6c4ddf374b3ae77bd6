@@ -3,7 +3,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave"
   ],
   "ens": "mrbang.eth"
 }

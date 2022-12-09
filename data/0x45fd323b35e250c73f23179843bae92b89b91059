@@ -8,6 +8,7 @@
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-kuiclub"
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ]
 }

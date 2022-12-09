@@ -7,6 +7,8 @@
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ]
 }

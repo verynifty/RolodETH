@@ -9,6 +9,7 @@
     "sudoswap-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

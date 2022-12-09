@@ -12,6 +12,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ]
 }

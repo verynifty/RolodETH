@@ -1,6 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0x2130.eth"
 }

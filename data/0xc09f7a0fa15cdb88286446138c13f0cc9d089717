@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-pyedao"
+  ],
   "ens": "ofeefee.eth"
 }

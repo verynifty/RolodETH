@@ -7,6 +7,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-stgdao",
     "snapshot-voter-pranjalbora",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ]
 }

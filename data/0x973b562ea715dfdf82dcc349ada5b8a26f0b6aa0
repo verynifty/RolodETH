@@ -3,6 +3,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-via-exchange",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ]
 }

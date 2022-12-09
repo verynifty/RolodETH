@@ -8,6 +8,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-mail3",
     "snapshot-voter-ybaby",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

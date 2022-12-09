@@ -4,6 +4,7 @@
     "snapshot-voter-dangong",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ]
 }

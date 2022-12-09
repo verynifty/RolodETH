@@ -3,6 +3,7 @@
     "hashmask-minter",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-treasuredao"
   ]
 }

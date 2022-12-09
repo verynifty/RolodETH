@@ -6,6 +6,9 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-opcollective"
   ]
 }

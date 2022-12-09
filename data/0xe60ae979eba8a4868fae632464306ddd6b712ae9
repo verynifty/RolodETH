@@ -5,6 +5,7 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-treasuredao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-vote-vitadao",
-    "snapshot-voter-ffdao"
+    "snapshot-voter-ffdao",
+    "snapshot-voter-opcollective"
   ]
 }

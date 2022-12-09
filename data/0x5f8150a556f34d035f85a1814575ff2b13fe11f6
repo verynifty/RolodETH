@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-aave",
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

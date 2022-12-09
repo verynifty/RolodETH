@@ -4,6 +4,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
     "snapshot-voter-etherscoredao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

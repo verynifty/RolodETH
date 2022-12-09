@@ -22,7 +22,8 @@
     "snapshot-voter-vestafinance",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ],
   "ens": "puchki.eth"
 }

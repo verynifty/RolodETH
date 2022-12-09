@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "clonex-minter",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

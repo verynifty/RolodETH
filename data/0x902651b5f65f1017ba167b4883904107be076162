@@ -8,6 +8,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-people-dao",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-opcollective"
   ]
 }

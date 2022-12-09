@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-friendswithbenefits",
     "snapshot-voter-theidols",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-evmaverick"
   ],
   "ens": "scottrepreneur.eth"
 }

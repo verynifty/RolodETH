@@ -5,6 +5,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-aave",
     "snapshot-voter-apecoin",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gearbox"
   ]
 }

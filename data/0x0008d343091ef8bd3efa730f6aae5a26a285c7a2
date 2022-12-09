@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "cyber-kong-minter",
     "cryptoadz-minter",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-immutablex"
   ],
   "ens": "stronghands.eth"
 }

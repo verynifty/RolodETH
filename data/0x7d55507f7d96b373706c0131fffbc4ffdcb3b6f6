@@ -11,6 +11,8 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ]
 }

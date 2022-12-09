@@ -14,7 +14,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-poh",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-yokaiswap"
   ],
   "ens": "cryptoinformer.eth"
 }

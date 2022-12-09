@@ -11,7 +11,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ],
   "ens": "thefinalcut.eth"
 }

@@ -1,5 +1,9 @@
 {
   "tags": [
-    "snapshot-voter-xtarot"
+    "snapshot-voter-xtarot",
+    "snapshot-voter-aave",
+    "snapshot-voter-shapeshiftdao",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-gearbox"
   ]
 }

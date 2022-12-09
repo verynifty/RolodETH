@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-ybaby",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

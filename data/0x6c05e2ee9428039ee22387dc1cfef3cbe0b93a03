@@ -1,7 +1,11 @@
 {
   "tags": [
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ],
   "ens": "musavvir.eth"
 }

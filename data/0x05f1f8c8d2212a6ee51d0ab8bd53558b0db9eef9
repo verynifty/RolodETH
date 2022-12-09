@@ -6,7 +6,10 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-nestecosystem"
+    "snapshot-voter-nestecosystem",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-derify",
+    "snapshot-voter-gmx"
   ],
   "ens": "martianmel86.eth"
 }

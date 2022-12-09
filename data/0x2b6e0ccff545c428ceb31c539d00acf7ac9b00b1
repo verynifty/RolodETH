@@ -2,6 +2,7 @@
   "tags": [
     "sudoswap-user",
     "snapshot-voter-aave",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-opcollective"
   ]
 }

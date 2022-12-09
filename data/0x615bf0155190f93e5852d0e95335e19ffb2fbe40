@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "gasfi.eth"
 }

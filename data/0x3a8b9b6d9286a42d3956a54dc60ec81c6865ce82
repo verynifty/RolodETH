@@ -7,6 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
-    "snapshot-voter-alpacafinance"
+    "snapshot-voter-alpacafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-apecoin"
   ]
 }

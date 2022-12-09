@@ -10,6 +10,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

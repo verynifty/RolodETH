@@ -17,6 +17,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-spookyswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

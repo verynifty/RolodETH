@@ -9,7 +9,9 @@
     "sudoswap-user",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-opcollective"
   ],
   "ens": "cryptogangster.eth"
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-derify",
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective"
   ]
 }

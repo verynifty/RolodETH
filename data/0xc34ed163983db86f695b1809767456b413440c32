@@ -8,6 +8,8 @@
     "sudoswap-user",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -14,6 +14,7 @@
     "snapshot-voter-via-exchange",
     "snapshot-voter-gearbox",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot"
   ]
 }

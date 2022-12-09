@@ -9,7 +9,8 @@
     "snapshot-voter-sismo",
     "opensea-user",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "vzlot.eth"
 }

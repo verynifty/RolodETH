@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "opensea-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-gmx"
   ]
 }

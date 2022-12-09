@@ -9,6 +9,7 @@
     "snapshot-voter-tomoondao",
     "sudoswap-user",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

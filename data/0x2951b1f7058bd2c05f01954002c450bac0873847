@@ -17,7 +17,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-gearbox",
     "snapshot-voter-stgdao",
-    "snapshot-voter-aurafinance"
+    "snapshot-voter-aurafinance",
+    "snapshot-voter-conic-dao"
   ],
   "ens": "0xparasitic.eth"
 }

@@ -12,6 +12,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-ybaby",
     "snapshot-voter-mail3",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -3,6 +3,7 @@
     "opensea-user",
     "snapshot-voter-mail3",
     "snapshot-voter-huwacoin",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot"
   ]
 }

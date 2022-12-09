@@ -6,7 +6,8 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-pooltogether",
     "opensea-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "bykur.eth"
 }

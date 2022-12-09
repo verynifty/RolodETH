@@ -17,6 +17,7 @@
     "snapshot-voter-loopringdao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gnosis",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-luchadores"
   ]
 }

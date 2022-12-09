@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ],
   "ens": "linsiwo.eth"
 }

@@ -7,7 +7,8 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "a1920.eth"
 }

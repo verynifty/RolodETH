@@ -3,6 +3,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-deviltown"
+    "snapshot-voter-deviltown",
+    "snapshot-voter-opcollective"
   ]
 }

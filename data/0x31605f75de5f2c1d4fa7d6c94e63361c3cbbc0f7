@@ -1,5 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

@@ -5,7 +5,9 @@
     "snapshot-voter-interfacedao",
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zebrozavr.eth"
 }

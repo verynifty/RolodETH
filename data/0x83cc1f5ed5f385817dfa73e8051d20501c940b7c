@@ -3,6 +3,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ]
 }

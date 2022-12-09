@@ -7,6 +7,8 @@
     "snapshot-voter-swaprsnapshot",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ]
 }

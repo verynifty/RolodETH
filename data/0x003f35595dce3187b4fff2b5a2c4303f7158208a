@@ -6,7 +6,8 @@
     "hashmask-minter",
     "otherdeed-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-council-bibliotheca"
   ],
   "ens": "0x003.eth"
 }

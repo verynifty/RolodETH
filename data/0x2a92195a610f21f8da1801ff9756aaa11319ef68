@@ -11,6 +11,7 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-hakka",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-treasuredao"
   ]
 }

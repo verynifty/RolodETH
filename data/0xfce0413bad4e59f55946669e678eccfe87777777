@@ -9,7 +9,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-gal",
     "opensea-user",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-gearbox"
   ],
   "ens": "notverysmartmoney.eth"
 }

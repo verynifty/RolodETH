@@ -5,6 +5,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-kwenta"
+    "snapshot-voter-kwenta",
+    "snapshot-voter-opcollective"
   ]
 }

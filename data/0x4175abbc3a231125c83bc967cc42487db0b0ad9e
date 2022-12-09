@@ -12,6 +12,7 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

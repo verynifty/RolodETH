@@ -19,7 +19,9 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "blokslabs.eth"
 }

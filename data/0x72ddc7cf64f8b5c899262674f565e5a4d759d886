@@ -5,6 +5,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-comp-vote",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-opcollective"
   ]
 }

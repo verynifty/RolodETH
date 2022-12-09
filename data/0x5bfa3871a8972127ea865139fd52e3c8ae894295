@@ -4,7 +4,8 @@
     "snapshot-voter-anglegovernance",
     "snapshot-voter-cakevote",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "mrpayer.eth"
 }

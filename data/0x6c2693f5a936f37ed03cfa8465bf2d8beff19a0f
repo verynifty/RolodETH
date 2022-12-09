@@ -4,6 +4,7 @@
     "snapshot-voter-tetu",
     "snapshot-voter-qidao",
     "snapshot-voter-balancer",
-    "snapshot-voter-cvx"
+    "snapshot-voter-cvx",
+    "snapshot-voter-conic-dao"
   ]
 }

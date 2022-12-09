@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-uniswap",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-aave"
   ],
   "ens": "26061995.eth"
 }

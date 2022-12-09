@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "hanson1518.eth"
 }

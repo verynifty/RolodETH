@@ -6,6 +6,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-mavxyz",
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-small-grants",
+    "snapshot-voter-opcollective"
   ]
 }

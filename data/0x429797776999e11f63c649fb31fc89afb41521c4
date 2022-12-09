@@ -7,6 +7,7 @@
     "sudoswap-user",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
-    "snapshot-voter-ens"
+    "snapshot-voter-ens",
+    "snapshot-voter-opcollective"
   ]
 }

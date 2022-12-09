@@ -12,7 +12,8 @@
     "snapshot-voter-yokaiswap",
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "arbitrumeth.eth"
 }

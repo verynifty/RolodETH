@@ -23,6 +23,7 @@
     "snapshot-voter-loopringdao",
     "snapshot-voter-alchemistcoin",
     "snapshot-voter-stakedao",
-    "snapshot-voter-quickvote"
+    "snapshot-voter-quickvote",
+    "snapshot-voter-opcollective"
   ]
 }

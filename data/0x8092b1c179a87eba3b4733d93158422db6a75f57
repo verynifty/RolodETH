@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "manojyadav.eth"
 }

@@ -14,7 +14,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
     "snapshot-voter-toniya",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "202110.eth"
 }

@@ -11,6 +11,9 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ]
 }

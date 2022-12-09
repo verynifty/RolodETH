@@ -12,7 +12,8 @@
     "snapshot-voter-xec666",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
-    "snapshot-voter-guildfiworld"
+    "snapshot-voter-guildfiworld",
+    "snapshot-voter-apecoin"
   ],
   "ens": "anuphan168.eth"
 }

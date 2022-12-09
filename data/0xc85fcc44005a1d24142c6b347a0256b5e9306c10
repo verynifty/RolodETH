@@ -15,7 +15,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-gearbox",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "gzheth.eth"
 }

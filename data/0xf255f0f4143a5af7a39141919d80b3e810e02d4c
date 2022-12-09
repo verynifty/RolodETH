@@ -9,7 +9,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-via-exchange",
     "snapshot-voter-mail3",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-balancer",
+    "snapshot-voter-opcollective"
   ],
   "ens": "marutsya.eth"
 }

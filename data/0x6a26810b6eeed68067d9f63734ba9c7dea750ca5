@@ -8,7 +8,8 @@
     "sudoswap-user",
     "snapshot-voter-nation3",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "metaatem.eth"
 }

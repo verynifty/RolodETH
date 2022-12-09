@@ -13,6 +13,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
     "snapshot-voter-gal",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

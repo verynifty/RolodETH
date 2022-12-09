@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-perp-temp-check"
+    "snapshot-voter-perp-temp-check",
+    "snapshot-voter-vote-perp"
   ]
 }

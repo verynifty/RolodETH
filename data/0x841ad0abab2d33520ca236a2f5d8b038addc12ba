@@ -8,7 +8,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-tempusgov",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ],
   "ens": "cardenas.eth"
 }

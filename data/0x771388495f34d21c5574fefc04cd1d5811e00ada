@@ -11,7 +11,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "opensea-user",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zmaxx.eth"
 }

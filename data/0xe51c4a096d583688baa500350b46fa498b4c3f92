@@ -9,6 +9,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-qidao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-quickvote"
+    "snapshot-voter-quickvote",
+    "snapshot-voter-hop"
   ]
 }

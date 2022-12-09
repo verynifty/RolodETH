@@ -3,6 +3,7 @@
     "snapshot-voter-daocity",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-dydxgov"
   ]
 }

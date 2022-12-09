@@ -3,7 +3,8 @@
     "snapshot-voter",
     "snapshot-voter-zksync-dao",
     "snapshot-voter-ens",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-nominations-ens"
   ],
   "ens": "slobo.eth"
 }

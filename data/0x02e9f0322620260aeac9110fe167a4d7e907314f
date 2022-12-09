@@ -10,6 +10,7 @@
     "snapshot-voter-mail3",
     "opensea-user",
     "snapshot-voter-cakevote",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-aave"
   ]
 }

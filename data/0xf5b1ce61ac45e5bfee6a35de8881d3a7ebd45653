@@ -9,6 +9,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-gearbox",
     "snapshot-voter-tempusgov",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-gmx"
   ]
 }

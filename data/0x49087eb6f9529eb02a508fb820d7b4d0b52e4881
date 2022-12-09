@@ -12,6 +12,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-people-dao",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-ffdao"
+    "snapshot-voter-ffdao",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -15,7 +15,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-people-dao",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "a3eth.eth"
 }

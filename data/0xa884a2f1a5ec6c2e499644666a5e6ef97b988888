@@ -12,7 +12,9 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "ethnbb.eth"
 }

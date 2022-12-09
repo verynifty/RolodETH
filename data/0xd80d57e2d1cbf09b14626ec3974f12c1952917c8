@@ -13,6 +13,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-ybaby",
     "snapshot-voter-aavegotchi",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,7 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-apecoin",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ]
 }

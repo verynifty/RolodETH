@@ -6,6 +6,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-daocity",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ]
 }

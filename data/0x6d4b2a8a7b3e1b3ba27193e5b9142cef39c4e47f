@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "snapshot-voter-kuiclub",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ]
 }

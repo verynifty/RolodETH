@@ -3,6 +3,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-deviltown"
   ]
 }

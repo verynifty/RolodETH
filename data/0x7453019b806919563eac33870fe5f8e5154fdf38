@@ -16,6 +16,7 @@
     "snapshot-voter-kwenta",
     "snapshot-voter-sismo",
     "snapshot-voter-qidao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -3,6 +3,7 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "opensea-user",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ]
 }

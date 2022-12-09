@@ -2,7 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ],
   "ens": "stanny228.eth"
 }

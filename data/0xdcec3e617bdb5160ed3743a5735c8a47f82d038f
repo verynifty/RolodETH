@@ -4,7 +4,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zonbase.eth"
 }

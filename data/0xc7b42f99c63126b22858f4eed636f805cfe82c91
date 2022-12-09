@@ -6,7 +6,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
     "sudoswap-user",
-    "snapshot-voter-morpho"
+    "snapshot-voter-morpho",
+    "snapshot-voter-beanstalkdao"
   ],
   "ens": "eth🦇🔊.eth"
 }

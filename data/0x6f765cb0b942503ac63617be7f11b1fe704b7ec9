@@ -8,7 +8,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-apecoin",
     "snapshot-voter-aave",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "yicheng2345.eth"
 }

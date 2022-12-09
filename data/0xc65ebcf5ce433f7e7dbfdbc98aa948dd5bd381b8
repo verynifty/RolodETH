@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-yam",
     "opensea-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "techno4ever.eth"
 }

@@ -1,7 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "20211021.eth"
 }

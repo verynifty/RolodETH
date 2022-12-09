@@ -12,6 +12,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-0xgov",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

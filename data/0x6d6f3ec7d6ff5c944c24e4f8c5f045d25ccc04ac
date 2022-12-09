@@ -3,7 +3,8 @@
     "opensea-user",
     "snapshot-voter-gmx",
     "snapshot-voter-sismo",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao"
   ],
   "ens": "j37r0n.eth"
 }

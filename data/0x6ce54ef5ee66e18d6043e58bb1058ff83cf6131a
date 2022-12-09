@@ -4,7 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-opcollective"
   ],
   "ens": "famichiki.eth"
 }

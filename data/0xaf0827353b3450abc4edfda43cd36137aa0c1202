@@ -3,6 +3,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-comp-vote",
     "snapshot-voter-zhiihz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

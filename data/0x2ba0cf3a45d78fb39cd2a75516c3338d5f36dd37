@@ -13,6 +13,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-interfacedao",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave"
   ]
 }

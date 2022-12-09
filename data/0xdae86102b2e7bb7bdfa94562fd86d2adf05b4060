@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-deviltown"
+    "snapshot-voter-deviltown",
+    "snapshot-voter-opcollective"
   ]
 }

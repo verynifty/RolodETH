@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-opcollective"
+  ],
   "ens": "onchainindia.eth"
 }

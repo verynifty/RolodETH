@@ -6,7 +6,8 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-via-exchange",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-cakevote"
   ],
   "ens": "omvruss.eth"
 }

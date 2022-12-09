@@ -6,7 +6,9 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "229928.229928.eth"
 }

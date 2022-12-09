@@ -3,7 +3,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-gmx",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-stgdao"
   ],
   "ens": "onenova.eth"
 }

@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-streamr"
+    "snapshot-voter-streamr",
+    "snapshot-voter-opcollective"
   ]
 }

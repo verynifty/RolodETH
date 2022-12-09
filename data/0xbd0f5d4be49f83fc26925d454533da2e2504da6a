@@ -1,6 +1,7 @@
 {
   "tags": [
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-friendswithbenefits"
   ],
   "ens": "slowtx.eth"
 }

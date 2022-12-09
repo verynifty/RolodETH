@@ -7,6 +7,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-kuiclub",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ]
 }

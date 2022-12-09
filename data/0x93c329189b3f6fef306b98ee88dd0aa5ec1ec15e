@@ -4,7 +4,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-gearbox",
     "snapshot-voter-uniswap",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "a10degen.eth"
 }

@@ -9,6 +9,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-riverfriends",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

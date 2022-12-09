@@ -13,6 +13,7 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-treasuredao",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

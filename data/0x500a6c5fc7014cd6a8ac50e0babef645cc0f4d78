@@ -1,6 +1,7 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-paraswap-dao"
   ]
 }

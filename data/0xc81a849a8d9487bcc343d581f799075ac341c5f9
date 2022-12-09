@@ -4,6 +4,7 @@
     "coolcat-minter",
     "otherdeed-minter",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-council-bibliotheca"
   ]
 }

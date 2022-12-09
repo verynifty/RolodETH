@@ -10,6 +10,7 @@
     "sudoswap-user",
     "snapshot-voter-aave",
     "snapshot-voter-morpho",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

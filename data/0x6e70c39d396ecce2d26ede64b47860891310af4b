@@ -3,7 +3,8 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-poh",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-aave"
   ],
   "ens": "coinsgrid.eth"
 }

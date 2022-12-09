@@ -4,7 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "microsd.eth"
 }

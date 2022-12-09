@@ -5,6 +5,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiclub"
   ]
 }

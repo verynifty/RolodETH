@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-uniswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "qerty.eth"
 }

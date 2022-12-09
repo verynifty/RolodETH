@@ -15,7 +15,8 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "maocheng.eth"
 }

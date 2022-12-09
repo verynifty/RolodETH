@@ -6,7 +6,9 @@
     "snapshot-voter-sismo",
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aavegotchi"
   ],
   "ens": "slippy87.eth"
 }

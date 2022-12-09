@@ -16,6 +16,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
     "snapshot-voter-alpacafinance",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

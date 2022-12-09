@@ -10,7 +10,8 @@
     "snapshot-voter-gro-xyz",
     "snapshot-voter-aave",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ],
   "ens": "gusha.eth"
 }

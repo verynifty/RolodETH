@@ -1,7 +1,8 @@
 {
   "tags": [
     "otherdeed-minter",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-seizerdao"
   ],
   "ens": "btc1337.eth"
 }

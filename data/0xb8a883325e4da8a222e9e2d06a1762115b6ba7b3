@@ -6,6 +6,10 @@
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
     "snapshot-voter-cvx",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-jbdao",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-lido-snapshot"
   ]
 }

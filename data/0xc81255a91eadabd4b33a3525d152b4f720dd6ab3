@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-liveartxevent",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian"
   ]
 }

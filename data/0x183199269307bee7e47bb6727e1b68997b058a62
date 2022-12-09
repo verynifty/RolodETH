@@ -6,7 +6,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-pantherprotocol"
+    "snapshot-voter-pantherprotocol",
+    "snapshot-voter-opcollective"
   ],
   "ens": "topcryptoschool.eth"
 }

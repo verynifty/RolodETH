@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-uniswap",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-opcollective"
   ]
 }

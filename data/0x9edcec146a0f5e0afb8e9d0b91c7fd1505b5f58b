@@ -4,7 +4,8 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-toniya"
+    "snapshot-voter-toniya",
+    "snapshot-voter-opcollective"
   ],
   "ens": "fuckpoap.eth"
 }

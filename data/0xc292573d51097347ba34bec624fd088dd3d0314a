@@ -10,6 +10,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-apecoin",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian"
   ]
 }

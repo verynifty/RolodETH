@@ -5,7 +5,8 @@
     "snapshot-voter-kleros",
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-olympusdao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-stakedao"
   ],
   "ens": "cancelmoney.eth"
 }

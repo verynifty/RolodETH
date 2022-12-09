@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

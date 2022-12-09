@@ -5,7 +5,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-dydxgov",
     "snapshot-voter-lgcryptounicorns",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ],
   "ens": "fotsolka.eth"
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-gitcoindao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-nation3"
+    "snapshot-voter-nation3",
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -5,6 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-balancer",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ]
 }

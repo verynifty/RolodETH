@@ -5,7 +5,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "poapy.eth"
 }

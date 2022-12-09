@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-yoroi",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-nftfinance",
+    "snapshot-voter-opcollective"
   ]
 }

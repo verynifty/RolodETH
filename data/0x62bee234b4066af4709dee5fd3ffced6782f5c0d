@@ -10,6 +10,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-moonbeam-foundation"
   ]
 }

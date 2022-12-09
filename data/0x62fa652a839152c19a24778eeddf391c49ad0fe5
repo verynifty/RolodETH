@@ -4,6 +4,7 @@
     "sudoswap-user",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
-    "snapshot-voter-liveartxevent"
+    "snapshot-voter-liveartxevent",
+    "snapshot-voter-opcollective"
   ]
 }

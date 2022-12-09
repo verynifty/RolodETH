@@ -10,7 +10,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "nickpro.eth"
 }

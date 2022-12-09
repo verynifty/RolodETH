@@ -15,7 +15,9 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-kuiclub",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "neverless008.eth"
 }

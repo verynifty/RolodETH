@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-layer2dao-org",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "ipetkov.eth"
 }

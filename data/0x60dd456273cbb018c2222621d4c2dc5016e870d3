@@ -12,6 +12,7 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-morpho",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

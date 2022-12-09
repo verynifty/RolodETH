@@ -9,7 +9,10 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ],
   "ens": "台灣共和國.eth"
 }

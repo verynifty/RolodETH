@@ -13,6 +13,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
     "snapshot-voter-xec666",
-    "snapshot-voter-piedao"
+    "snapshot-voter-piedao",
+    "snapshot-voter-opcollective"
   ]
 }

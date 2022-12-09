@@ -20,7 +20,8 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mail3",
     "snapshot-voter-kleros",
-    "snapshot-voter-olympusdao"
+    "snapshot-voter-olympusdao",
+    "snapshot-voter-lido-snapshot"
   ],
   "ens": "arshiags.eth"
 }

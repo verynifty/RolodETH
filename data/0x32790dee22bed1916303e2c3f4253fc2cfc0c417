@@ -4,7 +4,8 @@
     "take-action",
     "snapshot-voter-sushigov",
     "sudoswap-user",
-    "snapshot-voter-genesisproject"
+    "snapshot-voter-genesisproject",
+    "snapshot-voter-council-bibliotheca"
   ],
   "name": "Multichain Hack Alert 3163",
   "ens": "tianranzhang.eth"

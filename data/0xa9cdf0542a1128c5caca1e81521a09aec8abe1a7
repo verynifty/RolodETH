@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "meebit-minter",
     "sudoswap-user",
-    "snapshot-voter-genesisproject"
+    "snapshot-voter-genesisproject",
+    "snapshot-voter-council-bibliotheca"
   ]
 }

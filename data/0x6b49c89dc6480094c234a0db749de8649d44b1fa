@@ -8,7 +8,8 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "project-moon.eth"
 }

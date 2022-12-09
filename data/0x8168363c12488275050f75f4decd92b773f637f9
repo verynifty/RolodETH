@@ -8,7 +8,9 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-stgdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "metacfo.eth"
 }

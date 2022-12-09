@@ -21,7 +21,8 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-interfacedao",
-    "snapshot-voter-ybaby"
+    "snapshot-voter-ybaby",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0x00eth.eth"
 }

@@ -3,6 +3,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "allonszy.eth"
 }

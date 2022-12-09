@@ -8,6 +8,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-people-dao",
     "snapshot-voter-comp-vote",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

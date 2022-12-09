@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gmx",
     "snapshot-voter-poh",
-    "snapshot-voter-cow"
+    "snapshot-voter-cow",
+    "snapshot-voter-gnosis"
   ]
 }

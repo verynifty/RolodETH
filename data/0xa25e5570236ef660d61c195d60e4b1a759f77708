@@ -7,6 +7,9 @@
     "snapshot-voter-toubazi",
     "snapshot-voter-gal",
     "snapshot-voter-opcollective",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-lido-snapshot"
   ]
 }

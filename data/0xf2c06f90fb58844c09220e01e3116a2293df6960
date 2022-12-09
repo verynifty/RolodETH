@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "mayc-minter",
     "sudoswap-user",
-    "snapshot-voter-tableland-rigs"
+    "snapshot-voter-tableland-rigs",
+    "snapshot-voter-council-bibliotheca"
   ],
   "ens": "sungjae.eth"
 }

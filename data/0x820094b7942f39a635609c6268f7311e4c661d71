@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-metislayer2"
+    "snapshot-voter-metislayer2",
+    "snapshot-voter-opcollective"
   ]
 }

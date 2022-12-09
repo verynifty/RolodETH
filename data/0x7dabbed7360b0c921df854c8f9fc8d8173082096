@@ -6,7 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-daocity",
     "snapshot-voter-shellprotocol",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective"
   ],
   "ens": "okies.eth"
 }

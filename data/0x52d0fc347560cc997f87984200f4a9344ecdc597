@@ -8,6 +8,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-bitdao",
     "snapshot-voter-gro-xyz",
-    "snapshot-voter-neworderdao-xyz"
+    "snapshot-voter-neworderdao-xyz",
+    "snapshot-voter-immutablex",
+    "snapshot-voter-opcollective"
   ]
 }

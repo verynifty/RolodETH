@@ -10,7 +10,8 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ],
   "ens": "tyelf.eth"
 }

@@ -9,7 +9,8 @@
     "sudoswap-user",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-kuiclub"
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ],
   "ens": "100nian.eth"
 }

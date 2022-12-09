@@ -13,6 +13,7 @@
     "snapshot-voter-daoge",
     "sudoswap-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

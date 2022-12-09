@@ -15,6 +15,7 @@
     "snapshot-voter-vdovinda",
     "snapshot-voter-via-exchange",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ]
 }

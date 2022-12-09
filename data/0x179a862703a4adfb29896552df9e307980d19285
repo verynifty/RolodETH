@@ -2,7 +2,8 @@
   "tags": [
     "opensea-user",
     "snapshot-voter-ens",
-    "snapshot-voter-small-grants"
+    "snapshot-voter-small-grants",
+    "snapshot-voter-test-small-grants"
   ],
   "ens": "gregskril.eth"
 }

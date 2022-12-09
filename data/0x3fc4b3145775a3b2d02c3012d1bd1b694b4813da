@@ -3,6 +3,8 @@
     "mayc-minter",
     "snapshot-voter-gnosis",
     "snapshot-voter-stgdao",
-    "snapshot-voter-spookyswap"
+    "snapshot-voter-spookyswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-paraswap-dao"
   ]
 }

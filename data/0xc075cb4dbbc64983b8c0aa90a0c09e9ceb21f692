@@ -5,6 +5,8 @@
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gnosis"
+    "snapshot-voter-gnosis",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gearbox"
   ]
 }

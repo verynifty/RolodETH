@@ -1,6 +1,7 @@
 {
   "tags": [
     "snapshot-voter-uniswap",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ]
 }

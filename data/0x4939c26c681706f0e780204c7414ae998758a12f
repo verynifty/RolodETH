@@ -12,6 +12,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-gal",
     "snapshot-voter-mail3",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-pancake",
+    "snapshot-voter-opcollective"
   ]
 }

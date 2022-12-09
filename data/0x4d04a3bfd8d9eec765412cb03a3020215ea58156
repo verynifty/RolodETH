@@ -4,6 +4,7 @@
     "snapshot-voter-moonwell-governance",
     "snapshot-voter-dydxgov",
     "snapshot-voter-gearbox",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

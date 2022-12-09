@@ -9,7 +9,8 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ],
   "ens": "puzzithinker.eth"
 }

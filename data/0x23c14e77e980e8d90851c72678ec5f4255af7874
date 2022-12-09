@@ -10,6 +10,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-gal",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-paraswap-dao"
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-opcollective"
   ]
 }

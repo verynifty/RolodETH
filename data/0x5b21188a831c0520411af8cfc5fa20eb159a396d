@@ -1,6 +1,10 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-balancer",
+    "snapshot-voter-opcollective"
   ]
 }

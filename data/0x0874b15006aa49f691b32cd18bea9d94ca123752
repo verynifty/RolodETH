@@ -11,6 +11,7 @@
     "snapshot-voter-olympusdao",
     "snapshot-voter-zksyncdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-quickvote"
+    "snapshot-voter-quickvote",
+    "snapshot-voter-gnosis"
   ]
 }

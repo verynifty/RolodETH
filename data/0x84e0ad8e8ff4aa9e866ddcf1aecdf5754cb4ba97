@@ -11,7 +11,10 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-gearbox",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "datahub.eth"
 }

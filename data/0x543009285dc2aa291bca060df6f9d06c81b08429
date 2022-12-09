@@ -9,7 +9,8 @@
     "sudoswap-user",
     "snapshot-voter-etherscoredao",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "2021519.eth"
 }

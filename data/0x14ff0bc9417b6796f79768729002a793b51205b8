@@ -6,6 +6,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-sismo",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-goldfinch"
+    "snapshot-voter-goldfinch",
+    "snapshot-voter-gearbox"
   ]
 }

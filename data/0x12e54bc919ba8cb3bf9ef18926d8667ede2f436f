@@ -6,7 +6,8 @@
     "sudoswap-user",
     "opensea-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-aave"
   ],
   "ens": "lakka88.eth"
 }

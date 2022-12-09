@@ -9,7 +9,8 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "bullsareback.eth"
 }

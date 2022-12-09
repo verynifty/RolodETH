@@ -19,6 +19,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-people-dao",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

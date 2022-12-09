@@ -22,7 +22,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
     "snapshot-voter-sismo",
-    "snapshot-voter-zerozero"
+    "snapshot-voter-zerozero",
+    "snapshot-voter-opcollective"
   ],
   "ens": "iso10000.eth"
 }

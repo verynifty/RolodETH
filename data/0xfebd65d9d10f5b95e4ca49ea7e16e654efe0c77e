@@ -1,6 +1,9 @@
 {
   "tags": [
     "snapshot-voter-ens86",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-pooltogether",
     "snapshot-voter-stgdao",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-gmx",
+    "snapshot-voter-via-exchange"
   ]
 }

@@ -2,6 +2,9 @@
   "tags": [
     "uniswapv3-lp",
     "goblin-town-minter",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-aave",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-alchemistcoin"
   ]
 }

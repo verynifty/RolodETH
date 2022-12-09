@@ -11,7 +11,8 @@
     "snapshot-voter-neworderdao-xyz",
     "snapshot-voter-uniswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "strp.eth"
 }

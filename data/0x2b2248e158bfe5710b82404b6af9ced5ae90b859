@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-gmx"
   ],
   "ens": "0xdecemberrr.eth"
 }

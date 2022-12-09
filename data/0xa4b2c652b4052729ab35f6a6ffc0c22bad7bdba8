@@ -11,6 +11,9 @@
     "sudoswap-user",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -12,6 +12,8 @@
     "snapshot-voter-treasuredao",
     "sudoswap-user",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

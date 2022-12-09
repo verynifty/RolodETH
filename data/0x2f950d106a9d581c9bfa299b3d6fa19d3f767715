@@ -3,6 +3,8 @@
     "snapshot-voter-aave",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-kuiclub"
   ]
 }

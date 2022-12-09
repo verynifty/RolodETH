@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "sudoswap-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-heighdao",
+    "snapshot-voter-lido-snapshot"
   ]
 }

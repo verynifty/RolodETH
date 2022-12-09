@@ -4,6 +4,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-mavxyz"
+    "snapshot-voter-mavxyz",
+    "snapshot-voter-opcollective"
   ]
 }

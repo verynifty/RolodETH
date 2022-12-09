@@ -10,6 +10,7 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ]
 }

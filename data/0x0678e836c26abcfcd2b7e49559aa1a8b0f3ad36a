@@ -14,7 +14,9 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "tomorrowwendy.eth"
 }

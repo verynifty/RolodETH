@@ -1,6 +1,10 @@
 {
   "tags": [
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-alchemixstakers",
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-opcollective"
   ]
 }

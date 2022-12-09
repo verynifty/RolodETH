@@ -2,6 +2,9 @@
   "tags": [
     "snapshot-voter-gal",
     "snapshot-voter-apecoin",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

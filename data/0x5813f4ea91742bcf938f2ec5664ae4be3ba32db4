@@ -5,6 +5,8 @@
     "snapshot-voter-ens",
     "snapshot-voter-stgdao",
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-aave"
   ]
 }

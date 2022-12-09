@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-qidao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

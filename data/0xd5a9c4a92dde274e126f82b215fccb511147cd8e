@@ -6,7 +6,8 @@
     "loot-minter",
     "meebit-minter",
     "wow-minter",
-    "mayc-minter"
+    "mayc-minter",
+    "snapshot-voter-luchadores"
   ],
   "ens": "0x541nt.eth"
 }

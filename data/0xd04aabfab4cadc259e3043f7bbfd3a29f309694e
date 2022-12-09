@@ -4,6 +4,7 @@
     "snapshot-voter-pistachiodao",
     "snapshot-voter-derify",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-stgdao"
   ]
 }

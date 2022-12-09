@@ -6,7 +6,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "layerminusone.eth"
 }

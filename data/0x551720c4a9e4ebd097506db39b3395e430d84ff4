@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-via-exchange"
+    "snapshot-voter-via-exchange",
+    "snapshot-voter-opcollective"
   ]
 }

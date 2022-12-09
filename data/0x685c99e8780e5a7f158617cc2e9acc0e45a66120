@@ -7,7 +7,9 @@
     "snapshot-voter-ybaby",
     "snapshot-voter-sismo",
     "snapshot-voter-alchemixstakers",
-    "snapshot-voter-aavegotchi"
+    "snapshot-voter-aavegotchi",
+    "snapshot-voter-immutablex",
+    "snapshot-voter-cakevote"
   ],
   "ens": "vetal.eth"
 }

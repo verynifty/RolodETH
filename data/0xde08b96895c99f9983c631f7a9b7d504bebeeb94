@@ -3,6 +3,7 @@
     "loot-minter",
     "snapshot-voter-yam",
     "snapshot-voter-yearn",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-council-bibliotheca"
   ]
 }

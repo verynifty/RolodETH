@@ -6,7 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zkabc.eth"
 }

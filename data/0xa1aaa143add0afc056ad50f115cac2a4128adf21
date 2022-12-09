@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-aave",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-hop",
+    "snapshot-voter-apecoin"
   ]
 }

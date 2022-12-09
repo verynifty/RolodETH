@@ -16,7 +16,10 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-truefigov"
+    "snapshot-voter-truefigov",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-balancer"
   ],
   "ens": "haoxiao.eth"
 }

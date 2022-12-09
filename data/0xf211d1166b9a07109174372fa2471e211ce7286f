@@ -8,6 +8,7 @@
     "snapshot-voter-stgdao",
     "opensea-user",
     "snapshot-voter-poh",
-    "snapshot-voter-ethermondao"
+    "snapshot-voter-ethermondao",
+    "snapshot-voter-decentralgames"
   ]
 }

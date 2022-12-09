@@ -4,6 +4,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-aave",
     "snapshot-voter-sismo",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

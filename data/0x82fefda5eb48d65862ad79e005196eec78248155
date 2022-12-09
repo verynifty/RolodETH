@@ -3,7 +3,8 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ],
   "ens": "moneyhoe.eth"
 }

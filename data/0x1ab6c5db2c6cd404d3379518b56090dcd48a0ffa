@@ -6,6 +6,10 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-stgdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx"
   ]
 }

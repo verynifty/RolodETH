@@ -9,6 +9,7 @@
     "snapshot-voter-via-exchange",
     "snapshot-voter-vestafinance",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective"
   ]
 }

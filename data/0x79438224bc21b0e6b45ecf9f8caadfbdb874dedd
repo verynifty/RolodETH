@@ -8,6 +8,9 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-nation3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-kuiqian"
   ]
 }

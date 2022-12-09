@@ -6,6 +6,7 @@
     "snapshot-voter-alchemixstakers",
     "snapshot-voter-opcollective",
     "snapshot-voter-cow",
-    "snapshot-voter-beets"
+    "snapshot-voter-beets",
+    "snapshot-voter-dydxgov"
   ]
 }

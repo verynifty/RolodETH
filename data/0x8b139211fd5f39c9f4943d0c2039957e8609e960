@@ -12,6 +12,7 @@
     "sudoswap-user",
     "snapshot-voter-spookyswap",
     "snapshot-voter-mail3",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-lido-snapshot"
   ]
 }

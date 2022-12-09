@@ -4,6 +4,7 @@
     "snapshot-voter-liveartxevent",
     "snapshot-voter-people-dao",
     "opensea-user",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective"
   ]
 }

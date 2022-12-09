@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-aave",
     "opensea-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "andyhhh.eth"
 }

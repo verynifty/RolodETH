@@ -8,7 +8,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-speraxdao",
     "sudoswap-user",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zfbapp.eth"
 }

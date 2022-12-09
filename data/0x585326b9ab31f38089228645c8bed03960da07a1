@@ -4,6 +4,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

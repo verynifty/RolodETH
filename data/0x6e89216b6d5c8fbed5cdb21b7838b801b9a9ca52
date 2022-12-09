@@ -3,6 +3,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-hifi-finance"
+    "snapshot-voter-hifi-finance",
+    "snapshot-voter-stgdao"
   ]
 }

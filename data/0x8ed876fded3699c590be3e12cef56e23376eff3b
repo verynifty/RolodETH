@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-banklessvault",
     "snapshot-voter-catblox",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-council-bibliotheca"
   ]
 }

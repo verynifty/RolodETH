@@ -8,6 +8,7 @@
     "snapshot-voter-safe",
     "snapshot-voter-dfkvote",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-gmx"
   ]
 }

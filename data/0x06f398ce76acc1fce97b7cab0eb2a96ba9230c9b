@@ -12,6 +12,7 @@
     "snapshot-voter-badgerdao",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-aave",
-    "snapshot-voter-streamr"
+    "snapshot-voter-streamr",
+    "snapshot-voter-opcollective"
   ]
 }

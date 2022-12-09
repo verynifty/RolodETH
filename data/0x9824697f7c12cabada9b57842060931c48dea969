@@ -1,6 +1,8 @@
 {
   "tags": [
     "snapshot-voter-synthereum",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-paraswap-dao",
+    "snapshot-voter-palvote"
   ]
 }

@@ -2,6 +2,7 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-sismo",
-    "snapshot-voter-loot-dao"
+    "snapshot-voter-loot-dao",
+    "snapshot-voter-opcollective"
   ]
 }

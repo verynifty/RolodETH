@@ -8,7 +8,9 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "eth⚡⚡⚡.eth"
 }

@@ -7,6 +7,8 @@
     "snapshot-voter-gnosis",
     "snapshot-voter-aave",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian"
   ]
 }

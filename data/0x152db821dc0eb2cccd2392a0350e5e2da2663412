@@ -7,7 +7,8 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "sakshamtech.eth"
 }

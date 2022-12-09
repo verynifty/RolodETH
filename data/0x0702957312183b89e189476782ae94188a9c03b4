@@ -2,7 +2,8 @@
   "tags": [
     "uniswapv3-lp",
     "snapshot-voter-gal",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-opcollective"
   ],
   "ens": "tshaco.eth"
 }

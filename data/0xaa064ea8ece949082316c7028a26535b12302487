@@ -8,7 +8,8 @@
     "snapshot-voter-gmx",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "lion8848.eth"
 }

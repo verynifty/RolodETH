@@ -3,7 +3,8 @@
     "snapshot-voter-dudulab",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-cakevote"
+    "snapshot-voter-cakevote",
+    "snapshot-voter-opcollective"
   ],
   "ens": "sept2323.eth"
 }

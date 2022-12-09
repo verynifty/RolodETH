@@ -1,6 +1,7 @@
 {
   "tags": [
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "grimmgreen.eth"
 }

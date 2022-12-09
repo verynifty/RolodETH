@@ -12,6 +12,7 @@
     "snapshot-voter-beefydao",
     "snapshot-voter-balancer",
     "snapshot-voter-aave",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

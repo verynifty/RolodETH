@@ -9,6 +9,8 @@
     "snapshot-voter-aurafinance",
     "snapshot-voter-gearbox",
     "sudoswap-user",
-    "snapshot-voter-gro-xyz"
+    "snapshot-voter-gro-xyz",
+    "snapshot-voter-quickvote",
+    "snapshot-voter-gmx"
   ]
 }

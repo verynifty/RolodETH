@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap",
-    "snapshot-voter-loopringdao"
+    "snapshot-voter-loopringdao",
+    "snapshot-voter-opcollective"
   ]
 }

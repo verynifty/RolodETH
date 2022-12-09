@@ -6,6 +6,7 @@
     "snapshot-voter-etherscoredao",
     "snapshot-voter-vdovinda",
     "snapshot-voter-via-exchange",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

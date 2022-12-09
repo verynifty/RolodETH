@@ -11,7 +11,8 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ],
   "ens": "abrarsaifi.eth"
 }

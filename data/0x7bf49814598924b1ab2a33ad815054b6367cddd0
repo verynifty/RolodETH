@@ -5,6 +5,7 @@
     "snapshot-voter-shapeshiftdao",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "snapshot-voter-onx-finance"
+    "snapshot-voter-onx-finance",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -13,7 +13,8 @@
     "snapshot-voter-ethermondao",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "broscombe.eth"
 }

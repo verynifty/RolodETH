@@ -13,6 +13,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

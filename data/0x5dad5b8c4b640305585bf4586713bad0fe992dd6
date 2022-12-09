@@ -10,6 +10,7 @@
     "snapshot-voter-zksyncdao",
     "snapshot-voter-wireshape-dao",
     "snapshot-voter-mail3",
-    "snapshot-voter-beefydao"
+    "snapshot-voter-beefydao",
+    "snapshot-voter-pancake"
   ]
 }

@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-stgdao",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "yy81391.eth"
 }

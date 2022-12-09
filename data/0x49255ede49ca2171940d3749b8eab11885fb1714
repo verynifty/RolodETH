@@ -5,6 +5,7 @@
     "snapshot-voter-lkcup",
     "snapshot-voter-opcollective",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot"
   ]
 }

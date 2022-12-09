@@ -8,7 +8,8 @@
     "opensea-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-opcollective"
   ],
   "ens": "driftmoon.eth"
 }

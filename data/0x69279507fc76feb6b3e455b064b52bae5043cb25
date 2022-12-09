@@ -3,7 +3,8 @@
     "moonbird-minter",
     "snapshot-voter-pantherprotocol",
     "opensea-user",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cryptouchallenge"
   ],
   "ens": "gmertk.eth"
 }

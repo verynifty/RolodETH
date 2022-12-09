@@ -6,7 +6,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gal",
     "snapshot-voter-gmx",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ],
   "ens": "08696.eth"
 }

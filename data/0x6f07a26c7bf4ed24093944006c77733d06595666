@@ -8,6 +8,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

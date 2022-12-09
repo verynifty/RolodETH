@@ -6,6 +6,7 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -7,6 +7,9 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-ybaby",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao",
+    "snapshot-voter-hop"
   ]
 }

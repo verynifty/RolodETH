@@ -14,6 +14,7 @@
     "snapshot-voter-poh",
     "snapshot-voter-mail3",
     "snapshot-voter-sismo",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -6,7 +6,8 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective"
   ],
   "ens": "kamuy.eth"
 }

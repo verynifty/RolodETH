@@ -10,7 +10,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-autominter",
     "snapshot-voter-dydxgov",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "johnpaul2.eth"
 }

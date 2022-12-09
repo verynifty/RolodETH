@@ -4,6 +4,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-speraxdao",
     "snapshot-voter-aave",
-    "snapshot-voter-vote-perp"
+    "snapshot-voter-vote-perp",
+    "snapshot-voter-balancer"
   ]
 }

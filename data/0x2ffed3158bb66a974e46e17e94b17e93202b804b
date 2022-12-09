@@ -5,7 +5,8 @@
     "sudoswap-user",
     "snapshot-voter-gal",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave"
   ],
   "ens": "adaykak.eth"
 }

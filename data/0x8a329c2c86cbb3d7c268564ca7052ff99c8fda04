@@ -6,6 +6,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-opcollective"
   ]
 }

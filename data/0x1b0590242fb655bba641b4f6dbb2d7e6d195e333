@@ -5,6 +5,7 @@
     "snapshot-voter-shellprotocol",
     "opensea-user",
     "snapshot-voter-gal",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

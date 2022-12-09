@@ -3,7 +3,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-1cookies",
     "snapshot-voter-uniswap",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "665656.eth"
 }

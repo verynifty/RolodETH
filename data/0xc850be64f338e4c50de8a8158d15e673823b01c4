@@ -6,6 +6,7 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

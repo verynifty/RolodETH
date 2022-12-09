@@ -4,6 +4,7 @@
     "snapshot-voter-aavegotchi",
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

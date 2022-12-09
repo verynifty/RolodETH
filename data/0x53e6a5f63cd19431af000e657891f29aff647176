@@ -13,6 +13,7 @@
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-sismo",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-hop"
   ]
 }

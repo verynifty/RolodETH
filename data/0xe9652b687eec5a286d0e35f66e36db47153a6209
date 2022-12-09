@@ -1,7 +1,8 @@
 {
   "tags": [
     "snapshot-voter-aave",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "yixiao888.eth"
 }

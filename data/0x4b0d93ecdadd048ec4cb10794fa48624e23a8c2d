@@ -11,7 +11,8 @@
     "opensea-user",
     "snapshot-voter-sismo",
     "snapshot-voter-uniswap",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "shuqirui.eth"
 }

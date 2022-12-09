@@ -5,6 +5,7 @@
     "snapshot-voter-gm365",
     "snapshot-voter-uniswap",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-kuiclub"
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ]
 }

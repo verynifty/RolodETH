@@ -10,6 +10,7 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-anglegovernance"
+    "snapshot-voter-anglegovernance",
+    "snapshot-voter-hop"
   ]
 }

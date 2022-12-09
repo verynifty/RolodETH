@@ -10,6 +10,7 @@
     "snapshot-voter-pooltogether",
     "snapshot-voter-cow",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -8,7 +8,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-mail3",
     "snapshot-voter-apecoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "shzhzh.eth"
 }

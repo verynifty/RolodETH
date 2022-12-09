@@ -9,6 +9,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-stgdao",
     "opensea-user",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

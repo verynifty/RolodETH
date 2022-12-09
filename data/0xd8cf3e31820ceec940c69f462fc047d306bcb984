@@ -13,7 +13,9 @@
     "sudoswap-user",
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-people-dao"
+    "snapshot-voter-people-dao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gearbox"
   ],
   "ens": "nianqingren.eth"
 }

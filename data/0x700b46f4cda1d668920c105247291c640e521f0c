@@ -11,6 +11,7 @@
     "snapshot-voter-ybaby",
     "snapshot-voter-uniswap",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

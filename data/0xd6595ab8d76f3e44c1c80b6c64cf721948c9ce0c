@@ -3,6 +3,7 @@
     "uniswapv3-lp",
     "snapshot-voter-gal",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-dydxgov"
   ]
 }

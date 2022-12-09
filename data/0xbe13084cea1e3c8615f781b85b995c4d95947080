@@ -15,7 +15,9 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mail3",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-deviltown"
   ],
   "ens": "bmlcwenwu.eth"
 }

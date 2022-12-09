@@ -1,7 +1,9 @@
 {
   "tags": [
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "charalux.eth"
 }

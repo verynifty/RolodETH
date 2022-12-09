@@ -15,6 +15,7 @@
     "snapshot-voter-people-dao",
     "snapshot-voter-mavxyz",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

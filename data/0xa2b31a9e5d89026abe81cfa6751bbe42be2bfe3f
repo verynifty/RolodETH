@@ -8,6 +8,8 @@
     "opensea-user",
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-lido-snapshot"
   ]
 }

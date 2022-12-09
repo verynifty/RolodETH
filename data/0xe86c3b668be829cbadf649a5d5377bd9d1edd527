@@ -6,6 +6,9 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gal",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-gmx"
   ]
 }

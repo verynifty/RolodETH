@@ -8,6 +8,7 @@
     "opensea-user",
     "snapshot-voter-aave",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

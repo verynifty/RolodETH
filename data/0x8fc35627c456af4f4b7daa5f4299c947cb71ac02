@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "sudoswap-user",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

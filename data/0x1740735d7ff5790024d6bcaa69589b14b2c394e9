@@ -3,7 +3,8 @@
     "snapshot-voter-cakevote",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "molodost.eth"
 }

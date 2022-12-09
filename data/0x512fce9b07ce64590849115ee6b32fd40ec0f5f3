@@ -10,6 +10,8 @@
     "snapshot-voter-sushigov",
     "opensea-user",
     "snapshot-voter-tetu",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-council-bibliotheca"
   ]
 }

@@ -8,6 +8,7 @@
     "snapshot-voter-zksync-dao",
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

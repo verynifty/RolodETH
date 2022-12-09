@@ -7,7 +7,8 @@
     "snapshot-voter-safe",
     "snapshot-voter-sismo",
     "sudoswap-user",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0xjolin.eth"
 }

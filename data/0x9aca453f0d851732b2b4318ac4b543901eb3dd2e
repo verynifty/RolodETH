@@ -3,6 +3,7 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-nfts2me",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-opcollective"
   ]
 }

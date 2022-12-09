@@ -8,6 +8,7 @@
     "snapshot-voter-kuiclub",
     "snapshot-voter-kuiqian",
     "snapshot-voter-aave",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

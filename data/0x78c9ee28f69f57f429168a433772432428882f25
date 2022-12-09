@@ -6,6 +6,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-ens",
     "snapshot-voter-uniswap",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -6,6 +6,7 @@
     "opensea-user",
     "snapshot-voter-uniswap",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -3,6 +3,8 @@
     "uniswapv3-lp",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-gm365",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ]
 }

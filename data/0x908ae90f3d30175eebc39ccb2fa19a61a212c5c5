@@ -7,7 +7,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-sismo",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-vote-perp"
   ],
   "ens": "antonikk.eth"
 }

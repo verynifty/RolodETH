@@ -19,7 +19,8 @@
     "snapshot-voter-autominter",
     "snapshot-voter-vestafinance",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "300120.eth"
 }

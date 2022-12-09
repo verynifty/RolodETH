@@ -5,7 +5,8 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-deviltown",
     "snapshot-voter-gmx",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "li6668.eth"
 }

@@ -2,7 +2,9 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-treasuredao"
   ],
   "ens": "die4fomo.eth"
 }

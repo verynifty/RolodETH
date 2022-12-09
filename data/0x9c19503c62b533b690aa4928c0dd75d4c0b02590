@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "opensea-user",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "hodlcoins.eth"
 }

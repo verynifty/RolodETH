@@ -8,7 +8,8 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-hashflowdao",
     "snapshot-voter-mail3",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-kuiqian"
   ],
   "ens": "1986711.eth"
 }

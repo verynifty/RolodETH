@@ -9,7 +9,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-vestafinance",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective"
   ],
   "ens": "koshka13.eth"
 }

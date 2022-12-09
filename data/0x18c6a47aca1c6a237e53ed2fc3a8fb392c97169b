@@ -3,7 +3,8 @@
     "uniswapv3-lp",
     "otherdeed-minter",
     "mayc-minter",
-    "sudoswap-user"
+    "sudoswap-user",
+    "snapshot-voter-otterclam"
   ],
   "ens": "brucethegoose.eth"
 }

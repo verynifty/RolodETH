@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-gearbox",
     "sudoswap-user",
-    "snapshot-voter-gal"
+    "snapshot-voter-gal",
+    "snapshot-voter-gmx"
   ]
 }

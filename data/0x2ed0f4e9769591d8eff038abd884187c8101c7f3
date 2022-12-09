@@ -18,7 +18,9 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-mail3",
     "snapshot-voter-people-dao",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-opcollective"
   ],
   "ens": "zukidao.eth"
 }

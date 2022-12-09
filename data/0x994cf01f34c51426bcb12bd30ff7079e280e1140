@@ -14,6 +14,7 @@
     "opensea-user",
     "snapshot-voter-mail3",
     "snapshot-voter-polymon",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

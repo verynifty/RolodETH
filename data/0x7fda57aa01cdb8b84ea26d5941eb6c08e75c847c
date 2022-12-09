@@ -1,7 +1,9 @@
 {
   "tags": [
     "snapshot-voter-zksync-dao",
-    "snapshot-voter-stgdao"
+    "snapshot-voter-stgdao",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-gmx"
   ],
   "ens": "mampy.eth"
 }

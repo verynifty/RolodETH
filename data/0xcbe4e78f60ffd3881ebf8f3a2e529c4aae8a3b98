@@ -3,6 +3,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
     "snapshot-voter-gmx",
-    "snapshot-voter-kuiclub"
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-kuiqian"
   ]
 }

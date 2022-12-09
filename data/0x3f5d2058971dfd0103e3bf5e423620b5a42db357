@@ -17,7 +17,8 @@
     "snapshot-voter-jbdao",
     "snapshot-voter-sismo",
     "snapshot-voter-tokenlon",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ],
   "ens": "3people.eth"
 }

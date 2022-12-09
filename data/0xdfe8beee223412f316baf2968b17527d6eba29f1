@@ -6,6 +6,7 @@
     "otherdeed-minter",
     "mayc-minter",
     "snapshot-voter-loot-dao",
-    "snapshot-voter-friendswithbenefits"
+    "snapshot-voter-friendswithbenefits",
+    "snapshot-voter-nycdinner"
   ]
 }

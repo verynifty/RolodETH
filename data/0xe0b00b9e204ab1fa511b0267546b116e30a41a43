@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-aave",
     "snapshot-voter-8848labs",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-moonbeam-foundation"
   ]
 }

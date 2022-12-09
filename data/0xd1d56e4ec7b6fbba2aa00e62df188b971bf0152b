@@ -4,6 +4,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-qidao",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ]
 }

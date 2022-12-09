@@ -5,6 +5,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-kuiclub",
     "snapshot-voter-kuiqian",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

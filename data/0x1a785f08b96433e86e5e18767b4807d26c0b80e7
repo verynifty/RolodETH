@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0xeuv.eth"
 }

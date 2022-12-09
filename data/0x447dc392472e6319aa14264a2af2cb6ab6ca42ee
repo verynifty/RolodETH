@@ -5,7 +5,8 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-aave",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0x0711.eth"
 }

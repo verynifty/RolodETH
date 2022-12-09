@@ -10,7 +10,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-yokaiswap",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "hoabandz.eth"
 }

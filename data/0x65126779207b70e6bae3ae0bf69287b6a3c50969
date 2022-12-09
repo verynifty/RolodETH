@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-yoroi",
     "snapshot-voter-cakevote",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

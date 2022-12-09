@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-toniya",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-aave"
   ]
 }

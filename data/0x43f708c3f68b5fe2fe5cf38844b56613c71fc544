@@ -7,7 +7,8 @@
     "snapshot-voter-safe",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "一亿小目标.eth"
 }

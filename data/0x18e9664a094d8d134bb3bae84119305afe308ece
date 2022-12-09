@@ -13,6 +13,7 @@
     "snapshot-voter-sismo",
     "snapshot-voter-liveartxevent",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

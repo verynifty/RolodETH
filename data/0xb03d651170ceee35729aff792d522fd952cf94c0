@@ -4,7 +4,8 @@
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-stgdao",
     "snapshot-voter-sushigov",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "iambtc.eth"
 }

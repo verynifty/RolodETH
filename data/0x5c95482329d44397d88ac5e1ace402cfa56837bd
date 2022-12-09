@@ -6,6 +6,7 @@
     "snapshot-voter-gal",
     "snapshot-voter-gearbox",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

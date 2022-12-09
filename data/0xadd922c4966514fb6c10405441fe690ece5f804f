@@ -5,7 +5,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-deskvoting"
   ],
   "ens": "catswap.eth"
 }

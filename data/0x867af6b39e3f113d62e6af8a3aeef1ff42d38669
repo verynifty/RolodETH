@@ -10,7 +10,8 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "liberaiders.eth"
 }

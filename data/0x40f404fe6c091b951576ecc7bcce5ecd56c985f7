@@ -15,6 +15,7 @@
     "snapshot-voter-balancer",
     "snapshot-voter-vestafinance",
     "snapshot-voter-vote-perp",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-notional"
   ]
 }

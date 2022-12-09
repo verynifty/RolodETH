@@ -4,6 +4,8 @@
     "snapshot-voter-rzt891130",
     "snapshot-voter-stgdao",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-gmx"
   ]
 }

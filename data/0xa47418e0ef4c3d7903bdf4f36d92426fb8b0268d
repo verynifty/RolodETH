@@ -9,6 +9,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ]
 }

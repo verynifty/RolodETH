@@ -6,6 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-dydxgov",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

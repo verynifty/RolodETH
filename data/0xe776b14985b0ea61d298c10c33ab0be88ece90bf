@@ -3,6 +3,9 @@
     "uniswapv3-lp",
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-gmx",
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-aave"
   ]
 }

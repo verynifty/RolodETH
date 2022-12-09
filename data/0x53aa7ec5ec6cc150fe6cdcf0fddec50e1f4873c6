@@ -8,6 +8,7 @@
     "sudoswap-user",
     "snapshot-voter-sismo",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

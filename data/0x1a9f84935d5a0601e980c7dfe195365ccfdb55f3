@@ -9,6 +9,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gmx",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,6 +4,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-kwenta",
     "snapshot-voter-sonnefi",
-    "snapshot-voter-immutablex"
+    "snapshot-voter-immutablex",
+    "snapshot-voter-opcollective"
   ]
 }

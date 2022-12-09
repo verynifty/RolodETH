@@ -3,6 +3,7 @@
     "snapshot-voter-dydxgov",
     "snapshot-voter-shellprotocol",
     "opensea-user",
-    "snapshot-voter-gearbox"
+    "snapshot-voter-gearbox",
+    "snapshot-voter-opcollective"
   ]
 }

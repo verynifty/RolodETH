@@ -11,6 +11,7 @@
     "snapshot-voter-ens",
     "snapshot-voter-kuiqian",
     "snapshot-voter-kuiclub",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -4,7 +4,10 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-hashflowdao",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-aave",
+    "snapshot-voter-gmx",
+    "snapshot-voter-dydxgov"
   ],
   "ens": "0xn4nx0.eth"
 }

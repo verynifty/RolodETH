@@ -19,6 +19,7 @@
     "snapshot-voter-mavxyz",
     "snapshot-voter-ybaby",
     "snapshot-voter-mail3",
-    "snapshot-voter-hashflowdao"
+    "snapshot-voter-hashflowdao",
+    "snapshot-voter-opcollective"
   ]
 }

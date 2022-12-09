@@ -10,7 +10,8 @@
     "sudoswap-user",
     "snapshot-voter-mavxyz",
     "snapshot-voter-aave",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0xsina.eth"
 }

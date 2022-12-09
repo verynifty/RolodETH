@@ -1,6 +1,7 @@
 {
   "tags": [
-    "uniswapv3-lp"
+    "uniswapv3-lp",
+    "snapshot-voter-opcollective"
   ],
   "ens": "0x-knight.eth"
 }

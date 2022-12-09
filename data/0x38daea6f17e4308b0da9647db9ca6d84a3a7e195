@@ -28,7 +28,8 @@
     "snapshot-voter-ybaby",
     "snapshot-voter-gro-xyz",
     "snapshot-voter-alchemistcoin",
-    "snapshot-voter-loopringdao"
+    "snapshot-voter-loopringdao",
+    "snapshot-voter-immutablex"
   ],
   "ens": "alexcore.eth"
 }

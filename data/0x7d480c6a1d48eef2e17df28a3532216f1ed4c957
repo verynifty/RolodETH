@@ -6,7 +6,8 @@
     "snapshot-voter-gal",
     "sudoswap-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "swap369369369.eth"
 }

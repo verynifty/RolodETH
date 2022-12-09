@@ -6,7 +6,8 @@
     "snapshot-voter-aave",
     "snapshot-voter-via-exchange",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-balancer"
   ],
   "ens": "sinasharifi.eth"
 }

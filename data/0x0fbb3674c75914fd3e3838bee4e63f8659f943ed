@@ -9,6 +9,7 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-alpacafinance",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-mail3"
+    "snapshot-voter-mail3",
+    "snapshot-voter-opcollective"
   ]
 }

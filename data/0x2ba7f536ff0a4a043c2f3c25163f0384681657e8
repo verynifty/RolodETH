@@ -3,6 +3,7 @@
     "snapshot-voter-gotchivault",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-paraswap-dao",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-luchadores"
   ]
 }

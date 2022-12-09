@@ -7,6 +7,7 @@
     "snapshot-voter-sismo",
     "sudoswap-user",
     "snapshot-voter-ens",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-lido-snapshot"
   ]
 }

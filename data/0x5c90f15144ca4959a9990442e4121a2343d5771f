@@ -10,7 +10,8 @@
     "sudoswap-user",
     "snapshot-voter-mail3",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ],
   "ens": "pengyuchang.eth"
 }

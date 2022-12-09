@@ -1,7 +1,8 @@
 {
   "tags": [
     "uniswapv3-lp",
-    "opensea-user"
+    "opensea-user",
+    "snapshot-voter-opcollective"
   ],
   "ens": "feng001.eth"
 }

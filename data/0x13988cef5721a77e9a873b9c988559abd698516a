@@ -6,6 +6,7 @@
     "snapshot-voter-alpacafinance",
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
-    "snapshot-voter-hop"
+    "snapshot-voter-hop",
+    "snapshot-voter-opcollective"
   ]
 }

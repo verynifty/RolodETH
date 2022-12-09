@@ -6,6 +6,7 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-daoge",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-wmvotes",
+    "snapshot-voter-friendswithbenefits"
+  ],
   "ens": "grabba.eth"
 }

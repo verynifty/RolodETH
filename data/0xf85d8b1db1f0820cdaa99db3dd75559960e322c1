@@ -12,6 +12,7 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-sismo",
     "snapshot-voter-kleros",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

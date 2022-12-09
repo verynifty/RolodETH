@@ -2,6 +2,7 @@
   "tags": [
     "snapshot-voter-banklessvault",
     "snapshot-voter-uniswap",
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-opcollective"
   ]
 }

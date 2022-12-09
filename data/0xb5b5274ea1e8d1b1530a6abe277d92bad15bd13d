@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-vestafinance",
     "snapshot-voter-treasuredao",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-opcollective"
   ],
   "ens": "lilmata.eth"
 }

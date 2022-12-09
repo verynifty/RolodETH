@@ -4,6 +4,7 @@
     "snapshot-voter-tyrishkin",
     "snapshot-voter-vestafinance",
     "snapshot-voter-aave",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ]
 }

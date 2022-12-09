@@ -14,7 +14,9 @@
     "snapshot-voter-sismo",
     "snapshot-voter-vestafinance",
     "snapshot-voter-🌿lens🌿",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-balancer"
   ],
   "ens": "buzin.eth"
 }

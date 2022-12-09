@@ -3,6 +3,7 @@
     "snapshot-voter-apecoin",
     "opensea-user",
     "snapshot-voter-uniswap",
-    "snapshot-voter-aave"
+    "snapshot-voter-aave",
+    "snapshot-voter-gearbox"
   ]
 }

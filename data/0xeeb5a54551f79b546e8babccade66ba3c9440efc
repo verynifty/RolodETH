@@ -13,6 +13,7 @@
     "opensea-user",
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
-    "snapshot-voter-apecoin"
+    "snapshot-voter-apecoin",
+    "snapshot-voter-opcollective"
   ]
 }
