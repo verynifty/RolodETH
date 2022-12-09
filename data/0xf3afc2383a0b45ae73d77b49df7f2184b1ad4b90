@@ -10,5 +10,6 @@
     "snapshot-voter-gearbox",
     "snapshot-voter-vestafinance",
     "snapshot-voter-morpho"
-  ]
+  ],
+  "ens": "maanimo.eth"
 }

@@ -13,5 +13,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-poh"
-  ]
+  ],
+  "ens": "shardian.eth"
 }

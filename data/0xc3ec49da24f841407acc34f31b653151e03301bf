@@ -4,5 +4,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aave",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "199688.eth"
 }

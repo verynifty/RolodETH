@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Omnimorphs",
   "imageUrl": "https://i.seadn.io/gcs/files/dedd567b6a97259aa6444777939a7d41.jpg?w=500&auto=format",
   "externalUrl": "https://omnimorphs.com/",
   "discordUrl": "https://discord.gg/WGUggyezQy",
   "twitterUsername": "omnimorphs",
-  "description": "Omnimorphs are mimetic mysterious entities on Earth able to merge and evolve through [OmniFusion](https://fusion.omnimorphs.com). The Fusion utility gives owners the opportunity to combine two of their Omnimorph NFTs customizing the look & rarity of their avatar. The NFT collection was originally made of 10,000 hand-crafted artworks created by digital artist,  [Dániel Taylor](https://twitter.com/DanielTaylorArt). Owners receive a [Soul Shard](https://opensea.io/collection/omni-fusion) in exchange for one of their NFTs used in the Fusion. \n\n**Our vision is to create a supportive and curious NFT art collective where real value overcomes hype and excellence subdues glitz.**\n\nRead about [our Vision](https://omnimorphs.medium.com/omnimorphs-our-vision-for-2022-f210d0e0886b).\n\nLore, webshop, and more on our [website](https://omnimorphs.com)."
+  "description": "Omnimorphs are mimetic mysterious entities on Earth able to merge and evolve through [OmniFusion](https://fusion.omnimorphs.com). The Fusion utility gives owners the opportunity to combine two of their Omnimorph NFTs customizing the look & rarity of their avatar. The NFT collection was originally made of 10,000 hand-crafted artworks created by digital artist,  [Dániel Taylor](https://twitter.com/DanielTaylorArt). Owners receive a [Soul Shard](https://opensea.io/collection/omni-fusion) in exchange for one of their NFTs used in the Fusion. \n\n**Our vision is to create a supportive and curious NFT art collective where real value overcomes hype and excellence subdues glitz.**\n\nRead about [our Vision](https://omnimorphs.medium.com/omnimorphs-our-vision-for-2022-f210d0e0886b).\n\nLore, webshop, and more on our [website](https://omnimorphs.com).",
+  "erc721_symbol": "OMNI"
 }

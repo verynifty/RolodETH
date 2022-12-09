@@ -3,5 +3,6 @@
     "uniswapv3-lp",
     "snapshot-voter-balancer",
     "opensea-user"
-  ]
+  ],
+  "ens": "0xshawn.eth"
 }

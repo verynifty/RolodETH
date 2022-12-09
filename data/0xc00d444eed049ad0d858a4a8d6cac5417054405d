@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Art Stars Club Official",
   "imageUrl": "https://i.seadn.io/gae/A1pw55AHAXCXfFLGOfuYFvfXQFXWqOZCrRNDpJsJ8t0uWyVuGFB6QuFKxaTUU74NAzE4o6UWyHFLBfT0K4dfK50XVcgqeOyOeLt1Wg?w=500&auto=format",
   "externalUrl": "https://www.art-stars.club/",
   "discordUrl": "https://discord.gg/rVNJJ9FmSK",
   "twitterUsername": "artstarsclub",
-  "description": "https://art-stars.club/\n4,000 Art Stars living in the Ethereum blockchain like a ERC-721 tokens. Generate your own, which will hold one of your NTFs in his hands, which is most likely in your wallet."
+  "description": "https://art-stars.club/\n4,000 Art Stars living in the Ethereum blockchain like a ERC-721 tokens. Generate your own, which will hold one of your NTFs in his hands, which is most likely in your wallet.",
+  "erc721_symbol": "ARTSTR"
 }

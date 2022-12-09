@@ -10,5 +10,6 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "kncrypto.eth"
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Ragdollz",
   "imageUrl": "https://i.seadn.io/gae/OwBOUT6D4A8Ji01eDYqpsyUiX4an1UEm14x0bYUlXpNlpgS-cm2kokCMKMnpPbqmZWGoridBiUlnmrJEVLeztR3-QHQNgiqCTvM4AZg?w=500&auto=format",
   "externalUrl": "https://ragdollz.io/",
   "discordUrl": "https://discord.gg/SfxTChzA6Z",
   "twitterUsername": "RagdollzNFT",
-  "description": "Long has humanity ruled the earth to use as they please. As humans evolved they took more from the earth than it had to give. The earth sent them warnings but most did not listen. The humans were consuming at a rapid rate and there was no stopping what was to come… or maybe there was?\nThe earth sent 9,999 parts of its spirit to the surface to save what was left. As the spirits roamed the surface of the earth they pieced together a physical form from of the scraps of human consumption. They spread out over the earth and found purpose in the elements in hopes to one day save the earth and become whole again. The humans called them Ragdollz."
+  "description": "Long has humanity ruled the earth to use as they please. As humans evolved they took more from the earth than it had to give. The earth sent them warnings but most did not listen. The humans were consuming at a rapid rate and there was no stopping what was to come… or maybe there was?\nThe earth sent 9,999 parts of its spirit to the surface to save what was left. As the spirits roamed the surface of the earth they pieced together a physical form from of the scraps of human consumption. They spread out over the earth and found purpose in the elements in hopes to one day save the earth and become whole again. The humans called them Ragdollz.",
+  "erc721_symbol": "RAGZ"
 }

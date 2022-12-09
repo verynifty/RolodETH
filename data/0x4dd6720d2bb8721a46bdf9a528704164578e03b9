@@ -14,5 +14,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-vestafinance",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "spacemilk.eth"
 }
