@@ -9,5 +9,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "0xb84f.eth"
 }

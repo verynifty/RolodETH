@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "DO NOT BUY - MIGRATION IN PROGRESS",
   "imageUrl": "https://i.seadn.io/gcs/files/7486d9d4ba195caf01920287cd8fc728.png?w=500&auto=format",
   "externalUrl": "https://barefootparrots.com",
   "discordUrl": "https://discord.gg/barefootrepublic",
   "twitterUsername": "BarefootParrots",
-  "description": "Snapshot has been taken and we are moving to our new contracts see discord for details:\n\n[https://discord.gg/barefootparrots](https://discord.gg/barefootrepublic)\n"
+  "description": "Snapshot has been taken and we are moving to our new contracts see discord for details:\n\n[https://discord.gg/barefootparrots](https://discord.gg/barefootrepublic)\n",
+  "proxy": "0x5fcaab242c3438905eeb3e4b7d79100a206bf904"
 }

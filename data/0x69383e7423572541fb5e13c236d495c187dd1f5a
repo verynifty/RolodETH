@@ -3,5 +3,6 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-stgdao",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "wuyuhong.eth"
 }

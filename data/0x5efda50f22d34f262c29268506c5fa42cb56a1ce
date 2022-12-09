@@ -1,6 +1,9 @@
 {
   "tags": [
-    "tornado-cash"
+    "tornado-cash",
+    "contract",
+    "proxy"
   ],
-  "name": "Tornado.Cash: Governance"
+  "name": "Tornado.Cash: Governance",
+  "proxy": "0xa9689ed4a82a288e267b11ae8fe137fb4cb2177e"
 }

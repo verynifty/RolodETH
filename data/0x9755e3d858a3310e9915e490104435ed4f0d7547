@@ -6,5 +6,6 @@
     "sudoswap-user",
     "snapshot-voter-kwenta",
     "snapshot-voter-hashflowdao"
-  ]
+  ],
+  "ens": "tangsir.eth"
 }

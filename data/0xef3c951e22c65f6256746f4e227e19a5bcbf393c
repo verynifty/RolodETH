@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Mirror Editions V4",
   "imageUrl": "https://i.seadn.io/gae/e6vU36_YBppNVtes3dH4EK44HlzhyfyYnb28urRb2JkG3ksxgPw-QZ_1kfY8IFWGmGTiF6_rzr78pEdI1DtkwhHOsGwnlbnD4Ohc5A?w=500&auto=format",
   "externalUrl": "https://mirror.xyz",
-  "description": "Mirror Editions are a way for creators to mint a limited supply of identical NFTs at a fixed price. If a 1/1 NFT is a Picasso at Sotheby's, Editions are like the thousands of first-edition holographic Charizards released."
+  "description": "Mirror Editions are a way for creators to mint a limited supply of identical NFTs at a fixed price. If a 1/1 NFT is a Picasso at Sotheby's, Editions are like the thousands of first-edition holographic Charizards released.",
+  "erc721_symbol": "CROWDFUND_EDITIONS"
 }

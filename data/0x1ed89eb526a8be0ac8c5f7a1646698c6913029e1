@@ -1,9 +1,12 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Baby Ape Mutant Club",
   "imageUrl": "https://i.seadn.io/gae/xjy4YzuEGzkFSXw7WZtqD02b-anxzJWJ-w7SEu9LPSqEviRs1Ifdt3PCvdRJ8-2gHzcXZMjONpK4dKhlAhICupObg13fVdZcCJQxZKU?w=500&auto=format",
-  "description": "A collection of 6,666 baby mutant apes!\n\nCompanions:\nhttps://opensea.io/collection/baby-shiba-mutant-club"
+  "description": "A collection of 6,666 baby mutant apes!\n\nCompanions:\nhttps://opensea.io/collection/baby-shiba-mutant-club",
+  "erc721_symbol": "BAMC"
 }

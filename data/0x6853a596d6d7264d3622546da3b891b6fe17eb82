@@ -5,5 +5,6 @@
     "snapshot-voter-trashdao-szns",
     "snapshot-voter-particledao",
     "snapshot-voter-fingerprints"
-  ]
+  ],
+  "ens": "zaphodok.eth"
 }

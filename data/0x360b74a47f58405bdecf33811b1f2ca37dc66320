@@ -8,5 +8,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol",
     "snapshot-voter-gmx"
-  ]
+  ],
+  "ens": "fraggers.eth"
 }
