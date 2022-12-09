@@ -3,5 +3,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "borisovichh.eth"
 }

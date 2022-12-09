@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Dobies Collection",
   "imageUrl": "https://i.seadn.io/gcs/files/3a0f87e0bf6125d062e475dbc92fe502.jpg?w=500&auto=format",
   "discordUrl": "https://discord.gg/Mrr9Q5d3NS",
   "twitterUsername": "DobiesNFT",
-  "description": "A New Beginning.\n\nGolden Tickets: https://opensea.io/collection/dobies-tickets"
+  "description": "A New Beginning.\n\nGolden Tickets: https://opensea.io/collection/dobies-tickets",
+  "erc721_symbol": "Dobies"
 }
