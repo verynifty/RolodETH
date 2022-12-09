@@ -6,5 +6,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-stgdao",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "上海大学.eth"
 }

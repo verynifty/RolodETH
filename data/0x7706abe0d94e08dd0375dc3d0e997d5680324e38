@@ -4,5 +4,6 @@
     "doodle-minter",
     "otherdeed-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "soymilk.eth"
 }

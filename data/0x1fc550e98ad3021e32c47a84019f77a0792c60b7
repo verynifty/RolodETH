@@ -12,5 +12,6 @@
     "snapshot-voter-interportfinance",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "thedisc.eth"
 }

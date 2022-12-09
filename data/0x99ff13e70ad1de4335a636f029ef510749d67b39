@@ -1,7 +1,9 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc1155"
   ],
   "name": "VSP x EightBit.me",
   "imageUrl": "https://i.seadn.io/gcs/files/e3ab198fcbd4b17695762e84e86fa6a1.png?w=500&auto=format",

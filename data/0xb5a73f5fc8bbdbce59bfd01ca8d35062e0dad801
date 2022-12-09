@@ -1,6 +1,10 @@
 {
   "tags": [
-    "old-contract"
+    "old-contract",
+    "contract",
+    "erc20"
   ],
-  "name": "Perlin: Old PERL Token"
+  "name": "Perlin: Old PERL Token",
+  "erc20_symbol": "PERL",
+  "erc20_decimals": 9
 }

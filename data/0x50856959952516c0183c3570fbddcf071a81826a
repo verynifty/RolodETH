@@ -15,5 +15,6 @@
     "snapshot-voter-hashflowdao",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "ababab.eth"
 }

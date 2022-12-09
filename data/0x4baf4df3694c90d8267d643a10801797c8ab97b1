@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SYL V4",
   "imageUrl": "https://i.seadn.io/gae/5QtJqrLX10yf7IjvLGLmu-wkvmo-NFj5w4vb7NKA7BVrOj_xHWMI8LrkqmPR1gcBKTVq_UfRE39Dze331eZgyNXDZ5xv8u90xa2lxw?w=500&auto=format",
   "externalUrl": "https://www.syltare.com/",
   "discordUrl": "https://discord.gg/Cb2tNa4zte",
   "twitterUsername": "syltare",
-  "description": "Please visit https://opensea.io/collection/syltare-dawn-of-east"
+  "description": "Please visit https://opensea.io/collection/syltare-dawn-of-east",
+  "erc721_symbol": "SYL"
 }

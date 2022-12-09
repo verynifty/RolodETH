@@ -12,5 +12,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-apecoin",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "enset.eth"
 }

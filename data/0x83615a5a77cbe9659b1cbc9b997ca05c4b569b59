@@ -1,0 +1,9 @@
+{
+  "tags": [
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "WOKE",
+  "erc20_decimals": 6,
+  "name": "Woke V Woke"
+}

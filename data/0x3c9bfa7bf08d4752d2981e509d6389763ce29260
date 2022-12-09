@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Meta Girlfriends",
   "imageUrl": "https://i.seadn.io/gae/scW0Aa_WYeu7paSg0gk4-xR6j-GYoZ_Lx8OwXna3vQAXMnwOT7LnqYypa5Wo7omdxp9tOHn1uUzYe34CI_3zzTcTM5Q1VwaxIC5J2A?w=500&auto=format",
   "externalUrl": "https://MetaGirlfriends.com",
   "discordUrl": "https://discord.gg/hbpm9Xq8bT",
   "twitterUsername": "MetaGirlfriends",
-  "description": "Meta Girlfriends are coming to the Metaverse. Each one is randomly generated and beautifully crafted using over 600 traits, across 20 categories. Each Meta Girlfriend can be customized using the Rainbow Room.\r\n\r\nEach NFT in the project come with three views: \r\n\r\nPublic PFP  -  The public can only see the cropped PFP\r\n\r\nMembers Only  -  can see the full body artwork for each NFT on our website\r\n\r\nPrivate View  -  Holders can undress their Meta Girlfriends to see each one fully nude\r\n\r\nThe Rainbow Room allows you to combine two Meta Girlfriends and choose which traits to keep! Holders can mix and match traits to customize their Meta Girlfriend or create a theme. This makes the collection deflationary, fun with gamification and increasingly more valuable.\r\n\r\nDeflationary - Please keep in mind that the project is deflationary. As Meta Girlfriends are combined, one of the NFTs is burned. The total supply number will continue to decrease as holders burn their NFTs to make the perfect Meta Girlfriend."
+  "description": "Meta Girlfriends are coming to the Metaverse. Each one is randomly generated and beautifully crafted using over 600 traits, across 20 categories. Each Meta Girlfriend can be customized using the Rainbow Room.\r\n\r\nEach NFT in the project come with three views: \r\n\r\nPublic PFP  -  The public can only see the cropped PFP\r\n\r\nMembers Only  -  can see the full body artwork for each NFT on our website\r\n\r\nPrivate View  -  Holders can undress their Meta Girlfriends to see each one fully nude\r\n\r\nThe Rainbow Room allows you to combine two Meta Girlfriends and choose which traits to keep! Holders can mix and match traits to customize their Meta Girlfriend or create a theme. This makes the collection deflationary, fun with gamification and increasingly more valuable.\r\n\r\nDeflationary - Please keep in mind that the project is deflationary. As Meta Girlfriends are combined, one of the NFTs is burned. The total supply number will continue to decrease as holders burn their NFTs to make the perfect Meta Girlfriend.",
+  "erc721_symbol": "MG"
 }

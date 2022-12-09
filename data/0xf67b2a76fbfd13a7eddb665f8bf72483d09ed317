@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Worst Side",
   "imageUrl": "https://i.seadn.io/gcs/files/0699f21ba3dc949ee2d628b3881ff419.png?w=500&auto=format",
   "externalUrl": "https://worstlabs.io/",
   "twitterUsername": "Worst_Ape",
-  "description": "Worst Side 1,000/1,000 collection living on Ethereum chain. It's a various character project. full of passion from artist and it can bring to back to 1930s with black and white cartoon style.\n[WorstApe](https://opensea.io/collection/worst-ape)\n[WorstPill](https://opensea.io/collection/worst-pill)\n"
+  "description": "Worst Side 1,000/1,000 collection living on Ethereum chain. It's a various character project. full of passion from artist and it can bring to back to 1930s with black and white cartoon style.\n[WorstApe](https://opensea.io/collection/worst-ape)\n[WorstPill](https://opensea.io/collection/worst-pill)\n",
+  "erc721_symbol": "WS"
 }

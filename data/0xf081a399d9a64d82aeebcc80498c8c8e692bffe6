@@ -1,5 +1,9 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "cELON",
+  "erc20_decimals": 6,
+  "name": "Captain Elon"
 }
