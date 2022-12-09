@@ -4,5 +4,6 @@
     "snapshot-voter-derify",
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "jaybehz.eth"
 }

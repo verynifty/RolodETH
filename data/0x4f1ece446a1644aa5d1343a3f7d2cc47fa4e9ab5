@@ -2,5 +2,6 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "metasenses.eth"
 }

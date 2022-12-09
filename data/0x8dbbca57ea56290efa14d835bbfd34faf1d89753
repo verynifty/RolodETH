@@ -4,5 +4,6 @@
     "hashmask-minter",
     "meebit-minter",
     "opensea-user"
-  ]
+  ],
+  "ens": "vonmises.eth"
 }

@@ -1,8 +1,11 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "SudoSquid",
-  "imageUrl": "https://i.seadn.io/gcs/files/b78b104abd7e1f6ea9c4a497cfb0ed33.jpg?w=500&auto=format"
+  "imageUrl": "https://i.seadn.io/gcs/files/b78b104abd7e1f6ea9c4a497cfb0ed33.jpg?w=500&auto=format",
+  "erc721_symbol": "SUDOSQUID"
 }

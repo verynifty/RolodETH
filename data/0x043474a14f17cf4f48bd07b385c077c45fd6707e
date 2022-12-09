@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Synesthesia Collective",
   "imageUrl": "https://i.seadn.io/gae/gaEIt7YP0NKETbOGNAULMq5tJ5QhA1x3RAdVheIbj_JgFeSglPEqc-mUYBstiyoZU4LxvB4Qp2b4-HIrGDkIiJAf2VGRnwm4vVfbihU?w=500&auto=format",
   "twitterUsername": "SynesthesiaNFT",
-  "description": "The Synesthesia Collective is an exploration into the connection between different human senses and their cognitive pathways. Blending the experiences of sight and sound, Synesthesia are randomly generated using random musical recordings and stored on the Ethereum blockchain as ERC-721 tokens. \n\n**The Synesthesia Collective is limited to 1,111 unique pieces.**\n\n**1111x1111px**"
+  "description": "The Synesthesia Collective is an exploration into the connection between different human senses and their cognitive pathways. Blending the experiences of sight and sound, Synesthesia are randomly generated using random musical recordings and stored on the Ethereum blockchain as ERC-721 tokens. \n\n**The Synesthesia Collective is limited to 1,111 unique pieces.**\n\n**1111x1111px**",
+  "erc721_symbol": "SYN"
 }

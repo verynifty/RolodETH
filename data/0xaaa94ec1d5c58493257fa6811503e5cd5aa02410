@@ -10,5 +10,6 @@
     "opensea-user",
     "snapshot-voter-gal",
     "snapshot-voter-uniswap"
-  ]
+  ],
+  "ens": "zendoo.eth"
 }

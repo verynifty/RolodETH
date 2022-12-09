@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Shadows",
   "erc20_symbol": "DOWS",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14160/thumb/C3E49eZx_400x400.jpg?1614689301"
+  "imageURL": "https://assets.coingecko.com/coins/images/14160/thumb/C3E49eZx_400x400.jpg?1614689301",
+  "proxy": "0x73930ea677099dd6b1fb4546ac624b62acd6120d"
 }

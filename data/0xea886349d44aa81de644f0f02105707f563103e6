@@ -3,5 +3,6 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-index-coop",
     "snapshot-voter-friendswithbenefits"
-  ]
+  ],
+  "ens": "reblock.eth"
 }

@@ -6,5 +6,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-ens",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "0xense.eth"
 }

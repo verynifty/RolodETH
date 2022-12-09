@@ -8,5 +8,6 @@
     "snapshot-voter-via-exchange",
     "snapshot-voter-gmx",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "fisherweb.eth"
 }
