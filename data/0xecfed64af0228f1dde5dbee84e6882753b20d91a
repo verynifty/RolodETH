@@ -4,5 +4,6 @@
     "snapshot-voter-opcollective",
     "snapshot-voter-shellprotocol",
     "opensea-user"
-  ]
+  ],
+  "ens": "sadr.eth"
 }

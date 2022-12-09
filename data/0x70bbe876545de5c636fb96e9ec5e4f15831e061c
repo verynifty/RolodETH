@@ -3,7 +3,7 @@
     "contract",
     "erc20"
   ],
-  "erc20_symbol": "$DEATH",
+  "erc20_symbol": "$NEO",
   "erc20_decimals": 9,
-  "name": "Shinigami"
+  "name": "(NEO) Formerly Ant Shares"
 }

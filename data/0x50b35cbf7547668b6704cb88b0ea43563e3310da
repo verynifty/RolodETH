@@ -7,5 +7,6 @@
     "snapshot-voter-qidao",
     "snapshot-voter-stgdao",
     "snapshot-voter-aave"
-  ]
+  ],
+  "ens": "desisatoshi.eth"
 }

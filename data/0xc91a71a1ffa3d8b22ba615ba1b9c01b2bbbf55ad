@@ -1,7 +1,8 @@
 {
   "tags": [
     "erc20",
-    "dex"
+    "dex",
+    "contract"
   ],
   "name": "ZigZag",
   "erc20_symbol": "ZZ",

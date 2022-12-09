@@ -6,5 +6,6 @@
     "snapshot-voter-cow",
     "sudoswap-user",
     "opensea-user"
-  ]
+  ],
+  "ens": "raccooncrypto.eth"
 }

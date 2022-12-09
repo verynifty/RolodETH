@@ -4,5 +4,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-treasuredao",
     "snapshot-voter-shellprotocol"
-  ]
+  ],
+  "ens": "x107.eth"
 }
