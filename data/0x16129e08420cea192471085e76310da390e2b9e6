@@ -8,5 +8,6 @@
   "name": "Crypto Vending Machines",
   "imageUrl": "https://i.seadn.io/gcs/files/f6f18fd7dde4a4b72c1435e2685ff679.gif?w=500&auto=format",
   "externalUrl": "https://crypto-vending-machines.unicornplatform.page/",
-  "description": "Enter the world of High-Def Pixels, High-Quality Animation & High-stake holder utility! Crypto Vending Machines (CVMS) is a home-grown collection of 2,000 High-Definition Pixel Avatars equipped with a full Roadmap & a team that digs good art and making money. Your CMVS will be your ticket to our Stakeable Airdrop, Free Holder Mint & upcoming DAO launch!"
+  "description": "Enter the world of High-Def Pixels, High-Quality Animation & High-stake holder utility! Crypto Vending Machines (CVMS) is a home-grown collection of 2,000 High-Definition Pixel Avatars equipped with a full Roadmap & a team that digs good art and making money. Your CMVS will be your ticket to our Stakeable Airdrop, Free Holder Mint & upcoming DAO launch!",
+  "erc721_symbol": "CVMS"
 }

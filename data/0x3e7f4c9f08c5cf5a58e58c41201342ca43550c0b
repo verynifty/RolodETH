@@ -7,5 +7,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-mavxyz",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "mamasani.eth"
 }

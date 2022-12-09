@@ -3,5 +3,6 @@
     "snapshot-voter-gmx",
     "snapshot-voter-aave",
     "snapshot-voter-stgdao"
-  ]
+  ],
+  "ens": "quangson.eth"
 }

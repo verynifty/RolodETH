@@ -1,5 +1,9 @@
 {
   "tags": [
-    "contract"
-  ]
+    "contract",
+    "erc20"
+  ],
+  "erc20_symbol": "S*USDT",
+  "erc20_decimals": 6,
+  "name": "Tether USD-LP"
 }

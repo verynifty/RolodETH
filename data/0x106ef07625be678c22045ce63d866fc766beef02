@@ -6,5 +6,6 @@
     "snapshot-voter-speraxdao",
     "snapshot-voter-gmx",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "keegansims.eth"
 }

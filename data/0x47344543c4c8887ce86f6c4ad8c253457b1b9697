@@ -1,10 +1,13 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Abstract Art Collection",
   "imageUrl": "https://i.seadn.io/gae/DrYURYnvAmDiwCRfF_5mm4rnZkDewe48rwEBaew3gNyTAiI6AJX0N_MRDS6XnzMXqOjBoRfrETgzHYfpFICyoC4j?w=500&auto=format",
   "externalUrl": "http://AbstractArtCollection.com",
-  "description": "The Abstract Art Collection is a network of AI generated art. Each piece has been generated using artificial intelligence.  Every one is a unique and rare (NFT) ERC-721 collectible. There will be a limited supply of 999 minted."
+  "description": "The Abstract Art Collection is a network of AI generated art. Each piece has been generated using artificial intelligence.  Every one is a unique and rare (NFT) ERC-721 collectible. There will be a limited supply of 999 minted.",
+  "erc721_symbol": "AART"
 }

@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "DecentraWeb",
   "erc20_symbol": "DWEB",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18971/thumb/dweb-logo-transparent.png?1634082358"
+  "imageURL": "https://assets.coingecko.com/coins/images/18971/thumb/dweb-logo-transparent.png?1634082358",
+  "proxy": "0x94e326f61fd71fd0d9fd8994a115cca7d0faf841"
 }
