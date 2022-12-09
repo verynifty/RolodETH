@@ -3,5 +3,6 @@
     "art-goblers-minter",
     "opensea-user",
     "snapshot-voter-gobblerunion"
-  ]
+  ],
+  "ens": "nxgen.eth"
 }
