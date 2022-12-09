@@ -6,5 +6,6 @@
     "snapshot-voter-stgdao",
     "snapshot-voter-hop",
     "snapshot-voter-lido-snapshot"
-  ]
+  ],
+  "ens": "linxiao.eth"
 }

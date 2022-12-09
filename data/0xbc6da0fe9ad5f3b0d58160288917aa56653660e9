@@ -1,6 +1,7 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract"
   ],
   "name": "Alchemix USD",
   "erc20_symbol": "ALUSD",
