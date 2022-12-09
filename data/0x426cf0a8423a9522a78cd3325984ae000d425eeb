@@ -19,5 +19,6 @@
     "snapshot-voter-kleros",
     "snapshot-voter-nftfinance",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "jfactor.eth"
 }

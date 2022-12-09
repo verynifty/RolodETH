@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "Avatizer - On-chain Generative Art Mint Pass",
   "imageUrl": "https://i.seadn.io/gcs/files/14d44c095971387af886aca99bfab8d8.gif?w=500&auto=format",
   "externalUrl": "https://www.avatizer.art/",
   "discordUrl": "https://discord.gg/avatizer",
   "twitterUsername": "Avatizer_NFT",
-  "description": "**The On-Chain Art Revolution Is Here!**\n\nMeet Avatizer, the innovative generative art project that leverages on-chain technology to generate beautiful pieces of art totally independently from external servers or outside scripts. \n\nEach Avatizer NFT is a Mint Pass for ALL future project collections, mostly free to mint (the next one is already announced - it's Ugly Faces by Vitaliy Lishko). At the same time, each Avatizer represents a daily changing PFP based on the initial sketch by Andreas Pries - probably, it is the only dynamic generative art Mint Pass in the NFT world!\n\nThe Avatizer project was created by Roman Kropachek from the US-based software corporation Electronic Team, Inc. Each project’s collection is made in cooperation with famous artists and designers and has unique art and style.\n\nNOTE: OpenSea takes some time to cache the NFTs once the faces are reloaded. If your NFT takes too long to update, try clearing your browser cache and refreshing the listing."
+  "description": "**The On-Chain Art Revolution Is Here!**\n\nMeet Avatizer, the innovative generative art project that leverages on-chain technology to generate beautiful pieces of art totally independently from external servers or outside scripts. \n\nEach Avatizer NFT is a Mint Pass for ALL future project collections, mostly free to mint (the next one is already announced - it's Ugly Faces by Vitaliy Lishko). At the same time, each Avatizer represents a daily changing PFP based on the initial sketch by Andreas Pries - probably, it is the only dynamic generative art Mint Pass in the NFT world!\n\nThe Avatizer project was created by Roman Kropachek from the US-based software corporation Electronic Team, Inc. Each project’s collection is made in cooperation with famous artists and designers and has unique art and style.\n\nNOTE: OpenSea takes some time to cache the NFTs once the faces are reloaded. If your NFT takes too long to update, try clearing your browser cache and refreshing the listing.",
+  "erc721_symbol": "AVA"
 }

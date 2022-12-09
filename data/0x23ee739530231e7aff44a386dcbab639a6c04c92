@@ -6,5 +6,6 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-ens",
     "snapshot-voter-gal"
-  ]
+  ],
+  "ens": "gaoming.eth"
 }

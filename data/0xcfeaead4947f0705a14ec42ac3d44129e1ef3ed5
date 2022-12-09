@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "Notional Finance",
   "erc20_symbol": "NOTE",
   "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/20282/thumb/NOTE-340x340.png?1636821924"
+  "imageURL": "https://assets.coingecko.com/coins/images/20282/thumb/NOTE-340x340.png?1636821924",
+  "proxy": "0x95df7e34403becd532f2be160cacda56f0bd6ba3"
 }
