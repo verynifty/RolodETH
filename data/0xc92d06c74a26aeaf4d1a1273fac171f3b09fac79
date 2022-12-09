@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "erc721"
   ],
   "name": "DAO Turtles",
   "imageUrl": "https://i.seadn.io/gae/8yIGVf3AVrgebLhcKfzgKWP2EsRkBm4hW_WjT7wX4tOiqkvsR3QeLz6CoZ_gZlu_vtWjKYqdqPvaA3MsMFfySnEQlPiXqL7oDJ0YYg?w=500&auto=format",
   "externalUrl": "http://www.daoturtles.com",
   "discordUrl": "https://discord.gg/McT5tYVYeB",
   "twitterUsername": "DAO_Turtles",
-  "description": "DAO Turtles are a revolutionary collection of 10,000 turtles. The Turtles Ecosystem we are creating here is one in which users are passively generating Utility Tokens to interact with the gamification aspects of the project. Any monetary value placed upon Turtleshell by the community is speculation."
+  "description": "DAO Turtles are a revolutionary collection of 10,000 turtles. The Turtles Ecosystem we are creating here is one in which users are passively generating Utility Tokens to interact with the gamification aspects of the project. Any monetary value placed upon Turtleshell by the community is speculation.",
+  "erc721_symbol": "DTS"
 }
