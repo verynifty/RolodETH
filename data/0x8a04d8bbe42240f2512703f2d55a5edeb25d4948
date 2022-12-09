@@ -8,5 +8,6 @@
     "snapshot-voter-treasuredao",
     "snapshot-voter-hop",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "denzell6.eth"
 }

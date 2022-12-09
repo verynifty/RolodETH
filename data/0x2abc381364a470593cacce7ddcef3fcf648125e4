@@ -9,5 +9,6 @@
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "abbbb.eth"
 }

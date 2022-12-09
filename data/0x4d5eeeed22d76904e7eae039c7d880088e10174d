@@ -1,11 +1,14 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "Psycho Rigxars",
   "imageUrl": "https://i.seadn.io/gcs/files/e7894b0643d8d8b389536f3fb78b6593.png?w=500&auto=format",
   "externalUrl": "https://linktr.ee/yunuskullebi",
   "twitterUsername": "YunusKullebi",
-  "description": "Psycho Rigxars is created from 333 different mythical works of art. It deals with people who can be transofrm of the post-apocalyptic era in 2129."
+  "description": "Psycho Rigxars is created from 333 different mythical works of art. It deals with people who can be transofrm of the post-apocalyptic era in 2129.",
+  "proxy": "0xe8dd2ff0212f86d3197b4afdc6dac6ac47eb10ac"
 }

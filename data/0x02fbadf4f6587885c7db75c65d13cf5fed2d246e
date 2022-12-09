@@ -3,5 +3,6 @@
     "snapshot-voter-yam",
     "snapshot-voter-sushigov",
     "sudoswap-user"
-  ]
+  ],
+  "ens": "foxjin.eth"
 }
