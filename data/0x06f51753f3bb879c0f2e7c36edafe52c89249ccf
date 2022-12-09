@@ -3,7 +3,9 @@
     "snapshot-voter-gmx",
     "snapshot-voter-uniswap",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao"
   ],
   "ens": "stax1337.eth"
 }

@@ -9,6 +9,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-aavegotchi",
     "snapshot-voter-sismo",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-opcollective"
   ]
 }

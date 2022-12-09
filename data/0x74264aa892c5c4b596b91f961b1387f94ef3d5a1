@@ -26,6 +26,7 @@
     "snapshot-voter-xec666",
     "snapshot-voter-immutablex",
     "snapshot-voter-quickvote",
-    "snapshot-voter-lido-snapshot"
+    "snapshot-voter-lido-snapshot",
+    "snapshot-voter-opcollective"
   ]
 }

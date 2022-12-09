@@ -9,7 +9,8 @@
     "snapshot-voter-shellprotocol",
     "snapshot-voter-treasuredao",
     "snapshot-voter-mail3",
-    "snapshot-voter-vestafinance"
+    "snapshot-voter-vestafinance",
+    "snapshot-voter-cakevote"
   ],
   "ens": "fjofficial.eth"
 }

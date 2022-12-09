@@ -11,6 +11,7 @@
     "snapshot-voter-apecoin",
     "snapshot-voter-vestafinance",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-kuiqian"
+    "snapshot-voter-kuiqian",
+    "snapshot-voter-opcollective"
   ]
 }

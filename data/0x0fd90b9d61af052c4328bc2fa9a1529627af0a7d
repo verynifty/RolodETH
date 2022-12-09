@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-cakevote",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-gmx"
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
   ],
   "ens": "mr-crisis.eth"
 }

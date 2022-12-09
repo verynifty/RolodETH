@@ -1,9 +1,12 @@
 {
   "tags": [
-    "erc20"
+    "erc20",
+    "contract",
+    "proxy"
   ],
   "name": "CortexDAO",
   "erc20_symbol": "CXD",
   "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25224/thumb/cortex.jpg?1650979502"
+  "imageURL": "https://assets.coingecko.com/coins/images/25224/thumb/cortex.jpg?1650979502",
+  "proxy": "0xc459f36e1415d2baa6ce3dfa73a20480cd3ab721"
 }

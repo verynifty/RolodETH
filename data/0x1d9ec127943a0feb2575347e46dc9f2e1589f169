@@ -4,6 +4,7 @@
     "snapshot-voter-zksync-dao",
     "opensea-user",
     "snapshot-voter-sismo",
-    "snapshot-voter-guildfiworld"
+    "snapshot-voter-guildfiworld",
+    "snapshot-voter-opcollective"
   ]
 }

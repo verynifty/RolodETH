@@ -2,7 +2,8 @@
   "tags": [
     "snapshot-voter-stgdao",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-opcollective"
   ],
   "ens": "liuhaibo.eth"
 }

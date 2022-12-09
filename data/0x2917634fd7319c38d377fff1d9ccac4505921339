@@ -9,6 +9,7 @@
     "snapshot-voter-uniswap",
     "snapshot-voter-gearbox",
     "snapshot-voter-snapshot-dcl",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-stgdao"
   ]
 }

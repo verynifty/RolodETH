@@ -2,6 +2,8 @@
   "tags": [
     "snapshot-voter-08211973",
     "snapshot-voter-aave",
-    "snapshot-voter-opcollective"
+    "snapshot-voter-opcollective",
+    "snapshot-voter-cakevote",
+    "snapshot-voter-stgdao"
   ]
 }

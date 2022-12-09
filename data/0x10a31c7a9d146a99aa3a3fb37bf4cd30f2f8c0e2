@@ -1,4 +1,6 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-stgdao"
+  ],
   "ens": "icao.eth"
 }

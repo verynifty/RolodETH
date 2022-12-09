@@ -19,5 +19,6 @@
     "snapshot-voter-aave",
     "snapshot-voter-gmx",
     "snapshot-voter-opcollective"
-  ]
+  ],
+  "ens": "stakerr.eth"
 }

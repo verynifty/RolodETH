@@ -6,7 +6,8 @@
     "snapshot-voter-sismo",
     "snapshot-voter-anglegovernance",
     "snapshot-voter-vestafinance",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-opcollective"
   ],
   "ens": "vzlomcrypto.eth"
 }

@@ -11,6 +11,7 @@
     "snapshot-voter-shellprotocol",
     "sudoswap-user",
     "snapshot-voter-gobblerunion",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ]
 }

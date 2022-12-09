@@ -5,6 +5,7 @@
     "snapshot-voter-aave",
     "snapshot-voter-pooltogether",
     "snapshot-voter-apecoin",
-    "snapshot-voter-sismo"
+    "snapshot-voter-sismo",
+    "snapshot-voter-opcollective"
   ]
 }

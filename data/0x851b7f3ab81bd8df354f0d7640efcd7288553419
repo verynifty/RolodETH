@@ -1,7 +1,8 @@
 {
   "tags": [
     "ico-wallets",
-    "multisig"
+    "multisig",
+    "contract"
   ],
   "name": "Gnosis: Multisig 2"
 }

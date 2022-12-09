@@ -1,5 +1,6 @@
 {
   "tags": [
-    "snapshot-voter-zksync-dao"
+    "snapshot-voter-zksync-dao",
+    "snapshot-voter-cakevote"
   ]
 }

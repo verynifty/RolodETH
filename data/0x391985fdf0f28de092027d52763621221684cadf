@@ -6,7 +6,8 @@
     "snapshot-voter-comp-vote",
     "sudoswap-user",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-uniswap"
+    "snapshot-voter-uniswap",
+    "snapshot-voter-stgdao"
   ],
   "ens": "wesley888.eth"
 }

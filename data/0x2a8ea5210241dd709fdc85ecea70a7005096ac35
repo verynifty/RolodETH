@@ -3,6 +3,7 @@
     "snapshot-voter-banklessvault",
     "snapshot-voter-gnosis",
     "snapshot-voter-shellprotocol",
-    "snapshot-voter-humandao"
+    "snapshot-voter-humandao",
+    "snapshot-voter-stgdao"
   ]
 }

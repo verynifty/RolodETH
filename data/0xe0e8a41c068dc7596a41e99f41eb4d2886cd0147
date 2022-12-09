@@ -8,7 +8,8 @@
     "snapshot-voter-mail3",
     "snapshot-voter-uniswap",
     "snapshot-voter-isat",
-    "snapshot-voter-kuiclub"
+    "snapshot-voter-kuiclub",
+    "snapshot-voter-opcollective"
   ],
   "ens": "liuqinyan.eth"
 }

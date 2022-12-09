@@ -9,6 +9,7 @@
     "snapshot-voter-comp-vote",
     "snapshot-voter-lido-snapshot",
     "snapshot-voter-aave",
-    "snapshot-voter-dydxgov"
+    "snapshot-voter-dydxgov",
+    "snapshot-voter-opcollective"
   ]
 }

@@ -1,12 +1,15 @@
 {
   "tags": [
     "nft",
-    "opensea-verified"
+    "opensea-verified",
+    "contract",
+    "proxy"
   ],
   "name": "N.T.P. Canisters by Toxic Skulls Club",
   "imageUrl": "https://i.seadn.io/gcs/files/a3e2e0561e82c346ee0468c19c6ace04.jpg?w=500&auto=format",
   "externalUrl": "https://toxicskullsclub.io/",
   "discordUrl": "https://discord.gg/toxic-skulls-club",
   "twitterUsername": "ToxicSkullsClub",
-  "description": "N.T.P. Canisters by Toxic Skulls Club consists of a limited number of canisters. \r\n\r\nUse this antidote at your own risk on your TSC NFTs and proceed with caution. \r\n\r\nBe sure to collect your canisters as you will have the ability in the future to burn 3 to be able to receive a highly hazardous one.\r\n\r\nShould you choose to move forward please visit: https://www.toxicskullsclub.io/"
+  "description": "N.T.P. Canisters by Toxic Skulls Club consists of a limited number of canisters. \r\n\r\nUse this antidote at your own risk on your TSC NFTs and proceed with caution. \r\n\r\nBe sure to collect your canisters as you will have the ability in the future to burn 3 to be able to receive a highly hazardous one.\r\n\r\nShould you choose to move forward please visit: https://www.toxicskullsclub.io/",
+  "proxy": "0x19f8cb5818fad2f051f70fe8f9a319bacfa49a78"
 }

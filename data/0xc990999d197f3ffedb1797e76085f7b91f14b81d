@@ -8,6 +8,7 @@
     "snapshot-voter-pranjalbora",
     "snapshot-voter-aave",
     "snapshot-voter-lido-snapshot",
-    "snapshot-voter-treasuredao"
+    "snapshot-voter-treasuredao",
+    "snapshot-voter-cakevote"
   ]
 }

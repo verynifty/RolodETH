@@ -1,4 +1,7 @@
 {
-  "tags": [],
+  "tags": [
+    "snapshot-voter-gmx",
+    "snapshot-voter-stgdao"
+  ],
   "ens": "cadomi.eth"
 }

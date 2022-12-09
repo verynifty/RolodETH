@@ -4,7 +4,8 @@
     "snapshot-voter-paraswap-dao",
     "snapshot-voter-stgdao",
     "snapshot-voter-mavxyz",
-    "snapshot-voter-qidao"
+    "snapshot-voter-qidao",
+    "snapshot-voter-gmx"
   ],
   "ens": "bet356.eth"
 }
