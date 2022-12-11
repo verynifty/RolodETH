@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Siren",
-  "erc20_symbol": "SI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13955/thumb/Siren_Logo_circle_256px.png?1645684572"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MetaBrands",
-  "erc20_symbol": "MAGE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21244/thumb/MAGE-CG.png?1638766340"
-}

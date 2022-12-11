@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Beagle",
-  "erc20_decimals": 5,
-  "name": "Beaglebull Inu"
-}

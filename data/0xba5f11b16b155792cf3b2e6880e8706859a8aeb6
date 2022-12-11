@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Aeron",
-  "erc20_symbol": "ARN",
-  "erc20_decimals": 8
-}

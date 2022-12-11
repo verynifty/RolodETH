@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Nukplan",
-  "erc20_symbol": "NKPL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28182/thumb/logo_200x200.png?1668255855"
-}

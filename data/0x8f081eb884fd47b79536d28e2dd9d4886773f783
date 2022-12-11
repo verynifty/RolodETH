@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "bePAY Finance",
-  "erc20_symbol": "BECOIN",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/21275/thumb/logo-becoin.png?1638861929"
-}

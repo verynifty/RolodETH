@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Etrade",
-  "erc20_symbol": "ETT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9111/thumb/NkGLvEO2_400x400.jpg?1564435046"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "POLYAI",
-  "erc20_symbol": "AI",
-  "erc20_decimals": 18
-}

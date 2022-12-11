@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "YellowHeart Protocol",
-  "erc20_symbol": "HRTS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25304/thumb/HRTS.png?1652087596"
-}

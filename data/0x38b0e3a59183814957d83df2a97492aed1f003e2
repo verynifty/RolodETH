@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ANML",
-  "erc20_decimals": 18,
-  "name": "Animal Concerts Token"
-}

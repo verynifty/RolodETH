@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "sOKLG",
-  "erc20_decimals": 18,
-  "name": "OKLG Staking Token"
-}

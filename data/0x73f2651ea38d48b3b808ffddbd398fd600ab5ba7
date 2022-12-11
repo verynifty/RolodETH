@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dukascoin",
-  "erc20_symbol": "DUK+",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/14374/thumb/dukascoin_200x200_silver.png?1615774652"
-}

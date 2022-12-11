@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Golem",
-  "erc20_symbol": "GNT",
-  "erc20_decimals": 18
-}

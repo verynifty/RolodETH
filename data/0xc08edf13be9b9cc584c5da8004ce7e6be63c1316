@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract-deployer",
-    "contract",
-    "proxy"
-  ],
-  "name": "Sora: Deployer",
-  "proxy": "0xb555a614ff188698d479ab807398f5d1b4a24146"
-}

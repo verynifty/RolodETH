@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "sbBTC",
-  "erc20_decimals": 8,
-  "name": "Swingby BTC LP Token"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Celeb",
-  "erc20_symbol": "CELEB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16402/thumb/celeb.PNG?1623914565"
-}

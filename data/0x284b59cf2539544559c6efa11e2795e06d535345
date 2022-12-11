@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DAOvc",
-  "erc20_symbol": "DAOVC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18259/thumb/daovc.PNG?1631156207"
-}

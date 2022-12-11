@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "compound",
-    "erc20"
-  ],
-  "name": "CompoundSai",
-  "erc20_symbol": "cSai",
-  "erc20_decimals": 8
-}

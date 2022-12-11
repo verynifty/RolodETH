@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ChangeX",
-  "erc20_symbol": "CHANGE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26487/thumb/Changex-mark-200x200.png?1665655365"
-}

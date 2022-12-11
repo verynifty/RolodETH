@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "DigiPulse",
-  "erc20_symbol": "DGPT",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "wystoken",
-  "erc20_symbol": "WYS",
-  "erc20_decimals": 18
-}

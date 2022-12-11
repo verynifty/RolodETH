@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Google",
-  "erc20_decimals": 18,
-  "name": "Google Dao"
-}

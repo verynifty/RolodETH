@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "3X Short Tether Token",
-  "erc20_symbol": "USDTBEAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10307/thumb/683JEXMN_400x400.png?1577743905"
-}

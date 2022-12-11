@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ALG",
-  "erc20_decimals": 4,
-  "name": "A L G money"
-}

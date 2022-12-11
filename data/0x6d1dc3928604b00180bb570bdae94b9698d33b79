@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UnitedCrowd",
-  "erc20_symbol": "UCT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14956/thumb/eUvRU9wm.png?1619142511"
-}

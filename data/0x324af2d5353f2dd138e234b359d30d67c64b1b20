@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Oracle System",
-  "erc20_symbol": "ORC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12517/thumb/www.oraclesystem.io-home-org-logo.png?1600382654"
-}

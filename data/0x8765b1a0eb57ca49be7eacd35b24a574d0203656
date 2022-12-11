@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MetaGameHub DAO",
-  "erc20_symbol": "MGH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20625/thumb/mgh.PNG?1637318966"
-}

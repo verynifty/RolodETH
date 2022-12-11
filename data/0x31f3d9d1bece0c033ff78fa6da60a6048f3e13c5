@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EBCoin",
-  "erc20_symbol": "EBC",
-  "erc20_decimals": 18
-}

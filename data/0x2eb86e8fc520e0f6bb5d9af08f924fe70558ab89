@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Logarithm",
-  "erc20_symbol": "LGR",
-  "erc20_decimals": 8
-}

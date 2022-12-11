@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "EngagementToken",
-  "erc20_symbol": "ENGT",
-  "erc20_decimals": 18
-}

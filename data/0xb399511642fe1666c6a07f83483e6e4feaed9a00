@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Standard Euro",
-  "erc20_symbol": "SEURO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28201/thumb/Picture2.png?1668338664"
-}

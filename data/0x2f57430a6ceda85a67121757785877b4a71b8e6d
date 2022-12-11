@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DefiPlaza",
-  "erc20_symbol": "DFP2",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19552/thumb/profile-round.png?1654153498"
-}

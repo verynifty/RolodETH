@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bitball",
-  "erc20_symbol": "BTB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7039/thumb/btb.png?1637556233"
-}

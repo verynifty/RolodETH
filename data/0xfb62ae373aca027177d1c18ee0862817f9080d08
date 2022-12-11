@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "My DeFi Pet",
-  "erc20_symbol": "DPET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15321/thumb/mydefi.PNG?1620512455"
-}

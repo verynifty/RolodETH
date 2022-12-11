@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Lyfe Gold",
-  "erc20_symbol": "LGOLD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14938/thumb/LGOLD-Logo-200.png?1619082558"
-}

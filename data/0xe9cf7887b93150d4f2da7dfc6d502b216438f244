@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UniswapSynthsETH",
-  "erc20_symbol": "unisETH",
-  "erc20_decimals": 18
-}

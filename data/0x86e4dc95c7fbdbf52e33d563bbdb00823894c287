@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "polygon-matic",
-    "contract",
-    "proxy"
-  ],
-  "name": "Polygon (Matic): Root Chain Proxy",
-  "proxy": "0x536c55cfe4892e581806e10b38dfe8083551bd03"
-}

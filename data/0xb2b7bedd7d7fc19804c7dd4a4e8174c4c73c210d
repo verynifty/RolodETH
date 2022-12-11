@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "XT-1",
-  "erc20_decimals": 18,
-  "name": "XToken 1"
-}

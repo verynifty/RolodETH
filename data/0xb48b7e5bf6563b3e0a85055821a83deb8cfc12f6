@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "NOVA",
-  "erc20_symbol": "NOVA",
-  "erc20_decimals": 3,
-  "imageURL": "https://assets.coingecko.com/coins/images/6545/thumb/N7d0x35q_400x400.jpg?1547042760"
-}

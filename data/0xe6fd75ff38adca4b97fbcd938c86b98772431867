@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Elastos",
-  "erc20_symbol": "ELA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2780/thumb/Elastos.png?1597048112"
-}

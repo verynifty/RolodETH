@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Talent Coin",
-  "erc20_symbol": "TLNT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/13771/thumb/TLNT.png?1611698474"
-}

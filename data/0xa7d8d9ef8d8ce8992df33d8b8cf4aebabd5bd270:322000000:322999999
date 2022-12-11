@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Gels by Jason Brown - Shawn Douglas",
-  "imageUrl": "https://media.artblocks.io/322000000.png",
-  "externalUrl": "https://www.youtube.com/watch?v=Q2zRJf3stwc",
-  "description": "**Gels** is a science-inspired generative piece. Our algorithm simulates *gel electrophoresis*, a powerful experimental method in molecular biology used daily by thousands of scientists worldwide. In the lab, scientists \"run a gel\" to separate and visualize molecules such as DNA, RNA, and proteins. These molecules appear as patterns of bands when photographed, and those patterns can be used to interpret the results of experiments. \n\nThe DNA band patterns in this work derive from combinations of a simulated experimental data and real-world data, including DNA sequences that encode several variants of the SARS-CoV-2 spike protein, and the corresponding mRNA vaccines. Our algorithm first generates plausible sample tubes that typically contain one or more DNA fragments. Then, each sample is distributed and \"run\" on a simulated gel to create the characteristic band patterns that might be observed on real gels.\n\nOur simulations also take into account human error — mistakes are common in the lab, especially for novice researchers, but they can also lead to visually interesting results. For example, uneven salt concentrations or applying excess voltage can cause warping effects.\n\nFinally, we aim to leverage proceeds of this project to support future scientific research! We invite interested collectors to follow along with our future work."
-}

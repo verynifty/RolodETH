@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SmartX",
-  "erc20_symbol": "SAT",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/11788/thumb/FZf8lPa3_400x400.jpg?1594018352"
-}

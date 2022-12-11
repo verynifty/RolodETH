@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Rapidz",
-  "erc20_symbol": "RPZX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7663/thumb/rapidzpay-logo.jpg?1549038850"
-}

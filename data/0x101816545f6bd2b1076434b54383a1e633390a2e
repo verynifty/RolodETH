@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "S*SGETH",
-  "erc20_decimals": 18,
-  "name": "Stargate Ether Vault-LP"
-}

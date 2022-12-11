@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BondAppetite USD",
-  "erc20_symbol": "USDAP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14874/thumb/USDap_%281%29.png?1618822197"
-}

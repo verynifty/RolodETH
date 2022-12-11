@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Blocktix",
-  "erc20_symbol": "TIX",
-  "erc20_decimals": 18
-}

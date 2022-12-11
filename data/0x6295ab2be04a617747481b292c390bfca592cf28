@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TokenDesk",
-  "erc20_symbol": "TDS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1821/thumb/tokendesk.png?1548758709"
-}

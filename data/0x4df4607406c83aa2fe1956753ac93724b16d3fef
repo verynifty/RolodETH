@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "LNG",
-  "erc20_decimals": 2,
-  "name": "lingoleo"
-}

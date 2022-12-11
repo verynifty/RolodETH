@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Flowchain",
-  "erc20_symbol": "FLC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7446/thumb/logo_%2889%29.png?1597459811"
-}

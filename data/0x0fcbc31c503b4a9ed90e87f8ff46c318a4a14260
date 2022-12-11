@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Quantfury",
-  "erc20_symbol": "QTF",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/14033/thumb/FtSOX9Vy_400x400.jpg?1613946524"
-}

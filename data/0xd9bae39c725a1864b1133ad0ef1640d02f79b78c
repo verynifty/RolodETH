@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TouchSocialToken",
-  "erc20_symbol": "TST",
-  "erc20_decimals": 18
-}

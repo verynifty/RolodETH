@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Probit",
-  "erc20_symbol": "PROB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6765/thumb/ProBit-Exchange-logo.png?1547043029"
-}

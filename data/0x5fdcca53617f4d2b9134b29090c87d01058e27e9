@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "bridge",
-    "contract",
-    "proxy"
-  ],
-  "name": "Immutable X: Bridge",
-  "proxy": "0xb8563ad5af1f79dd04937be8b572318c8e6f43ac"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Nyx",
-  "erc20_symbol": "NYXT",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/22174/thumb/NYX-logo-medium-size.png?1641174126"
-}

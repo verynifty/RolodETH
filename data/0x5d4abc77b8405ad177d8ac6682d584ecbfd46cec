@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Primas",
-  "erc20_symbol": "PST",
-  "erc20_decimals": 18
-}

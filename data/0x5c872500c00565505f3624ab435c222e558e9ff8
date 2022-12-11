@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CoTrader",
-  "erc20_symbol": "COT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4205/thumb/logo_black.png?1547039508"
-}

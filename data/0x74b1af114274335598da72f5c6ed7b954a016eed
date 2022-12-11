@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "HitBTC",
-  "erc20_symbol": "HIT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16395/thumb/JgMkz95.png?1623909204"
-}

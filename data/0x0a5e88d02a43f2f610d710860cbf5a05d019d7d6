@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "TYWANT",
-  "erc20_decimals": 18,
-  "name": "Fable of the Dwagon"
-}

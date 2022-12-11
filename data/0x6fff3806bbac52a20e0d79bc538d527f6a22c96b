@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CommodityAdNetwork",
-  "erc20_symbol": "CDX",
-  "erc20_decimals": 18
-}

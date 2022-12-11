@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Hacken",
-  "erc20_symbol": "HKN",
-  "erc20_decimals": 8
-}

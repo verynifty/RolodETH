@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "KuendeToken",
-  "erc20_symbol": "KUE",
-  "erc20_decimals": 18
-}

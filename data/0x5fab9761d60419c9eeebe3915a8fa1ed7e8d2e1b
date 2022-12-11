@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DIMO",
-  "erc20_symbol": "DIMO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28383/thumb/Token_Logo.png?1670052785"
-}

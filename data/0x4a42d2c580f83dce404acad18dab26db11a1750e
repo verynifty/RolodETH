@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Relex",
-  "erc20_symbol": "RLX",
-  "erc20_decimals": 18
-}

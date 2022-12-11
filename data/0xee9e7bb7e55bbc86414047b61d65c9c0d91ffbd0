@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Fracton Protocol",
-  "erc20_symbol": "FT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26809/thumb/CtH9UlRl_400x400.jpeg?1660227771"
-}

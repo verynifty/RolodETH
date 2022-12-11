@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Mothership",
-  "erc20_symbol": "MSP",
-  "erc20_decimals": 18
-}

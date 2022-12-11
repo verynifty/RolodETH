@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "LGOExchange",
-  "erc20_symbol": "LGOold",
-  "erc20_decimals": 8
-}

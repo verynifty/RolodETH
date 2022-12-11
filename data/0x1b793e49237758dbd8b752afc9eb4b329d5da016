@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Vite",
-  "erc20_symbol": "VITE",
-  "erc20_decimals": 18
-}

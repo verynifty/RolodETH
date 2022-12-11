@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Mind Maze by Parse/Error",
-  "imageUrl": "https://media.artblocks.io/298000000.png",
-  "externalUrl": "https://www.parseerror.net/portfolio/mind-maze/",
-  "description": "Mind Maze is a contemplative and meditative experience, a wandering above an ever changing labyrinth, a cryptic message scrolling endlessly. Mind Maze explores the relationship between mindset and worldview, drawing parallels between communication and mental health, especially in these troubled times.\n\nWith strong references to the labyrinth metaphor, but also borders, cities and calligraphy, Mind Maze plays with shapes, colors and movements to create an infinite space reflecting our need to explore and find answers, but also the endless expanse of our doubts, and the barriers constituted by our language and our cultural constructions.\n\nAs often in my work, this piece is inspired by the hypnotizing movements of nature, trying to make an organic feeling emerge from cold geometry shapes. A reflection on how a host of independent, autonomous, different elements can come together to form a whole, a new coherent entity.\n\nMind Maze is also my genesis piece on the Etherum blockchain, which means it’s my first NFT project offered on this blockchain. It’s written in Javascript using the ThreeJs library. It makes extensive use of GPU instancing, via custom shaders, to be able to draw and animate all the shapes in an optimized way. \n\n- Move your mouse to interact\n- Press “s” key to save a high-resolution still (5760x3240px)"
-}

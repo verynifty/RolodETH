@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Era Swap",
-  "erc20_symbol": "ES",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6031/thumb/era_swap.PNG?1570920926"
-}

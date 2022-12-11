@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BAYC Vault  NFTX ",
-  "erc20_symbol": "BAYC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17035/thumb/BAYC.png?1626142944"
-}

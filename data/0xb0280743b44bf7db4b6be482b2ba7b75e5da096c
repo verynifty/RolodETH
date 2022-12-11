@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Transcodium",
-  "erc20_symbol": "TNS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2071/thumb/transcodium.png?1548759093"
-}

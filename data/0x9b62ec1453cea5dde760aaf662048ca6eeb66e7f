@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Consensus Cell Network",
-  "erc20_symbol": "ECELL",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/12624/thumb/ecell_logo_128.png?1643188699"
-}

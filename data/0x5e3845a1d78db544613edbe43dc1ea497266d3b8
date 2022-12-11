@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "LNX Protocol",
-  "erc20_symbol": "LNX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8776/thumb/Linix.png?1561103529"
-}

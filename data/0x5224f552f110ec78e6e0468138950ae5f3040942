@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Anomus Coin",
-  "erc20_symbol": "ANOM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20865/thumb/w07_TWqn_400x400.png?1637807012"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GEN-I",
-  "erc20_decimals": 9,
-  "name": "Dragonite"
-}

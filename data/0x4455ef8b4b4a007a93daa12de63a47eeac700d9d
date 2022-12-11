@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KNIGHT",
-  "erc20_decimals": 18,
-  "name": "Forest Knight"
-}

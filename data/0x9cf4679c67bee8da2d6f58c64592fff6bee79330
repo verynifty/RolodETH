@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Yearn Cash",
-  "erc20_symbol": "YFIC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24777/thumb/yfic.png?1648900564"
-}

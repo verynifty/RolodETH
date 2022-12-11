@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BlackmoonCryptoBMCToken",
-  "erc20_symbol": "BMC",
-  "erc20_decimals": 8
-}

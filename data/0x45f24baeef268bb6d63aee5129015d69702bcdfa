@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "YFValue",
-  "erc20_symbol": "YFV",
-  "erc20_decimals": 18
-}

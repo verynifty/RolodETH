@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "WindingTree",
-  "erc20_symbol": "LIF",
-  "erc20_decimals": 18
-}

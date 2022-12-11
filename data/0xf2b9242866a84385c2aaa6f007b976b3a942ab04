@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "EDRAGON",
-  "erc20_decimals": 9,
-  "name": "Eternal Dragon"
-}

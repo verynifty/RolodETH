@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BlockNoteX",
-  "erc20_symbol": "BNOX",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/11066/thumb/bnox-color-h256.png?1587777583"
-}

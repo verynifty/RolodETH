@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "DOGE2.0",
-  "erc20_decimals": 9,
-  "name": "DOGE2.0"
-}

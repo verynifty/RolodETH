@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "TRI",
-  "erc20_decimals": 12,
-  "name": "Trillant"
-}

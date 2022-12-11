@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Klondike BTC",
-  "erc20_symbol": "KBTC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13789/thumb/klondike.jpg?1611759492"
-}

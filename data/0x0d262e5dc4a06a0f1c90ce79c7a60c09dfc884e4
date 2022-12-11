@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "J8TToken",
-  "erc20_symbol": "J8T",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SAKE",
-  "erc20_symbol": "SAK3",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15890/thumb/Sak3.jpg?1622219322"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Stains on a Canvas by Omar Lobato",
-  "imageUrl": "https://media.artblocks.io/365000000.png",
-  "description": "This project is an exercise in simplicity, simulating stains of ink made through points and noise. \n\nSince creating art with code, I’ve wanted to reproduce the physical with the digital. \nStains On A Canvas emerged from this desire to produce a hand-made canvas painting. \n\nStains On A Canvas’s background textures use points or grids, and the algorithm explores the maximum difference between each iteration. The collection is divided into styles, named after popular flowers in my country [Brazil]. Colors are randomly generated to create unique tones paired with the variety of shades and shadows.\n\n\n\n\n\n-Press from 1 - 9 in your keyboard to adjust the pixelDensity and increase/equalize the resolution quality according to your screen.\n\n-Press \"S\" to save a .png file in the resolution quality you choose."
-}

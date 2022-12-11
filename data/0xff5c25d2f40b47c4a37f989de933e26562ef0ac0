@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KNT",
-  "erc20_decimals": 16,
-  "name": "Kora Network Token"
-}

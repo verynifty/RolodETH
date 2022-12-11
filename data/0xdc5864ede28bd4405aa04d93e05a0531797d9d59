@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Falcon Project",
-  "erc20_symbol": "FNT",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/11579/thumb/falcon_ava_black.png?1591317863"
-}

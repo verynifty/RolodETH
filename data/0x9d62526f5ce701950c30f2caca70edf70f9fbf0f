@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Blocktanium",
-  "erc20_symbol": "BKT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16650/thumb/bkt.png?1624592883"
-}

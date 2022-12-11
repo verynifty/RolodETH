@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Litecoin SV",
-  "erc20_symbol": "LSV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11100/thumb/1GyOsGG.png?1588749283"
-}

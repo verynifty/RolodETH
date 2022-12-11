@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "EtheremonToken",
-  "erc20_symbol": "EMONT",
-  "erc20_decimals": 8
-}

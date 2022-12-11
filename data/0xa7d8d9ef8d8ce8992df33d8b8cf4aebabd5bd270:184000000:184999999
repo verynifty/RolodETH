@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Swing by Eltono",
-  "imageUrl": "https://media.artblocks.io/184000000.png",
-  "externalUrl": "https://www.eltono.com/lab/projects/swing/",
-  "description": "The Swing protocol is a composition generator that is set to generate both bold and elegant compositions. It works on a 3×2 grid where 7 different lines and an empty shape are randomly placed on the grid on 2 layers. The background is divided into 3 rows or 2 columns that can be filled with 9 different colors or stripes with different coefficients. The paper and the margin can be filled with 6 different colors. The protocol is finely tuned so that the interaction between all the elements always delivers a swinging composition. Dutch auction starting at 2Ξ and decreasing every 5 minutes to 0.15Ξ (2 → 1 → 0.75 → 0.5 → 0.4 → 0.3 → 0.25 → 0.22 → 0.2 → 0.18 → 0.15). 25% of sales over 0.25 will be donated to Juste Ici, a non-profit organization in France, focused on making art accessible to everyone."
-}

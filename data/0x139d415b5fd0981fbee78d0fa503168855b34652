@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "M24",
-  "erc20_decimals": 8,
-  "name": "Mining24"
-}

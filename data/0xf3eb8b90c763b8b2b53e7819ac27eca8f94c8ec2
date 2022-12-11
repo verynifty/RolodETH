@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EtherSmart",
-  "erc20_symbol": "ETM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18019/thumb/ethersmart.PNG?1630281887"
-}

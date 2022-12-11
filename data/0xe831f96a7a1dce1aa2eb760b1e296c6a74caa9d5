@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Nexum",
-  "erc20_symbol": "NEXM",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/23472/thumb/200_-_200_coinmarketcap.png?1644218225"
-}

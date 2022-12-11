@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Community Business Token",
-  "erc20_symbol": "CBT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14701/thumb/CBT-Token-Small.png?1617838284"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Spotlight by Joshua Bagley",
-  "imageUrl": "https://media.artblocks.io/256000000.png",
-  "externalUrl": "https://joshua-bagley.com/spotlight/",
-  "description": "Inspired by observing projections of light through a glass cup, Spotlight is an abstract exploration of how light interacts with various shapes and forms in 2D space. It has a strong focus on texture and the use of real world physics as generative rules.\n\n3000 photons spawn on a blank canvas with set direction and velocity. Hidden on the screen, an arrangement of shapes populate the space. When a photon collides with the edge of a shape, it either reflects off or refracts through its surface, changing the photon's direction and color. These photons leave small circles along their path...the only drawn element in the artwork. This painting of light both reveals the hidden forms below and ties their chaotic arrangement together. The resulting image captures the motion and evolution of the light, generating beautiful gradients and layers, and creating the illusion of depth, shadows, and highlights. \n\nPress 's' to save a snapshot of the canvas, and 'd' to reveal outlines of the shapes.\nThis artwork renders live, from a blank screen to a filled screen. It may take a while to fully render. Best viewed in extra high definition."
-}

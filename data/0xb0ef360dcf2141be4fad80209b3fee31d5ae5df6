@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "HYBRID",
-  "erc20_decimals": 8,
-  "name": "Hybrid Asset - Internet of Coins"
-}

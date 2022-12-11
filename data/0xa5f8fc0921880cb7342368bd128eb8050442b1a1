@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BlockArray",
-  "erc20_symbol": "ARY",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Terraform DAO",
-  "erc20_symbol": "TERRAFORM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26742/thumb/tf-logo-200x200.png?1660005166"
-}

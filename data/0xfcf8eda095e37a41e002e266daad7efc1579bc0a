@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "FLEX Coin",
-  "erc20_symbol": "FLEX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9108/thumb/coinflex_logo.png?1628750583"
-}

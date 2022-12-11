@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "NoBSCrypto",
-  "erc20_symbol": "NOBS",
-  "erc20_decimals": 18
-}

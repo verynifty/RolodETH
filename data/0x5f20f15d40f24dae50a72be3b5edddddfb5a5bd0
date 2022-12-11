@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bobamask",
-  "erc20_symbol": "BOBA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24072/thumb/200_x_200_logo.png?1651220892"
-}

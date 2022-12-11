@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Pledgecamp",
-  "erc20_symbol": "PLG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/5120/thumb/pledgecamop.png?1550204115"
-}

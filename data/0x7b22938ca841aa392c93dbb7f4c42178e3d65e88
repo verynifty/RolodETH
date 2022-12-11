@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "AstroTokens",
-  "erc20_symbol": "ASTRO",
-  "erc20_decimals": 4
-}

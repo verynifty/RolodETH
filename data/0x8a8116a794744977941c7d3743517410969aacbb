@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Shiba Punkz",
-  "erc20_symbol": "SPUNK",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/27163/thumb/shibapunkzlogo.JPG?1662283310"
-}

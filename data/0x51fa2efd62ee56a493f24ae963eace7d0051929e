@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Poseidon OCEAN",
-  "erc20_symbol": "PSDNOCEAN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27859/thumb/psdnOCEAN.png?1666097011"
-}

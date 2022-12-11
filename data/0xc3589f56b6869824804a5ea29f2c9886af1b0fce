@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Honey",
-  "erc20_symbol": "HNY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588"
-}

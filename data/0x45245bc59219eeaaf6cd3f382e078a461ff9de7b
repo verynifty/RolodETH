@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BANKEX",
-  "erc20_symbol": "BKX",
-  "erc20_decimals": 18
-}

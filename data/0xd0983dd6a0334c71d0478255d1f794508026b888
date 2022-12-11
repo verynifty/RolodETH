@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EGG Protocol",
-  "erc20_symbol": "EGG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18735/thumb/EGG_%281%29.png?1633308617"
-}

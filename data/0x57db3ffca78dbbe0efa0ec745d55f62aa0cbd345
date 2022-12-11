@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Symmetric",
-  "erc20_symbol": "SYMM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18525/thumb/SYMM-Coin-2.png?1632276841"
-}

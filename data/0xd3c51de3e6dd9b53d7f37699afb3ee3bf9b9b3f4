@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MContent",
-  "erc20_symbol": "MCONTENT",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/16781/thumb/Image_mcontent.jpeg?1653476766"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "LiquidityNetworkToken",
-  "erc20_symbol": "LQD",
-  "erc20_decimals": 18
-}

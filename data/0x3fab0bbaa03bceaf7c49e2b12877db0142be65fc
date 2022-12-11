@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Castello Coin",
-  "erc20_symbol": "CAST",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/25216/thumb/19705.png?1650866493"
-}

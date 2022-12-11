@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ASEC Frontier",
-  "erc20_symbol": "ASEC",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/15939/thumb/58947b_49a936ef42ab4b7da4d2beb95852d49a_mv2.png?1622459327"
-}

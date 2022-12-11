@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Stake DAO Balancer",
-  "erc20_symbol": "SDBAL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26224/thumb/6uqFPXny_400x400.jpg?1656642803"
-}

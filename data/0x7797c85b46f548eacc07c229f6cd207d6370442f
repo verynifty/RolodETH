@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dog Tag",
-  "erc20_symbol": "TAG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26418/thumb/TAG_PNG.png?1657926565"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "trusttoken",
-    "erc20"
-  ],
-  "name": "TrueHKD",
-  "erc20_symbol": "THKD",
-  "erc20_decimals": 18
-}

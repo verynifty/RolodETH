@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "InvestFeed",
-  "erc20_symbol": "IFT",
-  "erc20_decimals": 18
-}

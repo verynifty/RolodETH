@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Parallel",
-  "erc20_symbol": "PAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14153/thumb/par_round_200.png?1614670422"
-}

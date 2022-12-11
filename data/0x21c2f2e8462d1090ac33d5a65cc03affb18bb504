@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GLAM",
-  "erc20_decimals": 15,
-  "name": "GlamJet"
-}

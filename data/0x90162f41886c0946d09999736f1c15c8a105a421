@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "FanToken",
-  "erc20_symbol": "FAN",
-  "erc20_decimals": 18
-}

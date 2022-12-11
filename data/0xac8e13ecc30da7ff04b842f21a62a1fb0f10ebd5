@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BabyDoge ETH",
-  "erc20_symbol": "BABYDOGE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/17166/thumb/logo_256px_%281%29.png?1626684127"
-}

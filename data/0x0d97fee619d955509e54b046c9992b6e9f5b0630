@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PONY Index",
-  "erc20_symbol": "PONY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26131/thumb/pfemoji.png?1655964722"
-}

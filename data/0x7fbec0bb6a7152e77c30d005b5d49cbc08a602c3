@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "disBalancer",
-  "erc20_symbol": "DDOS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14791/thumb/communityIcon_o2yriheuszk61.png?1618463138"
-}

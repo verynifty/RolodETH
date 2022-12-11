@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UniswapChainLinkToken",
-  "erc20_symbol": "uniLINK",
-  "erc20_decimals": 18
-}

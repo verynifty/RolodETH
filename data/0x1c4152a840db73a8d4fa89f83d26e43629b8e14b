@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "OKB",
-  "erc20_decimals": 1,
-  "name": "OKB"
-}

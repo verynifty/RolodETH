@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "50WSTETH-50LDO",
-  "erc20_decimals": 18,
-  "name": "Balancer 50wstETH-50LDO"
-}

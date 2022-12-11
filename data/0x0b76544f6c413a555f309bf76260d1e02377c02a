@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "InternetNodeToken",
-  "erc20_symbol": "INT",
-  "erc20_decimals": 6
-}

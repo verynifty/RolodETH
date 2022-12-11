@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dev Doing Something",
-  "erc20_symbol": "DEV",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/26805/thumb/200x200.png?1660208225"
-}

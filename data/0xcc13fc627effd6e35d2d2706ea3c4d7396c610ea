@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "idex",
-    "erc20"
-  ],
-  "name": "IDEXMembership",
-  "erc20_symbol": "IDXM",
-  "erc20_decimals": 8
-}

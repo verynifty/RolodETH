@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft",
-    "opensea-verified"
-  ],
-  "name": "DIA ART - Decentraland",
-  "imageUrl": "https://i.seadn.io/gae/kgMlMIMOAVrXAZfWHA4OBmx56UvJMjP3iz3MzQmNYdNaQGihjRZjpcyz-zuJjGzxFgyo_LLILqIFL4OVsdTppllMcnzVAsoPusw7WQ?w=500&auto=format",
-  "description": "DIA ARTs are NFTs that enable the tracking and management of data usage rights. ARTs open a monetisation path for data sources and create incentives to mint them, driving the sourcing and validation of new data feeds.\n\nARTs reference data rights and the relevant parameters that define the usage rights, like duration, usage context etc. and act as a key for dApps to access DIA oracles. In order to ingest data from DIA oracles, dApp developers will need to mint ARTs by contributing to a pool and hold the ART in the respective wallet.\n\nA contribution of 100 DIA to a pool is required to mint an ART. Holding ARTs give access to these pools. The first ten ARTs for any data feed are 'ranked', featuring limited edition artwork and a significantly higher access to the pools in order to incentivise the sourcing of new data feeds."
-}

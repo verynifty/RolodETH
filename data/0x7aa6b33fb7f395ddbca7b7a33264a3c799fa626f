@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "3X Long Dogecoin Token",
-  "erc20_symbol": "DOGEBULL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10283/thumb/683JEXMN_400x400.png?1577007477"
-}

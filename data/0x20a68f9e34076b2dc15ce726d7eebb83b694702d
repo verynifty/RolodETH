@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DefiVille Island",
-  "erc20_symbol": "ISLA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14471/thumb/256.png?1616384288"
-}

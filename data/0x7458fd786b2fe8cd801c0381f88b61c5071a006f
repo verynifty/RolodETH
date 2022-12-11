@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "LOA Protocol",
-  "erc20_symbol": "LOA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11164/thumb/1a67ac81c1803ee172b7ce8805b5da3d-full.jpg?1589411408"
-}

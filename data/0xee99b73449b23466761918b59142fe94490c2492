@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GPC",
-  "erc20_decimals": 18,
-  "name": "GOLDEN PAY COIN"
-}

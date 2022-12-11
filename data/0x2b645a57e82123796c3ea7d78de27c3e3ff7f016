@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Meta Miner",
-  "erc20_symbol": "MINER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26876/thumb/200x200.png?1660620947"
-}

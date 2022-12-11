@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "BABB",
-  "erc20_symbol": "BAX",
-  "erc20_decimals": 18
-}

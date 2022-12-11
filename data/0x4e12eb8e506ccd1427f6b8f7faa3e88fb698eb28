@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Jack Token",
-  "erc20_symbol": "JACK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10991/thumb/Jacktoken200x200.png?1586938972"
-}

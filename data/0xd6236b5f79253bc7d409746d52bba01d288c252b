@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GOP",
-  "erc20_decimals": 18,
-  "name": "Gopher Token"
-}

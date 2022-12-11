@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ETH 3.0",
-  "erc20_decimals": 9,
-  "name": "ProofOfMeta"
-}

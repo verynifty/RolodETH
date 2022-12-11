@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Crown CWT",
-  "erc20_symbol": "CWT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24201/thumb/Crown_Token_JPG_%282%29.jpg?1646838419"
-}

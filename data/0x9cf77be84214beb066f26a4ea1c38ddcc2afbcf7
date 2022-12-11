@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Meta Shiba",
-  "erc20_symbol": "MSHIBA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19962/thumb/mshiba.png?1636342508"
-}

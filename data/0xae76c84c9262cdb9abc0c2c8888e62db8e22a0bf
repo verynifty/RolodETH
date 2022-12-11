@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "0x-ecosystem",
-    "erc20"
-  ],
-  "name": "Uniswap0xProtocolToken",
-  "erc20_symbol": "uniZRX",
-  "erc20_decimals": 18
-}

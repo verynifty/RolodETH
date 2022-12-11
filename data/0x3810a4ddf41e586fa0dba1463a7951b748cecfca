@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Menapay",
-  "erc20_symbol": "MPAY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6360/thumb/Menapay_ico.png?1547042454"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ELONAI",
-  "erc20_decimals": 6,
-  "name": "ElonAI"
-}

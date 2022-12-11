@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "P2P",
-  "erc20_symbol": "P2P",
-  "erc20_decimals": 10,
-  "imageURL": "https://assets.coingecko.com/coins/images/12486/thumb/p2p.png?1600207324"
-}

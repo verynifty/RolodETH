@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Jetcoin",
-  "erc20_symbol": "JET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/2487/thumb/jetcoin.png?1547974820"
-}

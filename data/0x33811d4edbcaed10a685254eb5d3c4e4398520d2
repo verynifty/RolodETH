@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "YFE Money",
-  "erc20_symbol": "YFE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12644/thumb/logo-round.png?1601373377"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "2 Rupee",
-  "erc20_decimals": 18,
-  "name": "2₹ Millionaire"
-}

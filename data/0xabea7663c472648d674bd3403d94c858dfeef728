@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PUDGY Vault  NFTX ",
-  "erc20_symbol": "PUDGY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18330/thumb/pudgy.png?1631605038"
-}

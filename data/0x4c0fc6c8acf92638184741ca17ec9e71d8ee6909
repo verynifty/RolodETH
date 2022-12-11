@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "NKCLM",
-  "erc20_decimals": 18,
-  "name": "NKCL Master"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SAV3",
-  "erc20_symbol": "SAV3",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13132/thumb/sav3_logo.png?1605536471"
-}

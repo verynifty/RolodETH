@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KYO",
-  "erc20_decimals": 6,
-  "name": "KayoCredits"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Hypersign Identity",
-  "erc20_symbol": "HID",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16158/thumb/hypersign_ONLYlogo_Yellow.png?1623140987"
-}

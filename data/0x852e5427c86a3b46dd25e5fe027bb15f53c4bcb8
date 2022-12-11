@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "NiiFi",
-  "erc20_symbol": "NIIFI",
-  "erc20_decimals": 15,
-  "imageURL": "https://assets.coingecko.com/coins/images/16033/thumb/niifi.PNG?1622674467"
-}

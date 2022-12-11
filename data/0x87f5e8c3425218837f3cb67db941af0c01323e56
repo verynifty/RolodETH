@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BitCoin One",
-  "erc20_symbol": "BTCONE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/5413/thumb/b-one.png?1574907888"
-}

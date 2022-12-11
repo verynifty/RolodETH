@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Invictus Hyperion Fund",
-  "erc20_symbol": "IHF",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3747/thumb/ihp.png?1547038807"
-}

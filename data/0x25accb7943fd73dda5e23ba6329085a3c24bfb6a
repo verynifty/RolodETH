@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "50wstETH-50bb-a-USD",
-  "erc20_decimals": 18,
-  "name": "Balancer 50wstETH-50bb-a-USD"
-}

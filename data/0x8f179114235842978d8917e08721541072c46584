@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "PXP",
-  "erc20_decimals": 3,
-  "name": "PointPay Token"
-}

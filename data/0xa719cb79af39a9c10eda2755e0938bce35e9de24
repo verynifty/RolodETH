@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Starfish Finance",
-  "erc20_symbol": "SEAN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27533/thumb/SEAN_Token_icon.png?1664411041"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UniswapXIONetwork",
-  "erc20_symbol": "uniXIO",
-  "erc20_decimals": 18
-}

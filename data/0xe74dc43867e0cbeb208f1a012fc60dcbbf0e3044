@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DeFIRE",
-  "erc20_symbol": "CWAP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15722/thumb/defire.PNG?1621635373"
-}

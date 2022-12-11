@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Onigiri",
-  "erc20_symbol": "ONIGIRI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12699/thumb/onigiri-coingecko.png?1601857724"
-}

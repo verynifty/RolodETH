@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "FOMC",
-  "erc20_decimals": 18,
-  "name": "Fairox Membership Coin"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Event Horizon Sunset (Series C) by Jake Brukhman",
-  "imageUrl": "https://media.artblocks.io/60000000.png",
-  "externalUrl": "https://firstedition.xyz/jbrukh",
-  "description": "Event Horizon Sunsets are a class of art works generated through an algorithm which uses Perlin noise to modulate the color, shape, and convexity of a continuous surface. The sunsets are generated instantly in a practical infinity of combinations, and it is possible to write a machine learning classifier that selects the most beautiful ones. Event Horizon Sunset (Series C) follows two previous series of Sunsets, with 5 and 9 works respectively. Series C is special because some of the randomly generated Sunsets have a \"close proximity\"."
-}

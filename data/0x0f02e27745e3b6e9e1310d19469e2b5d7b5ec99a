@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Peculium",
-  "erc20_symbol": "PCL",
-  "erc20_decimals": 8
-}

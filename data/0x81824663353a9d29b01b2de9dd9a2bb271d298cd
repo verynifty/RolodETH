@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bitcoin Volatility Token",
-  "erc20_symbol": "BVOL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11056/thumb/download_%2810%29.png?1587641855"
-}

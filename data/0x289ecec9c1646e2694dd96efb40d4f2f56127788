@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BTCW",
-  "erc20_decimals": 18,
-  "name": "BTC White"
-}

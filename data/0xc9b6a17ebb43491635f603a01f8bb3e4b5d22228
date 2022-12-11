@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MAGA Coin ETH",
-  "erc20_symbol": "MAGA",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/27455/thumb/rsz_jimerkya_400x400.png?1664090952"
-}

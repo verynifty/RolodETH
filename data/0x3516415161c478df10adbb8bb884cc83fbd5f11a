@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "AlphaDex",
-  "erc20_symbol": "DEX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12949/thumb/AlphaDex.png?1603779030"
-}

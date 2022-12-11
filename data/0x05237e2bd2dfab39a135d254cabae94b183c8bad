@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BPTC",
-  "erc20_decimals": 8,
-  "name": "Business Platform Tomato Coin"
-}

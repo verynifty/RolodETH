@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "CryptoCarbon",
-  "erc20_symbol": "CryptoCarbon",
-  "erc20_decimals": 6
-}

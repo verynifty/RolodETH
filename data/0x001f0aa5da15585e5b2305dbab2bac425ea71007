@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "IPExchange",
-  "erc20_symbol": "IPSX",
-  "erc20_decimals": 18
-}

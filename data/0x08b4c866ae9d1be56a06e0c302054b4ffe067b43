@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BitCarToken",
-  "erc20_symbol": "BITCAR",
-  "erc20_decimals": 8
-}

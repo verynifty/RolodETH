@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "SER",
-  "erc20_decimals": 7,
-  "name": "SeratioCoin"
-}

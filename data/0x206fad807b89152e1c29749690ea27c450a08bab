@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "$TIME",
-  "erc20_decimals": 18,
-  "name": "Dont Waste My"
-}

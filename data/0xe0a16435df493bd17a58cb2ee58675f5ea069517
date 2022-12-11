@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Greeneum Network",
-  "erc20_symbol": "GREEN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3069/thumb/Logo_web.png?1629084636"
-}

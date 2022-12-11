@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Protocol Finance",
-  "erc20_symbol": "PFI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13810/thumb/17RgoN2.png?1612047312"
-}

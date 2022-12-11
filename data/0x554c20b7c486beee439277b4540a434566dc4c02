@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DecisionToken",
-  "erc20_symbol": "HST",
-  "erc20_decimals": 18
-}

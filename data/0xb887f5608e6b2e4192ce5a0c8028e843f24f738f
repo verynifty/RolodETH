@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Inurant",
-  "erc20_decimals": 9,
-  "name": "Fable of the Inu"
-}

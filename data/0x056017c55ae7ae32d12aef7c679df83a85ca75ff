@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WyvernToken",
-  "erc20_symbol": "WYV",
-  "erc20_decimals": 18
-}

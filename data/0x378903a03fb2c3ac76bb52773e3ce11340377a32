@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "ClipperCoin",
-  "erc20_symbol": "CCCX",
-  "erc20_decimals": 18
-}

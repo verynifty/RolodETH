@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PlayGame",
-  "erc20_symbol": "PXG",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7242/thumb/pxg-coin_3x.png?1547043841"
-}

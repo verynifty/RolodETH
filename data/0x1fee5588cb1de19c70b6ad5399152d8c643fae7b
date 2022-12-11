@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Phun Token",
-  "erc20_symbol": "PHTK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24773/thumb/2q6YoWkb_400x400.jpg?1648822416"
-}

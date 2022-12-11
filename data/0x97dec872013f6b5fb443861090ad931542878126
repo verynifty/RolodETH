@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UniswapUSDC",
-  "erc20_symbol": "uniUSDC",
-  "erc20_decimals": 18
-}

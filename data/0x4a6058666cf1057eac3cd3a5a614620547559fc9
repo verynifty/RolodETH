@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BRICKBLOCKTOKEN",
-  "erc20_symbol": "BBK",
-  "erc20_decimals": 18
-}

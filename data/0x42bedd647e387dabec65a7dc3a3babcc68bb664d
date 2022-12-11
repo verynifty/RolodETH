@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BlockMason Link",
-  "erc20_symbol": "BLINK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8525/thumb/link-by-blockmason.jpg?1559103173"
-}

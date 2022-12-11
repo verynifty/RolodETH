@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "DAI",
-  "erc20_decimals": 1,
-  "name": "Dai Stablecoin v1.0"
-}

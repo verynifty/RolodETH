@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "InkProtocol",
-  "erc20_symbol": "XNK",
-  "erc20_decimals": 18
-}

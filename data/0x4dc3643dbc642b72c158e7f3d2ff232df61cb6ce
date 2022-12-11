@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "AmberToken",
-  "erc20_symbol": "AMB",
-  "erc20_decimals": 18
-}

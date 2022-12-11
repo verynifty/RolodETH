@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "GricCoin",
-  "erc20_symbol": "GC",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "FirstBlood",
-  "erc20_symbol": "1ST",
-  "erc20_decimals": 18
-}

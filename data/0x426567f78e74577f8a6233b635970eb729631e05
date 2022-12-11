@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Staker",
-  "erc20_symbol": "STR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/5122/thumb/staker-logo.png?1547040513"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Botto",
-  "erc20_symbol": "BOTTO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18892/thumb/bottos_logo.jpg?1633791571"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "XRL",
-  "erc20_symbol": "XRL",
-  "erc20_decimals": 9
-}

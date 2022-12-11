@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Balancer Boosted Aave USDC",
-  "erc20_symbol": "BB-A-USDC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25780/thumb/bb-a-usdc.png?1653735108"
-}

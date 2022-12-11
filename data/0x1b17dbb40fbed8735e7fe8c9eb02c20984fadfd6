@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "rUMB1",
-  "erc20_decimals": 18,
-  "name": "Umbrella Reward #1"
-}

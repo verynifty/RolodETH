@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MetaverseAir",
-  "erc20_symbol": "MVRS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21426/thumb/mvrs.jpg?1639117594"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BLKX",
-  "erc20_decimals": 8,
-  "name": "Block X Token"
-}

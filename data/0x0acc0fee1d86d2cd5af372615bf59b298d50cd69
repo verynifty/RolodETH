@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Invest Like Stakeborg Index",
-  "erc20_symbol": "ILSI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21788/thumb/16292.png?1640048590"
-}

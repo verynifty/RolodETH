@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TheDAO",
-  "erc20_symbol": "DAO",
-  "erc20_decimals": 16
-}

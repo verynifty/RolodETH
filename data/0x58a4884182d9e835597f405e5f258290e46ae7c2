@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "NoahCoin",
-  "erc20_symbol": "NOAH",
-  "erc20_decimals": 18
-}

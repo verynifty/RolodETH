@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Behodler",
-  "erc20_symbol": "EYE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12804/thumb/etherscan-eye-2-1.png?1629881415"
-}

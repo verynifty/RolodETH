@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "KEEPs Coin",
-  "erc20_symbol": "KVERSE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19622/thumb/keeps.PNG?1635498049"
-}

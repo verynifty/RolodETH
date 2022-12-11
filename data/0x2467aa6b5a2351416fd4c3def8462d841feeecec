@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "qiibeeToken",
-  "erc20_symbol": "QBX",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "$OPENAI2",
-  "erc20_decimals": 9,
-  "name": "Open AI 2.0"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SharedStake Governance v2",
-  "erc20_symbol": "SGTV2",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13948/thumb/sgt-png.png?1615189100"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "CA-HTB慧票資產",
-  "erc20_decimals": 18,
-  "name": "coupon assets token"
-}

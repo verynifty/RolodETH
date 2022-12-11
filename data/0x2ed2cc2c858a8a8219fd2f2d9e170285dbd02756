@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Sports Bet",
-  "erc20_symbol": "SBET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25312/thumb/sbet_logo_256.png?1651214220"
-}

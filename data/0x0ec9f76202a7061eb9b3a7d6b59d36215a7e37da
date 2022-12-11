@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BlackPool",
-  "erc20_symbol": "BPT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15887/thumb/uyO7dQzR_400x400.jpg?1622199432"
-}

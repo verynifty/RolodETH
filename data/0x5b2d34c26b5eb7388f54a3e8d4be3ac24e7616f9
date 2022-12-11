@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "sUNI-V2 LP SIPHER-ETH",
-  "erc20_decimals": 18,
-  "name": "Staked Uniswap-V2 LP SIPHER-ETH"
-}

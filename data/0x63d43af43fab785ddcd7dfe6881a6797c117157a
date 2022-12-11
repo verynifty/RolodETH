@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BClifford",
-  "erc20_decimals": 5,
-  "name": "Black Clifford"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "QChain QDT",
-  "erc20_symbol": "QDT",
-  "erc20_decimals": 4,
-  "imageURL": "https://assets.coingecko.com/coins/images/26502/thumb/qdt_logo.png?1658366015"
-}

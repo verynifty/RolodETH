@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "ORI by James Merrill",
-  "imageUrl": "https://media.artblocks.io/379000000.png",
-  "externalUrl": "http://ori.lostpixels.io",
-  "description": "Ori is an art series that draws inspiration from paper folding to create deeply abstract and highly contrasting imagery. The loose interpretation of origami dynamics quickly dissolves as physical rules are bent and reimagined.\n\nAn artifact of this process is the distinctive fold lines, which symbolize the Yoshizawa-Randlett diagrams that serve as instructions for Origami. The practice of Kirigami (folding and cutting paper) is also represented and is occasionally visible as highly destructured forms.\n\nContrasting the precision of the folding engine is a spray paint simulation that gives the image its color. Paint is applied with a wandering nozzle, sometimes overflowing past boundaries and dripping downwards. Inspired by the freeform nature of graffiti, the spray paint layers are chaotic and unrefined.\n\nNote: The spray paint simulation may take many seconds to fully render.\n\nAfter the render is complete, press any key to destroy the artwork."
-}

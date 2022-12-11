@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Experty",
-  "erc20_symbol": "EXY",
-  "erc20_decimals": 18
-}

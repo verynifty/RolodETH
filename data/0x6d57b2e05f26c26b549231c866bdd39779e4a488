@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "VNX Gold",
-  "erc20_symbol": "VNXAU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28019/thumb/wnxgold.png?1667026518"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KCI",
-  "erc20_decimals": 18,
-  "name": "Kabo Chan Inu"
-}

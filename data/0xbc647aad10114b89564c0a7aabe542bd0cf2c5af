@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "IONChain",
-  "erc20_symbol": "IONC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6572/thumb/3PD7ycbU_400x400.jpg?1547042781"
-}

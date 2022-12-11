@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Knoxstertoken",
-  "erc20_symbol": "FKX",
-  "erc20_decimals": 18
-}

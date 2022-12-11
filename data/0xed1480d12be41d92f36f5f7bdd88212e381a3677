@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Fiat DAO",
-  "erc20_symbol": "FDT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20388/thumb/MLamPGZI_400x400.jpg?1636960965"
-}

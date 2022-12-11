@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "HighPerformanceBlockchain",
-  "erc20_symbol": "HPB",
-  "erc20_decimals": 18
-}

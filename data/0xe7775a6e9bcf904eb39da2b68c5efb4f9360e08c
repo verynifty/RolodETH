@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TokenasaService",
-  "erc20_symbol": "TaaS",
-  "erc20_decimals": 6
-}

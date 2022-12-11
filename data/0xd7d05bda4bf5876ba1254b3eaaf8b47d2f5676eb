@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "STABLE ASSET",
-  "erc20_symbol": "STA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12313/thumb/stable_200x200.png?1599083938"
-}

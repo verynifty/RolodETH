@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "DigitalAssetExchangeToken",
-  "erc20_symbol": "DAXT",
-  "erc20_decimals": 18
-}

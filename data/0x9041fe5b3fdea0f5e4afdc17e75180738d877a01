@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Pro",
-  "erc20_symbol": "PRO",
-  "erc20_decimals": 18
-}

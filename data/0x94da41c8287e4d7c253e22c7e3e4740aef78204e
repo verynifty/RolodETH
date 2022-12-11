@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KBD",
-  "erc20_decimals": 18,
-  "name": "King Black Dragon"
-}

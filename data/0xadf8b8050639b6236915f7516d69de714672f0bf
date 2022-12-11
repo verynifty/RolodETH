@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Scanetchain",
-  "erc20_symbol": "SWC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6876/thumb/scanetchain.jpg?1547043219"
-}

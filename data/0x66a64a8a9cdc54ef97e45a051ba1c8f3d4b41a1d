@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Baby Shiba Coin",
-  "erc20_symbol": "BABYSHIBA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/22707/thumb/9CmjzSIW_400x400.jpg?1642457763"
-}

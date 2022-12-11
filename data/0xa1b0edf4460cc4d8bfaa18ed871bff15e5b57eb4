@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Aave AMM UniBATWETH",
-  "erc20_symbol": "AAMMUNIBATWETH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17217/thumb/aAmmUniBATWETH.png?1626878218"
-}

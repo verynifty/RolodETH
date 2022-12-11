@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Wrapped BIND",
-  "erc20_symbol": "WBIND",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/13055/thumb/o1w2cBW.png?1604720921"
-}

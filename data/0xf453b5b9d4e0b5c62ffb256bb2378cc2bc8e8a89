@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "MARKSPACE",
-  "erc20_symbol": "MRK",
-  "erc20_decimals": 8
-}

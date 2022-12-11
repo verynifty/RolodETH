@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WeOwn",
-  "erc20_symbol": "CHX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/1943/thumb/ZlGXwUDv_400x400.jpg?1571388675"
-}

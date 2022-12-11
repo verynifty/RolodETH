@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "BOLTToken",
-  "erc20_symbol": "BOLT",
-  "erc20_decimals": 18
-}

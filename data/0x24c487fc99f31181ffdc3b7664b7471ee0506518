@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GENKI",
-  "erc20_decimals": 18,
-  "name": "Samurai Saga Genki Token"
-}

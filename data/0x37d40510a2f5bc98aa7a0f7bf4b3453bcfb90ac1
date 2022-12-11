@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BelugaBankingInfrastructureToken",
-  "erc20_symbol": "BBI",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "TN-CSCCv1-BTCUSD",
-  "erc20_decimals": 8,
-  "name": "Thetanuts Cash Settled Covered Call Vault BTC USD"
-}

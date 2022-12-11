@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PieDAO DEFI Large Cap",
-  "erc20_symbol": "DEFI+L",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12731/thumb/DeFi_L.png?1602070128"
-}

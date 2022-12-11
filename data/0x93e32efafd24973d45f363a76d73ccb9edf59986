@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bitlocus",
-  "erc20_symbol": "BTL",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/20913/thumb/btl.png?1637922710"
-}

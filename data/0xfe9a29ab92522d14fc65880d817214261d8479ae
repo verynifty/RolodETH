@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Snowswap",
-  "erc20_symbol": "SNOW",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12751/thumb/uQBJL3A.png?1602237225"
-}

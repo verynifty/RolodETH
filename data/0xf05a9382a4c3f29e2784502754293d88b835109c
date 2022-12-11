@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "imbrex",
-  "erc20_symbol": "REX",
-  "erc20_decimals": 18
-}

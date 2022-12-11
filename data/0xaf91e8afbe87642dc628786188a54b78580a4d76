@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Fund Of Yours",
-  "erc20_symbol": "FOY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16648/thumb/foy200.png?1624591862"
-}

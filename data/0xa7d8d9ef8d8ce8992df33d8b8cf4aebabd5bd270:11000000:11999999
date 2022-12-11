@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "HyperHash by Beervangeer",
-  "imageUrl": "https://media.artblocks.io/11000000.png",
-  "externalUrl": "https://www.beervangeer.nl/hyperhash/",
-  "description": "HyperHash explores the possibilities of representing abstract data on Ethereum as intuitive color and geometry spaces. Focus of research are topics like geometry & symbolism. The artworks generate a futuristic, telepathic & symbolic language for Etherians. All artworks have unique colors, geometry and motion signatures live generated on your gpu through shader (GLSL) code.\n"
-}

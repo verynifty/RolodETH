@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Credits",
-  "erc20_symbol": "CS",
-  "erc20_decimals": 6
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Kodachi Token",
-  "erc20_symbol": "KODACHI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26927/thumb/logo200_%282%29.png?1660874765"
-}

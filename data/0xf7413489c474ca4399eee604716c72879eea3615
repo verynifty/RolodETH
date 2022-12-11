@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "APYSwap",
-  "erc20_symbol": "APYS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14163/thumb/apys.png?1635831990"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "aura80D2D-20USDC-vault",
-  "erc20_decimals": 18,
-  "name": "80D2D-20USDC Aura Deposit Vault"
-}

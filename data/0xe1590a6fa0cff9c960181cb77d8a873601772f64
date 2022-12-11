@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WallStreetBets DApp",
-  "erc20_symbol": "WSB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15093/thumb/Pe1mrDu.png?1629882480"
-}

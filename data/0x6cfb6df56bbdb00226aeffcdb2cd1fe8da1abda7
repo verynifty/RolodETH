@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Komet",
-  "erc20_symbol": "KOMET",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13196/thumb/komet_finance_logo.png?1606120745"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Avakus",
-  "erc20_symbol": "AVAK",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18337/thumb/avakus.PNG?1631588881"
-}

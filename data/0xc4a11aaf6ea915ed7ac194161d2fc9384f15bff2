@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "WTON",
-  "erc20_decimals": 27,
-  "name": "Wrapped TON"
-}

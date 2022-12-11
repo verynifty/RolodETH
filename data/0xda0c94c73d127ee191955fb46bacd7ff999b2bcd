@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Stakeborg DAO",
-  "erc20_symbol": "STANDARD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20119/thumb/stquY-WB_400x400.jpg?1636522705"
-}

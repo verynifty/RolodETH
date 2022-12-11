@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "3X Long Exchange Token Index Token",
-  "erc20_symbol": "EXCHBULL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10436/thumb/683JEXMN_400x400.png?1579276837"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "bnBNT",
-  "erc20_decimals": 18,
-  "name": "Bancor BNT Pool Token"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Gen 2 by DCA",
-  "imageUrl": "https://media.artblocks.io/18000000.png",
-  "description": "Generative System 2: In this installment, the token ID hash string is read from left to right to create a bitmap matrix and a color matrix. Both are combined to create an image, which is then used in algorithmic fashion to compose a dynamic visual composition."
-}

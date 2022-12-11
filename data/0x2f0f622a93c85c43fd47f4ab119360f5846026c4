@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MatsuSwap",
-  "erc20_symbol": "MATSUSWAP",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/28041/thumb/200x200-1.png?1667202469"
-}

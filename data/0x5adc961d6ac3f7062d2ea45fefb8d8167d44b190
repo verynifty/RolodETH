@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "dether",
-  "erc20_symbol": "DTH",
-  "erc20_decimals": 18
-}

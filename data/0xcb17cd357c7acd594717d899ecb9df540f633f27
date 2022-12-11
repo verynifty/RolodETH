@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CoinDeal Token",
-  "erc20_symbol": "CDL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9960/thumb/2ZP5JaIL_400x400.jpg?1574233581"
-}

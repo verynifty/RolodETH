@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "NamTanToken",
-  "erc20_symbol": "NAMTT",
-  "erc20_decimals": 18
-}

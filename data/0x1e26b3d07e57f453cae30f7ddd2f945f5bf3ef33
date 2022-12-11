@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ClearCoin",
-  "erc20_symbol": "XCLR",
-  "erc20_decimals": 8
-}

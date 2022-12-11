@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Collector Coin",
-  "erc20_symbol": "AGS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16918/thumb/AGS.png?1625626120"
-}

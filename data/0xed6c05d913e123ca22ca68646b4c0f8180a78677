@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "$YOT",
-  "erc20_decimals": 18,
-  "name": "Year Of The Tiger"
-}

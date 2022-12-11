@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "JAM Token",
-  "erc20_symbol": "JAM",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/26787/thumb/296706797_1760425707628456_5310396823145359110_n.jpg?1660102688"
-}

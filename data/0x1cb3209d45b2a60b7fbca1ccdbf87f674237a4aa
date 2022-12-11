@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "ThoreCoin",
-  "erc20_symbol": "THR",
-  "erc20_decimals": 4
-}

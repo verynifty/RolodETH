@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DisciplinaToken",
-  "erc20_symbol": "DSCP",
-  "erc20_decimals": 18
-}

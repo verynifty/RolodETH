@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "wa2WETH",
-  "erc20_decimals": 18,
-  "name": "ERC4626-Wrapped Aave v2 WETH"
-}

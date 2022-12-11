@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "EggToken",
-  "erc20_symbol": "EGG",
-  "erc20_decimals": 18
-}

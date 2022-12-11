@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Cash Tech",
-  "erc20_symbol": "CATE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14529/thumb/CG.jpg?1624471293"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "savedroid",
-  "erc20_symbol": "SVD",
-  "erc20_decimals": 18
-}

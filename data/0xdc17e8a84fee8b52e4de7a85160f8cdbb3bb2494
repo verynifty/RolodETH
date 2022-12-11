@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ANEX",
-  "erc20_decimals": 10,
-  "name": "BitAnex Coin"
-}

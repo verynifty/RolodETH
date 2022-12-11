@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "bridge",
-    "contract",
-    "proxy"
-  ],
-  "name": "ZKSwap: ZKSpace Bridge",
-  "proxy": "0x467a2b91f231d930f5eeb6b982c7666e81da8626"
-}

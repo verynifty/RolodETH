@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SatelStar",
-  "erc20_symbol": "STSR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28202/thumb/Satelstar_logo_200x.png?1668338911"
-}

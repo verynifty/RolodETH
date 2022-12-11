@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "StarterCoin",
-  "erc20_symbol": "STAC",
-  "erc20_decimals": 18
-}

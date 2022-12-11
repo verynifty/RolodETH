@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Swapfolio",
-  "erc20_symbol": "SWFL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12263/thumb/swapfolio-token-logo-icon-symbol-256-256.png?1598593097"
-}

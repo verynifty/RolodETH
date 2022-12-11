@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Presearch",
-  "erc20_symbol": "PRE",
-  "erc20_decimals": 18
-}

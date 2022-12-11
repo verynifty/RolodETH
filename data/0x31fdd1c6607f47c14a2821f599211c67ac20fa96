@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Burency",
-  "erc20_symbol": "BUY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12216/thumb/Ddphl9BD.png?1598238121"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Prediqt",
-  "erc20_symbol": "PQT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14407/thumb/57197945.png?1615936268"
-}

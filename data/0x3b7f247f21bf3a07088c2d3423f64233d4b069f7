@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dynamite",
-  "erc20_symbol": "DYNMT",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/8951/thumb/dynamite_logo.jpg?1598851224"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "3X Long Tether Gold Token",
-  "erc20_symbol": "XAUTBULL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11979/thumb/683JEXMN_400x400__1_.png?1596618665"
-}

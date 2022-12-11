@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Inu Inu",
-  "erc20_symbol": "INUINU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26391/thumb/logo_square_200.png?1657752596"
-}

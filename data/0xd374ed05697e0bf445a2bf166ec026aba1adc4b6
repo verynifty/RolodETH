@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "REDETH",
-  "erc20_decimals": 9,
-  "name": "Ethereum Red"
-}

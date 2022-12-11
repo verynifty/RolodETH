@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BNPL Pay",
-  "erc20_symbol": "BNPL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1667541672"
-}

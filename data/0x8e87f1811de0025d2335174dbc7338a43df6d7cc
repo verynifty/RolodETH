@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Virtual Goods",
-  "erc20_symbol": "VGO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8889/thumb/1QdEK96k_400x400.png?1562574531"
-}

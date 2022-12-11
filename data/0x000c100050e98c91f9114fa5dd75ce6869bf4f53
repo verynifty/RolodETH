@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "TokenCRYPTO10Hedged",
-  "erc20_symbol": "C10",
-  "erc20_decimals": 18
-}

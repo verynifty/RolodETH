@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GOB",
-  "erc20_decimals": 18,
-  "name": "GOB Token"
-}

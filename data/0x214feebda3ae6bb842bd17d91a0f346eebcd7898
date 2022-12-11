@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Autentica",
-  "erc20_symbol": "AUT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27154/thumb/coingecko_200x200.png?1662205740"
-}

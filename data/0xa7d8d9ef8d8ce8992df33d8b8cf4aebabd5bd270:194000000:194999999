@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Rotae by Nadieh Bremer",
-  "imageUrl": "https://media.artblocks.io/194000000.png",
-  "externalUrl": "https://www.VisualCinnamon.com/collection/rotae",
-  "description": "\"Rotae\" explores the vast array of beautiful and unexpected shapes that can appear from the simple process of letting wheels rotate on (many more) wheels. Taking a step beyond what the physical toy could do that many of us have played with (long ago) and stringing together anywhere from three to eight wheels. The algorithm starts by determining the number of wheels and what \"m-fold\" symmetry to achieve. From there the radii and frequencies are calculated per wheel in such a way as to ensure that the output won't turn into chaos, but an unpredictable, yet fully symmetric path that closes on itself. Giving a seemingly endless variety in the paths that get drawn. After a few seconds you can watch how the line gets drawn, possibly revealing unexpected shapes hidden within."
-}

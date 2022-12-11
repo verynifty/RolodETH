@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BANKOFTAO",
-  "erc20_decimals": 18,
-  "name": "Bank of Tao"
-}

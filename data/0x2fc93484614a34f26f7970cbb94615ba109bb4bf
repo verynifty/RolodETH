@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "tornado-cash",
-    "contract",
-    "proxy"
-  ],
-  "name": "Tornado.Cash: Governance Staking",
-  "proxy": "0x26903a5a198d571422b2b4ea08b56a37cbd68c89"
-}

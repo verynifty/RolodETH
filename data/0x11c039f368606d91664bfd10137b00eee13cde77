@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "A2A",
-  "erc20_decimals": 8,
-  "name": "A2A Token"
-}

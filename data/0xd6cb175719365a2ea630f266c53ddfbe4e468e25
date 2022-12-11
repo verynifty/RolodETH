@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "HunimalToken",
-  "erc20_symbol": "HNI",
-  "erc20_decimals": 18
-}

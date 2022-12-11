@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ETHMS",
-  "erc20_decimals": 4,
-  "name": "Ethereum Shares"
-}

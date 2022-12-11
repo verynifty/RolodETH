@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "polygon-matic",
-    "contract",
-    "proxy"
-  ],
-  "name": "Polygon (Matic): Withdraw Manager Proxy",
-  "proxy": "0x4ef5123a30e4cfec02b3e2f5ce97f1328b29f7de"
-}

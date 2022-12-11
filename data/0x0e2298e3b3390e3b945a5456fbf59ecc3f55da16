@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "YAMV1",
-  "erc20_symbol": "YAM",
-  "erc20_decimals": 18
-}

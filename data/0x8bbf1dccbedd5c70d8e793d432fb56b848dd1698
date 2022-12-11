@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Ape In",
-  "erc20_symbol": "APEIN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18262/thumb/apein.PNG?1631158082"
-}

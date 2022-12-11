@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "FUND",
-  "erc20_decimals": 18,
-  "name": "Teh Fund"
-}

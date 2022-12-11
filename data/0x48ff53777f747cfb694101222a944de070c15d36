@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "IMP",
-  "erc20_decimals": 7,
-  "name": "Ether Kingdoms Token"
-}

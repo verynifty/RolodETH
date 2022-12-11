@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BankCoin BCash",
-  "erc20_symbol": "BCASH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7692/thumb/bcash.png?1549865564"
-}

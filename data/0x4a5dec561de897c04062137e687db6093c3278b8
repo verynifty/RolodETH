@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "GasBlock",
-  "erc20_symbol": "GSBL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28191/thumb/gasblock_logo_200xW.png?1668327478"
-}

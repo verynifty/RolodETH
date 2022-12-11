@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Sentiment",
-  "erc20_symbol": "SENT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16388/thumb/94SwpUOP_400x400.jpg?1623894898"
-}

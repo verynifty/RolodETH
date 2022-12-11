@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "FrozencoinNetwork",
-  "erc20_symbol": "Fzcoin",
-  "erc20_decimals": 18
-}

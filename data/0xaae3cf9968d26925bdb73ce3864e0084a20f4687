@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Farmland Protocol",
-  "erc20_symbol": "FAR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13497/thumb/70059912.jpg?1609193763"
-}

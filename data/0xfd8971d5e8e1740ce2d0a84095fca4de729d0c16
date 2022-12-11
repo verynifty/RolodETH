@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Zilla",
-  "erc20_symbol": "ZLA",
-  "erc20_decimals": 18
-}

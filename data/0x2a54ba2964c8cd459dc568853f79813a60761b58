@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Interest Protocol USDi",
-  "erc20_symbol": "USDI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25999/thumb/20598.png?1655277115"
-}

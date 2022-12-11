@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "OrmeusCoin",
-  "erc20_symbol": "ORME",
-  "erc20_decimals": 8
-}

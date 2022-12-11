@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DoubleDice",
-  "erc20_symbol": "DODI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/21035/thumb/crEjNfhF_400x400.jpg?1638250608"
-}

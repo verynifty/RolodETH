@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Omega Protocol Money",
-  "erc20_symbol": "OPM",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12337/thumb/opm-200px.png?1599136480"
-}

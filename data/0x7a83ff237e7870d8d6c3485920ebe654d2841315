@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "hiOD",
-  "erc20_symbol": "HIOD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28238/thumb/hiod.png?1668579474"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Museum of Crypto Art",
-  "erc20_symbol": "MOCA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1622770606"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GAT",
-  "erc20_decimals": 18,
-  "name": "Gold Apple Token"
-}

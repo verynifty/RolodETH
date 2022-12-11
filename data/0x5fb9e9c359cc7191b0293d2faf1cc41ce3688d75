@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "GoldStandard",
-  "erc20_symbol": "AUS",
-  "erc20_decimals": 4
-}

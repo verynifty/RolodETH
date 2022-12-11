@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Staking_Dividend_Tracker",
-  "erc20_decimals": 18,
-  "name": "Staking_Dividend_Tracker"
-}

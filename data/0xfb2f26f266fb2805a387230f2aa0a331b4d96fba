@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "DADI",
-  "erc20_symbol": "DADI",
-  "erc20_decimals": 18
-}

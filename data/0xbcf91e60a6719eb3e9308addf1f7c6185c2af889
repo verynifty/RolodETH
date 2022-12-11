@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ExenPay",
-  "erc20_symbol": "EXENP",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/18975/thumb/LlydYS1w_400x400.png?1634094918"
-}

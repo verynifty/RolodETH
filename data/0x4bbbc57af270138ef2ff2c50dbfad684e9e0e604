@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "WABnetwork",
-  "erc20_symbol": "WAB",
-  "erc20_decimals": 18
-}

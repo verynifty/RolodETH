@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DumpBuster",
-  "erc20_symbol": "GTFO",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/24344/thumb/logo2.png?1647412138"
-}

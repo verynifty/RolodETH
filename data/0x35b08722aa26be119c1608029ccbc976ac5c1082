@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Eminer",
-  "erc20_symbol": "EM",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9155/thumb/KDbQPKIu_400x400.png?1564735775"
-}

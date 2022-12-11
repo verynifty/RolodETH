@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "USDT",
-  "erc20_decimals": 2,
-  "name": "USDT Tether"
-}

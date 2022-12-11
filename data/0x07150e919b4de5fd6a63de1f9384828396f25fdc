@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Base Protocol",
-  "erc20_symbol": "BASE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/13265/thumb/200x200green.png?1607650121"
-}

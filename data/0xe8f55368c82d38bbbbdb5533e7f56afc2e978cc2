@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "S*LUSD",
-  "erc20_decimals": 6,
-  "name": "LUSD Stablecoin-LP"
-}

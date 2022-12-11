@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "NebulaAiToken",
-  "erc20_symbol": "NBAI",
-  "erc20_decimals": 18
-}

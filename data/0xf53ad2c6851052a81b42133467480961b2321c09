@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "maker",
-    "erc20"
-  ],
-  "name": "PooledEther",
-  "erc20_symbol": "PETH",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Swivel Governance",
-  "erc20_symbol": "SWIV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24496/thumb/tKRKjCx.png?1647868486"
-}

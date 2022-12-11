@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Meme Inu",
-  "erc20_symbol": "MEME",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20755/thumb/photo_2021-11-20_13-39-45.jpg?1637638928"
-}

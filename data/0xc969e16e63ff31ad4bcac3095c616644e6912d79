@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Seed Venture",
-  "erc20_symbol": "SEED",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10860/thumb/Seed.png?1585204998"
-}

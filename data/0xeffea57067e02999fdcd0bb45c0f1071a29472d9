@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Zantepay",
-  "erc20_symbol": "ZANTEPAY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7122/thumb/984cSZaC_400x400.jpg?1547043619"
-}

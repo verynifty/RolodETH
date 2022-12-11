@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CORE MultiChain",
-  "erc20_symbol": "CMCX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/18848/thumb/O4IzY2CQ_400x400.png?1633590798"
-}

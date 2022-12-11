@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "COPYTRACK",
-  "erc20_symbol": "CPY",
-  "erc20_decimals": 18
-}

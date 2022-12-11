@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "100X",
-  "erc20_decimals": 8,
-  "name": "A Degen’s Dream"
-}

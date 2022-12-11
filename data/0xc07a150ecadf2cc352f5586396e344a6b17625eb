@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bio Passport",
-  "erc20_symbol": "BIOT",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/14167/thumb/logo_%2895%29.png?1614753428"
-}

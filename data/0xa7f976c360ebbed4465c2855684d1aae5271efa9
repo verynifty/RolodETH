@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TrueFlip",
-  "erc20_symbol": "TFL",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/940/thumb/tfl.png?1634521414"
-}

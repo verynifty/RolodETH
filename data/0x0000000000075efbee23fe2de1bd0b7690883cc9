@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "trusttoken",
-    "contract",
-    "proxy"
-  ],
-  "name": "TrueUSD: Token Controller",
-  "proxy": "0x035f99a181146219b396a69a422f7722b2c16400"
-}

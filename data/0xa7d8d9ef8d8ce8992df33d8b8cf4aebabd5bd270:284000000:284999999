@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Ancient Courses of Fictional Rivers by Robert Hodgin",
-  "imageUrl": "https://media.artblocks.io/284000000.png",
-  "externalUrl": "https://roberthodgin.com/",
-  "description": "Ancient Courses is a generative experience that explores the aesthetics of meandering rivers and the settlements that form on their banks. The design is graphic and cartographic with bold color palettes rendered against map iconography and line sensibility. From the river banks, roads stretch across the landscape: sometimes a single access road, other times sprawling towns. The river meandering is simulated via a custom algorithm which closely models the real world process.\n\nPress 'r' to reset the simulation.\nPress 's' to save an image to disk.\nPress 'h' to re-run the simulation at print res. This is significantly slower than the default screen res version. The progress bar at the bottom of the screen shows how long before the print-res image is automatically saved to disk.\n\nA limited number of Ancient Courses mints will come with a Treasure Map feature. The owner can request a physical print (max one print per treasure map).\n\nBest viewed on Chrome, Firefox, or Safari."
-}

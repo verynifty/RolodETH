@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CryptoArt Ai",
-  "erc20_symbol": "CART",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17583/thumb/logo-64.png?1629277823"
-}

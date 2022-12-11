@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BitcoinBrand",
-  "erc20_symbol": "BTCB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6607/thumb/y76xcDSr_400x400.jpg?1547042811"
-}

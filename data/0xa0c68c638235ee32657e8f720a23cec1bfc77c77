@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "bridge",
-    "contract",
-    "proxy"
-  ],
-  "name": "Polygon (Matic): Bridge",
-  "proxy": "0x37d26dc2890b35924b40574bac10552794771997"
-}

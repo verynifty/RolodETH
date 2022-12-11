@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BIZZCOIN",
-  "erc20_symbol": "BIZZ",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/10979/thumb/bizzcoin.PNG?1586766076"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Ormeus Ecosystem",
-  "erc20_symbol": "ECO",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/8923/thumb/logo_eco_low.png?1562902804"
-}

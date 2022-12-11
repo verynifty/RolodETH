@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BolttCoin",
-  "erc20_symbol": "BOLTT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/3928/thumb/Ticker.jpeg?1551231549"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Spooky Uni",
-  "erc20_symbol": "SPKU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27702/thumb/Spooky-Uni200x200.png?1665307264"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "KBH",
-  "erc20_decimals": 18,
-  "name": "Korea Blackhole"
-}

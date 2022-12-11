@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Cryptrust",
-  "erc20_symbol": "CTRT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/6110/thumb/cryptrust.png?1547042119"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Alpha5",
-  "erc20_symbol": "A5T",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13848/thumb/a5t.jpg?1614652988"
-}

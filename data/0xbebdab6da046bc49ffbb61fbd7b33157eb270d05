@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Shard Coin",
-  "erc20_symbol": "SHARD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3527/thumb/8680493537c30f81917d034613b289e9.png?1547038326"
-}

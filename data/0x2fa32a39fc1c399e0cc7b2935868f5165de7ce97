@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Payfair",
-  "erc20_symbol": "PFR",
-  "erc20_decimals": 8
-}

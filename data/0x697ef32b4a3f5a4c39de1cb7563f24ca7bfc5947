@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Insula",
-  "erc20_symbol": "ISLA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10884/thumb/isla.PNG?1585522028"
-}

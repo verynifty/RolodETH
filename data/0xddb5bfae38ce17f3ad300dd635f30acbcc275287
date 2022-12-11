@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Mchain",
-  "erc20_decimals": 18,
-  "name": "MCHAIN"
-}

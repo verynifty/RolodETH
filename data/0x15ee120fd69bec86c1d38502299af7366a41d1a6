@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BitANT",
-  "erc20_symbol": "BITANT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19055/thumb/BitANT.png?1634264861"
-}

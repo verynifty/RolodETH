@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Foho Coin",
-  "erc20_symbol": "FOHO",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/17933/thumb/FOHO.Coin_colour-02-1.png?1629859400"
-}

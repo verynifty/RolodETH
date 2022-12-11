@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Wrapped Filecoin",
-  "erc20_symbol": "WFIL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13238/thumb/WFIL.png?1623827165"
-}

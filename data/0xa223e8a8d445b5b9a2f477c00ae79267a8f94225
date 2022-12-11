@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Meme Protocol",
-  "erc20_symbol": "MEME",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27795/thumb/memeprotocol.png?1665821284"
-}

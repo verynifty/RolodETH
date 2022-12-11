@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "READ",
-  "erc20_decimals": 8,
-  "name": "阅读币"
-}

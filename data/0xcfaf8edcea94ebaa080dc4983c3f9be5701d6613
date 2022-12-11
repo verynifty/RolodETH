@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Exponential Capital",
-  "erc20_symbol": "EXPO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/23409/thumb/expo.png?1645856094"
-}

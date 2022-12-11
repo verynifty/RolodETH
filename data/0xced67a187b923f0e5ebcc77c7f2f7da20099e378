@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "pSLP",
-  "erc20_decimals": 18,
-  "name": "pickling SushiSwap LP Token"
-}

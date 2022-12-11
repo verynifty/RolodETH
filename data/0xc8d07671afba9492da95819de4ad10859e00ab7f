@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CryptoCoinPay",
-  "erc20_symbol": "CCP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/7127/thumb/T9ywgTGYuoYBFagC3PzdSVNKHxZSPB6Kmz.png?1647433798"
-}

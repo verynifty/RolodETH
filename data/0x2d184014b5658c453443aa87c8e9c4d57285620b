@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "JSEToken",
-  "erc20_symbol": "JSE",
-  "erc20_decimals": 18
-}

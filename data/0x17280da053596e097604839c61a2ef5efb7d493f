@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "JOBCHAIN",
-  "erc20_symbol": "JOB",
-  "erc20_decimals": 8
-}

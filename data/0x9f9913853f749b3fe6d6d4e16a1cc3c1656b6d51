@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BITT",
-  "erc20_symbol": "BITT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1611733961"
-}

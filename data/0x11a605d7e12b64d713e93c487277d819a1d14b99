@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Safe Shield",
-  "erc20_symbol": "SFSHLD",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/17673/thumb/Safe-Shield-SFSHLD-200x200-logo.png?1628830115"
-}

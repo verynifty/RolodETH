@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "500x",
-  "erc20_decimals": 9,
-  "name": "500 x Inu"
-}

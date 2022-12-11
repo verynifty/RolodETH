@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BTC Proxy",
-  "erc20_symbol": "BTCPX",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/22630/thumb/MB1aYO7T_400x400.jpg?1642342656"
-}

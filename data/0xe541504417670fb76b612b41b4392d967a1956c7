@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Bitsonic",
-  "erc20_symbol": "BSC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9238/thumb/image.png?1604295837"
-}

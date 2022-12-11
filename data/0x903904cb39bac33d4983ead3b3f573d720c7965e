@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dogus",
-  "erc20_symbol": "DOGUS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19196/thumb/rsZ3wmA.png?1634643309"
-}

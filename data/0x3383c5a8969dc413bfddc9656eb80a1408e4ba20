@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Wrapped ANATHA",
-  "erc20_symbol": "WANATHA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12690/thumb/CrZ8h9FV_400x400.png?1601678935"
-}

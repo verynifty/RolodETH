@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Boosted LUSD",
-  "erc20_symbol": "BLUSD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27681/thumb/bLUSD_logo.png?1665213755"
-}

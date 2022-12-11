@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Zytara Dollar",
-  "erc20_symbol": "ZUSD",
-  "erc20_decimals": 6,
-  "imageURL": "https://assets.coingecko.com/coins/images/13957/thumb/zusd.png?1613353410"
-}

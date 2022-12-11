@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Flycoin FLY",
-  "erc20_symbol": "FLY",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26596/thumb/flatArtboard_20tfr.png?1658974032"
-}

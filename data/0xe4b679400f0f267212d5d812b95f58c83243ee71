@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "bridge",
-    "contract",
-    "proxy"
-  ],
-  "name": "Ren: BTC Gateway",
-  "proxy": "0xd0da0d062d18cc70be85ff94afa880ecee66eedd"
-}

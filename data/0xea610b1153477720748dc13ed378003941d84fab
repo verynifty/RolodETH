@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ALISToken",
-  "erc20_symbol": "ALIS",
-  "erc20_decimals": 18
-}

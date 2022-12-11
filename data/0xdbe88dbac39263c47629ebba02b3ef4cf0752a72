@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "FraxlendV1 - FXS/FRAX",
-  "erc20_decimals": 18,
-  "name": "FraxlendV1 - Frax Share/Frax - Variable Time-Weighted Interest Rate - 5"
-}

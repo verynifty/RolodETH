@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "RChain",
-  "erc20_symbol": "RHOC",
-  "erc20_decimals": 8
-}

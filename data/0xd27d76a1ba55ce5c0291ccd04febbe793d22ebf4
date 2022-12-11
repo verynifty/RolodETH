@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BenepitToken",
-  "erc20_symbol": "BNP",
-  "erc20_decimals": 18
-}

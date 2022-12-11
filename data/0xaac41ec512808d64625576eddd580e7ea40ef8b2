@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Gameswap",
-  "erc20_symbol": "GSWAP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13026/thumb/gameswap.jpg?1604456704"
-}

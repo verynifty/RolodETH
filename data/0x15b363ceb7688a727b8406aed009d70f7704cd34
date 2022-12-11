@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "CERE Lockup",
-  "erc20_decimals": 10,
-  "name": "CERE Network Lockup"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Cappasity",
-  "erc20_symbol": "CAPP",
-  "erc20_decimals": 2
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Dropil",
-  "erc20_symbol": "DROP",
-  "erc20_decimals": 18
-}

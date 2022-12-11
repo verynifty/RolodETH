@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Tendies",
-  "erc20_symbol": "TEND",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/11924/thumb/aaaaa.jpg?1596645622"
-}

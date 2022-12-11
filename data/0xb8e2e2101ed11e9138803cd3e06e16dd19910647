@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ArdCoin",
-  "erc20_symbol": "ARDX",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/9432/thumb/ARDC.png?1627466542"
-}

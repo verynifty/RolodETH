@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "1m-core-d",
-  "erc20_decimals": 18,
-  "name": "1m-core"
-}

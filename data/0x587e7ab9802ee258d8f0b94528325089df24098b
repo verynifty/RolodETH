@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "TLC",
-  "erc20_decimals": 18,
-  "name": "Turbo Leisure Club"
-}

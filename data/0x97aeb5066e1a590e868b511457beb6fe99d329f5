@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Atonomi",
-  "erc20_symbol": "ATMI",
-  "erc20_decimals": 18
-}

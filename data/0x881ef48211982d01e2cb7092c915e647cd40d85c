@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "OpenTradingNetwork",
-  "erc20_symbol": "OTN",
-  "erc20_decimals": 18
-}

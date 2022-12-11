@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "wCT1",
-  "erc20_decimals": 2,
-  "name": "Wrapped Car Token 1"
-}

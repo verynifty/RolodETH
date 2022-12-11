@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "LinkCoin",
-  "erc20_symbol": "LKN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6098/thumb/vWhhedXQ.png?1547042094"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "NPER",
-  "erc20_symbol": "NPER",
-  "erc20_decimals": 18
-}

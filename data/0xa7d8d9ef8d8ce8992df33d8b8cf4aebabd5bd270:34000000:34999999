@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Ensō by Matto",
-  "imageUrl": "https://media.artblocks.io/34000000.png",
-  "externalUrl": "https://matto.xyz/project/enso/",
-  "description": "In Zen, ensō is a symbol that represents elegance and enlightenment. It is typically painted by hand in an uninhibited way, allowing for unexpected and beautiful results. Inspired by sumi-e (ink wash painting), this project mimics the practice of painting an ensō in ink by utilizing p5.js. Each generated image uses values from a unique transaction hash to determine paper, brush, ink, the quantity of ink held by each bristle, how quickly the ink flows, and more—all with the goal of creating a simple yet serendipitous painting."
-}

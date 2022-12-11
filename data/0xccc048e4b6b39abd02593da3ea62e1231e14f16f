@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc1155"
-  ],
-  "erc721_symbol": "POP",
-  "name": "Proof of Purchase"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Summoning Ritual by PZS",
-  "imageUrl": "https://media.artblocks.io/236000000.png",
-  "externalUrl": "https://pzs.me/posts/summoning-ritual",
-  "description": "Tens of thousands of particles are traversing the force field, leaving a trail in their path. The sum of their trails reveals the face of the eldritch horror hidden in a token hash. Some look like smoke, some look like tentacle-mouthed elder gods. What do YOU see there?\n\n\"Summoning Ritual\" is an exploration of generating emergent pareidolia-inducing shapes using particles, symmetry, and a set of force fields. 5142 bytes of javascript is just enough to summon visions of ethereal beings.\n\nRequires a WebGL-enabled browser. Renders in real-time. Speed and quality depend heavily on the canvas size (the particle size and count are functions of the canvas size). Keys l(ow),m(edium) and h(igh) switch rendering quality. Keys 1-5 control the rendering speed.\n\nAny similarity to actual deities, living or dead, is purely coincidental."
-}

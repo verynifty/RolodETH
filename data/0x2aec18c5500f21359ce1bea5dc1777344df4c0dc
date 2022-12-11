@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "FarmaTrustToken",
-  "erc20_symbol": "FTT",
-  "erc20_decimals": 18
-}

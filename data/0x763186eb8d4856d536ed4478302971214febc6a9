@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BetterBetting",
-  "erc20_symbol": "BETR",
-  "erc20_decimals": 18
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TravelNote",
-  "erc20_symbol": "TVNT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/7051/thumb/omwKldFY_400x400.jpg?1547043503"
-}

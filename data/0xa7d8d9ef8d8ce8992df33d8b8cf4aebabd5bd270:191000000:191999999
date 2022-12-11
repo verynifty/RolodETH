@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "444(4) by Shvembldr",
-  "imageUrl": "https://media.artblocks.io/191000000.png",
-  "externalUrl": "http://tboa.club/",
-  "description": "**Attention! Extremely Experimental Project!**\n\nThis project is the quintessential generative art. Each instance of this project is an infinite deterministic ratio and resolution agnostic art generator. _Every click = new art_. The main format is a 3x4 poster. But by pressing \"f,\" you can stretch the art to the whole screen (any screen). All elements of this art are rectangles, and the main number of this project is 4. You can use the generated images commercially (read the license).\n  \n**Controls:**\n\n- \"f\" = fullscreen\n- \"s\" = save art\n - \"t\" = 30-sec interval infinite slideshow\n- \"u\" = 3-sec interval slideshow + save (а convenient way to make images for the gallery)\n- \"1 - 9\" = change pixel density.   (Changing the ratio and pixel density resets the art counter to 0)."
-}

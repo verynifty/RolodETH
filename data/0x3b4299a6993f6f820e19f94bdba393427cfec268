@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GIVE",
-  "erc20_decimals": 18,
-  "name": "GiveDirectly Inu"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "VIDToken",
-  "erc20_symbol": "VIDT",
-  "erc20_decimals": 18
-}

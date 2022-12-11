@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "HelloGold",
-  "erc20_symbol": "HGT",
-  "erc20_decimals": 8
-}

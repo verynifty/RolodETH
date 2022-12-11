@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DeFinity",
-  "erc20_symbol": "DEFX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/15875/thumb/definity-listing-logo.png?1622414896"
-}

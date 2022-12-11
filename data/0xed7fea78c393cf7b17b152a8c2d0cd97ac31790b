@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "DUBI",
-  "erc20_symbol": "DUBI",
-  "erc20_decimals": 18
-}

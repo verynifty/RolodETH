@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft",
-    "opensea-verified"
-  ],
-  "name": "Bubamara OCR by Adriana Ramic, 2018",
-  "imageUrl": "https://i.seadn.io/gae/4_KW-u_yLPRjj5VTp5M8braUnN6QGVfOsZEkrHM_0MJ1meqQnAb2V5j62Kw6MIOhWxKSUsY6uHSUqZ6eR3BB0tjg4Y1r9NnPQC7AWw?w=500&auto=format",
-  "description": "A desktop application with achromatopsic computer vision for interpreting images as texts, with ladybugs as alphabetic intermediary\n\n\"Curious what would happen if I could ask a computer to interpret an image as a crude sequence of letters, I wrote a program, BUBAMARA-OCR, that could infer a text based on Latin alphabet from an image using a computer vision algorithm. Ladybirds, chosen for their roles as predictive and fateful messengers, both biologically observed and reimagined by generative adversarial networks, were the intermediary between photo and alphabet — each letter having its own corresponding ladybird. Whatever ladybird — each section of the image looked like most determined the letter that the program would output.\"\n\n[source quote](https://v1.left.gallery/downloads/bubamara-badlands-adriana-ramic.pdf)\n\noffline, interactive, silent, macos and windows"
-}

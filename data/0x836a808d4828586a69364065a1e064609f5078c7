@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "pETH",
-  "erc20_symbol": "PETH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/28376/thumb/peth.png?1669968949"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SphereIdentity",
-  "erc20_symbol": "XID",
-  "erc20_decimals": 8
-}

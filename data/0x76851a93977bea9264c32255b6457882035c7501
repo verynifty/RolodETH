@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Fat Doge",
-  "erc20_symbol": "FOGE",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/15497/thumb/foge.png?1621057848"
-}

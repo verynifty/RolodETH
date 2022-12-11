@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "CNBB",
-  "erc20_decimals": 5,
-  "name": "Celebrations No Bounty Bars"
-}

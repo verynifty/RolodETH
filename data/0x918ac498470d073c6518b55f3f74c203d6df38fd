@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "fFRAX(FPI)-10",
-  "erc20_decimals": 18,
-  "name": "Fraxlend Interest Bearing FRAX (Frax Price Index) - 10"
-}

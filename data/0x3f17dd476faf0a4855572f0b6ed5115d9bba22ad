@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WibsonToken",
-  "erc20_symbol": "WIB",
-  "erc20_decimals": 18
-}

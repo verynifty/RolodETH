@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "BlockportToken",
-  "erc20_symbol": "BPT",
-  "erc20_decimals": 18
-}

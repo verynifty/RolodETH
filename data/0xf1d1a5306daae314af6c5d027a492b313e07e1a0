@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Envoy",
-  "erc20_symbol": "ENV",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/19631/thumb/env.png?1638148461"
-}

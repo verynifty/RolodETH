@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Emphy",
-  "erc20_symbol": "EPY",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PalletOne",
-  "erc20_symbol": "PTN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6669/thumb/palletone.png?1548330460"
-}

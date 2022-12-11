@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CubToken",
-  "erc20_symbol": "CUBT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26197/thumb/photo-2022-04-20-13-35-28.jpg?1656471496"
-}

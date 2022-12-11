@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "YGGDRASH",
-  "erc20_symbol": "YEED",
-  "erc20_decimals": 18
-}

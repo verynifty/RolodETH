@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Crypto Kombat",
-  "erc20_symbol": "KOMBAT",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/15147/thumb/Kombat-token-logo-200.jpg?1619859575"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "ArbitrageCT",
-  "erc20_symbol": "ARCT",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SeChain",
-  "erc20_symbol": "SNN",
-  "erc20_decimals": 3,
-  "imageURL": "https://assets.coingecko.com/coins/images/11961/thumb/2AsGMTeI_400x400.jpg?1596453536"
-}

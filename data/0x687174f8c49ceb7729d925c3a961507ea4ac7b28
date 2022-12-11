@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "GlobalAwardsToken",
-  "erc20_symbol": "GAT",
-  "erc20_decimals": 18
-}

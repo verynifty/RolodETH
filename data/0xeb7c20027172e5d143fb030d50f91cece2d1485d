@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "eBitcoin",
-  "erc20_symbol": "EBTC",
-  "erc20_decimals": 8
-}

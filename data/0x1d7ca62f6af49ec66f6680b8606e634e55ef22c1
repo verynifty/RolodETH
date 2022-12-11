@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Starter xyz",
-  "erc20_symbol": "START",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14301/thumb/logo_poly_sym.png?1624893386"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft",
-    "opensea-verified"
-  ],
-  "name": "PLXQ",
-  "imageUrl": "https://i.seadn.io/gae/d9rJoe5elFi4tUGJakQpaSMubBXRYLMTaVHGbAu0jnpiACBHels8EpODRni9IA0BvcVzjafWY8nB08eoYgt1XeVb?w=500&auto=format",
-  "description": "Official ERC721 contract for generative pixels. All fourteen simulations are unique and based on a random seed, step function, population mask, and color palette."
-}

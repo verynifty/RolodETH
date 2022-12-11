@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "GoldFarm",
-  "erc20_symbol": "GOLD",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16108/thumb/rVUV_photo_2021-06-03_13-37-31.png?1623020895"
-}

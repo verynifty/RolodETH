@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "Webcoin",
-  "erc20_symbol": "WEB",
-  "erc20_decimals": 18
-}

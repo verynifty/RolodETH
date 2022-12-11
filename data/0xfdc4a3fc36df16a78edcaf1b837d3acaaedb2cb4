@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SCIFI Index",
-  "erc20_symbol": "SCIFI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13868/thumb/yaxtD4c.png?1624955109"
-}

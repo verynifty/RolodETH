@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EventChain",
-  "erc20_symbol": "EVC",
-  "erc20_decimals": 18
-}

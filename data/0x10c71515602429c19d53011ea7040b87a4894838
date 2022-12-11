@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Diamond Platform",
-  "erc20_symbol": "DPT",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/8309/thumb/RSCL14XL_400x400.jpg?1557400596"
-}

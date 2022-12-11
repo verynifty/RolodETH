@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "bitcastle",
-  "erc20_symbol": "CASTLE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26551/thumb/blue_logo03.png?1658753049"
-}

@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EnergiToken",
-  "erc20_symbol": "ETK",
-  "erc20_decimals": 2
-}

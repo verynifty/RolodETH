@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Av2-USDC-LP",
-  "erc20_decimals": 6,
-  "name": "Across V2 USD Coin LP Token"
-}

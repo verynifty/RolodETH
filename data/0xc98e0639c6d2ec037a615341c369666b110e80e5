@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "eXMRcoin",
-  "erc20_symbol": "EXMR",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Flash Inu",
-  "erc20_symbol": "FLASH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24037/thumb/logo.png?1646118116"
-}

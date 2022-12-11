@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Really Random Rock by DCA",
-  "imageUrl": "https://plottables-mainnet.s3.amazonaws.com/2000181.png",
-  "externalUrl": "https://gentrilogy.art/rrr/",
-  "description": "A project about nature and algorithm. It's easy to enjoy the randomness of a rock. Inspired by East Asian stone collecting, Really Random Rock brings a collection of 350 unique and unexpected viewing stones that generate from the random output of a hash string. Each rock is fully plottable and derives its form from a closed-loop shape expansion algorithm that makes countless calls to a random function. Through the very nature of randomness, resulting forms may occasionally resemble familiar things such as faces, animals, or landscapes. These results are purely coincidental and are celebrated as chance occurrences ...for this is the very essence of stone viewing and appreciation.\nA plotting guide is available at the website above. ***Render times vary***"
-}

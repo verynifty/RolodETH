@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "veCRV DAO yVault",
-  "erc20_symbol": "YVE-CRVDAO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13065/thumb/yearn_veCRV.png?1612862859"
-}

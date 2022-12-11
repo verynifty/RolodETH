@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "3DOG",
-  "erc20_decimals": 9,
-  "name": "Cerberus"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "WAX",
-  "erc20_symbol": "WAX",
-  "erc20_decimals": 8
-}

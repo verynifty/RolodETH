@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "FME",
-  "erc20_symbol": "FME",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12897/thumb/FME_token.png?1603336122"
-}

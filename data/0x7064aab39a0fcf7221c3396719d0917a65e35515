@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "CPOLLO",
-  "erc20_symbol": "CPLO",
-  "erc20_decimals": 18
-}

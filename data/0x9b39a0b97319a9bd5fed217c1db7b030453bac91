@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TigerCash",
-  "erc20_symbol": "TCH",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/4956/thumb/tigercash-logo.png?1547040378"
-}

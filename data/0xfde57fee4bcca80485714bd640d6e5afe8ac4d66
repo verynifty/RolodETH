@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "StellarInu",
-  "erc20_symbol": "STELLARINU",
-  "erc20_decimals": 9,
-  "imageURL": "https://assets.coingecko.com/coins/images/20615/thumb/Screenshot-2021-11-18-at-20-09-23.png?1637307533"
-}

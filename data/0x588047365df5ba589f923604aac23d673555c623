@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "NaviToken",
-  "erc20_symbol": "NAVI",
-  "erc20_decimals": 18
-}

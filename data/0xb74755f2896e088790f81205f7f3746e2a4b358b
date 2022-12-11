@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "SYBC Coin",
-  "erc20_symbol": "SYBC",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/12901/thumb/sybc.png?1603346599"
-}

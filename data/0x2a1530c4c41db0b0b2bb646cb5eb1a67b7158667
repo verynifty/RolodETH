@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "UniswapDaiStablecoin",
-  "erc20_symbol": "uniDAI",
-  "erc20_decimals": 18
-}

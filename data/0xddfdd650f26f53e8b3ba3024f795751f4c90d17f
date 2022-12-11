@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Twitter2.0",
-  "erc20_decimals": 18,
-  "name": "Twitter2.0"
-}

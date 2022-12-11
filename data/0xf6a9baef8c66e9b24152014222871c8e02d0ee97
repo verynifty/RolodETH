@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "CelsiusX Wrapped BTC",
-  "erc20_symbol": "CXBTC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/25535/thumb/cxBTC.png?1652252129"
-}

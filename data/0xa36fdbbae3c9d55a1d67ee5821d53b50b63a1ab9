@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Tempus",
-  "erc20_symbol": "TEMP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20547/thumb/Tempus_CoinGecko_200x200.png?1657674634"
-}

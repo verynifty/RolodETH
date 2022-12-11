@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "MRS",
-  "erc20_decimals": 18,
-  "name": "MODOO RETURN POINT STABLE COIN"
-}

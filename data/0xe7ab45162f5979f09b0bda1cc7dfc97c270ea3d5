@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Dobermann",
-  "erc20_symbol": "DOBE",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16002/thumb/doberman.PNG?1622593349"
-}

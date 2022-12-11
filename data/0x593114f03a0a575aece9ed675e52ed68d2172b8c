@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "BidiPass",
-  "erc20_symbol": "BDP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3890/thumb/AxiFAoHc_400x400.jpg?1567461770"
-}

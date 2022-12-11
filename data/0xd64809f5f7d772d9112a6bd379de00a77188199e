@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Lyfe Silver",
-  "erc20_symbol": "LSILVER",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14939/thumb/LSILVER-Logo-200.png?1619082811"
-}

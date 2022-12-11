@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Heart Number",
-  "erc20_symbol": "HTN",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/9002/thumb/htn%28200x200%29.png?1600757668"
-}

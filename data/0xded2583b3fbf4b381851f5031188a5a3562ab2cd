@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "IAB",
-  "erc20_symbol": "IAB",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6549/thumb/iabchain.png?1547042763"
-}

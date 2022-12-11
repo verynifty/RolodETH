@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "RISK",
-  "erc20_decimals": 18,
-  "name": "Global Risk Exchange Token"
-}

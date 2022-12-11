@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "aura50rETH-50bb-a-USD-vault",
-  "erc20_decimals": 18,
-  "name": "Balancer 50rETH-50bb-a-USD Aura Deposit Vault"
-}

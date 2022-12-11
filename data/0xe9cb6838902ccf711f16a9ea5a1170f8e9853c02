@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "StripCoin",
-  "erc20_symbol": "STRIP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/20242/thumb/um7swakg.png?1636696116"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "CP3R",
-  "erc20_decimals": 18,
-  "name": "CP3RToken"
-}

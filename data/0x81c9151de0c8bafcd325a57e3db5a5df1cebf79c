@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "DatumToken",
-  "erc20_symbol": "DAT",
-  "erc20_decimals": 18
-}

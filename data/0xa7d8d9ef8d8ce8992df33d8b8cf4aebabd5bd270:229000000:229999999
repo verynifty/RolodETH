@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Attraction by Jos Vromans",
-  "imageUrl": "https://media.artblocks.io/229000000.png",
-  "externalUrl": "https://www.josvromans.com/",
-  "description": "\"Attraction\" is a system that draws single pixels, one by one, according to a set of rules inspired by the 'Chaos Game'.\nAdditionally, trigonometric functions may be used to displace pixels, resulting in wave patterns.\n\nAll unique properties of each artwork are defined by the token's hash. This hash will set all the parameters: the color palette, the positioning of objects and the rules by which pixels are drawn.\n\nBy the nature of this system, several well known patterns from computing and math may appear in the artworks."
-}

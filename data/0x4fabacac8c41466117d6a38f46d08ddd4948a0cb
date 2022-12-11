@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "Av2-DAI-LP",
-  "erc20_decimals": 18,
-  "name": "Across V2 Dai Stablecoin LP Token"
-}

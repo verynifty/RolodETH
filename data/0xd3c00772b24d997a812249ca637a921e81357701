@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WILDToken",
-  "erc20_symbol": "WILD",
-  "erc20_decimals": 18
-}

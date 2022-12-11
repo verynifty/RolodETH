@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "OrionProtocol",
-  "erc20_symbol": "ORN",
-  "erc20_decimals": 8
-}

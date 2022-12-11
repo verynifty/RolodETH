@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "IPI Shorter",
-  "erc20_symbol": "IPISTR",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/27002/thumb/box-1.png?1661329648"
-}

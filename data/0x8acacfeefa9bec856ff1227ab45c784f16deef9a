@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "GBPT",
-  "erc20_decimals": 3,
-  "name": "POUND STERLING TOKEN"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Global Game Coin",
-  "erc20_symbol": "GGC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/10301/thumb/ggcoin_200.png?1577690908"
-}

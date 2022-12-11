@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "EXMO Coin",
-  "erc20_symbol": "EXM",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/9154/thumb/200x200.png?1668998803"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MAX",
-  "erc20_symbol": "MAX",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/6454/thumb/MAX_Token.jpg?1547042651"
-}

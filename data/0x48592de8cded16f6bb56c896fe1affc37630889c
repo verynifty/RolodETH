@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PolkaParty",
-  "erc20_symbol": "POLP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17867/thumb/polp_logo.jpg?1641355239"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "RightMeshToken",
-  "erc20_symbol": "RMESH",
-  "erc20_decimals": 18
-}

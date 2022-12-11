@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "MCAP",
-  "erc20_symbol": "MCAP",
-  "erc20_decimals": 8
-}

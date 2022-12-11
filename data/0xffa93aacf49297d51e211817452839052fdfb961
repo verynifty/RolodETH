@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "DistributedCreditChain",
-  "erc20_symbol": "DCC",
-  "erc20_decimals": 18
-}

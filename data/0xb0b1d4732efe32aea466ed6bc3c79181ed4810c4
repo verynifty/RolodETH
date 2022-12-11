@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "ApeCoinV2.com",
-  "erc20_decimals": 18,
-  "name": "ApeCoinV2.com"
-}

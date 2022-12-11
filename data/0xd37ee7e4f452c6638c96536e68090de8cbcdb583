@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Aave GUSD",
-  "erc20_symbol": "AGUSD",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/17246/thumb/aGUSD_2x.png?1626942603"
-}

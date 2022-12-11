@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "bridge",
-    "contract",
-    "proxy"
-  ],
-  "name": "Polygon (Matic): Ether Bridge",
-  "proxy": "0x54006763154c764da4af42a8c3cfc25ea29765d5"
-}

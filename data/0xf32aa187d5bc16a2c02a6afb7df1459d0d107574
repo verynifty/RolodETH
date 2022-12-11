@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "HachikoInu",
-  "erc20_symbol": "INU",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16392/thumb/hachikoinu-200px.png?1626355242"
-}

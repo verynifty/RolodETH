@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DGPayment",
-  "erc20_symbol": "DGP",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13291/thumb/dgpay-icon-logo.png?1607062736"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "WOLK",
-  "erc20_symbol": "WOLK",
-  "erc20_decimals": 18
-}

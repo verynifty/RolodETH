@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "DigitexFutures",
-  "erc20_symbol": "DGTX",
-  "erc20_decimals": 18
-}

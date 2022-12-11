@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "name": "MITH Cash: MIS Token",
-  "erc20_symbol": "MIS",
-  "erc20_decimals": 18
-}

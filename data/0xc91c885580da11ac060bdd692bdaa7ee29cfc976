@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "ZKasino",
-  "erc20_symbol": "ZKAS",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/26649/thumb/zkasino.jpeg?1659405528"
-}

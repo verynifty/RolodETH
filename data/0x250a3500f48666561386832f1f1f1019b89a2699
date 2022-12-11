@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "SAFE2",
-  "erc20_decimals": 18,
-  "name": "SAFE2"
-}

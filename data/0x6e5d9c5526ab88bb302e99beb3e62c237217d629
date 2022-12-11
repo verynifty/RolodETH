@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "CTB1",
-  "erc20_decimals": 18,
-  "name": "US Treasury Bill"
-}

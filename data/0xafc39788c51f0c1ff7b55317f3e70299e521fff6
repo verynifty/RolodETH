@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "eBCH",
-  "erc20_symbol": "eBCH",
-  "erc20_decimals": 8
-}

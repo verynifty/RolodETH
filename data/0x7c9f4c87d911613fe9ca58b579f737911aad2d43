@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "wormhole",
-    "contract",
-    "proxy"
-  ],
-  "name": "Wormhole: WMATIC Token",
-  "proxy": "0x0fd04a68d3c3a692d6fa30384d1a87ef93554ee6"
-}

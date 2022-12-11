@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "TecraCoin ERC20",
-  "erc20_symbol": "TCR",
-  "erc20_decimals": 8,
-  "imageURL": "https://assets.coingecko.com/coins/images/7836/thumb/tcr.jpg?1604903462"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "WasabiX",
-  "erc20_symbol": "WASABI",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/14522/thumb/WASABI.299ec8f7.png?1616721315"
-}

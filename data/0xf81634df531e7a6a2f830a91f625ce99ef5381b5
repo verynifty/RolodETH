@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "TRUTH",
-  "erc20_decimals": 9,
-  "name": "Casualty"
-}

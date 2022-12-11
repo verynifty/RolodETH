@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Danat Coin",
-  "erc20_symbol": "DNC",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13170/thumb/1528717728file.png?1605855085"
-}

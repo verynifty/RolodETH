@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Chronobank",
-  "erc20_symbol": "TIME",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Teaswap Art",
-  "erc20_symbol": "TSA",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/17826/thumb/tsa.PNG?1629358290"
-}

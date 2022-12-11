@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "DynamicTradingRights",
-  "erc20_symbol": "DTR",
-  "erc20_decimals": 8
-}

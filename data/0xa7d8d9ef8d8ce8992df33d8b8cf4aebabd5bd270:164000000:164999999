@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "nft"
-  ],
-  "name": "Phototaxis by Casey REAS",
-  "imageUrl": "https://media.artblocks.io/164000000.png",
-  "externalUrl": "https://reas.com",
-  "description": "“Phototaxis” is a simulated environment populated by simple machines. After Valentino Braitenberg’s 1984 book “Vehicles,” there are four kinds of machines with different wiring and behaviors: Explorers, Aggressors, Lovers, and Cowards. Each line charts the history of one machine’s movement. The core of this code was the foundation for my MicroImage series of works dating back to 2001. I’ve worked on it in fits and starts since then, and in 2021 it was further developed for Art Blocks. Press ‘P’ to play/pause, ‘B’ for the big bang, ‘1’–’5’ to change the magnification, and ‘L’ to reveal the lights’ locations."
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Beshare",
-  "erc20_symbol": "BST",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/16870/thumb/BST_symbol_transparent_background_200.png?1625476744"
-}

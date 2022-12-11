@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Aelysir",
-  "erc20_symbol": "AEL",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/12955/thumb/ael_logo.png?1603794538"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "fFRAX(sfrxETH)-9",
-  "erc20_decimals": 18,
-  "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 9"
-}

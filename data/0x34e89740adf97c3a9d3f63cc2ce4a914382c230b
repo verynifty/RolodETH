@@ -1,8 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "UniswapCompoundDai",
-  "erc20_symbol": "unicDAI",
-  "erc20_decimals": 18
-}

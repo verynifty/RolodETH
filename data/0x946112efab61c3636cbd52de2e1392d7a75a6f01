@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "Hydro",
-  "erc20_symbol": "HYDRO",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/3678/thumb/New_Hydro_logo.png?1625473878"
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "PeerGuess",
-  "erc20_symbol": "GUESS",
-  "erc20_decimals": 2,
-  "imageURL": "https://assets.coingecko.com/coins/images/1743/thumb/guess.png?1547036022"
-}

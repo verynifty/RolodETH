@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "HBZcoin",
-  "erc20_symbol": "HBZ",
-  "erc20_decimals": 18
-}

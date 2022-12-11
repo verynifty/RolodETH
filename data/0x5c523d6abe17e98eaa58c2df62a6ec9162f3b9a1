@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "BCT",
-  "erc20_decimals": 18,
-  "name": "Blockchain Token 2.0"
-}

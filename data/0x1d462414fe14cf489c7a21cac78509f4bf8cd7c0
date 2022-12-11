@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "CanYaCoin",
-  "erc20_symbol": "CAN",
-  "erc20_decimals": 6
-}

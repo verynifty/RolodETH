@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "trusttoken",
-    "erc20"
-  ],
-  "name": "TrueCAD",
-  "erc20_symbol": "TCAD",
-  "erc20_decimals": 18
-}

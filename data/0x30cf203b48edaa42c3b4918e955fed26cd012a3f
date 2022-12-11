@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "MetaGame",
-  "erc20_symbol": "SEED",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/13099/thumb/V8phEz8V.png?1612854078"
-}

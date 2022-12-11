@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "old-contract",
-    "erc20"
-  ],
-  "name": "SWAPCOINZ",
-  "erc20_symbol": "SPAZ",
-  "erc20_decimals": 8
-}

@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20"
-  ],
-  "name": "USD ZEE",
-  "erc20_symbol": "USDZ",
-  "erc20_decimals": 18,
-  "imageURL": "https://assets.coingecko.com/coins/images/24876/thumb/003.png?1649217016"
-}

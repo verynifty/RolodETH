@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "erc20",
-    "contract"
-  ],
-  "name": "Uniswap V2 - ALBT/WETH",
-  "erc20_symbol": "UNI-V2",
-  "erc20_decimals": 18
-}

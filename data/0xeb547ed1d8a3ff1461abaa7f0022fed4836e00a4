@@ -1,9 +1,0 @@
-{
-  "tags": [
-    "contract",
-    "erc20"
-  ],
-  "erc20_symbol": "COIN",
-  "erc20_decimals": 18,
-  "name": "Coinvest COIN V3 Token"
-}
