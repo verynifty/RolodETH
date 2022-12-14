@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const port = 6969;
 
+var cors = require('cors')
+app.use(cors())
+
 const fs = require('fs');
 
 app.get('/address/:address', (req, res) => {
