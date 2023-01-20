@@ -16,7 +16,7 @@ Data are sourced from a variety of providers listed here:
 
 # Usage
 
-You can use sources adapters to create your own RolodETH database. The open public repository is located [here](https://github.com/verynifty/RolodETH/tree/main/data). You can host your own API by cloning the repo or use direct Github access:
+You can use sources adapters to create your own RolodETH database. You can host your own API by cloning the repo or use our hosted service:
 ```
 https://rolodeth.ethcmd.com/address/[ADDRESS IN LOWERCASE]
 ```
